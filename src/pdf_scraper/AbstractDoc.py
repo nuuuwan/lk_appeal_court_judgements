@@ -57,6 +57,11 @@ class AbstractDoc(ABC):
         return self.date_str[:4]
 
     @cached_property
+    def year_and_month(self) -> str:
+        assert len(self.date_str) == 10
+        return self.date_str[:7]
+
+    @cached_property
     def dir_doc(self) -> str:
         return os.path.join(
             self.get_dir_docs_root(), self.decade, self.year, self.doc_id
@@ -97,3 +102,20 @@ class AbstractDoc(ABC):
         ]
         doc_list.sort(key=lambda doc: (doc.doc_id), reverse=True)
         return doc_list
+
+    @classmethod
+    def year_to_month_to_doc_list(
+        cls,
+    ) -> dict[str, dict[str, list["AbstractDoc"]]]:
+        idx = {}
+        for doc in cls.list_all():
+            year = doc.year
+            year_and_month = doc.year_and_month
+
+            if year not in idx:
+                idx[year] = {}
+            if year_and_month not in idx[year]:
+                idx[year][year_and_month] = []
+
+            idx[year][year_and_month].append(doc)
+        return idx
