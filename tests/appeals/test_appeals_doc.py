@@ -12,9 +12,6 @@ class TestCase(unittest.TestCase):
         if doc_list:
             self.assertGreater(len(doc_list), 10)
             first_doc = doc_list[-1]
-            print(
-                asdict(first_doc),
-            )
             self.assertEqual(
                 asdict(first_doc),
                 {
