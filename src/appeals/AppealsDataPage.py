@@ -1,3 +1,4 @@
+import re
 from functools import cached_property
 from typing import Generator
 
@@ -15,6 +16,12 @@ class AppealsDataPage(AbstractDataPage):
         super().__init__(url)
         self.year = year
         self.month_str = month_str
+
+    @staticmethod
+    def clean_text(x):
+        x = re.sub(r"\s+", " ", x)
+        x = x.strip()
+        return x
 
     @cached_property
     def month(self):
@@ -35,13 +42,14 @@ class AppealsDataPage(AbstractDataPage):
 
     def __parse_tr__(self, tr) -> AppealsDoc:
         tds = tr.find_all("td")
+        text_list = [self.clean_text(td.get_text()) for td in tds]
 
-        num = tds[1].get_text().strip()
+        num = text_list[1]
         if not num:
             log.warning(f"Skipping row with empty num: {tr}")
             return None
 
-        date_str = tds[0].get_text().strip()
+        date_str = text_list[0]
         assert len(date_str) == 10 or date_str == "N/A"
 
         if date_str == "N/A":
@@ -50,10 +58,10 @@ class AppealsDataPage(AbstractDataPage):
         url_pdf = tds[6].find("a")["href"]
         assert url_pdf.endswith(".pdf")
 
-        parties = tds[2].get_text().strip()
-        judgement_by = tds[3].get_text().strip()
-        keywords = tds[4].get_text().strip()
-        legistation = tds[5].get_text().strip()
+        parties = text_list[2]
+        judgement_by = text_list[3]
+        keywords = text_list[4]
+        legistation = text_list[5]
 
         description = f"{parties} before {judgement_by}"
 
