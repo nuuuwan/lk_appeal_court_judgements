@@ -4,7 +4,7 @@ import pathlib
 import re
 from abc import ABC
 from dataclasses import asdict, dataclass
-from functools import cached_property
+from functools import cache, cached_property
 
 from utils import Hash, JSONFile, Log
 
@@ -18,7 +18,22 @@ class AbstractDoc(ABC):
     description: str
     url_pdf: str
 
-    DIR_DOCS_ROOT = os.path.join("data", "docs")
+    @classmethod
+    @cache
+    def doc_class_label(cls) -> str:
+        class_name = cls.__name__
+        assert class_name.endswith("Doc")
+        return class_name[:-3].lower()
+
+    @classmethod
+    @cache
+    def get_dir_docs_root(cls) -> str:
+        return os.path.abspath(
+            os.path.join(
+                "data",
+                cls.doc_class_label(),
+            )
+        )
 
     @cached_property
     def num_short(self):
@@ -46,7 +61,7 @@ class AbstractDoc(ABC):
     @cached_property
     def dir_doc(self) -> str:
         return os.path.join(
-            self.DIR_DOCS_ROOT, self.decade, self.year, self.doc_id
+            self.get_dir_docs_root(), self.decade, self.year, self.doc_id
         )
 
     @cached_property
@@ -64,7 +79,9 @@ class AbstractDoc(ABC):
     def get_all_json_paths(cls) -> list[str]:
         return [
             str(json_path)
-            for json_path in pathlib.Path(cls.DIR_DOCS_ROOT).rglob("doc.json")
+            for json_path in pathlib.Path(cls.get_dir_docs_root()).rglob(
+                "doc.json"
+            )
         ]
 
     @classmethod
