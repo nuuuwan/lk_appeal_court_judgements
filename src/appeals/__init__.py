@@ -4,4 +4,5 @@
 from appeals.AppealsDataPage import AppealsDataPage
 from appeals.AppealsDoc import AppealsDoc
 from appeals.AppealsHomePage import AppealsHomePage
+from appeals.AppealsOldDataPage import AppealsOldDataPage
 from appeals.AppealsPipeline import AppealsPipeline

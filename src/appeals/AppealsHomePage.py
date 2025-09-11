@@ -64,7 +64,9 @@ class AppealsHomePage(AbstractHomePage):
             ul_older_judgements = li_year_or_older_judgements.find(
                 "ul", class_="sub-menu", recursive=False
             )
-            for li_year in ul_older_judgements.find_all("li", recursive=False):
+            for li_year in ul_older_judgements.find_all(
+                "li", recursive=False
+            ):
                 year = li_year.find("a").text.strip()
                 log.debug(f"{year=}")
                 ul_year = li_year.find(
