@@ -31,9 +31,9 @@ class Pipeline:
                 doc.write()
                 docs.append(doc)
                 dt = time.time() - t_start
-                if dt > max_dt:
-                    Pipeline.log_processed_doc(docs, dt)
-                    log.info(f"🛑 Stopping. {dt:,.1f}s > {max_dt:,}s")
-                    return
+            if dt > max_dt:
+                Pipeline.log_processed_doc(docs, dt)
+                log.info(f"🛑 Stopping. {dt:,.1f}s > {max_dt:,}s")
+                return
         Pipeline.log_processed_doc(docs, dt)
         log.info("🛑 All docs processed.")
