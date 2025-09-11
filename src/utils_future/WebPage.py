@@ -17,15 +17,14 @@ class WebPage:
         return f"🌐 {self.url}"
 
     @cached_property
-    def html(self):
+    def content(self):
         log.debug(f"[{self}] Openning...")
-        response = requests.get(self.url, timeout=self.TIMEOUT)
+        response = requests.get(self.url, timeout=self.TIMEOUT, verify=False)
         response.raise_for_status()
         content = response.text
-        n_content = len(content)
-        log.debug(f"[{self}] Opened. {n_content:,}B")
+        log.debug(f"[{self}] Opened. {len(content):,}B")
         return content
 
     @cached_property
     def soup(self):
-        return BeautifulSoup(self.html, "html.parser")
+        return BeautifulSoup(self.content, "html.parser")

@@ -1,4 +1,5 @@
 import os
+import re
 from abc import ABC
 from dataclasses import asdict, dataclass
 from functools import cached_property
@@ -16,6 +17,12 @@ class AbstractDoc(ABC):
     url_pdf: str
 
     @cached_property
+    def doc_id(self):
+        doc_id = f"{self.date_str}-{self.num}"
+        doc_id = re.sub(r"[^a-zA-Z0-9\-]", "-", doc_id)
+        return doc_id
+
+    @cached_property
     def decade(self) -> str:
         assert len(self.date_str) == 10
         return self.date_str[:3] + "0s"
@@ -27,7 +34,9 @@ class AbstractDoc(ABC):
 
     @cached_property
     def dir_doc(self) -> str:
-        return os.path.join("data", "docs", self.decade, self.year, self.num)
+        return os.path.join(
+            "data", "docs", self.decade, self.year, self.doc_id
+        )
 
     @cached_property
     def json_path(self) -> str:
@@ -35,5 +44,7 @@ class AbstractDoc(ABC):
         return os.path.join(self.dir_doc, "doc.json")
 
     def write(self):
-        JSONFile(self.json_path).write(asdict(self))
+        JSONFile(self.json_path).write(
+            dict(doc_id=self.doc_id) | asdict(self)
+        )
         log.info(f"Wrote {self.json_path}")
