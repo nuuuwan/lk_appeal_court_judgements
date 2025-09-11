@@ -13,7 +13,12 @@ class ReadMe:
     def lines_for_docs(self):
         doc_list = self.doc_class.list_all()
         lines = []
+        prev_year = None
         for doc in doc_list:
+            year = doc.year
+            if year != prev_year:
+                lines.extend([f"## {year}", ""])
+                prev_year = year
             line = f"- {
                 doc.date_str} | {
                 doc.num} | {
