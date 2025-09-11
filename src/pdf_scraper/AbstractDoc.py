@@ -1,4 +1,6 @@
+import inspect
 import os
+import pathlib
 import re
 from abc import ABC
 from dataclasses import asdict, dataclass
@@ -15,6 +17,8 @@ class AbstractDoc(ABC):
     date_str: str
     description: str
     url_pdf: str
+
+    DIR_DOCS_ROOT = os.path.join("data", "docs")
 
     @cached_property
     def num_short(self):
@@ -42,7 +46,7 @@ class AbstractDoc(ABC):
     @cached_property
     def dir_doc(self) -> str:
         return os.path.join(
-            "data", "docs", self.decade, self.year, self.doc_id
+            self.DIR_DOCS_ROOT, self.decade, self.year, self.doc_id
         )
 
     @cached_property
@@ -55,3 +59,24 @@ class AbstractDoc(ABC):
             dict(doc_id=self.doc_id) | asdict(self)
         )
         log.info(f"Wrote {self.json_path}")
+
+    @classmethod
+    def get_all_json_paths(cls) -> list[str]:
+        return [
+            str(json_path)
+            for json_path in pathlib.Path(cls.DIR_DOCS_ROOT).rglob("doc.json")
+        ]
+
+    @classmethod
+    def from_file(cls, json_path: str):
+        data = JSONFile(json_path).read()
+        sig = inspect.signature(cls.__init__)
+        valid_keys = set(sig.parameters) - {"self"}
+        filtered_data = {k: v for k, v in data.items() if k in valid_keys}
+        return cls(**filtered_data)
+
+    @classmethod
+    def list_all(cls):
+        return [
+            cls.from_file(json_path) for json_path in cls.get_all_json_paths()
+        ]
