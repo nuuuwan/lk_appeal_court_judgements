@@ -2,5 +2,6 @@
 # flake8: noqa: F408
 
 from appeals.AppealsDataPage import AppealsDataPage
+from appeals.AppealsDoc import AppealsDoc
 from appeals.AppealsHomePage import AppealsHomePage
 from appeals.AppealsPipeline import AppealsPipeline

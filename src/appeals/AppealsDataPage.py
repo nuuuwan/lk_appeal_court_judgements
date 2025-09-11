@@ -1,5 +1,10 @@
+from typing import Generator
+
+from appeals.AppealsDoc import AppealsDoc
 from pdf_scraper import AbstractDataPage
 
 
 class AppealsDataPage(AbstractDataPage):
-    pass
+
+    def gen_docs(self) -> Generator[AppealsDoc]:
+        return []

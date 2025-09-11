@@ -2,6 +2,9 @@ from functools import cached_property
 
 import requests
 from bs4 import BeautifulSoup
+from utils import Log
+
+log = Log("WebPage")
 
 
 class WebPage:
@@ -15,9 +18,13 @@ class WebPage:
 
     @cached_property
     def html(self):
+        log.debug(f"[{self}] Openning...")
         response = requests.get(self.url, timeout=self.TIMEOUT)
         response.raise_for_status()
-        return response.text
+        content = response.text
+        n_content = len(content)
+        log.debug(f"[{self}] Opened. {n_content:,}B")
+        return content
 
     @cached_property
     def soup(self):
