@@ -55,11 +55,13 @@ class AppealsDataPage(AbstractDataPage):
         keywords = tds[4].get_text().strip()
         legistation = tds[5].get_text().strip()
 
+        description = f"{parties} before {judgement_by}"
+
         return AppealsDoc(
             # from AbstractDoc
             num=num,
             date_str=date_str,
-            description="",
+            description=description,
             url_pdf=url_pdf,
             # specific
             parties=parties,
