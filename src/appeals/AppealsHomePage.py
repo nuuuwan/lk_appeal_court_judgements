@@ -10,7 +10,7 @@ log = Log("AppealsHomePage")
 
 class AppealsHomePage(AbstractHomePage):
     def __init__(self):
-        super().__init__("https://courtofappeal.lk/")
+        super().__init__("https://courtofappeal.lk")
 
     def get_judgements_menu_item(self):
         menu_items = self.soup.find_all(
