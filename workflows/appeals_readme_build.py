@@ -1,6 +1,6 @@
-from appeals import AppealsDoc
+from appeals import AppealsDoc, AppealsHomePage
 from pdf_scraper import ReadMe
 
 if __name__ == "__main__":
-    readme = ReadMe(AppealsDoc)
+    readme = ReadMe(AppealsHomePage, AppealsDoc)
     readme.build()

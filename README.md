@@ -1,6 +1,6 @@
 # ⚖️ Judgements of the Court of Appeal of 🇱🇰 Sri Lanka
 
-**2,582** documents downloaded from [https://courtofappeal.lk](https://courtofappeal.lk).
+**2582** documents from **2021-01-26** to **2025-09-10** downloaded from [https://courtofappeal.lk](https://courtofappeal.lk).
 
 ## 2025
 

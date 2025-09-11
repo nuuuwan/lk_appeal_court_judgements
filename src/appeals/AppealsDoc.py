@@ -15,11 +15,3 @@ class AppealsDoc(AbstractDoc):
     @cache
     def doc_class_pretty_label(cls) -> str:
         return "⚖️ Judgements of the Court of Appeal of 🇱🇰 Sri Lanka"
-
-    @classmethod
-    @cache
-    def doc_class_description(cls) -> str:
-        return (
-            "documents downloaded from"
-            + " [https://courtofappeal.lk](https://courtofappeal.lk)."
-        )

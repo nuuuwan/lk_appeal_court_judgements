@@ -6,7 +6,8 @@ log = Log("ReadMe")
 class ReadMe:
     PATH = "README.md"
 
-    def __init__(self, doc_class):
+    def __init__(self, home_page_class, doc_class):
+        self.home_page_class = home_page_class
         self.doc_class = doc_class
 
     @property
@@ -36,15 +37,32 @@ class ReadMe:
         return lines
 
     @property
-    def lines(self) -> list[str]:
+    def lines_for_summary(self) -> list[str]:
         doc_list = self.doc_class.list_all()
         n_docs = len(doc_list)
+        date_strs = [doc.date_str for doc in doc_list]
+        date_str_min = min(date_strs)
+        date_str_max = max(date_strs)
+        url = self.home_page_class().url
         return [
-            f"# {self.doc_class.doc_class_pretty_label()}",
+            f"**{n_docs}** documents"
+            + f" from **{date_str_min}** to **{date_str_max}**"
+            + " downloaded from"
+            + f" [{url}]({url}).",
             "",
-            f"**{n_docs:,}** {self.doc_class.doc_class_description()}",
-            "",
-        ] + self.lines_for_docs
+        ]
+
+    @property
+    def lines_for_header(self) -> list[str]:
+        return [f"# {self.doc_class.doc_class_pretty_label()}", ""]
+
+    @property
+    def lines(self) -> list[str]:
+        return (
+            self.lines_for_header
+            + self.lines_for_summary
+            + self.lines_for_docs
+        )
 
     def build(self):
         File(self.PATH).write("\n".join(self.lines))
