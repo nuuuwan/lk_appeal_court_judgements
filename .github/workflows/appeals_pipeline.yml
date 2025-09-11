@@ -14,7 +14,7 @@ jobs:
   appeals_pipeline:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/nuuuwan/pdf-scraper:latest
+      image: ghcr.io/nuuuwan/pdf-scraper-image:latest
 
     steps:
       - name: "⬇️ Checkout lk_judiciary_appeals_court"
