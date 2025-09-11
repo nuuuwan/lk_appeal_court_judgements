@@ -1,6 +1,7 @@
 import re
 from functools import cached_property
 from typing import Generator
+from urllib.parse import quote
 
 from utils import Log
 
@@ -57,6 +58,9 @@ class AppealsDataPage(AbstractDataPage):
 
         url_pdf = tds[6].find("a")["href"]
         assert url_pdf.endswith(".pdf")
+        if not url_pdf.startswith("http"):
+            url_pdf = "https://courtofappeal.lk" + url_pdf
+        url_pdf = quote(url_pdf, safe=":/?&=%")
 
         parties = text_list[2]
         judgement_by = text_list[3]
