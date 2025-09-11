@@ -5,6 +5,7 @@ from urllib.parse import quote
 from utils import Log
 
 from appeals.AppealsDataPage import AppealsDataPage
+from appeals.AppealsOldDataPage import AppealsOldDataPage
 from pdf_scraper import AbstractHomePage
 
 log = Log("AppealsHomePage")
@@ -51,7 +52,37 @@ class AppealsHomePage(AbstractHomePage):
                 yield AppealsDataPage(url, year, month_str)
 
     def gen_data_pages_old(self) -> Generator[AppealsDataPage, None, None]:
-        return
+        judgements_menu_item = self.get_judgements_menu_item()
+        ul = judgements_menu_item.find(
+            "ul", class_="sub-menu", recursive=False
+        )
+
+        for li_year_or_older_judgements in ul.find_all("li", recursive=False):
+            text = li_year_or_older_judgements.find("a").text.strip()
+            if text != "Older Judgments":
+                continue
+            ul_older_judgements = li_year_or_older_judgements.find(
+                "ul", class_="sub-menu", recursive=False
+            )
+            for li_year in ul_older_judgements.find_all("li", recursive=False):
+                year = li_year.find("a").text.strip()
+                log.debug(f"{year=}")
+                ul_year = li_year.find(
+                    "ul", class_="sub-menu", recursive=False
+                )
+                if not ul_year:
+                    continue
+                for li_month in ul_year.find_all("li", recursive=False):
+                    a_month = li_month.find("a")
+                    month_str = a_month.text.strip()
+                    log.debug(f"{year=}, {month_str=}")
+                    url = a_month["href"]
+                    if url == "#":
+                        continue
+                    if not url.startswith("http"):
+                        url = self.url + quote(url)
+                    url = quote(url, safe=":/?&=%")
+                    yield AppealsOldDataPage(url, year, month_str)
 
     def gen_data_pages(self) -> Generator[AppealsDataPage, None, None]:
         # HACK Temp Disable New

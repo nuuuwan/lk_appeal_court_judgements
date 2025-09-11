@@ -41,6 +41,12 @@ class AppealsDataPage(AbstractDataPage):
             "December": "12",
         }[self.month_str]
 
+    def __parse_url__(self, url_pdf: str) -> str:
+        if not url_pdf.startswith("http"):
+            url_pdf = "https://courtofappeal.lk" + url_pdf
+        url_pdf = quote(url_pdf, safe=":/?&=%")
+        return url_pdf
+
     def __parse_tr__(self, tr) -> AppealsDoc:
         tds = tr.find_all("td")
         text_list = [self.clean_text(td.get_text()) for td in tds]
@@ -56,11 +62,7 @@ class AppealsDataPage(AbstractDataPage):
         if date_str == "N/A":
             date_str = f"{self.year}-{self.month}-NA"
 
-        url_pdf = tds[6].find("a")["href"]
-        assert url_pdf.endswith(".pdf")
-        if not url_pdf.startswith("http"):
-            url_pdf = "https://courtofappeal.lk" + url_pdf
-        url_pdf = quote(url_pdf, safe=":/?&=%")
+        url_pdf = self.__parse_url__(tds[6].find("a")["href"])
 
         parties = text_list[2]
         judgement_by = text_list[3]
