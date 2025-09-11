@@ -4,7 +4,7 @@ from abc import ABC
 from dataclasses import asdict, dataclass
 from functools import cached_property
 
-from utils import JSONFile, Log
+from utils import Hash, JSONFile, Log
 
 log = Log("AbstractDoc")
 
@@ -17,8 +17,15 @@ class AbstractDoc(ABC):
     url_pdf: str
 
     @cached_property
+    def num_short(self):
+        if len(self.num) < 32:
+            return self.num
+        h = Hash.md5(self.num)
+        return f"{self.num[:23]}-{h}[:8]"
+
+    @cached_property
     def doc_id(self):
-        doc_id = f"{self.date_str}-{self.num}"
+        doc_id = f"{self.date_str}-{self.num_short}"
         doc_id = re.sub(r"[^a-zA-Z0-9\-]", "-", doc_id)
         return doc_id
 
@@ -44,7 +51,5 @@ class AbstractDoc(ABC):
         return os.path.join(self.dir_doc, "doc.json")
 
     def write(self):
-        JSONFile(self.json_path).write(
-            dict(doc_id=self.doc_id) | asdict(self)
-        )
+        JSONFile(self.json_path).write(dict(doc_id=self.doc_id) | asdict(self))
         log.info(f"Wrote {self.json_path}")
