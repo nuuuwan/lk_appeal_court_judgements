@@ -1,10 +1,11 @@
-from abc import ABC, abstractmethod
+from abc import ABC, Generator, abstractmethod
 
+from pdf_scraper.AbstractDoc import AbstractDoc
 from utils_future import WebPage
 
 
 class AbstractDataPage(WebPage, ABC):
 
     @abstractmethod
-    def get_docs(self) -> list[str]:
+    def gen_docs(self) -> Generator[AbstractDoc]:
         pass

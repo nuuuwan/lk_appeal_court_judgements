@@ -2,4 +2,5 @@ from pdf_scraper import AbstractHomePage
 
 
 class AppealsHomePage(AbstractHomePage):
-    pass
+    def gen_data_pages(self):
+        pass
