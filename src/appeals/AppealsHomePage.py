@@ -26,7 +26,7 @@ class AppealsHomePage(AbstractHomePage):
 
         raise ValueError("Could not find Judgements menu item")
 
-    def gen_data_pages(self) -> Generator[AppealsDataPage]:
+    def gen_data_pages(self) -> Generator[AppealsDataPage, None, None]:
         judgements_menu_item = self.get_judgements_menu_item()
         ul = judgements_menu_item.find(
             "ul", class_="sub-menu", recursive=False

@@ -78,7 +78,7 @@ class AppealsDataPage(AbstractDataPage):
             legistation=legistation,
         )
 
-    def gen_docs(self) -> Generator[AppealsDoc]:
+    def gen_docs(self) -> Generator[AppealsDoc, None, None]:
         table = self.soup.find("table")
         if not table:
             return

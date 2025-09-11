@@ -8,5 +8,5 @@ from utils_future import WebPage
 class AbstractDataPage(WebPage, ABC):
 
     @abstractmethod
-    def gen_docs(self) -> Generator[AbstractDoc]:
+    def gen_docs(self) -> Generator[AbstractDoc, None, None]:
         pass
