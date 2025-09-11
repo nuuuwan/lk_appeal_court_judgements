@@ -1,4 +1,5 @@
 from typing import Generator
+from urllib.parse import quote
 
 from utils import Log
 
@@ -40,7 +41,10 @@ class AppealsHomePage(AbstractHomePage):
                 a_month = li_month.find("a")
                 month_str = a_month.text.strip()
                 log.debug(f"{year=}, {month_str=}")
-                url = self.url + a_month["href"]
+                url = a_month["href"]
                 if url == "#":
                     continue
+                if not url.startswith("http"):
+                    url = self.base_url + quote(url)
+                url = quote(url, safe=":/?&=%")
                 yield AppealsDataPage(url, year, month_str)
