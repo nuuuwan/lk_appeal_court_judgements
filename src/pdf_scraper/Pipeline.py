@@ -17,7 +17,7 @@ class Pipeline:
     @staticmethod
     def log_processed_doc(docs, dt):
         n_docs = len(docs)
-        log.info(f"🛑 Processed {n_docs} docs in {dt:,.1f}s")
+        log.info(f"🛑 Processed {n_docs:,} docs in {dt:,.1f}s")
 
     def run(self, max_dt: int = None):
         max_dt = max_dt or Pipeline.DEFAULT.MAX_DT
