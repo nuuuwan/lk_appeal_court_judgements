@@ -1,8 +1,12 @@
 from functools import cached_property
 from typing import Generator
 
+from utils import Log
+
 from appeals.AppealsDoc import AppealsDoc
 from pdf_scraper import AbstractDataPage
+
+log = Log("AppealsDataPage")
 
 
 class AppealsDataPage(AbstractDataPage):
@@ -33,6 +37,9 @@ class AppealsDataPage(AbstractDataPage):
         tds = tr.find_all("td")
 
         num = tds[1].get_text().strip()
+        if not num:
+            log.warning(f"Skipping row with empty num: {tr}")
+            return None
 
         date_str = tds[0].get_text().strip()
         assert len(date_str) == 10 or date_str == "N/A"
@@ -62,7 +69,11 @@ class AppealsDataPage(AbstractDataPage):
         )
 
     def gen_docs(self) -> Generator[AppealsDoc]:
-        tbody = self.soup.find("table").find("tbody")
+        table = self.soup.find("table")
+        if not table:
+            return
+        tbody = table.find("tbody")
         for tr in tbody.find_all("tr"):
             doc = self.__parse_tr__(tr)
-            yield doc
+            if doc:
+                yield doc
