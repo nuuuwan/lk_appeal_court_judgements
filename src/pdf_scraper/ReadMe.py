@@ -11,25 +11,28 @@ class ReadMe:
 
     @property
     def lines_for_docs(self):
-        doc_list = self.doc_class.list_all()
         lines = []
-        prev_year = None
-        for doc in doc_list:
-            year = doc.year
-            if year != prev_year:
-                lines.extend([f"## {year}", ""])
-                prev_year = year
 
-            line = "- " + " | ".join(
-                [
-                    doc.date_str,
-                    f"`{doc.num}`",
-                    doc.description,
-                    f"[metadata]({doc.json_path})",
-                    f"[pdf]({doc.url_pdf})",
-                ]
-            )
-            lines.append(line)
+        for (
+            year,
+            doc_list_for_year,
+        ) in self.doc_class.year_to_month_to_doc_list().items():
+            lines.extend([f"## {year}", ""])
+            for year_month, doc_list_for_month in doc_list_for_year.items():
+                lines.extend([f"### {year_month}", ""])
+                for doc in doc_list_for_month:
+                    line = "- " + " | ".join(
+                        [
+                            doc.date_str,
+                            f"`{doc.num}`",
+                            doc.description,
+                            f"[metadata]({doc.json_path})",
+                            f"[pdf]({doc.url_pdf})",
+                        ]
+                    )
+                    lines.append(line)
+                lines.append("")
+
         return lines
 
     @property
