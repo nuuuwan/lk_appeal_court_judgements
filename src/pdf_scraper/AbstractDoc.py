@@ -94,6 +94,8 @@ class AbstractDoc(ABC):
 
     @classmethod
     def list_all(cls):
-        return [
+        doc_list = [
             cls.from_file(json_path) for json_path in cls.get_all_json_paths()
         ]
+        doc_list.sort(key=lambda doc: (doc.doc_id), reverse=True)
+        return doc_list
