@@ -14,7 +14,7 @@ class Pipeline:
     def __init__(self, home_page_class: type[AbstractHomePage]):
         self.home_page_class = home_page_class
 
-    def run(self, max_dt: int):
+    def run(self, max_dt: int = None):
         max_dt = max_dt or Pipeline.DEFAULT.MAX_DT
         home_page = self.home_page_class()
         t_start = time.time()
