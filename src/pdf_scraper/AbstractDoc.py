@@ -18,6 +18,12 @@ class AbstractDoc(ABC):
     description: str
     url_pdf: str
 
+    @staticmethod
+    def clean_text(x):
+        x = re.sub(r"\s+", " ", x)
+        x = x.strip()
+        return x
+
     @classmethod
     @cache
     def doc_class_label(cls) -> str:
@@ -83,9 +89,7 @@ class AbstractDoc(ABC):
         return os.path.join(self.dir_doc, "doc.json")
 
     def write(self):
-        JSONFile(self.json_path).write(
-            dict(doc_id=self.doc_id) | asdict(self)
-        )
+        JSONFile(self.json_path).write(dict(doc_id=self.doc_id) | asdict(self))
         log.info(f"Wrote {self.json_path}")
 
     @classmethod
