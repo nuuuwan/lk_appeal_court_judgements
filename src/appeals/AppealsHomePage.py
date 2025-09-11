@@ -1,3 +1,4 @@
+from itertools import chain
 from typing import Generator
 from urllib.parse import quote
 
@@ -49,5 +50,8 @@ class AppealsHomePage(AbstractHomePage):
                 url = quote(url, safe=":/?&=%")
                 yield AppealsDataPage(url, year, month_str)
 
+    def gen_data_pages_old(self) -> Generator[AppealsDataPage, None, None]:
+        return
+
     def gen_data_pages(self) -> Generator[AppealsDataPage, None, None]:
-        yield from self.gen_data_pages_new()
+        yield from chain(self.gen_data_pages_new(), self.gen_data_pages_old())
