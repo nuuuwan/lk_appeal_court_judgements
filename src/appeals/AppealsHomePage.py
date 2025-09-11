@@ -54,4 +54,6 @@ class AppealsHomePage(AbstractHomePage):
         return
 
     def gen_data_pages(self) -> Generator[AppealsDataPage, None, None]:
-        yield from chain(self.gen_data_pages_new(), self.gen_data_pages_old())
+        # HACK Temp Disable New
+        # yield from chain(self.gen_data_pages_new(), self.gen_data_pages_old())
+        yield from chain(self.gen_data_pages_old())
