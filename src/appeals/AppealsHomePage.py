@@ -45,6 +45,6 @@ class AppealsHomePage(AbstractHomePage):
                 if url == "#":
                     continue
                 if not url.startswith("http"):
-                    url = self.base_url + quote(url)
+                    url = self.url + quote(url)
                 url = quote(url, safe=":/?&=%")
                 yield AppealsDataPage(url, year, month_str)
