@@ -19,11 +19,16 @@ class ReadMe:
             if year != prev_year:
                 lines.extend([f"## {year}", ""])
                 prev_year = year
-            line = f"- {
-                doc.date_str} | {
-                doc.num} | {
-                doc.description} | [pdf]({
-                doc.url_pdf})"
+
+            line = "- " + " | ".join(
+                [
+                    doc.date_str,
+                    f"`{doc.num}`",
+                    doc.description,
+                    f"[metadata]({doc.json_path})",
+                    f"[pdf]({doc.url_pdf})",
+                ]
+            )
             lines.append(line)
         return lines
 

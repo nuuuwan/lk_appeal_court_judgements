@@ -28,11 +28,9 @@ class AbstractDoc(ABC):
     @classmethod
     @cache
     def get_dir_docs_root(cls) -> str:
-        return os.path.abspath(
-            os.path.join(
-                "data",
-                cls.doc_class_label(),
-            )
+        return os.path.join(
+            "data",
+            cls.doc_class_label(),
         )
 
     @cached_property
