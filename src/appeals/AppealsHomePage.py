@@ -40,7 +40,7 @@ class AppealsHomePage(AbstractHomePage):
                 a_month = li_month.find("a")
                 month_str = a_month.text.strip()
                 log.debug(f"{year=}, {month_str=}")
-                url = a_month["href"]
+                url = self.url + a_month["href"]
                 if url == "#":
                     continue
                 yield AppealsDataPage(url, year, month_str)
