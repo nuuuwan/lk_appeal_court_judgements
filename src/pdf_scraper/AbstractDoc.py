@@ -27,6 +27,16 @@ class AbstractDoc(ABC):
 
     @classmethod
     @cache
+    def doc_class_pretty_label(cls) -> str:
+        return cls.doc_class_label().title()
+
+    @classmethod
+    @cache
+    def doc_class_description(cls) -> str:
+        return f"A collection of {cls.pretty_label()} documents."
+
+    @classmethod
+    @cache
     def get_dir_docs_root(cls) -> str:
         return os.path.join(
             "data",
@@ -96,6 +106,7 @@ class AbstractDoc(ABC):
         return cls(**filtered_data)
 
     @classmethod
+    @cache
     def list_all(cls):
         doc_list = [
             cls.from_file(json_path) for json_path in cls.get_all_json_paths()
@@ -104,6 +115,7 @@ class AbstractDoc(ABC):
         return doc_list
 
     @classmethod
+    @cache
     def year_to_month_to_doc_list(
         cls,
     ) -> dict[str, dict[str, list["AbstractDoc"]]]:

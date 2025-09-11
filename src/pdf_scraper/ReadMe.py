@@ -37,11 +37,14 @@ class ReadMe:
 
     @property
     def lines(self) -> list[str]:
-        return (
-            [f"# {self.doc_class.doc_class_label()}"]
-            + [""]
-            + self.lines_for_docs
-        )
+        doc_list = self.doc_class.list_all()
+        n_docs = len(doc_list)
+        return [
+            f"# {self.doc_class.doc_class_pretty_label()}",
+            "",
+            f"**{n_docs:,}** {self.doc_class.doc_class_description()}",
+            "",
+        ] + self.lines_for_docs
 
     def build(self):
         File(self.PATH).write("\n".join(self.lines))
