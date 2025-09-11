@@ -26,7 +26,7 @@ class AppealsHomePage(AbstractHomePage):
 
         raise ValueError("Could not find Judgements menu item")
 
-    def gen_data_pages(self) -> Generator[AppealsDataPage, None, None]:
+    def gen_data_pages_new(self) -> Generator[AppealsDataPage, None, None]:
         judgements_menu_item = self.get_judgements_menu_item()
         ul = judgements_menu_item.find(
             "ul", class_="sub-menu", recursive=False
@@ -48,3 +48,6 @@ class AppealsHomePage(AbstractHomePage):
                     url = self.url + quote(url)
                 url = quote(url, safe=":/?&=%")
                 yield AppealsDataPage(url, year, month_str)
+
+    def gen_data_pages(self) -> Generator[AppealsDataPage, None, None]:
+        yield from self.gen_data_pages_new()
