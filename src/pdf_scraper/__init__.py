@@ -5,3 +5,4 @@ from pdf_scraper.AbstractDataPage import AbstractDataPage
 from pdf_scraper.AbstractDoc import AbstractDoc
 from pdf_scraper.AbstractHomePage import AbstractHomePage
 from pdf_scraper.Pipeline import Pipeline
+from pdf_scraper.ReadMe import ReadMe
