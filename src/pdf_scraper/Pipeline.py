@@ -16,6 +16,7 @@ class Pipeline:
 
     def run(self, max_dt: int = None):
         max_dt = max_dt or Pipeline.DEFAULT.MAX_DT
+        log.debug(f"{max_dt=}s")
         home_page = self.home_page_class()
         t_start = time.time()
         for data_page in home_page.gen_data_pages():
