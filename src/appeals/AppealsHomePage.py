@@ -38,9 +38,9 @@ class AppealsHomePage(AbstractHomePage):
                 continue
             for li_month in ul_year.find_all("li", recursive=False):
                 a_month = li_month.find("a")
-                month = a_month.text.strip()
-                log.debug(f"{month=}")
+                month_str = a_month.text.strip()
+                log.debug(f"{year=}, {month_str=}")
                 url = a_month["href"]
                 if url == "#":
                     continue
-                yield AppealsDataPage(url)
+                yield AppealsDataPage(url, year, month_str)
