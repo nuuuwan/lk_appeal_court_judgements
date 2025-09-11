@@ -45,7 +45,7 @@ class ReadMe:
         date_str_max = max(date_strs)
         url = self.home_page_class().url
         return [
-            f"**{n_docs}** documents"
+            f"**{n_docs:,}** documents"
             + f" from **{date_str_min}** to **{date_str_max}**"
             + " downloaded from"
             + f" [{url}]({url}).",
