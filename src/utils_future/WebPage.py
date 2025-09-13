@@ -40,3 +40,14 @@ class WebPage:
         if not self.content:
             return None
         return BeautifulSoup(self.content, "html.parser")
+
+    def download_binary(self, local_path):
+        try:
+            response = requests.get(self.url, timeout=self.TIMEOUT)
+            response.raise_for_status()
+            with open(local_path, "wb") as f:
+                f.write(response.content)
+        except Exception as e:
+            log.error(f"Failed to download {self.url}: {e}")
+            return
+        log.debug(f"Downloaded {self.url} -> {local_path}")
