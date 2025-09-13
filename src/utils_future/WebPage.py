@@ -1,10 +1,14 @@
 from functools import cached_property
 
 import requests
+import urllib3
 from bs4 import BeautifulSoup
+from urllib3.exceptions import InsecureRequestWarning
 from utils import Log
 
 log = Log("WebPage")
+
+urllib3.disable_warnings(InsecureRequestWarning)
 
 
 class WebPage:
