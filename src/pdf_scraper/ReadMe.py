@@ -39,12 +39,16 @@ class ReadMe:
     def lines_for_summary(self) -> list[str]:
         doc_list = self.doc_class.list_all()
         n_docs = len(doc_list)
+        log.debug(f"{n_docs=}")
         date_strs = [doc.date_str for doc in doc_list]
         date_str_min = min(date_strs)
         date_str_max = max(date_strs)
         url = self.home_page_class().url
         n_docs_with_pdf = sum(1 for doc in doc_list if doc.has_pdf)
+        log.debug(f"{n_docs_with_pdf=}")
         p_docs_with_pdf = n_docs_with_pdf / n_docs
+        file_size_m = self.doc_class.get_total_file_size() / 1_000_000
+        log.debug(f"{file_size_m=:.1f}")
         return [
             f"**{n_docs:,}** documents"
             + f" from **{date_str_min}** to **{date_str_max}**"
@@ -52,7 +56,9 @@ class ReadMe:
             + f" [{url}]({url}).",
             "",
             "PDFs downloaded for"
-            + f" {n_docs_with_pdf:,} ({p_docs_with_pdf:.1%}) documents.",
+            + f" **{n_docs_with_pdf:,}** (**{p_docs_with_pdf:.1%}**) documents.",
+            "",
+            f"Total data size: **{file_size_m:.1f} MB**.",
             "",
         ]
 
