@@ -44,11 +44,16 @@ class ReadMe:
         date_str_min = min(date_strs)
         date_str_max = max(date_strs)
         url = self.home_page_class().url
+        n_docs_with_pdf = sum(1 for doc in doc_list if doc.has_pdf)
+        p_docs_with_pdf = n_docs_with_pdf / n_docs
         return [
             f"**{n_docs:,}** documents"
             + f" from **{date_str_min}** to **{date_str_max}**"
             + " downloaded from"
             + f" [{url}]({url}).",
+            "",
+            "PDFs downloaded for"
+            + f" {n_docs_with_pdf:,} ({p_docs_with_pdf:.1%}) of documents.",
             "",
         ]
 
