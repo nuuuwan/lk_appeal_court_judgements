@@ -56,7 +56,8 @@ class ReadMe:
             + f" [{url}]({url}).",
             "",
             "PDFs downloaded for"
-            + f" **{n_docs_with_pdf:,}** (**{p_docs_with_pdf:.1%}**) documents.",
+            + f" **{n_docs_with_pdf:,}**"
+            + f" (**{p_docs_with_pdf:.1%}**) documents.",
             "",
             f"Total data size: **{file_size_m:.1f} MB**.",
             "",
