@@ -72,6 +72,17 @@ class AppealsHomePage(AbstractHomePage):
         url = quote(url, safe=":/?&=%")
         yield AppealsOldDataPage(url, year, month_str)
 
+    def __parse_old_li_year__(
+        self, li_year
+    ) -> Generator[AppealsDataPage, None, None]:
+        year = li_year.find("a").text.strip()
+        log.debug(f"{year=}")
+        ul_year = li_year.find("ul", class_="sub-menu", recursive=False)
+        if not ul_year:
+            return
+        for li_month in ul_year.find_all("li", recursive=False):
+            yield from self.__parse_old_li_month__(li_month, year)
+
     def __gen_data_pages_old__(
         self,
     ) -> Generator[AppealsDataPage, None, None]:
@@ -90,15 +101,7 @@ class AppealsHomePage(AbstractHomePage):
             for li_year in ul_older_judgements.find_all(
                 "li", recursive=False
             ):
-                year = li_year.find("a").text.strip()
-                log.debug(f"{year=}")
-                ul_year = li_year.find(
-                    "ul", class_="sub-menu", recursive=False
-                )
-                if not ul_year:
-                    continue
-                for li_month in ul_year.find_all("li", recursive=False):
-                    yield from self.__parse_old_li_month__(li_month, year)
+                yield from self.__parse_old_li_year__(li_year)
 
     def gen_data_pages(self) -> Generator[AppealsDataPage, None, None]:
         if self.soup is None:
