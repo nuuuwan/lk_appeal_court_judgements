@@ -27,12 +27,8 @@ class Pipeline:
         n_docs = len(docs)
         log.info(f"🛑 Processed {n_docs:,} docs in {dt:,.1f}s")
 
-    def __scrape_metadata__(self):
-        max_dt = int(sys.argv[1]) if len(sys.argv) > 1 else None
-        max_dt = max_dt or Pipeline.DEFAULT.MAX_DT
-        log.debug(f"{max_dt=}s")
+    def __scrape_metadata__(self, max_dt, t_start):
         home_page = self.home_page_class()
-        t_start = time.time()
         docs = []
         dt = 0
         for data_page in home_page.gen_data_pages():
@@ -48,5 +44,9 @@ class Pipeline:
         log.info("🛑 All docs processed.")
 
     def run(self):
-        self.__scrape_metadata__()
+        max_dt = int(sys.argv[1]) if len(sys.argv) > 1 else None
+        max_dt = max_dt or Pipeline.DEFAULT.MAX_DT
+        log.debug(f"{max_dt=}s")
+        t_start = time.time()
+        self.__scrape_metadata__(max_dt, t_start)
         ReadMe(self.home_page_class, self.doc_class).build()
