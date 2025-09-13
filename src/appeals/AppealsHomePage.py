@@ -28,6 +28,20 @@ class AppealsHomePage(AbstractHomePage):
 
         raise ValueError("Could not find Judgements menu item")
 
+    def __parse_new_li_month__(
+        self, li_month, year
+    ) -> Generator[AppealsDataPage, None, None]:
+        a_month = li_month.find("a")
+        month_str = a_month.text.strip()
+        log.debug(f"{year=}, {month_str=}")
+        url = a_month["href"]
+        if url == "#":
+            return
+        if not url.startswith("http"):
+            url = self.url + quote(url)
+        url = quote(url, safe=":/?&=%")
+        yield AppealsDataPage(url, year, month_str)
+
     def __gen_data_pages_new__(
         self,
     ) -> Generator[AppealsDataPage, None, None]:
@@ -42,16 +56,21 @@ class AppealsHomePage(AbstractHomePage):
             if not ul_year:
                 continue
             for li_month in ul_year.find_all("li", recursive=False):
-                a_month = li_month.find("a")
-                month_str = a_month.text.strip()
-                log.debug(f"{year=}, {month_str=}")
-                url = a_month["href"]
-                if url == "#":
-                    continue
-                if not url.startswith("http"):
-                    url = self.url + quote(url)
-                url = quote(url, safe=":/?&=%")
-                yield AppealsDataPage(url, year, month_str)
+                yield from self.__parse_new_li_month__(li_month, year)
+
+    def __parse_old_li_month__(
+        self, li_month, year
+    ) -> Generator[AppealsDataPage, None, None]:
+        a_month = li_month.find("a")
+        month_str = a_month.text.strip()
+        log.debug(f"{year=}, {month_str=}")
+        url = a_month["href"]
+        if url == "#":
+            return
+        if not url.startswith("http"):
+            url = self.url + quote(url)
+        url = quote(url, safe=":/?&=%")
+        yield AppealsOldDataPage(url, year, month_str)
 
     def __gen_data_pages_old__(
         self,
@@ -79,16 +98,7 @@ class AppealsHomePage(AbstractHomePage):
                 if not ul_year:
                     continue
                 for li_month in ul_year.find_all("li", recursive=False):
-                    a_month = li_month.find("a")
-                    month_str = a_month.text.strip()
-                    log.debug(f"{year=}, {month_str=}")
-                    url = a_month["href"]
-                    if url == "#":
-                        continue
-                    if not url.startswith("http"):
-                        url = self.url + quote(url)
-                    url = quote(url, safe=":/?&=%")
-                    yield AppealsOldDataPage(url, year, month_str)
+                    yield from self.__parse_old_li_month__(li_month, year)
 
     def gen_data_pages(self) -> Generator[AppealsDataPage, None, None]:
         if self.soup is None:
