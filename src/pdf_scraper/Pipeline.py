@@ -1,3 +1,4 @@
+import sys
 import time
 
 from utils import Log
@@ -19,7 +20,8 @@ class Pipeline:
         n_docs = len(docs)
         log.info(f"🛑 Processed {n_docs:,} docs in {dt:,.1f}s")
 
-    def run(self, max_dt: int = None):
+    def run(self):
+        max_dt = int(sys.argv[1]) if len(sys.argv) > 1 else None
         max_dt = max_dt or Pipeline.DEFAULT.MAX_DT
         log.debug(f"{max_dt=}s")
         home_page = self.home_page_class()
