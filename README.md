@@ -2,7 +2,7 @@
 
 **6,033** documents from **2017-01-16** to **2025-09-11** downloaded from [https://courtofappeal.lk](https://courtofappeal.lk).
 
-PDFs downloaded for 2 (0.0%) documents.
+PDFs downloaded for 40 (0.7%) documents.
 
 ## 2025
 
