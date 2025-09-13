@@ -27,8 +27,7 @@ class ReadMe:
                             doc.date_str,
                             f"`{doc.num}`",
                             doc.description,
-                            f"[metadata]({doc.json_path})",
-                            f"[pdf]({doc.url_pdf})",
+                            f"[data]({doc.remote_data_url})",
                         ]
                     )
                     lines.append(line)

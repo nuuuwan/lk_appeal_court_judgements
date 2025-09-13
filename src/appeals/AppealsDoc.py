@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from functools import cache
+from functools import cache, cached_property
 
 from pdf_scraper import AbstractDoc
 
@@ -15,3 +15,12 @@ class AppealsDoc(AbstractDoc):
     @cache
     def doc_class_pretty_label(cls) -> str:
         return "⚖️ Judgements of the Court of Appeal of 🇱🇰 Sri Lanka"
+
+    @cached_property
+    def remote_data_url(self) -> str:
+        return "/".join(
+            [
+                "https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/",
+                self.dir_doc_extended_without_base,
+            ]
+        )

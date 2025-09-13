@@ -12,15 +12,21 @@ class AbstractDocExtendedDataMixin:
     T_TIMEOUT_PDF_DOWNLOAD = 120
 
     @cached_property
+    def dir_doc_extended_without_base(self) -> str:
+        return os.path.join(
+            self.get_dir_docs_root(),
+            self.decade,
+            self.year,
+            self.doc_id,
+        )
+
+    @cached_property
     def dir_doc_extended(self) -> str:
         dir_metadata = os.path.basename(os.getcwd())
         return os.path.join(
             "..",
             f"{dir_metadata}_data",
-            self.get_dir_docs_root(),
-            self.decade,
-            self.year,
-            self.doc_id,
+            self.dir_doc_extended_without_base,
         )
 
     def __copy_metadata__(self):
@@ -52,3 +58,7 @@ class AbstractDocExtendedDataMixin:
             self.__copy_metadata__()
         if not self.has_pdf:
             self.__download_pdf__()
+
+    @cached_property
+    def remote_data_url(self) -> str:
+        raise NotImplementedError
