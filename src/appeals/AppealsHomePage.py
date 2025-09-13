@@ -15,7 +15,7 @@ class AppealsHomePage(AbstractHomePage):
     def __init__(self):
         super().__init__("https://courtofappeal.lk")
 
-    def get_judgements_menu_item(self):
+    def __get_judgements_menu_item__(self):
         menu_items = self.soup.find_all(
             "li",
             class_="menu-item",
@@ -28,8 +28,10 @@ class AppealsHomePage(AbstractHomePage):
 
         raise ValueError("Could not find Judgements menu item")
 
-    def gen_data_pages_new(self) -> Generator[AppealsDataPage, None, None]:
-        judgements_menu_item = self.get_judgements_menu_item()
+    def __gen_data_pages_new__(
+        self,
+    ) -> Generator[AppealsDataPage, None, None]:
+        judgements_menu_item = self.__get_judgements_menu_item__()
         ul = judgements_menu_item.find(
             "ul", class_="sub-menu", recursive=False
         )
@@ -51,8 +53,10 @@ class AppealsHomePage(AbstractHomePage):
                 url = quote(url, safe=":/?&=%")
                 yield AppealsDataPage(url, year, month_str)
 
-    def gen_data_pages_old(self) -> Generator[AppealsDataPage, None, None]:
-        judgements_menu_item = self.get_judgements_menu_item()
+    def __gen_data_pages_old__(
+        self,
+    ) -> Generator[AppealsDataPage, None, None]:
+        judgements_menu_item = self.__get_judgements_menu_item__()
         ul = judgements_menu_item.find(
             "ul", class_="sub-menu", recursive=False
         )
@@ -87,4 +91,6 @@ class AppealsHomePage(AbstractHomePage):
                     yield AppealsOldDataPage(url, year, month_str)
 
     def gen_data_pages(self) -> Generator[AppealsDataPage, None, None]:
-        yield from chain(self.gen_data_pages_new(), self.gen_data_pages_old())
+        yield from chain(
+            self.__gen_data_pages_new__(), self.__gen_data_pages_old__()
+        )
