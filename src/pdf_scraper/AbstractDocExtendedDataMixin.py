@@ -27,6 +27,7 @@ class AbstractDocExtendedDataMixin:
         shutil.copytree(
             self.dir_doc, self.dir_doc_extended, dirs_exist_ok=True
         )
+        log.info(f"Copied metadata to {self.dir_doc_extended}")
 
     @cached_property
     def pdf_path(self) -> str:
@@ -42,7 +43,7 @@ class AbstractDocExtendedDataMixin:
         log.info(f"Wrote {self.pdf_path}")
 
     def scrape_extended_data(self):
-        if not os.path.exists(self.dir_doc):
+        if not os.path.exists(self.dir_doc_extended):
             os.makedirs(self.dir_doc_extended)
             self.__copy_metadata__()
         if not os.path.exists(self.pdf_path):
