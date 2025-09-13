@@ -6,8 +6,6 @@ from functools import cache, cached_property
 
 from utils import JSONFile, Log
 
-from pdf_scraper.AbstractDoc import AbstractDoc
-
 log = Log("AbstractDocMetadataMixin")
 
 
@@ -24,9 +22,7 @@ class AbstractDocMetadataMixin:
         return os.path.join(self.dir_doc, "doc.json")
 
     def write(self):
-        JSONFile(self.json_path).write(
-            dict(doc_id=self.doc_id) | asdict(self)
-        )
+        JSONFile(self.json_path).write(dict(doc_id=self.doc_id) | asdict(self))
         log.info(f"Wrote {self.json_path}")
 
     @classmethod
@@ -59,7 +55,7 @@ class AbstractDocMetadataMixin:
     @cache
     def year_to_month_to_doc_list(
         cls,
-    ) -> dict[str, dict[str, list["AbstractDoc"]]]:
+    ) -> dict[str, dict[str, list]]:
         idx = {}
         for doc in cls.list_all():
             year = doc.year
