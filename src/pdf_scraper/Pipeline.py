@@ -3,7 +3,9 @@ import time
 
 from utils import Log
 
+from pdf_scraper.AbstractDoc import AbstractDoc
 from pdf_scraper.AbstractHomePage import AbstractHomePage
+from pdf_scraper.ReadMe import ReadMe
 
 log = Log("Pipeline")
 
@@ -12,8 +14,13 @@ class Pipeline:
     class DEFAULT:
         MAX_DT = 10
 
-    def __init__(self, home_page_class: type[AbstractHomePage]):
+    def __init__(
+        self,
+        home_page_class: type[AbstractHomePage],
+        doc_class: type[AbstractDoc],
+    ):
         self.home_page_class = home_page_class
+        self.doc_class = doc_class
 
     @staticmethod
     def log_processed_doc(docs, dt):
@@ -39,3 +46,5 @@ class Pipeline:
                 return
         Pipeline.log_processed_doc(docs, dt)
         log.info("🛑 All docs processed.")
+
+        ReadMe(self.home_page_class, self.doc_class).build()

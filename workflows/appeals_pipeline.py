@@ -1,6 +1,4 @@
-from appeals import AppealsDoc, AppealsHomePage, AppealsPipeline
-from pdf_scraper import ReadMe
+from appeals import AppealsPipeline
 
 if __name__ == "__main__":
     AppealsPipeline().run()
-    ReadMe(AppealsHomePage, AppealsDoc).build()
