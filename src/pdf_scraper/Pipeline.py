@@ -23,7 +23,7 @@ class Pipeline:
         self.doc_class = doc_class
 
     @staticmethod
-    def log_processed_doc(docs, dt):
+    def __log_processed_doc__(docs, dt):
         n_docs = len(docs)
         log.info(f"🛑 Processed {n_docs:,} docs in {dt:,.1f}s")
 
@@ -37,10 +37,10 @@ class Pipeline:
                 docs.append(doc)
                 dt = time.time() - t_start
             if dt > max_dt:
-                Pipeline.log_processed_doc(docs, dt)
+                Pipeline.__log_processed_doc__(docs, dt)
                 log.info(f"🛑 Stopping. {dt:,.1f}s > {max_dt:,}s")
                 return
-        Pipeline.log_processed_doc(docs, dt)
+        Pipeline.__log_processed_doc__(docs, dt)
         log.info("🛑 All docs processed.")
 
     def __scrape_data__(self, max_dt, t_start):
