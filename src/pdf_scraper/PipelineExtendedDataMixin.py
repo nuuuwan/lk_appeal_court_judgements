@@ -6,7 +6,8 @@ log = Log("PipelineExtendedDataMixin")
 
 
 class PipelineExtendedDataMixin:
-    def __scrape_extended_data__(self, max_dt, t_start):
+    def __scrape_extended_data__(self, max_dt):
+        t_start = time.time()
         for doc in self.doc_class.list_all():
             doc.scrape_extended_data()
             dt = time.time() - t_start
