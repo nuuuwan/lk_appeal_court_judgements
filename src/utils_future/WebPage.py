@@ -19,12 +19,20 @@ class WebPage:
     @cached_property
     def content(self):
         log.debug(f"[{self}] Openning...")
-        response = requests.get(self.url, timeout=self.TIMEOUT, verify=False)
-        response.raise_for_status()
-        content = response.text
-        log.debug(f"[{self}] Opened. {len(content):,}B")
-        return content
+        try:
+            response = requests.get(
+                self.url, timeout=self.TIMEOUT, verify=False
+            )
+            response.raise_for_status()
+            content = response.text
+            log.debug(f"[{self}] Opened. {len(content):,}B")
+            return content
+        except Exception as e:
+            log.error(f"[{self}] Failed to open: {e}")
+            return None
 
     @cached_property
     def soup(self):
+        if not self.content:
+            return None
         return BeautifulSoup(self.content, "html.parser")
