@@ -85,6 +85,8 @@ class AppealsDataPage(AbstractDataPage):
         )
 
     def gen_docs(self) -> Generator[AppealsDoc, None, None]:
+        if self.soup is None:
+            return
         table = self.soup.find("table")
         if not table:
             return

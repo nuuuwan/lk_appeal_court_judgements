@@ -68,9 +68,7 @@ class AppealsHomePage(AbstractHomePage):
             ul_older_judgements = li_year_or_older_judgements.find(
                 "ul", class_="sub-menu", recursive=False
             )
-            for li_year in ul_older_judgements.find_all(
-                "li", recursive=False
-            ):
+            for li_year in ul_older_judgements.find_all("li", recursive=False):
                 year = li_year.find("a").text.strip()
                 log.debug(f"{year=}")
                 ul_year = li_year.find(
@@ -91,6 +89,8 @@ class AppealsHomePage(AbstractHomePage):
                     yield AppealsOldDataPage(url, year, month_str)
 
     def gen_data_pages(self) -> Generator[AppealsDataPage, None, None]:
+        if self.soup is None:
+            return
         yield from chain(
             self.__gen_data_pages_new__(), self.__gen_data_pages_old__()
         )
