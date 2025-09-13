@@ -2,8 +2,6 @@ import time
 
 from utils import Log
 
-from pdf_scraper.Pipeline import Pipeline
-
 log = Log("PipelineMetadataMixin")
 
 
@@ -24,8 +22,8 @@ class PipelineMetadataMixin:
                 docs.append(doc)
                 dt = time.time() - t_start
             if dt > max_dt:
-                Pipeline.__log_processed_doc__(docs, dt)
+                PipelineMetadataMixin.__log_processed_doc__(docs, dt)
                 log.info(f"🛑 Stopping. {dt:,.1f}s > {max_dt:,}s")
                 return
-        Pipeline.__log_processed_doc__(docs, dt)
+        PipelineMetadataMixin.__log_processed_doc__(docs, dt)
         log.info("🛑 All docs processed.")
