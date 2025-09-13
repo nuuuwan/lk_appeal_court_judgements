@@ -5,34 +5,26 @@ log = Log("ReadMe")
 
 class ReadMe:
     PATH = "README.md"
+    N_LATEST = 20
 
     def __init__(self, home_page_class, doc_class):
         self.home_page_class = home_page_class
         self.doc_class = doc_class
 
     @property
-    def lines_for_docs(self):
-        lines = []
-
-        for (
-            year,
-            doc_list_for_year,
-        ) in self.doc_class.year_to_month_to_doc_list().items():
-            lines.extend([f"## {year}", ""])
-            for year_month, doc_list_for_month in doc_list_for_year.items():
-                lines.extend([f"### {year_month}", ""])
-                for doc in doc_list_for_month:
-                    line = "- " + " | ".join(
-                        [
-                            doc.date_str,
-                            f"`{doc.num}`",
-                            doc.description,
-                            f"[data]({doc.remote_data_url})",
-                        ]
-                    )
-                    lines.append(line)
-                lines.append("")
-
+    def lines_for_latest_docs(self):
+        lines = [f"## {self.N_LATEST} Latest documents", ""]
+        for doc in self.doc_class.list_all()[: self.N_LATEST]:
+            line = "- " + " | ".join(
+                [
+                    doc.date_str,
+                    f"`{doc.num}`",
+                    doc.description,
+                    f"[data]({doc.remote_data_url})",
+                ]
+            )
+            lines.append(line)
+        lines.append("")
         return lines
 
     @property
@@ -47,8 +39,8 @@ class ReadMe:
         n_docs_with_pdf = sum(1 for doc in doc_list if doc.has_pdf)
         log.debug(f"{n_docs_with_pdf=}")
         p_docs_with_pdf = n_docs_with_pdf / n_docs
-        file_size_m = self.doc_class.get_total_file_size() / 1_000_000
-        log.debug(f"{file_size_m=:.1f}")
+        file_size_g = self.doc_class.get_total_file_size() / 1_000_000_000
+        log.debug(f"{file_size_g=:.1f}")
         return [
             f"**{n_docs:,}** documents"
             + f" from **{date_str_min}** to **{date_str_max}**"
@@ -59,7 +51,7 @@ class ReadMe:
             + f" **{n_docs_with_pdf:,}**"
             + f" (**{p_docs_with_pdf:.1%}**) documents.",
             "",
-            f"Total data size: **{file_size_m:.1f} MB**.",
+            f"Total data size: **{file_size_g:.1f} GB**.",
             "",
         ]
 
@@ -72,7 +64,7 @@ class ReadMe:
         return (
             self.lines_for_header
             + self.lines_for_summary
-            + self.lines_for_docs
+            + self.lines_for_latest_docs
         )
 
     def build(self):

@@ -9,6 +9,7 @@ log = Log("appeals_readme_build")
 
 
 def update_data_repo():
+    log.debug("Updating data repo...")
     os.system(
         " && ".join(
             [
@@ -18,7 +19,6 @@ def update_data_repo():
             ]
         )
     )
-    log.debug("Updated data repo.")
 
 
 def main():
