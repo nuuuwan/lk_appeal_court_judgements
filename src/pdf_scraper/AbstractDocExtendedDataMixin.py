@@ -5,6 +5,8 @@ from functools import cached_property
 import requests
 from utils import Log
 
+from utils_future.WebPage import WebPage
+
 log = Log("AbstractDocExtendedDataMixin")
 
 
@@ -50,16 +52,7 @@ class AbstractDocExtendedDataMixin:
         return os.path.exists(self.pdf_path)
 
     def __download_pdf__(self):
-        url = self.url_pdf
-        try:
-            response = requests.get(url, timeout=self.T_TIMEOUT_PDF_DOWNLOAD)
-            response.raise_for_status()
-            with open(self.pdf_path, "wb") as f:
-                f.write(response.content)
-        except Exception as e:
-            log.error(f"Failed to download {url}: {e}")
-            return
-        log.debug(f"Downloaded {url} -> {self.pdf_path}")
+        WebPage(self.remote_data_url).download_binary(self.pdf_path)
 
     def scrape_extended_data(self):
         if not os.path.exists(self.dir_doc_extended):
