@@ -4,7 +4,7 @@
 
 PDFs downloaded for **1,248** (**12.3%**) documents.
 
-Total data size: **691.7 MB**.
+Total data size: **779.4 MB**.
 
 ## 2025
 
