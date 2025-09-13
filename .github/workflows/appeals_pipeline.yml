@@ -17,7 +17,7 @@ jobs:
       image: ghcr.io/nuuuwan/pdf-scraper-image:latest
 
     steps:
-      - name: "⬇️ Checkout lk_judiciary_appeals_court"
+      - name: "⬇️ Checkout repo"
         uses: actions/checkout@v4
         with:
           ref: "main"
@@ -29,12 +29,11 @@ jobs:
 
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-          git config --global --add safe.directory /__w/lk_judiciary_appeals_court/lk_judiciary_appeals_court
 
           git pull origin main --rebase
           python workflows/appeals_pipeline.py ${{ github.event.inputs.max_dt }}
 
-      - name: "⬆️ Push lk_judiciary_appeals_court"
+      - name: "⬆️ Push repo"
         run: |
           git add .
           if git diff --cached --quiet; then
