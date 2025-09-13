@@ -1,14 +1,15 @@
 # ⚖️ Judgements of the Court of Appeal of 🇱🇰 Sri Lanka
 
-**6,032** documents from **2017-01-16** to **2025-09-11** downloaded from [https://courtofappeal.lk](https://courtofappeal.lk).
+**6,033** documents from **2017-01-16** to **2025-09-11** downloaded from [https://courtofappeal.lk](https://courtofappeal.lk).
 
 PDFs downloaded for 2 (0.0%) documents.
 
 ## 2025
 
-### 2025-09 
+### 2025-09
 
 - 2025-09-11 | `CA/WRT/0475/2019` | Mudaliperuge Manel Rupa Ranjani Kulathunga Vs M. U. Nishantha, Divisional Secretary, Galewela and ten others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data//data/appeals/2020s/2025/2025-09-11-CA-WRT-0475-2019)
+- 2025-09-10 | `CA/WRT/811/2025` | A. A. F. Farween Vs The Secretary of the Judicial Service Commission and Hon. Attorney General before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data//data/appeals/2020s/2025/2025-09-10-CA-WRT-811-2025)
 - 2025-09-10 | `CA /HCC/ 292-295/2024` | Kohona Koralalage Chandraratna Bandara and others Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data//data/appeals/2020s/2025/2025-09-10-CA--HCC--292-295-2024)
 - 2025-09-09 | `CA/WRT/165/15` | Mrs. Nagaratnam Sakunthala Vs Commissioner of Lands (Northern Province) Department of Land Administration, Northern Provincial Council and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data//data/appeals/2020s/2025/2025-09-09-CA-WRT-165-15)
 - 2025-09-09 | `CA/WRT/0720/23` | Musthafa Lebbe Rahuma Beevi Vs. Thanapalasuntharam, Divisional Secretary, Valachennai and eight others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data//data/appeals/2020s/2025/2025-09-09-CA-WRT-0720-23)
