@@ -131,3 +131,6 @@ class AbstractDoc(ABC):
 
             idx[year][year_and_month].append(doc)
         return idx
+
+    def scrape_extended_data(self):
+        pass
