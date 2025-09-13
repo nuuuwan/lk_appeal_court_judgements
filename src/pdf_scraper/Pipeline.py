@@ -43,7 +43,7 @@ class Pipeline:
         Pipeline.__log_processed_doc__(docs, dt)
         log.info("🛑 All docs processed.")
 
-    def __scrape_data__(self, max_dt, t_start):
+    def __scrape_extended_data__(self, max_dt, t_start):
         pass
 
     def run(self):
@@ -52,5 +52,5 @@ class Pipeline:
         log.debug(f"{max_dt=}s")
         t_start = time.time()
         self.__scrape_metadata__(max_dt, t_start)
-        self.__scrape_data__(max_dt, t_start)
+        self.__scrape_extended_data__(max_dt, t_start)
         ReadMe(self.home_page_class, self.doc_class).build()
