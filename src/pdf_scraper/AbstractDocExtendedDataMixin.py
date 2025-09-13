@@ -45,12 +45,11 @@ class AbstractDocExtendedDataMixin:
 
     def __download_pdf__(self):
         url = self.url_pdf
-        log.debug(f"Downloading {url} -> {self.pdf_path}")
         response = requests.get(url, timeout=self.T_TIMEOUT_PDF_DOWNLOAD)
         response.raise_for_status()
         with open(self.pdf_path, "wb") as f:
             f.write(response.content)
-        log.info(f"Wrote {self.pdf_path}")
+        log.debug(f"Downloaded {url} -> {self.pdf_path}")
 
     def scrape_extended_data(self):
         if not os.path.exists(self.dir_doc_extended):
