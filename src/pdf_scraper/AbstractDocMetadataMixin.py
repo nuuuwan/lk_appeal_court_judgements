@@ -18,13 +18,14 @@ class AbstractDocMetadataMixin:
 
     @cached_property
     def json_path(self) -> str:
-        os.makedirs(self.dir_doc, exist_ok=True)
+
         return os.path.join(self.dir_doc, "doc.json")
 
     def write(self):
-        JSONFile(self.json_path).write(
-            dict(doc_id=self.doc_id) | asdict(self)
-        )
+        if os.path.exists(self.json_path):
+            return
+        os.makedirs(self.dir_doc, exist_ok=True)
+        JSONFile(self.json_path).write(dict(doc_id=self.doc_id) | asdict(self))
         log.info(f"Wrote {self.json_path}")
 
     @classmethod
