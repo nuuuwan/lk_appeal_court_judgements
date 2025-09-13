@@ -2,9 +2,9 @@
 
 **10,149** documents from **2012-04-23** to **2025-09-11** downloaded from [https://courtofappeal.lk](https://courtofappeal.lk).
 
-PDFs downloaded for **857** (**8.4%**) documents.
+PDFs downloaded for **1,248** (**12.3%**) documents.
 
-Total data size: **313.7 MB**.
+Total data size: **691.7 MB**.
 
 ## 2025
 
