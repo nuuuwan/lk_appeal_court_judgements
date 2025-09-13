@@ -11,7 +11,7 @@ log = Log("WebPage")
 urllib3.disable_warnings(InsecureRequestWarning)
 
 
-class WebPage:
+class WWW:
     TIMEOUT = 120
 
     def __init__(self, url):
