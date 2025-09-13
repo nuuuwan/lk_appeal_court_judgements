@@ -17,14 +17,25 @@ jobs:
       image: ghcr.io/nuuuwan/pdf-scraper-image:latest
 
     steps:
-      - name: "⬇️ Checkout repo"
+      - name: "⬇️ Checkout lk_judiciary_appeals_court"
         uses: actions/checkout@v4
         with:
           ref: "main"
+          path: "lk_judiciary_appeals_court"
           token: "${{ secrets.REPO_DATA_TOKEN }}"
+          fetch-depth: 1
+
+      - name: "⬇️ Checkout lk_judiciary_appeals_court_data"
+        uses: actions/checkout@v4
+        with:
+          ref: "data"
+          path: "lk_judiciary_appeals_court_data"
+          token: "${{ secrets.REPO_DATA_TOKEN }}"
+          fetch-depth: 1
 
       - name: "⚙️ Run appeals_pipeline"
         run: |
+          cd lk_judiciary_appeals_court
           export PYTHONPATH="$PYTHONPATH:./src"
 
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
@@ -34,8 +45,9 @@ jobs:
           git pull origin main --rebase
           python workflows/appeals_pipeline.py ${{ github.event.inputs.max_dt }}
 
-      - name: "⬆️ Push repo"
+      - name: "⬆️ Push lk_judiciary_appeals_court"
         run: |
+          cd lk_judiciary_appeals_court
           git add .
           if git diff --cached --quiet; then
             echo "No changes to commit."
@@ -44,3 +56,15 @@ jobs:
           git commit -m "🤖 [appeals_pipeline.yml] $(date '+%Y-%m-%d-%H%M')"
           git pull origin main --rebase
           git push origin main
+
+      - name: "⬆️ Push lk_judiciary_appeals_court_data"
+        run: |
+          cd lk_judiciary_appeals_court_data
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "🤖 [appeals_pipeline.yml] $(date '+%Y-%m-%d-%H%M')"
+          git pull origin data --rebase
+          git push origin data
