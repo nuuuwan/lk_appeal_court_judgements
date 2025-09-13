@@ -22,7 +22,9 @@ class AbstractDocMetadataMixin:
         return os.path.join(self.dir_doc, "doc.json")
 
     def write(self):
-        JSONFile(self.json_path).write(dict(doc_id=self.doc_id) | asdict(self))
+        JSONFile(self.json_path).write(
+            dict(doc_id=self.doc_id) | asdict(self)
+        )
         log.info(f"Wrote {self.json_path}")
 
     @classmethod
