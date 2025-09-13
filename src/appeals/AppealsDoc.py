@@ -20,7 +20,8 @@ class AppealsDoc(AbstractDoc):
     def remote_data_url(self) -> str:
         return "/".join(
             [
-                "https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/",
+                "https://github.com"
+                + "/nuuuwan/lk_judiciary_appeals_court/tree/data/",
                 self.dir_doc_extended_without_base,
             ]
         )
