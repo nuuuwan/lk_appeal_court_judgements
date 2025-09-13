@@ -33,6 +33,10 @@ class AbstractDocExtendedDataMixin:
     def pdf_path(self) -> str:
         return os.path.join(self.dir_doc_extended, "en.pdf")
 
+    @cached_property
+    def has_pdf(self) -> bool:
+        return os.path.exists(self.pdf_path)
+
     def __download_pdf__(self):
         url = self.url_pdf
         log.debug(f"Downloading {url} -> {self.pdf_path}")
@@ -46,5 +50,5 @@ class AbstractDocExtendedDataMixin:
         if not os.path.exists(self.dir_doc_extended):
             os.makedirs(self.dir_doc_extended)
             self.__copy_metadata__()
-        if not os.path.exists(self.pdf_path):
+        if not self.has_pdf:
             self.__download_pdf__()
