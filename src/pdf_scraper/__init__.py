@@ -3,6 +3,9 @@
 
 from pdf_scraper.AbstractDataPage import AbstractDataPage
 from pdf_scraper.AbstractDoc import AbstractDoc
+from pdf_scraper.AbstractDocExtendedDataMixin import \
+    AbstractDocExtendedDataMixin
+from pdf_scraper.AbstractDocMetadataMixin import AbstractDocMetadataMixin
 from pdf_scraper.AbstractHomePage import AbstractHomePage
 from pdf_scraper.Pipeline import Pipeline
 from pdf_scraper.PipelineExtendedDataMixin import PipelineExtendedDataMixin
