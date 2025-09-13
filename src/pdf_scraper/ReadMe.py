@@ -53,7 +53,7 @@ class ReadMe:
             + f" [{url}]({url}).",
             "",
             "PDFs downloaded for"
-            + f" {n_docs_with_pdf:,} ({p_docs_with_pdf:.1%}) of documents.",
+            + f" {n_docs_with_pdf:,} ({p_docs_with_pdf:.1%}) documents.",
             "",
         ]
 
