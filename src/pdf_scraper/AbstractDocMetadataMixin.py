@@ -18,7 +18,6 @@ class AbstractDocMetadataMixin:
 
     @cached_property
     def json_path(self) -> str:
-
         return os.path.join(self.dir_doc, "doc.json")
 
     def write(self):

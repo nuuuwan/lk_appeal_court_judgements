@@ -39,7 +39,7 @@ class AbstractDocExtendedDataMixin:
     def pdf_path(self) -> str:
         return os.path.join(self.dir_doc_extended, "en.pdf")
 
-    @cached_property
+    @property
     def has_pdf(self) -> bool:
         return os.path.exists(self.pdf_path)
 
