@@ -29,6 +29,16 @@ class AbstractDocExtendedDataMixin:
             f"{dir_metadata}_data",
         )
 
+    @classmethod
+    def get_total_file_size(cls):
+        # get size of get_dir_doc_extended_root
+        total_size = 0
+        for dirpath, _, filenames in os.walk(cls.get_dir_doc_extended_root()):
+            for f in filenames:
+                fp = os.path.join(dirpath, f)
+                total_size += os.path.getsize(fp)
+        return total_size
+
     @cached_property
     def dir_doc_extended(self) -> str:
         return os.path.join(
@@ -63,13 +73,3 @@ class AbstractDocExtendedDataMixin:
     @cached_property
     def remote_data_url(self) -> str:
         raise NotImplementedError
-
-    @classmethod
-    def get_total_file_size(cls):
-        # get size of get_dir_doc_extended_root
-        total_size = 0
-        for dirpath, _, filenames in os.walk(cls.get_dir_doc_extended_root()):
-            for f in filenames:
-                fp = os.path.join(dirpath, f)
-                total_size += os.path.getsize(fp)
-        return total_size
