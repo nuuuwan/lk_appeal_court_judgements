@@ -14,6 +14,8 @@ def update_data_repo():
         " && ".join(
             [
                 "cd ../lk_judiciary_appeals_court_data",
+                "git reset --hard HEAD",
+                "git clean -fd",
                 "git pull origin data",
                 "cd -",
             ]
