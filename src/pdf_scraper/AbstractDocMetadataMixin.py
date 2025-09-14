@@ -39,12 +39,16 @@ class AbstractDocMetadataMixin:
         ]
 
     @classmethod
-    def from_file(cls, json_path: str):
-        data = JSONFile(json_path).read()
+    def from_dict(cls, d: dict):
         sig = inspect.signature(cls.__init__)
         valid_keys = set(sig.parameters) - {"self"}
-        filtered_data = {k: v for k, v in data.items() if k in valid_keys}
+        filtered_data = {k: v for k, v in d.items() if k in valid_keys}
         return cls(**filtered_data)
+
+    @classmethod
+    def from_file(cls, json_path: str):
+        d = JSONFile(json_path).read()
+        return cls.from_dict(d)
 
     @classmethod
     @cache
