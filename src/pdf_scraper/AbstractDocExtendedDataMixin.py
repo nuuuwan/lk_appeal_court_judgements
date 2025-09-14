@@ -31,7 +31,6 @@ class AbstractDocExtendedDataMixin:
 
     @classmethod
     def get_total_file_size(cls):
-        # get size of get_dir_doc_extended_root
         total_size = 0
         for dirpath, _, filenames in os.walk(cls.get_dir_doc_extended_root()):
             for f in filenames:
