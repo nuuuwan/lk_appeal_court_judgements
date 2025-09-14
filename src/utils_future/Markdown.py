@@ -13,7 +13,7 @@ class Markdown:
         if not d_list:
             return []
         if len(d_list) == 1:
-            d_list = [dict(k=k, v=v) for k, v in d_list[0].items()]
+            d_list = [{" ": k, "  ": v} for k, v in d_list[0].items()]
 
         keys = d_list[0].keys()
         header = "| " + " | ".join(keys) + " |"
