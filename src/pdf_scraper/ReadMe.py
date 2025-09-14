@@ -46,24 +46,22 @@ class ReadMe:
         doc_list = self.doc_class.list_all()
         n_docs = len(doc_list)
         log.debug(f"{n_docs=}")
+
         date_strs = [doc.date_str for doc in doc_list]
         date_str_min = min(date_strs)
         date_str_max = max(date_strs)
+
         url = self.home_page_class().url
-        n_docs_with_pdf = sum(1 for doc in doc_list if doc.has_pdf)
-        log.debug(f"{n_docs_with_pdf=}")
         file_size_g = self.doc_class.get_total_file_size() / 1_000_000_000
         log.debug(f"{file_size_g=:.1f}")
 
         d_list = [
-            dict(
-                source=url,
-                date_min=date_str_min,
-                date_max=date_str_max,
-                n_docs=f"{n_docs:,}",
-                n_docs_with_pdf=f"{n_docs_with_pdf:,}",
-                dataset_size=f"{file_size_g:.1f}GB",
-            ),
+            {
+                "Data Source": url,
+                "Date Range": f"{date_str_min} to {date_str_max}",
+                "Number of Docs": f"{n_docs:,}",
+                "Dataset Size": f"{file_size_g:.1f}GB",
+            },
         ]
         return (
             [
