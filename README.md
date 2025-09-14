@@ -8,7 +8,7 @@
 | date_min | 2012-04-23 |
 | date_max | 2025-09-11 |
 | n_docs | 10,149 |
-| n_docs_with_pdf | 10,148 |
+| n_docs_with_pdf | 10,149 |
 | dataset_size | 3.7GB |
 
 ## Documents by year
