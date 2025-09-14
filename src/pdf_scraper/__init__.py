@@ -8,6 +8,7 @@ from pdf_scraper.AbstractDocExtendedDataMixin import \
 from pdf_scraper.AbstractDocMetadataMixin import AbstractDocMetadataMixin
 from pdf_scraper.AbstractHomePage import AbstractHomePage
 from pdf_scraper.ChartDocsByYear import ChartDocsByYear
+from pdf_scraper.HuggingFaceDataset import HuggingFaceDataset
 from pdf_scraper.Pipeline import Pipeline
 from pdf_scraper.PipelineExtendedDataMixin import PipelineExtendedDataMixin
 from pdf_scraper.PipelineMetadataMixin import PipelineMetadataMixin
