@@ -55,16 +55,20 @@ class ReadMe:
         file_size_g = self.doc_class.get_total_file_size() / 1_000_000_000
         log.debug(f"{file_size_g=:.1f}")
         return [
-            f"**{n_docs:,}** documents"
+            f"- **{n_docs:,}** documents"
             + f" from **{date_str_min}** to **{date_str_max}**"
             + " downloaded from"
             + f" [{url}]({url}).",
             "",
-            "PDFs downloaded for"
+            "- PDFs downloaded for"
             + f" **{n_docs_with_pdf:,}**"
             + f" (**{p_docs_with_pdf:.1%}**) documents.",
             "",
-            f"Total data size: **{file_size_g:.1f} GB**.",
+            f"- Total data size: **{file_size_g:.1f} GB**.",
+            "",
+            f"- [All Data]({self.doc_class.remote_data_url_base()})",
+            "",
+            "- This data is **Public** by law.",
             "",
         ]
 
