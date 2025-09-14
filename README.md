@@ -4,7 +4,7 @@
 
 PDFs downloaded for **5,308** (**52.3%**) documents.
 
-Total data size: **2.0 GB**.
+Total data size: **2.1 GB**.
 
 ## 20 Latest documents
 
