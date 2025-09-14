@@ -2,6 +2,9 @@ import os
 from functools import cached_property
 
 import matplotlib.pyplot as plt
+from utils import Log
+
+log = Log("ChartDocsByYear")
 
 
 class ChartDocsByYear:
@@ -22,12 +25,12 @@ class ChartDocsByYear:
         ax.set_xlabel("Year")
         ax.set_ylabel("Number of documents")
         ax.set_title(
-            f"Number of {self.doc_class.doc_class_pretty_label()}"
+            f"Number of {self.doc_class.doc_class_label()}"
             + " documents by year"
         )
-        ax.set_xticks(years, rotation=45)
+        ax.set_xticks(years)
         plt.tight_layout()
         os.makedirs(os.path.dirname(self.image_path), exist_ok=True)
-        plt.savefig(self.image_path)
+        plt.savefig(self.image_path, dpi=300)
         plt.close()
-        print(f"Wrote {self.image_path}")
+        log.info(f"Wrote {self.image_path}")
