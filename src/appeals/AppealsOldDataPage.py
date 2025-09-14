@@ -70,6 +70,7 @@ class AppealsOldDataPage(AppealsDataPage):
             date_str=date_str,
             description=description,
             url_pdf=url_pdf,
+            url_metadata=self.url,
             # specific
             parties=parties,
             judgement_by=judgement_by,
