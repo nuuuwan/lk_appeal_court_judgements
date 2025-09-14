@@ -69,7 +69,7 @@ class HuggingFaceDataset:
         JSONFile(self.chunks_json_path).write(d_list)
         log.info(f"Wrote {self.chunks_json_path}")
 
-    def upload_to_hugging_face(self, do_upload=False):
+    def upload_to_hugging_face(self):
         docs_df = pd.read_json(self.docs_json_path)
         chunks_df = pd.read_json(self.chunks_json_path)
         docs_ds = Dataset.from_pandas(docs_df)
@@ -86,13 +86,10 @@ class HuggingFaceDataset:
 
         for ds, label in [(docs_ds, "docs"), (chunks_ds, "chunks")]:
             dataset_id = f"{hf_project}-{label}"
-            if do_upload:
-                repo_id = ds.push_to_hub(
-                    dataset_id, token=self.HUGGING_FACE_TOKEN
-                )
-                log.info(f"🤗 Uploaded {dataset_id} to {repo_id}")
+            repo_id = ds.push_to_hub(dataset_id, token=self.HUGGING_FACE_TOKEN)
+            log.info(f"🤗 Uploaded {dataset_id} to {repo_id}")
 
-    def build_and_upload(self, do_upload=False):
+    def build_and_upload(self):
         self.build_docs()
         self.build_chunks()
-        self.upload_to_hugging_face(do_upload)
+        self.upload_to_hugging_face()
