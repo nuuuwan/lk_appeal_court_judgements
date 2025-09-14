@@ -4,7 +4,7 @@ from functools import cached_property
 
 from utils import JSONFile, Log
 
-from utils_future import WWW, PDFFile
+from utils_future import WWW, File, PDFFile
 
 log = Log("AbstractDocExtendedDataMixin")
 
@@ -72,6 +72,10 @@ class AbstractDocExtendedDataMixin:
     def blocks_path(self) -> str:
         return os.path.join(self.dir_doc_extended, "blocks.json")
 
+    @cached_property
+    def readme_path(self) -> str:
+        return os.path.join(self.dir_doc_extended, "README.md")
+
     def extract_blocks(self):
         if not os.path.exists(self.pdf_path):
             return
@@ -79,6 +83,10 @@ class AbstractDocExtendedDataMixin:
         blocks = pdf_file.get_block_info_list()
         JSONFile(self.blocks_path).write(blocks)
         log.info(f"Wrote {len(blocks):,} blocks to {self.blocks_path}")
+
+        text_lines = [block["text"] for block in blocks if block["text"]]
+        File(self.readme_path).write("\n\n".join(text_lines))
+        log.info(f"Wrote README.md to {self.readme_path}")
 
     def scrape_extended_data(self):
         if not os.path.exists(self.dir_doc_extended):
