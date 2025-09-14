@@ -4,7 +4,7 @@
 
 - PDFs downloaded for **5,308** (**52.3%**) documents.
 
-- Total data size: **2.1 GB**.
+- Total data size: **2.2 GB**.
 
 - [All Data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data)
 
