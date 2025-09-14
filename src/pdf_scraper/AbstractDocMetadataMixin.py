@@ -61,3 +61,11 @@ class AbstractDocMetadataMixin:
         ]
         doc_list.sort(key=lambda doc: (doc.doc_id), reverse=True)
         return doc_list
+
+    @classmethod
+    def get_url_source_set(cls) -> set[str]:
+        return {
+            doc.url_source
+            for doc in cls.list_all()
+            if doc.url_source is not None
+        }
