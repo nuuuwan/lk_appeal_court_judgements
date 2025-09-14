@@ -13,7 +13,7 @@ log = Log("Pipeline")
 
 class Pipeline(PipelineMetadataMixin, PipelineExtendedDataMixin):
     class DEFAULT:
-        MAX_DT = 1200
+        MAX_DT = 750
 
     def __init__(
         self,
