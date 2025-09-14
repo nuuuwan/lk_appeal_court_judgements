@@ -1,6 +1,7 @@
 from utils import File, Log
 
 from pdf_scraper.ChartDocsByYear import ChartDocsByYear
+from utils_future import Markdown
 
 log = Log("ReadMe")
 
@@ -51,26 +52,27 @@ class ReadMe:
         url = self.home_page_class().url
         n_docs_with_pdf = sum(1 for doc in doc_list if doc.has_pdf)
         log.debug(f"{n_docs_with_pdf=}")
-        p_docs_with_pdf = n_docs_with_pdf / n_docs
         file_size_g = self.doc_class.get_total_file_size() / 1_000_000_000
         log.debug(f"{file_size_g=:.1f}")
-        return [
-            f"- **{n_docs:,}** documents"
-            + f" from **{date_str_min}** to **{date_str_max}**"
-            + " downloaded from"
-            + f" [{url}]({url}).",
-            "",
-            "- PDFs downloaded for"
-            + f" **{n_docs_with_pdf:,}**"
-            + f" (**{p_docs_with_pdf:.1%}**) documents.",
-            "",
-            f"- Total data size: **{file_size_g:.1f} GB**.",
-            "",
-            f"- [All Data]({self.doc_class.remote_data_url_base()})",
-            "",
-            "- This data is **Public** by law.",
-            "",
+
+        d_list = [
+            dict(
+                source=url,
+                n_docs=f"{n_docs:,}",
+                date_min=date_str_min,
+                date_max=date_str_max,
+                n_docs_with_pdf=f"{n_docs_with_pdf:,}",
+                file_size=f"{file_size_g:.1f}GB",
+            ),
         ]
+        return (
+            [
+                "## Data Summary",
+                "",
+            ]
+            + Markdown.table(d_list)
+            + [""]
+        )
 
     @property
     def lines_for_header(self) -> list[str]:
