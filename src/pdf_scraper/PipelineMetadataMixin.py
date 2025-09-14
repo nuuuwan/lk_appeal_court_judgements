@@ -20,7 +20,6 @@ class PipelineMetadataMixin:
         url_metadata_set = self.doc_class.get_url_metadata_set()
         for data_page in home_page.gen_data_pages():
             if data_page.url in url_metadata_set:
-                log.debug(f"Skipping {data_page.url}")
                 continue
             for doc in data_page.gen_docs():
                 doc.write()

@@ -22,7 +22,6 @@ class WWW:
 
     @cached_property
     def content(self):
-        log.debug(f"[{self}] Openning...")
         try:
             response = requests.get(
                 self.url, timeout=self.TIMEOUT, verify=False
@@ -50,4 +49,3 @@ class WWW:
         except Exception as e:
             log.error(f"Failed to download {self.url}: {e}")
             return
-        log.debug(f"Downloaded {self.url} -> {local_path}")
