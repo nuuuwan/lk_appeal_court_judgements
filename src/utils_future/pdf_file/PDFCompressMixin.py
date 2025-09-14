@@ -1,3 +1,5 @@
+import tempfile
+
 import pymupdf
 from utils import Log
 
@@ -27,3 +29,7 @@ class PDFCompressMixin:
         output_pdf_file = self.__class__(output_path)
         log.debug(f"Compressed {self} to {output_pdf_file}")
         return output_pdf_file
+
+    @staticmethod
+    def temp_pdf_file_path():
+        return tempfile.mktemp(suffix=".pdf")
