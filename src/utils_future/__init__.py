@@ -3,5 +3,5 @@
 
 from utils_future.FileFuture import FileFuture
 from utils_future.Markdown import Markdown
-from utils_future.pdf_file import PDFCompressMixin, PDFFile, PDFTextMixin
+from utils_future.pdf_file import PDFFile, PDFTextMixin
 from utils_future.WWW import WWW

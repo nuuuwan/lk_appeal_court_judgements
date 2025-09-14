@@ -60,9 +60,7 @@ class AbstractDocExtendedDataMixin:
         return os.path.exists(self.pdf_path)
 
     def __download_pdf__(self):
-        temp_pdf_path = PDFFile.temp_pdf_path()
-        WWW(self.remote_data_url).download_binary(temp_pdf_path)
-        PDFFile(temp_pdf_path).compress(self.pdf_path)
+        WWW(self.remote_data_url).download_binary(self.pdf_path)
 
     @cached_property
     def remote_data_url(self) -> str:
