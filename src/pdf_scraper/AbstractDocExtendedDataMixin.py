@@ -1,6 +1,6 @@
 import os
 import shutil
-from functools import cached_property
+from functools import cache, cached_property
 
 from utils import File, JSONFile, Log
 
@@ -85,6 +85,11 @@ class AbstractDocExtendedDataMixin:
         text_lines = [block["text"] for block in blocks if block["text"]]
         File(self.readme_path).write("\n\n".join(text_lines))
         log.info(f"Wrote README.md to {self.readme_path}")
+
+    def get_text(self):
+        if not os.path.exists(self.readme_path):
+            return ""
+        return File(self.readme_path).read()
 
     def scrape_extended_data(self):
         if not os.path.exists(self.dir_doc_extended):
