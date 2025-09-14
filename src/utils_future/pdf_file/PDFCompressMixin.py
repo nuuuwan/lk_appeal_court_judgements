@@ -15,6 +15,8 @@ class PDFCompressMixin:
     def __compress_with_pymupdf__(input_path, output_path):
         assert input_path != output_path
         doc = pymupdf.open(input_path)
+        if not doc.is_pdf:
+            raise ValueError(f"Not a PDF: {input_path}")
 
         doc.rewrite_images(
             dpi_target=PDFCompressMixin.DPI_TARGET,
@@ -31,8 +33,9 @@ class PDFCompressMixin:
             return output_pdf_file
         except Exception as e:
             log.error(f"Failed to compress {self}: {e}")
-            shutil.move(self.path, output_pdf_path)
-            return self.__class__(output_pdf_path)
+
+        shutil.move(self.path, output_pdf_path)
+        return self.__class__(output_pdf_path)
 
     @staticmethod
     def temp_pdf_path():
