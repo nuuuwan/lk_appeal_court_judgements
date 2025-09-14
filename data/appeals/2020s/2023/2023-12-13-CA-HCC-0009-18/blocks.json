@@ -1,0 +1,972 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      728.41,
+      543.27,
+      755.74
+    ],
+    "text": "pg. 1",
+    "fonts": [
+      "Calibri",
+      "Calibri-Light"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.42,
+      83.99,
+      536.26,
+      100.35
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      210.17,
+      108.59,
+      406.72,
+      124.95
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      182.88,
+      543.85,
+      225.08
+    ],
+    "text": "In the matter of an appeal made in terms of Article 331 of the Code of Criminal Procedure Act No. 15 of 1979.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      237.24,
+      425.83,
+      251.24
+    ],
+    "text": "Hon. Attorney General",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      432.07,
+      263.31,
+      542.98,
+      277.31
+    ],
+    "text": "Complainant",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      289.22,
+      567.58,
+      305.58
+    ],
+    "text": "Court of Appeal Case No. Vs.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      317.79,
+      538.18,
+      331.79
+    ],
+    "text": "CA/HCC/09/2018 Peduruhakuru Nikshan Gunasekara alias",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      343.95,
+      507.22,
+      357.95
+    ],
+    "text": "Uduwilahewage Nikshan Gunasekara",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      369.99,
+      540.77,
+      384.8
+    ],
+    "text": "Accused",
+    "fonts": [
+      "BookmanOldStyle-Bold",
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      396.03,
+      348.96,
+      410.84
+    ],
+    "text": "AND NOW",
+    "fonts": [
+      "BookmanOldStyle-Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      448.25,
+      533.38,
+      462.25
+    ],
+    "text": "Peduruhakuru Nikshan Gunasekara alias",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      474.41,
+      507.22,
+      488.41
+    ],
+    "text": "Uduwilahewage Nikshan Gunasekara",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      500.45,
+      540.1,
+      514.43
+    ],
+    "text": "Accused Appellant",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      566.68,
+      309.5,
+      583.07
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      603.44,
+      418.63,
+      617.44
+    ],
+    "text": "Hon. Attorney General",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.05,
+      629.48,
+      544.66,
+      643.48
+    ],
+    "text": "Complainant- Respondent",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      728.41,
+      543.27,
+      755.74
+    ],
+    "text": "pg. 2",
+    "fonts": [
+      "Calibri",
+      "Calibri-Light"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      71.86,
+      358.39,
+      85.86
+    ],
+    "text": "Before : Menaka Wijesundera J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.02,
+      94.92,
+      347.59,
+      108.92
+    ],
+    "text": "B. Sasi Mahendran J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      122.04,
+      547.78,
+      136.04
+    ],
+    "text": "Counsel : Prasantha Lal De Alwis, P.C. with L.A.D. Samith Kalhara",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      148.08,
+      432.31,
+      162.08
+    ],
+    "text": "for the Accused Appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      174.24,
+      543.94,
+      188.24
+    ],
+    "text": "Azard Navavi, SDSG for the State.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      195.24,
+      257.33,
+      209.24
+    ],
+    "text": "Argued on : 30.11.2023",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      218.28,
+      257.33,
+      232.28
+    ],
+    "text": "Decided on : 13.12.2023",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      265.76,
+      260.3,
+      280.86
+    ],
+    "text": "MENAKA WIJESUNDERA J.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      289.95,
+      543.79,
+      319.19
+    ],
+    "text": "The instant appeal has been filed to set aside the judgment dated 15 02 2018 of the High Court of Balapitiya.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      328.35,
+      543.9,
+      357.59
+    ],
+    "text": "The accused appellant (hereinafter referred to as the appellant) has been indicted for grave sexual abuse under the provisions of the Penal Code.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      366.75,
+      543.94,
+      395.99
+    ],
+    "text": "The appellant has been found guilty of the charge in the indictment and the trial judge had sentenced him accordingly.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      405.15,
+      489.22,
+      419.13
+    ],
+    "text": "The grounds of appeal raised by the Counsel for the appellant are,",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      428.45,
+      544.13,
+      442.43
+    ],
+    "text": "1) The improbability of the story for the prosecution which he alleges",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      443.57,
+      414.19,
+      472.79
+    ],
+    "text": "has not been considered by the trial judge. 2) The delay in making the 1st complaint to police.",
+    "fonts": [
+      "Arial-BoldMT",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      481.97,
+      543.85,
+      511.21
+    ],
+    "text": "The version of the prosecution is that the victim had been six years of age at the time of the offence and the appellant had been the father of the victim.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      520.37,
+      543.94,
+      564.85
+    ],
+    "text": "The victim had been unable to speak of a definite date of the incident but says that the time of the incident had been either 2008 or 2009 in the month of November.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      574.01,
+      543.86,
+      618.4
+    ],
+    "text": "She further says that the mother had been in hospital with the new born sister of the victim and the father had just returned from abroad and had been at home with the brother of the victim when the alleged incidents took place.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      627.68,
+      543.93,
+      702.52
+    ],
+    "text": "The victim speaks of two incidents and one such is that one day when she had been resting in bed the farther had come and had stroked her genital area and there after he had pressed his genital area on to her but had immediately stopped when the brother had come home. But later he had threatened her with death and as such she had not told anyone as to what had happened.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      728.41,
+      543.27,
+      755.74
+    ],
+    "text": "pg. 3",
+    "fonts": [
+      "Calibri",
+      "Calibri-Light"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      71.98,
+      543.91,
+      161.96
+    ],
+    "text": "Subsequently on another day when the mother had returned home from hospital with the infant sister the appellant had once more put his hand in to her underwear which the mother had seen partly and the mother had questioned her and the appellant and thereafter there had been several fights between the appellant and the victims mother and as a result of which the mother of the victim had complained to police on the 28th of March 2009.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      171.24,
+      543.93,
+      230.84
+    ],
+    "text": "The victim had been examined by the Judicial Medical Officer on the 30th of the same month and his evidence also had been led and to the JMO the victim had said in the history that the appellant had kept his genital parts on to hers on several occasions.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      240.0,
+      543.94,
+      314.87
+    ],
+    "text": "But the doctor had observed an old tear in her hymen and the doctor had said that her hymen had enlarged quite not keeping with her age and he had said that the tear in the hymen is due to penetration but he had also said that it could have taken place if her genital parts had been pressed with a lot of force too often because of her tender age.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      324.03,
+      316.37,
+      338.03
+    ],
+    "text": "The doctor had not ruled out the history.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      347.19,
+      543.92,
+      391.67
+    ],
+    "text": "The prosecution witnesses had been lengthily cross examined but they have stood the test of consistency and credibility although the counsel for the appellant had said very strenuously that it is an improbable story.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      400.83,
+      543.71,
+      430.07
+    ],
+    "text": "But we observe that the mother of the victim had not complained instantly for reasons she had explained and which are quite acceptable.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      439.25,
+      544.18,
+      559.67
+    ],
+    "text": "The belatedness of statements has been considered in the case of Arachchige Mahinda Dharma Sri Muthuarachchi vs Attorney General CA-485-2017 decided on 24.7.2020 where it has quoted the case of Haramanis vs Somalatha (1998) # Sri L.R. 365 where Jayasuriya J has held that the law in its wisdom requires that the statement should be made within a reasonable time. The test is whether it was made as early as could reasonably be expected in the circumstances and whether there was or was not time for tutoring and concoction.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      568.85,
+      543.91,
+      643.72
+    ],
+    "text": "In the instant matter it has been explained by the victim and the mother that after the mother of the victim got to know there had been many fights between the mother and the appellant and thereafter the families of both parties had tried to settle the matter which is most natural, and failing all those only the complaint had been logged.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      652.88,
+      543.86,
+      697.36
+    ],
+    "text": "The Counsel for the appellant tried valiantly to show that the delay was due to the tutoring and the concocting of the story but as stated above the witnesses of the prosecution had explained well as to why the delay was which is most",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      728.41,
+      543.27,
+      755.74
+    ],
+    "text": "pg. 4",
+    "fonts": [
+      "Calibri",
+      "Calibri-Light"
+    ],
+    "sizes": [
+      11.039999961853027,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      71.98,
+      543.73,
+      101.24
+    ],
+    "text": "acceptable in a background of rural surroundings in which the incident had taken place.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      110.4,
+      543.72,
+      139.64
+    ],
+    "text": "Hence the delay in lodging the complaint in the police had been suitably explained by the prosecution.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      148.8,
+      543.89,
+      193.16
+    ],
+    "text": "The victim being child of six years at the time of the incident could not be expected to be narrating the incident with an accuracy of an adult and especially when it comes to the date of the offence.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      202.44,
+      543.94,
+      262.04
+    ],
+    "text": "She had been consistent of the incident in spite of her age and the defense had tried very strenuously to show that the incident was created for a monitory dispute which is hard to believe because the victim had been quite consistent in her narration of the incident.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      271.23,
+      543.86,
+      315.59
+    ],
+    "text": "Furthermore, the defense made a very big hue and a cry about the medical evidence noting of a tear in the hymen and the victim stating in the history that the appellant had abused her several times.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      324.87,
+      543.94,
+      369.23
+    ],
+    "text": "But we note that the doctor had very clearly stated that the observations tally with the history and the history cannot be ruled out in comparison with the findings.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      378.39,
+      543.94,
+      468.49
+    ],
+    "text": "As such although the Counsel for the appellant very cleverly tried to draw the picture that the prosecution version was an impossibility, we see no such thing and we are of the opinion that the prosecution version has proved its case beyond a reasonable doubt although the appellant has right along in his defense and in his dock, statement had said that the story for the prosecution was a concocted story. But we are unable to accept the same for the reasons stated above.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      477.65,
+      543.73,
+      522.13
+    ],
+    "text": "As such we see no merit in the grounds of appeal raised by the Counsel for appellant, as such, we are compelled to dismiss the instant appeal and affirm the conviction and the sentence of the appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.02,
+      603.58,
+      470.43,
+      616.54
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      628.66,
+      242.98,
+      641.62
+    ],
+    "text": "Hon. Justice B. Sasi Mahendran",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      653.86,
+      151.03,
+      666.82
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      703.21,
+      471.03,
+      717.25
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      12.960000038146973,
+      14.039999961853027
+    ]
+  }
+]

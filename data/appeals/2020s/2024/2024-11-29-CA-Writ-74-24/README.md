@@ -1,0 +1,151 @@
+1
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF
+
+SRI LANKA
+
+In the matter of an Application under Article 140 of the Constitution for a mandates in the nature of a Writ of Certiorari and/or Prohibition.
+
+National Institute of Business Management, No. 120/5, Wijerama Mawatha, Colombo 07.
+
+PETITIONER Vs. 1. Commissioner General of Labour,
+
+Labour Department, Colombo 05. 2. J.L.P. Fernando,
+
+Former Deputy Director Management Development, National Institute of Business Management, No. 6/9, Malwatta Cross Lane, Dehiwala. Presently at No. 115, Supem Uyana, Gonapinuwala. 3. R.S. Ariyapperuma,
+
+No. 03, Araliya Mawatha, Sirimal Uyana, Ratmalana.
+
+Court of Appeal Case No: CA/WRIT/74/2024
+
+2
+
+4. Hon. Attorney General,
+
+Attorney Generals Department, Colombo 12.
+
+RESPONDENTS
+
+Mayadunne Corea J
+
+The Petitioner to this Application has sought among other things for the following reliefs;
+
+(d) Issue a mandate in the nature of a Writ of Certiorari quashing the said award dated 23rd October 2023 marked P18;
+
+(e) Issue a mandate in the nature of a Writ of Prohibition restraining the 1st and 2nd Respondents or any one acting under them from acting upon the said Award dated 23rd October 2023 marked P18.
+
+The facts briefly are as follows. The 2nd Respondent was an employee of the Petitioner. The 2nd Respondents employment had commenced prior to the issuance of the Management Circular No. 30 of 2009. By the said Circular the Petitioner had affected its management structure. It was contended that the Petitioner has in accordance with Management Circular No. 30 of 2006 and Circular No. 30 of 2009, re-constructed its positions, salaries and the organization structures and created designations and salaries were amended accordingly. With the reconstruction a position called Head of Management
+
+Before: S.U.B. Karalliyadde, J Mayadunne Corea, J
+
+Counsel: Priyantha Alagiyawanna with Heshani Gunarathne and Tharushi Weerasekara instructed by Dhammika Jinimige for the Petitioner. K. Dilantha Sampath, S.C. for the 1st and 4th Respondents. Sanath Weerasinghe with Shiromi Wanasinghe for the 2nd Respondent.
+
+Supported on: 15.10.2024
+
+Decided on: 29.11.2024
+
+3
+
+Development was created and the Petitioner had called for Applications to fill the said position. The 2nd Respondent who had been employed in the Petitioner Institution from 2001 had not applied for the said position.
+
+The 2nd Respondent subsequently received several promotions, and prior to the restructuring, he was serving as the Deputy Director Management. The 2nd Respondent on several occasions complained to the Department of Labour about the purported injustice caused to the 2nd Respondent pursuant to the restructuring and the creation of new designations. The 2nd Respondent had complained to the Labour Officer who had dismissed the complaint after inquiry on the ground of not having any merit in the said complaint.
+
+However, as the dispute continued between the parties, the 2nd Respondent had requested for another inquiry after the initial inquiry conducted by the Department that determined that there was no injustice caused to the 2nd Respondent. Thus, the Minister of Labour by an Order made under Section 4(1) of the Industrial Disputes Act as amended by the Industrial Disputes (Special Provisions) Act, No. 37 of 1968, (referred to as IDA herein after) decided that an industrial dispute exists between the Petitioner and the 2nd Respondent and appointed the 3rd Respondent as the arbitrator.
+
+The 3rd Respondent at the conclusion of the industrial arbitration on 23rd October 2023 made an award determining that the 2nd Respondent should have been promoted with effect from 20th February 2013 as the Head of the Department and as a Director with effect from 15th July 2015 and further, the Petitioner must pay the 2nd Respondent a sum of Rs. 9,261,444/-. The Petitioner states that the said award is arbitrary, unjust and against the material placed before the arbitrator. Hence, this Application.
+
+The Respondents Objections
+
+The learned State Counsel appearing for the 1st Respondent raised several preliminary objections to the Application and for notice being issued. Further, it was contended among other grounds of failure to comply with the provisions of the IDA as amended by Act No. 22 of 2022.
+
+4
+
+The 2nd Respondent too in association with the 1st Respondent raised several preliminary objections. Further, in the limited objections, filed among other grounds objected to the Application on the following grounds.
+
+The Petitioner has not complied with the Provisions of the IDA as Amended by Act,
+
+No. 22 of 2022. The failure of the Petitioner to name the necessary parties to the Application. The Petitioner has suppressed and misrepresented material facts.
+
+This Court will consider the preliminary objections of the Respondent first.
+
+Non-compliance with the provisions of the Industrial Disputes Act
+
+The learned State Counsel contends that the Petitioner has failed to comply with Section 31DDDDD of the IDA as amended by Act, No. 22 of 2022. This Section has been brought in through an amendment to the IDA by Act, No. 22 of 2022. This Court will now consider the said Section.
+
+31DDDDD - Employer to furnish a security in respect of an Application to the Court of Appeal.
+
+(1) Where an Application is preferred by an employer to the Court of Appeal, for
+
+the issue of an Order in the nature of a writ, against an award made by an arbitrator under Section 17(1) or by an industrial court under Section 24, the Court of Appeal shall entertain such Application upon furnishing a security by such employer, in cash to the Commissioner-General, where such award which is subject to such Application directs the payment of a sum of money to the worker, of an amount equal to such sum. (2) The Commissioner-General shall cause to be deposited the sum as specified in
+
+subsection (1) in an account bearing interests, maintained by the Commissioner-General, in any approved bank in Sri Lanka. (3) Every Application preferred under this subsection, shall be supported by a
+
+certificate under the hand of the Commissioner-General to the effect that the security as specified in subsection (1) has been duly furnished by such employer.
+
+5
+
+The Sinhala version of the Act states,
+
+31 .
+
+(1) 17(1) 24
+
+, , . (2) , (1)
+
+. (3) , (1)
+
+. "
+
+As per the said Section, for the Court of Appeal to entertain an Application, the employer should furnish the security to the Commissioner General. Further, subsection (3) of the said Section contemplates that a certificate under the hand of the Commissioner General should support the Application as specified in subsection (1) hence when an Application is made the certificate should accompany it.
+
+Accordingly, the learned State Counsel contends that this Section has not been complied with by the Petitioner. As per the said Section for the Court of Appeal to entertain an Application, there are two preconditions that have to be met by the Petitioner. Namely, to furnish the security equal to the sum awarded and the said Application should be supported by a certificate under the hands of the Commissioner General to the effect that the security under subsection (1) has been duly furnished. It is the contention of the learned State Counsel that the said Section is mandatory and noncompliance should result in the dismissal of this Application. In reply the learned Counsel for the Petitioner conceded that the deposit had been made but it was subsequent to the filing of this case. Further, it was his contention that the wording is not clear as to what stage the deposit should be made.
+
+6
+
+The wording of the said Section is clear and this Court cannot accept the said submission. Further, we are of the view that there is no ambiguity in the said Section.
+
+This Court in Lanka Electricity Company (Pvt) Limited v. The Commissioner of Labour and others CA Writ 753/23 decided on 30.09.2024 has held that for the Court of Appeal to entertain an Application for the exercise of their Writ jurisdiction pursuant to Section 31 DDDDD that it is mandatory that the Petitioner deposits the security and it should be supported by the certificate of deposit under the hand of the Commissioner General of Labour. In coming to the said conclusion, the Court has considered the judgments of Wimalasiri Perera and others v. Lakmali Enterprises Diesel and Petrol Motor Engineers and others [2003] 1 SLR 62 and Linea Aqua (Pvt) Ltd v. P. Chinthaka Lakdewa De Silva SC Appeal No. 178/2018 decided on 05.07.2019. In this case, we find the Petitioner in their Petition has nowhere pleaded that they have deposited the said sum in compliance with Section 31DDDDD.
+
+Furthermore, this Court observes that the Petitioner has failed to annex the certificate issued by the Commissioner General with the Application. In reply to this objection, the learned Counsel for the Petitioner further submitted that they have subsequent to filing the Writ Application have deposited the said sum and have tendered the certificate to the Court by way of a motion. As correctly argued by the learned Counsel appearing for the Respondent the said motion has been field without the permission of the Court and had not been supported. Even if this Court is to consider this certificate it will not absolve the Petitioner form not complying with Section 31 DDDDD. The Petitioner as per the documents submitted by way of a motion have complied with the requirement of furnishing the deposit equivalent to the amount of the award only on 27.03.2024 and the certificate is dated with a date subsequent to that. However, the Writ Application has been filed on 30.01.2024. Accordingly, we find that the security deposit and the certificate have been filed several months after the filing of the Petition. Which in our view, is a substantial noncompliance with the mandatory Section 31 DDDDD of the IDA. The said failure of the Petitioner to comply with the mandatory Section of the IDA is fatal to the Writ Application. Accordingly, we hold that the Respondents objection has to succeed. We come to this conclusion after careful consideration of the relevant Section of the Amendment to the Act namely, No. 22 of 2022. As stated above, even the Sinhala version of the Amendment clearly states that the said deposit and the certificate that follows has to be submitted for the Court of Appeal to entertain. Hence, we determine, for the Court of Appeal to exercise the Writ jurisdiction in this Writ Application the compliance of Section 31 DDDDD is mandatory.
+
+7
+
+Suppression of material facts
+
+The learned Counsel appearing for the 2nd Respondent submitted that subsequent to a Cabinet decision the Petitioner had been ordered to grant relief to the 2nd Respondent, and the Petitioner has not challenged the said decision but has dragged on giving various reasons, delaying the implementation of the said recommendation. The learned Counsel for the 2nd Respondent further submitted that it was the reason for the dispute to be prolonged which culminated in the referral to arbitration. This issue had been considered by the arbitrator however it is the contention of the Counsel that the Petitioner has failed to submit the said Cabinet decision to this Court and has willfully suppressed material facts from this Court. This Court observes that the said Cabinet decision has been referred to in the Arbitral award. However, the Petitioner has failed to tender the Cabinet decision to this Court. The decision marked as 2R (3) by the 2nd Respondent has not been tendered to this Court. This Court observes that the Petitioner has not only failed to tender the Cabinet decision but has also failed to plead the said Cabinet decision.
+
+It is well established law that the suppression of material facts disentitled the Petitioner from the relief they seek. In Biso Menika v. Cyril De Alwis & others 1982 (1) SLR 368 it was held A person who applies for the extra-ordinary remedy of writ must come with clean hands and must not suppress any relevant facts from Court. He must refrain from making any misleading statements to Court.
+
+Are the necessary parties before Court?
+
+The Respondents also took an objection on the maintainability of this Application and contended that the Petitioner has willfully not named the parties who will be affected by the decision of this Writ Application. They contended that the Minister who appointed the Arbitrator and made the reference for arbitration has not been named as a party. As per the submissions of the learned Counsel for the Petitioner, the reference for arbitration and the arbitration award as per the reference, was contested by the Petitioner especially when the second referral was challenged in their submissions. It is the contention of the learned Counsel for the Petitioner that once a Labour Officer has decided that there is no dispute between the parties it cannot be reconsidered by another Labour Officer and referred for arbitration. It is observed by this Court that the referral for arbitration pursuant to the Section is the decision of the Minister. The learned Counsel for the 2nd Respondent argued that by the above submission of the Petitioner he is directly challenging the referral. In the said circumstances, this Court observes that the Respondents have raised the objection that
+
+8
+
+the Minister who made a reference for the arbitration and named the arbitrator is a necessary party whom the Petitioner has failed to name in this Application. It would be an appropriate time to consider Section 4(1) of the Industrial Disputes Act. 4.
+
+(1) The Minister may, if he is of the opinion that an industrial dispute is a minor
+
+dispute, refer it, by an order in writing, for settlement by arbitration to an arbitrator appointed by the Minister or to a labour tribunal, notwithstanding that the parties to such dispute or their representatives do not consent to such reference. (2) The Minister may, by an order in writing, refer any industrial dispute to an
+
+Industrial Court for settlement. As per the Section, it is clear for the matter to be referred for arbitration the Minister has formed an opinion that there is an industrial dispute and the said dispute has to be referred for arbitration. Hence, the arbitrator is appointed and clothed with the power to arbitrate by the Ministers opinion pursuant to the Section. When this Court is invited to quash the decision of the arbitrator the result will affect the Ministers decision, especially considering the Petitioners argument that it was the second Labour Officer who recommended arbitration when the first Labour Officer had come to the conclusion that there was no dispute. As contended by the learned Counsel for the 2nd Respondent, the Petitioner by the said argument is challenging the decision to refer the matter to arbitration. It is observed by this Court that when the award is impugned, the award is the culmination of the Ministers decision to refer the dispute for arbitration. Therefore, it is the considered view of this Court that the Petitioner should have made the Minister a party and he becomes a necessary party to this Application. In coming to this decision, the Court has considered the decision of British Ceylon Corporation v. C.J. Weerasekara & Others [1982] 1 SLR 180 where the Court held that
+
+It is clear that the appellant-company in the petitions before the Court of Appeal and in the appeal filed before us in questioning the legality or validity of every order, of reference or revocation made by the Minister of Labour. Under the provisions of Section 4(1) of the Industrial Disputes Act No. 43 of 1950, the Minister of Labour is not called upon to exercise any judicial function in regard to the actual industrial dispute. He has merely to form an opinion whether the dispute was a minor dispute that could be settled by compulsory arbitration. Once he forms that view he is only concerned with taking the preliminary step of ordering a reference to have the dispute settled by arbitration. The power he exercises is of a purely administrative nature and it is his duty to see that there is industrial peace in the country. There is nothing in the Act itself to indicate that once he makes an order his powers are exhausted nor are there any expressed prohibitions on the exercise of that power. As the exercise of the powers of Minister of Labour were being questioned he should
+
+9
+
+properly have been made a party to the petition before the Court of Appeal from the very outset. And, also, in the decision of Central Cultural Fund v. Lanka General Services Union & three others 2008 [B.L.R.] 269 it was held
+
+(a) The Minister under Section 4(1) makes the initial order referring the matter
+
+for arbitration therefore the Minister should have been made a party to the proceedings since it was his order that was being challenged. (b) The failure to make the Minister a Respondent to the Application is fatal to the Petitioners Application. The failure to name the necessary parties is fatal to a Writ Application. Hence, the said objection succeeds. In view of the fact that this Court has held that Section 31DDDDD is a mandatory provision that has been violated by the Petitioner, and the Court has accepted that the necessary parties have not been made a party to this Application and the said grounds are fatal, this Court does not intend to discuss all the objections that are raised.
+
+Accordingly, for the above stated reasons, this Court is not inclined to grant notice as pleaded by the Petitioner. Hence, we proceed to dismiss this Application.
+
+Judge of the Court of Appeal
+
+S.U.B. Karalliyadde, J
+
+I agree
+
+Judge of the Court of Appeal
