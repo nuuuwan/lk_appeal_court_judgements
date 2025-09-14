@@ -1,6 +1,6 @@
 import os
 import shutil
-from functools import cache, cached_property
+from functools import cached_property
 
 from utils import File, JSONFile, Log
 
