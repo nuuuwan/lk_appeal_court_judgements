@@ -1,3 +1,4 @@
+import shutil
 import tempfile
 
 import pymupdf
@@ -23,10 +24,15 @@ class PDFCompressMixin:
         doc.ez_save(output_path)
 
     def compress(self, output_pdf_path):
-        self.__compress_with_pymupdf__(self.path, output_pdf_path)
-        output_pdf_file = self.__class__(output_pdf_path)
-        log.debug(f"Compressed {self} to {output_pdf_file}")
-        return output_pdf_file
+        try:
+            self.__compress_with_pymupdf__(self.path, output_pdf_path)
+            output_pdf_file = self.__class__(output_pdf_path)
+            log.debug(f"Compressed {self} to {output_pdf_file}")
+            return output_pdf_file
+        except Exception as e:
+            log.error(f"Failed to compress {self}: {e}")
+            shutil.move(self.path, output_pdf_path)
+            return self.__class__(output_pdf_path)
 
     @staticmethod
     def temp_pdf_path():
