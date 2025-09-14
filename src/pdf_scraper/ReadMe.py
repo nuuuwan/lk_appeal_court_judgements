@@ -1,5 +1,7 @@
 from utils import File, Log
 
+from pdf_scraper.ChartDocsByYear import ChartDocsByYear
+
 log = Log("ReadMe")
 
 
@@ -26,6 +28,17 @@ class ReadMe:
             lines.append(line)
         lines.append("")
         return lines
+
+    @property
+    def lines_chart_docs_by_year(self) -> list[str]:
+        chart = ChartDocsByYear(self.doc_class)
+        chart.build()
+        return [
+            "## Documents by year",
+            "",
+            f"![Documents by year]({chart.image_path})",
+            "",
+        ]
 
     @property
     def lines_for_summary(self) -> list[str]:
@@ -64,6 +77,7 @@ class ReadMe:
         return (
             self.lines_for_header
             + self.lines_for_summary
+            + self.lines_chart_docs_by_year
             + self.lines_for_latest_docs
         )
 
