@@ -17,15 +17,15 @@ class PipelineMetadataMixin:
         home_page = self.home_page_class()
         docs = []
         dt = 0
-        url_source_set = self.doc_class.get_url_source_set()
+        url_metadata_set = self.doc_class.get_url_metadata_set()
         for data_page in home_page.gen_data_pages():
-            if data_page.url in url_source_set:
+            if data_page.url in url_metadata_set:
                 log.debug(f"Skipping {data_page.url}")
                 continue
             for doc in data_page.gen_docs():
                 doc.write()
                 docs.append(doc)
-            url_source_set.add(data_page.url)
+            url_metadata_set.add(data_page.url)
             dt = time.time() - t_start
             if dt > max_dt:
                 PipelineMetadataMixin.__log_processed_doc__(docs, dt)

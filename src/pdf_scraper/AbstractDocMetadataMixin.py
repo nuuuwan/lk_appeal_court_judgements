@@ -46,8 +46,8 @@ class AbstractDocMetadataMixin:
         valid_keys = set(sig.parameters) - {"self"}
         filtered_data = {k: v for k, v in d.items() if k in valid_keys}
         # HACK!
-        if "url_source" not in filtered_data:
-            filtered_data["url_source"] = None
+        if "url_metadata" not in filtered_data:
+            filtered_data["url_metadata"] = None
         return cls(**filtered_data)
 
     @classmethod
@@ -65,9 +65,9 @@ class AbstractDocMetadataMixin:
         return doc_list
 
     @classmethod
-    def get_url_source_set(cls) -> set[str]:
+    def get_url_metadata_set(cls) -> set[str]:
         return {
-            doc.url_source
+            doc.url_metadata
             for doc in cls.list_all()
-            if doc.url_source is not None
+            if doc.url_metadata is not None
         }
