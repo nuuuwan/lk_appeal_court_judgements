@@ -71,3 +71,11 @@ class AbstractDocMetadataMixin:
             for doc in cls.list_all()
             if doc.url_metadata is not None
         }
+
+    @classmethod
+    def year_to_n(cls):
+        year_to_n = {}
+        for doc in cls.list_all():
+            year_to_n[doc.year] = year_to_n.get(doc.year, 0) + 1
+        year_to_n = dict(sorted(year_to_n.items(), key=lambda x: x[0]))
+        return year_to_n
