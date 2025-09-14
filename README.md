@@ -2,8 +2,8 @@
 
 ## Data Summary
 
-| k | v |
-| :-- | --: |
+|   |    |
+| :-- | :-- |
 | source | https://courtofappeal.lk |
 | date_min | 2012-04-23 |
 | date_max | 2025-09-11 |
