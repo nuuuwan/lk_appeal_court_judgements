@@ -5,11 +5,11 @@
 | k | v |
 | :-- | --: |
 | source | https://courtofappeal.lk |
-| n_docs | 10,149 |
 | date_min | 2012-04-23 |
 | date_max | 2025-09-11 |
-| n_docs_with_pdf | 6,146 |
-| file_size | 2.5GB |
+| n_docs | 10,149 |
+| n_docs_with_pdf | 7,181 |
+| dataset_size | 2.8GB |
 
 ## Documents by year
 
