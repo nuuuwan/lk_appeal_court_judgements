@@ -1,14 +1,15 @@
 # ⚖️ Judgements of the Court of Appeal of 🇱🇰 Sri Lanka
 
-- **10,149** documents from **2012-04-23** to **2025-09-11** downloaded from [https://courtofappeal.lk](https://courtofappeal.lk).
+## Data Summary
 
-- PDFs downloaded for **5,308** (**52.3%**) documents.
-
-- Total data size: **2.2 GB**.
-
-- [All Data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data)
-
-- This data is **Public** by law.
+| k | v |
+| :-- | --: |
+| source | https://courtofappeal.lk |
+| n_docs | 10,149 |
+| date_min | 2012-04-23 |
+| date_max | 2025-09-11 |
+| n_docs_with_pdf | 5,308 |
+| file_size | 2.2GB |
 
 ## Documents by year
 
