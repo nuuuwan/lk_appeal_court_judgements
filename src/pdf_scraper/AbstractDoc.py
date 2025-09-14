@@ -6,21 +6,21 @@ from functools import cache, cached_property
 
 from utils import Hash, Log
 
-from pdf_scraper.AbstractDocExtendedDataMixin import \
-    AbstractDocExtendedDataMixin
+from pdf_scraper.AbstractDocExtendedDataMixin import (
+    AbstractDocExtendedDataMixin,
+)
 from pdf_scraper.AbstractDocMetadataMixin import AbstractDocMetadataMixin
 
 log = Log("AbstractDoc")
 
 
 @dataclass
-class AbstractDoc(
-    ABC, AbstractDocMetadataMixin, AbstractDocExtendedDataMixin
-):
+class AbstractDoc(ABC, AbstractDocMetadataMixin, AbstractDocExtendedDataMixin):
     num: str
     date_str: str
     description: str
     url_pdf: str
+    url_metadata: str
 
     @classmethod
     @cache
