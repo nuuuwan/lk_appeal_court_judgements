@@ -69,6 +69,24 @@ class HuggingFaceDataset:
         JSONFile(self.chunks_json_path).write(d_list)
         log.info(f"Wrote {self.chunks_json_path}")
 
+    @cached_property
+    def hugging_face_project(self):
+        return "/".join(
+            [
+                self.HUGGING_FACE_USERNAME,
+                f"lk-docs-{self.doc_class.doc_class_label()}",
+            ]
+        )
+
+    def get_dataset_id(self, label_suffix: str) -> str:
+        return f"{self.hugging_face_project}-{label_suffix}"
+
+    def get_dataset_url(self, label_suffix: str) -> str:
+        return (
+            "https://huggingface.co/datasets"
+            + f"/{self.get_dataset_id(label_suffix)}"
+        )
+
     def upload_to_hugging_face(self):
         docs_df = pd.read_json(self.docs_json_path)
         chunks_df = pd.read_json(self.chunks_json_path)
@@ -76,16 +94,9 @@ class HuggingFaceDataset:
         chunks_ds = Dataset.from_pandas(chunks_df)
         assert self.HUGGING_FACE_USERNAME
         assert self.HUGGING_FACE_TOKEN
-        hf_project = "/".join(
-            [
-                self.HUGGING_FACE_USERNAME,
-                f"lk-docs-{self.doc_class.doc_class_label()}",
-            ]
-        )
-        log.debug(f"🤗 {hf_project=}")
 
-        for ds, label in [(docs_ds, "docs"), (chunks_ds, "chunks")]:
-            dataset_id = f"{hf_project}-{label}"
+        for ds, suffix in [(docs_ds, "docs"), (chunks_ds, "chunks")]:
+            dataset_id = self.get_dataset_id(suffix)
             repo_id = ds.push_to_hub(
                 dataset_id, token=self.HUGGING_FACE_TOKEN
             )

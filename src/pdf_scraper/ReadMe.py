@@ -4,6 +4,7 @@ from dataclasses import asdict
 from utils import File, Log
 
 from pdf_scraper.ChartDocsByYear import ChartDocsByYear
+from pdf_scraper.HuggingFaceDataset import HuggingFaceDataset
 from utils_future import Markdown
 
 log = Log("ReadMe")
@@ -91,6 +92,17 @@ class ReadMe:
         )
 
     @property
+    def lines_for_hugging_face(self):
+        lines = ["## 🤗 Hugging Face Datasets", ""]
+        hf_dataset = HuggingFaceDataset(self.doc_class)
+        for label_suffix in ["docs", "chunks"]:
+            dataset_id = hf_dataset.get_dataset_id(label_suffix)
+            url = hf_dataset.get_dataset_url(label_suffix)
+            lines.append(f"- [{dataset_id}]({url})")
+        lines.append("")
+        return lines
+
+    @property
     def lines_for_header(self) -> list[str]:
         return [f"# {self.doc_class.doc_class_pretty_label()}", ""]
 
@@ -101,6 +113,7 @@ class ReadMe:
             + self.lines_for_summary
             + self.lines_for_metadata_example
             + self.lines_chart_docs_by_year
+            + self.lines_for_hugging_face
             + self.lines_for_latest_docs
         )
 
