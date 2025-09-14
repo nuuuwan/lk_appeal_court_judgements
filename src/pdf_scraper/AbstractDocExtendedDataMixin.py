@@ -2,7 +2,7 @@ import os
 import shutil
 from functools import cached_property
 
-from utils import Log
+from utils import JSONFile, Log
 
 from utils_future import WWW, PDFFile
 
@@ -64,13 +64,27 @@ class AbstractDocExtendedDataMixin:
         WWW(self.remote_data_url).download_binary(temp_pdf_path)
         PDFFile(temp_pdf_path).compress(self.pdf_path)
 
+    @cached_property
+    def remote_data_url(self) -> str:
+        raise NotImplementedError
+
+    @cached_property
+    def blocks_path(self) -> str:
+        return os.path.join(self.dir_doc_extended, "blocks.json")
+
+    def extract_blocks(self):
+        if not os.path.exists(self.pdf_path):
+            return
+        pdf_file = PDFFile(self.pdf_path)
+        blocks = pdf_file.get_block_info_list()
+        JSONFile(self.blocks_path).write(blocks)
+        log.info(f"Wrote {len(blocks):,} blocks to {self.blocks_path}")
+
     def scrape_extended_data(self):
         if not os.path.exists(self.dir_doc_extended):
             os.makedirs(self.dir_doc_extended)
             self.__copy_metadata__()
         if not self.has_pdf:
             self.__download_pdf__()
-
-    @cached_property
-    def remote_data_url(self) -> str:
-        raise NotImplementedError
+        if not os.path.exists(self.blocks_path):
+            self.extract_blocks()
