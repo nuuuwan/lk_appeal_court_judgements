@@ -24,9 +24,7 @@ class AbstractDocMetadataMixin:
         if os.path.exists(self.json_path):
             return
         os.makedirs(self.dir_doc, exist_ok=True)
-        JSONFile(self.json_path).write(
-            dict(doc_id=self.doc_id) | asdict(self)
-        )
+        JSONFile(self.json_path).write(dict(doc_id=self.doc_id) | asdict(self))
         log.info(f"Wrote {self.json_path}")
 
     @classmethod
@@ -43,6 +41,9 @@ class AbstractDocMetadataMixin:
         sig = inspect.signature(cls.__init__)
         valid_keys = set(sig.parameters) - {"self"}
         filtered_data = {k: v for k, v in d.items() if k in valid_keys}
+        # HACK!
+        if "url_source" not in filtered_data:
+            filtered_data["url_source"] = None
         return cls(**filtered_data)
 
     @classmethod
