@@ -4,7 +4,7 @@ from functools import cached_property
 
 from utils import Log
 
-from utils_future.WWW import WWW
+from utils_future import WWW, PDFFile
 
 log = Log("AbstractDocExtendedDataMixin")
 
@@ -60,7 +60,9 @@ class AbstractDocExtendedDataMixin:
         return os.path.exists(self.pdf_path)
 
     def __download_pdf__(self):
-        WWW(self.remote_data_url).download_binary(self.pdf_path)
+        temp_pdf_path = PDFFile.temp_pdf_path()
+        WWW(self.remote_data_url).download_binary(temp_pdf_path)
+        PDFFile(temp_pdf_path).compress(self.pdf_path)
 
     def scrape_extended_data(self):
         if not os.path.exists(self.dir_doc_extended):
