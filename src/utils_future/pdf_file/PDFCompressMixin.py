@@ -31,5 +31,5 @@ class PDFCompressMixin:
         return output_pdf_file
 
     @staticmethod
-    def temp_pdf_file_path():
+    def temp_pdf_path():
         return tempfile.mktemp(suffix=".pdf")
