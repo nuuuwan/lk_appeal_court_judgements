@@ -61,21 +61,3 @@ class AbstractDocMetadataMixin:
         ]
         doc_list.sort(key=lambda doc: (doc.doc_id), reverse=True)
         return doc_list
-
-    @classmethod
-    @cache
-    def year_to_month_to_doc_list(
-        cls,
-    ) -> dict[str, dict[str, list]]:
-        idx = {}
-        for doc in cls.list_all():
-            year = doc.year
-            year_and_month = doc.year_and_month
-
-            if year not in idx:
-                idx[year] = {}
-            if year_and_month not in idx[year]:
-                idx[year][year_and_month] = []
-
-            idx[year][year_and_month].append(doc)
-        return idx
