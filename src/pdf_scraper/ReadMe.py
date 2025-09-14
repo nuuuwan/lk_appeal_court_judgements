@@ -58,11 +58,11 @@ class ReadMe:
         d_list = [
             dict(
                 source=url,
-                n_docs=f"{n_docs:,}",
                 date_min=date_str_min,
                 date_max=date_str_max,
+                n_docs=f"{n_docs:,}",
                 n_docs_with_pdf=f"{n_docs_with_pdf:,}",
-                file_size=f"{file_size_g:.1f}GB",
+                dataset_size=f"{file_size_g:.1f}GB",
             ),
         ]
         return (
