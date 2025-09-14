@@ -9,8 +9,7 @@ class PipelineExtendedDataMixin:
     def __scrape_extended_data__(self, max_dt):
         t_start = time.time()
         doc_list = self.doc_class.list_all()
-        n = len(doc_list)
-        for i_doc, doc in enumerate(doc_list, start=1):
+        for doc in doc_list:
             doc.scrape_extended_data()
             dt = time.time() - t_start
             if dt > max_dt:
