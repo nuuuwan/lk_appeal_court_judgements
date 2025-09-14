@@ -3,17 +3,38 @@
 ## Data Summary
 
 |   |    |
-| :-- | :-- |
-| source | https://courtofappeal.lk |
-| date_min | 2012-04-23 |
-| date_max | 2025-09-11 |
-| n_docs | 10,149 |
-| n_docs_with_pdf | 10,149 |
-| dataset_size | 3.7GB |
+| :-- | --: |
+| Data Source | https://courtofappeal.lk |
+| Date Range | 2012-04-23 to 2025-09-11 |
+| Number of Docs | 10,149 |
+| Dataset Size | 3.8GB |
 
-## Documents by year
+## Document Metadata Example
+
+```json
+{
+    "num": "CA/WRT/0475/2019",
+    "date_str": "2025-09-11",
+    "description": "Mudaliperuge Manel Rupa Ranjani Kulathunga Vs M. U. Nishantha, Divisional Secretary, Galewela and ten others before Hon. K.M.G.H. Kulatunga, J.",
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=28f6df4f-d61e-469a-a1b8-a65c7e840138&filename=WRT-0475-19%20-%2010.09.2025.pdf.pdf",
+    "url_metadata": "https://courtofappeal.lk/?page_id=13121",
+    "parties": "Mudaliperuge Manel Rupa Ranjani Kulathunga Vs M. U. Nishantha, Divisional Secretary, Galewela and ten others",
+    "judgement_by": "Hon. K.M.G.H. Kulatunga, J.",
+    "keywords": "Land Development Ordinance (LDO) permit \u2022 succession \u2022 legitimate expectation (procedural & substantive) \u2022 cancellation of permits \u2022 laches \u2022 occupation",
+    "legistation": "Article 140 of the Constitution of Sri Lanka \u2022 Land Development Ordinance (LDO)"
+}
+```
+
+[source data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-09-11-CA-WRT-0475-2019)
+
+## Documents By Year
 
 ![Documents by year](images/docs_by_year.png)
+
+## 🤗 Hugging Face Datasets
+
+- [nuuuwan/lk-docs-appeals-docs](https://huggingface.co/datasets/nuuuwan/lk-docs-appeals-docs)
+- [nuuuwan/lk-docs-appeals-chunks](https://huggingface.co/datasets/nuuuwan/lk-docs-appeals-chunks)
 
 ## 20 Latest documents
 
