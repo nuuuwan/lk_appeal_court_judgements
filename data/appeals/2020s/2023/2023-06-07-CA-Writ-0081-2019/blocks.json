@@ -1,0 +1,3206 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      108.02,
+      781.3,
+      320.93,
+      805.78
+    ],
+    "text": "1",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.9,
+      72.57,
+      490.79,
+      88.11
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      187.7,
+      89.99,
+      447.25,
+      105.53
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.02,
+      183.85,
+      257.81,
+      749.21
+    ],
+    "text": "C.A. (Writ) Application No: 0081/2019",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.81,
+      133.57,
+      523.54,
+      146.85
+    ],
+    "text": "In the matter of an Application for a mandate",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.81,
+      154.33,
+      523.31,
+      167.61
+    ],
+    "text": "in the nature of Writ of Certiorari in terms of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.81,
+      174.97,
+      523.53,
+      188.25
+    ],
+    "text": "Article 140 of the Constitution of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.81,
+      195.73,
+      518.5,
+      209.01
+    ],
+    "text": "Democratic Socialist Republic of Sri Lanka.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.81,
+      237.13,
+      442.63,
+      250.41
+    ],
+    "text": "Prasad Muditha Wanasinghe,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.81,
+      257.77,
+      490.3,
+      271.05
+    ],
+    "text": "254/2B, Kaluwarippuwa West, Katana.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      445.18,
+      299.2,
+      523.54,
+      312.48
+    ],
+    "text": "PETITIONER",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.81,
+      319.96,
+      322.15,
+      333.24
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.83,
+      361.19,
+      472.9,
+      374.64
+    ],
+    "text": "1. Land Reform Commission,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.83,
+      382.0,
+      510.82,
+      395.28
+    ],
+    "text": "475, Kaduwela Road, Battaramulla.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.83,
+      423.23,
+      418.87,
+      436.68
+    ],
+    "text": "2. Sirimewan Dias,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.83,
+      444.04,
+      389.11,
+      457.32
+    ],
+    "text": "Chairman,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.83,
+      464.82,
+      472.9,
+      478.1
+    ],
+    "text": "Land Reform Commission,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.83,
+      485.46,
+      510.82,
+      498.74
+    ],
+    "text": "475, Kaduwela Road, Battaramulla.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.83,
+      526.69,
+      470.14,
+      540.14
+    ],
+    "text": "3. Senerath Rateralagegedara,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.83,
+      547.62,
+      419.71,
+      560.9
+    ],
+    "text": "Deputy Director,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.83,
+      568.26,
+      509.02,
+      581.54
+    ],
+    "text": "District Land Reform Commission,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.83,
+      589.02,
+      509.02,
+      602.3
+    ],
+    "text": "National Housing Building, Kandy.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.83,
+      630.25,
+      451.54,
+      643.7
+    ],
+    "text": "4. Hon. Attorney General,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.83,
+      651.09,
+      494.98,
+      664.37
+    ],
+    "text": "Attorney General's Department,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.83,
+      671.85,
+      401.47,
+      685.13
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      431.83,
+      713.25,
+      523.54,
+      726.53
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      781.3,
+      320.93,
+      805.78
+    ],
+    "text": "2",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      72.47,
+      151.94,
+      85.75
+    ],
+    "text": "Before:",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.02,
+      95.41,
+      284.69,
+      108.69
+    ],
+    "text": "M. T. Mohammed Laffar, J.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      118.33,
+      264.05,
+      131.61
+    ],
+    "text": "S. U. B. Karalliyadde, J.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      141.13,
+      162.38,
+      154.41
+    ],
+    "text": "Counsel:",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.02,
+      164.05,
+      521.02,
+      177.33
+    ],
+    "text": "Senaka De Seram, Nirosha Bandara with Aruna Jayathilaka for the Petitioner.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.02,
+      185.94,
+      497.74,
+      215.13
+    ],
+    "text": "Gihan Liyanage instructed by Dinesh Widanapathirana for the 1st and 2nd Respondents.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.02,
+      223.74,
+      390.55,
+      238.05
+    ],
+    "text": "Saranga Wimalasena, DSG for the 4th Respondent.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      270.49,
+      290.09,
+      283.77
+    ],
+    "text": "Written submissions tendered on:",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      293.44,
+      289.37,
+      306.72
+    ],
+    "text": "02.12.2022 by the Petitioner.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      315.33,
+      352.75,
+      329.64
+    ],
+    "text": "14.02.2022 by the 1st and 2nd Respondents.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      339.16,
+      226.37,
+      352.44
+    ],
+    "text": "Argued on: 27.10.2022",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      362.08,
+      232.01,
+      375.36
+    ],
+    "text": "Decided on: 07.06.2023",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      407.92,
+      231.77,
+      421.2
+    ],
+    "text": "S.U.B. Karalliyadde, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      465.3,
+      526.44,
+      478.58
+    ],
+    "text": "The Petitioner to this Writ Application is seeking to issue a mandate in the nature of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      492.9,
+      526.32,
+      506.18
+    ],
+    "text": "Writ of Certiorari to quash the decision marked as P30(A) contained in the letter marked",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      520.5,
+      526.42,
+      533.78
+    ],
+    "text": "as P30. P 30 has been issued to the Power of Attorney-holder of the Petitioner on",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      547.07,
+      526.42,
+      561.38
+    ],
+    "text": "12.01.2019 by the then Chairman of the Land Reform Commission (the 1st",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      574.67,
+      526.38,
+      588.98
+    ],
+    "text": "Respondent). It has been informed by P30 that the 1st Respondent has decided to cancel",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      602.27,
+      526.32,
+      616.58
+    ],
+    "text": "the decisions of the then Chairman of the 1st Respondent dated 29.05.2017 marked as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      629.87,
+      526.44,
+      644.18
+    ],
+    "text": "P27. The decisions contained in P27 were that the 1st Respondent is not claiming the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      658.53,
+      526.42,
+      671.81
+    ],
+    "text": "land depicted as lot A in the Plan No. 2258 dated 17.07.1969 made by the Surveyor Mr.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      686.13,
+      526.31,
+      699.41
+    ],
+    "text": "D.H. Karunaratne marked as P29, lot A is private land and it does not govern under the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      713.73,
+      285.53,
+      727.01
+    ],
+    "text": "provisions of the Land Reform Law.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      781.3,
+      320.93,
+      805.78
+    ],
+    "text": "3",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      72.47,
+      260.33,
+      85.75
+    ],
+    "text": "The position of the Petitioner",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      108.13,
+      526.41,
+      121.41
+    ],
+    "text": "The land called Hantana Estate the extent of 918 Acres 3 Roods was owned by the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      135.73,
+      526.42,
+      149.01
+    ],
+    "text": "Hantana Investment Company of Ceylon. That land is depicted in Plan No. T.P. 42410",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      163.33,
+      526.42,
+      176.61
+    ],
+    "text": "marked as P5. By way of a Statutory Declaration marked as P8, 859 Acres out of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      189.9,
+      526.34,
+      204.21
+    ],
+    "text": "land depicted in P5 was vested with the 1st Respondent. Before the Statutory",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      218.53,
+      526.21,
+      231.81
+    ],
+    "text": "Declaration P8 was issued, by deed No 792 dated 18.12.1970 attested by S.S Pillai",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      246.13,
+      526.4,
+      259.41
+    ],
+    "text": "Notary Public marked as P6, Hantana Investment Company of Ceylon transferred 14",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      273.76,
+      529.37,
+      287.04
+    ],
+    "text": "Acres 1 Rood and 21 Perches out of the land depicted in P5 to Jayasundara Mudiyansela",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      301.36,
+      526.32,
+      314.64
+    ],
+    "text": "Kumburegedara Wimala Menike. Thereafter, by the deed No. 3118 dated 20.02.1988",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      328.84,
+      526.35,
+      342.12
+    ],
+    "text": "attested by the same Notary Public said Jayasundara Mudiyanselage Kumburegedara",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      356.44,
+      526.29,
+      369.72
+    ],
+    "text": "Wimala Menike transferred her rights of the land to Hettiarachchige Sam Prabath",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      384.04,
+      526.38,
+      397.32
+    ],
+    "text": "Rodrigo. Said Rodrigo, by deed bearing No. 7002 dated 31.03.2018 marked as P2",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      411.64,
+      526.42,
+      424.92
+    ],
+    "text": "transferred it to Prasad Muditha Wanigasinghe, the Petitioner to this Writ Application.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      439.24,
+      526.41,
+      452.52
+    ],
+    "text": "The position of the Petitioner is that the land he claims is shown as Lot A in plan No.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      466.86,
+      526.42,
+      480.14
+    ],
+    "text": "2258 marked as P29. In 1983, the National Housing Development Authority made a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      494.46,
+      526.41,
+      507.74
+    ],
+    "text": "plan bearing No. Noora 39 marked as P9 through the Licensed Surveyor Mr. Aelian",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      522.06,
+      526.37,
+      535.34
+    ],
+    "text": "Rajapakse to vest with the National Housing Development Authority an extent of 156",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      549.66,
+      526.33,
+      562.94
+    ],
+    "text": "Acres and 33 Perches from the land shown in the plan marked P5. The learned Counsel",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      577.26,
+      526.37,
+      590.54
+    ],
+    "text": "for the Petitioner submitted to Court that the land shown in P9 consists of a part of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      603.83,
+      526.41,
+      618.14
+    ],
+    "text": "land vested with the 1st Respondent on the Statutory Declaration marked as P8 and a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      632.46,
+      526.41,
+      645.74
+    ],
+    "text": "part of the land claim by the Petitioner as private land. The learned Counsel drew the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      660.09,
+      526.41,
+      673.37
+    ],
+    "text": "attention of the Court to the fact that when surveying the land to prepare the plan marked",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      687.69,
+      526.42,
+      700.97
+    ],
+    "text": "as P9, only the Officers of the National Housing Development Authority participated",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      715.29,
+      526.34,
+      728.57
+    ],
+    "text": "and showed the boundaries to the Surveyor. Therefore, the National Housing",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      742.88,
+      526.41,
+      756.17
+    ],
+    "text": "Development Authority erroneously incorporated the land claim by the Petitioner into",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      781.3,
+      320.93,
+      805.78
+    ],
+    "text": "4",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      72.47,
+      526.21,
+      85.75
+    ],
+    "text": "the land shown in Plan P9. By the Extra Ordinary Gazette bearing No. 456/4 dated",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      100.09,
+      526.38,
+      113.37
+    ],
+    "text": "01.06.1987 marked as P10, the land shown in plan P9 has been vested with the National",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      127.69,
+      526.24,
+      140.97
+    ],
+    "text": "Housing Development Authority. The learned Counsel further submitted to Court that",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      154.26,
+      526.42,
+      168.57
+    ],
+    "text": "there had been a series of correspondence between the Petitioner, the 1st 3rd",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      182.89,
+      526.27,
+      196.17
+    ],
+    "text": "Respondents and the National Housing Development Authority which support the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      210.49,
+      526.41,
+      223.77
+    ],
+    "text": "position of the Petitioner that the land he claims is private land. Those documents have",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      238.09,
+      526.44,
+      251.37
+    ],
+    "text": "been marked as P17, P18, P20, P21, P22, P23, P23A, P24, P25, P26 and P27. In the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      264.66,
+      526.42,
+      278.97
+    ],
+    "text": "letter marked as P27, it has been stated that the 1st Respondent is not claiming lot A",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      293.32,
+      526.4,
+      306.6
+    ],
+    "text": "shown in the plan marked as P29. The position of the Petitioner is that lot A in P29",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      320.92,
+      526.34,
+      334.2
+    ],
+    "text": "belongs to him on the chain of title deeds hereinbefore mentioned. Nevertheless, by P30",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      348.52,
+      526.31,
+      361.8
+    ],
+    "text": "the letter marked as P27 has been cancelled. The position of the learned Counsel for the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      376.12,
+      526.42,
+      389.4
+    ],
+    "text": "Petitioner was that even though, before taking the decision mentioned in P30, the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      403.72,
+      526.39,
+      417.0
+    ],
+    "text": "Petitioner should have been given an opportunity to present his facts, he was not given",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      431.32,
+      526.18,
+      444.77
+    ],
+    "text": "a hearing by the Respondents. Therefore, the learned Counsel argued that cancellation",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      458.92,
+      526.42,
+      472.2
+    ],
+    "text": "of P27 without being given a hearing to the Petitioner is against the rule of audi alteram",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      486.54,
+      310.37,
+      499.82
+    ],
+    "text": "partem in the principle of natural justice.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      522.06,
+      526.4,
+      535.34
+    ],
+    "text": "The learned Counsel for the Petitioner further argued that the decision marked as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      549.66,
+      526.41,
+      562.94
+    ],
+    "text": "P30(A) contained in the letter marked as P 30 is contrary to what has been stated in the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      576.23,
+      526.34,
+      590.54
+    ],
+    "text": "letter marked as P27 and the 1st Respondent has no right to lot A in the plan marked as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      604.86,
+      526.4,
+      618.14
+    ],
+    "text": "P29 and therefore, the decision marked as P30(A) in P30 to cancel the decisions",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      632.46,
+      465.34,
+      645.74
+    ],
+    "text": "mentioned in the letter marked as P27 is erroneous, illegal and unlawful.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      659.66,
+      319.61,
+      673.37
+    ],
+    "text": "The Position of the 1st to 4th Respondents",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      695.73,
+      526.42,
+      709.01
+    ],
+    "text": "The position of the Respondents is that an extent of 859 Acres 2 Roods 9 Perches out",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      723.33,
+      526.42,
+      736.61
+    ],
+    "text": "of the Hantana Estate owned by the Hantana Investment Company of Ceylon was",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      749.89,
+      525.92,
+      764.38
+    ],
+    "text": "vested with the 1st Respondent by virtue of the Statutory Declaration marked as 1R1",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      781.3,
+      320.93,
+      805.78
+    ],
+    "text": "5",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      72.47,
+      526.42,
+      85.75
+    ],
+    "text": "made under section 18 of the Land Reform Law, No. 1 of 1972 on 20.10.1972.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      100.09,
+      526.2,
+      113.37
+    ],
+    "text": "Thereafter, by the Extra Ordinary Gazette Notification No. 176/6 dated 12.08.1975",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      127.69,
+      526.42,
+      140.97
+    ],
+    "text": "marked as 1R4 published under section 19 of the Land Reform Law, out of the said",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      155.29,
+      526.4,
+      168.57
+    ],
+    "text": "land, 50 Acres depicted as Lots 1 and 2 in plan No. Maha 1312 marked as 1R5 was",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      182.89,
+      526.38,
+      196.17
+    ],
+    "text": "divested on the Hantana Investment Co. Ltd. Thereafter, by the Extra Ordinary",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      210.49,
+      526.42,
+      223.77
+    ],
+    "text": "Gazette Notification No. 456/4 dated 01.06.1987 marked as 1R6, out of the remaining",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      237.06,
+      526.34,
+      251.37
+    ],
+    "text": "portion of the land which was vested with the 1st Respondent on 1R1 was vested on the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      265.69,
+      526.24,
+      279.14
+    ],
+    "text": "National Housing Development Authority under section 27A (1) of the Land Reform",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      293.32,
+      526.42,
+      306.6
+    ],
+    "text": "Law. The land which was so vested with National Housing Development Authority on",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      320.92,
+      526.41,
+      334.2
+    ],
+    "text": "1R6 is depicted as Lot 1 in Plan No. NURA 39 dated 16.12.1986 prepared by Mr. Aelian",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      348.52,
+      526.38,
+      361.8
+    ],
+    "text": "Rajapakse Licensed Surveyor marked as 1R7. Subsequently, by the Extra Ordinary",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      376.12,
+      526.43,
+      389.4
+    ],
+    "text": "Gazette Notification No. 2016/36 dated 26.04.2017 marked as 1R8, out of the land",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      403.72,
+      526.42,
+      417.0
+    ],
+    "text": "vested with the National Housing Development Authority on 1R6 a land in the extent",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      430.29,
+      526.38,
+      444.6
+    ],
+    "text": "of 14 Acres 1 Rood 21 Perches was divested again with the 1st Respondent under section",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      457.89,
+      526.42,
+      472.2
+    ],
+    "text": "27A (4) of the Land Reform Law. The land which was so divested with the 1st",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      486.54,
+      526.41,
+      499.82
+    ],
+    "text": "Respondent on the 1R8 is depicted as Lot A in the Plan No. 2258 prepared in June 1969",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      514.14,
+      526.37,
+      527.42
+    ],
+    "text": "by Mr. D. H. Karunaratne Licensed Surveyor marked as 1R9 (which is also marked as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      541.74,
+      437.95,
+      555.02
+    ],
+    "text": "P27 by the Petitioner) which the subject matter of this Application.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      577.26,
+      272.69,
+      590.54
+    ],
+    "text": "Analysis of the facts of the case",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      612.9,
+      526.42,
+      626.18
+    ],
+    "text": "The position of the Petitioner is that in 1983 when the Survey plan bearing No. NURA",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      640.5,
+      526.41,
+      653.78
+    ],
+    "text": "39 marked as P9 was prepared by the National Housing Development Authority, a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      668.13,
+      526.4,
+      681.41
+    ],
+    "text": "portion of the land owned by the predecessor in title of the Petitioner had also been",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      695.73,
+      526.41,
+      709.01
+    ],
+    "text": "included in the land shown in that plan. The land is claimed by the Petitioner on the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      723.33,
+      526.28,
+      736.61
+    ],
+    "text": "chain of title deeds shown in the Surveyor Plan No. 4124/16 marked as P1 prepared in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      749.89,
+      526.42,
+      764.21
+    ],
+    "text": "2017. Nevertheless, the position of the 1st Respondent is that the land in dispute which",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      781.3,
+      320.93,
+      805.78
+    ],
+    "text": "6",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      72.47,
+      526.42,
+      85.75
+    ],
+    "text": "is shown as lot A in the Survey Plan No. 2258 prepared in 1969 marked as 1R9",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      99.06,
+      526.37,
+      113.37
+    ],
+    "text": "(produced by the Petitioner as P29) belongs to the 1st Respondent. There is no evidence",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      127.69,
+      526.42,
+      140.97
+    ],
+    "text": "before Court that the lands claimed by both parties are one and the same land. The two",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      155.29,
+      526.29,
+      168.57
+    ],
+    "text": "vital documents in this Writ Application are P27 and P30. According to the letter issued",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      181.86,
+      526.41,
+      196.17
+    ],
+    "text": "by the 1st Respondent marked as P27, the land shown as lot A in plan No. 2258 marked",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      210.49,
+      526.4,
+      223.77
+    ],
+    "text": "as P29/1R9 is the land dealt with the deed marked as P6 which is shown in the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      238.09,
+      526.4,
+      251.37
+    ],
+    "text": "Petitioners chain of title. Nevertheless, in the title deeds tendered to Court by the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      265.69,
+      526.38,
+      278.97
+    ],
+    "text": "Petitioner to establish his title to the land he claims, the Plan marked as P 29 is not",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      293.32,
+      526.18,
+      306.6
+    ],
+    "text": "mentioned. The Petitioner has tendered to Court several letters exchanged between the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      319.89,
+      526.31,
+      334.2
+    ],
+    "text": "Petitioner, the 1st Respondent and the National Housing Development Authority which",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      347.49,
+      526.42,
+      361.8
+    ],
+    "text": "states that the land mentioned in those letters does not belong to the 1st Respondent or",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      375.09,
+      526.27,
+      389.4
+    ],
+    "text": "the 1st Respondent do not claim that land or it belongs to the Petitioner. Nevertheless,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      403.72,
+      526.38,
+      417.0
+    ],
+    "text": "it appears to Court that those letters have not been issued after properly identifying the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      431.32,
+      526.38,
+      444.6
+    ],
+    "text": "land on a plan by superimposing the Surveyor plans hereinbefore mentioned. On the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      458.92,
+      526.31,
+      472.2
+    ],
+    "text": "other hand, in P27 it has been stated that the land dealt with the deed No. 792 dated",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      486.54,
+      526.36,
+      499.82
+    ],
+    "text": "18.12.1970 attested by Mr. S.S. Pillai, Notary Public is private land, it does not govern",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      513.11,
+      526.42,
+      527.42
+    ],
+    "text": "under the Land Reform Law, it does not belong to the 1st Respondent and the 1st",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      541.74,
+      526.44,
+      555.02
+    ],
+    "text": "Respondent does not claim that land. That deed marked as P6 is the first deed mentioned",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      569.34,
+      526.35,
+      582.62
+    ],
+    "text": "in the chain of title of the Petitioner. The position of the Respondents is that it is a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      596.94,
+      526.42,
+      610.22
+    ],
+    "text": "fraudulent deed since, by the date of the attestation of that deed, the Notary Public who",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      624.54,
+      526.34,
+      637.82
+    ],
+    "text": "is said to have attested P6, Mr. Pillai was not among the lives. The Respondents further",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      651.11,
+      526.37,
+      665.45
+    ],
+    "text": "claim that not only that deed but also the 2nd deed mentioned in the chain of title of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      679.77,
+      526.42,
+      693.05
+    ],
+    "text": "Petitioner which is said to have been attested by the same Notary Public is also a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      707.37,
+      526.23,
+      720.65
+    ],
+    "text": "fraudulent deed on the same ground. To satisfy the Court about that fact the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      781.3,
+      320.93,
+      805.78
+    ],
+    "text": "7",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      72.47,
+      526.42,
+      85.75
+    ],
+    "text": "Respondents have tendered to Court the Land Registry Folios, Monthly Lists, Day",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      100.09,
+      207.65,
+      113.37
+    ],
+    "text": "Book Registers etc.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      135.73,
+      237.05,
+      149.01
+    ],
+    "text": "Conclusion of the Court",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      171.25,
+      526.41,
+      184.53
+    ],
+    "text": "Under the above-stated circumstances, it is evident that the facts which go to the root",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      198.85,
+      526.34,
+      212.13
+    ],
+    "text": "of this Application like identification of the land, its ownership etc., which the Court",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      226.45,
+      526.37,
+      239.73
+    ],
+    "text": "cannot decide only on the affidavit evidence are in dispute. Therefore, if the letters",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      254.05,
+      526.4,
+      267.33
+    ],
+    "text": "marked as P27 and P30 do not relate to the land claim by the Petitioner and if it belongs",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      280.65,
+      526.34,
+      294.96
+    ],
+    "text": "to the 1st Respondent, a necessity does not arise for the 1st Respondent to offer a hearing",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      309.28,
+      526.41,
+      322.56
+    ],
+    "text": "to the Petitioner. When the material facts are in dispute and the Court could not make a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      336.88,
+      526.4,
+      350.16
+    ],
+    "text": "decision only on the affidavit evidence, it refuses to exercise the discretionary powers",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      364.48,
+      182.3,
+      377.76
+    ],
+    "text": "to issue Writs.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      399.09,
+      526.42,
+      413.4
+    ],
+    "text": "A.S. Choudri in his book on the Law of Writs and Fundamental Rights (2nd edn,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      427.72,
+      267.29,
+      441.0
+    ],
+    "text": "Vol.2) (at page 449) states thus:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      463.26,
+      526.12,
+      476.54
+    ],
+    "text": "\"Where facts are in dispute and in order to get at the truth, it is necessary that the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      490.86,
+      526.32,
+      504.14
+    ],
+    "text": "questions should be canvassed in a suit where parties would have ample opportunity of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      518.46,
+      526.17,
+      531.74
+    ],
+    "text": "examining their witnesses and the Court would be better able to judge which version is",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      546.06,
+      257.33,
+      559.34
+    ],
+    "text": "correct, a writ will not issue.\"",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      581.7,
+      526.34,
+      594.98
+    ],
+    "text": "Referring to the above-stated quoting, in the case of Thajudeen V. Sri Lanka Tea Board",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      608.27,
+      413.35,
+      622.58
+    ],
+    "text": "and Another1 , Ranasinghe J with Seneviratne J agreeing held:",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      644.94,
+      525.99,
+      658.22
+    ],
+    "text": "That the remedy by way of an application for a Writ is not a proper substitute for a",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      672.57,
+      526.42,
+      685.85
+    ],
+    "text": "remedy by way of a suit, especially where facts are in dispute and in order to get at the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      700.17,
+      526.18,
+      713.45
+    ],
+    "text": "truth, it is necessary that the questions should be canvassed in a suit where the parties",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      746.5,
+      254.55,
+      769.87
+    ],
+    "text": "1 (1981) 2 Sri LR 471.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      781.3,
+      320.93,
+      805.78
+    ],
+    "text": "8",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      72.47,
+      526.2,
+      85.75
+    ],
+    "text": "would have ample opportunity examining their witnesses and the Court would be better",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      100.09,
+      526.41,
+      113.37
+    ],
+    "text": "able to judge which version is correct, has been laid down in the Indian cases of Ghosh",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      127.69,
+      526.36,
+      140.97
+    ],
+    "text": "v. Damodar Valley Corporation 3, Porraju v. General Manager B. N. Rly 4 (at page",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      155.29,
+      135.98,
+      168.57
+    ],
+    "text": "474).",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      190.93,
+      526.41,
+      204.21
+    ],
+    "text": "Whether the subject matter in the instant Writ Application is State land or not and to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      218.53,
+      526.09,
+      231.81
+    ],
+    "text": "whom it belongs are the matters which should be determined by a Court, which has",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      246.13,
+      491.02,
+      259.41
+    ],
+    "text": "jurisdiction to call the evidence of the parties for the Court to make a decision.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      281.68,
+      526.41,
+      294.96
+    ],
+    "text": "Considering all the above-stated facts and circumstances, I hold that in the instant Writ",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      309.28,
+      526.34,
+      322.56
+    ],
+    "text": "Application, this Court cannot exercise its writ jurisdiction for the reasons that if the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      336.88,
+      526.34,
+      350.16
+    ],
+    "text": "land mentioned in P27 and P30 is not the land claim by the Petitioner and its State land",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      364.48,
+      526.37,
+      377.76
+    ],
+    "text": "a necessity does not arise for the Respondents to give a hearing to the Petitioner and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      392.08,
+      526.31,
+      405.36
+    ],
+    "text": "since P30 is based on the material facts which the Court is not in a position to make a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      419.68,
+      526.08,
+      432.96
+    ],
+    "text": "decision only on affidavit evidence. Therefore, I dismiss the Writ Application without",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      447.28,
+      144.02,
+      460.56
+    ],
+    "text": "costs.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      482.94,
+      224.69,
+      496.22
+    ],
+    "text": "Application dismissed.",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      317.71,
+      593.34,
+      526.42,
+      606.62
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      655.41,
+      284.09,
+      668.69
+    ],
+    "text": "M.T. MOHAMMED LAFFAR, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      676.17,
+      149.66,
+      689.45
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      317.71,
+      752.0,
+      526.42,
+      765.29
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

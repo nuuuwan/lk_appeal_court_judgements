@@ -1,0 +1,4416 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 1 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.38,
+      84.02,
+      522.8,
+      97.58
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      253.13,
+      99.86,
+      345.25,
+      113.42
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      210.8,
+      505.0,
+      224.42
+    ],
+    "text": "The Insurance Association of Sri Lanka",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      221.33,
+      231.56,
+      395.17,
+      245.18
+    ],
+    "text": "Secretariat Office,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      221.33,
+      252.44,
+      428.53,
+      266.06
+    ],
+    "text": "No. 143 A, Vajira Road,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      221.33,
+      273.23,
+      367.21,
+      286.85
+    ],
+    "text": "Colombo 5.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      470.86,
+      294.05,
+      526.48,
+      307.61
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      326.63,
+      320.89,
+      340.25
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.61,
+      359.39,
+      499.72,
+      373.01
+    ],
+    "text": "1. Assistant Commissioner of Labour",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      380.15,
+      486.28,
+      393.77
+    ],
+    "text": "(The Registrar of Trade Unions)",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      400.91,
+      450.88,
+      414.53
+    ],
+    "text": "Trade Unions Divisions,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      421.67,
+      440.77,
+      435.29
+    ],
+    "text": "Department of Labour,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      442.55,
+      420.25,
+      456.17
+    ],
+    "text": "Labour Secretariat,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      463.33,
+      430.57,
+      476.95
+    ],
+    "text": "No. 41, Kirula Road,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      484.09,
+      385.93,
+      497.71
+    ],
+    "text": "Colombo 5.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.61,
+      525.61,
+      500.32,
+      539.23
+    ],
+    "text": "2. Life Insurance Agents Association",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      546.37,
+      480.88,
+      559.99
+    ],
+    "text": "C/o W. C. T. A. Weerasinghe,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      567.13,
+      455.8,
+      580.75
+    ],
+    "text": "2nd Floor, Gasnawa Road,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      588.01,
+      409.45,
+      601.63
+    ],
+    "text": "Tholangamuwa.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.61,
+      629.53,
+      512.45,
+      643.15
+    ],
+    "text": "3. Insurance Regulatory Commission of",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      650.32,
+      372.37,
+      663.94
+    ],
+    "text": "Sri Lanka",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      671.08,
+      434.29,
+      684.7
+    ],
+    "text": "Level 11, East Tower,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      691.84,
+      429.25,
+      705.46
+    ],
+    "text": "World Trade Center,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      712.6,
+      406.09,
+      726.22
+    ],
+    "text": "Echelon Square,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      733.48,
+      596.63,
+      747.1
+    ],
+    "text": "Colombo 01.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      456.46,
+      754.18,
+      526.48,
+      767.74
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.41,
+      130.56,
+      520.11,
+      191.54
+    ],
+    "text": "In the matter of an application for mandates in the nature of Writs of Certiorari and/or Mandamus under Article 140 of the Constitution.",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      82.46,
+      238.38,
+      191.48,
+      250.86
+    ],
+    "text": "CA/WRIT/628/2021",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 2 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      71.94,
+      279.35,
+      85.56
+    ],
+    "text": "Before : Sobhitha Rajakaruna J.",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.02,
+      97.88,
+      275.75,
+      111.5
+    ],
+    "text": "Dhammika Ganepola J.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      145.76,
+      521.8,
+      228.74
+    ],
+    "text": "Counsel : Nigel Hatch PC with Siroshni Illangage for the Petitioner. Chaya Sri Nammuni DSG with M. Fernando SC for the 1st Respondent. Nagananda Kodithuwakku for the 2nd Respondent.",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      228.92,
+      512.68,
+      288.41
+    ],
+    "text": "Malaka Palliyaguru with Sanjeewa Ranaweera for the 3rd Respondent. Argued on : 11.01.2023",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      301.19,
+      328.57,
+      328.25
+    ],
+    "text": "Written Submissions: Petitioner - 22.02.2023",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      340.43,
+      329.77,
+      354.05
+    ],
+    "text": "1st Respondent - 09.03.2023",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.02,
+      366.35,
+      331.81,
+      379.97
+    ],
+    "text": "2nd Respondent- 22.02.2023",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.02,
+      392.15,
+      330.49,
+      405.77
+    ],
+    "text": "3rd Respondent- 22.02.2023",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      417.95,
+      245.99,
+      445.61
+    ],
+    "text": "Decided on : 29.05.2023",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      515.47,
+      198.59,
+      529.03
+    ],
+    "text": "Sobhitha Rajakaruna J.",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      541.33,
+      526.46,
+      554.95
+    ],
+    "text": "The primary issue which needs to be resolved in the instant Application is whether the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      562.09,
+      538.71,
+      575.71
+    ],
+    "text": "determination of the Assistant Commissioner of Labour-1st Respondent registering the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      582.85,
+      526.4,
+      596.47
+    ],
+    "text": "2nd Respondent Association as a Trade Union is lawful. The said Association is comprised",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      603.61,
+      526.46,
+      617.23
+    ],
+    "text": "with life insurance agents as its members. The Petitioner is seeking, inter alia, for a writ of",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      624.37,
+      526.21,
+      637.99
+    ],
+    "text": "Certiorari quashing the decision contained in letter dated 28.10.2021, marked 'P5', by",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      645.13,
+      526.24,
+      658.75
+    ],
+    "text": "which the 1st Respondent has refused to cancel his determination to register the above",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      666.04,
+      150.32,
+      679.66
+    ],
+    "text": "Trade Union.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      696.76,
+      526.48,
+      710.38
+    ],
+    "text": "The 1st Respondent affirming an affidavit submits that she has decided to register the 2nd",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      717.52,
+      526.48,
+      731.14
+    ],
+    "text": "Respondent Association as a Trade Union as per the provisions of the Trade Union",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      738.28,
+      364.45,
+      751.9
+    ],
+    "text": "Ordinance No. 14 of 1935 ('Ordinance'). She alleges that;",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 3 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      71.94,
+      526.48,
+      85.56
+    ],
+    "text": "a) she was satisfied that the 2nd Respondent Trade Union was 'an Association or a",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      92.72,
+      494.08,
+      106.34
+    ],
+    "text": "combination of workmen' falling within the meaning of the said Ordinance,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      113.48,
+      526.34,
+      127.1
+    ],
+    "text": "b) the interpretation of the term 'workmen' in the Ordinance is wide enough to",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      134.24,
+      526.48,
+      147.86
+    ],
+    "text": "encompass the members of the 2nd Respondent Trade Union, i.e. Insurance Agents,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      155.12,
+      526.18,
+      168.74
+    ],
+    "text": "c) there is no statutory provision which outright prohibits and/or prevents her from",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      175.88,
+      441.01,
+      189.5
+    ],
+    "text": "recognizing insurance agents as 'workmen' under the Ordinance.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      206.6,
+      526.16,
+      220.22
+    ],
+    "text": "The Petitioner's main contention is that there is a stringent and separate statutory legal",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      227.36,
+      526.37,
+      240.98
+    ],
+    "text": "regime that governs insurance agents to that of workmen/employees and insurance agents",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      248.12,
+      526.35,
+      261.74
+    ],
+    "text": "are prohibited in law from being workmen/employees. The Petitioner asserts that under",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      269.0,
+      526.36,
+      282.62
+    ],
+    "text": "the law a trade union can only be formed and registered by workmen/employees and thus,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      289.79,
+      526.32,
+      303.41
+    ],
+    "text": "the insurance agents being independent contractors cannot in law form and/or join and/or",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      310.55,
+      526.31,
+      324.17
+    ],
+    "text": "register a trade union under the Ordinance as they are not 'workmen' under the said",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      331.31,
+      135.08,
+      344.93
+    ],
+    "text": "Ordinance.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      362.15,
+      526.32,
+      375.77
+    ],
+    "text": "The 3rd Respondent who associates with the submissions made on behalf of the Petitioner",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      382.91,
+      526.27,
+      396.53
+    ],
+    "text": "contends that the insurance agents are independent contractors and not",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      403.67,
+      526.48,
+      417.29
+    ],
+    "text": "workmen/employees of the insurers or brokers with whom they are registered, in terms of",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      424.43,
+      526.21,
+      438.05
+    ],
+    "text": "the Regulations of Insurance Industry Act No. 43 of 2000 (as amended) and Rules and",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      445.19,
+      250.07,
+      458.81
+    ],
+    "text": "Determinations made thereunder.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      476.05,
+      526.49,
+      489.67
+    ],
+    "text": "Initially, the Court needs to examine whether the members of the 2nd Respondent",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      496.81,
+      526.46,
+      510.43
+    ],
+    "text": "Association come within the definition of 'workman' in the said Ordinance. It can be seen",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      517.57,
+      526.49,
+      531.19
+    ],
+    "text": "that various verbal or written contracts exist between employers and employees but all",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      538.33,
+      526.49,
+      551.95
+    ],
+    "text": "such employees/workmen cannot fall into the category of the 'workman' defined in",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      559.09,
+      526.52,
+      572.71
+    ],
+    "text": "different statutes. If the workman fall into such definition, generally he/she may be entitled",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      579.85,
+      526.39,
+      593.47
+    ],
+    "text": "to the benefits under the respective statutes as well as under other Acts which provide",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      600.61,
+      526.35,
+      614.23
+    ],
+    "text": "statutory benefits in the labour law regime. Similarly, it needs consideration whether the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      621.49,
+      526.35,
+      635.11
+    ],
+    "text": "'insurance agents' collectively can be considered as workmen. In this regard, it is",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      642.25,
+      526.48,
+      655.87
+    ],
+    "text": "paramount to assess the true nature of the employment relationship between an employer",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      663.04,
+      222.95,
+      676.66
+    ],
+    "text": "and an employee/workman.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      693.76,
+      526.44,
+      707.38
+    ],
+    "text": "'The employment relationship in Sri Lanka is based on the Employer-Employee",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      714.64,
+      526.36,
+      728.26
+    ],
+    "text": "relationship, which over the years has gained protection under the law. The common Law",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      735.4,
+      526.22,
+      749.02
+    ],
+    "text": "concept of the contract based on a Master and servant relationship under the Roman",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 4 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      71.94,
+      526.21,
+      85.56
+    ],
+    "text": "Dutch Law, which was later influenced by the English Law concepts. The influence of",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      92.72,
+      526.13,
+      106.34
+    ],
+    "text": "English Law was seen mostly in the area of the rights and liabilities of the Master and",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      113.48,
+      526.23,
+      127.1
+    ],
+    "text": "servant relationship in regard to third parties.' (vide-'The Employment Relationship (scope)",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      134.72,
+      526.39,
+      148.34
+    ],
+    "text": "in Sri Lanka' by R.K.S. Suresh Chandra J. [an article published in the International Labour",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      155.84,
+      525.52,
+      169.46
+    ],
+    "text": "Organization website1 when he was serving as a legal Counsel specialized in labour law])",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      186.56,
+      526.4,
+      200.18
+    ],
+    "text": "It appears that the Sri Lankan Courts in determining the relationship between the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      207.32,
+      526.44,
+      220.94
+    ],
+    "text": "employer and the employee have used the traditional tests i.e., (1) the control test, (2) the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      228.08,
+      526.27,
+      241.7
+    ],
+    "text": "integration test and (3) the economic reality test. The case of Stevenson, Jordan and",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      249.32,
+      526.4,
+      262.94
+    ],
+    "text": "Harrison Ltd. vs. MacDonald and Evans (1952) 1 TLR 101 is a case where the above tests",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      270.44,
+      526.48,
+      284.06
+    ],
+    "text": "were employed in determining the issues of the said case. Although it was decided in 1952,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      291.23,
+      526.36,
+      304.85
+    ],
+    "text": "the judicial precedent enunciated in the said case can be considered as valid even in today's",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      312.11,
+      119.0,
+      325.73
+    ],
+    "text": "context.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      346.79,
+      526.46,
+      360.41
+    ],
+    "text": "Lord Justice Denning has stated in the above case that it is often easy to recognize a",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      367.55,
+      526.36,
+      381.17
+    ],
+    "text": "contract of service when you see it but difficult to say where in the difference lies. 'A ship's",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      388.31,
+      526.18,
+      401.93
+    ],
+    "text": "master, a chauffeur, and a reporter on the staff of a newspaper are all employed under a",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      409.07,
+      526.33,
+      422.69
+    ],
+    "text": "contract of service; but a ship's pilot, a taxi-man, and a newspaper contributor are",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      429.95,
+      526.16,
+      443.57
+    ],
+    "text": "employed under a contract for services. One feature which seems to run through the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      450.71,
+      526.48,
+      464.33
+    ],
+    "text": "instances is that, under a contract of service, a man is employed as part of the business,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      471.49,
+      526.41,
+      485.11
+    ],
+    "text": "and his work is done as an integral part of the business; whereas, under a contract for",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      492.25,
+      526.18,
+      505.87
+    ],
+    "text": "services, his work, although done for the business, is not integrated into it but is only",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      513.01,
+      526.41,
+      526.63
+    ],
+    "text": "accessory to it..' He has further stated that it is almost impossible to give a precise definition",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      533.77,
+      167.12,
+      547.39
+    ],
+    "text": "to the distinction.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      564.61,
+      526.48,
+      578.23
+    ],
+    "text": "In Collins vs. Herts County Council (1947) 10 K.B. 598 (at p. 615), Justice Hilbery, has stated",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      585.73,
+      526.16,
+      599.35
+    ],
+    "text": "that 'The distinction between a contract for services and a contract of service can be",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      606.49,
+      526.34,
+      620.11
+    ],
+    "text": "summarized in this way: In the one case the master can order or require what is to be done,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      627.25,
+      526.47,
+      640.87
+    ],
+    "text": "while in the other case he can not only order or require what is to be done but how it shall",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      648.01,
+      120.32,
+      661.63
+    ],
+    "text": "be done'.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      678.88,
+      526.28,
+      692.5
+    ],
+    "text": "The above tests have been discussed even in United States in the cases of United States vs.",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      700.0,
+      526.22,
+      713.62
+    ],
+    "text": "Silk 331 U.S. 704 (1947) and Harrison, Collector of Internal Revenue vs. Greyvan Lines, Inc",
+    "fonts": [
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      721.12,
+      526.39,
+      734.74
+    ],
+    "text": "329 U.S. 709 (1947) which dealt with driver-owners of trucks. It was held in the above two",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      747.22,
+      452.04,
+      769.83
+    ],
+    "text": "1 https://ilo.org/ifpdial/areas-of-work/labour-law/WCMS_205382/lang--en/index.htm",
+    "fonts": [
+      "Calibri",
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.0,
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 5 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      71.94,
+      526.35,
+      85.56
+    ],
+    "text": "cases which were considered together; 'The problem of differentiating between employee",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      92.72,
+      526.19,
+      106.34
+    ],
+    "text": "and an independent contractor or between an agent and an independent contractor has",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      113.48,
+      526.33,
+      127.1
+    ],
+    "text": "given difficulty through the years before social legislation multiplied its importance.....The",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      134.24,
+      526.34,
+      147.86
+    ],
+    "text": "distinction, though important, is not controlling. It is the total situation, including the risk",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      155.12,
+      526.5,
+      168.74
+    ],
+    "text": "undertaken, the control exercised, the opportunity for profit from sound management, that",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      175.88,
+      355.69,
+      189.5
+    ],
+    "text": "marks these driver-owners as independent contractors'.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      195.2,
+      526.46,
+      222.26
+    ],
+    "text": "In Market Investigations Ltd. vs. Minister of Social Security (1969) 2 QB 173, the Queen's",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      229.76,
+      526.19,
+      243.38
+    ],
+    "text": "Bench Division (Administrative Court England and Wales) referring even to the above",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      250.52,
+      526.4,
+      264.14
+    ],
+    "text": "United States vs. Silk 331 U.S. 704 (1947) case has observed that; 'The observations of Lord",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      271.64,
+      526.44,
+      285.26
+    ],
+    "text": "Wright, of Denning L.J. and of the judges of the Supreme Court suggest that the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      292.55,
+      526.16,
+      306.17
+    ],
+    "text": "fundamental test to be applied is this: \"Is the person who has engaged himself to perform",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      313.31,
+      526.28,
+      326.93
+    ],
+    "text": "these services performing them as a person in business on his own account?\" If the answer",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      334.07,
+      526.32,
+      347.69
+    ],
+    "text": "to that question is \"yes,\" then the contract is a contract for services. If the answer is \"no,\"",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      354.83,
+      284.27,
+      368.45
+    ],
+    "text": "then the contract is a contract of service.'",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      374.15,
+      526.48,
+      401.21
+    ],
+    "text": "Now, I must consider whether an express or implied contract, involving insurance agents",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      408.35,
+      526.26,
+      421.97
+    ],
+    "text": "in respect of their services, will usually be a contract of service or contract for service.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      429.11,
+      526.47,
+      442.73
+    ],
+    "text": "When examining the nature of services of an insurance agent, the Section 114 of the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      449.99,
+      526.43,
+      463.61
+    ],
+    "text": "Regulation of Insurance Industry Act No. 43 of 2000 (as amended) and Regulations made",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      470.77,
+      235.55,
+      484.39
+    ],
+    "text": "thereunder have a vital impact.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      503.53,
+      173.48,
+      517.15
+    ],
+    "text": "Section 114;",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      524.29,
+      526.22,
+      537.91
+    ],
+    "text": "'\"insurance agent means an individual registered as an insurance agent with an",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      545.05,
+      526.17,
+      558.67
+    ],
+    "text": "insurer or broker under the provisions of this Act, and who in consideration of a",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      565.81,
+      526.39,
+      579.43
+    ],
+    "text": "commission solicits or procures insurance business for such insurer or broker as the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      586.57,
+      177.8,
+      600.19
+    ],
+    "text": "case may be';",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      617.41,
+      526.41,
+      631.03
+    ],
+    "text": "The Rule 2 of the Rules made under the said Act ('P2a') provides the basic qualifications",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      638.17,
+      526.18,
+      651.79
+    ],
+    "text": "for a person to be registered as an insurance agent. Among other qualifications, the said",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      658.96,
+      526.27,
+      672.58
+    ],
+    "text": "Rule 2(g) implies that a salaried employee of a registered Insurer or Broker cannot be",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      679.72,
+      242.15,
+      693.34
+    ],
+    "text": "registered as an insurance agent.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      710.56,
+      526.41,
+      724.18
+    ],
+    "text": "In light of the above, I take the view that a person registered as an insurance agent with an",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      731.32,
+      526.46,
+      744.94
+    ],
+    "text": "insurer or broker under the provisions of the said Regulations of Insurance Industry Act",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      752.08,
+      526.32,
+      765.7
+    ],
+    "text": "and who in consideration of a commission solicits or procures insurance business for such",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 6 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      71.94,
+      526.35,
+      85.56
+    ],
+    "text": "insurer or broker rather than drawing a salary periodically should be considered as an",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      92.72,
+      526.44,
+      106.34
+    ],
+    "text": "insurance agent under our law. The interpretation given in the said Regulations of",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      113.48,
+      526.48,
+      127.1
+    ],
+    "text": "Insurance Industry Act and the Rules made thereunder, draw a clear inference that a",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      134.24,
+      526.24,
+      147.86
+    ],
+    "text": "service contract between the insurance agent and insurer should be assumed as a contract",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      155.12,
+      526.44,
+      168.74
+    ],
+    "text": "for services and not as a contract of service. Anyhow, I take the view that such contract",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      175.88,
+      526.48,
+      189.5
+    ],
+    "text": "cannot be assumed as a contract for service if such insurance agent gains additional",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      196.64,
+      526.46,
+      210.26
+    ],
+    "text": "benefits such as promotions, payments in the mode of a salary or increments thereto or",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      217.4,
+      526.46,
+      231.02
+    ],
+    "text": "hold designations in the company cadre etc. In other words, the nature of the relationship",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      238.16,
+      526.47,
+      251.78
+    ],
+    "text": "between the insurance agent and the insurer/broker may convert the relevant contract to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      258.92,
+      526.43,
+      272.54
+    ],
+    "text": "a contract of service from the state of contract for service. Certainly, the true nature of the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      279.71,
+      526.48,
+      293.33
+    ],
+    "text": "contract can be ascertained by employing the above tests such as the control test,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      300.59,
+      177.8,
+      314.21
+    ],
+    "text": "integration test etc.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      331.31,
+      526.3,
+      344.93
+    ],
+    "text": "In view of the above judicial precedent and the legal jurisprudence which paved way to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      352.07,
+      526.19,
+      365.69
+    ],
+    "text": "identify the types of employment, it appears that an employee cannot be classified as an",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      372.83,
+      526.31,
+      386.45
+    ],
+    "text": "insurance agent/casual employee/temporary employee/seasonal employee/apprentice/",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      393.71,
+      526.32,
+      407.33
+    ],
+    "text": "trainee based on a mere format of a written agreement or on a verbal contract. In other",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      414.47,
+      526.44,
+      428.09
+    ],
+    "text": "words, in order to identify and understand the true nature of such employment, it is not",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      435.23,
+      526.43,
+      448.85
+    ],
+    "text": "sufficient to specify the category of employment in the contract but it needs an assessment",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      455.99,
+      526.48,
+      469.61
+    ],
+    "text": "based on the true relationship between the employer and the employee. Thus, a mere label",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      476.77,
+      526.48,
+      490.39
+    ],
+    "text": "of an 'insurance agent' cannot be considered as an accessory to assess whether such agent",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      497.53,
+      479.8,
+      511.15
+    ],
+    "text": "would come within the definition of workmen stipulated in the said Ordinance.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      528.37,
+      526.21,
+      541.99
+    ],
+    "text": "'A workman is governed by a contract of service and an independent contractor is",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      549.13,
+      526.18,
+      562.75
+    ],
+    "text": "governed by contract for service. However, the decision as to the nature of the contract to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      569.89,
+      526.18,
+      583.51
+    ],
+    "text": "identify whether a person providing services to an organization is a workman under a",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      590.65,
+      526.2,
+      604.27
+    ],
+    "text": "contract of service or an independent contractor under a contract for service becomes",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      611.41,
+      526.48,
+      625.03
+    ],
+    "text": "difficult with globalization, changes in employment methods, flexibilities in employment,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      632.17,
+      526.21,
+      645.79
+    ],
+    "text": "developments in science and technology and the devices designed by employers to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      653.08,
+      526.37,
+      666.7
+    ],
+    "text": "circumvent their obligations. In many cases, employers who have power to include clauses",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      673.84,
+      526.24,
+      687.46
+    ],
+    "text": "favourable for them due to unequal bargaining power between the parties have included",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      694.6,
+      523.56,
+      708.22
+    ],
+    "text": "designations such as self-employed persons, agents, consultants, free-lancers and sub-",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      715.36,
+      526.32,
+      728.98
+    ],
+    "text": "contractors to label the workmen as independent contractors with the belief that they could",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      736.12,
+      526.26,
+      749.74
+    ],
+    "text": "circumvent their statutory obligations'. (Vide- A. Sarveswaran, 'Who is a Workman? A",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 7 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      71.94,
+      526.09,
+      85.56
+    ],
+    "text": "critical evaluation of the tests to differentiate a workman from an Independent Contractor in the",
+    "fonts": [
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      93.08,
+      526.33,
+      106.7
+    ],
+    "text": "light of judicial decisions' - International Research Conference on Management and",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      114.32,
+      327.01,
+      127.94
+    ],
+    "text": "Finance University of Colombo IRCMF 20112)",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      149.0,
+      526.48,
+      162.62
+    ],
+    "text": "The Construction Industry Training Board vs. Labour Force Ltd. (1970) 3 All ER 220 is a case",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      170.12,
+      526.38,
+      183.74
+    ],
+    "text": "where it had been discussed about a contract sui generis which can be different from",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      191.24,
+      526.44,
+      204.86
+    ],
+    "text": "contract of service and contract from service. Fisher J. in the above case has referred to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      212.0,
+      526.47,
+      225.62
+    ],
+    "text": "Atiyah's (P. S. Atiyah, 'Vicarious Liability in the Law of Torts', 1967, p. 38) following",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      233.12,
+      526.16,
+      246.74
+    ],
+    "text": "words; '........Clearly not all of these factors will be relevant in all cases, or have the same",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      253.88,
+      526.38,
+      267.5
+    ],
+    "text": "weight in all cases. Equally clearly no magic formula can be propounded for determining",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      274.67,
+      526.34,
+      288.29
+    ],
+    "text": "which factors should, in any given case, be treated as the determining ones. The plain fact",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      295.43,
+      526.18,
+      309.05
+    ],
+    "text": "is that in a large number of cases the court can only perform a balancing operation,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      316.31,
+      526.29,
+      329.93
+    ],
+    "text": "weighing up the factors which point in one direction and balancing them against those",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      337.07,
+      526.15,
+      350.69
+    ],
+    "text": "pointing in the opposite direction. In the nature of things it is not to be expected that this",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      357.95,
+      348.37,
+      371.57
+    ],
+    "text": "operation can be performed with scientific accuracy.'",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      392.63,
+      526.15,
+      406.25
+    ],
+    "text": "Samarakoon CJ. and Wanasundara J. in Ceylon Mercantile Union vs. Ceylon Fertilizer",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      413.75,
+      526.44,
+      427.37
+    ],
+    "text": "Corporation (1985) 1 Sri. L.R. 401 have referred to Fisher J.'s above judgement. The said",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      434.87,
+      526.3,
+      448.49
+    ],
+    "text": "Ceylon Mercantile Union case is a matter where the court discussed about a contract of",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      455.99,
+      526.47,
+      469.61
+    ],
+    "text": "service and also the nexus between the Hunupitiya Labour Co-operative Society (one of",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      477.01,
+      254.03,
+      490.63
+    ],
+    "text": "the respondents) and the workmen.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      511.57,
+      526.12,
+      525.19
+    ],
+    "text": "In this backdrop, the crucial issue is how an insurance agent can be excluded from the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      532.33,
+      526.19,
+      545.95
+    ],
+    "text": "definition of workmen stipulated in the said Ordinance. The Section 2 of the said",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      553.33,
+      288.59,
+      566.95
+    ],
+    "text": "Ordinance defines the word 'workman' as;",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      587.89,
+      526.43,
+      601.51
+    ],
+    "text": "workman means any person who has entered into or works under a contract with",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      608.77,
+      526.17,
+      622.39
+    ],
+    "text": "an employer in any capacity, whether the contract is express or implied, oral or in",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      629.53,
+      526.18,
+      643.15
+    ],
+    "text": "writing, and whether it is a contract of service or of apprenticeship, or a contract",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      650.32,
+      526.41,
+      663.94
+    ],
+    "text": "personally to execute any work or labour and includes any person ordinarily",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      671.08,
+      526.32,
+      684.7
+    ],
+    "text": "employed under any such contract, whether such person is or is not in employment",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      691.96,
+      223.31,
+      705.58
+    ],
+    "text": "at any particular time.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      747.22,
+      331.29,
+      769.83
+    ],
+    "text": "2 http://archive.cmb.ac.lk:8080/xmlui/handle/70130/1632",
+    "fonts": [
+      "Calibri",
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.0,
+      9.960000038146973,
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 8 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      71.94,
+      526.48,
+      85.56
+    ],
+    "text": "It is an accepted norm that a person who engages in contract for service or an independent",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      92.72,
+      526.3,
+      106.34
+    ],
+    "text": "contractor cannot be considered as a regular employee of the person who obtains services",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      113.48,
+      526.27,
+      127.1
+    ],
+    "text": "(principal party). On a careful perusal of the above interpretation section, it appears that",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      134.24,
+      526.14,
+      147.86
+    ],
+    "text": "the contract for services is excluded from the said definition. The maxim expressio unius est",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      155.36,
+      526.33,
+      168.98
+    ],
+    "text": "exclusio alterius (a Latin term literally meaning \"the expression of one thing is the exclusion",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      176.4,
+      526.44,
+      193.13
+    ],
+    "text": "of the other\") can be adopted here to further clarify my above finding as the said Section",
+    "fonts": [
+      "Calisto MT",
+      "Source Sans Pro"
+    ],
+    "sizes": [
+      12.0,
+      13.5600004196167
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      201.8,
+      526.44,
+      215.42
+    ],
+    "text": "has specifically used the words 'contract of service'. Then it is the prime duty of the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      222.56,
+      526.32,
+      236.18
+    ],
+    "text": "Registrar of Trade Union (1st Respondent) to independently be satisfied whether the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      243.32,
+      529.72,
+      256.94
+    ],
+    "text": "members of the Association who seek registration come within the definition of workmen.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      262.64,
+      526.4,
+      289.73
+    ],
+    "text": "The contention of the 1st Respondent is that she has acted in terms of Section 10 of the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      296.99,
+      526.35,
+      310.61
+    ],
+    "text": "said Ordinance and decided to register the 2nd Respondent-Association as a Trade Union",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      317.75,
+      526.49,
+      331.37
+    ],
+    "text": "after satisfying herself that the objects and rules/constitution ('1R2') of the 2nd Respondent",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      338.51,
+      526.49,
+      352.13
+    ],
+    "text": "did not conflict with the provisions of the said Ordinance. Further, the 1st Respondent",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      359.27,
+      526.38,
+      372.89
+    ],
+    "text": "contends that the term 'workman' in the said Ordinance is wide enough to encompass",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      380.03,
+      526.44,
+      393.65
+    ],
+    "text": "members of the 2nd Respondent-Association. As per the affidavit filed by her, she has",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      400.79,
+      526.48,
+      414.41
+    ],
+    "text": "arrived at that conclusion on the basis that the insurance agents have been recognized as",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      421.55,
+      526.18,
+      435.17
+    ],
+    "text": "falling within the definition of 'workman' under the Industrial Disputes Act by labour",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      442.43,
+      526.48,
+      456.05
+    ],
+    "text": "tribunal and High Courts of Sri Lanka. Ironically, the submissions (paragraph 30 of the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      463.21,
+      526.43,
+      476.83
+    ],
+    "text": "written submission dated 09.03.2023) made on behalf of the 1st Respondent clearly",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      483.97,
+      526.4,
+      497.59
+    ],
+    "text": "envisage that there was nothing before the 1st Respondent to indicate to him that the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      504.73,
+      526.29,
+      518.35
+    ],
+    "text": "members of the 2nd Respondent-Association fell outside the definition of Section 2 of the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      525.49,
+      526.39,
+      539.11
+    ],
+    "text": "Ordinance. This clearly establishes the fact that the 1st Respondent has not taken into",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      546.25,
+      526.16,
+      559.87
+    ],
+    "text": "consideration the salient features of the service contracts of the members of the said",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      567.01,
+      526.26,
+      580.63
+    ],
+    "text": "Association. The Constitution, marked '1R2', illustrates the fact that the members of the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      587.89,
+      526.24,
+      601.51
+    ],
+    "text": "2nd Respondent-Association are employees who engage in life insurance industry on",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      608.65,
+      526.35,
+      622.27
+    ],
+    "text": "contract basis in all the life insurance institutions. A mere statement to that effect in the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      629.41,
+      526.36,
+      643.03
+    ],
+    "text": "Constitution is not sufficient for the 1st Respondent to be satisfied that the members of the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      650.2,
+      526.37,
+      663.82
+    ],
+    "text": "said Association falls within the definition of Section 2 of the Ordinance. I am of the view",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      670.96,
+      526.46,
+      684.58
+    ],
+    "text": "that a grave responsibility will be cast upon the 1st Respondent to examine, at least",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      691.72,
+      526.39,
+      705.34
+    ],
+    "text": "randomly, the salient features of the contracts between such members and the relevant life",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      712.48,
+      526.48,
+      726.1
+    ],
+    "text": "insurance institutions. This is because the issue whether the 'insurance agents' are",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      733.36,
+      526.48,
+      746.98
+    ],
+    "text": "independent contractors was an outstanding question within the insurance industry in the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      754.12,
+      287.99,
+      767.74
+    ],
+    "text": "country for a considerable period of time.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 9 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      70.5,
+      526.35,
+      97.58
+    ],
+    "text": "Thus, I take the view that the 1st Respondent has not adopted a lawful mechanism in",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      104.72,
+      526.16,
+      118.34
+    ],
+    "text": "arriving at the impugned decision, especially in reference to the question whether the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      125.48,
+      526.2,
+      139.1
+    ],
+    "text": "relationship between such members and the life insurance institutions are in the nature of",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      146.24,
+      526.43,
+      159.86
+    ],
+    "text": "contract for services/independent contractors. Even this Court is unable to assess and",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      167.12,
+      526.39,
+      180.74
+    ],
+    "text": "determine whether the members of the 2nd Respondent-Association come within the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      187.88,
+      526.18,
+      201.5
+    ],
+    "text": "definition of 'workman' in the Ordinance as there are no evidence before Court to make",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      208.76,
+      179.24,
+      222.38
+    ],
+    "text": "such determination.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      243.44,
+      526.48,
+      257.06
+    ],
+    "text": "In the above-mentioned case of Construction Industry Training Board vs. Labour Force Ltd.,",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      264.56,
+      526.21,
+      278.18
+    ],
+    "text": "Fisher J. has further observed that the question whether a contract is one of service or is a",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      285.35,
+      526.48,
+      298.97
+    ],
+    "text": "contract for services is a question of fact. He has further stated that it is, 'however, a",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      306.11,
+      526.47,
+      319.73
+    ],
+    "text": "question of law what are the right tests to be applied in determining whether a contract",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      326.87,
+      526.1,
+      340.49
+    ],
+    "text": "falls into the one or the other class, and a decision of the tribunal could be upset by this",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      347.63,
+      526.48,
+      361.25
+    ],
+    "text": "Court if it was of the opinion that the tribunal had applied the wrong tests, in other words",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      368.63,
+      232.91,
+      382.25
+    ],
+    "text": "had misdirected itself in law,...'",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      403.19,
+      526.44,
+      416.81
+    ],
+    "text": "Based on the above circumstances, I am inclined to issue a writ of Certiorari quashing the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      424.07,
+      526.24,
+      437.69
+    ],
+    "text": "decision of the 1st Respondent reflected in letter dated 28.10.2021 ('P5') and also the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      444.83,
+      526.38,
+      458.45
+    ],
+    "text": "decision of the 1st Respondent to register the 2nd Respondent-Association under the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      465.61,
+      526.21,
+      479.23
+    ],
+    "text": "Ordinance. In light of the above, I proceed further to issue a writ of Mandamus directing",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      486.37,
+      526.18,
+      499.99
+    ],
+    "text": "the 1st Respondent to delete and/or expunge from the Registrar of the Trade Unions, the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      507.13,
+      526.2,
+      520.75
+    ],
+    "text": "registration of the 2nd Respondent Association as a Trade Union and also to cancel the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      528.01,
+      257.99,
+      541.63
+    ],
+    "text": "respective certificate of registration.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      562.85,
+      181.87,
+      576.19
+    ],
+    "text": "Application is allowed.",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      334.75,
+      632.17,
+      526.48,
+      645.79
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      683.98,
+      204.35,
+      697.54
+    ],
+    "text": "Dhammika Ganepola J.",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      709.72,
+      152.0,
+      723.34
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      118.7,
+      735.64,
+      523.23,
+      749.26
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

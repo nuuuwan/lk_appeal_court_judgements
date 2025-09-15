@@ -1,0 +1,974 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      115.32,
+      733.0,
+      328.16,
+      756.28
+    ],
+    "text": "Page 1 of 3",
+    "fonts": [
+      "Bookman Old Style",
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      136.93,
+      86.93,
+      477.56,
+      100.73
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      234.83,
+      112.75,
+      380.89,
+      126.55
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.32,
+      262.7,
+      332.7,
+      275.9
+    ],
+    "text": "Court of Appeal Case No:",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.32,
+      286.12,
+      215.58,
+      299.32
+    ],
+    "text": "CA HCC 163/2018",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.32,
+      322.15,
+      290.8,
+      335.35
+    ],
+    "text": "High Court of Puttalama Case",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.32,
+      346.18,
+      205.98,
+      359.38
+    ],
+    "text": "No: HC 60/2017",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      149.22,
+      499.81,
+      162.42
+    ],
+    "text": "In the matter of an application",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      173.25,
+      499.81,
+      186.45
+    ],
+    "text": "under Section 331 (1) of the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      197.25,
+      499.84,
+      210.45
+    ],
+    "text": "Code of Criminal Procedure Act,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      220.68,
+      411.38,
+      233.88
+    ],
+    "text": "No. 15 of 1979.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      256.7,
+      499.88,
+      288.53
+    ],
+    "text": "Democratic Socialist Republic of Sri Lanka.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      305.35,
+      343.51,
+      318.55
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      335.37,
+      500.88,
+      348.57
+    ],
+    "text": "Dombawalage Jayasiri Fernando",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      452.25,
+      365.97,
+      502.68,
+      379.17
+    ],
+    "text": "Accused",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      396.0,
+      443.2,
+      409.2
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      426.62,
+      500.88,
+      439.82
+    ],
+    "text": "Dombawalage Jayasiri Fernando",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      386.77,
+      456.65,
+      502.08,
+      469.85
+    ],
+    "text": "Accused Appellant",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      486.67,
+      345.93,
+      499.87
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      517.3,
+      461.23,
+      530.5
+    ],
+    "text": "1. Hon. Attorney General",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      547.32,
+      497.88,
+      560.52
+    ],
+    "text": "Attorney Generals Department",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      577.95,
+      397.58,
+      591.15
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      607.97,
+      431.8,
+      621.17
+    ],
+    "text": "2. Officer in Charge",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      638.6,
+      402.38,
+      651.8
+    ],
+    "text": "Police Station",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.32,
+      668.63,
+      393.95,
+      681.83
+    ],
+    "text": "Muldalama.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      425.23,
+      698.65,
+      502.08,
+      711.85
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      733.0,
+      328.16,
+      756.28
+    ],
+    "text": "Page 2 of 3",
+    "fonts": [
+      "Bookman Old Style",
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      86.18,
+      285.86,
+      99.38
+    ],
+    "text": "Before: Menaka Wijesundera J.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      116.2,
+      276.86,
+      129.4
+    ],
+    "text": "B. Sasi Mahendran J.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      146.82,
+      402.38,
+      160.02
+    ],
+    "text": "Council: Asela Seresinhe for the Accused Appellant.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      176.85,
+      349.53,
+      190.05
+    ],
+    "text": "Janaka Bandara, DSG for the State.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      207.47,
+      239.61,
+      220.67
+    ],
+    "text": "Argued on: 22.02.2023",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      237.5,
+      246.83,
+      250.7
+    ],
+    "text": "Decided on: 04.04.2023",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      267.5,
+      263.03,
+      280.7
+    ],
+    "text": "MENAKA WIJESUNDERA J.",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      298.12,
+      499.28,
+      311.32
+    ],
+    "text": "The instant appeal has been filed to set aside the judgment dated",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      322.15,
+      318.88,
+      335.35
+    ],
+    "text": "9.10.2018 of the High Court of Kandy.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      357.58,
+      499.26,
+      370.78
+    ],
+    "text": "The accused appellant has been indicted for an offence of statutory rape",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      381.6,
+      237.2,
+      394.8
+    ],
+    "text": "under the Penal Code.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      417.62,
+      499.79,
+      430.82
+    ],
+    "text": "The appellant had pleaded not guilty and a trial has been held against",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      441.05,
+      499.26,
+      454.25
+    ],
+    "text": "him and upon the conclusion of the same the leaned High Court Judge",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      465.05,
+      491.86,
+      478.25
+    ],
+    "text": "had found him guilty for the charge and had sentenced him as follows,",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.33,
+      487.02,
+      471.43,
+      538.3
+    ],
+    "text": "1) a jail term of 15 years, 2) a fine of Rs 10000 in default 2 years rigorous imprisonment, 3) compensation of Rs 100000 in default 3 years RI.",
+    "fonts": [
+      "Arial",
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      556.32,
+      500.17,
+      569.52
+    ],
+    "text": "When the matter was taken up for argument the Counsel appearing for",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      579.75,
+      499.59,
+      592.95
+    ],
+    "text": "the appellant stated that he is not contesting the conviction but only the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      603.18,
+      171.16,
+      616.38
+    ],
+    "text": "sentence.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      639.2,
+      499.5,
+      652.4
+    ],
+    "text": "The learned DSG appearing for the respondents stated that he is not",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.32,
+      663.2,
+      352.53,
+      676.4
+    ],
+    "text": "objecting for the sentence being backdated.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.32,
+      733.0,
+      328.16,
+      756.28
+    ],
+    "text": "Page 3 of 3",
+    "fonts": [
+      "Bookman Old Style",
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      9.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.32,
+      74.18,
+      499.32,
+      87.38
+    ],
+    "text": "Upon consideration of the submissions of both parties as the appellant",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.32,
+      98.18,
+      499.33,
+      111.38
+    ],
+    "text": "has already served 5 years of the entire imprisonment imposed on him",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.32,
+      121.6,
+      499.61,
+      134.8
+    ],
+    "text": "this Court is of the opinion that the rigorous imprisonment 15 years",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.32,
+      145.63,
+      500.0,
+      158.83
+    ],
+    "text": "should be reduced to 10 years to be operative from the date of the",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.32,
+      169.63,
+      499.35,
+      182.83
+    ],
+    "text": "conviction and the two default sentences to be reduced to 1 year",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.32,
+      193.05,
+      499.29,
+      206.25
+    ],
+    "text": "imprisonment each and the amount of the fine and the compensation to",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.32,
+      217.07,
+      212.58,
+      230.27
+    ],
+    "text": "remain the same.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.32,
+      253.1,
+      396.98,
+      266.3
+    ],
+    "text": "Subject to the above the instant appeal is dismissed.",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      339.33,
+      360.57,
+      502.68,
+      373.77
+    ],
+    "text": "Judge of the Court of Appeal.",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.32,
+      396.0,
+      161.53,
+      409.2
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.32,
+      432.03,
+      233.0,
+      445.23
+    ],
+    "text": "B. Sasi Mahendran J.",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      339.33,
+      468.08,
+      502.68,
+      481.28
+    ],
+    "text": "Judge of the Court of Appeal.",
+    "fonts": [
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  }
+]
