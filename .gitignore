@@ -1,5 +1,5 @@
 .DS_Store
-
+copy_pdf_scraper.sh
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
