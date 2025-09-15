@@ -1,0 +1,2981 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 1 of 7",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.38,
+      84.02,
+      522.8,
+      97.58
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      253.13,
+      99.86,
+      345.25,
+      113.42
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      221.33,
+      218.84,
+      442.93,
+      280.34
+    ],
+    "text": "W. A. A. C. Weerasinghe No. 253/C, Galahitiyawa Ganemulla.",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      470.86,
+      282.53,
+      526.48,
+      296.09
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      310.43,
+      320.89,
+      324.05
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.61,
+      338.39,
+      483.76,
+      352.01
+    ],
+    "text": "1. Ceylon Petroleum Corporation",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.61,
+      354.35,
+      496.24,
+      383.81
+    ],
+    "text": "2. Mr. W. W. D. Sumith Wijesinghe",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.02,
+      386.15,
+      374.05,
+      415.73
+    ],
+    "text": "Chairman",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.61,
+      418.07,
+      464.44,
+      431.69
+    ],
+    "text": "3. Mr. Buddhika Madihahewa",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.61,
+      433.91,
+      470.92,
+      479.47
+    ],
+    "text": "Managing Director 4. Mr. R. M. D. K. Rathnayake",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      481.81,
+      365.29,
+      511.27
+    ],
+    "text": "Director",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.61,
+      513.61,
+      470.8,
+      527.23
+    ],
+    "text": "5. Mr. Chaminda Hettiarachchi",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.61,
+      529.57,
+      455.56,
+      574.99
+    ],
+    "text": "Director 6. Mr. Dhammika Rathmale",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.02,
+      577.33,
+      365.29,
+      606.91
+    ],
+    "text": "Director",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.61,
+      609.25,
+      462.28,
+      622.87
+    ],
+    "text": "7. Mr. Prabath Samarasinghe",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.02,
+      625.09,
+      365.29,
+      654.67
+    ],
+    "text": "Director",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.61,
+      657.04,
+      470.8,
+      670.66
+    ],
+    "text": "8. Mr. Bandula Saman Kumara",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      673.0,
+      365.29,
+      702.46
+    ],
+    "text": "Director",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.61,
+      704.8,
+      483.88,
+      718.42
+    ],
+    "text": "9. Mr. K. W. Samantha Pushpalal",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      720.76,
+      456.4,
+      766.18
+    ],
+    "text": "Deputy General Manager (HR and Admin)",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.41,
+      130.56,
+      520.11,
+      191.54
+    ],
+    "text": "In the matter of an application for mandates in the nature of Writs of Certiorari and Mandamus in terms of Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka.",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      82.46,
+      246.3,
+      191.48,
+      258.78
+    ],
+    "text": "CA/WRIT/647/2021",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 2 of 7",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.61,
+      72.06,
+      488.32,
+      197.18
+    ],
+    "text": "1st to 9th Respondents all of; Ceylon Petroleum Corporation, No. 609, Dr. Danister De Silva Mawatha, Colombo 09. 10. Mr. G. P. Upananda",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.61,
+      199.52,
+      496.72,
+      292.85
+    ],
+    "text": "No. 308/12, Ranamuthugala Vihara Mawatha, Sooriyapaluwa, Kadawatha. 11. Mrs. Kumudu Hewagamage",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.61,
+      295.07,
+      460.36,
+      372.41
+    ],
+    "text": "No. 341/2, Robert Gunawardane Mw, Malabe. 12. Mrs. Nirmala Ranaweera",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.61,
+      374.75,
+      476.08,
+      436.13
+    ],
+    "text": "No. 451/2, Manakada Road, Kadawatha. 13. Mr. Sumith Litanaarachchi",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.61,
+      438.47,
+      457.96,
+      515.83
+    ],
+    "text": "No. 36/1, Temple Road, Katawala, Leula, Kandy. 14. Mr. Priyantha Dayarathne",
+    "fonts": [
+      "ArialMT",
+      "Calisto MT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      319.63,
+      518.17,
+      597.95,
+      547.75
+    ],
+    "text": "No. 8/C/1, Ja-Ela Road, Gamapaha.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      549.91,
+      526.48,
+      591.07
+    ],
+    "text": "Respondents Before : Sobhitha Rajakaruna J.",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.02,
+      612.01,
+      275.75,
+      625.63
+    ],
+    "text": "Dhammika Ganepola J.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      656.68,
+      348.73,
+      670.3
+    ],
+    "text": "Counsel : Thanuka Nandasiri for the Petitioner.",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      677.56,
+      469.72,
+      754.9
+    ],
+    "text": "Chaya Sri Nammuni, DSG for the 1st to 9th Respondents. Shantha Jayawardana with Thilini Vidanagamage for the 10th Respondent.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 3 of 7",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      72.06,
+      209.99,
+      85.68
+    ],
+    "text": "Argued on : 25.05.2022",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      99.86,
+      389.41,
+      236.78
+    ],
+    "text": "Written Submissions: Petitioner -04.10.2022 1st to 9th Respondents -31.08.2022 10th Respondent -02.09.2022 Decided on : 29.11.2022",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      306.65,
+      198.59,
+      320.21
+    ],
+    "text": "Sobhitha Rajakaruna J.",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      332.39,
+      526.46,
+      346.01
+    ],
+    "text": "The Petitioner and the 10th Respondent are currently serving at the 1st Respondent Ceylon",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      353.27,
+      526.41,
+      366.89
+    ],
+    "text": "Petroleum Corporation (Corporation) in the posts of Manager-Human Resources",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      374.03,
+      526.48,
+      387.65
+    ],
+    "text": "Development-Grade A-3 (Manager HR-DEV) and Manager-Human Resources-Grade",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      394.79,
+      526.47,
+      408.41
+    ],
+    "text": "A-3 (Manager HR) respectively. The Petitioner in this application is seeking for writs of",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      415.55,
+      255.35,
+      429.17
+    ],
+    "text": "Certiorari and writs of Mandamus.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      446.27,
+      526.33,
+      459.89
+    ],
+    "text": "The marks allocated for the 10th Respondent at the interview held on 30.11.2021 to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      467.17,
+      526.43,
+      480.79
+    ],
+    "text": "promote a suitable candidate for the post of Manager HR are sought to be quashed by way",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      487.93,
+      526.31,
+      501.55
+    ],
+    "text": "of a writ of Certiorari. Even the decision of the relevant interview panel and the decision",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      508.69,
+      526.18,
+      522.31
+    ],
+    "text": "of the 2nd to 8th Respondents, who are the members of the Board of Directors of the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      529.45,
+      526.39,
+      543.07
+    ],
+    "text": "Corporation, to recommend and appoint the 10th Respondent to the said post of Manager",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      550.21,
+      313.55,
+      563.83
+    ],
+    "text": "HR are also being challenged by the Petitioner.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      581.05,
+      526.39,
+      594.67
+    ],
+    "text": "Similarly, the Petitioner seeks for a mandate in the nature of a writ of Mandamus directing",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      601.81,
+      526.19,
+      615.43
+    ],
+    "text": "the members of the interview panel (sat on 30.11.2021) to allocate marks in favour of the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      622.57,
+      439.57,
+      636.19
+    ],
+    "text": "Petitioner and also to appoint the Petitioner to the post of Manager HR.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      653.32,
+      526.4,
+      666.94
+    ],
+    "text": "The Petitioner whilst serving as a Deputy Manager-Human Resources of the Corporation",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      674.2,
+      526.24,
+      687.82
+    ],
+    "text": "initially faced an interview conducted on 29.04.2021 to promote a suitable candidate to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      694.96,
+      526.47,
+      708.58
+    ],
+    "text": "the post of Manager HR-DEV. The Petitioner was the only successful candidate who",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      715.72,
+      526.2,
+      729.34
+    ],
+    "text": "applied for the said post and she has accepted the said post with effect from 30.11.2021.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      736.48,
+      526.24,
+      750.1
+    ],
+    "text": "In view of the letter issued by the Managing Director of the Corporation on 05.01.2022",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 4 of 7",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      71.94,
+      526.48,
+      85.56
+    ],
+    "text": "(1R19), the Petitioner has been assigned to the said post as a promotion accorded to her",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      92.72,
+      526.49,
+      106.34
+    ],
+    "text": "and the Petitioners original letter of appointment dated 15.03.2000 has also been amended",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      113.48,
+      526.29,
+      127.1
+    ],
+    "text": "accordingly by the same document 1R19. This clearly implies that the appointment to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      134.24,
+      477.16,
+      147.86
+    ],
+    "text": "the post of Manager HR-DEV is solely a promotion accorded to the Petitioner.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      165.08,
+      526.22,
+      178.7
+    ],
+    "text": "After the Petitioner facing the said interview on 29.04.2021, she has faced another",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      185.84,
+      526.48,
+      199.46
+    ],
+    "text": "interview on 30.11.2021 conducted to promote a candidate to the post of Manager HR.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      206.6,
+      526.48,
+      220.22
+    ],
+    "text": "The 10th Respondent who was an Assistant Manager-Human Resources has also faced the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      227.36,
+      526.44,
+      240.98
+    ],
+    "text": "same interview. In view of letter dated 05.01.2022 (1R15), the 10th Respondent has been",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      248.12,
+      526.48,
+      261.74
+    ],
+    "text": "assigned to the said post and that was also clearly a promotion accorded to the 10th",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      269.0,
+      526.44,
+      282.62
+    ],
+    "text": "Respondent. It is noted that the Petitioner was assigned to the post of Manager HR-DEV",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      289.79,
+      526.37,
+      303.41
+    ],
+    "text": "by way of 1R19 issued on the same day, i.e., 05.01.2022 based on the merits gained by",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      310.55,
+      254.63,
+      324.17
+    ],
+    "text": "her at the interview on 29.04.2021.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      341.27,
+      526.12,
+      354.89
+    ],
+    "text": "The alleged grievance of the Petitioner is that the she has not been given marks at the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      362.15,
+      526.47,
+      375.77
+    ],
+    "text": "interview held on 30.11.2021 and further, the 10th Respondent has no required",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      382.91,
+      526.21,
+      396.53
+    ],
+    "text": "qualifications to be appointed as the Manager HR. The primary question which needs",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      403.67,
+      526.48,
+      417.29
+    ],
+    "text": "consideration by this Court is whether the Petitioner can demand that she be promoted to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      424.43,
+      526.35,
+      438.05
+    ],
+    "text": "the post of Manager HR in the given instance where she has been promoted to the post of",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      445.19,
+      525.16,
+      458.81
+    ],
+    "text": "Manager HR-DEV following an interview held prior to the date of the second interview.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      476.05,
+      526.16,
+      489.67
+    ],
+    "text": "I must draw my attention to the Procedural Rules published by the Public Service",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      496.81,
+      526.36,
+      510.43
+    ],
+    "text": "Commission in Extraordinary Gazette Notification No. 1589/30 on 20.02.2009, although",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      517.57,
+      526.16,
+      531.19
+    ],
+    "text": "such Rules have no direct application to the Corporation. In terms of the said Rules,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      538.33,
+      526.32,
+      551.95
+    ],
+    "text": "Promotion means the appointment in accordance with an approved service minute or a",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      559.09,
+      526.27,
+      572.71
+    ],
+    "text": "scheme of recruitment, of an officer holding a post in the public service, to a post, class or",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      579.85,
+      526.46,
+      593.47
+    ],
+    "text": "grade which is superior to the post he holds, or a class or a grade to which he belongs. The",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      600.61,
+      526.14,
+      614.23
+    ],
+    "text": "term Appointment has been defined therein as the conferment of any paid office in the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      621.49,
+      526.3,
+      635.11
+    ],
+    "text": "public service subject to or not subject to subsequent confirmation, to a person not already",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      642.25,
+      526.39,
+      655.87
+    ],
+    "text": "in the public service, or an appointment, or a promotion or transfer involving an increase",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      663.04,
+      526.47,
+      676.66
+    ],
+    "text": "of salary or any change in status of a person already in public service. The material before",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      683.8,
+      526.16,
+      697.42
+    ],
+    "text": "Court clearly reflects that the applicants have been called for relevant interviews by way",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      704.56,
+      526.43,
+      718.18
+    ],
+    "text": "of internal notifications and as such both the above interviews (on 29.04.202 & 30.11.2021)",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      725.32,
+      526.15,
+      738.94
+    ],
+    "text": "have been conducted not to appoint external candidates to such posts but to promote",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      746.08,
+      432.61,
+      759.7
+    ],
+    "text": "officers internally to the posts of Manager HR and Manager HR-DEV.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 5 of 7",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      71.94,
+      526.43,
+      85.56
+    ],
+    "text": "The fundamental question that arises here is whether an employee can pick and choose to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      92.72,
+      526.35,
+      106.34
+    ],
+    "text": "which post that he should be promoted especially when he applied for promotion to two",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      113.48,
+      526.33,
+      127.1
+    ],
+    "text": "distinct posts during the same period. The effect of facing two different interviews pursuant",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      134.24,
+      526.46,
+      147.86
+    ],
+    "text": "to two different posts for the purpose of promotion, in my view, is voluntarily ceasing the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      155.12,
+      526.46,
+      168.74
+    ],
+    "text": "choice between two posts and becoming incapacitated to demand for one particular post",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      175.88,
+      526.45,
+      189.5
+    ],
+    "text": "of your choice. There is a tendency of this position being varied in an event where there is",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      196.64,
+      526.5,
+      210.26
+    ],
+    "text": "an explicit precondition governing such situation. There can be occasions where an",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      217.4,
+      526.19,
+      231.02
+    ],
+    "text": "applicant does not challenge a decision at the initial stages but waits until some",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      238.16,
+      526.48,
+      251.78
+    ],
+    "text": "consequential or unfavourable decision is taken. In other words, such latter decision will",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      258.92,
+      526.48,
+      272.54
+    ],
+    "text": "be challenged only after somebody else other than such applicant is benefited by such latter",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      279.71,
+      526.3,
+      293.33
+    ],
+    "text": "decision. Thus, the conduct of the Petitioner should also be assessed in line with the above",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      300.59,
+      122.12,
+      314.21
+    ],
+    "text": "findings.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      331.31,
+      526.46,
+      344.93
+    ],
+    "text": "I see no evidence of any declaration made by the Petitioner at the interview on 30.11.2021",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      352.07,
+      526.42,
+      365.69
+    ],
+    "text": "that she would relinquish her rights in pursuant to the interview conducted in reference to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      372.83,
+      526.41,
+      386.45
+    ],
+    "text": "the post of Manager HR-DEV. It may be true that the authorities, after the related",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      393.71,
+      526.48,
+      407.33
+    ],
+    "text": "interview, had not taken a decision in regard to the post of Manager HR-DEV even until",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      414.47,
+      526.39,
+      428.09
+    ],
+    "text": "30.11.2021. The Respondents in this Application have taken effort to justify the delay in",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      435.23,
+      526.36,
+      448.85
+    ],
+    "text": "announcing the outcome of the interview held on 29.04.2021. But no employee should get",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      455.99,
+      526.36,
+      469.61
+    ],
+    "text": "an undue advantage of such situation, especially with regard to promotions in the service.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      476.77,
+      526.38,
+      490.39
+    ],
+    "text": "The Petitioner is now holding the post of Manager HR-DEV and no attempt has been",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      497.53,
+      526.38,
+      511.15
+    ],
+    "text": "made voluntarily by her to get her existing promotion invalidated. Then what is the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      518.29,
+      526.16,
+      531.91
+    ],
+    "text": "rationale for her to raise a claim that she should be promoted to the post of Manager HR",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      539.17,
+      526.27,
+      552.79
+    ],
+    "text": "instead of the 10th Respondent, even if it is assumed that non allocation of marks at the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      559.93,
+      263.15,
+      573.55
+    ],
+    "text": "interview on 30.11.2021 is irrational?",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      590.65,
+      526.3,
+      604.27
+    ],
+    "text": "Irrelevant considerations may also be innocuous if the action taken is reasonable in itself,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      611.41,
+      526.39,
+      625.03
+    ],
+    "text": "in fixing the level of pay of its employees, which is required by the court to be reasonable,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      632.17,
+      526.26,
+      645.79
+    ],
+    "text": "a local authority may act on entirely wrong ground and yet its payments, if not in",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      653.08,
+      529.99,
+      666.7
+    ],
+    "text": "themselves excessive, are not unlawful (Vide-Administrative Law by H. W. R. Wade",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.18,
+      673.84,
+      337.69,
+      687.46
+    ],
+    "text": "and C. F. Forsyth (11th Edition) Oxford at p. 329).",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      704.56,
+      526.46,
+      718.18
+    ],
+    "text": "Furthermore, the aforesaid notion of voluntary ceasing of the choice which emerges as a",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      725.32,
+      526.41,
+      738.94
+    ],
+    "text": "result of applying to two distinctive posts at the time of promotions, should be properly",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      746.08,
+      526.31,
+      759.7
+    ],
+    "text": "assessed along with the substantive prejudice that can be presumably caused to the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 6 of 7",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      71.94,
+      526.15,
+      85.56
+    ],
+    "text": "Petitioner. In this regard attention should be drawn to the purported damage that can be",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      92.72,
+      526.48,
+      106.34
+    ],
+    "text": "caused to the Petitioner by promoting the 10th Respondent to the post of Manager HR;",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      113.48,
+      526.37,
+      127.1
+    ],
+    "text": "and the purported damage that can be caused to the 10th Respondent in an event of her",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      134.24,
+      526.33,
+      147.86
+    ],
+    "text": "being taken away from the post of Manager HR, based on all the circumstances of this",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      155.12,
+      526.33,
+      168.74
+    ],
+    "text": "case. The 1st to 9th Respondents contend that the two posts are comparable in status as well",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      175.88,
+      526.44,
+      189.5
+    ],
+    "text": "as in remuneration and further, the 10th Respondent cannot gain anything more than the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      196.64,
+      526.15,
+      210.26
+    ],
+    "text": "Petitioners entitlements in the new post. This position is clearly evinced in the Salary",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      217.4,
+      526.4,
+      231.02
+    ],
+    "text": "Conversion Forms 1R9 and 1R10. Additionally, the attention of Court was drawn to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      238.16,
+      526.31,
+      251.78
+    ],
+    "text": "the fact that a sum of Rs.105,000.00 had been paid by the Corporation, in view of the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      258.92,
+      526.47,
+      272.54
+    ],
+    "text": "document marked 1R8, enabling the Petitioner to follow one-year National Diploma in",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      279.71,
+      463.36,
+      293.33
+    ],
+    "text": "Training and HR Development Course which commenced in January 2021.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      310.55,
+      526.46,
+      324.17
+    ],
+    "text": "On a careful perusal of the internal advertisements calling for applications for both above",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      331.31,
+      526.45,
+      344.93
+    ],
+    "text": "posts imply that the applicants should at least be in the service of Grade A-5, a requirement",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      352.07,
+      526.21,
+      365.69
+    ],
+    "text": "set down even in the Scheme of Recruitment approved by the Board in 1991 (1R13).",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      372.83,
+      526.22,
+      386.45
+    ],
+    "text": "Even the Department of Management Services has observed that no Scheme of",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      393.71,
+      526.43,
+      407.33
+    ],
+    "text": "Recruitment is in existence other than for the posts in the category of Grade A. It is obvious",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      414.47,
+      526.44,
+      428.09
+    ],
+    "text": "that the draft Scheme of Recruitment, marked P13, cannot be officially adopted as it has",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      435.23,
+      526.27,
+      448.85
+    ],
+    "text": "not yet been approved by the Department of Management Services, although the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      455.99,
+      526.32,
+      469.61
+    ],
+    "text": "Petitioner takes a different view on the point. The contention of the Respondents is that",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      476.77,
+      526.46,
+      490.39
+    ],
+    "text": "the administrative practice of not allocating marks at an interview in an event where the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      497.53,
+      526.39,
+      511.15
+    ],
+    "text": "respective candidate has previously applied (or has been assigned) for a promotion in",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      518.29,
+      519.04,
+      531.91
+    ],
+    "text": "respect of another post has existed for a considerable period of time at the Corporation.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      549.13,
+      529.83,
+      562.75
+    ],
+    "text": "In R vs. Broadcasting Complaints Commission ex parte Owen (1985) 2 All ER 522 (at",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.18,
+      569.89,
+      237.35,
+      583.51
+    ],
+    "text": "p.523), the Court has held that;",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      600.65,
+      526.17,
+      613.99
+    ],
+    "text": "When the reason given by a statutory body for taking or not taking a particular course of",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      621.41,
+      525.81,
+      634.75
+    ],
+    "text": "action were not mixed and could be clearly disentangled and where the court was satisfied",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      642.17,
+      525.91,
+      655.51
+    ],
+    "text": "that even though one reason might be bad in law the statutory body would nevertheless have",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      662.96,
+      526.08,
+      676.3
+    ],
+    "text": "reached precisely the same decision for the remaining, valid reasons, the court would not",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      683.72,
+      271.78,
+      697.06
+    ],
+    "text": "interfere by way of judicial review.",
+    "fonts": [
+      "Calisto MT,Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      714.4,
+      526.48,
+      728.02
+    ],
+    "text": "I am convinced, based on the material submitted to Court that the 10th Respondent has",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      735.16,
+      526.23,
+      748.78
+    ],
+    "text": "reasonably fulfilled the required criteria to be appointed to the post of Manager HR in",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      755.92,
+      526.4,
+      769.54
+    ],
+    "text": "terms of the aforesaid Scheme of Recruitment adopted in 1991. In these circumstances and",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      781.3,
+      525.92,
+      805.78
+    ],
+    "text": "Page 7 of 7",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      71.94,
+      526.43,
+      85.56
+    ],
+    "text": "on the above grounds, I take the view that no adequate material has been placed before",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      92.72,
+      526.29,
+      106.34
+    ],
+    "text": "Court in order to arrive at a conclusion that the decision of the interview panel not to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      113.48,
+      464.8,
+      127.1
+    ],
+    "text": "allocate marks to the Petitioner on 30.11.2021 is ex facie illegal or ultra vires.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      144.32,
+      526.45,
+      157.94
+    ],
+    "text": "In passing, I comment that the upper Management of the Corporation is ought to consider",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      165.08,
+      526.47,
+      178.7
+    ],
+    "text": "many facets in due administration within the institution and also serious attention should",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      185.84,
+      526.49,
+      199.46
+    ],
+    "text": "be drawn to the past record of an officer in addition to the qualifications when appointing",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      206.6,
+      526.47,
+      220.22
+    ],
+    "text": "an officer to an important and responsible post such as Manager Human Resources. The",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      227.36,
+      526.23,
+      240.98
+    ],
+    "text": "1st to 9th Respondents tendering letters, marked 1R1 to 1R6, alleged that the Petitioner",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      248.12,
+      526.39,
+      261.74
+    ],
+    "text": "had been warned and issued letters pertaining to at least six incidents of violation of the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      269.0,
+      526.48,
+      282.62
+    ],
+    "text": "disciplinary provisions and disrupting service while she was serving in the Human",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      289.79,
+      526.37,
+      303.41
+    ],
+    "text": "Resources sector. The Management should be able to use their discretion to a greater",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      310.55,
+      526.38,
+      324.17
+    ],
+    "text": "extent but, according to law, especially when making appointments to senior posts in the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      331.31,
+      526.41,
+      344.93
+    ],
+    "text": "Human Resources sector which has a direct link to leave, promotions, overtime work,",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      352.07,
+      526.31,
+      365.69
+    ],
+    "text": "transfer etc. of the employees. Anyhow, based on the above findings, I am not inclined to",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      372.83,
+      505.6,
+      386.45
+    ],
+    "text": "examine such issues as well as the preliminary objections raised by the Respondents.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      403.67,
+      526.4,
+      417.29
+    ],
+    "text": "In the circumstances, I hold that the decisions of the 1st to 9th Respondents not to allocate",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      424.43,
+      526.48,
+      438.05
+    ],
+    "text": "marks to the Petitioner at the interview conducted on 30.11.2021 and to promote the 10th",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      6.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      445.19,
+      526.37,
+      458.81
+    ],
+    "text": "Respondent to the post of Manager HR are not illegal and ultra-vies as claimed by the",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      465.97,
+      526.33,
+      479.59
+    ],
+    "text": "Petitioner. Thus, the Petitioner is not entitled to any of the reliefs prayed for in the prayer",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      486.73,
+      153.44,
+      500.35
+    ],
+    "text": "of the Petition.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      517.57,
+      204.95,
+      531.19
+    ],
+    "text": "Application is dismissed.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      334.75,
+      600.01,
+      526.48,
+      613.63
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      651.7,
+      204.35,
+      665.26
+    ],
+    "text": "Dhammika Ganepola J.",
+    "fonts": [
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      677.56,
+      152.0,
+      691.18
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Calisto MT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      118.7,
+      703.48,
+      523.23,
+      717.1
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Calisto MT",
+      "Calisto MT,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
