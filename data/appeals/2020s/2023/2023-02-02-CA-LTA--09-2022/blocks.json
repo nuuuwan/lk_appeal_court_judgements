@@ -1,0 +1,608 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      78.26,
+      71.98,
+      537.86,
+      85.96
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      260.33,
+      88.2,
+      355.87,
+      102.18
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      104.4,
+      543.94,
+      215.6
+    ],
+    "text": "In the matter of an application for Leave to Appeal from the order of the Wakf Tribunal made in terms of section 55A of the Muslim Mosques and Charitable Trusts or Wakfs Act read with section 754(2) of the Civil Procedure Code.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.37,
+      217.8,
+      437.35,
+      604.48
+    ],
+    "text": "1. N.M.M. Sabrulla No.121/1, Maanaeriya Kochchikade 2. M.B.M. Huwailidu No. 17/78, Lurdu Mawatha Kochchikade 3. B.M.M. Sultan No. 28/14, Church Road Kochchikade 4. A.U.L.M. Fawser No. 117, Henmulla Kochchikade 5. B.M. Azmi No. 117, Henmulla Kochchikade",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.37,
+      606.68,
+      544.18,
+      685.48
+    ],
+    "text": "Petitioners Vs 1. Nasoordeen Faleel Rizan",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      274.37,
+      687.67,
+      358.87,
+      717.88
+    ],
+    "text": "Sultana Hotel Kochchikade",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      46.56,
+      206.16,
+      199.4,
+      217.76
+    ],
+    "text": "WB Case No. WB/8604/2020",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      46.56,
+      226.8,
+      192.41,
+      238.4
+    ],
+    "text": "WT Case No. WT/284/2022",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      46.56,
+      247.59,
+      231.8,
+      259.19
+    ],
+    "text": "CALA CASE NO: CA/LTA /09/2022",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.37,
+      71.98,
+      470.98,
+      102.2
+    ],
+    "text": "2. Nasoordeen Kishar Hayath Khan",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.37,
+      104.4,
+      374.71,
+      167.0
+    ],
+    "text": "Sultana Hotel Kochchikade 3. Abdul Rahuman",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.37,
+      169.2,
+      446.71,
+      231.8
+    ],
+    "text": "No. 68, Pallansena Road, Kochchikade 4. Mubarak Mohamed Marzook",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      274.37,
+      234.0,
+      435.91,
+      264.23
+    ],
+    "text": "Guruge Watte, Maanaeriya Kochchikade",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.37,
+      282.63,
+      544.18,
+      361.43
+    ],
+    "text": "Respondents AND BETWEEN 1. Nasoordeen Faleel Rizan",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.37,
+      363.63,
+      470.98,
+      426.25
+    ],
+    "text": "Sultana Hotel Kochchikade 2. Nasoordeen Kishar Hayath Khan",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.37,
+      428.45,
+      374.71,
+      491.05
+    ],
+    "text": "Sultana Hotel Kochchikade 3. Abdul Rahuman",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.37,
+      493.25,
+      425.35,
+      555.83
+    ],
+    "text": "No. 68, Pallansena Road, Kochchikade",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.37,
+      558.05,
+      544.18,
+      717.88
+    ],
+    "text": "Respondent-Appellants Vs 1. N.M.M. Sabrulla No.121/1, Maanaeriya Kochchikade 2. M.B.M. Huwailidu No. 17/78, Lurdu Mawatha Kochchikade",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      256.37,
+      71.98,
+      421.51,
+      280.43
+    ],
+    "text": "3. B.M.M. Sultan No. 28/14, Church Road Kochchikade 4. A.U.L.M. Fawser No. 117, Henmulla Kochchikade 5. B.M. Azmi No. 117, Henmulla Kochchikade",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      282.63,
+      544.18,
+      329.03
+    ],
+    "text": "Petitioner- Respondents 6. Mubarak Mohamed Marzook",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      274.37,
+      331.23,
+      435.91,
+      361.43
+    ],
+    "text": "Guruge Watte, Maanaeriya Kochchikade",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      256.37,
+      363.63,
+      544.18,
+      458.65
+    ],
+    "text": "Respondent- Respondent AND NOW BETWEEN 1. Nasoordeen Faleel Rizan",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      256.37,
+      460.85,
+      470.98,
+      523.45
+    ],
+    "text": "Sultana Hotel Kochchikade 2. Nasoordeen Kishar Hayath Khan",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      256.37,
+      525.65,
+      374.71,
+      588.25
+    ],
+    "text": "Sultana Hotel Kochchikade 3. Abdul Rahuman",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      274.37,
+      590.48,
+      425.35,
+      636.88
+    ],
+    "text": "No. 68, Pallansena Road, Kochchikade",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      256.37,
+      639.08,
+      544.18,
+      717.88
+    ],
+    "text": "Respondent-Appellant- Petitioners Vs 1. N.M.M. Sabrulla No.121/1, Maanaeriya",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      256.37,
+      71.98,
+      437.35,
+      361.41
+    ],
+    "text": "Kochchikade 2. M.B.M. Huwailidu No. 17/78, Lurdu Mawatha Kochchikade 3. B.M.M. Sultan No. 28/14, Church Road Kochchikade 4. A.U.L.M. Fawser No. 117, Henmulla Kochchikade 5. B.M. Azmi No. 117, Henmulla Kochchikade",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      363.63,
+      544.18,
+      410.03
+    ],
+    "text": "Petitioner - Respondent- Respondents- 6. Mubarak Mohamed Marzook",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274.37,
+      412.25,
+      435.91,
+      442.45
+    ],
+    "text": "Guruge Watte, Maanaeriya Kochchikade",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      444.65,
+      544.18,
+      523.45
+    ],
+    "text": "Respondent- Respondent- Respondents Before: M. T. MOHAMMED LAFFAR, J.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      525.65,
+      506.26,
+      717.88
+    ],
+    "text": "Sampath B. Abayakoon, J. Counsel: V. Fernando, instructed by Fawzie Wahab for the Petitioners. Decided on: 02.02.2023",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      72.03,
+      543.29,
+      278.79
+    ],
+    "text": "MOHAMMED LAFFAR, J. We heard the learned Counsel for the Respondent-Appellant-Petitioners in support of this Application. Having scrutinized the petition, affidavit, documents, the impugned Order of the Wakf Tribunal dated 10-12-2022 and the oral submission of the learned Counsel for the Respondent-Appellant-Petitioners, it is the view of this Court that this is a fit and proper case to grant leave to appeal, and therefore the leave to appeal as prayed for in prayer (a) of the petition dated 20-12-2020 is granted. Upon tendering, issue notice on the Respondents.",
+    "fonts": [
+      "BookmanOldStyle-Bold",
+      "BookmanOldStyle-Italic",
+      "NirmalaUI",
+      "NirmalaUI-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      340.15,
+      367.58,
+      543.54,
+      383.67
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "NirmalaUI-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      478.48,
+      231.61,
+      494.57
+    ],
+    "text": "Sampath B. Abayakoon, J.",
+    "fonts": [
+      "NirmalaUI-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      515.44,
+      116.0,
+      531.53
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "NirmalaUI"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      340.15,
+      626.23,
+      543.54,
+      642.32
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "NirmalaUI-Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  }
+]
