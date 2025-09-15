@@ -1,0 +1,2345 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      731.38,
+      333.05,
+      755.88
+    ],
+    "text": "Page 1 of 6",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      78.26,
+      72.0,
+      537.86,
+      85.98
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      260.33,
+      93.24,
+      355.87,
+      107.22
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      122.28,
+      543.56,
+      136.34
+    ],
+    "text": "In the matter of an Appeal from the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      143.4,
+      543.61,
+      157.46
+    ],
+    "text": "Provincial High Court of Kandy in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      164.52,
+      543.6,
+      178.58
+    ],
+    "text": "terms of section 331 of the Criminal",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      185.76,
+      424.87,
+      199.82
+    ],
+    "text": "Procedure Code.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      243.99,
+      494.02,
+      257.99
+    ],
+    "text": "Court of Appeal Case No. Segusahib Mohamed Aswar,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      265.11,
+      469.3,
+      279.11
+    ],
+    "text": "CA (PHC) 83/2018 No. 01, Habarana Road,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      286.23,
+      407.11,
+      300.23
+    ],
+    "text": "Ganewalpola,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      307.47,
+      435.91,
+      321.47
+    ],
+    "text": "Kekirawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      336.51,
+      421.75,
+      350.51
+    ],
+    "text": "Provincial High Court Case No. COMPLAINANT",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      365.67,
+      347.11,
+      379.67
+    ],
+    "text": "Rev - 10/20 18 Vs.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      394.83,
+      364.15,
+      408.81
+    ],
+    "text": "Magistrate Court Case No.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      424.01,
+      510.82,
+      438.01
+    ],
+    "text": "77176 Thajudeen Mohamed Hameem,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      453.05,
+      473.86,
+      467.05
+    ],
+    "text": "Elamalpotha, Vahakotte,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      482.21,
+      371.11,
+      496.21
+    ],
+    "text": "Matale.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      511.37,
+      422.23,
+      525.35
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      540.41,
+      494.02,
+      554.41
+    ],
+    "text": "Segusahib Mohamed Aswar,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      561.53,
+      469.3,
+      575.53
+    ],
+    "text": "No. 01, Habarana Road,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      582.68,
+      507.94,
+      596.68
+    ],
+    "text": "Ganewalpola,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      603.92,
+      399.91,
+      617.92
+    ],
+    "text": "Kekirawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      633.08,
+      407.59,
+      647.06
+    ],
+    "text": "PETITIONER",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      662.12,
+      383.11,
+      676.1
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      731.38,
+      333.05,
+      755.88
+    ],
+    "text": "Page 2 of 6",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      72.12,
+      525.94,
+      86.12
+    ],
+    "text": "1. Thajudeen Mohamed Hameem,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      101.28,
+      473.86,
+      115.28
+    ],
+    "text": "Elamalpotha, Vahakotte,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      130.32,
+      375.43,
+      144.32
+    ],
+    "text": "Matale.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      159.36,
+      475.78,
+      173.36
+    ],
+    "text": "2. The Attorney General,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.79,
+      188.28,
+      521.74,
+      202.28
+    ],
+    "text": "Attorney Generals Department,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.79,
+      217.44,
+      405.55,
+      231.44
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.02,
+      246.63,
+      423.67,
+      260.63
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      275.67,
+      460.18,
+      289.65
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      325.83,
+      494.02,
+      339.83
+    ],
+    "text": "Segusahib Mohamed Aswar,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      346.95,
+      469.3,
+      360.95
+    ],
+    "text": "No. 01, Habarana Road,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      368.07,
+      507.94,
+      382.07
+    ],
+    "text": "Ganewalpola,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      389.31,
+      399.91,
+      403.31
+    ],
+    "text": "Kekirawa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      418.37,
+      505.78,
+      432.35
+    ],
+    "text": "COMPLAINANT-PETITIONER-",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      439.61,
+      402.55,
+      453.59
+    ],
+    "text": "APPELLANT",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      360.07,
+      468.77,
+      383.11,
+      482.75
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      526.97,
+      525.94,
+      540.97
+    ],
+    "text": "1. Thajudeen Mohamed Hameem,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      556.13,
+      473.86,
+      570.13
+    ],
+    "text": "Elamalpotha, Vahakotte,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      585.32,
+      374.95,
+      599.32
+    ],
+    "text": "Matale.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      614.36,
+      481.54,
+      628.34
+    ],
+    "text": "ACCUSED-RESPONDENT-",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.07,
+      635.6,
+      415.75,
+      649.58
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      731.38,
+      333.05,
+      755.88
+    ],
+    "text": "Page 3 of 6",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.07,
+      72.0,
+      475.78,
+      86.0
+    ],
+    "text": "2. The Attorney General,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      327.79,
+      100.92,
+      521.74,
+      114.92
+    ],
+    "text": "Attorney Generals Department,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      327.79,
+      129.96,
+      405.55,
+      143.96
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.02,
+      159.12,
+      415.75,
+      173.12
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      217.44,
+      388.39,
+      231.44
+    ],
+    "text": "Before : Sampath B. Abayakoon, J.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      246.63,
+      351.67,
+      260.63
+    ],
+    "text": ": P. Kumararatnam, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      275.67,
+      532.42,
+      289.67
+    ],
+    "text": "Counsel : A. L. M. Farook with Rudane Zahir for the appellant",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.05,
+      304.83,
+      509.86,
+      318.83
+    ],
+    "text": ": Randeniya instructed by Salman Ameen for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.05,
+      333.99,
+      296.93,
+      347.99
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      216.05,
+      363.15,
+      526.18,
+      377.15
+    ],
+    "text": ": Kanishka Rajakaruna, SC for the Attorney General",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      392.19,
+      296.69,
+      406.19
+    ],
+    "text": "Argued on : 04-07-2023",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      421.37,
+      418.87,
+      435.37
+    ],
+    "text": "Written Submissions : 22-02-2023 (By the Respondent)",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      450.53,
+      405.43,
+      464.53
+    ],
+    "text": ": 06-04-2022 (By the Appellant)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      479.69,
+      296.69,
+      493.69
+    ],
+    "text": "Decided on : 21-09-2023",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      508.73,
+      240.29,
+      522.71
+    ],
+    "text": "Sampath B. Abayakoon, J.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      537.77,
+      543.91,
+      551.77
+    ],
+    "text": "This is an appeal preferred by the petitioner-appellant (hereinafter referred to as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      558.89,
+      543.93,
+      572.89
+    ],
+    "text": "the appellant) on the basis of being aggrieved by the order dated 02-05-2018 by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      580.04,
+      543.94,
+      594.04
+    ],
+    "text": "the Provincial High Court Judge of the Central Province Holden in Kandy,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      601.16,
+      543.72,
+      615.16
+    ],
+    "text": "wherein the learned High Court Judge refused to issue notice on application",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      622.28,
+      543.94,
+      636.28
+    ],
+    "text": "made by the appellant seeking to invoke the revisionary jurisdiction of the Court.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      643.4,
+      543.83,
+      657.4
+    ],
+    "text": "The said application has been made in order to challenge an order made by thew",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      664.64,
+      543.85,
+      678.64
+    ],
+    "text": "learned Magistrate of Dambulla 0n 22-11-2022 in the Magistrates Court of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      685.87,
+      227.33,
+      699.88
+    ],
+    "text": "Dambulla case No 77176.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      731.38,
+      333.05,
+      755.88
+    ],
+    "text": "Page 4 of 6",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      72.0,
+      543.7,
+      86.0
+    ],
+    "text": "At the hearing of this appeal, it was the contention of the learned Counsel for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      93.12,
+      543.86,
+      107.12
+    ],
+    "text": "the appellant that the learned High Court Judge was misdirected as to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      114.24,
+      543.89,
+      128.24
+    ],
+    "text": "relevant law when his application for notice was refused. He urged this Court to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      135.48,
+      281.33,
+      149.48
+    ],
+    "text": "quash the above-mentioned order.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      164.52,
+      543.85,
+      178.52
+    ],
+    "text": "This is a matter where the appellant has filed a private plaint in terms of section",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      185.64,
+      543.94,
+      199.64
+    ],
+    "text": "136 (1) (a) of the Code of Criminal Procedure Act before the Magistrates Court of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      206.76,
+      543.68,
+      220.76
+    ],
+    "text": "Dambulla. In his draft plaint and charge sheet, the appellant has sought to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      227.88,
+      543.9,
+      241.88
+    ],
+    "text": "charge the accused mentioned in the draft charge namely, Thajudeen",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      249.03,
+      543.78,
+      263.03
+    ],
+    "text": "Mohammad Hameem for an alleged offence of cheating punishable in terms of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      270.15,
+      543.85,
+      284.15
+    ],
+    "text": "section 400 and 389 of the Penal Code. It appears that the charge was based on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      291.27,
+      543.7,
+      305.27
+    ],
+    "text": "a lease agreement as well as 2 cheques handed over by the appellant to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      312.51,
+      196.85,
+      326.51
+    ],
+    "text": "accused mentioned.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      341.55,
+      543.73,
+      355.55
+    ],
+    "text": "When this private plaint was preferred, the learned Magistrate of Dambulla has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      362.67,
+      543.94,
+      376.67
+    ],
+    "text": "very correctly considered whether the appellant has established sufficient",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      383.79,
+      543.71,
+      397.79
+    ],
+    "text": "grounds for him to proceed with this private plaint. In that regard the appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      404.93,
+      543.77,
+      418.93
+    ],
+    "text": "has given evidence before the Court. The learned Magistrate of Dambulla after",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      426.17,
+      543.93,
+      440.17
+    ],
+    "text": "well considering whether the appellant has established sufficient grounds for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      447.29,
+      543.94,
+      461.29
+    ],
+    "text": "him to get the summons issued to the accused mentioned in the charge, has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      468.41,
+      543.86,
+      482.41
+    ],
+    "text": "concluded that the appellant has failed to establish such a ground. Accordingly,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      489.65,
+      477.22,
+      503.65
+    ],
+    "text": "the learned Magistrate has refused to issue summons as requested.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      518.57,
+      543.74,
+      532.57
+    ],
+    "text": "It is against this order the appellant had preferred an application in revision to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      539.93,
+      472.42,
+      553.93
+    ],
+    "text": "the Provincial High Court of the Central Province Holden in Kandy.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      568.85,
+      543.67,
+      582.85
+    ],
+    "text": "When the matter was supported before the learned High Court Judge of Kandy,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      590.0,
+      543.83,
+      604.0
+    ],
+    "text": "the learned High Court Judge being not satisfied that the appellant has a basis",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      611.12,
+      543.71,
+      625.12
+    ],
+    "text": "to invoke the revisionary jurisdiction of the Court has refused to issue notice in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      632.48,
+      332.71,
+      646.48
+    ],
+    "text": "that regard by his order dated 02-05-2018.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      661.4,
+      543.72,
+      675.4
+    ],
+    "text": "The appellant giving evidence before the learned Magistrate of Dambulla has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      682.51,
+      543.74,
+      696.52
+    ],
+    "text": "stated that he has a fuel station business and wanted to give that business on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      731.38,
+      333.05,
+      755.88
+    ],
+    "text": "Page 5 of 6",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      72.0,
+      543.76,
+      86.0
+    ],
+    "text": "rent to the accused mentioned. In that regard, went to an office of a lawyer,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      93.24,
+      534.82,
+      107.24
+    ],
+    "text": "discussed the conditions, and instructed the lawyer to prepare an agreement.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      122.28,
+      543.87,
+      136.28
+    ],
+    "text": "He has claimed that he signed several blank papers and after several reminders",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      143.4,
+      543.93,
+      157.4
+    ],
+    "text": "and several dates after the signing, he was given the copy of the agreement, but",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      164.52,
+      543.7,
+      178.52
+    ],
+    "text": "the conditions he wanted to be in the agreement was not there. It was his",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      185.64,
+      543.91,
+      199.64
+    ],
+    "text": "contention that the said agreement referred to a power of attorney alleged to have",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      206.76,
+      543.84,
+      220.76
+    ],
+    "text": "been given by him to the accused, which was not in accordance with his",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      227.88,
+      543.86,
+      241.88
+    ],
+    "text": "instructions to the lawyer. He has also referred to two cheques given by him to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      249.03,
+      543.94,
+      263.03
+    ],
+    "text": "the value of One Million rupees and the accuseds failure to deposit the said",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      270.15,
+      543.86,
+      284.15
+    ],
+    "text": "cheques given by the appellant to the appellants account and the losses suffered",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      291.39,
+      189.86,
+      305.39
+    ],
+    "text": "by him as a result.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      320.43,
+      543.67,
+      334.43
+    ],
+    "text": "The learned Magistrate in his order has well considered the evidence and has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      341.55,
+      543.73,
+      355.55
+    ],
+    "text": "rightly noted that although the appellant speaks about a rent agreement given",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      362.67,
+      543.7,
+      376.67
+    ],
+    "text": "to him by his lawyer, which should be the basis of the allegations against the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      383.79,
+      543.8,
+      397.79
+    ],
+    "text": "accused had not been tendered in evidence and therefore, he is not in a position",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      405.05,
+      456.1,
+      419.05
+    ],
+    "text": "to consider the alleged conditions that contain in the document.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      434.09,
+      543.86,
+      448.09
+    ],
+    "text": "The learned Magistrate has well considered the appellants evidence with regard",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      455.21,
+      543.78,
+      469.21
+    ],
+    "text": "to two cheques allegedly given by him and has determined that the evidence in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      476.33,
+      543.94,
+      490.33
+    ],
+    "text": "that regard does not fall under the offence of cheating or criminal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      497.57,
+      343.51,
+      511.57
+    ],
+    "text": "misappropriation in terms of the Penal Code.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      526.61,
+      543.79,
+      540.61
+    ],
+    "text": "He has found that the documents tendered by the appellant to Court are",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      547.73,
+      543.72,
+      561.73
+    ],
+    "text": "contradictory to each other. In the complaint alleged to have been made to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      568.85,
+      543.91,
+      582.85
+    ],
+    "text": "Kekirawa Police on 12-08-2016, the appellant has referred to the same 2 cheques",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      590.0,
+      543.62,
+      604.0
+    ],
+    "text": "he has claimed that was given by him to the accused has been stolen from one",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      611.12,
+      543.67,
+      625.12
+    ],
+    "text": "of the files he had with him and he is unaware who took the cheques from his",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      632.48,
+      107.06,
+      646.48
+    ],
+    "text": "files.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      661.4,
+      543.7,
+      675.4
+    ],
+    "text": "As correctly considered by the learned Magistrate, this is a statement made",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      682.51,
+      543.74,
+      696.52
+    ],
+    "text": "contradictory to the stand taken up by the appellant before the Magistrates",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      703.63,
+      543.86,
+      717.64
+    ],
+    "text": "Court. The learned Magistrate of Dambulla having well considered all these facts",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      731.38,
+      333.05,
+      755.88
+    ],
+    "text": "Page 6 of 6",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      72.0,
+      543.94,
+      86.0
+    ],
+    "text": "and other incidental matters has decided not to issue summons to the accused",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      93.24,
+      382.63,
+      107.24
+    ],
+    "text": "mentioned in the draft charge filed before the Court.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      122.28,
+      543.94,
+      136.28
+    ],
+    "text": "When this matter was considered by the learned High Court Judge of Kandy, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      143.4,
+      543.87,
+      157.4
+    ],
+    "text": "learned High Court Judge too had drawn his attention to the order made by the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      164.52,
+      543.94,
+      178.52
+    ],
+    "text": "learned Magistrate of Dambulla and has correctly concluded that he has no basis",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      185.64,
+      543.67,
+      199.64
+    ],
+    "text": "to issue notice of the revision application filed before him, which in my view is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      206.76,
+      543.89,
+      220.76
+    ],
+    "text": "the only conclusion that would have been reached by the learned High Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      228.0,
+      119.06,
+      242.0
+    ],
+    "text": "Judge.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      257.19,
+      423.19,
+      271.19
+    ],
+    "text": "Accordingly, the appeal is dismissed for want of any merit.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      286.23,
+      543.7,
+      300.23
+    ],
+    "text": "The Registrar of the Court is directed to forward a copy of the judgement to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      307.35,
+      543.93,
+      321.35
+    ],
+    "text": "Provincial High Court of the Central Province Holden in Kandy and to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      328.59,
+      359.59,
+      342.59
+    ],
+    "text": "Magistrates Court of Dambulla for information.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      360.07,
+      415.97,
+      531.94,
+      429.97
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      445.13,
+      210.29,
+      459.11
+    ],
+    "text": "P. Kumararatnam, J.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      474.29,
+      122.66,
+      488.29
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      360.07,
+      532.49,
+      612.55,
+      546.49
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

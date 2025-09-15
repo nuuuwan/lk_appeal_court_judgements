@@ -1,0 +1,255 @@
+1
+
+CA/WRT/0212/2020
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC
+
+SOCIALIST REPUBLIC OF SRI LANKA
+
+In the matter of an application in terms of Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka for mandates in the nature of Writs of Certiorari and Mandamus to be issued against the 1st and 2nd Respondents in respect of Grant /3/5/1/4/ ..
+
+1. Gunasekarage Leelawathie, of
+
+Nagaradharanaawa, Poonawa, Madawachchiya. PETITIONER CA No. CA/Writ/0212/2020 v.
+
+1. D.M. Shantha Dassanayake,
+
+The Divisional Secretary, The Divisional Secretariat, Madawachchiya. 2. S.S.M. Sampath Rohana Dharmadhasa,
+
+The Provincial Land Commissioner of North Central Province, of Provincial Land Commissioners Department North Central Province, Provincial Council Complex, Dharmapala Mawatha, Anuradhapura.
+
+2
+
+CA/WRT/0212/2020
+
+3. The Land Commissioner General,
+
+Land Commissioner General Department, No. 07, Hector Kobbekaduwa Mawatha, Colombo 07. 4. Gunasekarage Dingiri Banda, of
+
+Nagaradharanaawa, Poonawa, Madawachchiya. 5. Gunasekarage Karunawathie, of
+
+Karapikkada, Madawachchiya. 6. Gunasekarage Amarawathie, of
+
+Nagaradharanaawa, Poonawa, Madawachchiya. 7. Gunasekarage Punchi Banda, of
+
+Nagaradharanaawa, Poonawa, Madawachchiya. 8. Gunasekarage Jayasinghe of
+
+Nagaradharanaawa, Poonawa, Madawachchiya. 9. Gunasekarage Sunilawathie of
+
+Mahamailankulama, Vavuniya. 10. Gunasekarage Senarathne of Ulukkulama,
+
+Vavuniya. 11. Jayasinghage Hemanthi Nissansala, of
+
+Nagaradharanaawa, Poonawa, Madawachchiya.
+
+3
+
+CA/WRT/0212/2020
+
+12. Dhanapalage Upali Dhanapala, of
+
+Nagaradharanaawa, Poonawa, Madawachchiya.
+
+13. The Registrar of Lands,
+
+The Land Registry, Anuradhapura.
+
+RESPONDENTS
+
+BEFORE : M. Sampath K. B. Wijeratne J. & Wickum A. Kaluarachchi J. COUNSEL : Sudarshani Cooray for the Petitioner.
+
+Suranga Wimalasena, DSG for the 1st 3rd Respondents.
+
+ARGUED ON : 18.07.2023 DECIDED ON : 08.09.2023
+
+M. Sampath K. B. Wijeratne J.
+
+Introduction
+
+The Petitioner instituted these proceedings seeking inter-alia, a writ of certiorari quashing the Grant dated 3rd March 2016 issued to the 4th Respondent bearing No. / 3/5/1/4/.., a writ of mandamus directing the 13th Respondent to cancel the entry made at the Land Registry of Anuradhapura in respect of aforementioned Grant and a writ of mandamus compelling the 1st and 2nd Respondents to make recommendations to His Excellency the President of the Republic of Sri Lanka to issue a Grant in the name of the Petitioner and to submit the draft Grant to be signed by his Excellency.
+
+4
+
+CA/WRT/0212/2020
+
+The 1st, 2nd, and 3rd Respondents filed their objections to the Petitioners application seeking to dismiss the same.
+
+In reply, the Petitioner filed a counter affidavit.
+
+Upon closure of pleadings, the matter was fixed for argument and the learned Counsel for the Petitioner and the learned Deputy Solicitor General for the 1st to 3rd Respondents made their submissions.
+
+Factual background
+
+The 4th to 10th Respondents are siblings of the Petitioner and all of them are children of late Ukkuralage Gunasekara. Admittedly, the 4th Respondent is the eldest male child of Ukkuralage Gunasekara. The 11th Respondent is the daughter of the 8th Respondent and the 12th Respondent is her husband. The 11th and 12th Respondents reside in the subject matter and the Petitioner claims that they are the licensees of her1.
+
+Admittedly, Ukkuralage Gunasekara was issued with the permit bearing number 14/56 dated 6th February 1956 for the subject matter, under the Land Development Ordinance (hereinafter referred to as the LDO) (P 1/1 R 1). The Petitioner is named as the successor to the subject land in P 1/ 1 R 1. The Respondents admitted that the Petitioner is the nominated successor in the permit issued to Ukkuralage Gunasekara2.
+
+Subsequently, the Grant bearing No. ///01/05/33 dated 10th October 1996 (1 R 2) was issued to Ukkuralage Gunasekara. The Respondents admitted the issuance of the Grant in the name of Ukkuralage Gunasekara3. Ukkuralage Gunasekara died on the 21st January 20014. The Respondents admitted that Ukkuralage Gunasekara died on the said date5. The Grant was registered in the Register of Permits and Grants only in 2006, after the death of Ukuralage Gunasekara.
+
+1 At paragraph 4 of the petition. 2 At paragraph 3 (i)(14) of the Objections. 3 At paragraphs 3 (i)(7) and 3 (i)(16)(b) of the Objections. 4 Death Certificate at page 91 of the document marked P 3. 5 At paragraph 3 (i)(16)(c) of the Objections.
+
+5
+
+CA/WRT/0212/2020
+
+The 11th Respondent was residing with Ukkuralage Gunasekara from birth and continued to reside in the land even after his demise. Later, she married the 12th Respondent and lived in the subject land.
+
+Subsequently, the 4th Respondent, the eldest male child of Ukkuralage Gunasekara was certified as the grantee in respect of the subject land in the Register of Grants under Grant No. / 3/5/1/4 .. 47 (2016) dated 3rd March 20166. Thereafter, the 4th Respondent instituted an action in the District Court of Anuradhapura7 against the 11th and 12th Respondents which is still pending (P 3). The Petitioner contended that according to law, although a Grant is issued in the name of the permit holder, the succession under the permit should continue8.
+
+The Petitioner states that although an inquiry was held by the Divisional Secretary of Madawachchiya regarding the Petitioner's complaint against the issuance of the Grant to the 4th Respondent, the dispute has not been resolved (P 6(a) and P 6(b)).
+
+Accordingly, the Petitioner moved this Court to issue the writs as prayed for in his Petition.
+
+In response to the several averments in the Petition, the Respondents have stated by way of preliminary objections that a Grant issued by His Excellency the President of Sri Lanka under Section 19 (4) of the LDO cannot be challenged in the Courts, in terms of Article 35 (1) of the Constitution9. Accordingly, it was submitted that the reliefs prayed for by the Petitioner are misconceived in law.
+
+Further, it was submitted that the Petitioner is grossly guilty of laches.
+
+Accordingly, the Respondents have moved for a dismissal of the Petition in limine.
+
+The Respondents argued that although the Petitioner has been nominated as the successor of Ukkuralage Gunasekara, the Petitioner has failed to succeed or to enter into possession of the land within six months from the death of the
+
+6 At pp. 76, 77 of the documents marked (P 3). 7 No. 30727/L. 8 Piyasena v. Wijesinghe and others [2002] 2 Sri L. R. 242 (P 4). 9 At paragraph 3 of the Objections.
+
+6
+
+CA/WRT/0212/2020
+
+grantee, as required under Section 68 of the LDO. Furthermore, the Petitioner has expressly refused to succeed by the affidavit (1 R 4) dated 21st February 2016, submitted to the 1st Respondent (1 R 4). It was also stated that the Petitioner reaffirmed the above position in the statement made on the 2nd October 2016 at the inquiry conducted by the 1st Respondent (1 R 6).
+
+The Respondents contended that the Petitioner suppressed the aforementioned affidavit and the statement made at the inquiry. Accordingly, it was submitted that the Petitioner is guilty of suppression of material facts and on the said ground alone the Petition should stand dismissed.
+
+According to the Respondents, since the Petitioner failed and/or refused to succeed in terms of Section 68 (2) of the LDO, the right to succeed should be in accordance with Rule 1 of the Third Schedule, read along with Section 72 of the LDO. As a result, the 4th Respondent being the eldest male child should succeed.
+
+Accordingly, the Respondents submitted that they have acted lawfully, and the decision to certify the devolution in the name of the 4th Respondent is valid in law.
+
+Analysis
+
+Firstly, I will consider the aforementioned two preliminary objections raised by the Respondents.
+
+As I have already stated above, the Respondents contended that a Grant issued by His Excellency the President of Sri Lanka in terms of Section 19 (4) of the LDO cannot be challenged in a Court of law, in terms of Article 35 (1) of the Constitution.
+
+According to Section 19 (4) of the LDO,10 a permit holder shall be issued a Grant in respect of the land of which he is in occupation if such permit holder has fulfilled the conditions stipulated in the Section. The authority to make decisions under the Section is granted to the Government Agent and to the Land Commissioner. However, the Grants are issued under the hand of His Excellency the President. There is no requirement in the LDO that a Grant should be issued under the hand of the President. Be that as it may, Section 22
+
+10 Substituted by Land Development (Amendments) Act No. 27 of 1981.
+
+7
+
+CA/WRT/0212/2020
+
+of the State Land Ordinance11 provides that every instrument of disposition whereby a state land is granted or sold shall be signed and executed by the President. Section 23 (1) provides that instead of signing the original of any instrument of disposition, cause a facsimile of his signature to be stamped thereon. Accordingly, the then Presidents facsimile is stamped on 1 R 2, and an officer representing the Secretary to the President has certified the Presidents signature. Accordingly, the Presidents signature in the Grant 1 R 2 is certified by an authorised officer on behalf of the Secretary to the President.
+
+In contrast, the special grants issued under Section 6 of the State Lands Ordinance and the free grants issued under Regulation No. 20 made under Section 95 (2) of the State Lands Ordinance have to be approved by His Excellency the President himself.
+
+Article 35 (1) of the Constitution reads thus;
+
+35 (1) While any person holds office as President, no proceedings shall be instituted or continued against him in any court or tribunal in respect of anything done or omitted to be done by him either in his official or private capacity. (emphasis added)
+
+In the case of Karunathilaka v. Dayananda Dissanayake, Commissioner of Elections (S.C.)12 M.D.H. Fernando J., (G.P.S. de Silva C.J. and D.P.S. Gunasekara J., agreeing) made the following observations with regard to the application of Article 35 of the Constitution.
+
+What is prohibited is the institution (or continuation) of proceedings against the President. Article 35 does not purport to prohibit the institution of proceedings against any other person, where that is permissible under any other law. It is also relevant that immunity endures only "While any person holds office as President". It is a necessary consequence that immunity ceases immediately thereafter; () I hold that Article 35 only prohibits the institution (or continuation) of legal proceedings against the President while in office; it imposes no bar whatsoever on proceedings (a) against him when he is no longer in office, and (b) other persons at any time. That is a consequence of the very nature of immunity: immunity is a shield for the doer,
+
+11 No 8 of 1947 as amended. 12 [1999]1 Sri L.R. 157, at pp. 176 and 177.
+
+8
+
+CA/WRT/0212/2020
+
+not for the act. Very different language is used when it is intended to exclude legal proceedings which seek to impugn the act. Article 35, therefore, neither transforms an unlawful act into a lawful one, nor renders it one which shall not be questioned in any Court. It does not exclude judicial review of the lawfulness or propriety of an impugned act or omission, in appropriate proceedings against some other person who does not enjoy immunity from suit; as, for instance, a defendant or a respondent who relies on an act done by the President, in order to justify his own conduct. (emphasis added)
+
+These proceedings are not instituted against His Excellency the President. His Excellency is not made a party to this case. Furthermore, 1 R 2 is signed by a former President who ceased to hold office long before the institution of these proceedings. Furthermore, as I have already stated above, the decision to issue the grant is made by a public officer under Section 19 of the LDO who does not enjoy immunity from suit.
+
+The Respondents cited the case Jaliya Wickramasuriya v. Hon. Thilak Marapana and others (S.C.)13 that His Lordship Vijith K. Malalgoda P.C.J. affirmed the decision of the Court of Appeal wherein this Court upheld the preliminary objection raised by the State on Article 35 of the Constitution. His Lordship observed that the impugned decision was based on a decision taken by His Excellency the President, which was conveyed to the Petitioner by the Secretary to the Ministry of Foreign Affairs and affirmed the decision of this Court. To me, the facts of this case are materially different from the case mentioned above and therefore, the decision of the Supreme Court is not an authority for the matter in issue.
+
+Therefore, it is my considered view that Article 35 of the Constitution does not apply to the instant application.
+
+The 2nd objection raised by the Respondent is that the Petitioner is guilty of laches. The Petitioner seeks a writ of certiorari quashing the grant issued to the 4th Respondent on the 3rd March 2016. The Petitioner instituted these proceedings on the 7th August 2020, four years and five months later. The documents marked 1 R 4 and 1 R 6 clearly establish that the Petitioner had been aware of the process of issuing the Grant in the name of the 4th Respondent. It is true that the Petitioner has once denied having signed the
+
+13 SC. Appeal 26/2012.
+
+9
+
+CA/WRT/0212/2020
+
+aforementioned affidavit 1 R 414. Nevertheless, subsequently, she admitted having signed the affidavit 1 R 4 and stated that her previous statement made on the 10th August 2016 to the effect that she did not sign 1 R 4 is false15. Again, the Petitioner has written an undated letter to the 1st Respondent denying having signed the affidavit referred to above. The petitioner's conduct is seriously questionable under the given circumstances.
+
+Be that as it may, the Petitioners own letter dated 18th December 2018 marked P 5b, written to His Excellency the President, clearly establishes that she had been aware that the 4th Respondent had obtained the Grant in his name at least by the date of her letter. Even from the date of the letter P 5b, one year and seven months elapsed when the Petitioner in these proceedings. The delay was not explained by the Petitioner at all. In the case of Biso Menike v. Cyril de Alwis (S.C.)16 His Lordship Sharvananda J., (as His Lordship then was) observed that The proposition that the application for writ must be sought as soon as injury is caused is merely an application of the equitable doctrine that delay defeats equity and the longer the injured person sleeps over his rights without any reasonable excuse, the chances of his success in a writ application dwindle and the Court may reject a writ application on the ground of unexplained delay.
+
+In the case of Seneviratna v. Tissa Bandaranayake and another (S.C.)17 Amarashinghe J., observed that if a person were negligent for a long and unreasonable time, the law refuses afterwards to lend him any assistance to enforce his rights; the law both to punish his neglect, nam leges vigilantibus, non dormientibus, subveniunt, and for other reasons refuses to assist those who sleep over their rights and are not vigilant.
+
+In Issadeen v. The Commissioner of National Housing and others (S.C.)18 Bandaranake J, (as her Ladyship then was) observed that Although there is no statutory provision in this country restricting the time limit in filling an application for judicial review and the case law of this country is indicative of the inclination of the court to be generous in finding a good and valid reason for allowing late application, I am of the view that there should be
+
+14 At paragraph 11 of the Counter affidavit. 15 1 R 6. 16 [1982] 1 Sri L. R. 377 at p. 378. 17 [1999] 2 Sri L. R. 341 at p.351. 18 [2003] 2 Sri L. R. 10. At pp. 15, 16.
+
+10
+
+CA/WRT/0212/2020
+
+proper justification given and explained in the delay in filling such belated application....
+
+In Paramalingam v Sirisena and Another (C.A.)19 Wigneswaran J., made the following observations regarding laches Laches means negligence or unreasonable delay in asserting or enforcing a right. There are two equitable principles which come into play when a statute refers to a party being guilty of laches. The first doctrine is that delay defeats equities. The second is that equity aids the vigilant and not the indolent. Lord Camden said Nothing can call forth this Court into activity but conscience, good faith, and reasonable diligence; when these are wanting the Court is passive and does nothing
+
+As discussed above, the petitioner having written the undated letter to the 1st Respondent (P 5a) submitted with the petition denying the attestation of the affidavit marked (1 R 4), has not disclosed the same in her Petition and the supporting affidavit submitted to this Court.
+
+In my view, the affidavit (1 R 4) is a material document since the same relinquishes any potential objections to issuing the Grant to the 4th Respondent.
+
+Therefore, irrespective of the fact that the Petitioner signed and tendered the affidavit or not, in my view the Petitioner should have disclosed the fact that such an affidavit was before the 1st Respondent.
+
+As it was observed by His Lordship Janak de Silva J., sitting in the Court of Appeal (as His Lordship then was) in the case of Sattanbiralalage Don Mery Oshani v. Sri Lanka Medical Council and others (C.A.)20 held that The Petitioner is guilty of suppression and/or misrepresentation of material facts and therefore, the petitioner will be penalised without going into the merits of the case.
+
+As such, I am of the view that the Petitioner is guilty of misrepresentation and/or suppression of material facts and also of laches which warrant dismissal of this application without going in to its merits.
+
+19 [2001] 2 Sri L. R. 239 at p. 248. 20 CA. 234/2017.
+
+11
+
+CA/WRT/0212/2020
+
+Yet, for completeness, I will consider the merits of the Petitioner's application as well.
+
+The Respondents argued that although the Grant 1 R 2 was signed by the President on the 10th October 1996, it was registered only in 2006, after the death of Ukkuralage Gunasekara. It is true that Grants should be registered in terms of Section 29 of the LDO. However, there is no provision in the LDO to the effect that a Grant is invalid unless it is registered. In contrast, a nomination or cancellation of a nomination of a successor under the LDO is invalid unless it is registered21. Therefore, in my view, the Grant 1 R 2 should be valid in law from the date of issue. The registration is only a formality.
+
+The Respondent submitted circular No. 2020/2 concerning Grants issued by the Commissioner General of Lands under the LDO. According to Clause (2) of the same when the grantee dies after His Excellency the President places his signature to the Grant, the Grant has to be considered as valid and the spouse or the next of kin should succeed to the land.
+
+However, when there is a nomination made, the nominee should succeed. As it was held in the case of Piyasena v. Wijesinghe and others22 the nomination of a successor under the permit becomes converted to a nomination under the Grant when a Grant is issued to a permit holder. Therefore, even after the issuance of the Grant 1 R 2, the nomination made in the permit P 1/ 1 R1. by Ukkuralage Gunasekara should continue.
+
+There was no material before the Court as to whether the spouse of Ukkuralage Gunasekara was living or not at the time of his death. Furthermore, it was not an issue before the Court as to whether his spouse failed to succeed to the land. Therefore, this Court need not labour on those matters. The only issues before the Court are whether the Petitioner, the nominated successor, failed or refused to succeed within six months of the death of Ukkuralage Gunasekara23 and/or whether the Petitioner entered into possession of the land within the said period.
+
+21 Section 60 of the LDO. 22 Supra note 8. 23 Section 49 of the LDO.
+
+12
+
+CA/WRT/0212/2020
+
+As I have already analysed above in this judgment, it is apparent that the Petitioner has failed and/or refused to succeed within six months from the death of Ukkuralage Gunasekara who died in 2001. In the year 2016, the 1st Respondent inquired into the claim made by the 4th Respondent to succeed and it is evident from the documents presented by the Respondents that the Petitioner had been offered an opportunity to be heard24. More importantly not only once but, on two occasions the Petitioner has consented to issue the Grant in the name of the 4th Respondent.
+
+Moreover, although the Petitioner asserted that the 11th and 12th Respondents who are presently living in the land are her licensees, this contention was not supported either by those two Respondents or by any other material. Therefore, the only reasonable inference that this Court could arrive at is that the Petitioner has failed to enter into possession of the land in question.
+
+Consequently, the 4th Respondent being the eldest male child of deceased Ukkuralage Gunasekara should succeed under the scheme of priority set out in the Third Schedule of the LDO read along with Section 72.
+
+In the case of Gunawardhana and another v. K. A. Rosalin (S.C.)25 His Lordship Basnayake C.J., held that upon the failure of the successor to enter into possession within six months prescribed in the LDO, the successors rights get wiped out and the son of the deceased grantee should succeed to the holding.
+
+In terms of Section 68 (2) of the LDO, once six months pass from the death of the grantee, the Petitioner loses her right to be succeeded to the land in question. The grantee died in the year 2001. The Petitioner does not even assert that she applied for her to be declared as the successor. Further, as I have already stated above in this judgment, no material to establish that she entered into possession of the land within six months of the death of the grantee.
+
+Conclusion
+
+In light of the above analysis, I am clearly of the view that the Petitioner has instituted these proceedings consequent to an inordinate delay and therefore,
+
+24 1 R 6. 25 62 N.L.R. 213.
+
+13
+
+CA/WRT/0212/2020
+
+guilty of laches. Furthermore, the Petitioner is guilty of misrepresentation and/or suppression of material facts.
+
+Further, the Petitioner has failed to enter into possession of the subject land and also to succeed to the same within six months from the death of the grantee Ukkuralage Gunasekara.
+
+Consequently, I would hold that the application of the Petitioner must fail and accordingly the application is dismissed subject to a cost fixed at Rs. 15,000/-
+
+JUDGE OF THE COURT OF APPEAL
+
+Wickum A. Kaluarachchi J.
+
+I Agree.
+
+JUDGE OF THE COURT OF APPEAL

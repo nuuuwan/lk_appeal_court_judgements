@@ -1,0 +1,121 @@
+Page 1 of 9
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA
+
+In the matter of an Application for mandates in the nature of Writs of Certiorari and Prohibition under and in terms of Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka.
+
+1. R.C.D. Jayawardena,
+
+No. 28, Thataka Road, Kegalle.
+
+2.
+
+No. 186/45A, Eksath Mawatha, 3rd Avenue, Ratnapura New Town, Ratnapura.
+
+3. H.S.Kariyawasam,
+
+No.72, Kanewela, Pokunuwita, Horana
+
+Petitioner
+
+1. Marshall Perera,
+
+Honourable Governor, Sabaragamuwa Province, Sabaragamuwa Provincial Council Complex, New Town, Ratnapura
+
+Ekanayake Mudiyanselage Niluka Sandaruwani Ekanayake, Honourable Governor, Sabaragamuwa Province, Sabaragamuwa Provincial Council Complex, New Town,
+
+Court of Appeal Case No. CA/WRT/418/17
+
+Page 2 of 9
+
+Ratnapura
+
+[SUBSTITUTED 1st RESPONDENT]
+
+Prof. Dhamma Dissanayaka, Honourable Governor, Sabaragamuwa Province, Sabaragamuwa Provincial Council Complex, New Town, Ratnapura [SUBSTITUTED- SUBSTITUTED 1st RESPONDENT]
+
+2. Herath P. Kularathna,
+
+Chief Secretary, Office of the Chief Secretary, Sabaragamuwa Province, Sabaragamuwa Provincial Council Complex New Town, Ratnapura.
+
+D.M. Malani, Chief Secretary, Office of the Chief Secretary, Sabaragamuwa Province. [SUBSTITUTED 2nd RESPONDENT]
+
+3. Shirani Pathmalatha,
+
+Secretary, Ministry of Transport - Sabaragamuwa Province, Sabaragamuwa Provincial Council Complex, New Town, Ratnapura.
+
+4. Anurudda Bandara,
+
+General Manager, Sabaragamuwa Road Passenger
+
+Page 3 of 9
+
+Transport Authority, Provincial Council Complex, Rathnapura New Town, Rathnapura.
+
+Priyantha Batawala, General Manager, Sabaragamuwa Road Passenger Transport Authority, Provincial Council Complex, Rathnapura New Town, Rathnapura. [SUBSTITUTED 4TH RESPONDENT]
+
+4a. Sabaragamuwa Road
+
+Passenger Transport Authority, Provincial Council Complex, Rathnapura New Town, Rathnapura 4a ADDED RESPONDENT
+
+5. Hon. Attorney General,
+
+Attorney General's Department, Hulftsdorp Street, Colombo 12.
+
+5a. Sarath Sandanayaka,
+
+Chairman, Sabaragamuwa Road Passenger Transport Authority, Provincial Council Complex, Rathnapura New Town, Rathnapura
+
+Respondents
+
+Page 4 of 9
+
+Before: M. T. MOHAMMED LAFFAR, J. S. U. B. KARALLIYADDE, J. Counsel: Sanjeewa Jayawardana, P. C. with R. Senadheera for the Petitioners. Saliya Peiris, P. C. with Farhad Jiffry for the 1st Respondent.
+
+Suranga Wimalasena, DSG for the 3rd Respondents. Argued on: Disposed by way of Written submission Written Submissions on: 14.06.2023(by Petitioners)
+
+13.06.2023 (by 1st Respondent) Decided on: 11.09.2023 MOHAMMED LAFFAR, J. The Petitioners instituted the instant Application seeking inter alia orders in the nature of Writs of Certiorari quashing the removal of the 1st Petitioner from the post of Chairman, and the 2nd and 3rd Petitioners from the Board of Directors of the Sabaragamuwa Road Passenger Transport Authority and also the appointment of the 3rd Respondent as the Chairman thereafter. The Petitioners have also sought Writs of Prohibition preventing the 1st Respondent, along with other involved parties, from taking any further actions or decisions related to the removal of the Petitioners and treating their terms in office has ended. Further Writs have also been sought seeking the prohibition of any steps or actions (including consequent appointments) in furtherance of these contested decisions aforesaid appointment and removals. The crux of this Application is whether the removal of the Petitioners from their positions as Chairman and members of the Board of Directors of the Sabaragamuwa Road Passenger Transport Authority is lawful and in accordance with the provisions of the Provincial Statute and the Constitution of Sri Lanka.
+
+Page 5 of 9
+
+The Road Passenger Transport Authority of the Sabaragamuwa Province (hereinafter sometimes referred to as Sabaragamuwa Transport Authority and/or Authority) is an independent institution, established under the 13th Amendment to the Constitution, and under and by virtue of the provisions of the statute of the Sabaragamuwa Provincial Council namely which is pertaining to the Sabaragamuwa Provincial Road Passenger Transport service (hereinafter sometimes referred to as the Statute) published in the Gazette (Extraordinary) Notification bearing No. 810/13 dated 17.03.1994. The Petitioners submit that they were appointed to their positions as Chairman and members of the Board of Directors of the Sabaragamuwa Road Passenger Transport Authority in accordance with the law and for a specific term of three years. They challenge that the power to remove the Chairman and members of the Board of Directors lies solely with the Provincial Subject Minister of Transport, and that the Governor or any other official does not have the authority to remove them. The Petitioners further assert that the decisions to remove them from their positions was made without any reasons provided and appointment of a new Chairman, are ultra vires, unlawful, and in violation of the principles of Administrative Law. It is further submitted that the said decisions violate the Petitioners' legitimate expectations to serve their full term of appointment. The Respondents contend that the decision challenged by the Petitioners emanated from His Excellency the President and therefore the said decision is not amenable to the Writ jurisdiction of this Court. The Respondents submit that since the term of the Provincial Council of Sabaragamuwa Province had expired, His Excellency the President had directed the 1st Respondent that, the chairman and the Board of Directors of each Authority that come under the mandate of any Provincial Council should resign from their respective offices. As such the Respondent had removed the Petitioners on the said direction of the president as they are duty bound to comply with such directions of His Excellency the President. It is further brought to the attention of this Court that without quashing the decision of His Excellency the President this matter becomes futile. Additionally, the Respondents also submit that the 1st Respondent had acted according to Law laid down by Article 154C and 154F has acted within his powers and is also in line with the provisions of the statute.
+
+Page 6 of 9
+
+The Petitioners submit that they were appointed for a period of three years, commencing from 03.5.2017 until 03.5.2020 in terms of the law (documents marked P1 and P4). It is submitted that in or around 26.09.2017, the term of the Provincial Council of the Sabaragamuwa Province came to an end, after having been operative for a period of five years from the date of appointment, in terms of the Article 154E of the Constitution. The Chief Minister of the Sabaragamuwa Province, who was also the transport minister, also thereby, ceased to hold office. By letters dated 13.11.2017 (marked P7), the 1st Respondent informed the Petitioners of a letter bearing No. PCMD/SD/01/02 of the Secretary to the President dated 20.10.2017 (marked P7a) notifying the decision of His Excellency the President, directing the Governor of the Sabaragamuwa Province to inform the Members of Boards of Directors and Chairman of the same, of all the Provincial Authorities, to resign from their said posts, in view of the dissolution of the Sabaragamuwa Provincial Council. The said direction (marked P7a) stipulated as follows:
+
+a. The chairman and the Board of Directors of each Authority which comes
+
+under the mandate of any provincial council should resign from their respective offices. b. Thereafter the said vacant positions of such institutions should be filled
+
+from the public officers for the rest of the period to cover up the duties and functions of Chairman and Board of Directors of the said authorities. The Petitioners were also informed that the 1st Respondent has decided to consider the tenures of the Petitioners as Chairman/members of the Board of Directors of the Sabaragamuwa Road Passenger Transport Authority, as deemed to have ended, in terms of Section 3(8) of the Statute of the Sabaragamuwa Road Passenger Transport Service. However, the 1st Respondent did not receive the resignation of the Petitioners.
+
+Page 7 of 9
+
+Since the 1st Respondent has failed to implement the direction of His Excellency the President given by the letter dated 20th October 2017, the Secretary to His Excellency the President informed by the letter dated 3rd November 2017 the following:
+
+a. The direction to requiring the resignations of the Chairmen and Board of Directors by the letter dated 20th October 2017 is hereby amended. b. And, directed the 1st Respondent to appoint suitable public officers as the Chairmen and the Board of Directors of the respective Authorities. (including Sabaragamuwa Transport Authority) under the Sabaragamuwa Provincial Council. The 1st Respondent submits that in view of the aforesaid letters, the Petitioners were informed that the office of the Chairmen and Boards of Directors of Authorities of Sabaragamuwa Province is considered to have come to an end with effect from 26.10.2017. Therefore, in terms of the said directive by the President and by virtue of the powers vested on the Governor by Article 154C of the Constitution, the 1st Respondent has removed the Petitioners from their respective office by the Gazette notification, Gazette (Extraordinary) No. 2047/39 dated 29th November 2017. In this regard, the attention of Court is drawn to Article 154K of the Constitution which reads as follows:
+
+Where the Governor or any Provincial Council has failed to comply with or give effect to any directions given to such Governor or such Council under this Chapter of the Constitution, it shall be lawful for the President to hold that a situation has arisen in which the administration of the Province cannot be carried on in accordance with the provisions of the Constitution. Article 154C of the Constitution which reads as follows:
+
+"Executive power extending to the matters with respect to which a Provincial Council has the power to make statutes shall be exercised by the Governor of the Province for which that Provincial Council is established, either directly or through Ministers of the Board of Ministers, or officers subordinate to him, in accordance with Article 154F."
+
+Page 8 of 9
+
+In Re the Thirteenth Amendment to the Constitution and the Provincial Councils Bill (1987 (2) S.L.R 312) it was observed as follows:
+
+The Governor is appointed by the President and holds office in accordance with Article 4(b) which provides that the executive power of the People shall be exercised by the President of the Republic, during the pleasure of the President (Article 154B(2). The Governor is appointed by the President and holds office in accordance with Article 4(b), which provides that the executive power of the People shall be exercised by the President of the Republic, during the pleasure of the President (Article 154B(2)). The Governor derives his authority from the President and exercises the executive power vested in him as a delegate of the President. It is open to the President, therefore, by virtue of Article 4(b) of the Constitution, to give directions and monitor the Governor's exercise of this executive power vested in him.
+
+In our view, the provisions of the bill ensure that devolution does not damage the basic unity of Sri Lanka. The scale and character of the devolved responsibilities will enable the people of the several provinces to participate in the national life and government. The general effect of the new arrangement will be to place under provincial democratic supervision a wide range of services run in the respective provinces for the said provinces, without affecting the sovereign powers of parliament and the Central Executive." In view of the above, it is the position of the 1st Respondent he has only complied with and given effect to the direction of His Excellency the President and that the Petitioners have misconstrued the law and invoked the wrong jurisdiction against the decision of his Excellency the President. In the aforesaid circumstances, it is my view that the 1st Respondent has not acted Ultra Vires and had acted upon the directive issued by His Excellency the President. Furthermore, it is noted that the Petitioners were appointed to their respective positions by the Chief Minister on 03.05.2017 and were entitled to hold these positions for three years, subject to Section 3(8), which allows the Minister to remove them without providing reasons. Therefore, the Petitioners, appointed on 03.05.2017, shall anyways cease to hold office after three years from the said date, on 04.05.2020.
+
+Page 9 of 9
+
+Thus, I refuse to grant any relief prayed for by the Petitioner. I dismiss the Application of the Petitioner and make no Order as to the costs of this Application. Application dismissed.
+
+JUDGE OF THE COURT OF APPEAL
+
+S. U. B. KARALLLIYADDE, J.
+
+I agree.
+
+JUDGE OF THE COURT OF APPEAL
