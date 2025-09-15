@@ -1,0 +1,395 @@
+Page 1 of 12
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA
+
+In the matter of an appeal in terms of Section 14 of the Judicature Act (read with Section 331 of the Code of Criminal Procedure, and Section 4(2) of the International Covenant on Civil and Political Rights Act No: 56 of 2007.
+
+C.A. Appeal No: CA/HCC/101/2018 The Democratic Socialist Republic of Sri Lanka
+
+High Court of Gampaha No: HC 106/ 2016 Vs Don Chaminda Darshana Ramanayaka, No 111D, Batuwatta, Ragama
+
+Accused
+
+And Now Between
+
+Don Chaminda Darshana Ramanayaka,
+
+No 111D, Batuwatta, Ragama (Presently at Mahara Prison)
+
+Accused-Appellant
+
+Vs
+
+Hon: Attorney General
+
+Attorney General's Department
+
+Colombo-12
+
+Respondent
+
+Before: N. Bandula Karunarathna J. & R. Gurusinghe J.
+
+Counsel: Saliya Pieris PC with Manujay de Silva for the accused-appellant
+
+Shaminda Wickrama SC for the Complainant-Respondent Written Submissions: By the Accused-Appellant on 24.01.2019 and 24.02.2022
+
+By the Complainant-Respondent 22.09.2021 and 03.02.2022 Argued on : 07.02.2022 Decided on : 11.03.2022
+
+Page 2 of 12
+
+N. Bandula Karunarathna J. This appeal is from the judgment, delivered by the learned Trial Judge of the High Court of Gampaha, dated 18.07.2018, by which, the accused-appellant, was convicted and sentenced to 12 years of rigorous imprisonment.
+
+The accused-appellant was indicted in the High Court of Gampaha for committing rape on his former wife Nissanka Appuhamige Puimi Pubudhika (PW 1) on or about 20/03/2009 in Batuwatta, Ragama and thereby for having committed an offence punishable under section 364 (I) of the Penal Code as amended by Act No. 22 of 1995 and Act No. 29 of 1998.
+
+After the trial, the learned trial Judge found the accused-appellant guilty in respect of the charge against him and proceeded to impose the following sentences.
+
+12 years of rigorous imprisonment and a fine of Rs. 1,000/- and carrying a default sentence of simple imprisonment for 2 weeks. Further, the learned trial Judge ordered to pay Rs. 200,000/- as compensation to the prosecutrix carrying a default sentence for 1-year simple imprisonment.
+
+Being aggrieved by the conviction and sentence the appellant preferred this appeal.
+
+The grounds of appeal are as follows;
+
+(i) The prosecutrix is not a reliable witness. (ii) The learned High Court Judge failed to fairly evaluate the evidence of the defence (iii) The conviction of the appellant should not be allowed to stand with inadequate and unreliable
+
+evidence (iv) The learned High Court Judge has failed to evaluate the entirety of the evidence and give
+
+reasons for his decision. (v) The rejection of the investigating officer's observation is erroneous.
+
+It is evident that, at the beginning of the trial, two admissions were recorded under section 420 of the Code of Criminal Procedure Act No. 15 of 1979, to the effect that prosecution witness 1, was legally married to the accused-appellant and later they got legally divorced before the alleged act which was committed on 20.03.2009. The charge was read over to the appellant and the appellant pleaded not guilty and opted to have the matter heard before the learned trial Judge.
+
+The prosecution led the evidence of the following witnesses;
+
+(i) Nissanka Appuhamige Puimi Pubudhika (the prosecutrix) PW 1
+
+(ii) Wickramarachchige Don Ariyarathne (Gramasevaka) PW 2
+
+(iii) Dr U.D.P. Dilhani (Medical Officer, Base Hospital, Colombo North) PW 3
+
+(iv) Samarakoon Mudiyanselage Indrani Samarakoon (Women Police Constable) PW 4
+
+(v) Akalanka Samindra Aluthgedara (Inspector of Police) PW 5
+
+(vi) Court interpreter (mudlier)
+
+Page 3 of 12
+
+The statutory statement made by the appellant at the end of the non-summary trial, marked as 'P1' and the Medico-Legal Report (MLR) marked as 'P2' was admitted by the accused-appellant as productions. It is pertinent to note that the defence admitted only the content contained in the short history of the MLR which has been divulged by the prosecutrix to the JMO. However, they did not admit the accuracy of the facts contained therein.
+
+The MLR was marked in evidence under section 420 of the Code of Criminal Procedure Act No. 15 of 1979. After the close of the prosecution case, the learned High Court Judge called upon the appellant, for his defence. The appellant opted to give evidence from the witness box. Thereafter the learned High Court Judge delivered the judgment on 18.07.2018 and convicted the appellant for the charge levelled against him and imposed a sentence of 12 years rigorous imprisonment and ordered a fine of Rs. 1,000/- and in default of the same two weeks of simple imprisonment.
+
+The prosecution case commenced with the evidence of the witness Puimi Pubudhika (PW 1) who is the victim in this case. As admitted by the defence, she was one time married to the appellant. They were divorced 2 years before the alleged incident. On the day in question, she had gone to meet the Gramasevaka of the area, whose office was located next to the appellant's hardware shop. She had wanted to collect a letter from the Gramasevaka. When the letter was given, the appellant who had come there had taken it and walked towards his shop. According to the prosecutrix, when she went behind him to get the letter from the appellant inside the shop, he had tied her hands and raped her.
+
+During the cross-examination, it was suggested to her that she initiated the act of sexual intercourse. She denied this position. A single contradiction was marked as 1. The learned counsel for the respondent argued that it does not go to the root of the case.
+
+-
+
+?
+
+- .
+
+- ,
+
+?
+
+- . .
+
+- ?
+
+- .
+
+- ? .
+
+- .
+
+-
+
+?
+
+- .
+
+.
+
+1 .
+
+Page 4 of 12
+
+The learned Presidents Counsel for the accused-appellant argued that the Prosecutrix is not a reliable witness. The prosecution must prove the ingredients beyond a reasonable doubt to establish a charge of rape and if there is reasonable doubt on any of the ingredients the accused must be acquitted. The main ingredients are as follows;
+
+(i) The accused must perform sexual intercourse on the woman. (ii) The accused did that sexual act without her consent.
+
+In this present case, the sexual intercourse on the woman was admitted by the accused-appellant and therefore the prosecution had only to prove the second limb of the offence. The accused-appellant had taken up the position that the sexual intercourse was performed with the consent of the prosecutrix. But the prosecutrix denied the same. The learned trial Judge should have considered whether the prosecution has discharged their burden of proof by establishing the second limb of the crime.
+
+It was argued by the learned Presidents Counsel that the evidence of the prosecutrix is not probable in various material points and thus creates a reasonable doubt on the prosecution case. Her evidence is contradictory with the other prosecution witnesses.
+
+According to the prosecutrix, the appellant was in the office of the Gramasevaka when she went to meet the Gramasevaka and the Gramasevaka-Certificate issued to her was grabbed by the accused-appellant from Gramasevaka. The prosecutrix did not inquire from the Gramasevaka why he allowed the accused-appellant to take it and go out.
+
+Page 26 of the appeal brief is as follows;
+
+: ?
+
+: . .
+
+: ?
+
+: .
+
+: ?
+
+: . .
+
+.
+
+: ?
+
+: .
+
+:
+
+?
+
+: .
+
+The prosecutrix went to the Gramasevaka office to obtain the aforesaid certificate, however, in the least, she has not inquired from the Gramasevaka why he allowed the accused-appellant to grab the said certificate knowing very well that the accused-appellant and she are no longer in wedlock. This portion of evidence reflects the highly improbable behaviour of an ex-wife who did not have any relationship with her ex-husband. As opposed to the prosecution version the defence evidence was
+
+Page 5 of 12
+
+that the prosecutrix had informed the father of the accused-appellant in advance that she is coming to obtain the said certificate and thereafter the accused-appellant accompanied her to the Gramasevakas office.
+
+The learned Presidents Counsel for the accused-appellant took up the position that the prosecutrix and the accused-appellant had an affair even after their divorce and they have had sexual intercourse even after their divorce. The Gramasevaka was called by the prosecution as a witness. He was subsequently considered as an adverse witness. The evidence given by the said Gramasevaka creates a reasonable doubt as to the reliability of the evidence of the prosecutrix. However, the evidence of the Gramasevaka corroborates the defence position despite contradicting the prosecutrix.
+
+In the case of King v. Fernando 46 NLR 254, it was observed that the fact that a witness is treated as adverse and is cross-examined as to credit does not warrant a direction to the jury that they are bound in law to place no reliance on his evidence. It is for the jury to examine the whole of the evidence of such a witness so far as it affects both parties favourably or unfavourably for what, in their opinion, it is worth.
+
+In the said judgment the Indian Supreme Court case Keshoram Bora v. The State of Assam 1978 AIR 65-SC-1096, was followed wherein, it was observed that "While it is true that merely because a witness is declared hostile his evidence cannot be rejected on that ground alone, it is an equally well-settled principle that when once a prosecution witness is declared hostile the prosecution exhibits its intention not to rely on the evidence of such a witness and, hence his version cannot be treated as the version of the prosecution itself".
+
+The behaviour of the prosecutrix creates further doubt in respect of her version while strengthening the version of the defence.
+
+Page 27 of the appeal brief is as follows;
+
+: ?
+
+: .
+
+: ?
+
+: .
+
+: ?
+
+: .
+
+Though she followed the accused-appellant to the house of the appellants' aunt, the appellant had left that house a little later and thereafter she had followed the accused to his hardware store where she was alleged to have been raped.
+
+The alleged act of rape was explained by the prosecutrix as follows;
+
+Page 28 of the appeal brief is as follows;
+
+: . .
+
+.
+
+: ?
+
+Page 6 of 12
+
+: .
+
+: ?
+
+: , . .
+
+. .
+
+: ?
+
+: . . . .
+
+According to the prosecutrix she was frightened since she was threatened to be killed and the entire act was done while her hands were tied. The version that she was frightened due to a mere threat is improbable. The behaviour of the prosecutrix was improbable. The observation of the police investigating officer creates a reasonable doubt in respect of the evidence of the prosecutrix.
+
+The observations of the police officer are as follows;
+
+Page 64 of the appeal brief is as follows;
+
+:
+
+?
+
+:
+
+: ?
+
+:
+
+After observing the purported crime scene, the investigating officer, himself had entered a note that he doubts as to whether there had been consensual sexual intercourse.
+
+Page 67 of the appeal brief is as follows;
+
+:
+
+?
+
+: .
+
+: ?
+
+: .
+
+: ?
+
+: .
+
+:
+
+?
+
+: .
+
+: ?
+
+: .
+
+: ?
+
+Page 7 of 12
+
+:
+
+. . . . . . . .
+
+In the cross-examination the witness stated on page 69 of the brief as follows;
+
+: .
+
+. ?
+
+: .
+
+In the circumstances, the aforesaid evidence suggests that the version of the prosecutrix is improbable and creates doubt in respect of the prosecution case.
+
+Coomaraswamy in Law of Evidence Vol II Book 2 at page 1052 reads as follows: -
+
+"One thing may be regarded as more likely to have happened than another, with the result that the Judge will reject the evidence in favour of the less likely."
+
+In the event, the learned High Court Judge should have rejected the version of the prosecution which was less likely to happen. As observed by the Investigating Officer, the Gramasevaka who was at the office would have witnessed the alleged incident. Even though the Gramasevaka was cross-examined by the prosecution, having considered him as an adverse witness, the unchallenged, unimpeached material favourable to the accused-appellant should have been considered by the trial Judge.
+
+The learned High Court Judge decided to reject the unreliable evidence. The learned trial Judge could rely on the evidence by separating the credible part of such evidence. The principle of "Divisibility of Credibility" is still applicable even in respect of adverse witnesses. The evidence of the Gramasevaka for the most part was not challenged or not proved as false by the prosecution. The prosecution had not marked any contradictions in respect of the said portions of the evidence. In those circumstances, it is my view that such evidence can be considered reliable evidence.
+
+The evidence that the father of the accused-appellant had informed the Gramasevaka that the prosecutrix was coming on the following morning to obtain a certificate and the fact that the prosecutrix came with the appellant the following morning to meet the Gramasevaka was not proved by the prosecution as false. The prosecution has failed to create any doubt in respect of the said portions of the evidence.
+
+In the case of K. Padmatillake Alias Sergeant Elpitiya Vs. The Director-General, Commissioner to Investigate Allegations of Bribery and Corporation 2010 BLR 67, the Court held as follows;
+
+(i) The credibility of the prosecution witness should be subject to judicial evaluation in totality and not isolated scrutiny by the Judge.
+
+Page 8 of 12
+
+(ii) It is a cardinal principle that unreliable and unacceptable evidence cannot be rendered credible, simply because there is some corroborative material.
+
+It was held in Sunil and Another v. The Attorney General 1986 (1) SLR 230, that corroboration is only required or afforded if the witness requiring corroboration is otherwise credible. If the evidence of the witness requiring corroboration is not credible, his testimony should be rejected and the accused person should be acquitted. Seeking corroboration of a witness's evidence should not be used as a process of inducing belief in such evidence where such evidence is not credible. It is very dangerous to act on the uncorroborated testimony of a female victim of a sexual offence; but, if her evidence is convincing such evidence could be acted on even in the absence of corroboration. The burden of proving the absence of consent is always on the part of the complainant where the charge is one of rape or abduction and it never shifts.
+
+In this matter, the other evidence called on behalf of the prosecution discredit the evidence of the prosecutrix other than corroborating the same. In the said circumstances the evidence of the prosecutrix is not creditworthy and the conviction of the appellant cannot stand only upon such unreliable evidence. It was argued by the learned counsel for the accused-appellant that the learned high court Judge failed to fairly evaluate the evidence of the defence. He should have evaluated and analysed the evidence of the accused-appellant and the omission of the same causes a grave miscarriage of justice to the accused-appellant.
+
+Even though three omissions were marked from the accused-appellants evidence, they do not affect the crux of the evidence given by the appellant. The learned High Court Judge had concluded that the appellant has taken many positions regarding the motive of the prosecutrix to complain to him. The careful perusal of the evidence demonstrates that sometimes he assumes probable reasons for the prosecutrix to implicate him falsely. On behalf of the accused-appellant, the prosecutrix was suggested that the reason for her to falsely implicate the appellant was the appellant's refusal to re-enter into a marriage with the prosecutrix.
+
+The learned High Court Judge has failed to evaluate the entire evidence given by the appellant and consider whether a reasonable doubt has been created from that evidence. The learned High Court Judge failed to analyse the evidence of the appellant independently from the prosecution evidence to see whether it creates a reasonable doubt against the case of the prosecution.
+
+It was decided in Ariyadasa Vs Queen 68 CLW 97 as follows;
+
+a) if the jury believed the accused persons evidence, he is entitled to be acquitted and
+
+b) the accused is also entitled to be acquitted if, his evidence, though not believed was such that it cause the jury to entertain a reasonable doubt regarding his guilt.
+
+In Martin vs Queen 69 CLW 21 the court held as follows;
+
+"Even if the jury declined to believe the appellants' version, he was yet entitled to be acquitted on the charge, if his version raised in the mind of the jury a reasonable doubt as to the truth of the prosecutions' case.
+
+Page 9 of 12
+
+The learned High Court Judge erred in law to reject the evidence of the accused-appellant without evaluating the same fairly and squarely.
+
+Another argument raised by the learned counsel for the accused-appellant was whether the conviction of the appellant should be allowed to stand with inadequate and unreliable evidence. The evidence given by the prosecutrix is not sufficient and straightforward to establish that the act of sexual intercourse performed was without her consent. The evidence of the prosecutrix renders the purported incident narrated by the prosecutrix improbable.
+
+The other evidence led by the prosecution too renders the prosecutions version unreliable while corroborating the version of the accused even though the same is not required by law.
+
+in Wijepala vs The Attorney General 2001 (2) SLR 45, the court held that the evidence of the sole eye witness raised a strong doubt as to the guilt of the appellant and the court should have given the benefit of that doubt to the appellant.
+
+Per Ismail, J.
+
+"The evidence of Senaratne who was the sole eye witness to the incident is open to suspicion. The trial Judge had failed to appreciate that his evidence regarding the identity of the appellant has not been supported by any other item of evidence."
+
+Glanville Williams The Proof Guilt, 3rd Edition, on pages 158 & 159 illustrates as follows;
+
+on a charge of rape and similar offences, it is the practice to instruct the jury that it is unsafe to convict on the uncorroborated evidence of the alleged victim. The rule applies to a charge of indecent assault, or any sexual offences, including unnatural offences between males. There is a sound reason for it, because these cases are particularly subject to the danger of deliberately false charge, resulting from sexual neurosis, phantasy, jealousy, spite or simply a girl's refusal to admit that she consented to an act of which she is now ashamed.
+
+Salmon, L. J. in the case of Rex v. Manning (1969) 53 Criminal Appeal reports 150, held that the requirement that the evidence of a complainant in a sexual offence should be found creditworthy is too obvious a fact to be stressed. It was further held as follows;
+
+"What the Judge has to do is to use clear and simple language that will without any doubt convey to the jury that in cases of alleged sexual offences it is really dangerous to convict on the evidence of the woman or girl alone. This is dangerous because human experience has shown that in these courts girls and women do sometimes tell an entirely false story that is very easy to fabricate, but extremely difficult to refute. Such stories are fabricated for all sorts of reasons, which I need not now innumerate, and sometimes for no reason at all. The Judge should then go on to tell the jury that, bearing that warning well in mind they have to look at the particular facts of the particular case and if having given full weight to the warning, they conclude that in the particular case the woman or girl without any real doubt is speaking the truth, then the fact that there is no corroboration does not matter at all they are entitled to convict."
+
+Page 10 of 12
+
+It is important to mention that in Inoka Gallage Vs. Kamal Addararachchi and Other 2002 (1) SLR 307 the court held as follows;
+
+In the circumstances of the case the prosecutrix was an unreliable witness and it was unsafe to act on her sole testimony.
+
+As a rule of prudence, however, it has been emphasized that the court should look for some corroboration of her testimony to satisfy itself that the prosecutrix is telling the truth and the person accused of abduction or rape has not been falsely implicated.
+
+Generally, a conviction for rape almost entirely depends on the reliability of the woman so far as the credibility of the woman. The essential ingredients are concerned, the other evidence being merely corroborative. There may be many factors in a case tending to show that the testimony of the prosecutrix suffers from the infirmities of defects in a manner to make it either unsafe or impossible to base a conviction on her evidence.
+
+In the aforesaid circumstances, the learned President's Counsel submits that it is not safe to allow the conviction of the accused to stand. The learned High Court Judge has failed to evaluate evidence entirely and give reasons for his decision. The learned trial Judge evaluated only selected portions of evidence of the prosecution and the defence and he has failed to evaluate the evidence of the prosecution entirely. He has failed to give reasons in his judgment and has failed to give a reason as to why he believes the evidence of the prosecutrix.
+
+In R Vs R.E.M 2008 SCC 51 (02.10.2008) the Canadian Court held that the trial judge's reasons serve three main functions;
+
+(i) to explain the decision to the parties; (ii) to provide public accountability and (iii) to permit effective appellate review.
+
+In the said judgment it was further held as follows;
+
+"The Judge gives proof that he has heard and considered the evidence and arguments that have been adduced before him on each side, and also that he has not taken extraneous considerations into account"
+
+In Ibrahim Thayagarajah Vs Inspector of Police, Rathnapura 59 NRL 335, the Court held as follows;
+
+"The learned Magistrate's omission to state reasons for his decision has deprived the appellant of his fundamental right to have his conviction reviewed by this Court, and has thus occasioned a failure of justice"
+
+In the case of Moses vs State 1999 (3) SLR 401 their Lordships held as follows;
+
+Section 203 and Section 283 (1) make provision that the judgment shall be written by the Judge who heard the case and shall be dated and signed by him. It is a mandatory requirement. A duty is cast on the Judges to give reasons for their decisions, as their decisions are subject to review by superior courts. Furnishing of reasons not only assist the Court of Appeal in scrutinizing the legality and the correctness of the order made by the lower Court but also the existence of reasons will tend to support the idea of justice and would enhance
+
+Page 11 of 12
+
+the public confidence in the judicial process. Failure to give reasons may even lead to the inference that the trial Judge had no good reasons for his decision.
+
+In the impugned judgment learned high court Judge has failed to evaluate the evidence entirely and give a reason for his decision.
+
+It is my view that the rejection of the investigating officers' observation is also erroneous. As already stated, the investigating officer has noted the following observations;
+
+. . . .
+
+In the cross-examination the investigating officer stated as follows;
+
+: .
+
+. ?
+
+: .
+
+It is important to note that the learned High Court Judge disregarded these portions of evidence stating that this evidence is the opinion of the investigating officer. But in my view, the above portions of evidence do not contain any opinion but are observations of the crime scene. Therefore, the evidence of the investigating officer cannot be ignored. The learned trial Judge without any valid reason disregarded the above portions of evidence and has misdirected himself and erred in law.
+
+The accused-appellant opted to testify. He claimed that he and the prosecutrix frequently had sex. He said they were in touch over the telephone and that they would engage in sexual intercourse at his shop and a nearby hotel. He stated that his father knew about this. He also stated that the prosecutrix telephoned him the day before and informed him that she was coming and that she initiated the sex. When asked why the prosecutrix may have wanted him to be prosecuted, he stated that on the day in question they were seen by a friend of the prosecutrix's father and that may have been the reason. He also stated that the prosecutrix at that time was involved with another person and the fear of finding out about the accused-appellant may have prompted her to falsely implicate him.
+
+During the cross-examination of the accused-appellant, several omissions were raised about many material points. It was highlighted that he had not stated to the police about the phone calls or the previous acts of sexual intercourse or the victim asking him to come on that day. It was also highlighted that he had failed to inform the police about meeting a friend of the girl's father that day when leaving the shop. It shows that the accused has given evidence and stated that the sexual act was performed with consent. When considering both versions the version of the accused-appellant is likely to have had happened the version of the prosecution is less likely to have had happened with several infirmities in the prosecution case.
+
+Page 12 of 12
+
+The conviction upon unreliable and uncorroborated evidence is bad in law and the evidence of the prosecution itself creates a reasonable doubt in respect of the prosecution case. In the circumstances of the present case, having regard to the quality of the version of the prosecution about the incident, it cannot be safely relied upon to sustain the conviction against the accused of multifaceted reasons.
+
+Taking into consideration, all those circumstances, I am of the view that the conviction of the accused-appellant cannot be allowed to stand as the prosecution had failed to prove the case beyond all reasonable doubts.
+
+The appeal is allowed and the conviction quashed.
+
+Registrar is directed to send a copy of this judgment along with the main case record to the High Court of Gampaha and to inform the prison authorities forthwith.
+
+Judge of the Court of Appeal
+
+R. Gurusinghe J.
+
+I agree.
+
+Judge of the Court of Appeal
