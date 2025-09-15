@@ -1,0 +1,2941 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      731.38,
+      333.17,
+      755.88
+    ],
+    "text": "Page 1 of 7",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      78.26,
+      72.0,
+      537.86,
+      85.98
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRETIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      260.33,
+      93.24,
+      355.87,
+      107.22
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.33,
+      150.96,
+      543.47,
+      165.02
+    ],
+    "text": "In the matter of an Appeal in terms of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.33,
+      172.08,
+      543.48,
+      186.14
+    ],
+    "text": "section 331 (1) of the Code of Criminal",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.33,
+      193.2,
+      543.57,
+      207.26
+    ],
+    "text": "Procedure Act No- 15 of 1979, read with",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.33,
+      214.32,
+      543.51,
+      228.38
+    ],
+    "text": "Article 138 of the Constitution of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.33,
+      235.59,
+      542.86,
+      249.65
+    ],
+    "text": "Democratic Socialist Republic of Sri Lanka.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      293.91,
+      546.34,
+      307.91
+    ],
+    "text": "Court of Appeal No: Democratic Socialist Republic of Sri Lanka",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      322.95,
+      385.75,
+      336.95
+    ],
+    "text": "CA/HCC/0104/2020 COMPLAINANT",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      352.11,
+      311.09,
+      366.09
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      381.15,
+      525.94,
+      395.15
+    ],
+    "text": "High Court of Kaluthara Chandana Pinnaduwage",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      402.41,
+      303.17,
+      416.41
+    ],
+    "text": "Case No: HC/508/2012",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      431.57,
+      352.15,
+      445.57
+    ],
+    "text": "ACCUSED",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      460.73,
+      420.07,
+      474.71
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      489.77,
+      442.87,
+      503.77
+    ],
+    "text": "Chandana Pinnaduwage",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      518.93,
+      432.07,
+      532.91
+    ],
+    "text": "ACCUSED-APPELLANT",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      548.09,
+      311.09,
+      562.07
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      577.16,
+      416.95,
+      591.16
+    ],
+    "text": "The Attorney General",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      606.32,
+      474.34,
+      620.32
+    ],
+    "text": "Attorney Generals Department",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      635.48,
+      361.99,
+      649.48
+    ],
+    "text": "Colombo 12",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      664.64,
+      383.83,
+      678.62
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      731.38,
+      333.17,
+      755.88
+    ],
+    "text": "Page 2 of 7",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      72.12,
+      384.55,
+      86.12
+    ],
+    "text": "Before : Sampath B Abayakoon, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      101.28,
+      351.67,
+      115.28
+    ],
+    "text": ": P. Kumararatnam, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      130.32,
+      509.38,
+      144.32
+    ],
+    "text": "Counsel : Nayantha Wijesundara for Accused Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      159.48,
+      513.22,
+      173.48
+    ],
+    "text": ": Sudharshana De Silva, DSG, for the Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      188.64,
+      296.69,
+      202.64
+    ],
+    "text": "Argued on : 10-03-2022",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      217.8,
+      296.69,
+      231.8
+    ],
+    "text": "Decided on : 07-04-2022",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      246.87,
+      235.97,
+      260.87
+    ],
+    "text": "Sampath B Abayakoon, J.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      275.91,
+      543.94,
+      289.91
+    ],
+    "text": "This is an appeal by the accused-appellant (hereinafter referred as the appellant)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      297.03,
+      543.93,
+      311.03
+    ],
+    "text": "on being aggrieved by the conviction and the sentence of him by the learned High",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      318.27,
+      222.05,
+      332.27
+    ],
+    "text": "Court Judge of Kalutara.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      347.31,
+      543.9,
+      361.31
+    ],
+    "text": "The appellant was indicted before the High Court of Kalutara on three counts of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      368.43,
+      543.94,
+      382.43
+    ],
+    "text": "rape of a minor between the period of 01-09-2008 and 31-12-2008, thereby",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      389.55,
+      543.92,
+      403.78
+    ],
+    "text": "committing the offence of rape as described in Section 364 (2) (e) of the Penal",
+    "fonts": [
+      "BookmanOldStyle",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      410.93,
+      543.7,
+      424.93
+    ],
+    "text": "Code, an offence punishable in terms of Section 364 (2) of the Penal Code as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      432.17,
+      368.23,
+      446.17
+    ],
+    "text": "amended by amendment Act number 22 of 1995.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      461.09,
+      543.94,
+      475.09
+    ],
+    "text": "After trial, the appellant was found guilty as charged and the learned High Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      482.33,
+      540.22,
+      496.33
+    ],
+    "text": "Judge, after hearing both parties as to the sentence has imposed a period of 18-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      503.45,
+      543.94,
+      517.45
+    ],
+    "text": "year rigorous imprisonment on each of the three counts and a compensation of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      524.57,
+      540.22,
+      538.57
+    ],
+    "text": "Rs. 250,000/- to be paid to the victim. In default, an additional punishment two-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      545.81,
+      303.89,
+      559.81
+    ],
+    "text": "year imprisonment has been imposed.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      574.76,
+      543.94,
+      588.76
+    ],
+    "text": "The 18 years rigorous imprisonment imposed on all three counts has been",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      596.0,
+      543.7,
+      610.0
+    ],
+    "text": "ordered to run concurrently. Although the appellant has filed this appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      617.12,
+      543.85,
+      631.12
+    ],
+    "text": "challenging his conviction and the sentence, the appellant has written a letter to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      638.24,
+      543.82,
+      652.24
+    ],
+    "text": "this Court through the prison authorities indicating his willingness to withdraw",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      659.36,
+      543.94,
+      673.36
+    ],
+    "text": "the appeal against the conviction and only to canvass the sentence imposed upon",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      680.6,
+      106.34,
+      694.6
+    ],
+    "text": "him.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      731.38,
+      333.17,
+      755.88
+    ],
+    "text": "Page 3 of 7",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      72.0,
+      543.94,
+      86.0
+    ],
+    "text": "When this matter was mentioned before this Court on 07-02-2022 the learned",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      93.12,
+      543.87,
+      107.12
+    ],
+    "text": "Counsel appearing for the appellant informed the Court that the appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      114.24,
+      543.86,
+      128.24
+    ],
+    "text": "intends to withdraw his appeal and only seeking to canvass the sentence. Upon",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      135.36,
+      543.94,
+      149.36
+    ],
+    "text": "inquiry from the appellant via Zoom platform as he was not present physically",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      156.48,
+      543.73,
+      170.48
+    ],
+    "text": "before this court, he confirmed that it was his wish to withdraw the appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      177.72,
+      212.45,
+      191.72
+    ],
+    "text": "against the conviction.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      206.76,
+      543.81,
+      220.76
+    ],
+    "text": "Accordingly, upon the withdrawal, the appeal against the conviction was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      227.88,
+      543.86,
+      241.88
+    ],
+    "text": "dismissed and the accused was permitted to canvass the sentence imposed upon",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      249.15,
+      106.34,
+      263.15
+    ],
+    "text": "him.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      278.19,
+      543.94,
+      292.19
+    ],
+    "text": "When this matter was taken up for argument in that regard, the learned Counsel",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      299.31,
+      543.91,
+      313.31
+    ],
+    "text": "for the appellant urged that the learned High Court Judge in his sentencing order",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      320.43,
+      543.94,
+      334.43
+    ],
+    "text": "has failed to consider the fact that the appellant was a first-time offender. It was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      341.55,
+      543.83,
+      355.55
+    ],
+    "text": "contended by the learned Counsel that the Court may consider that fact in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      362.67,
+      543.94,
+      376.67
+    ],
+    "text": "imposing a lenient punishment to the appellant considering other relevant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      383.91,
+      318.05,
+      397.91
+    ],
+    "text": "circumstances that led to his conviction.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      412.97,
+      543.84,
+      426.97
+    ],
+    "text": "It was the contention of the Learned Deputy Solicitor General (DSG) that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      434.09,
+      543.94,
+      448.09
+    ],
+    "text": "although the sentencing is a matter solely within the discretion of the Court,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      455.21,
+      543.89,
+      469.21
+    ],
+    "text": "given the facts and the circumstances of the matter under consideration, in his",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      476.33,
+      543.72,
+      490.33
+    ],
+    "text": "view, the punishment imposed upon the appellant was the appropriate",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      497.45,
+      543.68,
+      511.45
+    ],
+    "text": "punishment even if it touched upon the high end of the maximum punishment",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      518.57,
+      543.91,
+      532.57
+    ],
+    "text": "that can be imposed for an offence of this nature. The learned DSG cited several",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      539.81,
+      543.82,
+      553.81
+    ],
+    "text": "decided cases and urged the Court to consider whether the sentence was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      560.93,
+      543.9,
+      574.93
+    ],
+    "text": "appropriate or not before coming to a conclusion as to the appropriateness of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      582.2,
+      138.98,
+      596.2
+    ],
+    "text": "sentence.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      611.12,
+      543.87,
+      625.12
+    ],
+    "text": "It appears from the evidence placed before the High Court that the victim was a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      632.36,
+      543.72,
+      646.36
+    ],
+    "text": "12-year-old girl who lived with her mother as her father has abandoned them.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      653.48,
+      543.77,
+      667.48
+    ],
+    "text": "The appellant was a neighbour who lived close to the house of the victim with",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      674.6,
+      543.67,
+      688.6
+    ],
+    "text": "his wife and two young children. The wife of the appellant was in the habit of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      695.71,
+      543.77,
+      709.72
+    ],
+    "text": "calling the victim to look after her younger child when she was away with her",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      731.38,
+      333.17,
+      755.88
+    ],
+    "text": "Page 4 of 7",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      72.0,
+      543.73,
+      86.0
+    ],
+    "text": "elder child whom she used to take for a tuition class. According to the evidence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      93.12,
+      543.77,
+      107.12
+    ],
+    "text": "given by the victim, she has been subjected to several acts of rape during the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      114.24,
+      543.89,
+      128.24
+    ],
+    "text": "period mentioned in the indictment while the wife of the appellant was away from",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      135.48,
+      141.38,
+      149.48
+    ],
+    "text": "the house.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      164.52,
+      543.67,
+      178.52
+    ],
+    "text": "The victim has not divulged that she is being raped to anyone due to fear and it",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      185.64,
+      543.86,
+      199.64
+    ],
+    "text": "has only come to light when she was taken to a doctor as she was suffering from",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      206.76,
+      543.82,
+      220.76
+    ],
+    "text": "a rash in her genital area which has led to the complaint against the appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      228.0,
+      273.41,
+      242.0
+    ],
+    "text": "and the subsequent prosecution.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      257.07,
+      543.94,
+      271.07
+    ],
+    "text": "It clearly appears in the sentencing order of the learned High Court Judge that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      278.19,
+      543.94,
+      292.19
+    ],
+    "text": "he has well considered all the relevant factors that needs to be considered when",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      299.31,
+      543.94,
+      313.31
+    ],
+    "text": "sentencing an accused who was found guilty on several counts of rape, and has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      320.55,
+      408.79,
+      334.55
+    ],
+    "text": "decided to impose the punishment as mentioned before.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      349.59,
+      543.84,
+      363.59
+    ],
+    "text": "What is an appropriate punishment for an offence of this nature has been well",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      370.71,
+      543.94,
+      384.71
+    ],
+    "text": "considered in several of our Superior Court judgements as well as appeals",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      391.95,
+      235.25,
+      405.95
+    ],
+    "text": "decided under English law.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      421.01,
+      544.18,
+      435.01
+    ],
+    "text": "In the case of Attorney-General V. H.N de Silva 57 NLR 121, Basnayake A.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      442.25,
+      229.01,
+      456.25
+    ],
+    "text": "C. J. observed as follows;",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      471.29,
+      543.52,
+      485.35
+    ],
+    "text": "In assessing the punishment that should be passed on an offender, a judge",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      492.41,
+      543.3,
+      506.47
+    ],
+    "text": "should consider the matter of sentence both from the point of view of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      513.53,
+      543.55,
+      527.59
+    ],
+    "text": "public and the offender. Judges are too often prone to look at the question",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      534.65,
+      543.69,
+      548.71
+    ],
+    "text": "only from the angle of the offender. A Judge should, in determining the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      555.77,
+      543.36,
+      569.83
+    ],
+    "text": "proper sentence first consider the gravity of the offence as it appears from",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      576.92,
+      543.37,
+      590.98
+    ],
+    "text": "the nature of the act itself and should have regard to the punishment",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      598.04,
+      543.7,
+      612.1
+    ],
+    "text": "provided in the Penal Code or other statute under which the offender is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      619.16,
+      543.33,
+      633.22
+    ],
+    "text": "charged. He should also regard the effect of the punishment as a deterrent",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      640.28,
+      543.46,
+      654.34
+    ],
+    "text": "and consider to what extent it will be effective. If the offender held a position",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      661.4,
+      543.68,
+      675.46
+    ],
+    "text": "of trust or belonged to a service which enjoys the public confidence that must",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      682.51,
+      543.43,
+      696.58
+    ],
+    "text": "be taken into account in assessing the punishment. The incidents of crimes",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      703.63,
+      543.3,
+      717.7
+    ],
+    "text": "of the nature of which the offender has been found to be guilty and the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      731.38,
+      333.17,
+      755.88
+    ],
+    "text": "Page 5 of 7",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      72.0,
+      543.39,
+      86.06
+    ],
+    "text": "difficulty of detection are also matters which should receive due",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      93.12,
+      543.68,
+      107.18
+    ],
+    "text": "consideration. The reformation of the criminal, though no doubt an important",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      114.24,
+      543.37,
+      128.3
+    ],
+    "text": "consideration is subordinate to the others I have mentioned. Where the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      135.36,
+      543.32,
+      149.42
+    ],
+    "text": "public interest or the welfare of the state (which is synonymous) outweighs",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      156.48,
+      543.36,
+      170.54
+    ],
+    "text": "the previous good character, antecedents and age of the offender, public",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      177.72,
+      238.61,
+      191.78
+    ],
+    "text": "interest must prevail.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      206.76,
+      543.94,
+      220.76
+    ],
+    "text": "Shriskandaraja, J. in the case of M. Gomes W. V. D Leelaratne 66 NLR 233",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      228.0,
+      180.5,
+      242.0
+    ],
+    "text": "stated as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      257.07,
+      543.45,
+      271.13
+    ],
+    "text": "A judge in determining the proper sentence should first consider the gravity",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      278.19,
+      543.3,
+      292.25
+    ],
+    "text": "of the offence as it appears from the nature of the act itself. Should have",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      299.31,
+      543.37,
+      313.37
+    ],
+    "text": "regard to the punishment provided in the Penal Code or the statute under",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      320.55,
+      235.97,
+      334.61
+    ],
+    "text": "which he is charged.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      349.59,
+      543.75,
+      363.59
+    ],
+    "text": "The following observation when it comes to a sentence that should be imposed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      370.71,
+      543.89,
+      384.71
+    ],
+    "text": "for an offence of rape was made by the Lord Chief Justice in the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      391.95,
+      504.34,
+      405.95
+    ],
+    "text": "of England in the case of Roberts (1982) Vol 74 CAR 242 at page 244:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      421.01,
+      543.58,
+      435.07
+    ],
+    "text": "Rape is always a crime. Other than in wholly exceptional circumstances, it",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      442.13,
+      543.38,
+      456.19
+    ],
+    "text": "calls for an immediate custodial sentence. This was certainly so in the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      463.25,
+      543.3,
+      477.31
+    ],
+    "text": "present case. A custodial sentence is necessary for a variety of reasons.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      484.37,
+      543.65,
+      498.43
+    ],
+    "text": "First, of all to mark the gravity of the offence. Secondly, to emphasize public",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      505.49,
+      543.52,
+      519.55
+    ],
+    "text": "disapproval. Thirdly, to serve as a warning to others. Fourthly, to punish the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      526.61,
+      543.31,
+      540.67
+    ],
+    "text": "offender, and last by no means least, to protect women. The length of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      547.85,
+      384.31,
+      561.91
+    ],
+    "text": "sentence will depend on all the circumstances.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      576.92,
+      543.87,
+      590.92
+    ],
+    "text": "In the case of Keith Billam (1986) Vol 82 CAR 347 repeating the above",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      598.04,
+      543.86,
+      612.04
+    ],
+    "text": "observations and stating that in contested case of rape the appropriate sentence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      619.16,
+      543.93,
+      633.16
+    ],
+    "text": "should be considered from a starting point subject to any aggravating or",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      640.4,
+      319.25,
+      654.4
+    ],
+    "text": "mitigating features. It was observed thus:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      669.44,
+      543.57,
+      683.5
+    ],
+    "text": "The crime in any event be treated as aggravated by any of the following",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      690.67,
+      154.34,
+      704.74
+    ],
+    "text": "factors:",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      731.38,
+      333.17,
+      755.88
+    ],
+    "text": "Page 6 of 7",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      72.0,
+      538.66,
+      86.06
+    ],
+    "text": "1. Violence is used over and above the force necessary to commit the rape",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      93.12,
+      400.87,
+      107.18
+    ],
+    "text": "2. A weapon is used to frighten or wound a victim",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      114.24,
+      247.97,
+      128.3
+    ],
+    "text": "3. The rape is repeated",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      135.36,
+      344.23,
+      149.42
+    ],
+    "text": "4. The rape has been carefully planned",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      156.48,
+      543.46,
+      170.54
+    ],
+    "text": "5. The defendant has previous convictions for rape or other serious offences",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.02,
+      177.6,
+      281.57,
+      191.66
+    ],
+    "text": "of a violent or sexual kind",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      198.72,
+      510.1,
+      212.78
+    ],
+    "text": "6. The victim is subjected to further sexual indignities or perversions",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      219.96,
+      369.67,
+      234.02
+    ],
+    "text": "7. The victim is either very old or very young",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      241.11,
+      543.39,
+      255.17
+    ],
+    "text": "8. The effect upon the victim whether physical or mental is of special",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.02,
+      262.35,
+      198.05,
+      276.41
+    ],
+    "text": "seriousness",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      291.27,
+      543.53,
+      305.33
+    ],
+    "text": "Where any one or more of these aggravating features are present the sentence",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      312.51,
+      543.7,
+      326.57
+    ],
+    "text": "should be substantially higher than the figure suggested as the starting point.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      341.55,
+      543.72,
+      355.55
+    ],
+    "text": "The above authorities clearly indicates that after a trial in a case of this nature",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      362.67,
+      543.74,
+      376.67
+    ],
+    "text": "the court has to consider several factors before imposing an appropriate",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      383.79,
+      543.93,
+      397.79
+    ],
+    "text": "punishment on an accused. When it comes to the sentence under appeal, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      404.93,
+      543.91,
+      418.93
+    ],
+    "text": "victim has been a 12 year old school going child when she was first raped by the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      426.17,
+      543.71,
+      440.17
+    ],
+    "text": "appellant. The mother of the victim has placed her trust on the appellant when",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      447.29,
+      543.67,
+      461.29
+    ],
+    "text": "she allowed her young daughter to be alone with the appellant and the younger",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      468.41,
+      543.86,
+      482.41
+    ],
+    "text": "child of him whenever the wife of the appellant asked her to be in her house to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      489.53,
+      543.71,
+      503.53
+    ],
+    "text": "look after the child. The appellant has clearly misused the trust placed on him",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      510.65,
+      543.87,
+      524.65
+    ],
+    "text": "by repeatedly raping her and threatening her not to divulge that fact to anyone",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      531.89,
+      105.86,
+      545.89
+    ],
+    "text": "else.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      560.93,
+      543.93,
+      574.93
+    ],
+    "text": "As contended correctly by the learned DSG, I am of the view that although the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      582.08,
+      540.34,
+      596.08
+    ],
+    "text": "sentence imposed was 18 years rigorous imprisonment out of the maximum 20-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      603.2,
+      543.86,
+      617.2
+    ],
+    "text": "year imprisonment stipulated in the statute, it is an appropriate punishment",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      624.44,
+      306.05,
+      638.44
+    ],
+    "text": "given the facts and the circumstances.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      653.48,
+      543.9,
+      667.48
+    ],
+    "text": "It is clear that the learned High Court Judge by ordering that the punishment",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      674.6,
+      543.84,
+      688.6
+    ],
+    "text": "for all three counts shall run concurrently, and also by not imposing fines that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      731.38,
+      333.17,
+      755.88
+    ],
+    "text": "Page 7 of 7",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      72.0,
+      543.79,
+      86.0
+    ],
+    "text": "he could have imposed, has addressed his mind to the appropriateness of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      93.24,
+      459.46,
+      107.24
+    ],
+    "text": "sentence, for which this Court finds no reasons to interfere with.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      122.28,
+      543.78,
+      136.28
+    ],
+    "text": "Therefore, as this Court finds no merit in the appeal against the sentence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      143.52,
+      522.34,
+      157.52
+    ],
+    "text": "imposed against the accused, the appeal against the sentence is dismissed.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      172.56,
+      543.7,
+      186.56
+    ],
+    "text": "However, considering the fact that the appellant has been in incarceration from",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      193.68,
+      543.94,
+      207.68
+    ],
+    "text": "the date of the sentence namely, 28-05-2020, the period of rigorous",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      214.92,
+      415.27,
+      228.92
+    ],
+    "text": "imprisonment is ordered to be effective from 28-05-2020.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      243.99,
+      543.83,
+      257.99
+    ],
+    "text": "The rest of the sentence, namely, the compensation ordered and the default",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      265.23,
+      269.57,
+      279.23
+    ],
+    "text": "sentence shall remain the same.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      294.27,
+      185.54,
+      308.27
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      324.07,
+      323.43,
+      495.94,
+      337.43
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      352.59,
+      206.21,
+      366.57
+    ],
+    "text": "P Kumararatnam, J.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      381.75,
+      122.66,
+      395.75
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      324.07,
+      410.81,
+      495.94,
+      424.81
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
