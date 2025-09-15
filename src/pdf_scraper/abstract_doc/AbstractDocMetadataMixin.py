@@ -2,7 +2,7 @@ import inspect
 import os
 import pathlib
 from dataclasses import asdict
-from functools import cache, cached_property
+from functools import cached_property
 
 from utils import JSONFile, Log
 
@@ -10,10 +10,26 @@ log = Log("AbstractDocMetadataMixin")
 
 
 class AbstractDocMetadataMixin:
+
+    @classmethod
+    def get_dir_root(cls) -> str:
+        return "."
+
+    @classmethod
+    def get_dir_docs_root(cls) -> str:
+        return os.path.join(
+            cls.get_dir_root(),
+            "data",
+            cls.doc_class_label(),
+        )
+
     @cached_property
     def dir_doc(self) -> str:
         return os.path.join(
-            self.get_dir_docs_root(), self.decade, self.year, self.doc_id
+            self.__class__.get_dir_docs_root(),
+            self.decade,
+            self.year,
+            self.doc_id,
         )
 
     @cached_property
@@ -45,9 +61,6 @@ class AbstractDocMetadataMixin:
         sig = inspect.signature(cls.__init__)
         valid_keys = set(sig.parameters) - {"self"}
         filtered_data = {k: v for k, v in d.items() if k in valid_keys}
-        # HACK!
-        if "url_metadata" not in filtered_data:
-            filtered_data["url_metadata"] = None
         return cls(**filtered_data)
 
     @classmethod
@@ -56,7 +69,6 @@ class AbstractDocMetadataMixin:
         return cls.from_dict(d)
 
     @classmethod
-    @cache
     def list_all(cls):
         doc_list = [
             cls.from_file(json_path) for json_path in cls.get_all_json_paths()

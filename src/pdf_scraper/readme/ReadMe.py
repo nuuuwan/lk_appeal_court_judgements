@@ -1,23 +1,28 @@
 import json
+import os
 from dataclasses import asdict
+from functools import cached_property
 
 from utils import File, Log
 
-from pdf_scraper.ChartDocsByYear import ChartDocsByYear
-from pdf_scraper.HuggingFaceDataset import HuggingFaceDataset
+from pdf_scraper.hf import HuggingFaceDataset
+from pdf_scraper.readme.ChartDocsByYear import ChartDocsByYear
 from utils_future import Markdown
 
 log = Log("ReadMe")
 
 
 class ReadMe:
-    PATH = "README.md"
     N_LATEST = 20
 
     def __init__(self, home_page_class, doc_class):
         self.home_page_class = home_page_class
         self.doc_class = doc_class
         self.doc_list = self.doc_class.list_all()
+
+    @cached_property
+    def readme_path(self) -> str:
+        return os.path.join(self.doc_class.get_dir_root(), "README.md")
 
     @property
     def lines_for_latest_docs(self):
@@ -118,5 +123,8 @@ class ReadMe:
         )
 
     def build(self):
-        File(self.PATH).write("\n".join(self.lines))
-        log.info(f"Wrote {self.PATH}")
+        if not self.doc_list:
+            log.error("No documents found. Not building README.")
+            return
+        File(self.readme_path).write("\n".join(self.lines))
+        log.info(f"Wrote {self.readme_path}")

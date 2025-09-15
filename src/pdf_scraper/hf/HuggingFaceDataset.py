@@ -6,7 +6,7 @@ import pandas as pd
 from datasets import Dataset
 from utils import Hash, JSONFile, Log
 
-from pdf_scraper.AbstractDoc import AbstractDoc
+from pdf_scraper.abstract_doc import AbstractDoc
 from utils_future import Chunker
 
 log = Log("HuggingFaceDataset")
@@ -25,7 +25,7 @@ class HuggingFaceDataset:
     @cached_property
     def docs_json_path(self):
         return os.path.join(
-            self.doc_class.get_dir_doc_extended_root(), "docs.json"
+            self.doc_class.get_dir_extended_root(), "docs.json"
         )
 
     def build_docs(self):
@@ -58,7 +58,7 @@ class HuggingFaceDataset:
     @cached_property
     def chunks_json_path(self):
         return os.path.join(
-            self.doc_class.get_dir_doc_extended_root(), "chunks.json"
+            self.doc_class.get_dir_extended_root(), "chunks.json"
         )
 
     def build_chunks(self):
@@ -103,6 +103,11 @@ class HuggingFaceDataset:
             log.info(f"🤗 Uploaded {dataset_id} to {repo_id}")
 
     def build_and_upload(self):
+        if not self.doc_list:
+            log.error(
+                "No documents found. Not building Hugging Face dataset."
+            )
+            return
         self.build_docs()
         self.build_chunks()
         self.upload_to_hugging_face()
