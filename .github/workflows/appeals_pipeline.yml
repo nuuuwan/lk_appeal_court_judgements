@@ -1,5 +1,7 @@
 name: appeals_pipeline
 
+# - cron: "30 6 * * *"
+
 on:
   workflow_dispatch:
     inputs:
@@ -8,8 +10,7 @@ on:
         required: false
         default: "1"
   schedule:
-    - cron: "30 6 * * *"
-
+    - cron: "*/30 * * * *"
 jobs:
   appeals_pipeline:
     runs-on: ubuntu-latest
