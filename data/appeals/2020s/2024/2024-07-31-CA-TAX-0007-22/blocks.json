@@ -1,0 +1,6352 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      108.02,
+      774.82,
+      320.93,
+      799.3
+    ],
+    "text": "1",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      134.3,
+      74.39,
+      499.93,
+      87.67
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.17,
+      92.05,
+      394.15,
+      105.33
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.02,
+      194.41,
+      260.45,
+      330.84
+    ],
+    "text": "Court of Appeal Application No: CA/Tax/07/2022 Tax Appeal Commission No: TAC/IT/008/2018",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.02,
+      564.9,
+      278.81,
+      578.18
+    ],
+    "text": "Before: S. U. B. Karalliyadde, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.02,
+      597.42,
+      263.81,
+      610.7
+    ],
+    "text": "Mayadunne Corea, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.02,
+      629.94,
+      489.7,
+      643.22
+    ],
+    "text": "Counsel: F. N. Goonewardena with Prashanthi Vignanantha for the Appellant.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      154.82,
+      660.45,
+      352.27,
+      673.73
+    ],
+    "text": "Ms. Zuri Zain, DSG for the Respondent.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.02,
+      690.81,
+      290.09,
+      704.09
+    ],
+    "text": "Written submissions tendered on:",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      108.02,
+      723.21,
+      382.03,
+      736.49
+    ],
+    "text": "On 30.10.2022 and 07.03.2024 by the Appellant.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      144.02,
+      755.6,
+      391.39,
+      768.89
+    ],
+    "text": "On 31.03.2023 and 10.05.2024 by the Respondent.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      122.41,
+      530.6,
+      135.69
+    ],
+    "text": "In the matter of a Case Stated under",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      141.25,
+      530.45,
+      154.53
+    ],
+    "text": "Reference No. TAC/IT/008/2018 by the Tax",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      159.97,
+      530.47,
+      173.25
+    ],
+    "text": "Appeals Commission under Section 11A of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      178.69,
+      530.63,
+      191.97
+    ],
+    "text": "the Tax Appeals Commission Act, No. 23 of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      197.41,
+      335.35,
+      210.69
+    ],
+    "text": "2011",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      234.97,
+      482.38,
+      248.25
+    ],
+    "text": "Ceylinco Leasing Corporation Ltd,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      253.69,
+      434.35,
+      266.97
+    ],
+    "text": "No. 122, Kesbewa Road,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      272.44,
+      377.35,
+      285.72
+    ],
+    "text": "Divulapitiya,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      291.16,
+      391.63,
+      304.44
+    ],
+    "text": "Boralesgamuwa.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      454.9,
+      328.72,
+      530.62,
+      342.0
+    ],
+    "text": "APPELLANT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      366.16,
+      332.71,
+      379.44
+    ],
+    "text": "-Vs-",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      403.6,
+      490.45,
+      416.88
+    ],
+    "text": "The Commissioner General of Inland",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      422.44,
+      359.35,
+      435.72
+    ],
+    "text": "Revenue,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      441.16,
+      465.7,
+      454.44
+    ],
+    "text": "Department of Inland Revenue,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      459.88,
+      507.12,
+      473.16
+    ],
+    "text": "Sir Chittampalam A. Gardiner Mawatha,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.33,
+      478.62,
+      373.99,
+      491.9
+    ],
+    "text": "Colombo 02.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      445.54,
+      516.18,
+      530.62,
+      529.46
+    ],
+    "text": "RESPONDENT",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      774.82,
+      320.93,
+      799.3
+    ],
+    "text": "2",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      77.75,
+      226.37,
+      91.03
+    ],
+    "text": "Argued on: 31.01.2024",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      110.17,
+      229.01,
+      123.45
+    ],
+    "text": "Decided on: 31.07.2024",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      142.69,
+      234.77,
+      155.97
+    ],
+    "text": "S. U. B. Karalliyadde, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      179.29,
+      526.11,
+      192.57
+    ],
+    "text": "This case has been transmitted to this Court in terms of Section 170 of the Inland",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      211.93,
+      526.16,
+      225.21
+    ],
+    "text": "Revenue Act, No.10 of 2006 seeking for an opinion to the questions of law mentioned",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      244.57,
+      526.26,
+      257.85
+    ],
+    "text": "in the \"case stated\" formulated the Tax Appeals Commission established under the Tax",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      277.0,
+      316.01,
+      290.28
+    ],
+    "text": "Appeals Commission Act, No.23 of 2011.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      317.8,
+      526.35,
+      331.08
+    ],
+    "text": "The Ceylinco Leasing Corporation Ltd, the Appellant is a limited liability Company",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      350.32,
+      526.4,
+      363.6
+    ],
+    "text": "incorporated in Sri Lanka engaged in the business of leasing, hire purchase and earning",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      382.96,
+      526.29,
+      396.24
+    ],
+    "text": "rental income. The Appellant submitted its return of income for the year of assessment",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      414.57,
+      526.35,
+      428.88
+    ],
+    "text": "2012/2013 and by letter date 23.11.20151 the Deputy Commissioner of the Department",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      448.12,
+      526.36,
+      461.4
+    ],
+    "text": "of Inland Revenue informed the Appellant that the return of income was rejected for",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      480.78,
+      526.41,
+      494.06
+    ],
+    "text": "the reason that the Appellant remains the owner of the Staana Vaasi Portfolio despite",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      513.42,
+      526.26,
+      526.7
+    ],
+    "text": "CLC Asset Management Ltd enjoy the economic benefits accrued on the lease portfolio",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      545.94,
+      526.23,
+      559.22
+    ],
+    "text": "due to a Participatory Agreement and considering the fact that the Appellant has",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      578.58,
+      529.42,
+      591.86
+    ],
+    "text": "declared lease rentals arising from Staana Vaasi Portfolio in the VAT Return.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      610.07,
+      517.42,
+      624.38
+    ],
+    "text": "Thereafter, the Notice of Assessment dated 27.11.20152 was issued to the Appellant.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      651.81,
+      526.33,
+      665.09
+    ],
+    "text": "By letter dated 23.12.2015, the Appellant made an appeal to the Commissioner General",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      684.45,
+      526.24,
+      697.73
+    ],
+    "text": "of Inland Revenue (the Respondent) against the said assessment. The Respondent made",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      740.0,
+      249.02,
+      751.41
+    ],
+    "text": "1 at page 338 L of the appeal brief.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      756.46,
+      246.38,
+      767.83
+    ],
+    "text": "2 at page 338 J of the appeal brief.",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      774.82,
+      320.93,
+      799.3
+    ],
+    "text": "3",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      81.95,
+      526.1,
+      95.23
+    ],
+    "text": "his determination confirming the said assessment and communicated the same to the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      113.58,
+      526.26,
+      127.89
+    ],
+    "text": "Appellant by letter dated 15.12.2017.3 Being aggrieved by the said determination, the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      147.13,
+      526.37,
+      160.41
+    ],
+    "text": "Appellant appealed to the Tax Appeals Commission (the TAC) by the Petition dated",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      179.77,
+      526.24,
+      193.05
+    ],
+    "text": "14.03.2018. After hearing the appeal, the TAC confirming the determination made by",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      212.41,
+      526.17,
+      225.69
+    ],
+    "text": "the Respondent dismissed the appeal and the Appellant was informed the decision of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      243.78,
+      306.05,
+      258.09
+    ],
+    "text": "the TAC by the letter dated 08.12.2021.4",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      285.64,
+      526.11,
+      298.92
+    ],
+    "text": "Accordingly, with the view of forming an opinion, in terms of Section 170(6) of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      318.16,
+      526.05,
+      331.44
+    ],
+    "text": "Act No.10 of 2006, this Court considered the questions of law raised in the \"case",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      350.68,
+      474.34,
+      363.96
+    ],
+    "text": "stated\". The questions of law to which the opinion is sought are as follows:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      391.19,
+      526.21,
+      404.64
+    ],
+    "text": "1. Has the Tax Appeals Commission erred in failing to consider that the Appellant",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      424.0,
+      526.38,
+      437.28
+    ],
+    "text": "has derecognised its entitlements to the income of the Sthaana Vaasi Financing",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      456.64,
+      526.12,
+      469.92
+    ],
+    "text": "Portfolio (SVF Portfolio) in accordance with Sri Lanka Accounting Standards as",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      489.18,
+      526.05,
+      502.46
+    ],
+    "text": "more fully described in Item 1.10.2 if the Accounting Policies of the Financial",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      521.39,
+      448.66,
+      535.1
+    ],
+    "text": "Statements of the Appellant for the year ended 31st March 2013?",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      554.29,
+      526.15,
+      567.74
+    ],
+    "text": "2. Did the Tax Appeals Commission err in law in failing to consider as to whether",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      586.98,
+      525.98,
+      600.26
+    ],
+    "text": "there had been a sale as contemplated by law of the income entitlement of the",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      619.62,
+      488.38,
+      632.9
+    ],
+    "text": "SVF Portfolio from the Appellant to CLC Asset Management (Pvt) Ltd?",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      652.12,
+      526.18,
+      665.57
+    ],
+    "text": "3. Did the Tax Appeals Commission err in law in determining that the entitlement",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      684.81,
+      526.0,
+      698.09
+    ],
+    "text": "to the income of the SVF Portfolio remained with the Appellant for the purpose",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      740.26,
+      247.46,
+      751.63
+    ],
+    "text": "3 at page 338 d of the appeal brief.",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      756.46,
+      240.02,
+      767.83
+    ],
+    "text": "4 at page 432 of the appeal brief.",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      774.82,
+      320.93,
+      799.3
+    ],
+    "text": "4",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      81.95,
+      526.2,
+      95.23
+    ],
+    "text": "of determining the profit and income of the Appellant for the year of assessment",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      114.61,
+      175.58,
+      127.89
+    ],
+    "text": "2012/2013?",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      146.96,
+      526.09,
+      160.41
+    ],
+    "text": "4. Was the Commissioner General of Inland Revenue estopped from determining",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      179.77,
+      526.33,
+      193.05
+    ],
+    "text": "the appeal against the Appellant on the basis of the determination for the year of",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      212.41,
+      526.02,
+      225.69
+    ],
+    "text": "assessment 2013/2014 on the identical issue being determined in favour of the",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      244.93,
+      174.86,
+      258.21
+    ],
+    "text": "Appellant?",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      277.43,
+      526.05,
+      290.88
+    ],
+    "text": "5. Has the Tax Appeals Commission erred in law in failing to consider whether",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      310.24,
+      526.08,
+      323.52
+    ],
+    "text": "any determination which results in the entitlement to the SVF Portfolio",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      342.76,
+      526.02,
+      356.04
+    ],
+    "text": "remaining with the Appellant would give rise to double taxation on the income",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      375.28,
+      513.22,
+      388.56
+    ],
+    "text": "since such income was also recognised by CLC Asset Management (Pvt) Ltd?",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      415.84,
+      400.03,
+      429.12
+    ],
+    "text": "The questions of law are addressed by this Court as follows.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100.82,
+      456.47,
+      526.42,
+      469.92
+    ],
+    "text": "1. Has the Tax Appeals Commission erred in failing to consider that the Appellant",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      489.18,
+      526.4,
+      502.46
+    ],
+    "text": "has derecognised its entitlements to the income of the Sthaana Vaasi Financing",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      521.82,
+      526.02,
+      535.1
+    ],
+    "text": "Portfolio (SVF Portfolio) in accordance with Sri Lanka Accounting Standards as",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      554.46,
+      526.21,
+      567.74
+    ],
+    "text": "more fully described in Item 1.10.2 of the Accounting Policies of the Financial",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      586.43,
+      441.43,
+      600.14
+    ],
+    "text": "Statements of the Appellant for the year ended 31st March 2013?",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      627.66,
+      526.29,
+      640.94
+    ],
+    "text": "The Appellant submits that it has derecognized its entitlements to the income of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      660.21,
+      526.4,
+      673.49
+    ],
+    "text": "Sthaana Vaasi Financing Portfolio (SVF Portfolio) in accordance with the Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      691.82,
+      526.32,
+      706.13
+    ],
+    "text": "Accounting Standards as described in Item 1.10.25 of the Accounting Policies of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      756.46,
+      240.02,
+      767.83
+    ],
+    "text": "5 at page 261 of the appeal brief.",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      774.82,
+      320.93,
+      799.3
+    ],
+    "text": "5",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      80.92,
+      526.42,
+      95.23
+    ],
+    "text": "Financial Statements of the Appellant for the financial year ended 31st March 2013 and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      114.61,
+      526.05,
+      127.89
+    ],
+    "text": "considered the SVF Portfolios as Finance Leasing Facilities since the lands and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      147.13,
+      526.4,
+      160.41
+    ],
+    "text": "buildings were sold by the Appellant Company on finance lease terms. As provided,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      179.77,
+      525.98,
+      193.05
+    ],
+    "text": "the legal definition of a lease is a written agreement in which the owner of property",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      212.41,
+      526.27,
+      225.69
+    ],
+    "text": "(either real estate or some object like an automobile) allows to use of the property for a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      244.93,
+      526.41,
+      258.21
+    ],
+    "text": "specified period of time (term) for specific periodic payments (rent), and other",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      277.48,
+      172.34,
+      290.76
+    ],
+    "text": "conditions.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      318.16,
+      526.28,
+      331.44
+    ],
+    "text": "However, the Tax Appeal Commission (the TAC) has held that the SVF Portfolios",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      350.8,
+      526.26,
+      364.08
+    ],
+    "text": "are not Finance Leasing Facilities, but Operating Lease Stock/Facilities granted by",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      383.44,
+      526.42,
+      396.72
+    ],
+    "text": "the Appellant on the basis that the Appellant retains the ownership of the assets. Also,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      415.96,
+      526.32,
+      429.24
+    ],
+    "text": "even if the SVF Portfolio is considered as Finance Leasing Facilities, the lease rentals",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      448.6,
+      526.33,
+      461.88
+    ],
+    "text": "collected by the lessor (Appellant) should be regarded as income according to the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      481.26,
+      526.32,
+      494.54
+    ],
+    "text": "accounting treatment for finance lease facilities. The position of the Respondent is that",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      513.78,
+      526.25,
+      527.06
+    ],
+    "text": "the Appellant (lessor) shall recognize assets held under a finance lease in their statement",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      546.42,
+      526.29,
+      559.7
+    ],
+    "text": "of financial position and present them as receivables at an amount equal to the net",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      579.06,
+      526.42,
+      592.34
+    ],
+    "text": "investment in the lease. As per the tax treatment for Finance Lease Facilities, even in a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      611.58,
+      526.08,
+      624.86
+    ],
+    "text": "finance leasing portfolio, the lease rentals are treated as part and parcel of the profits",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      644.22,
+      526.3,
+      657.5
+    ],
+    "text": "and income of the lessor, and liable for both VAT and Tax purposes of the lessor. This",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      676.89,
+      526.37,
+      690.17
+    ],
+    "text": "Court is in agreement with the said view of the Respondent that even if the SVF",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      709.41,
+      526.29,
+      722.69
+    ],
+    "text": "Portfolio is to be considered as a Finance Lease Facility, the lease rentals collected by",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      741.92,
+      347.95,
+      755.21
+    ],
+    "text": "the lessor is regarded as income of the Appellant.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      774.82,
+      320.93,
+      799.3
+    ],
+    "text": "6",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      81.95,
+      526.42,
+      95.23
+    ],
+    "text": "In terms of Sri Lankan Accounting Standard LKAS 32 Financial Instruments",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      114.61,
+      526.31,
+      127.89
+    ],
+    "text": "Presentation, a financial asset is defined as an asset, inter alia, to receive cash or",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      147.13,
+      526.35,
+      160.41
+    ],
+    "text": "another financial asset from another entity. The Appellant contends that the SVF",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      179.77,
+      526.14,
+      193.05
+    ],
+    "text": "Portfolio has been derecognized as a financial asset in the Statement of Financial",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      211.38,
+      526.4,
+      225.69
+    ],
+    "text": "Position6 for the year of assessment 2012/2013. However, this Court agrees with the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      244.93,
+      526.42,
+      258.21
+    ],
+    "text": "determination of the Respondent and the determination of the TAC for the reasons that",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      277.6,
+      526.42,
+      290.88
+    ],
+    "text": "even though the assets have been derecognized in the Statement of Financial Position,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      310.24,
+      526.43,
+      323.52
+    ],
+    "text": "the Appellant being the lessor of the properties under lease agreements, has retained the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      342.64,
+      485.74,
+      355.92
+    ],
+    "text": "ownership of the assets while the lessees of such properties are in possession.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      382.29,
+      447.94,
+      396.6
+    ],
+    "text": "E. Gooneratne states, in his work titled Income Tax in Sri Lanka7: that",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.02,
+      424.0,
+      526.12,
+      437.28
+    ],
+    "text": "Evidence that a particular practice has been followed in preparing the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.02,
+      456.64,
+      526.06,
+      469.92
+    ],
+    "text": "accounts of a trader has no value if that practice conflicts with any of the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.02,
+      489.06,
+      304.73,
+      502.34
+    ],
+    "text": "provisions in the taxing statute.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      533.82,
+      526.38,
+      547.1
+    ],
+    "text": "Even if the Appellant has derecognized the SVF Portfolio in its financial statements,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      566.46,
+      526.42,
+      579.74
+    ],
+    "text": "the Appellant had continued to have the ownership of the assets and all the risks are",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      598.98,
+      526.29,
+      612.26
+    ],
+    "text": "still vested on the Appellant. Therefore, the Court is of the view that the Assessor is",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      631.62,
+      526.05,
+      644.9
+    ],
+    "text": "justifiable in attributing the income accrued by the SVF Portfolio to the Appellant and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      664.29,
+      526.08,
+      677.57
+    ],
+    "text": "accordingly, the TAC also did not err in affirming the decision of the CGIR on the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      740.0,
+      242.9,
+      751.41
+    ],
+    "text": "6 at page 261 of the appeal brief.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      756.2,
+      496.63,
+      767.61
+    ],
+    "text": "7 M. Weerasooriya and E. Gooneratne, Income Tax in Sri Lanka, Second Edition, 2009. at p.522",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      774.82,
+      320.93,
+      799.3
+    ],
+    "text": "7",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      81.95,
+      526.21,
+      95.23
+    ],
+    "text": "above matter. The Court answer the first question of law in the negative and favour of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      114.49,
+      188.3,
+      127.77
+    ],
+    "text": "the Respondent.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      191.6,
+      526.15,
+      205.05
+    ],
+    "text": "2. Did the Tax Appeals Commission err in law in failing to consider as to whether",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      224.41,
+      525.98,
+      237.69
+    ],
+    "text": "there had been a sale as contemplated by law of the income entitlement of the",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      256.93,
+      488.38,
+      270.21
+    ],
+    "text": "SVF Portfolio from the Appellant to CLC Asset Management (Pvt) Ltd?",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      301.6,
+      526.06,
+      314.88
+    ],
+    "text": "The contention of the Appellant is that income entitlement of the SVF Portfolio has",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      334.24,
+      526.17,
+      347.52
+    ],
+    "text": "already been transferred to CLC Asset Management by the Participation Agreement",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      366.76,
+      526.42,
+      380.04
+    ],
+    "text": "and submitted that in terms of Clause 1(a)(i) of the Participation Agreement, the sales",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      399.4,
+      526.27,
+      412.68
+    ],
+    "text": "agreement has been concluded. Clause 1(a)(i) of the Participation Agreement reads as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      431.92,
+      150.02,
+      445.2
+    ],
+    "text": "follows.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144.02,
+      472.62,
+      526.17,
+      485.9
+    ],
+    "text": "Clause 1(a)(i) The Seller does hereby sell to the Participant a 100%",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144.02,
+      505.26,
+      526.34,
+      518.54
+    ],
+    "text": "entitlement (each, a \"Participation\") in the Sthana Vaasi Financing (as",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144.02,
+      537.78,
+      526.24,
+      551.06
+    ],
+    "text": "hereinafter defined) which shall for the avoidance of doubt include the amounts",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144.02,
+      570.42,
+      526.18,
+      583.7
+    ],
+    "text": "due or to become due thereunder, for the purchase price therefore (the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144.02,
+      602.94,
+      513.22,
+      616.22
+    ],
+    "text": "\"Purchase Price\"), and such other details as the Seller deems appropriate.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      103.46,
+      643.62,
+      526.31,
+      656.9
+    ],
+    "text": "The position of the Appellant is that in terms of the above Clause, 100% income",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      676.29,
+      526.35,
+      689.57
+    ],
+    "text": "entitlement of the SVF Portfolio has been sold by the Appellant and, hence there has",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      708.81,
+      526.31,
+      722.09
+    ],
+    "text": "been a sale effected under the Participation Agreement, any income under SVF",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      741.44,
+      526.38,
+      754.73
+    ],
+    "text": "portfolio should not be considered as an income of the Appellant. The TAC and the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      774.82,
+      320.93,
+      799.3
+    ],
+    "text": "8",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      81.95,
+      526.38,
+      95.23
+    ],
+    "text": "Respondent held a contrary view to that the Appellant has entered into a financing",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      114.61,
+      526.42,
+      128.06
+    ],
+    "text": "arrangement to obtain funds from CLC Asset Management and the rentals collected",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      147.13,
+      526.43,
+      160.41
+    ],
+    "text": "from obligators has been utilized to pay back the liability the Appellant had towards",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      179.77,
+      526.37,
+      193.05
+    ],
+    "text": "CLC Asset Management. As per Clause 5 (Sellers rights and duties) and Schedule No.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      212.41,
+      526.42,
+      225.69
+    ],
+    "text": "2 (Administration and Management) of the Agreement, the Appellant Company has all",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      244.93,
+      526.34,
+      258.21
+    ],
+    "text": "the rights and authority in respect of any participation (the SVF Portfolio) and as per",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      277.6,
+      526.15,
+      290.88
+    ],
+    "text": "Clause 3, the right to collection of due rentals from obligators also kept with the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      310.24,
+      526.02,
+      323.52
+    ],
+    "text": "Appellant. Further, as per Clause 7 of the Agreement in sub paragraph (a) reads as;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      342.76,
+      526.44,
+      356.04
+    ],
+    "text": "The participant shall be made all payments in Sri Lankan Rupees in immediately",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      375.4,
+      526.11,
+      388.68
+    ],
+    "text": "available funds, to such account of the seller in such location as the seller may",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      408.04,
+      526.38,
+      421.32
+    ],
+    "text": "designate, without deduction, setoff or counterclaim.. Therefore, it has been held that",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      440.56,
+      526.35,
+      453.84
+    ],
+    "text": "the Appellant had obtained funds from CLC Asset Management and settled the funds",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      473.22,
+      526.41,
+      486.5
+    ],
+    "text": "granted with the collected rentals from Obligators and Guarantors and hence, the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      505.74,
+      508.42,
+      519.02
+    ],
+    "text": "Appellant has continued to be benefitted from the income from the SVF Portfolio.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      545.39,
+      526.4,
+      559.7
+    ],
+    "text": "In Union Planters National Bank of Memphis v. United States8, the Sixth Circuit it is",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      578.94,
+      162.98,
+      592.22
+    ],
+    "text": "stated that,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.02,
+      619.62,
+      526.18,
+      632.9
+    ],
+    "text": "In cases where the legal characterization of economic facts is decisive, the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      144.02,
+      652.29,
+      526.24,
+      665.57
+    ],
+    "text": "principle is well established that the tax consequences should be determined by",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      756.08,
+      231.02,
+      767.83
+    ],
+    "text": "8 426 F.2d 115 (6th Cir. 1970)",
+    "fonts": [
+      "Calibri",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      774.82,
+      320.93,
+      799.3
+    ],
+    "text": "9",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144.02,
+      81.95,
+      526.16,
+      95.23
+    ],
+    "text": "the economic substance of the transaction, not the labels put on it for property",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      144.02,
+      114.49,
+      312.05,
+      127.77
+    ],
+    "text": "law (or tax avoidance) purposes.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      155.17,
+      526.39,
+      168.45
+    ],
+    "text": "When considering the above stated provisions in the Participation Agreement, it is clear",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      187.81,
+      526.42,
+      201.09
+    ],
+    "text": "that the TAC has carefully considered and evaluated the evidence before it when",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      220.33,
+      526.42,
+      233.61
+    ],
+    "text": "arriving at its decision. Therefore, this Court agrees with the conclusion of the TAC",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      252.97,
+      526.08,
+      266.25
+    ],
+    "text": "that there has been no sale of the SVF Portfolio from the Appellant to CLC Asset",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      285.64,
+      526.34,
+      298.92
+    ],
+    "text": "Management (Pvt) Ltd for the reason that the Appellant has continued to be benefitted",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      318.16,
+      526.42,
+      331.44
+    ],
+    "text": "from SVF portfolio and utilized the collected rentals to set off the funds that has been",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      350.68,
+      286.73,
+      363.96
+    ],
+    "text": "granted by CLC Asset Management.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      391.36,
+      526.27,
+      404.64
+    ],
+    "text": "Under the above said circumstances, my opinion is that the TAC also did not err in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      424.0,
+      526.09,
+      437.28
+    ],
+    "text": "affirming the decision of the CGIR on the above matter. I answer the second question",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      456.64,
+      375.31,
+      469.92
+    ],
+    "text": "of law in the negative and in favour of the Respondent.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      94.46,
+      521.65,
+      526.2,
+      535.1
+    ],
+    "text": "3. Did the Tax Appeals Commission err in law in determining that the entitlement to",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      554.46,
+      526.03,
+      567.74
+    ],
+    "text": "the income of the SVF Portfolio remained with the Appellant for the purpose of",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      586.98,
+      526.0,
+      600.26
+    ],
+    "text": "determining the profit and income of the Appellant for the year of assessment",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      619.62,
+      168.38,
+      632.9
+    ],
+    "text": "2012/2013?",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      652.29,
+      526.42,
+      665.57
+    ],
+    "text": "This question of law considers whether the income of the SVF Portfolio could be",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      684.81,
+      526.08,
+      698.09
+    ],
+    "text": "considered as profit and income of the Appellant. The Appellant argues that, no profit",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      717.45,
+      526.41,
+      730.73
+    ],
+    "text": "or income was generated after the right to receive economic benefits from the Staana",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      750.08,
+      526.41,
+      763.37
+    ],
+    "text": "Vaasi Portfolio was sold to the CLC Assets Management and for the reason that the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      774.82,
+      323.81,
+      799.3
+    ],
+    "text": "10",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      81.95,
+      526.37,
+      95.23
+    ],
+    "text": "Appellant carried on the business does not amount him to be liable to pay income tax",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      114.61,
+      526.38,
+      127.89
+    ],
+    "text": "under Section 3 of the Act as the Appellant is not entitled on such income. The TAC in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      147.13,
+      526.28,
+      160.41
+    ],
+    "text": "its determination considering Section 3 of the Act, has concluded that the Appellant is",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      179.77,
+      526.24,
+      193.05
+    ],
+    "text": "the one who carries on the business and the relationship with the CLC Assets",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      212.41,
+      526.09,
+      225.69
+    ],
+    "text": "Management is a financial arrangement and therefore the Appellant is liable to pay",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      244.93,
+      352.99,
+      258.21
+    ],
+    "text": "income tax on the lease rentals collected by them.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      277.6,
+      526.21,
+      290.88
+    ],
+    "text": "Now the question to be considered is whether the lease rentals collected by the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      310.24,
+      526.42,
+      323.52
+    ],
+    "text": "Appellant could be considered as profits and income earned by the Appellant from",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      342.76,
+      501.1,
+      356.04
+    ],
+    "text": "the business within the ambit of Section 3 (a) of the Act. Section 3 (a) reads thus,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      144.02,
+      375.23,
+      526.08,
+      388.68
+    ],
+    "text": "3. For the purpose of this Act, profits and income or profits or income",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      408.04,
+      187.94,
+      421.32
+    ],
+    "text": "means",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      180.02,
+      440.39,
+      526.14,
+      453.84
+    ],
+    "text": "c) the profits from any trade, business, profession or vocation for",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      190.85,
+      473.1,
+      424.87,
+      486.38
+    ],
+    "text": "however short a period carried on or exercised;",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      513.78,
+      526.41,
+      527.06
+    ],
+    "text": "The Stana Vaasi Portforlio is a portfolio of land and buildings sold by the Appellant on",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      546.42,
+      526.23,
+      559.7
+    ],
+    "text": "finance lease terms where customers buy the properties by the payment of monthly",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      579.06,
+      526.17,
+      592.34
+    ],
+    "text": "lease rentals and final payments to transfer the ownership of the property at the end of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      611.58,
+      526.34,
+      624.86
+    ],
+    "text": "the lease period. The Appellant by the Participation Agreement (Clause 1(a)(i)) had",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      644.22,
+      526.09,
+      657.5
+    ],
+    "text": "agreed to sell 100% entitlement of the SVF Portfolio to CLC Assets Management,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      676.89,
+      526.26,
+      690.17
+    ],
+    "text": "however, the Appellant remains the owner of the SVF Portfolio. Moreover, in terms of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      709.41,
+      526.21,
+      722.69
+    ],
+    "text": "the Participation Agreement, Sthaana Vaasi Portfolio also entitles the Seller to receive",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      742.04,
+      526.42,
+      755.33
+    ],
+    "text": "from Obligators the lease rentals and/or rents relating to the properties until the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      774.82,
+      323.81,
+      799.3
+    ],
+    "text": "11",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      81.95,
+      526.42,
+      95.23
+    ],
+    "text": "properties are transferred to the Obligators and the right to collect the lease rentals",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      114.61,
+      526.33,
+      127.89
+    ],
+    "text": "from the Obligators or Guarantors lies with the Appellant. The Appellant had paid back",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      147.01,
+      526.42,
+      160.29
+    ],
+    "text": "the lease rentals so collected to settle the funds granted by the CLC Assets Management.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      187.81,
+      526.35,
+      201.09
+    ],
+    "text": "TAC in its determination has observed as follows, Accordingly, it can be seen that the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      220.33,
+      525.98,
+      233.61
+    ],
+    "text": "Contracts of the Leases between the Appellant and the respective lessees exist without",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      252.97,
+      526.16,
+      266.25
+    ],
+    "text": "any change. Therefore, the Appellant was bound to adhere to the respective agreements",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      285.64,
+      526.38,
+      298.92
+    ],
+    "text": "made with the lessees of the assets which were still under lease agreements. Therefore,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      318.16,
+      526.24,
+      331.44
+    ],
+    "text": "it is clear that, the Appellant being the lessor of the properties under lease agreements,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      350.8,
+      526.27,
+      364.08
+    ],
+    "text": "should retain the ownership of the assets while the lessees of such properties are in the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      383.44,
+      526.25,
+      396.72
+    ],
+    "text": "possession of such assets. Under the lease agreements, the authority to collect the lease",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      415.96,
+      526.12,
+      429.24
+    ],
+    "text": "rentals from the customers of SVF Portfolio imposed on the Appellant as the lessor.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      448.6,
+      526.14,
+      461.88
+    ],
+    "text": "The Appellant also was under obligation to transfer of the ownership of immovable",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      481.26,
+      526.18,
+      494.54
+    ],
+    "text": "property to the obligator after specified periods of time, subject to the full payment of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      513.78,
+      526.14,
+      527.06
+    ],
+    "text": "lease rentals. Under these circumstances, the Appellant Company is the person who",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      546.42,
+      526.11,
+      559.7
+    ],
+    "text": "carried on the business. It is obvious that, under the provisions of the Inland Revenue",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      579.06,
+      526.18,
+      592.34
+    ],
+    "text": "Act No. 10 of 2006 as amended, the income tax liability is on the person who carries",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      611.46,
+      192.74,
+      624.74
+    ],
+    "text": "on the business.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      655.22,
+      526.42,
+      669.53
+    ],
+    "text": "In Sri Lankan Airlines Limited vs. The Commissioner General of Inland Revenue9 Dr.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      688.89,
+      526.25,
+      702.17
+    ],
+    "text": "Ruwan Fernando, J. observed that, it is necessary for the assessor to ascertain and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      756.2,
+      324.88,
+      767.61
+    ],
+    "text": "9 CA/TAX/0002/2010 CA Minutes dated 28.02.2023.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      774.82,
+      323.81,
+      799.3
+    ],
+    "text": "12",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      81.95,
+      526.14,
+      95.23
+    ],
+    "text": "identify the source of income for the purposes of determining the profits and income",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      114.49,
+      497.14,
+      127.77
+    ],
+    "text": "chargeable with income tax, and the rates applicable to such source of income.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      155.17,
+      526.46,
+      168.45
+    ],
+    "text": "As mentioned hereinbefore the TAC has correctly identified the sources of income of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      187.81,
+      526.18,
+      201.09
+    ],
+    "text": "the Appellant for the purpose of determining the profit. Even though the right to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      220.33,
+      526.41,
+      233.61
+    ],
+    "text": "entitlement for the economic benefits derived by the SVF Portfolio has been sold to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      252.97,
+      526.42,
+      266.25
+    ],
+    "text": "CLC Assets Management by the participation agreement, the Appellant remains the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      285.64,
+      526.16,
+      298.92
+    ],
+    "text": "legal owner of the SVF Portfolio. Therefore, the lease rentals collected by the Appellant",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      318.04,
+      366.91,
+      331.32
+    ],
+    "text": "become part and parcel of the profit of the Appellant.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      358.84,
+      526.38,
+      372.12
+    ],
+    "text": "Hence, the Court is of the opinion the view that the Assessor is correct in attributing",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      391.36,
+      526.09,
+      404.64
+    ],
+    "text": "the income accrued by the SVF Portfolio to the Appellant and accordingly, the TAC",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      424.0,
+      526.42,
+      437.28
+    ],
+    "text": "also did not err in affirming the decision of the CGIR on the above matter. The Court",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      456.52,
+      499.3,
+      469.8
+    ],
+    "text": "answer the third question of law in the negative and in favour of the Respondent.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      529.69,
+      526.09,
+      543.14
+    ],
+    "text": "4. Was the Commissioner General of Inland Revenue estopped from determining",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      562.38,
+      526.22,
+      575.66
+    ],
+    "text": "the appeal against the Appellant on the basis of the determination for the year of",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      595.02,
+      526.02,
+      608.3
+    ],
+    "text": "assessment 2013/2014 on the identical issue being determined in favour of the",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      627.54,
+      174.86,
+      640.82
+    ],
+    "text": "Appellant?",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      668.25,
+      526.24,
+      681.53
+    ],
+    "text": "The Respondent has determined (the Annexture) in favour of the Appellant on the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      700.89,
+      526.34,
+      714.17
+    ],
+    "text": "issue whether the rentals collected from Obligators and Guarantors under SVF Portfolio",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      733.4,
+      526.12,
+      746.69
+    ],
+    "text": "for the 2014/2015 financial year and held that the Appellant Company has transferred",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      774.82,
+      323.81,
+      799.3
+    ],
+    "text": "13",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      81.95,
+      526.04,
+      95.23
+    ],
+    "text": "all of its entitlements including risks and rewards (economic benefits) of ownership to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      114.61,
+      526.16,
+      127.89
+    ],
+    "text": "CLC Asset Management with effect from the date of the Participation Agreement.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      147.13,
+      526.17,
+      160.41
+    ],
+    "text": "Further, the Respondent in response to the contention of the Appellant the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      179.77,
+      526.42,
+      193.05
+    ],
+    "text": "Commissioner General of Inland Revenue binds by his previous decisions, argues that",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      212.41,
+      526.42,
+      225.69
+    ],
+    "text": "the annual income tax and the decision given in a particular year of assessment does",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      244.93,
+      526.4,
+      258.21
+    ],
+    "text": "not have a binding effect on another year of assessment. The determination of TAC in",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      277.6,
+      526.27,
+      290.88
+    ],
+    "text": "the subsequent case bearing No. TAC/IT/058/2019 filed by the Appellant in this case",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      309.21,
+      526.42,
+      323.52
+    ],
+    "text": "citing the case of Abdul Gaffor Vs CIT10, the TAC and the Respondent has concluded",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      342.76,
+      526.43,
+      356.04
+    ],
+    "text": "that in matters of recurring annual tax, a decision of the Appeal with regard to one year",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      375.4,
+      526.41,
+      388.68
+    ],
+    "text": "cannot operate as res judicata in respect of an assessment of another year and refused",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      408.04,
+      312.29,
+      421.32
+    ],
+    "text": "to accept the contention of the Appellant.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      452.56,
+      526.32,
+      465.84
+    ],
+    "text": "It is the view of this Court that the general rule that has been applied over many years",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      485.22,
+      526.38,
+      498.5
+    ],
+    "text": "is that the principle of estoppel does not apply in respect of an identical issue in different",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      517.86,
+      526.26,
+      531.14
+    ],
+    "text": "financial years and the doctrine of res judicata is not applicable in tax matters. The",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      550.38,
+      526.41,
+      563.66
+    ],
+    "text": "principle underlying is that no one should present same set of facts differently to reach",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      583.02,
+      526.42,
+      596.3
+    ],
+    "text": "different conclusions in different financial years. The Appellant relying on the decision",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      614.63,
+      526.38,
+      628.94
+    ],
+    "text": "of Radhasoami Satsang Vs Commissioner of Inland Revenue11 argues in the Written",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      648.18,
+      526.42,
+      661.46
+    ],
+    "text": "Submissions dated 30.10.2022 that the subsequent determination of the CGIR for the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      680.85,
+      526.33,
+      694.13
+    ],
+    "text": "year of assessment 2014/2015 estoppes the CGIR from determining the matter",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      740.0,
+      152.27,
+      751.41
+    ],
+    "text": "10 3CT 96.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      756.2,
+      201.98,
+      767.61
+    ],
+    "text": "11 1991 Indlaw SC 948",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      774.82,
+      323.81,
+      799.3
+    ],
+    "text": "14",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      81.95,
+      526.37,
+      95.23
+    ],
+    "text": "differently for the financial year 2012/2013. In Radhasoami Satsang case (Supra), the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      114.61,
+      254.33,
+      127.89
+    ],
+    "text": "Supreme Court observed that,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.02,
+      159.13,
+      526.05,
+      172.41
+    ],
+    "text": "We are aware of the fact that strictly speaking res judicata does not apply to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.02,
+      191.77,
+      526.16,
+      205.05
+    ],
+    "text": "income tax proceedings. Again, each assessment year being a unit, what is",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.02,
+      224.41,
+      526.1,
+      237.69
+    ],
+    "text": "decided in one year may not apply in the following year but where a",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.02,
+      256.93,
+      526.32,
+      270.21
+    ],
+    "text": "fundamental aspect permeating through the different assessment years has been",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.02,
+      289.6,
+      526.09,
+      302.88
+    ],
+    "text": "found as a fact one way or the other and parties have allowed that position to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.02,
+      322.24,
+      526.08,
+      335.52
+    ],
+    "text": "be sustained by not challenging the order, it would not be at all appropriate to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      144.02,
+      354.76,
+      415.03,
+      368.04
+    ],
+    "text": "allow the position to be changed in a subsequent year.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      398.37,
+      526.4,
+      412.68
+    ],
+    "text": "However, in Instalment Supply (Pvt.) Ltd12 the Supreme Court of India held that in tax",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      432.04,
+      526.29,
+      445.32
+    ],
+    "text": "matters there is no question of res judicata because each year's assessment is final only",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      464.58,
+      526.34,
+      477.86
+    ],
+    "text": "for that year and does not apply later years. Hence, this Court does not accept the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      497.22,
+      526.44,
+      510.5
+    ],
+    "text": "position that the determination of the Respondent for the subsequent year estoppes the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      529.86,
+      526.36,
+      543.14
+    ],
+    "text": "Respondent from determining the case related to this Appeal in contrary and does not",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      562.38,
+      380.47,
+      575.66
+    ],
+    "text": "create a retrospective effect of a pre-determined matter.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      607.02,
+      526.42,
+      620.3
+    ],
+    "text": "For the reasons enumerated above, the decision of the Tax Appeals Commission to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      639.66,
+      526.29,
+      652.94
+    ],
+    "text": "confirm the determination made by the Respondent and to dismiss the appeal of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      672.21,
+      255.29,
+      685.49
+    ],
+    "text": "Appellant is according to law.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.02,
+      756.2,
+      186.47,
+      767.61
+    ],
+    "text": "12 AIR 1962 SC 53",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      774.82,
+      323.81,
+      799.3
+    ],
+    "text": "15",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      81.95,
+      526.32,
+      95.23
+    ],
+    "text": "Therefore, the Court answer the fourth question of law in the negative and in favour of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      114.61,
+      188.3,
+      127.89
+    ],
+    "text": "the Respondent.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      191.6,
+      526.05,
+      205.05
+    ],
+    "text": "5. Has the Tax Appeals Commission erred in law in failing to consider whether",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      115.22,
+      224.41,
+      526.08,
+      237.69
+    ],
+    "text": "any determination which results in the entitlement to the SVF Portfolio",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      115.22,
+      256.93,
+      526.02,
+      270.21
+    ],
+    "text": "remaining with the Appellant would give rise to double taxation on the income",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      115.22,
+      289.6,
+      513.22,
+      302.88
+    ],
+    "text": "since such income was also recognised by CLC Asset Management (Pvt) Ltd?",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      334.24,
+      526.33,
+      347.52
+    ],
+    "text": "The Appellant has submitted in its Written Submissions that the determination of the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      366.76,
+      526.19,
+      380.04
+    ],
+    "text": "Respondent would give rise to double taxation of the income since CLC Asset",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      399.4,
+      526.31,
+      412.68
+    ],
+    "text": "Management would have recognized the income from SVF Portfolio in its financial",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      432.04,
+      526.15,
+      445.32
+    ],
+    "text": "statements and would have duly paid tax on such lease rentals collected by the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      464.58,
+      526.31,
+      477.86
+    ],
+    "text": "Appellant on behalf of the CLC Asset Management. Even though double taxation is a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      497.22,
+      526.35,
+      510.5
+    ],
+    "text": "fundamental principle in tax law, the Appellant has neither raised that issue before the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      529.86,
+      526.41,
+      543.14
+    ],
+    "text": "Respondent or the TAC nor established his position by providing evidence. In terms of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      562.38,
+      526.42,
+      575.66
+    ],
+    "text": "TAC Act, the Court of Appeal has the power to determine questions of law before it,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      595.02,
+      526.36,
+      608.3
+    ],
+    "text": "and the substantial matters should be decided by the CGIR and TAC. In the case of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      626.63,
+      526.4,
+      640.94
+    ],
+    "text": "Cargills Agrifoods Ltd Vs Commissioner General of Inland Revenue13 Samarakoon, J.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      660.09,
+      178.34,
+      673.37
+    ],
+    "text": "observed that,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.02,
+      756.2,
+      320.68,
+      767.61
+    ],
+    "text": "13 CA/Tax/0006/2013 CA Minutes dated 28.02.2023",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      774.82,
+      323.81,
+      799.3
+    ],
+    "text": "16",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.02,
+      81.95,
+      526.23,
+      95.23
+    ],
+    "text": "The section 7(1) of the Tax Appeal Commission Act in two places, speaks about",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.02,
+      114.61,
+      526.1,
+      127.89
+    ],
+    "text": "the determination of the appeal. Hence, an appeal has to be determined",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.02,
+      147.13,
+      526.17,
+      160.41
+    ],
+    "text": "by the Tax Appeals Commission, which means the determination of the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.02,
+      179.65,
+      385.87,
+      192.93
+    ],
+    "text": "substantial question, with regard to the tax, etc.",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      108.02,
+      260.89,
+      275.45,
+      274.17
+    ],
+    "text": "Samarakoon, J. further stated that,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.02,
+      301.6,
+      526.42,
+      314.88
+    ],
+    "text": "What shall the Court of Appeal do when it receives such a case stated? Section",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.02,
+      334.24,
+      213.05,
+      347.52
+    ],
+    "text": "11A. (6) says,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      180.02,
+      366.76,
+      526.24,
+      380.04
+    ],
+    "text": "11A. (6) Any two or more Judges of the Court of Appeal may hear and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      180.02,
+      399.4,
+      526.27,
+      412.68
+    ],
+    "text": "determine any question of law arising on the stated case and may in",
+    "fonts": [
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      180.02,
+      432.04,
+      526.23,
+      445.32
+    ],
+    "text": "accordance with the decision of the Court upon such question, confirm,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      180.02,
+      464.58,
+      526.17,
+      477.86
+    ],
+    "text": "reduce, increase or annul the assessment determined by the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      180.02,
+      497.22,
+      526.14,
+      510.5
+    ],
+    "text": "Commission, or may remit the case to the Commission with the opinion",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      180.02,
+      529.86,
+      526.17,
+      543.14
+    ],
+    "text": "of the Court, thereon. Where a case is so remitted by the Court, the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      180.02,
+      562.38,
+      526.26,
+      575.66
+    ],
+    "text": "Commission shall revise the assessment in accordance with the opinion",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      180.02,
+      595.02,
+      250.73,
+      608.3
+    ],
+    "text": "of the Court.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      144.02,
+      627.66,
+      435.43,
+      640.94
+    ],
+    "text": "Hence, any two or more Judges of the Court of Appeal may,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      150.74,
+      660.04,
+      526.37,
+      673.49
+    ],
+    "text": "(i) determine any question of law arising on the stated case, it does not",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-BoldItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      180.02,
+      692.85,
+      469.78,
+      706.13
+    ],
+    "text": "say may determine the determination of the Commission.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      774.82,
+      323.81,
+      799.3
+    ],
+    "text": "17",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      147.38,
+      81.78,
+      526.23,
+      95.23
+    ],
+    "text": "(ii) confirm, reduce, increase or annul the assessment determined by the",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      180.02,
+      114.61,
+      245.45,
+      127.89
+    ],
+    "text": "Commission,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      144.02,
+      146.96,
+      526.08,
+      160.41
+    ],
+    "text": "(iii) or may remit the case to the Commission with the opinion of the Court,",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      180.02,
+      179.77,
+      222.65,
+      193.05
+    ],
+    "text": "thereon.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      144.02,
+      212.41,
+      526.27,
+      225.69
+    ],
+    "text": "This may or may not be on the determination of the Commission, because the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      144.02,
+      244.93,
+      504.1,
+      258.21
+    ],
+    "text": "term thereon refers to any question of law arising on the stated case.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      162.02,
+      277.43,
+      526.15,
+      290.88
+    ],
+    "text": "(a) there can be a case stated on a question of law other than the",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      180.02,
+      310.24,
+      378.43,
+      323.52
+    ],
+    "text": "determination of the Commission on tax,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      162.02,
+      342.59,
+      526.1,
+      356.04
+    ],
+    "text": "(b) the Court has power to remit the case to the Commission, with its",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      180.02,
+      375.4,
+      393.07,
+      388.68
+    ],
+    "text": "opinion on the question of law so arose and",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      162.02,
+      407.87,
+      526.23,
+      421.32
+    ],
+    "text": "(c) the Commission shall, on receiving such an opinion of the Court, revise",
+    "fonts": [
+      "Arial-ItalicMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      180.02,
+      440.56,
+      337.39,
+      453.84
+    ],
+    "text": "the assessment of the assessor.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      513.78,
+      526.26,
+      527.06
+    ],
+    "text": "Further, in the case of Commissioner General of Inland Revenue vs Janashakthi",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      545.27,
+      397.15,
+      559.58
+    ],
+    "text": "Insurance Company Limited14, Malalgoda, J. observed that,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      144.02,
+      586.98,
+      526.27,
+      600.26
+    ],
+    "text": "As already observed by me, there are specific provisions in the TAC Act which",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      144.02,
+      619.62,
+      526.26,
+      632.9
+    ],
+    "text": "governs the process before the TAC as well as a case stated before the Court of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      144.02,
+      652.29,
+      526.16,
+      665.57
+    ],
+    "text": "Appeal. In the said process, much importance has been given for identification",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      144.02,
+      684.81,
+      526.18,
+      698.09
+    ],
+    "text": "of the questions of law that is to be considered in the case stated by making",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      144.02,
+      717.45,
+      526.1,
+      730.73
+    ],
+    "text": "provisions for the TAC to reconsider the question that are submitted by the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      108.02,
+      756.2,
+      344.8,
+      767.61
+    ],
+    "text": "14 SC Appeal No. 114/2019, SC Minutes dated 26.06.2020",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      774.82,
+      323.81,
+      799.3
+    ],
+    "text": "18",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.02,
+      81.95,
+      526.08,
+      95.23
+    ],
+    "text": "Appellant and two Judges to consider them once again and referred it back to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      144.02,
+      114.49,
+      271.73,
+      127.77
+    ],
+    "text": "TAC to reconsider them.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      155.17,
+      526.23,
+      168.45
+    ],
+    "text": "To determine whether the determination of the Respondent and TAC amounts to double",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      187.81,
+      526.4,
+      201.09
+    ],
+    "text": "taxation, the Appellant should have produced evidence before the Respondent and the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      220.33,
+      526.41,
+      233.61
+    ],
+    "text": "burden of proof lies with the Appellant. This Court is not supposed to consider the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      252.97,
+      526.42,
+      266.25
+    ],
+    "text": "questions of facts but not questions of law. Since the Appellant has failed to raise this",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      285.64,
+      526.3,
+      298.92
+    ],
+    "text": "matter before the Respondent and produce evidence to establish its position there is no",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      318.16,
+      526.41,
+      331.44
+    ],
+    "text": "question of law for this Court to consider in terms of TAC Act, and hence I answer the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      350.68,
+      442.63,
+      363.96
+    ],
+    "text": "fifth question of law in the negative and in favour of the Respondent.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      391.36,
+      526.41,
+      404.64
+    ],
+    "text": "For the reasons, enumerated in this judgment, I hold that the decision of the Tax",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      424.0,
+      526.32,
+      437.28
+    ],
+    "text": "Appeals Commission to affirm the determination of the Respondent and dismiss the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      456.52,
+      239.33,
+      469.8
+    ],
+    "text": "appeal is according to law.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      503.22,
+      292.13,
+      516.5
+    ],
+    "text": "Conclusion & Opinion of the Court",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      541.86,
+      526.34,
+      555.14
+    ],
+    "text": "Under such circumstances, I answer the questions of law in favour of the Respondent",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      574.26,
+      288.65,
+      587.54
+    ],
+    "text": "and against the Appellant as follows:",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      614.89,
+      138.02,
+      628.34
+    ],
+    "text": "1. No",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      647.41,
+      138.02,
+      660.86
+    ],
+    "text": "2. No",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      680.08,
+      138.02,
+      693.53
+    ],
+    "text": "3. No",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      712.72,
+      138.02,
+      726.17
+    ],
+    "text": "4. No",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      108.02,
+      745.12,
+      141.02,
+      758.57
+    ],
+    "text": "5. No",
+    "fonts": [
+      "Arial-BoldMT",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      774.82,
+      323.81,
+      799.3
+    ],
+    "text": "19",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      81.95,
+      526.42,
+      95.23
+    ],
+    "text": "For those reasons mentioned in this judgment and subject to our observations, I affirm",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      114.61,
+      526.41,
+      127.89
+    ],
+    "text": "the determination made by the Tax Appeals Commission dated 08.12.2021 and dismiss",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      147.13,
+      526.25,
+      160.41
+    ],
+    "text": "the Appeal. The Registrar of this Court is directed to send a certified copy of this",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      179.65,
+      364.75,
+      192.93
+    ],
+    "text": "judgment to the Tax Appeals Commission forthwith.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      317.71,
+      310.24,
+      526.42,
+      323.52
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      361.36,
+      221.69,
+      374.64
+    ],
+    "text": "Mayadunne Corea, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      108.02,
+      386.92,
+      149.66,
+      400.2
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      317.71,
+      463.74,
+      526.42,
+      477.02
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
