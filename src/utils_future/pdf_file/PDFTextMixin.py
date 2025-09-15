@@ -9,11 +9,6 @@ log = Log("PDFTextMixin")
 class PDFTextMixin:
     MIN_TEXT_SIZE = 1_000
 
-    def __log_text_info_and_return__(self, text, label):
-        size = len(text)
-        log.debug(f"[{label}] Extracted {size:,} chars from {str(self)}")
-        return text
-
     @staticmethod
     def __clean_text__(text: str) -> str:
         text = text or ""
@@ -54,8 +49,6 @@ class PDFTextMixin:
         block_info_list = []
         for page in doc:
             for b in page.get_text("dict").get("blocks", []):
-                if b.get("type", 0) != 0:
-                    continue
                 fonts, sizes, text = self.__parse_lines__(b)
                 if not text:
                     continue
