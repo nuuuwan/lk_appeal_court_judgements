@@ -5,13 +5,12 @@ from urllib.parse import quote
 
 from utils import Log
 
-from appeals.AppealsDoc import AppealsDoc
-from pdf_scraper import AbstractDataPage
+from utils_future import WWW
 
 log = Log("AppealsDataPage")
 
 
-class AppealsDataPage(AbstractDataPage):
+class AppealsDataPage(WWW):
 
     def __init__(self, url: str, year: str, month_str: str):
         super().__init__(url)
@@ -47,7 +46,7 @@ class AppealsDataPage(AbstractDataPage):
         url_pdf = quote(url_pdf, safe=":/?&=%")
         return url_pdf
 
-    def __parse_tr__(self, tr) -> AppealsDoc:
+    def __parse_tr__(self, tr) -> dict:
         tds = tr.find_all("td")
         text_list = [self.clean_text(td.get_text()) for td in tds]
 
@@ -71,7 +70,7 @@ class AppealsDataPage(AbstractDataPage):
 
         description = f"{parties} before {judgement_by}"
 
-        return AppealsDoc(
+        return dict(
             # from AbstractDoc
             num=num,
             date_str=date_str,
@@ -85,7 +84,7 @@ class AppealsDataPage(AbstractDataPage):
             legistation=legistation,
         )
 
-    def gen_docs(self) -> Generator[AppealsDoc, None, None]:
+    def gen_dicts(self) -> Generator[dict, None, None]:
         if self.soup is None:
             return
         table = self.soup.find("table")

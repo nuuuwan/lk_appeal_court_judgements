@@ -1,6 +1,8 @@
 from dataclasses import dataclass
 from functools import cache, cached_property
+from typing import Generator
 
+from appeals.pages import AppealsHomePage
 from pdf_scraper import AbstractDoc
 
 
@@ -38,3 +40,9 @@ class AppealsDoc(AbstractDoc):
                 self.dir_doc_relative_to_class,
             ]
         )
+
+    @classmethod
+    def gen_docs(cls) -> Generator["AppealsDoc", None, None]:
+        for data_page in AppealsHomePage().gen_data_pages():
+            for d in data_page.gen_dicts():
+                yield cls(**d)

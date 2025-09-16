@@ -2,8 +2,7 @@ from typing import Generator
 
 from utils import Log
 
-from appeals.AppealsDataPage import AppealsDataPage
-from appeals.AppealsDoc import AppealsDoc
+from appeals.pages.AppealsDataPage import AppealsDataPage
 
 log = Log("AppealsOldDataPage")
 
@@ -48,7 +47,7 @@ class AppealsOldDataPage(AppealsDataPage):
         keywords, legistations = "", ""
         return num, parties, judgement_by, keywords, legistations
 
-    def __parse_tr__(self, tr) -> AppealsDoc:
+    def __parse_tr__(self, tr) -> dict:
         tds = tr.find_all("td")
         text_list = [self.clean_text(td.get_text()) for td in tds]
 
@@ -64,7 +63,7 @@ class AppealsOldDataPage(AppealsDataPage):
 
         description = f"{parties} before {judgement_by}"
 
-        return AppealsDoc(
+        return dict(
             # from AbstractDoc
             num=num,
             date_str=date_str,
@@ -78,7 +77,7 @@ class AppealsOldDataPage(AppealsDataPage):
             legistation=legistation,
         )
 
-    def gen_docs(self) -> Generator[AppealsDoc, None, None]:
+    def gen_dict(self) -> Generator[dict, None, None]:
         if self.soup is None:
             return
         table = self.soup.find("table")

@@ -3,17 +3,15 @@ from typing import Generator
 
 from utils import Log
 
-from appeals.AppealsDataPage import AppealsDataPage
-from appeals.AppealsHomePageNewMixin import AppealsHomePageNewMixin
-from appeals.AppealsHomePageOldMixin import AppealsHomePageOldMixin
-from pdf_scraper import AbstractHomePage
+from appeals.pages.AppealsDataPage import AppealsDataPage
+from appeals.pages.AppealsHomePageNewMixin import AppealsHomePageNewMixin
+from appeals.pages.AppealsHomePageOldMixin import AppealsHomePageOldMixin
+from utils_future import WWW
 
 log = Log("AppealsHomePage")
 
 
-class AppealsHomePage(
-    AbstractHomePage, AppealsHomePageNewMixin, AppealsHomePageOldMixin
-):
+class AppealsHomePage(WWW, AppealsHomePageNewMixin, AppealsHomePageOldMixin):
     def __init__(self):
         super().__init__("https://courtofappeal.lk")
 

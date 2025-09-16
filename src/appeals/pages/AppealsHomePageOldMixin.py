@@ -3,7 +3,7 @@ from urllib.parse import quote
 
 from utils import Log
 
-from appeals.AppealsOldDataPage import AppealsOldDataPage
+from appeals.pages.AppealsOldDataPage import AppealsOldDataPage
 
 log = Log("AppealsHomePageOldMixin")
 
@@ -49,7 +49,5 @@ class AppealsHomePageOldMixin:
             ul_older_judgements = li_year_or_older_judgements.find(
                 "ul", class_="sub-menu", recursive=False
             )
-            for li_year in ul_older_judgements.find_all(
-                "li", recursive=False
-            ):
+            for li_year in ul_older_judgements.find_all("li", recursive=False):
                 yield from self.__parse_old_li_year__(li_year)

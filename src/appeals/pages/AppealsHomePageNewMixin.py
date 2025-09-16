@@ -3,7 +3,7 @@ from urllib.parse import quote
 
 from utils import Log
 
-from appeals.AppealsDataPage import AppealsDataPage
+from appeals.pages.AppealsDataPage import AppealsDataPage
 
 log = Log("AppealsHomePageNewMixin")
 
