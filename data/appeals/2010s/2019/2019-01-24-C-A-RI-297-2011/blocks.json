@@ -1,0 +1,984 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      71.99,
+      414.99,
+      88.35
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      96.59,
+      499.27,
+      112.95
+    ],
+    "text": "DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      157.92,
+      471.17,
+      171.92
+    ],
+    "text": "Ceylinco Leasing Corporation",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      179.04,
+      350.71,
+      193.04
+    ],
+    "text": "Limited.,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      200.16,
+      453.67,
+      214.16
+    ],
+    "text": "No. 97, Hyde Park Corner,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      221.28,
+      371.11,
+      235.28
+    ],
+    "text": "Colombo 2.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      242.55,
+      368.47,
+      256.55
+    ],
+    "text": "Presently at",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      263.67,
+      480.58,
+      277.67
+    ],
+    "text": "No. 283, R.A. de Mel Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      284.79,
+      365.59,
+      298.79
+    ],
+    "text": "Colombo 3.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      305.91,
+      355.27,
+      319.91
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      348.15,
+      314.45,
+      362.13
+    ],
+    "text": "CA CASE NO: CA/RI/297/2011",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      369.27,
+      319.01,
+      383.25
+    ],
+    "text": "DC KURUNEGALA NO: 11412/M",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      411.53,
+      317.57,
+      425.53
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      453.77,
+      421.99,
+      467.77
+    ],
+    "text": "K.M.C. Wijewardena,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      474.89,
+      355.75,
+      488.89
+    ],
+    "text": "No. 41/1,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      496.01,
+      391.03,
+      510.01
+    ],
+    "text": "Andagala Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      517.25,
+      372.07,
+      531.25
+    ],
+    "text": "Kurunagala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      538.37,
+      372.31,
+      552.37
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      601.76,
+      370.15,
+      615.76
+    ],
+    "text": "Before: Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      628.88,
+      488.18,
+      642.88
+    ],
+    "text": "Counsel: Palitha Kumarasinghe, P.C., with Asanka Ranwala",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      187.22,
+      650.0,
+      293.33,
+      664.0
+    ],
+    "text": "for the Petitioner.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      187.22,
+      671.12,
+      389.83,
+      685.12
+    ],
+    "text": "Jecob Joseph for the Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      698.23,
+      263.09,
+      712.24
+    ],
+    "text": "Decided on: 24.01.2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      35.98,
+      313.61,
+      64.02
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      71.98,
+      242.45,
+      85.98
+    ],
+    "text": "Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      105.12,
+      500.67,
+      119.12
+    ],
+    "text": "The petitioner filed this application by petition dated 06.07.2011",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      126.24,
+      500.34,
+      140.3
+    ],
+    "text": "for restitutio in integrum seeking to issue an order for restitution",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      147.36,
+      500.17,
+      161.42
+    ],
+    "text": "directing the respondent to return the sum of Rs. 254,807/= he",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      168.48,
+      500.67,
+      182.54
+    ],
+    "text": "had obtained in an illegal and unlawful manner. In addition to",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      189.72,
+      500.61,
+      203.72
+    ],
+    "text": "costs, this is the only relief sought by the petitioner in the prayer",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      210.84,
+      205.25,
+      224.84
+    ],
+    "text": "to the petition.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      243.99,
+      500.53,
+      257.99
+    ],
+    "text": "When this matter came up before me for the first time, parties",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      265.11,
+      489.46,
+      279.11
+    ],
+    "text": "agreed to dispose of the argument by way written submissions.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      298.23,
+      500.53,
+      312.23
+    ],
+    "text": "According to the petition, when the petitioner came before this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      319.35,
+      500.5,
+      333.35
+    ],
+    "text": "Court the same order had been made by the District Court of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      340.47,
+      500.61,
+      354.47
+    ],
+    "text": "Kurunagala (vide X7) upon the application made to the District",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      361.59,
+      449.11,
+      375.59
+    ],
+    "text": "Court by the petitioner (vide X5) seeking the same relief.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      394.71,
+      500.67,
+      408.71
+    ],
+    "text": "The petitioner has filed this application before this Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      415.85,
+      500.65,
+      429.85
+    ],
+    "text": "because (according to the petition) the respondent had filed an",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      436.97,
+      500.69,
+      450.97
+    ],
+    "text": "appeal against that order of the District Court to the Provincial",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      458.09,
+      500.41,
+      472.15
+    ],
+    "text": "High Court of the North Western Province, and in the event of",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      479.33,
+      500.2,
+      493.39
+    ],
+    "text": "Provincial High Court of North Western Province set aside the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      500.45,
+      500.17,
+      514.51
+    ],
+    "text": "order of the District Court of Kurunagala, irremediable loss and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      521.57,
+      368.23,
+      535.63
+    ],
+    "text": "damage would be caused to the petitioner!",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      554.69,
+      500.74,
+      568.69
+    ],
+    "text": "It is abundantly clear that this application of the petitioner is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      575.84,
+      470.74,
+      589.84
+    ],
+    "text": "clearly misconceived in law and absolutely devoid of merit.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      608.96,
+      500.69,
+      622.96
+    ],
+    "text": "When the District Court has already made an order in favour of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      630.08,
+      500.66,
+      644.08
+    ],
+    "text": "the petitioner, the petitioner Company need not and cannot file",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      651.2,
+      500.7,
+      665.2
+    ],
+    "text": "this application in this Court seeking the same relief using an",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      672.32,
+      500.62,
+      686.32
+    ],
+    "text": "additional word restitution. There is no magic in the word",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      35.98,
+      313.61,
+      64.02
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      71.98,
+      500.58,
+      85.98
+    ],
+    "text": "restitution. It appears to me that the petitioner Company has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      93.12,
+      393.67,
+      107.12
+    ],
+    "text": "filed this application to harass the respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      126.24,
+      500.55,
+      140.24
+    ],
+    "text": "In the written submissions, the petitioner has informed Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      147.36,
+      500.69,
+      161.36
+    ],
+    "text": "that the Provincial High Court has now dismissed the appeal of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      168.48,
+      211.49,
+      182.48
+    ],
+    "text": "the respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      201.6,
+      449.35,
+      215.6
+    ],
+    "text": "The application of the petitioner is dismissed with costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      234.72,
+      500.74,
+      248.72
+    ],
+    "text": "As agreed on 25.06.2018, the parties in CA/RI/293, CA/RI/298,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      255.99,
+      500.64,
+      269.99
+    ],
+    "text": "CA/RI/299, CA/RI/300, CA/RI/301 will abide by this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      277.11,
+      182.18,
+      291.11
+    ],
+    "text": "Judgment.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      376.47,
+      287.09,
+      390.47
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

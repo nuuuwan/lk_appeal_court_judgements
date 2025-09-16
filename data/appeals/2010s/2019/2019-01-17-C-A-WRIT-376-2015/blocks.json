@@ -1,0 +1,5369 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      122.78,
+      71.99,
+      493.8,
+      88.35
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      96.59,
+      446.8,
+      112.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      145.92,
+      445.25,
+      159.92
+    ],
+    "text": "Ven. Prof. Muwaetagama",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      167.04,
+      416.95,
+      181.04
+    ],
+    "text": "Gnanananda Thero,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      188.16,
+      452.95,
+      202.16
+    ],
+    "text": "Sirivijitha Maha Viharaya,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      209.28,
+      415.27,
+      223.28
+    ],
+    "text": "New Elpitiya South,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      230.52,
+      346.15,
+      244.52
+    ],
+    "text": "Gelioya,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      251.67,
+      340.39,
+      265.67
+    ],
+    "text": "Kandy.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      272.79,
+      355.27,
+      286.79
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      315.03,
+      312.53,
+      329.01
+    ],
+    "text": "CASE NO: CA/WRIT/376/2015",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      336.15,
+      317.57,
+      350.15
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      378.39,
+      485.14,
+      392.39
+    ],
+    "text": "Bhikku University of Sri Lanka,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      399.51,
+      390.07,
+      413.51
+    ],
+    "text": "Puttalam Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      420.65,
+      389.59,
+      434.65
+    ],
+    "text": "Anuradhapura.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      441.77,
+      387.67,
+      455.77
+    ],
+    "text": "and 31 Others.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      462.89,
+      374.71,
+      476.89
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      526.37,
+      370.15,
+      540.37
+    ],
+    "text": "Before: Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      553.49,
+      426.02,
+      567.49
+    ],
+    "text": "Counsel: S.C.B. Walgampaya, P.C., with Upendra",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      187.22,
+      574.64,
+      371.83,
+      588.64
+    ],
+    "text": "Walgampaya for the Petitioner.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      595.76,
+      489.94,
+      609.76
+    ],
+    "text": "Susantha Balapatabendi, Senior D.S.G., for the 1st-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      187.22,
+      616.88,
+      299.45,
+      630.88
+    ],
+    "text": "32nd Respondents.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      638.0,
+      488.45,
+      652.0
+    ],
+    "text": "Manohara de Silva, P.C., with Harsha Munasinghe",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      187.22,
+      659.12,
+      335.47,
+      673.12
+    ],
+    "text": "for the 32nd Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      686.23,
+      258.29,
+      700.24
+    ],
+    "text": "Decided on: 16.01.2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      100.31,
+      263.74,
+      116.7
+    ],
+    "text": "Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      135.36,
+      500.73,
+      149.42
+    ],
+    "text": "Applications have been called for the post of Mahopadyaya (Vice",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      156.48,
+      500.74,
+      170.48
+    ],
+    "text": "Chancellor) of the 1st respondent Bhikku University from Bhikku",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      177.6,
+      191.54,
+      191.6
+    ],
+    "text": "applicants.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      210.84,
+      500.59,
+      224.84
+    ],
+    "text": "There is a procedure laid down in the Buddhasravaka Bikku",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      231.96,
+      500.66,
+      245.96
+    ],
+    "text": "University Act, No. 26 of 1996, as amended by Act No. 15 of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      253.11,
+      500.72,
+      267.11
+    ],
+    "text": "2012, in that process. The parts of the Act relevant for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      274.23,
+      315.17,
+      288.23
+    ],
+    "text": "present purposes read as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      307.35,
+      500.49,
+      321.41
+    ],
+    "text": "7(1)(b) The Mahopadayaya of the university shall be a",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      328.47,
+      500.18,
+      342.53
+    ],
+    "text": "disciplined Upasampada Bhikku who has completed",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      349.59,
+      500.18,
+      363.65
+    ],
+    "text": "twenty years after Upasampada. He shall be a person",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      370.71,
+      500.27,
+      384.77
+    ],
+    "text": "holding a post-graduate degree in Buddhist Studies or in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      391.83,
+      500.23,
+      405.89
+    ],
+    "text": "any other subject connected thereto from a recognized",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      412.97,
+      500.4,
+      427.03
+    ],
+    "text": "university on a research done within a period of not less",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      434.09,
+      500.17,
+      448.15
+    ],
+    "text": "than two years and having ten years experience in the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      455.21,
+      500.33,
+      469.27
+    ],
+    "text": "field of teaching. In addition he shall be required to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      476.33,
+      436.87,
+      490.39
+    ],
+    "text": "possess a good knowledge of oriental languages.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      509.57,
+      500.22,
+      523.63
+    ],
+    "text": "7(2)(ii) The council shall select three names from among",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      530.69,
+      500.34,
+      544.75
+    ],
+    "text": "Bhikku applicants who possess the qualifications specified",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      551.81,
+      500.28,
+      565.87
+    ],
+    "text": "in subsection (1)(b) and submit those names to the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      572.96,
+      500.16,
+      587.02
+    ],
+    "text": "Uththarithara Sabhawa constituted under section 12 of this",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      594.08,
+      176.66,
+      608.14
+    ],
+    "text": "Act.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      627.2,
+      500.19,
+      641.26
+    ],
+    "text": "7(2)(iii) The Uththarithara Sabhawa constituted under",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      648.32,
+      500.42,
+      662.38
+    ],
+    "text": "section 12 of this Act shall examine the educational and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      669.44,
+      500.18,
+      683.5
+    ],
+    "text": "other qualifications of the Bhikku applicants and select and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.22,
+      690.55,
+      500.22,
+      704.62
+    ],
+    "text": "recommend the name of one Bhikku applicant to the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.22,
+      102.24,
+      500.19,
+      116.3
+    ],
+    "text": "President through the Minister, within three months of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.22,
+      123.36,
+      301.49,
+      137.42
+    ],
+    "text": "submission of the names.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.22,
+      156.48,
+      500.5,
+      170.54
+    ],
+    "text": "7(2)(iv) The Bhikku recommended by the Uththarithara",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.22,
+      177.6,
+      500.18,
+      191.66
+    ],
+    "text": "Sabhawa shall be appointed by the President as the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.22,
+      198.72,
+      500.14,
+      212.78
+    ],
+    "text": "Mahopadayaya of the university for a period of three years.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.22,
+      219.96,
+      500.16,
+      234.02
+    ],
+    "text": "No Bhikku shall be appointed as Mahopadayaya of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.22,
+      241.11,
+      427.03,
+      255.17
+    ],
+    "text": "university for more than two consecutive terms.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      274.23,
+      500.69,
+      288.23
+    ],
+    "text": "Several Bhikkus including the petitioner (Ven. Prof.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      295.35,
+      500.7,
+      309.35
+    ],
+    "text": "Muwaetagama Gnanananda Thero) and the 32nd respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      316.47,
+      500.67,
+      330.47
+    ],
+    "text": "(Ven. Dr. Waradiwela Wijayasumana Thero) have applied for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      337.59,
+      147.86,
+      351.59
+    ],
+    "text": "post.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      370.71,
+      500.74,
+      384.71
+    ],
+    "text": "The Council of the 1st respondent university (consisting of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      391.83,
+      500.74,
+      405.83
+    ],
+    "text": "6th-19th Respondents) has sent three names, which included the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      412.97,
+      500.73,
+      426.97
+    ],
+    "text": "names of the petitioner and the 32nd respondent, to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      434.09,
+      416.23,
+      448.15
+    ],
+    "text": "Uththarithara Sabhawa to take the final decision.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      467.21,
+      500.74,
+      481.27
+    ],
+    "text": "The Uththarithara Sabhawa (consisting of the 5th, 20th-31st",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      488.45,
+      500.73,
+      502.45
+    ],
+    "text": "respondents including the incumbent Mahopadyaya of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      509.57,
+      500.7,
+      523.57
+    ],
+    "text": "University, Mahanayaka Theros of Malwatta, Asgiriya,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      530.69,
+      500.56,
+      544.69
+    ],
+    "text": "Amarapura Chapters, Mahanayaka Thero of Ramanna Maha",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      551.81,
+      500.69,
+      565.81
+    ],
+    "text": "Nikaya, Chief Incumbent of Atamastanaya) has unanimously",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      572.96,
+      500.69,
+      586.96
+    ],
+    "text": "decided to select and recommend the 32nd respondent for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      594.08,
+      183.62,
+      608.08
+    ],
+    "text": "said post.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      627.2,
+      500.66,
+      641.2
+    ],
+    "text": "The petitioner has filed this writ application seeking to challenge",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      648.32,
+      407.35,
+      662.38
+    ],
+    "text": "the said decision of the Uththarithara Sabhawa.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      681.43,
+      500.48,
+      695.44
+    ],
+    "text": "The petitioner states that the said decision contains an error of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      702.55,
+      500.5,
+      716.56
+    ],
+    "text": "law on the face of the record, and is illegal, null and void and of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      102.24,
+      500.7,
+      116.24
+    ],
+    "text": "no force or effect in law and therefore shall be quashed by way of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      123.36,
+      176.66,
+      137.36
+    ],
+    "text": "certiorari.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      156.48,
+      500.66,
+      170.48
+    ],
+    "text": "On what basis does the petitioner state so? The petitioner says",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      177.6,
+      146.9,
+      191.6
+    ],
+    "text": "that:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      210.72,
+      500.26,
+      224.78
+    ],
+    "text": "In terms of section 7(1)(b) of the said Act one of the essential",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      231.96,
+      500.32,
+      246.02
+    ],
+    "text": "qualifications for selection and appointment as",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      253.11,
+      500.43,
+      267.17
+    ],
+    "text": "Mahopadyaya is that the candidate for appointment should",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      274.23,
+      500.23,
+      288.29
+    ],
+    "text": "hold a post-graduate degree in Buddhist Studies or in any",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      295.35,
+      500.2,
+      309.41
+    ],
+    "text": "other subject connected thereto from a recognized university",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      316.47,
+      500.13,
+      330.53
+    ],
+    "text": "on a research done within a period of not less than two",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      337.59,
+      500.18,
+      351.65
+    ],
+    "text": "years and having ten years experience in the field of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      358.71,
+      500.37,
+      372.77
+    ],
+    "text": "teaching. In addition he shall be required to possess a good",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      379.83,
+      331.27,
+      393.89
+    ],
+    "text": "knowledge of oriental studies.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      412.97,
+      500.22,
+      427.03
+    ],
+    "text": "While the petitioner possesses the above qualifications, the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.22,
+      434.09,
+      455.62,
+      448.15
+    ],
+    "text": "32nd respondent does not possess the qualifications.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      467.21,
+      500.67,
+      481.21
+    ],
+    "text": "The petitioner says that the 32nd respondent does not possess",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      488.33,
+      500.7,
+      502.33
+    ],
+    "text": "required qualifications in two respects: the 32nd respondent does",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      509.45,
+      500.54,
+      523.45
+    ],
+    "text": "not have a post graduate degree in Buddhist Studies, and also",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      530.57,
+      462.82,
+      544.57
+    ],
+    "text": "he does not have a good knowledge of oriental languages.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      563.81,
+      504.58,
+      577.81
+    ],
+    "text": "On what material does the petitioner come to that conclusion?",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      584.96,
+      500.69,
+      599.02
+    ],
+    "text": "That is by looking at the curriculum vitae cum the mission",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      606.08,
+      500.7,
+      620.08
+    ],
+    "text": "statement of the 32nd respondent tendered to the University",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      627.2,
+      428.47,
+      641.2
+    ],
+    "text": "Council marked P5 as part of the selection process.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      660.32,
+      500.74,
+      674.32
+    ],
+    "text": "The petitioner states that according to P5, both the 32nd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      681.43,
+      500.74,
+      695.44
+    ],
+    "text": "respondents post graduate qualificationsM.Phil and Ph.Dare",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      702.55,
+      500.66,
+      716.56
+    ],
+    "text": "in the field of Education and Sociology and not in the field of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      102.24,
+      500.74,
+      116.24
+    ],
+    "text": "Buddhist Studies. This is disputed by the respondentsthe",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      123.36,
+      500.74,
+      137.42
+    ],
+    "text": "University Council, the Uththarithara Sabhawa and the 32nd",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      144.48,
+      306.53,
+      158.48
+    ],
+    "text": "respondent in their objections.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      177.6,
+      500.56,
+      191.6
+    ],
+    "text": "The title of the thesis successfully submitted to the university in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      198.84,
+      500.74,
+      212.84
+    ],
+    "text": "fulfilment of the requirements of the M.Phil degree of the 32nd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      219.96,
+      500.49,
+      234.02
+    ],
+    "text": "respondent when translated into English is titled: The",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      241.11,
+      500.19,
+      255.17
+    ],
+    "text": "Educational Value of the Concept of Management as reflected in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      262.23,
+      500.67,
+      276.29
+    ],
+    "text": "Buddhism. The 32nd respondent whilst tendering a copy of the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      283.35,
+      460.42,
+      297.35
+    ],
+    "text": "thesis marked 32R1, in his statement of objections states:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      316.47,
+      500.25,
+      330.53
+    ],
+    "text": "This research is based on a deep and comprehensive",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      337.59,
+      500.14,
+      351.65
+    ],
+    "text": "research of Sutta Pitakaya and Vinaya Pitakaya. In this",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      358.71,
+      500.4,
+      372.77
+    ],
+    "text": "research Buddhist thoughts, values and concepts related to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      379.83,
+      500.24,
+      393.89
+    ],
+    "text": "Management concepts were researched through a deep",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      400.95,
+      500.17,
+      415.01
+    ],
+    "text": "study of Sutta Pitakaya and Vinaya Pitakaya. I dealt",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      422.09,
+      500.2,
+      436.15
+    ],
+    "text": "with how the modern Management concepts could be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      443.33,
+      500.2,
+      457.39
+    ],
+    "text": "shaped and developed utilizing the Buddhist thoughts",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      464.45,
+      458.26,
+      478.51
+    ],
+    "text": "reflected in Sutta Pitakaya and Vinaya Pitakaya.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      497.57,
+      500.54,
+      511.57
+    ],
+    "text": "The title of the thesis successfully submitted to the university in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      518.69,
+      500.74,
+      532.69
+    ],
+    "text": "fulfilment of the requirements of the Ph.D degree of the 32nd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      539.81,
+      500.43,
+      553.87
+    ],
+    "text": "respondent when translated into English is titled: The Concept",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      560.93,
+      500.42,
+      574.99
+    ],
+    "text": "of Socialization as depicted in Early BuddhismAn Analytical",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      582.08,
+      500.53,
+      596.14
+    ],
+    "text": "Study. Whilst tendering a copy of the thesis marked 32R6, the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      603.2,
+      500.54,
+      617.2
+    ],
+    "text": "32nd respondent in his statement of objections states in this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      624.32,
+      221.57,
+      638.32
+    ],
+    "text": "regard as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      657.56,
+      500.23,
+      671.62
+    ],
+    "text": "Samajanuyojanaya means the way of adopting new",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      678.68,
+      500.34,
+      692.74
+    ],
+    "text": "members of society in accordance with such society. In this",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      699.79,
+      500.19,
+      713.86
+    ],
+    "text": "research it was studied through the Sutta Pitakaya and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      102.24,
+      500.34,
+      116.3
+    ],
+    "text": "Vinaya Pitakaya how Buddhist thoughts and concepts",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      123.36,
+      500.19,
+      137.42
+    ],
+    "text": "and principles have addressed this Samajanuyojanaya",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      144.48,
+      500.22,
+      158.54
+    ],
+    "text": "concept. Therefore this research too is based on a deep and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      165.6,
+      500.25,
+      179.66
+    ],
+    "text": "comprehensive research of Sutta Pitakaya and Vinaya",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      186.72,
+      500.2,
+      200.78
+    ],
+    "text": "Pitakaya. The analysis is made under the following",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      207.96,
+      500.49,
+      222.02
+    ],
+    "text": "chapters which are reproduced below for convenience of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      229.08,
+      189.86,
+      243.14
+    ],
+    "text": "Court.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      262.23,
+      263.33,
+      276.29
+    ],
+    "text": "(1) Introduction",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      283.35,
+      336.31,
+      297.41
+    ],
+    "text": "(2) Buddhist Concept of Man",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      304.47,
+      352.15,
+      318.53
+    ],
+    "text": "(3) Buddhist Concept of Society",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      325.59,
+      395.95,
+      339.65
+    ],
+    "text": "(4) Buddhist Concept of Socialization/",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187.22,
+      346.71,
+      308.93,
+      360.77
+    ],
+    "text": "Samajanuyojanaya",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      367.83,
+      411.14,
+      381.89
+    ],
+    "text": "(5) Uttara and Ati Uttara Pawrusheeya",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187.22,
+      388.95,
+      484.75,
+      403.01
+    ],
+    "text": "Samajanuyojanaya: In this chapter it was studied",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187.22,
+      410.09,
+      477.84,
+      424.15
+    ],
+    "text": "that how people are shaped and introduced to the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187.22,
+      431.21,
+      494.12,
+      445.27
+    ],
+    "text": "society and the path which they ought to be followed",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187.22,
+      452.33,
+      471.75,
+      466.39
+    ],
+    "text": "to attain Nibbana after they enter the Buddhist",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      187.22,
+      473.45,
+      224.69,
+      487.51
+    ],
+    "text": "order.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      506.57,
+      500.4,
+      520.63
+    ],
+    "text": "Therefore the 32nd respondent states that My M.Phil and Ph.D",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      527.81,
+      463.78,
+      541.87
+    ],
+    "text": "are directly connected to Buddhist Studies and philosophy.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      560.93,
+      500.52,
+      574.93
+    ],
+    "text": "I must stress that this has not been denied by the respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      582.08,
+      428.95,
+      596.14
+    ],
+    "text": "University Council and the Uththarithara Sabhawa.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      615.2,
+      500.74,
+      629.2
+    ],
+    "text": "It is significant to note that, according to section 7(1)(b), the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      636.32,
+      500.29,
+      650.38
+    ],
+    "text": "applicant shall have a post-graduate degree in Buddhist Studies",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      657.44,
+      500.73,
+      671.5
+    ],
+    "text": "or in any other subject connected thereto. Therefore, even",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      678.56,
+      500.56,
+      692.56
+    ],
+    "text": "assuming not conceding that the postgraduate degrees of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      699.79,
+      500.63,
+      713.8
+    ],
+    "text": "32nd respondent are not directly in Buddhist Studies, they are at",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "7",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      102.24,
+      500.67,
+      116.24
+    ],
+    "text": "least connected to Buddhist Studies. Hence, the contention of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      123.36,
+      500.69,
+      137.36
+    ],
+    "text": "the petitioner that the 32nd respondent does not have a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      144.48,
+      500.56,
+      158.48
+    ],
+    "text": "postgraduate degree in Buddhist Studies and therefore he is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      165.6,
+      500.7,
+      179.66
+    ],
+    "text": "disqualified to be selected as Mahopadyaya is misconceived both",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      186.84,
+      209.81,
+      200.84
+    ],
+    "text": "in law and fact.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      219.96,
+      500.7,
+      233.96
+    ],
+    "text": "The next point of the petitioner is that the 32nd respondent does",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      241.11,
+      500.54,
+      255.11
+    ],
+    "text": "not have a good knowledge of oriental languages as, according to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      262.23,
+      500.67,
+      276.29
+    ],
+    "text": "the curriculum vitae marked P5, the 32nd respondent has only",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      283.35,
+      500.7,
+      297.35
+    ],
+    "text": "Grade B for Pali in G.C.E. (A/L) examination, and has obtained",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      304.47,
+      500.63,
+      318.53
+    ],
+    "text": "only the Pracheena Praramba qualifications at the G.C.E. (O/L)",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      325.59,
+      439.03,
+      339.59
+    ],
+    "text": "and (A/L) examinations for Sinhala, Pali and Sanskrit.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      358.71,
+      500.67,
+      372.71
+    ],
+    "text": "It is noteworthy that, according to section 7(1)(b), the applicant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      379.83,
+      500.72,
+      393.89
+    ],
+    "text": "shall only possess a good knowledge of oriental languages. The",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      401.07,
+      504.4,
+      415.07
+    ],
+    "text": "applicant need not have paper qualifications for that purpose.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      422.21,
+      500.71,
+      436.21
+    ],
+    "text": "Hence, the contention of the petitioner that the 32nd respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      443.33,
+      500.7,
+      457.33
+    ],
+    "text": "does not have a good knowledge of oriental languages based on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      464.45,
+      500.61,
+      478.51
+    ],
+    "text": "the curriculum vitae and therefore he is disqualified to be",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      485.57,
+      500.59,
+      499.63
+    ],
+    "text": "selected as Mahopadyaya is also misconceived both in law and",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      506.69,
+      144.5,
+      520.69
+    ],
+    "text": "fact.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      539.81,
+      500.49,
+      553.81
+    ],
+    "text": "It is relevant to note that in terms of section 7(2)(iii), the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      560.93,
+      500.7,
+      574.99
+    ],
+    "text": "Uththarithara Sabhawa shall examine the educational and other",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      582.08,
+      500.62,
+      596.08
+    ],
+    "text": "qualifications of the Bhikku applicants and select and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      603.2,
+      500.55,
+      617.2
+    ],
+    "text": "recommend the name of one Bhikku applicant to the President",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      624.44,
+      318.05,
+      638.5
+    ],
+    "text": "to be appointed as Mahopadyaya.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      657.56,
+      500.7,
+      671.62
+    ],
+    "text": "What are the other qualifications the 32nd respondent possess,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      678.68,
+      500.74,
+      692.68
+    ],
+    "text": "which the petitioner in paragraph 15 of the counter affidavit",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      699.79,
+      224.69,
+      713.86
+    ],
+    "text": "says irrelevant.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "8",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      102.24,
+      268.25,
+      116.24
+    ],
+    "text": "The 32nd respondent has:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      133.22,
+      129.36,
+      500.74,
+      143.36
+    ],
+    "text": "(1) At that time completed 37 years after higher ordination",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      150.48,
+      500.56,
+      164.48
+    ],
+    "text": "(whereas according to section 7(1)(b) the applicant shall",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      171.6,
+      272.21,
+      185.6
+    ],
+    "text": "have only 20 years).",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      133.22,
+      198.72,
+      500.66,
+      212.72
+    ],
+    "text": "(2) Joined the 1st respondent Bikku University as a",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      219.96,
+      500.65,
+      233.96
+    ],
+    "text": "Temporary Lecturer and rose to the post of Senior",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      241.11,
+      258.77,
+      255.11
+    ],
+    "text": "Lecturer Grade 1.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      133.22,
+      268.23,
+      500.69,
+      282.23
+    ],
+    "text": "(3) Served in the said university as the acting Vice Chancellor",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      289.35,
+      277.97,
+      303.35
+    ],
+    "text": "more than ten times.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      133.22,
+      322.47,
+      500.53,
+      336.47
+    ],
+    "text": "(4) Served as the Dean of the Faculty of Language and",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      343.59,
+      344.95,
+      357.59
+    ],
+    "text": "Cultural Studies for three years.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      133.22,
+      376.71,
+      500.74,
+      390.71
+    ],
+    "text": "(5) Served as the Head of the Department of Social Studies",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      397.83,
+      307.25,
+      411.83
+    ],
+    "text": "and Comparative Studies.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      133.22,
+      430.97,
+      500.55,
+      444.97
+    ],
+    "text": "(6) Served as a Member of both University Council and the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      452.09,
+      198.77,
+      466.09
+    ],
+    "text": "Senate.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      133.22,
+      485.21,
+      328.39,
+      499.21
+    ],
+    "text": "(7) Served as a Student Counsel.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      133.22,
+      518.33,
+      500.55,
+      532.33
+    ],
+    "text": "(8) Served as a Member or Chairman in many Committees",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      539.45,
+      500.74,
+      553.45
+    ],
+    "text": "such as Finance Committee, Leave Committee, Accounting",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      560.57,
+      500.74,
+      574.57
+    ],
+    "text": "Committee, Mahapola Aramudala Committee,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      581.84,
+      500.74,
+      595.84
+    ],
+    "text": "Examination Branch, External Exam Committee,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      602.96,
+      500.7,
+      616.96
+    ],
+    "text": "Examination Fraud Investigating Committee, Examination",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      624.08,
+      500.74,
+      638.08
+    ],
+    "text": "Reforms Committee, Research and Publication Committee,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      645.2,
+      427.27,
+      659.2
+    ],
+    "text": "Library Committee, Post Graduate Committee.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      678.32,
+      500.67,
+      692.38
+    ],
+    "text": "According to section 7(4) of the Act, Mahopadyaya shall be the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      699.43,
+      500.73,
+      713.44
+    ],
+    "text": "Chief Executive Officer and the Chief Academic Officer of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "9",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      102.24,
+      500.49,
+      116.24
+    ],
+    "text": "Bikku University, and that may be the reason why the Act",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      123.36,
+      500.67,
+      137.42
+    ],
+    "text": "provides that the Uththarithara Sabhawa shall examine not only",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      144.48,
+      500.74,
+      158.48
+    ],
+    "text": "the educational qualifications but also the other qualifications of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      165.6,
+      477.46,
+      179.6
+    ],
+    "text": "the Bhikku applicants in selecting one for the said position.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      198.84,
+      500.67,
+      212.84
+    ],
+    "text": "In between the petitioner and the 32nd respondent, there is no",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      219.96,
+      500.63,
+      233.96
+    ],
+    "text": "dispute that the 32nd respondent is more senior and more",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      241.11,
+      306.29,
+      255.11
+    ],
+    "text": "experienced than the petitioner.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      274.23,
+      500.4,
+      288.29
+    ],
+    "text": "I see nothing wrong in the decision taken by the Uththarithara",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      295.35,
+      500.69,
+      309.41
+    ],
+    "text": "Sabhawa to select and recommend the 32nd respondent for the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      316.47,
+      500.73,
+      330.53
+    ],
+    "text": "post of Mahopadyaya of the 1st respondent university. There is",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      337.59,
+      500.59,
+      351.59
+    ],
+    "text": "absolutely no error of law on the face of the record to quash that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      358.71,
+      500.66,
+      372.71
+    ],
+    "text": "decision by way of writ of certiorari. There is no substantive or",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      379.83,
+      339.91,
+      393.89
+    ],
+    "text": "procedural ultra vires in that process.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      413.09,
+      500.55,
+      427.09
+    ],
+    "text": "This Court in the guise of exercising writ jurisdiction cannot",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      434.21,
+      500.74,
+      448.27
+    ],
+    "text": "usurp the powers vested by law in the Uththarithara Sabhawa",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      455.33,
+      500.74,
+      469.33
+    ],
+    "text": "and reassess the qualifications of the petitioner and the 32nd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      476.45,
+      444.31,
+      490.45
+    ],
+    "text": "respondent and select the better one for the said post.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      509.57,
+      500.5,
+      523.57
+    ],
+    "text": "Is it reasonable for the petitioner to expect this Court to read the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      530.69,
+      500.63,
+      544.69
+    ],
+    "text": "theses of the 32nd respondent and decide whether the latters",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      551.81,
+      500.74,
+      565.81
+    ],
+    "text": "post-graduate degrees are in Buddhist Studies or in any other",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      572.96,
+      500.64,
+      586.96
+    ],
+    "text": "subject connected thereto? This Court without specialized",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      594.08,
+      500.73,
+      608.08
+    ],
+    "text": "knowledge and skills is ill equipped to decide them. On the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      615.2,
+      500.57,
+      629.2
+    ],
+    "text": "other hand, what is the proof before this Court that the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      636.32,
+      500.67,
+      650.32
+    ],
+    "text": "petitioners post-graduate degrees are in Buddhist Studies or in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      657.56,
+      500.73,
+      671.62
+    ],
+    "text": "any other subject connected thereto except his ipse dixit in",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      678.68,
+      500.61,
+      692.68
+    ],
+    "text": "paragraph 15(ii) of the petition and corresponding affidavit that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      298.61,
+      47.98,
+      317.33,
+      61.98
+    ],
+    "text": "10",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      102.24,
+      500.46,
+      116.3
+    ],
+    "text": "While I possess the above qualifications, the 32nd respondent",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      123.36,
+      330.79,
+      137.42
+    ],
+    "text": "does not possess the qualifications?",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      156.48,
+      500.63,
+      170.48
+    ],
+    "text": "Under judicial review, this Court, unless there is an obvious",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      177.72,
+      500.66,
+      191.72
+    ],
+    "text": "error on the face of the record, will not overturn a decision on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      198.84,
+      500.52,
+      212.84
+    ],
+    "text": "merits.1 In any event, this is not possible when the facts are in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      219.96,
+      262.37,
+      233.96
+    ],
+    "text": "dispute as in this case.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      253.11,
+      500.17,
+      267.17
+    ],
+    "text": "In Kalamazoo Industries Ltd v. Minister of Labour & Vocational",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      274.23,
+      500.56,
+      288.29
+    ],
+    "text": "Training2, the petitioners sought to quash the arbitral award by",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      295.35,
+      500.59,
+      309.35
+    ],
+    "text": "certiorari and prohibition. Dismissing that application,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      316.47,
+      297.17,
+      330.53
+    ],
+    "text": "Jayasuriya J. inter alia stated:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      349.59,
+      500.14,
+      363.65
+    ],
+    "text": "There is no misdirection in point of fact or law which",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      370.71,
+      500.5,
+      384.77
+    ],
+    "text": "vitiates the award. There is no failure on the part of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      391.95,
+      500.16,
+      406.01
+    ],
+    "text": "arbitrator to take into consideration the effect of the totality",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      413.09,
+      500.18,
+      427.15
+    ],
+    "text": "of the oral and documentary evidence placed before him",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      434.21,
+      500.17,
+      448.27
+    ],
+    "text": "and there is no improper evaluation of the evidence placed",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      455.33,
+      500.17,
+      469.39
+    ],
+    "text": "before the arbitrator on a consideration of the award and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      476.45,
+      500.29,
+      490.51
+    ],
+    "text": "the totality of the evidence placed before him in this matter.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      497.57,
+      500.17,
+      511.63
+    ],
+    "text": "This court must keep prominently in forefront that it is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      518.69,
+      500.17,
+      532.75
+    ],
+    "text": "exercising in this instance a very limited jurisdiction quite",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      539.81,
+      500.16,
+      553.87
+    ],
+    "text": "distinct from the exercise of appellate jurisdiction. Relief by",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      560.93,
+      500.34,
+      574.99
+    ],
+    "text": "way of certiorari in relation to an award made by an",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      582.08,
+      500.16,
+      596.14
+    ],
+    "text": "arbitrator will be forthcoming to quash such an award only",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      603.2,
+      500.18,
+      617.26
+    ],
+    "text": "if the arbitrator wholly or in part assumes a jurisdiction",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      624.32,
+      500.2,
+      638.38
+    ],
+    "text": "which he does not have or exceeds that which he has or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      645.44,
+      500.49,
+      659.5
+    ],
+    "text": "acts contrary to principles of natural justice or pronounces",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      684.91,
+      490.81,
+      720.06
+    ],
+    "text": "1 Vide my Judgment in Chithrasiri v. National Gem and Jewellery Authority, CA/WRIT/38/2016 decided on 31.05.2018 2 [1998] 1 Sri LR 235 at 248-249",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      298.61,
+      47.98,
+      317.33,
+      61.98
+    ],
+    "text": "11",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      102.24,
+      500.19,
+      116.3
+    ],
+    "text": "an award which is eminently irrational or unreasonable or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      123.36,
+      500.16,
+      137.42
+    ],
+    "text": "is guilty of an illegality. The remedy by way of certiorari",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      144.48,
+      500.17,
+      158.54
+    ],
+    "text": "cannot be made use of to correct errors or to substitute a",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      165.6,
+      500.18,
+      179.66
+    ],
+    "text": "correct order for a wrong order and if the arbitrator's award",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      186.72,
+      500.23,
+      200.78
+    ],
+    "text": "was not set aside in whole or in part, it had to be allowed",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      207.96,
+      500.18,
+      222.02
+    ],
+    "text": "to stand unreversed. It is pertinent to refer to the principles",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      229.08,
+      500.13,
+      243.14
+    ],
+    "text": "laid down by Prof. H. W. R. Wade on \"Administrative Law\"",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      250.23,
+      500.18,
+      264.29
+    ],
+    "text": "12th edition at pages 34 to 35 wherein the learned author",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      271.35,
+      500.31,
+      285.41
+    ],
+    "text": "states: \"Judicial review is radically different from the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      292.47,
+      500.2,
+      306.53
+    ],
+    "text": "system of appeals. When hearing an appeal, the court is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      313.59,
+      500.2,
+      327.65
+    ],
+    "text": "concerned with the merits of the decision under appeal. But",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      334.71,
+      500.19,
+      348.77
+    ],
+    "text": "in judicial review, the court is concerned with its legality.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      355.83,
+      500.45,
+      369.89
+    ],
+    "text": "On appeal, the question is right or wrong. On review, the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      376.95,
+      500.18,
+      391.01
+    ],
+    "text": "question is lawful or unlawful..judicial review is a",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      398.07,
+      500.2,
+      412.13
+    ],
+    "text": "fundamentally different operation. Instead of substituting",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      419.21,
+      500.17,
+      433.27
+    ],
+    "text": "its own decision for that of some other body, as happens",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      440.33,
+      500.13,
+      454.39
+    ],
+    "text": "when an appeal is allowed, a court, on review, is concerned",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      461.45,
+      500.33,
+      475.51
+    ],
+    "text": "only with whether the act or order under attack should be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      482.57,
+      500.19,
+      496.63
+    ],
+    "text": "allowed to stand or not\". In the circumstances the objective",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      503.81,
+      500.16,
+      517.87
+    ],
+    "text": "of this court upon judicial review in this application is to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      524.93,
+      500.13,
+      538.99
+    ],
+    "text": "strictly consider whether the whole or part of the award of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      546.05,
+      500.33,
+      560.11
+    ],
+    "text": "the arbitrator is lawful or unlawful. This court ought not to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      567.17,
+      500.22,
+      581.23
+    ],
+    "text": "exercise its appellate powers and jurisdiction when",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      588.32,
+      500.23,
+      602.38
+    ],
+    "text": "engaged in the exercise of supervisory jurisdiction and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      609.44,
+      406.87,
+      623.5
+    ],
+    "text": "judicial review of an award of an arbitrator.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      642.56,
+      500.19,
+      656.62
+    ],
+    "text": "In Public Interest Law Foundation v. Central Environmental",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      663.68,
+      314.22,
+      677.74
+    ],
+    "text": "Authority3 Gunawardana J. held:",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      708.43,
+      255.72,
+      720.06
+    ],
+    "text": "3 [2001] 3 Sri LR 330 at 334",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      298.61,
+      47.98,
+      317.33,
+      61.98
+    ],
+    "text": "12",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      102.24,
+      500.16,
+      116.3
+    ],
+    "text": "There is a distinction between appeal and review. If one",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      123.36,
+      500.2,
+      137.42
+    ],
+    "text": "appeals against a decision, one is claiming that the decision",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      144.48,
+      500.24,
+      158.54
+    ],
+    "text": "is wrong and that appellate authority or court should",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      165.6,
+      500.17,
+      179.66
+    ],
+    "text": "change the decision. The Court of Appeal, if it is persuaded",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      186.72,
+      500.19,
+      200.78
+    ],
+    "text": "by the merits of the case (appeal), may allow the appeal",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      207.96,
+      500.18,
+      222.02
+    ],
+    "text": "and thereby substitute its view for that of the Court or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      229.08,
+      500.2,
+      243.14
+    ],
+    "text": "tribunal of first instance. Under judicial review procedure,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      250.23,
+      500.19,
+      264.29
+    ],
+    "text": "the Court of Appeal is not concerned with the merits of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      271.35,
+      500.29,
+      285.41
+    ],
+    "text": "case, that is, whether the decision was right or wrong, but",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      292.47,
+      500.16,
+      306.53
+    ],
+    "text": "whether the decision is lawful or not. In the words of Lord",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      313.59,
+      500.19,
+      327.65
+    ],
+    "text": "Brightman: \"Judicial review is concerned, not with the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      334.71,
+      500.22,
+      348.77
+    ],
+    "text": "decision but with the decision making process\" (Chief",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      355.83,
+      500.49,
+      369.89
+    ],
+    "text": "Constable of North Wales Police v. Evans [1982] 1 WLR",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      376.95,
+      500.28,
+      391.01
+    ],
+    "text": "1155 at 1173) It is worth observing that the review",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      398.07,
+      500.19,
+      412.13
+    ],
+    "text": "procedure is not well suited to determination of disputed",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      419.21,
+      500.19,
+      433.27
+    ],
+    "text": "facts-factual issues arising in this case being imprecise and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      440.33,
+      208.85,
+      454.39
+    ],
+    "text": "disputed.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      473.45,
+      500.66,
+      487.45
+    ],
+    "text": "This application of the petitioner is clearly devoid of merit. Even",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      494.57,
+      500.74,
+      508.63
+    ],
+    "text": "though the decision was taken by the Uththarithara Sabhawa to",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      515.81,
+      500.74,
+      529.81
+    ],
+    "text": "select and recommend the 32nd respondent for the above post as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      536.93,
+      500.63,
+      550.93
+    ],
+    "text": "far back as on 16.06.2015, formal appointment could not be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      558.05,
+      500.63,
+      572.11
+    ],
+    "text": "made because of the ex parte interim order obtained by the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      579.2,
+      500.59,
+      593.2
+    ],
+    "text": "petitioner from the previous Bench of this Court on 06.10.2015,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      600.32,
+      500.44,
+      614.32
+    ],
+    "text": "which is still in operation. This is a huge, if not irreparable, loss",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      621.44,
+      467.74,
+      635.44
+    ],
+    "text": "to the 32nd respondent, who is to retire in a few years time.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      654.56,
+      500.52,
+      668.56
+    ],
+    "text": "I dismiss the application of the petitioner. The petitioner shall",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      675.68,
+      500.74,
+      689.68
+    ],
+    "text": "pay a sum of Rs.200,000/= as costs of the action to the 32nd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      696.79,
+      188.9,
+      710.8
+    ],
+    "text": "respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      298.61,
+      47.98,
+      317.33,
+      61.98
+    ],
+    "text": "13",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      135.36,
+      287.09,
+      149.36
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

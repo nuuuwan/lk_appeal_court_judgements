@@ -1,0 +1,791 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      158.42,
+      71.99,
+      458.22,
+      88.35
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      116.42,
+      96.59,
+      500.47,
+      112.95
+    ],
+    "text": "DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      170.64,
+      410.95,
+      184.64
+    ],
+    "text": "E.M. Sumanadasa,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      191.76,
+      419.83,
+      205.76
+    ],
+    "text": "Ambagahakumbura,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      212.88,
+      409.75,
+      226.88
+    ],
+    "text": "Kabillawala South,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      234.0,
+      379.51,
+      248.0
+    ],
+    "text": "Bandarawela.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      255.15,
+      440.11,
+      269.15
+    ],
+    "text": "7th Defendant-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      297.39,
+      308.45,
+      311.37
+    ],
+    "text": "CA CASE NO: CA/440/2000/F",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      318.51,
+      339.91,
+      332.49
+    ],
+    "text": "DC BANDARAWELA CASE NO: 90/P",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      372.75,
+      317.57,
+      386.75
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      415.01,
+      405.19,
+      429.01
+    ],
+    "text": "R.M. Gunasekera,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      436.25,
+      419.83,
+      450.25
+    ],
+    "text": "Ambagahakumbura,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      457.37,
+      409.75,
+      471.37
+    ],
+    "text": "Kabillawala South,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      478.49,
+      375.67,
+      492.49
+    ],
+    "text": "Bandarawela",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      499.61,
+      418.63,
+      513.61
+    ],
+    "text": "Plaintiff-Respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      520.73,
+      467.38,
+      534.73
+    ],
+    "text": "And several other Defendant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      541.85,
+      374.71,
+      555.85
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      605.24,
+      370.15,
+      619.24
+    ],
+    "text": "Before: Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      632.36,
+      462.7,
+      646.36
+    ],
+    "text": "Counsel: Athula Perera for the 7th Defendant-Appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      653.48,
+      440.71,
+      667.48
+    ],
+    "text": "Jacob Joshep for the Plaintiff-Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      674.6,
+      174.26,
+      688.6
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      695.71,
+      263.09,
+      709.72
+    ],
+    "text": "Decided on: 14.01.2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      102.24,
+      242.45,
+      116.24
+    ],
+    "text": "Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      135.36,
+      500.59,
+      149.36
+    ],
+    "text": "The 7th defendant-appellant has filed this appeal against the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      156.48,
+      500.55,
+      170.48
+    ],
+    "text": "Judgment of the District Court of Bandarawela dated",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      177.6,
+      190.1,
+      191.6
+    ],
+    "text": "16.08.2000.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      210.72,
+      500.47,
+      224.72
+    ],
+    "text": "In the petition of appeal, the appellant has sought to exclude Lot",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      231.96,
+      396.31,
+      245.96
+    ],
+    "text": "3 in the Preliminary Plan marked X at the trial.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      265.11,
+      500.5,
+      279.11
+    ],
+    "text": "The learned counsel for the appellant before this Court makes",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      286.23,
+      500.54,
+      300.23
+    ],
+    "text": "submissions seeking exclusion of Lot 4 in Plan marked 7V1 at",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      307.35,
+      177.14,
+      321.35
+    ],
+    "text": "the trial.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      340.47,
+      500.46,
+      354.47
+    ],
+    "text": "The Plan marked 7V1 is not the Preliminary Plan. Lot 4 of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      361.59,
+      500.67,
+      375.59
+    ],
+    "text": "Plan marked 7V1 has not been superimposed on the Preliminary",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      382.71,
+      368.71,
+      396.71
+    ],
+    "text": "Plan to identify the portion to be excluded.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      415.85,
+      500.54,
+      429.85
+    ],
+    "text": "More importantly, no issue has been raised by the appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      436.97,
+      500.56,
+      450.97
+    ],
+    "text": "regarding exclusion (or any other matter) at the trial",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      458.09,
+      500.56,
+      472.09
+    ],
+    "text": "notwithstanding the appellant has been represented by a senior",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      479.21,
+      500.56,
+      493.21
+    ],
+    "text": "counsel, who has expressly stated, according to the proceedings,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      500.33,
+      500.48,
+      514.33
+    ],
+    "text": "that no issue would be raised on behalf of the appellant. If such",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      521.45,
+      500.5,
+      535.45
+    ],
+    "text": "an issue has not been raised at the trial, it is elementary that no",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      542.57,
+      500.74,
+      556.57
+    ],
+    "text": "such position seeking exclusion of a part of the corpus can be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      563.81,
+      332.47,
+      577.81
+    ],
+    "text": "taken up for the first time in appeal.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      596.96,
+      500.46,
+      610.96
+    ],
+    "text": "This is the only point raised by the learned counsel for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      618.08,
+      360.79,
+      632.08
+    ],
+    "text": "appellant during the course of argument.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      651.2,
+      500.48,
+      665.2
+    ],
+    "text": "This appeal is clearly devoid of merit. I dismiss the appeal with",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      672.32,
+      152.9,
+      686.32
+    ],
+    "text": "costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      135.36,
+      287.09,
+      149.36
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

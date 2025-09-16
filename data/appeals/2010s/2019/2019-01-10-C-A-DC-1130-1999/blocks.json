@@ -1,0 +1,2852 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      90.02,
+      38.04,
+      507.92,
+      62.52
+    ],
+    "text": "1",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      125.9,
+      72.35,
+      472.86,
+      87.89
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      169.7,
+      89.75,
+      429.25,
+      105.29
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      88.7,
+      170.27,
+      193.76,
+      185.81
+    ],
+    "text": "C. A. 1130/99 (F)",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      88.7,
+      195.95,
+      245.45,
+      210.3
+    ],
+    "text": "D. C. Ratnapura No. 10468/P",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      339.31,
+      138.61,
+      503.86,
+      183.57
+    ],
+    "text": "Pallege Arachchillage Gunaratne, Epitawala, Kiriella.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      339.31,
+      186.49,
+      551.16,
+      246.96
+    ],
+    "text": "PLAINTIFF VS",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.31,
+      247.48,
+      483.81,
+      260.76
+    ],
+    "text": "1. Pallege Arachchillage",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.31,
+      261.28,
+      547.32,
+      302.16
+    ],
+    "text": "Sumanasekera, Epitawala, Kiriella. 2. Imiyahamillage Jinadasa,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      339.31,
+      302.68,
+      491.98,
+      371.16
+    ],
+    "text": "Epitawala, Kiriella. 2A.Nimalawathie Jinadasa, Epitawala, Kiriella.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.31,
+      371.68,
+      505.29,
+      384.96
+    ],
+    "text": "3. Rupasinghe Arachchillage",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      339.31,
+      385.48,
+      488.98,
+      426.38
+    ],
+    "text": "Darmasiri Rupasinghe, Mdawala, Ellagawa.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.31,
+      426.9,
+      502.45,
+      440.18
+    ],
+    "text": "4. Dassanayaka Lekamalage",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.31,
+      440.7,
+      544.68,
+      495.38
+    ],
+    "text": "Sumanawathie Gunaratne Menike, Epitawaala, Kiriella. 5. Dassanayake Lekamalage",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.31,
+      495.9,
+      531.34,
+      550.58
+    ],
+    "text": "Chandrasiri, Epitawala, Kiriella. 6. Pallege Arachchilage Janenona,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      339.31,
+      551.1,
+      470.02,
+      619.61
+    ],
+    "text": "Epitiwala, Kiriella. 6A.Amis Wettasinghe Epitawala, Kiriella",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.31,
+      620.13,
+      547.32,
+      633.41
+    ],
+    "text": "7. Dassanayake Lekamalage Kulasiri,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.31,
+      633.93,
+      493.3,
+      674.93
+    ],
+    "text": "Epitawala, Kiriella. 8. Barallage Amis Singho,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.31,
+      677.49,
+      523.6,
+      722.57
+    ],
+    "text": "Epitawala, Kiriella. 9. Kurugala Arachchillage Sarlis",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      375.31,
+      725.11,
+      470.02,
+      754.27
+    ],
+    "text": "Singho, Epitiwala, Kiriella.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      466.78,
+      756.95,
+      551.16,
+      784.03
+    ],
+    "text": "DEFENDANTS",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      38.04,
+      507.92,
+      62.52
+    ],
+    "text": "2",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.47,
+      69.01,
+      379.51,
+      82.29
+    ],
+    "text": "AND",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.47,
+      114.61,
+      515.02,
+      159.69
+    ],
+    "text": "Pallege Arachchillage Gunaratne, Epitawala, Kiriella. (Deceased)",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.47,
+      162.49,
+      550.32,
+      191.25
+    ],
+    "text": "PLAINTIFF-APPELLANT",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.47,
+      201.01,
+      530.54,
+      214.29
+    ],
+    "text": "1A. Pallage Arachchillage Yathindra",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.47,
+      215.89,
+      531.32,
+      273.84
+    ],
+    "text": "Gunaratne, Epitiwala, Kiriella. 1B. Pallege Arachchillage Chandima",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.47,
+      275.44,
+      549.72,
+      348.36
+    ],
+    "text": "Gunaratne, No. 173/10, 3rd Lane, Elsmoruwatta, Ingiriya. 1C. Pallege Arachchillage Chintha",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.47,
+      349.96,
+      534.1,
+      407.77
+    ],
+    "text": "Nandani Gunaratne, No. 156, 4th Lane, Elsmoruwatta, Ingiriya",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      390.55,
+      417.78,
+      547.24,
+      431.06
+    ],
+    "text": "SUBSTITUTED-PLAINTIFF-",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      467.98,
+      432.54,
+      550.32,
+      445.82
+    ],
+    "text": "APPELLANTS",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.47,
+      478.38,
+      371.83,
+      491.66
+    ],
+    "text": "VS",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      368.47,
+      500.94,
+      494.97,
+      514.22
+    ],
+    "text": "1. Pallege Arachchillage",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      368.47,
+      514.74,
+      515.66,
+      569.43
+    ],
+    "text": "Sumanasekera, Epitawala, Kiriella. 2. Imiyahamillage Jinadasa,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.47,
+      569.97,
+      520.33,
+      652.25
+    ],
+    "text": "Epitawala, Kiriella. 2A. Nimalawathie Jinadasa, Epitawala, Kiriella. 2AA. Imiya Hamillage Athula",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.47,
+      652.77,
+      489.1,
+      693.65
+    ],
+    "text": "Ravindra Epitawala, Kiriella.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      368.47,
+      694.17,
+      516.45,
+      707.45
+    ],
+    "text": "3. Rupasinghe Arachchillage",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      350.47,
+      707.97,
+      500.14,
+      748.87
+    ],
+    "text": "Darmasiri Rupasinghe, Mdawala, Ellagawa.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      368.47,
+      749.39,
+      513.61,
+      762.67
+    ],
+    "text": "4. Dassanayaka Lekamalage",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      386.47,
+      763.19,
+      513.02,
+      790.27
+    ],
+    "text": "Sumanawathie Gunaratne Menike, (Deceased)",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,BoldItalic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      38.04,
+      507.92,
+      62.52
+    ],
+    "text": "3",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      356.11,
+      76.69,
+      516.62,
+      89.97
+    ],
+    "text": "4A. Dissanayake Mudiyansalage",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      356.11,
+      90.49,
+      515.9,
+      131.37
+    ],
+    "text": "Ranjith Dissanayake, 4B. Dissanayake Mudiyansalage",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      356.11,
+      131.89,
+      515.89,
+      172.77
+    ],
+    "text": "Nihal Dissanayake, 4C. Dissanayake Mudiyansalage",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      356.11,
+      173.29,
+      516.61,
+      214.17
+    ],
+    "text": "Nimal Dissanayake, 4D. Dissanayake Mudiyansalage",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      356.11,
+      214.69,
+      515.29,
+      255.6
+    ],
+    "text": "Sarath Dissanayake, 4E. Dissanayake Mudiyansalage",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      356.11,
+      256.12,
+      520.66,
+      297.0
+    ],
+    "text": "Chandrakumara Dissanayake 4F. Dissanayake Mudiyansalage",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      334.75,
+      297.52,
+      469.66,
+      324.6
+    ],
+    "text": "Neel Dissanayake,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      334.75,
+      325.12,
+      505.3,
+      352.2
+    ],
+    "text": "All of Epitawala, Kiriella",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      352.75,
+      352.72,
+      493.21,
+      366.0
+    ],
+    "text": "5. Dasanayake Lekamalage",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      352.75,
+      366.52,
+      524.74,
+      421.22
+    ],
+    "text": "Chandrasiri, Epitawala, Kiriella 6. Pallege Archchillage Janenona,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      334.75,
+      421.74,
+      467.38,
+      490.22
+    ],
+    "text": "Epitawala, Kiriella. 6A. Amis Wettasinghe Epitwala, Kiriella",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      352.75,
+      490.74,
+      537.34,
+      504.02
+    ],
+    "text": "7. Dassanayake Lekamalge Kulasiri,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      352.75,
+      504.54,
+      485.53,
+      545.42
+    ],
+    "text": "Epitawala, Kiriella. 8. Barallage Amis Singho",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      334.75,
+      546.18,
+      482.74,
+      614.69
+    ],
+    "text": "(Deceased) Epitawala, Kireilla. 8A. Baralage Kirimenike (Deceased)",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,BoldItalic"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      334.75,
+      614.97,
+      519.1,
+      683.45
+    ],
+    "text": "Epitawala, Kireilla. 8AA. Dissanayake Mudiyanselage Sarath Dissanayake",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      334.75,
+      683.97,
+      533.98,
+      738.66
+    ],
+    "text": "9.Kurugala Arachchillage Saralis Singho, Epitiwala, Kiriella.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      367.15,
+      739.43,
+      537.58,
+      752.71
+    ],
+    "text": "DEFENDANT-RESPONDENTS",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      38.04,
+      507.92,
+      62.52
+    ],
+    "text": "4",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      72.11,
+      504.0,
+      113.01
+    ],
+    "text": "BEFORE : M. M. A. Gaffoor, J. COUNSEL : Indika Jayaweera & Anuruddha Dharmaratne for",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      113.53,
+      492.43,
+      168.21
+    ],
+    "text": "the 1A, 1B and 1C Substituted Plaintiff-Appellant R. M. D. Bandara with Sanjeewa Kaluarachchi",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      166.74,
+      493.82,
+      251.01
+    ],
+    "text": "for the 2A, 3A, 5th, 6th and 7th Defendant-Respondents WRITTEN SUBMISSIONS TENDERED ON : 27.08.2018 - by the 1A, 1B and 1C Substituted",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      251.56,
+      473.62,
+      306.24
+    ],
+    "text": "Plaintiff-Appellant : 29.10.2018 by the 2A, 3A, 5th, 6th and 7th",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      306.76,
+      383.95,
+      347.64
+    ],
+    "text": "Defendant-Respondents DECIDED ON : 10.01.2019",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      348.4,
+      316.99,
+      391.28
+    ],
+    "text": "******",
+    "fonts": [
+      "Calibri,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      418.67,
+      202.49,
+      432.49
+    ],
+    "text": "M. M. A. Gaffoor, J.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      457.79,
+      508.53,
+      471.61
+    ],
+    "text": "The Plaintiff Appellant (hereinafter referred to as the Appellant) had filed a",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      479.39,
+      508.33,
+      493.21
+    ],
+    "text": "Partition Action bearing Case No. 10468/P in the District Court of Ratnapura for",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      500.99,
+      508.55,
+      514.81
+    ],
+    "text": "the land called Bandara Kumbura alias Thittawelpitiya Kumbura situated at",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      522.59,
+      508.54,
+      536.41
+    ],
+    "text": "Epitawela. The Preliminary Plan No. 227 dated 20.05.1994 was made by J.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      544.07,
+      508.54,
+      557.89
+    ],
+    "text": "Somasiri, Licensed Surveyor and the report tendered to the District Court on",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      565.67,
+      149.42,
+      579.49
+    ],
+    "text": "31.051994.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      605.3,
+      505.38,
+      619.12
+    ],
+    "text": "The Appellant admitted that in 1973 he was forcibly evicted by the Defendant-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      626.78,
+      508.31,
+      640.6
+    ],
+    "text": "Respondents and there was a dispute in respect of his corpus from the respective",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      648.38,
+      508.53,
+      662.2
+    ],
+    "text": "land. He was given advice by the Mediation Board to file an action in the District",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      669.98,
+      380.23,
+      683.8
+    ],
+    "text": "Court but he filed Partition Action in 1993 after 18 years.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      709.46,
+      508.55,
+      723.28
+    ],
+    "text": "It is clear according to the Appellants witness that he had not possessed the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      731.06,
+      289.01,
+      744.87
+    ],
+    "text": "corpus for 18 years from 1973 to 1991.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      38.04,
+      507.92,
+      62.52
+    ],
+    "text": "5",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      72.18,
+      508.33,
+      86.0
+    ],
+    "text": "All the parties of the Partition case admitted the corpus and the trial commenced",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      92.22,
+      508.55,
+      107.6
+    ],
+    "text": "on 31st March 1997 and the land called Bandara Kumbura alias Thittawelpitiya",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      115.26,
+      508.52,
+      129.08
+    ],
+    "text": "Kumbura as per the Preliminary Survey Plan is in extent of 2 Acres 3 Roods and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      136.86,
+      160.1,
+      150.68
+    ],
+    "text": "38.7 Perches.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      176.46,
+      508.45,
+      190.28
+    ],
+    "text": "The Appellant had set out the devolution of title prayed to declare that he is",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      196.38,
+      276.77,
+      211.76
+    ],
+    "text": "entitled to 69/144th share of the land.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      235.98,
+      508.45,
+      251.36
+    ],
+    "text": "1st to 9th Defendants did not admit the Appellant as a co-owner and pleaded that he",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      259.17,
+      355.99,
+      272.99
+    ],
+    "text": "was not entitled to any shares in the above said land.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      298.65,
+      508.54,
+      312.47
+    ],
+    "text": "Having admitted by the corpus of the said land by all parties, the case was taken",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      320.25,
+      342.19,
+      334.07
+    ],
+    "text": "up for the trial on 31.03.1997 based on 18 issues.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      359.85,
+      508.54,
+      373.67
+    ],
+    "text": "The issue No. 18 was asked to the Appellant on his own admissions, whether",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      381.33,
+      508.54,
+      395.15
+    ],
+    "text": "he had been chased away in 1973 by all the Defendants from the land and as such",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      402.93,
+      508.54,
+      416.75
+    ],
+    "text": "he has had no possession since 1973 to date and in the result, have the Defendants",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      424.55,
+      216.41,
+      438.37
+    ],
+    "text": "prescribed to the land?",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      464.03,
+      508.51,
+      477.85
+    ],
+    "text": "The learned Judge in his Order dated 25.11.1999 saying affirmative to the issue",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      485.63,
+      505.38,
+      499.45
+    ],
+    "text": "No-18 and stated the reasons that, the Appellant admitted that the Defendant-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      507.23,
+      508.53,
+      521.05
+    ],
+    "text": "Respondents are encroached the corpus and he had lost his possession since 1973,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      528.71,
+      508.41,
+      542.53
+    ],
+    "text": "after 18 years of dispossessing, he cannot maintain an action before the District",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      550.31,
+      508.47,
+      564.13
+    ],
+    "text": "Court and without answering 1-17 issues, therefore, the Court had dismissed the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      571.94,
+      126.86,
+      585.76
+    ],
+    "text": "action.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      611.42,
+      508.43,
+      625.24
+    ],
+    "text": "The Appellant had appealed against the order of the learned Judge of the District",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      633.02,
+      444.94,
+      646.84
+    ],
+    "text": "Court of Ratnapura under Section 754(1) of the Civil Procedure Code.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      672.62,
+      508.54,
+      686.44
+    ],
+    "text": "The preliminary objection raised by the Defendant-Respondents was can the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      694.1,
+      508.36,
+      707.92
+    ],
+    "text": "Appellant maintain the instant appeal which is misconceived in law and has been",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      715.7,
+      508.48,
+      729.52
+    ],
+    "text": "filed without seeking leave to appeal from this Court in terms of Section 754(2) of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      737.32,
+      508.41,
+      751.14
+    ],
+    "text": "the Civil Procedure Code as much as the order of the learned Judge of the District",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      38.04,
+      507.92,
+      62.52
+    ],
+    "text": "6",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      72.18,
+      508.5,
+      86.0
+    ],
+    "text": "Court made on 25.11.1999 was not a final judgment in terms of Section 754(1)",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      93.78,
+      508.53,
+      107.6
+    ],
+    "text": "read with Section 754(5) of the Civil Procedure Code. Therefore, they argued that",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      115.26,
+      301.13,
+      129.08
+    ],
+    "text": "the order was an interlocutory order only.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      154.86,
+      508.52,
+      168.68
+    ],
+    "text": "Another preliminary objection raised by the Defendant-Respondents was that the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      176.46,
+      508.21,
+      190.28
+    ],
+    "text": "Appeal is not pleaded in the caption under the provision of law that the Plaintiff",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      197.94,
+      452.38,
+      211.76
+    ],
+    "text": "has appealed against the order of the learned Judge of the District court.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      237.54,
+      508.39,
+      251.36
+    ],
+    "text": "The Appellant in his submission quoted the findings of Supreme Court Appeal",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      259.17,
+      508.43,
+      272.99
+    ],
+    "text": "Cases Nos. 41/2015 and S C/CHC Appeal 37/2008 which were decided on 2017",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      280.65,
+      508.12,
+      294.47
+    ],
+    "text": "and pleaded that as at the year 2000, there was no such trite Law and some judges",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      302.25,
+      508.4,
+      316.07
+    ],
+    "text": "have held that the Order Approach should apply and for some it was the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      323.85,
+      508.48,
+      337.67
+    ],
+    "text": "Application Approach. And further pleaded that one cannot argue that the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      345.33,
+      508.51,
+      359.15
+    ],
+    "text": "approach to taken by the Appellant to institute this action by year 2000 as a Final",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      366.93,
+      508.38,
+      380.75
+    ],
+    "text": "Appeal, is against the contemporary law prevailed. Thus, each case was distinctly",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      388.53,
+      508.52,
+      402.35
+    ],
+    "text": "attended by the judges and the decision of whether the case is subject to a final",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      410.03,
+      434.74,
+      423.85
+    ],
+    "text": "appeal or Leave to Appeal was decided as per the facts of each case.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      449.63,
+      508.5,
+      463.45
+    ],
+    "text": "The fact that germane to the issue is the applicability of Section 754 of the Civil",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      471.23,
+      508.27,
+      485.05
+    ],
+    "text": "Procedure Code which states about the types of appeal and the procedure to be",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      492.71,
+      275.45,
+      506.53
+    ],
+    "text": "followed in the course of the appeal.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      532.31,
+      508.5,
+      546.13
+    ],
+    "text": "Section 67 of the Partition Law, No. 21 of 1977 as amended states that the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      553.91,
+      508.38,
+      567.73
+    ],
+    "text": "procedure to be followed when appealing against any judgment decree or order is",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      575.42,
+      362.59,
+      589.24
+    ],
+    "text": "the procedure prescribed in the Civil Procedure Code.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      615.02,
+      508.5,
+      628.84
+    ],
+    "text": "Section 754(1) of the Civil Procedure Code states that, any person who dissatisfied",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      636.62,
+      508.28,
+      650.44
+    ],
+    "text": "with any judgment pronounced by any original court in any civil action",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      658.1,
+      508.14,
+      671.92
+    ],
+    "text": "proceedings or matter to which a party may prefer an appeal to the Court of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      679.7,
+      383.11,
+      693.52
+    ],
+    "text": "Appeal against such judgment for any error in fact or law.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      719.3,
+      508.39,
+      733.12
+    ],
+    "text": "Section 754(2) of the Civil Procedure Code provides that a person aggrieved by",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      740.92,
+      508.17,
+      754.74
+    ],
+    "text": "the order of the District Court in the course of any civil action, proceeding or",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      38.04,
+      507.92,
+      62.52
+    ],
+    "text": "7",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      72.18,
+      508.22,
+      86.0
+    ],
+    "text": "matter to which he is, or seeks to be a party may prefer an appeal to the court of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      93.78,
+      508.37,
+      107.6
+    ],
+    "text": "appeal against such order for the correction of any error in fact or in law, with the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      115.26,
+      238.97,
+      129.08
+    ],
+    "text": "leave of the Court of Appeal.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      154.86,
+      239.33,
+      168.68
+    ],
+    "text": "Section 754 reads as follows,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      203.7,
+      464.12,
+      217.52
+    ],
+    "text": "(1) Any person who shall be dissatisfied with any judgment",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      225.3,
+      464.1,
+      239.12
+    ],
+    "text": "pronounced, by any original court in any civil action, proceeding",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      246.93,
+      464.25,
+      260.75
+    ],
+    "text": "or matter to which he is a party may prefer an appeal to the Court",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      268.41,
+      447.7,
+      282.23
+    ],
+    "text": "of Appeal against such judgment for any error in fact or in law.",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      317.37,
+      472.31,
+      331.19
+    ],
+    "text": "(2) Any person who shall be dissatisfied with any order made by any",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      338.97,
+      472.31,
+      352.79
+    ],
+    "text": "original court in the course of any civil action, proceeding, or",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      360.45,
+      472.36,
+      374.27
+    ],
+    "text": "matter to which he is or seeks to be a party, may prefer an appeal to",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      382.05,
+      472.24,
+      395.87
+    ],
+    "text": "the Court of Appeal against such order for the correction of any",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      403.67,
+      472.18,
+      417.49
+    ],
+    "text": "error in fact or in law, with the leave of the Court of Appeal first",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      425.15,
+      219.77,
+      438.97
+    ],
+    "text": "had and obtained.",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      464.75,
+      508.54,
+      478.57
+    ],
+    "text": "Section 754(5) of the Civil Procedure Code provides that notwithstanding",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      486.35,
+      508.54,
+      500.17
+    ],
+    "text": "anything to the contrary in the Civil Procedure Code, for the purpose of Chapter",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      507.83,
+      114.98,
+      521.65
+    ],
+    "text": "105,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      547.43,
+      472.28,
+      561.25
+    ],
+    "text": "Judgment means any judgment or order having the effect of a",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      569.03,
+      347.23,
+      582.85
+    ],
+    "text": "final judgment made by any civil court and",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      608.54,
+      472.46,
+      622.36
+    ],
+    "text": "Order means the final expression of any decision in any civil",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      630.14,
+      395.59,
+      643.96
+    ],
+    "text": "action proceeding or matter which is not a judgment.",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      669.74,
+      508.54,
+      683.56
+    ],
+    "text": "It is to be noted that the question arises whether the Interlocutory Order of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      691.22,
+      508.53,
+      705.04
+    ],
+    "text": "learned Judge of the District Court of Ratnapura falls under Section 754(1) or",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      712.82,
+      272.93,
+      726.64
+    ],
+    "text": "754(2) of the Civil Procedure Code.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      38.04,
+      507.92,
+      62.52
+    ],
+    "text": "8",
+    "fonts": [
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      72.18,
+      508.32,
+      86.0
+    ],
+    "text": "It is observed that an Interlocutory Order or decree of a Partition Act always have",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      93.78,
+      289.61,
+      107.6
+    ],
+    "text": "a nature of the Order not the Judgment.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      133.26,
+      508.54,
+      147.08
+    ],
+    "text": "I am of the view that the nature of the order made by the learned Judge of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      154.86,
+      508.51,
+      168.68
+    ],
+    "text": "District Court was clearly itself shows that is an order with have a final expression",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      176.46,
+      508.45,
+      190.28
+    ],
+    "text": "of the decision made by the judge. Therefore, Section 754 of the Civil Procedure",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      197.94,
+      508.15,
+      211.76
+    ],
+    "text": "Code upon Appeal of whether Order or Judgment is very clear and without any",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      219.54,
+      508.45,
+      233.36
+    ],
+    "text": "absurdity deeply explained the nature and the procedure should be followed",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      241.17,
+      508.49,
+      254.99
+    ],
+    "text": "hereof, and in order to appeal the Interlocutory Order made by the learned Judge,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      262.65,
+      414.67,
+      276.47
+    ],
+    "text": "the aggrieved party has to file an application for leave to appeal.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      302.25,
+      508.52,
+      316.07
+    ],
+    "text": "In this instance, the primary step of the Appellant would be that he has to file an",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      323.85,
+      247.61,
+      337.67
+    ],
+    "text": "application for leave to appeal.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      363.33,
+      508.36,
+      377.15
+    ],
+    "text": "The appeal made by the Appellant cannot be considered as an instant appeal and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      384.93,
+      508.22,
+      398.75
+    ],
+    "text": "he should comply with the provisions of law when constituting an appeal and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      406.55,
+      499.78,
+      420.37
+    ],
+    "text": "should take steps to insert captions, names, addresses in accordance with the law.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      446.03,
+      399.07,
+      459.85
+    ],
+    "text": "For the foregoing reasons, I dismiss the appeal without costs.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      485.99,
+      184.85,
+      499.81
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times New Roman,BoldItalic"
+    ],
+    "sizes": [
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      299.81,
+      593.85,
+      511.54,
+      607.13
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

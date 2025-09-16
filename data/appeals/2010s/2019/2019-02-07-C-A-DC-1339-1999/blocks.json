@@ -1,0 +1,4260 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      90.02,
+      36.12,
+      524.6,
+      61.68
+    ],
+    "text": "1",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      122.06,
+      72.55,
+      493.58,
+      89.16
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      211.61,
+      92.37,
+      404.26,
+      108.98
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      111.02,
+      158.87,
+      230.93,
+      173.22
+    ],
+    "text": "C. A. No. 1339/99 (F)",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      111.02,
+      181.43,
+      243.17,
+      195.78
+    ],
+    "text": "D.C., Galle No. 12920/L",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      348.07,
+      133.93,
+      516.46,
+      188.37
+    ],
+    "text": "Manoj Nuwan Kumara Maitipe No. 245/7, Liyanagedarawatta, 2nd Lane, Maitipe, Galle",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      348.07,
+      189.13,
+      526.66,
+      243.57
+    ],
+    "text": "PLAINTIFF VS.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.07,
+      244.31,
+      500.75,
+      257.62
+    ],
+    "text": "1. Samaraweera Maitipe",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.07,
+      257.92,
+      515.02,
+      326.64
+    ],
+    "text": "No. 560, Mosque Road, Godage Mw, Anuradhapura 2. Mallika Malanie Maitipe",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.07,
+      326.92,
+      498.46,
+      395.64
+    ],
+    "text": "No. 26/15, Liyanagedarawatta, 2nd Lane, Maitipe, Galle 3. Heeraluwattege",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.07,
+      396.16,
+      512.38,
+      464.66
+    ],
+    "text": "Somawathie No. 245/7, 2nd Lane, Maitipe, Galle 4. Themiya Bandu Maitipe",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.07,
+      464.94,
+      503.38,
+      533.66
+    ],
+    "text": "No. 26/15, Liyanagedarawatta, 2nd Lane, Maitipe, Galle 5. Padmini Maitipe",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.07,
+      533.94,
+      509.14,
+      602.66
+    ],
+    "text": "No. 26/15, Liyanagedarawatta, 2nd Lane, Maitipe, Galle 6. Wijaya Gamini Maitipe",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      348.07,
+      600.95,
+      524.02,
+      740.45
+    ],
+    "text": "No. 245/7, 2nd Lane, Maitipe, Galle 7. Sumanawathie Maitipe Asiri tailors, Heenatige, Thalpe 7A. Melaegoda Gamage Victor Upasaka Mahatha Bare, Samaya Abakolahena,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      384.07,
+      740.96,
+      513.34,
+      768.05
+    ],
+    "text": "Thalapalakanda, Berapanathara, Urubokka.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      36.12,
+      524.6,
+      61.68
+    ],
+    "text": "2",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.51,
+      54.11,
+      542.21,
+      81.2
+    ],
+    "text": "7B. Mealgoda Gamage thushari",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.51,
+      81.97,
+      509.5,
+      122.61
+    ],
+    "text": "Samanthilaka, Upasaka Mahatha Bare, Samaya Abakolahena,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.51,
+      123.13,
+      542.78,
+      178.05
+    ],
+    "text": "Thalapalakanda, Berapanathara, Urubokka 7C. Melaegoda Gamage Mervin",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.51,
+      178.57,
+      511.08,
+      205.41
+    ],
+    "text": "Victor Dehiya Godellawatta,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.51,
+      205.93,
+      521.74,
+      247.05
+    ],
+    "text": "Hingatigala, Thalpe, Galle 7D. Malaegoda Gamage",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.51,
+      247.55,
+      523.97,
+      274.44
+    ],
+    "text": "Lakmini Sewwandi Labuduwa, Sri Vijeyarama",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.51,
+      274.96,
+      533.58,
+      315.84
+    ],
+    "text": "Temple Road, Labuduwa 7E. Malaegoda Gamage Yuhan",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.51,
+      316.6,
+      511.08,
+      343.44
+    ],
+    "text": "Victor Dehiya Godellawatta,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.51,
+      343.96,
+      517.78,
+      371.04
+    ],
+    "text": "Hingatigala, thalpe, Galle",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      373.51,
+      371.8,
+      510.94,
+      385.08
+    ],
+    "text": "8. Pugunawathei Maitipe",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      373.51,
+      385.36,
+      511.18,
+      440.3
+    ],
+    "text": "Wijeyananda Mw, Thalagaha, Akmeemana 9. Banduwathie Maitipe",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.51,
+      440.58,
+      521.5,
+      495.5
+    ],
+    "text": "Maitipe tailors, No. 99, Main Street, Galle 10A. Sandara marakkalage",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.51,
+      496.02,
+      520.78,
+      522.86
+    ],
+    "text": "Vinitha Kalyani No. 360/1, Mahamodara,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.51,
+      523.38,
+      520.78,
+      578.06
+    ],
+    "text": "Galle 10B. Gihan Mahiruk Maitipe No. 360/1, Mahamodara,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.51,
+      578.58,
+      533.26,
+      633.29
+    ],
+    "text": "Galle 10C. Niyusha Panchani Maitipe No. 360/1, Mahamodara,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.51,
+      633.81,
+      526.9,
+      716.09
+    ],
+    "text": "Galle 10D.Mayumi Rangika Maitipe No. 360/1, Mahamodara, Galle",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      36.12,
+      524.6,
+      61.68
+    ],
+    "text": "3",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      373.51,
+      88.09,
+      522.46,
+      101.37
+    ],
+    "text": "11. Asoka Iranganie Maitipe",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      373.51,
+      101.65,
+      525.05,
+      156.57
+    ],
+    "text": "Wanadura Road, Panawila, Galle 12. Chandrawathie Maitipe",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      391.51,
+      156.97,
+      542.5,
+      170.25
+    ],
+    "text": "Koratuwatta, Labuduwa, Galle",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      459.58,
+      180.97,
+      543.94,
+      194.25
+    ],
+    "text": "DEFENDANTS",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      391.51,
+      228.61,
+      453.58,
+      241.89
+    ],
+    "text": "AND NOW",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      355.51,
+      252.28,
+      523.9,
+      306.72
+    ],
+    "text": "Manoj Nuwan Kumara Maitipe No. 245/7, Liyanagedarawatta, 2nd Lane, Maitipe, Galle",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      355.51,
+      307.48,
+      543.94,
+      334.68
+    ],
+    "text": "PLAINTIFF-APPELLANT",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      391.51,
+      345.16,
+      412.87,
+      358.44
+    ],
+    "text": "VS.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      373.51,
+      382.72,
+      508.18,
+      396.0
+    ],
+    "text": "1. Samaraweera Maitipe",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      373.51,
+      396.28,
+      522.46,
+      465.02
+    ],
+    "text": "No. 560, Mosque Road, Godage Mw, Anuradhapura 2. Mallika Malanie Maitipe",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      355.51,
+      465.3,
+      542.67,
+      506.54
+    ],
+    "text": "No. 26/15, Liyanagedarawatta, 2nd Lane, Maitipe, Galle",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      373.51,
+      516.9,
+      540.82,
+      530.18
+    ],
+    "text": "3. Heeraluwattege Somawathie",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      373.51,
+      528.47,
+      535.86,
+      585.38
+    ],
+    "text": "No. 245/7, 2nd Lane, Maitipe, Galle 4. Themiya Bandu Maitipe",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      373.51,
+      585.66,
+      545.86,
+      640.61
+    ],
+    "text": "No. 26/15, Liyanagedarawatta, 2nd Lane, Maitipe, Galle 5. Padmini Maitipe",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      373.51,
+      640.89,
+      545.86,
+      695.81
+    ],
+    "text": "No. 26/15, Liyanagedarawatta, 2nd Lane, Maitipe, Galle 6. Wijaya Gamini Maitipe",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      391.51,
+      694.09,
+      535.86,
+      723.17
+    ],
+    "text": "No. 245/7, 2nd Lane, Maitipe, Galle",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      36.12,
+      524.6,
+      61.68
+    ],
+    "text": "4",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      372.07,
+      67.17,
+      512.15,
+      80.48
+    ],
+    "text": "7. Sumanawathie Maitipe",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.07,
+      80.77,
+      530.02,
+      163.05
+    ],
+    "text": "Asiri tailors, Heenatige, Thalpe 7A. Melaegoda Gamage Victor Upasaka Mahatha Bare, Samaya Abakolahena,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.07,
+      163.57,
+      540.74,
+      218.25
+    ],
+    "text": "Thalapalakanda, Berapanathara, Urubokka. 7B. Mealgoda Gamage thushari",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.07,
+      219.01,
+      508.06,
+      259.66
+    ],
+    "text": "Samanthilaka, Upasaka Mahatha Bare, Samaya Abakolahena,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.07,
+      260.2,
+      541.34,
+      315.12
+    ],
+    "text": "Thalapalakanda, Berapanathara, Urubokka 7C. Melaegoda Gamage Mervin",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.07,
+      315.64,
+      509.64,
+      342.48
+    ],
+    "text": "Victor Dehiya Godellawatta,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.07,
+      343.0,
+      545.06,
+      384.12
+    ],
+    "text": "Hingatigala, Thalpe, Galle 7D. Malaegoda Gamage Lakmini",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.07,
+      384.64,
+      522.53,
+      411.48
+    ],
+    "text": "Sewwandi Labuduwa, Sri Vijeyarama",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.07,
+      412.0,
+      532.14,
+      452.9
+    ],
+    "text": "Temple Road, Labuduwa 7E. Malaegoda Gamage Yuhan",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.07,
+      453.66,
+      509.64,
+      480.5
+    ],
+    "text": "Victor Dehiya Godellawatta,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.07,
+      481.02,
+      516.34,
+      508.1
+    ],
+    "text": "Hingatigala, thalpe, Galle",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      372.07,
+      508.86,
+      509.5,
+      522.14
+    ],
+    "text": "8. Pugunawathei Maitipe",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      372.07,
+      522.42,
+      509.74,
+      577.34
+    ],
+    "text": "Wijeyananda Mw, Thalagaha, Akmeemana 9. Banduwathie Maitipe",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.07,
+      577.62,
+      520.07,
+      632.57
+    ],
+    "text": "Maitipe tailors, No. 99, Main Street, Galle 10A. Sandara marakkalage",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.07,
+      633.09,
+      519.34,
+      659.93
+    ],
+    "text": "Vinitha Kalyani No. 360/1, Mahamodara,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.07,
+      660.45,
+      519.34,
+      715.13
+    ],
+    "text": "Galle 10B. Gihan Mahiruk Maitipe No. 360/1, Mahamodara,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      354.07,
+      715.64,
+      423.67,
+      756.53
+    ],
+    "text": "Galle",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      36.12,
+      524.6,
+      61.68
+    ],
+    "text": "5",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.46,
+      72.57,
+      574.32,
+      469.31
+    ],
+    "text": "BEFORE : M. M. A. GAFFOOR, J. COUNSEL : Esara Wellala Plaintiff-Appellant Rohan Sahabandu, P.C. with Surekha Withanage for",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      470.08,
+      408.07,
+      624.38
+    ],
+    "text": "the 2nd Defendant-Respondent ARGUED ON : 25.06.2018 WRITTEN SUBMISSIONS TENDERED ON : 28.08.2018 by both Parties DECIDED ON : 05.02.2019",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      286.49,
+      624.67,
+      328.75,
+      639.02
+    ],
+    "text": "******",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      367.51,
+      68.73,
+      505.31,
+      82.04
+    ],
+    "text": "10C. Niyusha Panchani",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      367.51,
+      82.57,
+      532.78,
+      109.41
+    ],
+    "text": "Maitipe No. 360/1, Mahamodara,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      367.51,
+      109.93,
+      538.9,
+      192.21
+    ],
+    "text": "Galle 10D.Mayumi Rangika Maitipe No. 360/1, Mahamodara, Galle",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      385.51,
+      192.85,
+      534.46,
+      206.13
+    ],
+    "text": "11. Asoka Iranganie Maitipe",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      385.51,
+      206.41,
+      537.05,
+      261.34
+    ],
+    "text": "Wanadura Road, Panawila, Galle 12. Chandrawathie Maitipe",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.02400016784668
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      403.51,
+      261.64,
+      525.27,
+      288.84
+    ],
+    "text": "Koratuwatta, Labuduwa, Galle",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      367.63,
+      299.68,
+      544.66,
+      312.96
+    ],
+    "text": "DEFENDANTS-RESPONDENTS",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      36.12,
+      524.6,
+      61.68
+    ],
+    "text": "6",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      72.69,
+      227.93,
+      87.04
+    ],
+    "text": "M. M. A. GAFFOOR, J.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      118.67,
+      525.1,
+      133.02
+    ],
+    "text": "The Plaintiff-Appellant (hereinafter referred to as the Appellant) filed the above",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      141.11,
+      525.29,
+      155.46
+    ],
+    "text": "styled case bearing No. 12920/L in the District Court of Galle against the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      163.55,
+      324.07,
+      177.9
+    ],
+    "text": "Defendants-Respondents seeking inter alia,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      207.83,
+      525.31,
+      224.22
+    ],
+    "text": "a. a declaration that the Deed of transfer No. 3008 dated 15th January 1981 is",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.02,
+      232.31,
+      285.29,
+      246.66
+    ],
+    "text": "subject to a constructive trust;",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      254.6,
+      525.05,
+      269.13
+    ],
+    "text": "b. that the properties described in the schedule to the plaint are held on trust",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.02,
+      275.18,
+      525.06,
+      291.57
+    ],
+    "text": "by the 1st Defendant-Respondent in this case in favour of the heirs of Hinni",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.02,
+      299.66,
+      234.41,
+      314.01
+    ],
+    "text": "Appuhamy Maitipe;",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      320.06,
+      525.34,
+      336.45
+    ],
+    "text": "c. that an order be made for the 1st Defendant-Respondent to accept Rs. 7000/-",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.02,
+      344.54,
+      525.02,
+      358.89
+    ],
+    "text": "with interest and transfer the properties mentioned in the said deed to the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.02,
+      366.86,
+      525.09,
+      381.21
+    ],
+    "text": "heirs of Hinni Appuhamy Maitipe, and if he fails to do so, an order be made",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.02,
+      389.3,
+      459.7,
+      403.65
+    ],
+    "text": "to the Registrar of the District Court to effect such transfer; and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      411.56,
+      525.03,
+      426.09
+    ],
+    "text": "d. for a declaration that the Deeds attested after the said Deed No. 3008 dealt",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.02,
+      434.2,
+      458.26,
+      448.55
+    ],
+    "text": "in paragraphs 15 and 16 of the plaint be declared null and void.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      478.6,
+      522.1,
+      494.99
+    ],
+    "text": "The Appellant and the Defendant-Respondents are siblings; 3rd Defendant-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      503.08,
+      376.03,
+      517.43
+    ],
+    "text": "Respondent is the mother of all the Parties of the case.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      547.48,
+      525.27,
+      563.87
+    ],
+    "text": "Though the case has been filed against the 1st Defendant-Respondent, he was",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      571.84,
+      525.24,
+      586.19
+    ],
+    "text": "absent and unrepresented and further had not filed any answer in this case since",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      594.28,
+      277.13,
+      608.63
+    ],
+    "text": "the case fixed ex parte against him.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      638.71,
+      525.26,
+      655.1
+    ],
+    "text": "The 2nd, 3rd, and 4th Defendant-Respondents (hereinafter sometimes collectively",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      661.15,
+      525.31,
+      677.54
+    ],
+    "text": "referred to as the Respondents) by their joint answer dated 18th October 1995,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      685.63,
+      525.18,
+      699.98
+    ],
+    "text": "have specifically denied that the Deed No. 3008 (P3) is subjected to any trust and",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      36.12,
+      524.6,
+      61.68
+    ],
+    "text": "7",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      70.17,
+      522.1,
+      86.56
+    ],
+    "text": "sought a dismissal of the Appellants action. Whilst the 10th Defendant-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      92.63,
+      525.34,
+      109.02
+    ],
+    "text": "Respondent by filing his answer on or about 18th October 1995 admitted the plaint",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      117.11,
+      180.98,
+      131.46
+    ],
+    "text": "of the Appellant.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      163.55,
+      525.31,
+      177.9
+    ],
+    "text": "At the trial, 21 issues were raised on behalf of the Appellant and 3 issues were",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      185.87,
+      282.53,
+      200.22
+    ],
+    "text": "raised on behalf of the Respondents.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      230.27,
+      525.33,
+      246.66
+    ],
+    "text": "The Appellant commenced giving evidence on 17th February 1998, after the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      254.78,
+      525.32,
+      269.13
+    ],
+    "text": "conclusion of his evidence, the mortgagee/vendee of the Deed No. 3008,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      277.22,
+      524.99,
+      291.57
+    ],
+    "text": "Nanayakkara Badungodage Samaparapala gave evidence on behalf of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      297.62,
+      525.13,
+      314.01
+    ],
+    "text": "Appellant. Whereas the 2nd Defendant-Respondent gave evidence on behalf of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      322.1,
+      525.12,
+      336.45
+    ],
+    "text": "respondents and she was the only one who gave evidence on behalf the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      344.54,
+      162.98,
+      358.89
+    ],
+    "text": "Respondents.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      390.86,
+      525.04,
+      405.21
+    ],
+    "text": "After conclusion of the trial, the learned District Judge of Galle by his judgment",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      411.26,
+      525.01,
+      427.65
+    ],
+    "text": "dated 07th September 1999 (vide page 171 of the appeal brief) dismissed the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      435.76,
+      195.41,
+      450.11
+    ],
+    "text": "Appellants action.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      482.2,
+      525.17,
+      496.55
+    ],
+    "text": "Being aggrieved by the said judgment, the Appellant has preferred this appeal to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      504.64,
+      422.59,
+      518.99
+    ],
+    "text": "set aside the judgment and for the relives set out in the plaint.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      551.08,
+      525.29,
+      565.43
+    ],
+    "text": "According to the Appellant, when he explains the circumstances leading to the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      573.52,
+      315.43,
+      587.87
+    ],
+    "text": "filling of this action can briefly as follows:",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      619.87,
+      525.29,
+      634.22
+    ],
+    "text": "Due to certain financial difficulties his father Hinni Appuhamy had mortgaged",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      642.31,
+      525.31,
+      656.66
+    ],
+    "text": "(conveyed) the property which he purchased by Deed No. 893 (P1) more fully",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      664.75,
+      525.25,
+      679.1
+    ],
+    "text": "described in the schedule to the plaint to one Bandungodage Samaparapala who is",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      687.19,
+      404.59,
+      701.54
+    ],
+    "text": "a friend of him for only Rs. 3000/- by Deed No. 1118 (P2).",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      36.12,
+      524.6,
+      61.68
+    ],
+    "text": "8",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      72.21,
+      525.01,
+      86.56
+    ],
+    "text": "According to the Appellant, in the said Deed there was a condition that the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      94.67,
+      525.24,
+      109.02
+    ],
+    "text": "Appellants father shall repay the value of the Deed with interest within a year in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      117.11,
+      525.27,
+      131.46
+    ],
+    "text": "order to reclaim the property. Therefore, the Appellant is in a position that the said",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      139.55,
+      524.91,
+      153.9
+    ],
+    "text": "Samaparapala held the property on trust until the Appellants father reclaimed the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      161.87,
+      221.81,
+      176.22
+    ],
+    "text": "said property over years.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      206.27,
+      525.24,
+      222.66
+    ],
+    "text": "The Appellant stated that on 15.01.1981, the 1st Defendant-Respondent on the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      230.75,
+      525.29,
+      245.1
+    ],
+    "text": "request of the father reclaimed the said property only for Rs. 5000/- on behalf of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      253.19,
+      525.0,
+      267.54
+    ],
+    "text": "the family by virtue of Deed No. 3008 dated 15.01.1981, therefore, the appellant",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      275.66,
+      524.97,
+      290.01
+    ],
+    "text": "further taken up a position that the intention of the parties was to held the property",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      298.1,
+      525.18,
+      312.45
+    ],
+    "text": "worth of over Rs. 500,000/- on trust for the family and the father who was the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      320.54,
+      256.49,
+      334.89
+    ],
+    "text": "original owner of the property.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      364.82,
+      522.1,
+      381.21
+    ],
+    "text": "He further stated that later after the death of the father, the 1st Defendant-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      389.3,
+      524.98,
+      403.65
+    ],
+    "text": "Respondent had transferred the said property among the family members in breach",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      409.7,
+      525.33,
+      426.09
+    ],
+    "text": "of said constructive trust. Its further noted that the 1st Defendant-Respondent",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      432.14,
+      525.1,
+      448.55
+    ],
+    "text": "conveyed the property to the 2nd Respondent by virtue of Deed No. 648 dated",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      456.64,
+      524.99,
+      470.99
+    ],
+    "text": "13.08.1990 who is the eldest sister of the family and she divided and sold the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      479.08,
+      525.24,
+      493.43
+    ],
+    "text": "property as per her intentions. The Appellant also stated that even though the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      499.48,
+      522.1,
+      515.87
+    ],
+    "text": "market value of the property in 1981 was over Rs. 500,000/- the 1st Defendant-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      523.84,
+      525.01,
+      538.19
+    ],
+    "text": "Respondent was able to reclaim said property for such lower price was due to the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      546.28,
+      525.33,
+      560.63
+    ],
+    "text": "constructive trust and the consent of the father. Therefore, the Appellant also",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      568.72,
+      524.95,
+      583.07
+    ],
+    "text": "argued that if the mortgagee Samarapala wanted to sell this property he should",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      591.16,
+      264.77,
+      605.51
+    ],
+    "text": "have sold it for the market value.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      635.59,
+      525.13,
+      651.98
+    ],
+    "text": "In contrast, the 2nd Defendant-Respondent submitted that the said Samarapala has",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      660.07,
+      525.2,
+      674.42
+    ],
+    "text": "not been holding the said property as a trust in favour of Hinni Appuhamy due to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      682.51,
+      525.31,
+      696.86
+    ],
+    "text": "the fact the time period specified in the said deed which has been exceeded, Hinni",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      704.83,
+      525.29,
+      719.18
+    ],
+    "text": "Appuhamy had become no longer the owner of the property. They further",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      36.12,
+      524.6,
+      61.68
+    ],
+    "text": "9",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      72.21,
+      524.99,
+      86.56
+    ],
+    "text": "submitted that when there was a conditional transfer there would be no",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      94.67,
+      524.95,
+      109.02
+    ],
+    "text": "constructive trust after the lapse of fixed term as there was no contract to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      115.07,
+      525.21,
+      131.46
+    ],
+    "text": "retransfer. Therefore, the 2nd Defendant-Respondent is in a position that there",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      139.55,
+      525.2,
+      153.9
+    ],
+    "text": "should be an existing contract for Section 93 of the Trusts Ordinance to operate,",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      161.87,
+      525.18,
+      176.22
+    ],
+    "text": "but in this case, there was no existing contract, as there was no demand or action",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      184.31,
+      495.94,
+      198.66
+    ],
+    "text": "brought for retransfer this property because, the right to retransfer has lapsed.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      230.75,
+      525.0,
+      245.1
+    ],
+    "text": "Having heard the both parties submissions, the pivotal issue in this case is",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      253.19,
+      525.32,
+      267.54
+    ],
+    "text": "whether the said (transactions) Deeds Nos. 1118 (P2) and 3008 (P3) were",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      275.66,
+      469.18,
+      290.01
+    ],
+    "text": "subjected to a constructive trust or whether they were absolute transfers.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      322.1,
+      525.03,
+      336.45
+    ],
+    "text": "To ascertain whether the Appellant was successful in establishing the necessary",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      344.54,
+      525.22,
+      358.89
+    ],
+    "text": "ingredients to prove a constructive trust, a careful attention on Section 83 of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      366.86,
+      252.17,
+      381.21
+    ],
+    "text": "Trusts Ordinance is important.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      413.3,
+      334.15,
+      427.65
+    ],
+    "text": "Section 83 of the Trusts Ordinance reads thus:",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126.02,
+      459.76,
+      489.34,
+      474.11
+    ],
+    "text": "Where the owner of property transfers or bequeaths it, and it",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126.02,
+      482.2,
+      489.2,
+      496.55
+    ],
+    "text": "cannot reasonably be inferred consistently with the attendant",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126.02,
+      504.64,
+      489.16,
+      518.99
+    ],
+    "text": "circumstances that he intended to dispose of the beneficial interest",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126.02,
+      527.08,
+      489.02,
+      541.43
+    ],
+    "text": "therein, the transferee or legatee must hold such properly for the",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126.02,
+      549.52,
+      383.47,
+      563.87
+    ],
+    "text": "benefit of the owner or his legal representative.",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      595.96,
+      525.22,
+      610.31
+    ],
+    "text": "It is the burden of the person who claims or tries to prove the cover under the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      618.31,
+      524.96,
+      632.66
+    ],
+    "text": "above Section 83 to establish that he/she (any person) did not intend to dispose of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      640.75,
+      525.33,
+      655.1
+    ],
+    "text": "the beneficial interest of the property transferred by the deed, put in suit. Section",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      663.19,
+      525.01,
+      677.54
+    ],
+    "text": "83 referred to above, permits Court to infer such decision upon considering the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      685.63,
+      525.13,
+      699.98
+    ],
+    "text": "attendant circumstances that led to the execution of the deed. This accustomed",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      36.12,
+      524.6,
+      61.68
+    ],
+    "text": "10",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      72.21,
+      525.34,
+      86.56
+    ],
+    "text": "position in law had been discussed in many cases in the apex Courts. (See:",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      94.67,
+      525.34,
+      109.02
+    ],
+    "text": "Muttammah Vs. Thiyagarajah [(1960) 62 NLR 559], Piyasena Vs. Vansue",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold",
+      "Times New Roman,BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      117.11,
+      525.32,
+      131.46
+    ],
+    "text": "[(1997) 2 SLR 311], and Thisa Nona And Three Others Vs. Premedasa [(1997) 2",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold",
+      "Times New Roman,BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      139.55,
+      144.14,
+      153.9
+    ],
+    "text": "SLR 169]",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      185.87,
+      400.51,
+      200.22
+    ],
+    "text": "In Muttammah Vs. Thiyagarajah (supra), it was held that,",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold",
+      "Times New Roman,BoldItalic",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      228.35,
+      489.11,
+      242.7
+    ],
+    "text": "Attendant Circumstances are to my mind circumstances which",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      250.79,
+      488.98,
+      265.14
+    ],
+    "text": "precede or follow the transfer but are not too far removed in point'",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      273.26,
+      489.2,
+      287.61
+    ],
+    "text": "of time to be regarded as attendant which expression in this context",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      295.7,
+      489.03,
+      310.05
+    ],
+    "text": "may be understood as accompanying\" or \"connected with\". Whether",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      318.02,
+      489.33,
+      332.37
+    ],
+    "text": "a circumstance is attendant or not would depend on the facts of-each",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      340.46,
+      245.93,
+      354.81
+    ],
+    "text": "case (Page at 564)",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      90.02,
+      382.94,
+      350.35,
+      397.29
+    ],
+    "text": "In Piyasena Vs. Vansue (supra), it was held that:",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold",
+      "Times New Roman,BoldItalic",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      442.6,
+      489.11,
+      456.95
+    ],
+    "text": "(1) Even though a transfer is in the form of an outright sale it is",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      465.04,
+      489.09,
+      479.39
+    ],
+    "text": "possible to lead parole evidence to show that facts exist from which",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      487.48,
+      419.95,
+      501.83
+    ],
+    "text": "it could be inferred that the real transaction was either-",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      529.84,
+      489.25,
+      544.19
+    ],
+    "text": "(i) money lending, where the land is transferred as a security as in",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      552.28,
+      193.61,
+      566.63
+    ],
+    "text": "this case or;",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      594.76,
+      439.54,
+      609.11
+    ],
+    "text": "(ii) a transfer in trust-in such cases section 83 would apply.",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      637.15,
+      489.01,
+      651.5
+    ],
+    "text": "(2) A trust is inferred from attendant circumstances. The trust is an",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      659.59,
+      489.06,
+      673.94
+    ],
+    "text": "obligation imposed by law on those who try to camouflage the actual",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.02,
+      682.03,
+      489.23,
+      696.38
+    ],
+    "text": "nature of a transaction. When the attendant circumstances point to a",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      36.12,
+      524.6,
+      61.68
+    ],
+    "text": "11",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      126.02,
+      72.21,
+      488.99,
+      86.56
+    ],
+    "text": "loan transaction and not a genuine sale transaction the provisions of",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      126.02,
+      94.67,
+      350.35,
+      109.02
+    ],
+    "text": "section 83 of the Trust Ordinance apply.",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      126.02,
+      137.03,
+      489.34,
+      151.38
+    ],
+    "text": "(3) The behaviour of the plaintiff-appellant with Samagi Mudalali",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      126.02,
+      159.47,
+      489.18,
+      173.82
+    ],
+    "text": "in the background and the defendant-appellant just before and after",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      126.02,
+      181.91,
+      489.08,
+      196.26
+    ],
+    "text": "the signing of P2 and P3 and even after the end of the period of",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      126.02,
+      204.35,
+      489.02,
+      218.7
+    ],
+    "text": "lease, show them to be that of rapacious investors and persecuted",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      126.02,
+      226.79,
+      489.26,
+      241.14
+    ],
+    "text": "borrower respectively rather than a genuine purchaser and a over",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      126.02,
+      249.23,
+      208.01,
+      263.58
+    ],
+    "text": "holding tenant.",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      126.02,
+      291.62,
+      489.09,
+      305.97
+    ],
+    "text": "(iii) It cannot be reasonably be inferred consistently with the",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      126.02,
+      314.06,
+      489.29,
+      328.41
+    ],
+    "text": "attendant circumstances that the defendant-appellant intended to",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      126.02,
+      336.5,
+      452.5,
+      350.85
+    ],
+    "text": "dispose of the beneficial interest to the property in question.",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      382.94,
+      525.13,
+      397.29
+    ],
+    "text": "Further, an important view was taken by the Supreme Court in the case of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      405.38,
+      525.25,
+      419.73
+    ],
+    "text": "Dayawathie And Other Vs. Sgunasekera & Another [(1991) 1SLR 115], where it",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold",
+      "Times New Roman,BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      427.82,
+      525.34,
+      442.17
+    ],
+    "text": "was held that Section 92 of the Evidence Ordinance, No. 14 of 1895 as amended",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      450.16,
+      525.2,
+      464.51
+    ],
+    "text": "does not bar parole evidence to prove a constructive trust and that the transferor",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      472.6,
+      383.59,
+      486.95
+    ],
+    "text": "did not intend to pass the beneficial interest in property.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      519.04,
+      525.05,
+      533.39
+    ],
+    "text": "Accordingly, Section 83 of the Trusts Ordinance allows taking attendant",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      541.48,
+      524.99,
+      555.83
+    ],
+    "text": "circumstances into account, which, if credible, may establish the existence of a",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      563.92,
+      186.38,
+      578.27
+    ],
+    "text": "constructive trust.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      608.32,
+      525.34,
+      624.74
+    ],
+    "text": "However, as regard the issue that consideration for the transfer was paid by the 1st",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      632.83,
+      525.31,
+      647.18
+    ],
+    "text": "Defendant to Samarapala at the interest of Hinni Appuhamy, when giving",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      655.15,
+      522.1,
+      669.5
+    ],
+    "text": "reference to Section 84 of the Trusts Ordinance, it was argued by the Defendants-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      677.59,
+      525.0,
+      691.94
+    ],
+    "text": "Respondents that the provisions of the Trusts Ordinance are not applicable to a",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.02,
+      700.03,
+      213.17,
+      714.38
+    ],
+    "text": "situation of this nature.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      36.12,
+      524.6,
+      61.68
+    ],
+    "text": "12",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      72.21,
+      334.15,
+      86.56
+    ],
+    "text": "Section 84 of the Trusts Ordinance reads thus:",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      126.02,
+      114.71,
+      489.07,
+      129.06
+    ],
+    "text": "Where property is transferred to one person for a consideration",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      126.02,
+      137.03,
+      489.14,
+      151.38
+    ],
+    "text": "paid or provided by another person, and it appears that such other",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      126.02,
+      159.47,
+      489.04,
+      173.82
+    ],
+    "text": "person did not intend to pay or provide such consideration for the",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      126.02,
+      181.91,
+      489.03,
+      196.26
+    ],
+    "text": "benefit of the transferee, the transferee must hold the property for",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      126.02,
+      204.35,
+      466.66,
+      218.7
+    ],
+    "text": "the benefit of the person paying or providing the consideration.",
+    "fonts": [
+      "Times New Roman,Italic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      248.75,
+      525.32,
+      265.14
+    ],
+    "text": "Counsel for the 2nd Defendant-Respondent was submitted that, in order to establish",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      273.26,
+      524.92,
+      287.61
+    ],
+    "text": "a constructive trust in terms of the above section, the law requires to prove that the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      295.7,
+      525.25,
+      310.05
+    ],
+    "text": "consideration mentioned in the deed in question had been paid or provided by a",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      318.02,
+      525.01,
+      332.37
+    ],
+    "text": "person other than the original transfer in a deed of transfer and also that other",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      340.46,
+      525.33,
+      354.81
+    ],
+    "text": "person who paid the consideration did not intend to give the beneficial interest to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      362.9,
+      525.32,
+      377.25
+    ],
+    "text": "the transferee of the property subjected to in that deed. When such circumstances",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      385.34,
+      524.99,
+      399.69
+    ],
+    "text": "are established then it is that other person who paid or provided the consideration",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      407.78,
+      524.91,
+      422.13
+    ],
+    "text": "has the right to claim that the person who provided the money and not to the Hinni",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      430.24,
+      235.97,
+      444.59
+    ],
+    "text": "Appuhamy or his children.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      474.64,
+      525.21,
+      491.03
+    ],
+    "text": "Further, the 2nd Defendant-Respondent brought an interesting fact that in any event",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.520000457763672,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      499.0,
+      524.94,
+      513.35
+    ],
+    "text": "the Appellant who was only 4 years old at the time of the conditional transfer was",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      521.44,
+      525.08,
+      535.79
+    ],
+    "text": "made and he was not able or not in a position to lead evidence, that there were",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      543.88,
+      327.31,
+      558.23
+    ],
+    "text": "attendant circumstances to the alleged trust.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      590.32,
+      525.04,
+      604.67
+    ],
+    "text": "It was in those circumstances, the learned District Judge has reached a conclusion",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      612.79,
+      525.0,
+      627.14
+    ],
+    "text": "that the Appellant has failed to indicate the attendant circumstances in his plaint to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      635.23,
+      452.98,
+      649.58
+    ],
+    "text": "prove that there is a trust in favour of Hinni Appuhamy and his heirs.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      681.67,
+      525.33,
+      696.02
+    ],
+    "text": "Therefore, the learned District Judge has correctly held that the Samarapala has",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      90.02,
+      703.99,
+      525.03,
+      718.34
+    ],
+    "text": "obtained good title to the land by land by Deed of Transfer No. 1118 executed for",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      36.12,
+      524.6,
+      61.68
+    ],
+    "text": "13",
+    "fonts": [
+      "Calibri",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      72.21,
+      525.01,
+      86.56
+    ],
+    "text": "valuable consideration and has transferred the clear title of the said property since",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      94.67,
+      525.21,
+      109.02
+    ],
+    "text": "he was an absolute owner of the said property. And, he did not hold the property",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      117.11,
+      469.9,
+      131.46
+    ],
+    "text": "on trust since time period specified in the said deed has been exceeded.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      163.55,
+      525.18,
+      177.9
+    ],
+    "text": "In all the circumstances of this case, this Court in a view that the Appellant has",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      185.87,
+      525.32,
+      200.22
+    ],
+    "text": "failed to show a proper case to interfere with the judgment of the learned District",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      208.31,
+      417.91,
+      222.66
+    ],
+    "text": "Judge. Therefore, I do not wish to interfere with the judgment.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      254.78,
+      362.71,
+      269.13
+    ],
+    "text": "Accordingly, the appeal is dismissed without Costs.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      90.02,
+      301.7,
+      188.66,
+      316.05
+    ],
+    "text": "Appeal dismissed.",
+    "fonts": [
+      "Times New Roman,BoldItalic"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      299.21,
+      399.02,
+      525.34,
+      413.37
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  }
+]

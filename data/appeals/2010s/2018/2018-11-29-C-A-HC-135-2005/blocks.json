@@ -1,0 +1,5132 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      7.12,
+      -1.66,
+      13.94,
+      10.48
+    ],
+    "text": "g",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      7.69,
+      8.2,
+      13.61,
+      17.95
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099999904632568
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      6.16,
+      16.42,
+      17.45,
+      128.19
+    ],
+    "text": ".1 j j I f J t I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.125219821929932,
+      9.300000190734863,
+      10.399999618530273,
+      12.600000381469727,
+      13.899999618530273,
+      16.299999237060547,
+      16.799999237060547,
+      19.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      5.81,
+      151.87,
+      19.71,
+      208.35
+    ],
+    "text": "1 t 1 i",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273,
+      15.199999809265137,
+      16.20009994506836,
+      21.799999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      6.73,
+      201.12,
+      16.52,
+      239.61
+    ],
+    "text": "~ 1 I",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.679436683654785,
+      10.0,
+      17.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      6.46,
+      239.85,
+      16.58,
+      291.75
+    ],
+    "text": "f J j I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.800099849700928,
+      12.600000381469727,
+      13.300000190734863,
+      18.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      6.6,
+      286.55,
+      11.29,
+      299.15
+    ],
+    "text": ". ~",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.599999904632568,
+      4.666133403778076
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      5.59,
+      296.46,
+      29.3,
+      647.03
+    ],
+    "text": ".1 l j I t , j I 1 i j I i j I I I I I I j j I i I I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      4.601673603057861,
+      6.300099849700928,
+      7.0,
+      7.199999809265137,
+      8.5,
+      8.899999618530273,
+      9.100000381469727,
+      10.399999618530273,
+      10.5,
+      11.5,
+      11.699999809265137,
+      12.399999618530273,
+      14.300000190734863,
+      15.600000381469727,
+      17.0,
+      19.399999618530273,
+      20.5,
+      20.600000381469727,
+      27.5,
+      31.899999618530273,
+      32.79999923706055,
+      34.20009994506836,
+      42.29999923706055
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      6.63,
+      646.82,
+      12.3,
+      664.49
+    ],
+    "text": ".1 !",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.617220878601074,
+      7.800099849700928
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      6.9,
+      674.1,
+      18.53,
+      728.5
+    ],
+    "text": "J 1 1 I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223,
+      11.0,
+      15.5,
+      15.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      7.57,
+      734.9,
+      16.74,
+      782.29
+    ],
+    "text": "t I 1 i i,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223,
+      6.556600093841553,
+      11.0,
+      14.800000190734863,
+      15.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      8.93,
+      778.65,
+      14.13,
+      792.94
+    ],
+    "text": "l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      82.37,
+      72.54,
+      539.39,
+      93.02
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.881187438964844,
+      14.899999618530273,
+      15.172703742980957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      214.93,
+      104.45,
+      406.5,
+      124.93
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.807915687561035,
+      14.881187438964844,
+      14.899999618530273,
+      15.081247329711914
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.74,
+      372.59,
+      220.95,
+      408.75
+    ],
+    "text": "Court of Appeal Case No. CA 135/2005",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.195929527282715,
+      13.800000190734863,
+      13.882702827453613,
+      14.399191856384277
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      81.05,
+      555.46,
+      213.31,
+      573.87
+    ],
+    "text": "High Court of Kandy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.265209197998047
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.5,
+      583.78,
+      236.65,
+      602.19
+    ],
+    "text": "Case No. HCC 300/ 2003.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.276833534240723,
+      13.800000190734863,
+      14.257128715515137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.42,
+      143.9,
+      540.84,
+      218.89
+    ],
+    "text": "In the matter of an appeal against an order of the High Court under Section 331 of the Criminal Procedure Code Act No. 15 of 1979",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.644436836242676,
+      13.699999809265137,
+      13.717588424682617,
+      13.873550415039062,
+      13.910088539123535,
+      13.920672416687012,
+      13.962632179260254,
+      13.967243194580078,
+      13.97494125366211,
+      14.022650718688965,
+      14.054123878479004,
+      14.874366760253906
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.48,
+      254.69,
+      532.48,
+      271.18
+    ],
+    "text": "The Attorney General of the Democratic",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.074519157409668,
+      12.099784851074219,
+      12.664122581481934
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.64,
+      274.85,
+      476.99,
+      291.34
+    ],
+    "text": "Socialist Republic of Sri Lanka .",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.883888244628906,
+      12.0,
+      12.664122581481934
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      463.3,
+      300.84,
+      539.42,
+      318.31
+    ],
+    "text": "Complainant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.02,
+      328.88,
+      512.79,
+      344.41
+    ],
+    "text": "Ranwadana Mudiyanselage Seneviratne",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.78,
+      347.37,
+      449.76,
+      362.9
+    ],
+    "text": "Dharmapala alias Ralahamy.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.31,
+      373.06,
+      519.48,
+      408.46
+    ],
+    "text": "Accused Vs.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.73,
+      435.94,
+      411.89,
+      454.35
+    ],
+    "text": "And Now Between",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.22,
+      483.92,
+      508.25,
+      499.45
+    ],
+    "text": "Ranwadana Mudiyanselage Seneviratne",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.22,
+      502.41,
+      445.2,
+      517.94
+    ],
+    "text": "Dharmapala alias Ralahamy.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      381.81,
+      528.1,
+      502.37,
+      546.51
+    ],
+    "text": "Accused -Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.39,
+      585.65,
+      322.36,
+      602.14
+    ],
+    "text": "Vs,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.0,
+      605.81,
+      532.24,
+      622.3
+    ],
+    "text": "The Attorney General of the Democratic",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.074519157409668,
+      12.12895679473877,
+      12.53152847290039
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.4,
+      625.73,
+      472.1,
+      642.22
+    ],
+    "text": "Socialist Republic of Sri Lanka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.991446495056152,
+      12.0,
+      12.664122581481934
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      377.86,
+      652.19,
+      539.68,
+      670.6
+    ],
+    "text": "Complaina nt-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.861015319824219,
+      13.93805980682373
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      81.3,
+      691.55,
+      328.21,
+      729.88
+    ],
+    "text": "Before : S. Thurairaja PC, J & A.L. Shiran Gooneratne J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.100000381469727,
+      13.377429962158203,
+      13.384184837341309,
+      13.399999618530273,
+      13.743534088134766,
+      13.800000190734863,
+      13.986736297607422
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.75,
+      70.53,
+      539.02,
+      88.08
+    ],
+    "text": "Counsel : Saliya Pieris PC with Arjuna Rathnasiri and Geeth Karunarathne",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.303264617919922,
+      12.300000190734863,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172.56,
+      90.93,
+      379.13,
+      107.84
+    ],
+    "text": "Attorneys-at-Law for the Appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.461736679077148
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.24,
+      118.77,
+      514.26,
+      135.67
+    ],
+    "text": "Dappula De Livera PC, SG with P. Kumararathnam DSG and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.88517951965332,
+      11.334832191467285,
+      11.347249984741211,
+      11.80155086517334,
+      12.12916374206543,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.25,
+      139.18,
+      429.84,
+      156.08
+    ],
+    "text": "Lakmali Dissanayake SC for the Respondent.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.373506546020508,
+      12.300000190734863,
+      12.368409156799316
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.91,
+      165.11,
+      457.12,
+      184.56
+    ],
+    "text": "Written Submissions : Accused Appellant- 31 st October 2018.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      11.490459442138672,
+      12.300000190734863,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.93,
+      218.7,
+      164.59,
+      235.91
+    ],
+    "text": "Argument on",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.86,
+      243.9,
+      164.11,
+      261.11
+    ],
+    "text": "Judgment on",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      232.14,
+      190.55,
+      508.11,
+      209.6
+    ],
+    "text": "Complainant Respondent-12th November 2018.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.35,
+      216.23,
+      420.82,
+      235.28
+    ],
+    "text": ": 21 st September and 15th October 2018.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      11.482107162475586,
+      12.214250564575195,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186.87,
+      241.67,
+      317.62,
+      260.72
+    ],
+    "text": ": 26th November 2018.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      262.05,
+      270.09,
+      371.65,
+      287.29
+    ],
+    "text": "******************",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.80671215057373
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      279.78,
+      306.07,
+      355.71,
+      323.28
+    ],
+    "text": "JUDGMENT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.31,
+      335.26,
+      206.6,
+      360.6
+    ],
+    "text": "s. Thurairaja. PC. J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.513692855834961,
+      13.897273063659668,
+      14.399999618530273,
+      15.81711483001709
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.08,
+      376.32,
+      538.25,
+      392.26
+    ],
+    "text": "This is a case of Double Murder, reported at the Police Station of Kandy. After the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.978607177734375,
+      11.399873733520508,
+      11.563191413879395,
+      11.600000381469727,
+      11.921154022216797,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.65,
+      400.32,
+      537.75,
+      416.26
+    ],
+    "text": "investigation and the non-summary inquiry, Honourable Attorney General had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.66,
+      424.57,
+      538.36,
+      440.51
+    ],
+    "text": "preferred an indictment against the Accused-Appellant, Ranwadana Mudiyanselage",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.4945707321167,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.25,
+      448.8,
+      537.46,
+      464.74
+    ],
+    "text": "Seneviratne Dharmapala alias Ralahamy (hereinafter sometimes called and referred",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.1,
+      472.8,
+      537.44,
+      488.74
+    ],
+    "text": "to as the Appellant) for committing the murder of Amitha Kumari Seneviratne and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.954754829406738,
+      11.600000381469727,
+      11.64162540435791,
+      11.693077087402344,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.62,
+      497.04,
+      537.52,
+      512.98
+    ],
+    "text": "Rasika Sakuni Seneviratne which is punishable under Section 296 of the Penal Code.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.978607177734375,
+      11.348779678344727,
+      11.49704360961914,
+      11.600000381469727,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.33,
+      521.28,
+      304.9,
+      537.22
+    ],
+    "text": "The Appellant was a retired Police Officer.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.437005043029785,
+      11.571414947509766,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.33,
+      553.44,
+      537.86,
+      569.38
+    ],
+    "text": "The prosecution has led the evidence of Ariyaratne Bandara Mawilmada (the main",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.392748832702637,
+      11.437005043029785,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.39,
+      577.44,
+      538.37,
+      593.38
+    ],
+    "text": "witness), Rajanayaka Mudiyanselage Meththananda Rajanayaka (the Grama Niladhari",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.52,
+      601.68,
+      538.74,
+      617.62
+    ],
+    "text": "of the No.259 Grama Niladhari Division), Professor Kohilawatta Gamage Harry",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.47,
+      626.17,
+      537.82,
+      642.11
+    ],
+    "text": "Chandra Nimal Seneviratne (the husband of the deceased Amitha Kumari",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.49,
+      650.17,
+      538.29,
+      666.11
+    ],
+    "text": "Seneviratne), Bethmage Don Sirisena (the servant of Professor Kohilawatta Gamage",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.85,
+      673.69,
+      538.21,
+      689.63
+    ],
+    "text": "Harry Chandra Nimal Seneviratne, Godagama Widanachchilage Kamal Chandana",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.41,
+      697.69,
+      537.91,
+      713.63
+    ],
+    "text": "Ariyawansa (Police Officer who received the first information), Ranaweera",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.88,
+      721.68,
+      537.55,
+      737.62
+    ],
+    "text": "Mudiyanselage Loku Banda (the Additional Registrar of the Kandy Land Registry),",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.551850318908691,
+      11.596049308776855,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.84,
+      745.44,
+      537.42,
+      761.38
+    ],
+    "text": "Fedrick Appuhamilage Lionel Jayasinghe (Journalist of Wijaya News Papers),",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.49749755859375,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      6.0,
+      359.28,
+      9.24,
+      367.08
+    ],
+    "text": ",~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      2.595996856689453
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      5.12,
+      365.23,
+      32.31,
+      483.03
+    ],
+    "text": "j I I ! I 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.500100135803223,
+      6.800099849700928,
+      9.100000381469727,
+      15.899999618530273,
+      16.299999237060547,
+      48.90010070800781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      6.18,
+      477.7,
+      11.44,
+      492.77
+    ],
+    "text": ") l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.7000999450683594,
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.67,
+      70.09,
+      536.52,
+      86.03
+    ],
+    "text": "Karunaratne Wijenayake (Administrative Officer-Wijaya News Papers), Rohitha",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.65,
+      94.32,
+      536.67,
+      110.26
+    ],
+    "text": "Rajapakse (Bank Assistant), Sepala Mudiyanselage Janaka Kelum Sen erath Bandara",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.227107048034668,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.71,
+      118.32,
+      536.15,
+      134.26
+    ],
+    "text": "(Police Officer), Wellampulli Arachchilage Ananda (retired Police Officer), A.B.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.109426498413086,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.77,
+      142.56,
+      536.71,
+      158.5
+    ],
+    "text": "Seneviratne (Judicial Medical Officer), Hulangamuwa Gedara Sirisena, Dissanayake",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.91,
+      166.8,
+      536.87,
+      182.74
+    ],
+    "text": "Mudiyanselage Indra Kumari, Samarakoon Mudiyanselage Sarath Samarakoon,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.5,
+      191.04,
+      537.28,
+      206.98
+    ],
+    "text": "Gurusinghe Danawardane (Chief Inspector of Police), Segu David Mohommed Farook",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.473106384277344,
+      11.600000381469727,
+      11.602299690246582,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.56,
+      215.3,
+      313.44,
+      231.23
+    ],
+    "text": "and Registrar Pathmarajah Pathmadakshan.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.44,
+      263.29,
+      536.96,
+      279.23
+    ],
+    "text": "According to the prosecution witnesses the Appellant was living in the same",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5006742477417,
+      11.59489917755127,
+      11.600000381469727,
+      11.961905479431152
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.94,
+      285.92,
+      538.05,
+      303.46
+    ],
+    "text": "neighbourhood of the deceased persons. On the 25th July 2001, the Appellant",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.02353572845459,
+      11.385415077209473,
+      11.563041687011719,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.38,
+      311.52,
+      537.77,
+      327.46
+    ],
+    "text": "together with the main witness, Ariyaratne Bandara Mawilmada had gone to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.693077087402344
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.94,
+      335.77,
+      536.7,
+      351.71
+    ],
+    "text": "house of the deceased which is situated at the Prime Rose Garden, Kandy. The 1 st",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      10.978607177734375,
+      11.35787296295166,
+      11.584540367126465,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.81,
+      360.0,
+      537.34,
+      375.94
+    ],
+    "text": "deceased is a wife of a professor who is attached to the University of Peradeniya. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.978607177734375,
+      11.172938346862793,
+      11.511009216308594,
+      11.600000381469727,
+      11.921154022216797,
+      11.961905479431152,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.82,
+      382.66,
+      536.7,
+      399.94
+    ],
+    "text": "2nd deceased was 12 years of age at the time of the incident, was a child of the 1 st",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      11.377262115478516,
+      11.5006742477417,
+      11.571414947509766,
+      11.600000381469727,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.81,
+      408.0,
+      539.37,
+      423.94
+    ],
+    "text": "deceased. According to the main witness, there were some issues about draining of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.626220703125,
+      11.828254699707031,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.94,
+      432.24,
+      537.37,
+      448.18
+    ],
+    "text": "rain water from the land of the Appellant and the witness. On the day of the incident,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.563041687011719,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.62,
+      456.24,
+      538.84,
+      472.18
+    ],
+    "text": "the Appellant was seen approaching the 1 st deceased and speaking to her. There, it",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      11.499061584472656,
+      11.5006742477417,
+      11.600000381469727,
+      11.696449279785156,
+      11.961905479431152
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.44,
+      480.72,
+      537.53,
+      496.66
+    ],
+    "text": "was noticed that the deceased was scolding the Appellant which resulted the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.42944622039795,
+      11.571414947509766,
+      11.600000381469727,
+      11.638885498046875
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.69,
+      503.39,
+      535.89,
+      520.9
+    ],
+    "text": "Appellant attacking the deceased. She was taken into the house, at that time the 2nd",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      11.373896598815918,
+      11.5006742477417,
+      11.600000381469727,
+      11.638885498046875
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.81,
+      529.2,
+      538.33,
+      545.14
+    ],
+    "text": "deceased was seen calling her mother. The Appellant bundled her up and carried her",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.499061584472656,
+      11.571414947509766,
+      11.584540367126465,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.62,
+      551.86,
+      537.07,
+      569.14
+    ],
+    "text": "to the room. Thereafter she was found dead. The 1st deceased had 50 injuries on her.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      11.385517120361328,
+      11.478766441345215,
+      11.5006742477417,
+      11.584540367126465,
+      11.585140228271484,
+      11.600000381469727,
+      11.693077087402344
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.0,
+      575.86,
+      537.66,
+      593.39
+    ],
+    "text": "Cause of death was manual strangulation. The 2nd deceased who was 12 years old",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      11.439845085144043,
+      11.500271797180176,
+      11.5006742477417,
+      11.571414947509766,
+      11.584540367126465,
+      11.600000381469727,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.8,
+      601.2,
+      263.76,
+      617.14
+    ],
+    "text": "and died of ligature strangulation.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.69,
+      649.69,
+      538.89,
+      665.63
+    ],
+    "text": "After the trial before the High Court Judge of Kandy, the Appellant was found guilty",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.571414947509766,
+      11.600000381469727,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.65,
+      673.45,
+      537.04,
+      689.39
+    ],
+    "text": "for Culpable Homicide not amounting to murder for the death of the 1 st deceased",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      11.600000381469727,
+      11.64162540435791,
+      11.68186092376709,
+      11.693077087402344,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.8,
+      697.45,
+      538.02,
+      713.39
+    ],
+    "text": "and sentenced to 10 years rigorous imprisonment and a fine of Rs. 50,000/-. For the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.547886848449707,
+      11.597749710083008,
+      11.600000381469727,
+      11.828254699707031,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.83,
+      718.79,
+      536.96,
+      737.39
+    ],
+    "text": "2nd count, the Appellant was found guilty for murder of the 2nd deceased and",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.690022468566895,
+      11.5006742477417,
+      11.600000381469727,
+      11.64162540435791,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.06,
+      744.96,
+      187.89,
+      760.9
+    ],
+    "text": "sentenced to death.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.828254699707031
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      5.21,
+      21.63,
+      16.9,
+      89.07
+    ],
+    "text": "! I I J j",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      8.800000190734863,
+      9.100000381469727,
+      12.600000381469727,
+      22.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      4.92,
+      87.26,
+      17.04,
+      120.27
+    ],
+    "text": "I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.800000190734863,
+      21.799999237060547
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      6.25,
+      114.48,
+      9.13,
+      120.18
+    ],
+    "text": "~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      2.5625269412994385
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.63,
+      70.08,
+      536.85,
+      86.02
+    ],
+    "text": "Being aggrieved with the said convictions and sentences the Appellant preferred an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.379045486450195,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.04,
+      94.33,
+      478.77,
+      110.27
+    ],
+    "text": "appeal to the Court of Appeal and submitted following grounds of appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.828254699707031,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.78,
+      136.8,
+      538.02,
+      152.74
+    ],
+    "text": "1) Whether the witness namely Mawilmada is an accomplice and therefore",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.978607177734375,
+      11.113707542419434,
+      11.379045486450195,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.12,
+      160.8,
+      538.8,
+      176.74
+    ],
+    "text": "verdict on such evidence is fatal in the absence of any independent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.978607177734375,
+      11.599749565124512,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.51,
+      185.52,
+      195.6,
+      201.46
+    ],
+    "text": "corroboration.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.55,
+      209.28,
+      538.01,
+      225.22
+    ],
+    "text": "2) Whether the witness Mawilmada is a credible witness in the light of material",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.14450740814209,
+      11.172938346862793,
+      11.600000381469727,
+      11.64112663269043,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.51,
+      233.52,
+      539.61,
+      249.46
+    ],
+    "text": "contradictions and the improbability of his evidence and the improbability of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.34,
+      258.01,
+      223.93,
+      273.95
+    ],
+    "text": "the Police Evidence.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.75,
+      281.76,
+      538.01,
+      297.7
+    ],
+    "text": "3) Whether the Learned High Court Judge has failed to consider material",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.002986907958984,
+      11.392748832702637,
+      11.600000381469727,
+      11.828254699707031
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.75,
+      306.0,
+      197.91,
+      321.94
+    ],
+    "text": "contradictions.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.12,
+      329.76,
+      539.85,
+      345.7
+    ],
+    "text": "4) The Learned High Court Judge should not have allowed evidence in respect of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.396617889404297,
+      11.600000381469727,
+      11.68186092376709,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.34,
+      354.0,
+      538.49,
+      369.94
+    ],
+    "text": "the forgery of a deed or the land dispute to be led as its connection to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.954754829406738,
+      11.540648460388184,
+      11.600000381469727,
+      11.682357788085938,
+      11.693077087402344,
+      11.828254699707031,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.9,
+      378.48,
+      445.73,
+      394.42
+    ],
+    "text": "prosecution version is very remote and unfair by the accused.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.978607177734375,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.0,
+      402.48,
+      538.49,
+      418.42
+    ],
+    "text": "5) The Learned High Court Judge has failed to fairly evaluate the evidence of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.993020057678223,
+      11.392748832702637,
+      11.511009216308594,
+      11.600000381469727,
+      11.828254699707031,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.66,
+      426.48,
+      539.54,
+      442.42
+    ],
+    "text": "Accused and the rejection of the evidence of the Accused and his daughter",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.921154022216797,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.38,
+      450.72,
+      247.7,
+      466.66
+    ],
+    "text": "were for trifling reasons.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.735113143920898
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.36,
+      483.13,
+      537.93,
+      499.07
+    ],
+    "text": "When the matter was taken up for argument the Learned President's Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.571414947509766,
+      11.600000381469727,
+      11.827911376953125
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.75,
+      507.13,
+      415.27,
+      523.07
+    ],
+    "text": "confined to the following grounds of appeal for consideration.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.64162540435791,
+      11.828254699707031,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.27,
+      539.28,
+      476.75,
+      555.22
+    ],
+    "text": "1) The Trial Court erred in law that Mavilmada was not an accomplice.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.949088096618652,
+      11.4945707321167,
+      11.5006742477417,
+      11.511009216308594,
+      11.600000381469727,
+      11.68186092376709
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.79,
+      563.28,
+      352.1,
+      579.22
+    ],
+    "text": "2) Mavilmada's evidence is unworthy of credit.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.978607177734375,
+      11.14450740814209,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.99,
+      587.76,
+      443.05,
+      603.7
+    ],
+    "text": "3) Application to prove contradictions were rejected was unfair.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.002986907958984,
+      11.42944622039795,
+      11.600000381469727,
+      11.693077087402344
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.36,
+      611.76,
+      537.97,
+      627.7
+    ],
+    "text": "4) Court evaluation of Police evidence regarding Section 27(1) recovery was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.396617889404297,
+      11.42944622039795,
+      11.600000381469727,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.9,
+      635.53,
+      194.34,
+      651.47
+    ],
+    "text": "unreasonable.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.0,
+      659.53,
+      538.16,
+      675.47
+    ],
+    "text": "5) Rejection of evidence of Appellant and his daughter was erroneous in Law and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.993020057678223,
+      11.412941932678223,
+      11.5006742477417,
+      11.600000381469727,
+      11.921154022216797,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.14,
+      683.53,
+      194.07,
+      699.47
+    ],
+    "text": "unreasonable.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.0,
+      707.53,
+      538.73,
+      723.47
+    ],
+    "text": "6) Court allowed certain evidence which are irrelevant and prejudicial to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.146692276000977,
+      11.600000381469727,
+      11.828254699707031
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.0,
+      731.28,
+      170.01,
+      747.22
+    ],
+    "text": "appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.17,
+      67.67,
+      534.93,
+      85.78
+    ],
+    "text": "The 1st and 2nd grounds of appeal are taken together. According to the witness,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.690022468566895,
+      8.899999618530273,
+      11.437005043029785,
+      11.600000381469727,
+      11.828254699707031,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.47,
+      94.08,
+      537.21,
+      110.02
+    ],
+    "text": "Mavilmada he had purchased adjoining land of the deceased and there was issue of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.472498893737793,
+      11.5006742477417,
+      11.594549179077148,
+      11.600000381469727,
+      11.921154022216797,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.37,
+      118.33,
+      535.85,
+      134.27
+    ],
+    "text": "draining of rain water. It appears there were some other issues between the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.57371997833252,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.37,
+      142.57,
+      535.28,
+      158.51
+    ],
+    "text": "deceased and the appellant regarding occupation of another land in the same",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.59489917755127,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.2,
+      166.57,
+      536.23,
+      182.51
+    ],
+    "text": "vicinity. On the day of the incident, the appellant had invited the main witness to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.693077087402344,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.35,
+      190.57,
+      535.85,
+      206.51
+    ],
+    "text": "come there and get to know the neighbours. When Mavilmada went together with",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.828254699707031
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.19,
+      214.8,
+      536.33,
+      230.74
+    ],
+    "text": "the appellant to the house of the deceased, the appellant had entered to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.828254699707031,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.74,
+      239.04,
+      536.33,
+      254.98
+    ],
+    "text": "premises of the deceased. The witness observed that the deceased was scolding the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.511009216308594,
+      11.571414947509766,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.36,
+      263.28,
+      537.08,
+      279.22
+    ],
+    "text": "appellant on certain issues. The appellant was seen assaulting the deceased with a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.462080001831055,
+      11.499061584472656,
+      11.5006742477417,
+      11.584540367126465,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.74,
+      287.28,
+      536.29,
+      303.22
+    ],
+    "text": "handle like stick. The deceased was 5 feet 5 inches. The appellant was a retired police",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.42944622039795,
+      11.5006742477417,
+      11.511009216308594,
+      11.584540367126465,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.61,
+      311.53,
+      535.47,
+      327.47
+    ],
+    "text": "officer was much built than her. When the deceased fell on the ground he had seen",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.499061584472656,
+      11.5006742477417,
+      11.588994979858398,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.42,
+      335.53,
+      535.58,
+      351.47
+    ],
+    "text": "the appellant was kicking her on the chest area. The witness had seen the deceased",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5006742477417,
+      11.511009216308594,
+      11.531548500061035,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.24,
+      359.28,
+      536.77,
+      375.22
+    ],
+    "text": "was bleeding. The appellant, had asked the witness to hold her legs to carry her",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.42944622039795,
+      11.511009216308594,
+      11.600000381469727,
+      11.828254699707031,
+      11.961905479431152
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.36,
+      383.53,
+      536.33,
+      399.47
+    ],
+    "text": "away. Mavilmada who claims that he was scared, obeyed to the ordered of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5006742477417,
+      11.5853910446167,
+      11.588994979858398,
+      11.600000381469727,
+      11.693077087402344,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.36,
+      408.0,
+      420.74,
+      423.94
+    ],
+    "text": "appellant. He held the legs to carry the deceased into the room.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.526769638061523,
+      11.600000381469727,
+      11.828254699707031
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.23,
+      437.51,
+      535.76,
+      455.87
+    ],
+    "text": "At that time the 2nd deceased, who was 12-year-old was heart calling \"mummy\" and",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.690022468566895,
+      11.42944622039795,
+      11.5006742477417,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.59,
+      464.16,
+      536.71,
+      480.1
+    ],
+    "text": "coming there. The appellant was seen carrying the child like a bundle of firewood to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5006742477417,
+      11.558175086975098,
+      11.584540367126465,
+      11.600000381469727,
+      11.693077087402344,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.42,
+      485.74,
+      412.47,
+      504.1
+    ],
+    "text": "the room. The witness had not seen attacking of 2nd deceased.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.690022468566895,
+      11.499061584472656,
+      11.584540367126465,
+      11.600000381469727,
+      11.763842582702637,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.4,
+      520.57,
+      536.58,
+      536.51
+    ],
+    "text": "The Judicial Medical Officer (JMO) who conducted the post mortem had found the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.511009216308594,
+      11.553909301757812,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.24,
+      544.56,
+      535.84,
+      560.5
+    ],
+    "text": "weapon used on the deceased was a blunt weapon. When shown a rolling pin which",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.42944622039795,
+      11.600000381469727,
+      11.658154487609863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.24,
+      568.8,
+      535.65,
+      584.74
+    ],
+    "text": "was recovered on a Section 27 (1) statement, the JMO opined it is possible to cause",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.978607177734375,
+      11.244760513305664,
+      11.42944622039795,
+      11.577277183532715,
+      11.600000381469727,
+      11.696449279785156,
+      11.828254699707031
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.42,
+      590.63,
+      536.58,
+      608.74
+    ],
+    "text": "those injuries with such instrument. The 1st deceased had fracture on her ribs; the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      11.584540367126465,
+      11.599749565124512,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.15,
+      617.04,
+      362.87,
+      632.98
+    ],
+    "text": "JMO confirms that, it is possible with kick on the ribs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.978607177734375,
+      11.600000381469727,
+      11.696449279785156
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.41,
+      647.27,
+      535.93,
+      665.14
+    ],
+    "text": "There are many other materials which corroborate the evidence of the 1st witness.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      11.600000381469727,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.4,
+      672.49,
+      536.61,
+      688.43
+    ],
+    "text": "Therefore, the finding of the Learned Trial Judge that the witness is worthy of credits",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.978607177734375,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.59,
+      696.49,
+      170.46,
+      712.43
+    ],
+    "text": "can be accepted.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.376343727111816,
+      11.540648460388184,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      4.18,
+      135.09,
+      20.19,
+      213.12
+    ],
+    "text": "j 1 1 f I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.500100135803223,
+      9.699999809265137,
+      12.600000381469727,
+      18.5,
+      19.20009994506836
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      5.05,
+      202.87,
+      17.59,
+      258.4
+    ],
+    "text": "\\ I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.600000381469727,
+      19.799999237060547,
+      21.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      5.27,
+      261.8,
+      13.53,
+      289.37
+    ],
+    "text": "J J 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.599999904632568,
+      7.800099849700928,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78.89,
+      70.77,
+      535.65,
+      86.44
+    ],
+    "text": "The Learned Trial Judge extensively considered the issue whether this witness was an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.280523300170898,
+      11.337981224060059,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79.08,
+      95.02,
+      536.51,
+      110.68
+    ],
+    "text": "accomplice or not. He had given sufficient and tenable reasons to find that the main",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.326261520385742,
+      11.399999618530273,
+      11.472370147705078,
+      11.581210136413574,
+      11.725842475891113
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      78.95,
+      119.5,
+      247.04,
+      135.17
+    ],
+    "text": "witness was not an accomplice.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.280523300170898,
+      11.399999618530273,
+      11.661989212036133
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79.45,
+      151.41,
+      508.18,
+      167.08
+    ],
+    "text": "E.R.S.R. Coomaraswamy in his book titled \"The Law of Evidence\" Vol. II, Book I at",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.642803192138672,
+      10.959488868713379,
+      11.314126968383789,
+      11.399999618530273,
+      11.52570629119873,
+      11.817937850952148
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79.46,
+      175.89,
+      226.02,
+      191.56
+    ],
+    "text": "page 364, states as follows;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.985411643981934,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.92,
+      222.85,
+      515.2,
+      239.39
+    ],
+    "text": "\"For the purposes of section 774 (f), it may be said that an accomplice is one",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.776988983154297,
+      11.900420188903809,
+      11.903203010559082,
+      12.261628150939941,
+      12.5,
+      12.837299346923828,
+      13.219067573547363
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.35,
+      248.02,
+      443.45,
+      263.28
+    ],
+    "text": "concerned with another or others in the commission of crime. \"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.373207092285156,
+      12.5,
+      13.219067573547363
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79.65,
+      296.38,
+      513.76,
+      312.04
+    ],
+    "text": "He cites with approval the following passage from Wharton on Criminal Evidence",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.326261520385742,
+      11.399999618530273,
+      11.431206703186035
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      80.03,
+      320.62,
+      236.02,
+      336.29
+    ],
+    "text": "11th Ed. Vol. II at page 1229 -",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.582918167114258,
+      10.87097454071045,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.14,
+      368.99,
+      534.46,
+      384.26
+    ],
+    "text": "\"An accomplice is a person who knowingly, voluntarily and with common intent",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.106712341308594,
+      12.137750625610352,
+      12.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.61,
+      392.99,
+      390.19,
+      408.26
+    ],
+    "text": "with the principal offender unites in the commission.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.373207092285156,
+      12.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79.61,
+      448.96,
+      523.33,
+      464.8
+    ],
+    "text": "In Attorney General vs. D. Seneviratne [1982 - Volume 1, Page No - 302] it was",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.319991111755371,
+      11.330488204956055,
+      11.351547241210938,
+      11.5,
+      11.595179557800293,
+      11.676593780517578
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      79.58,
+      473.51,
+      141.71,
+      489.17
+    ],
+    "text": "stated that,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.68,
+      506.02,
+      537.93,
+      521.29
+    ],
+    "text": "':4n accomplice is a guilty associate whether as perpetrator or as incitor or",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.106712341308594,
+      12.351517677307129,
+      12.497199058532715,
+      12.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.12,
+      529.78,
+      537.53,
+      545.05
+    ],
+    "text": "helper in the commission of criminal acts constituting the offence charged of a",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.373207092285156,
+      12.5,
+      12.93474006652832,
+      13.219067573547363
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.54,
+      553.78,
+      537.97,
+      569.04
+    ],
+    "text": "lesser or kindred offence of which the accused could be found guilty on the same",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.5,
+      13.219067573547363
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.51,
+      578.02,
+      536.79,
+      593.28
+    ],
+    "text": "indictment. Where there are special circumstances which only the accused can",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.32,
+      602.26,
+      364.73,
+      617.53
+    ],
+    "text": "explain the accused must offer an explanation. II",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      5.020669937133789,
+      12.5,
+      12.662839889526367
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.64,
+      634.66,
+      418.82,
+      649.92
+    ],
+    "text": "\"From the cases three main definitions can be formulated:",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.379772186279297,
+      12.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.71,
+      666.83,
+      537.79,
+      682.09
+    ],
+    "text": "(7) An accomplice witness is one who could have been convicted of the actual",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.699999809265137,
+      12.106712341308594,
+      12.5,
+      13.219067573547363
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.58,
+      690.35,
+      411.31,
+      705.62
+    ],
+    "text": "offence with which the accused is charged as a principal.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.106712341308594,
+      12.497199058532715,
+      12.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.45,
+      722.74,
+      537.79,
+      738.01
+    ],
+    "text": "(2) An accomplice witness is one who could have been convicted of the actual",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.979252815246582,
+      12.106712341308594,
+      12.5,
+      12.586103439331055,
+      13.219067573547363
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.35,
+      746.74,
+      538.38,
+      762.01
+    ],
+    "text": "offence with which the accused is charged whether as principal, aider and",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.903203010559082,
+      12.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.6,
+      70.52,
+      538.6,
+      85.66
+    ],
+    "text": "abettor, or counseLLor. This test is adopted in Sri Lanka and in some other",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.983867645263672,
+      12.058188438415527,
+      12.259757041931152,
+      12.272544860839844,
+      12.323614120483398,
+      12.399999618530273,
+      12.42058277130127
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      113.68,
+      94.76,
+      537.19,
+      109.9
+    ],
+    "text": "jurisdictions. In EngLand the House of Lords heLd that on the existing case Law",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.624500274658203,
+      11.67601490020752,
+      12.142322540283203,
+      12.287792205810547,
+      12.381185531616211,
+      12.399999618530273,
+      13.025237083435059
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116.01,
+      118.76,
+      538.36,
+      133.9
+    ],
+    "text": "the term accompLices includes accessories after the fact and by an extended",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.459407806396484,
+      12.737652778625488
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.6,
+      143.01,
+      538.29,
+      158.15
+    ],
+    "text": "application receiver of stoLen goods on the triaL of the thief, and parties to other",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.684294700622559,
+      12.33226490020752,
+      12.399999618530273,
+      12.459407806396484,
+      13.025237083435059
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.81,
+      167.25,
+      536.94,
+      182.39
+    ],
+    "text": "crimes (of a type identicaL with the crime charged against the accused) when 4",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.8,
+      191.48,
+      537.85,
+      206.62
+    ],
+    "text": "evidence to prove system and intent and to negative accident is sought to be",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.058188438415527,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116.27,
+      214.91,
+      537.11,
+      230.71
+    ],
+    "text": "Led ..... In Sri Lanka 8asnayake J (later CJ.) in Peiris v DoLe and JayatiLeke J (Later",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.5,
+      11.545937538146973,
+      11.67601490020752,
+      11.730104446411133,
+      12.000876426696777,
+      12.162474632263184,
+      12.285723686218262,
+      12.323614120483398,
+      12.36133861541748,
+      12.399999618530273,
+      12.459407806396484
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116.23,
+      238.91,
+      536.63,
+      254.71
+    ],
+    "text": "CJ.) in The King v Piyasena adopted the definition of O'Sullivan A. J. C in",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.053932189941406,
+      10.972379684448242,
+      11.5,
+      12.1559476852417,
+      12.323614120483398,
+      12.37752914428711,
+      12.385491371154785,
+      12.399999618530273,
+      13.166085243225098
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.91,
+      263.72,
+      537.75,
+      278.86
+    ],
+    "text": "ChetumaL RekumaL v Emperor that an accomplice is a guilty associate in crime",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.855494499206543,
+      12.323614120483398,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.82,
+      287.96,
+      538.2,
+      303.1
+    ],
+    "text": "or one who sustains such a reLation to the criminaL act that he couLd be jointLy",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.183967590332031,
+      12.358128547668457,
+      12.399999618530273,
+      12.468908309936523
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.82,
+      312.21,
+      252.21,
+      327.35
+    ],
+    "text": "charged with the accused.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116.17,
+      344.37,
+      537.81,
+      359.51
+    ],
+    "text": "(3) An accomplice witness is one whose Liability to prosecution arises from the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.818148612976074,
+      12.058188438415527,
+      12.386092185974121,
+      12.399999618530273,
+      12.53565788269043
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.72,
+      368.37,
+      343.17,
+      383.51
+    ],
+    "text": "same facts as that of the principaL offender.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.47497272491455,
+      13.025237083435059
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80.34,
+      432.83,
+      424.89,
+      448.72
+    ],
+    "text": "In The King V. Peiris Appuhamy (43 NLR 412) it was held that,",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.237146377563477,
+      11.380074501037598,
+      11.5,
+      11.64592456817627
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116.35,
+      482.61,
+      536.42,
+      497.75
+    ],
+    "text": "\"The question whether a person is an accompLice is for the Jury to decide.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.855494499206543,
+      12.058188438415527,
+      12.26673412322998,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116.04,
+      506.84,
+      537.7,
+      521.98
+    ],
+    "text": "It is the duty of the Judge to direct the Jury as to what association with the crime",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.058188438415527,
+      12.132566452026367,
+      12.399999618530273,
+      13.025237083435059
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116.34,
+      530.85,
+      537.8,
+      545.99
+    ],
+    "text": "wouLd constitute a person an accomplice. If a person is an accomplice it is the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.855494499206543,
+      12.058188438415527,
+      12.256519317626953,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116.09,
+      554.84,
+      538.7,
+      569.99
+    ],
+    "text": "duty of the Judge to warn the Jury that it wouLd be unsafe to convict without",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.256519317626953,
+      12.399999618530273,
+      13.166085243225098
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116.05,
+      578.84,
+      538.19,
+      593.99
+    ],
+    "text": "corroboration and to expLain to them the Law as to what constitutes",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.701739311218262,
+      12.328896522521973,
+      12.399999618530273,
+      12.41324234008789
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.82,
+      603.08,
+      191.31,
+      618.22
+    ],
+    "text": "corroboration.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116.01,
+      627.57,
+      537.81,
+      642.71
+    ],
+    "text": "Evidence in corroboration must be independent testimony which affects the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.323614120483398,
+      12.399999618530273,
+      12.670303344726562
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      116.08,
+      650.05,
+      537.65,
+      666.59
+    ],
+    "text": "accused by connecting or tending to connect him with the crime. A witness who",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.399999618530273,
+      12.616902351379395
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.86,
+      675.32,
+      538.41,
+      690.47
+    ],
+    "text": "mereLy assisted in the disposaL of the dead body but who did not take part in the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.323614120483398,
+      12.37302017211914,
+      12.399999618530273,
+      12.569836616516113,
+      12.635562896728516,
+      13.166085243225098
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.86,
+      699.09,
+      537.3,
+      714.23
+    ],
+    "text": "perpetration of the crime is not an accomplice. The question whether a person is",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.058188438415527,
+      12.301508903503418,
+      12.399999618530273,
+      12.635562896728516,
+      12.882896423339844
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.84,
+      723.33,
+      538.04,
+      738.47
+    ],
+    "text": "an accomplice is for the Jury to decide. It is the duty of the Judge to direct the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.855494499206543,
+      12.058188438415527,
+      12.132566452026367,
+      12.26673412322998,
+      12.399999618530273,
+      13.166085243225098
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      114.14,
+      69.62,
+      535.82,
+      86.22
+    ],
+    "text": "Jury as to what association with the crime would constitute a person an",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.182801246643066,
+      13.194453239440918,
+      13.319967269897461,
+      13.3247652053833,
+      13.439199447631836,
+      13.476993560791016,
+      13.520618438720703,
+      13.582439422607422,
+      13.59324836730957,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.11,
+      94.11,
+      185.89,
+      110.71
+    ],
+    "text": "accomplice \"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.28,
+      126.48,
+      515.11,
+      142.42
+    ],
+    "text": "G.P.S. de Silva, c.J. in Alwis vs. Piyasena Fernando [1993 (1) SLR 119] held that,",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.875846862792969,
+      11.007617950439453,
+      11.128803253173828,
+      11.300000190734863,
+      11.31848430633545,
+      11.481545448303223,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      118.75,
+      158.18,
+      536.55,
+      174.78
+    ],
+    "text": "\"it is well established that findings of primary facts by a trial Judge who hears",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.628177642822266,
+      12.997714042663574,
+      13.126456260681152,
+      13.354841232299805,
+      13.366546630859375,
+      13.37285327911377,
+      13.449769973754883,
+      13.484862327575684,
+      13.519864082336426,
+      13.600000381469727,
+      13.788444519042969
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.35,
+      182.43,
+      432.13,
+      199.03
+    ],
+    "text": "and sees witnesses are not to be lighty disturbed on appeal.\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.210111618041992,
+      13.272968292236328,
+      13.319967269897461,
+      13.563199996948242,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.62,
+      215.28,
+      317.12,
+      231.22
+    ],
+    "text": "In King vs. Rankira (42 NLR 145) held that,",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.221124649047852,
+      11.285897254943848,
+      11.300000190734863,
+      11.30834674835205,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      110.55,
+      246.99,
+      535.91,
+      263.59
+    ],
+    "text": "\"the Court of Appeal will not interfere with the judicial discretion of a judge in",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.730558395385742,
+      13.114432334899902,
+      13.439199447631836,
+      13.451539993286133,
+      13.517902374267578,
+      13.519713401794434,
+      13.600000381469727,
+      13.788444519042969
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.18,
+      270.98,
+      534.94,
+      287.58
+    ],
+    "text": "passing sentence unless that discretion has been exercised on a wrong principle.\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.01512336730957,
+      13.272968292236328,
+      13.425734519958496,
+      13.487030982971191,
+      13.526803016662598,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.16,
+      303.85,
+      536.72,
+      319.79
+    ],
+    "text": "We carefully perused evidence before and the judgement of the Trial Judge. We are",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.56464672088623,
+      11.571114540100098,
+      11.600000381469727,
+      11.65626335144043,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.31,
+      328.08,
+      537.29,
+      344.02
+    ],
+    "text": "convinced that the findings of the Trial Judge is well founded hence we have no",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.978607177734375,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.46,
+      352.32,
+      265.01,
+      368.26
+    ],
+    "text": "reasons to interfere with the same.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.515542984008789,
+      11.600000381469727,
+      11.828254699707031
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.97,
+      382.07,
+      444.63,
+      400.42
+    ],
+    "text": "Accordingly, the 1st and 2nd grounds of appeal fail on its own merits.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.690022468566895,
+      8.899999618530273,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.88,
+      414.57,
+      537.17,
+      432.58
+    ],
+    "text": "The 3rd and 5th grounds of appeal were taken together for consideration. When the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.056110382080078,
+      8.399999618530273,
+      11.511009216308594,
+      11.600000381469727,
+      11.64162540435791,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.31,
+      440.88,
+      537.29,
+      456.82
+    ],
+    "text": "counsel was presenting his argument in the half way he informs Court since the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.472498893737793,
+      11.5006742477417,
+      11.556066513061523,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.31,
+      464.88,
+      537.25,
+      480.82
+    ],
+    "text": "contradictions are not proved properly he is not emphasizing in that ground.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.978607177734375,
+      11.588994979858398,
+      11.600000381469727,
+      11.638885498046875,
+      11.68186092376709
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.21,
+      489.13,
+      537.1,
+      505.07
+    ],
+    "text": "Anyhow we carefully perused the contradictions raised (even though most of them",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.08,
+      513.36,
+      537.06,
+      529.3
+    ],
+    "text": "are not proved) and cross checked with the judgement of the Learned Trial Judge.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.65626335144043,
+      11.68186092376709,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.27,
+      537.6,
+      537.2,
+      553.54
+    ],
+    "text": "Considering both grounds together we are of the view that the Learned Trial Judge",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.638885498046875,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.7,
+      561.6,
+      538.03,
+      577.54
+    ],
+    "text": "had adequately considered all available evidence before him and reached to a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.693077087402344
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.7,
+      585.6,
+      537.04,
+      601.54
+    ],
+    "text": "reasonable finding. Hence we find that these two grounds of appeal fail on its own",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.626818656921387,
+      11.638885498046875,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.69,
+      609.36,
+      117.15,
+      625.3
+    ],
+    "text": "merits.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.37,
+      641.76,
+      536.72,
+      657.7
+    ],
+    "text": "The 4th ground of appeal IS that Section 27 (1) statement IS unreasonable and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.134142875671387,
+      8.602899551391602,
+      11.354451179504395,
+      11.437005043029785,
+      11.500977516174316,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.46,
+      665.53,
+      138.02,
+      681.47
+    ],
+    "text": "untenable.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      79.29,
+      697.69,
+      388.45,
+      713.63
+    ],
+    "text": "Section 27 (1) of the Evidence Ordinance reads as follows:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.954754829406738,
+      11.354451179504395,
+      11.500977516174316,
+      11.600000381469727,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      114.41,
+      69.01,
+      538.27,
+      85.74
+    ],
+    "text": "\"Provided that, when any fact is deposed to as discovered in consequence of",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.628177642822266,
+      13.035484313964844,
+      13.079385757446289,
+      13.294416427612305,
+      13.346996307373047,
+      13.458413124084473,
+      13.528613090515137,
+      13.561846733093262,
+      13.600000381469727,
+      13.640938758850098
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      113.83,
+      93.38,
+      536.67,
+      109.98
+    ],
+    "text": "information received from a person accused of any offence, in the custody of a",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.906150817871094,
+      13.260205268859863,
+      13.520618438720703,
+      13.53650188446045,
+      13.600000381469727,
+      13.640938758850098
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      113.97,
+      117.25,
+      535.37,
+      133.98
+    ],
+    "text": "police officer, so much of such information, whether it amounts to a confession",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.280497550964355,
+      13.297281265258789,
+      13.506780624389648,
+      13.558988571166992,
+      13.587444305419922,
+      13.600000381469727,
+      13.788444519042969
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      114.13,
+      141.5,
+      500.53,
+      158.23
+    ],
+    "text": "or not, as relates distinctly to the fact thereby discovered may be proved. \"",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.182801246643066,
+      13.271636009216309,
+      13.346996307373047,
+      13.37122631072998,
+      13.389674186706543,
+      13.549707412719727,
+      13.561846733093262,
+      13.563199996948242,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.07,
+      198.48,
+      535.7,
+      214.42
+    ],
+    "text": "Considering this ground of appeal, we find that the police had recovered a rolling pin",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.55,
+      222.48,
+      536.33,
+      238.42
+    ],
+    "text": "(a cylindrical wooden object used in kitchen to make rotti or chapatti). It is the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.71212100982666,
+      10.978607177734375,
+      11.600000381469727,
+      11.682357788085938,
+      11.828254699707031
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.35,
+      246.72,
+      535.74,
+      262.66
+    ],
+    "text": "contention of the counsel that, recovering the object after several months cannot be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.540648460388184,
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.36,
+      270.97,
+      535.7,
+      286.91
+    ],
+    "text": "accepted. The council submits that in the light of two deaths in that family, alms",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.511009216308594,
+      11.600000381469727,
+      11.626818656921387,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.37,
+      294.96,
+      492.22,
+      310.9
+    ],
+    "text": "giving and using of kitchen could have disturbed the place where it was kept.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5006742477417,
+      11.600000381469727,
+      11.696449279785156,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.41,
+      326.89,
+      536.55,
+      342.83
+    ],
+    "text": "The using of kitchen items, when the lady of house is not there will be very",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.978607177734375,
+      11.437005043029785,
+      11.600000381469727,
+      11.68186092376709,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.39,
+      351.13,
+      535.64,
+      367.07
+    ],
+    "text": "subjective. The husband of the deceased submits that he did not use the kitchen",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.555514335632324,
+      11.584540367126465,
+      11.588994979858398,
+      11.600000381469727,
+      11.763842582702637,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.73,
+      375.36,
+      536.02,
+      391.3
+    ],
+    "text": "much. Then it's left with the visitors who used the kitchen. The main witness",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.584540367126465,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.36,
+      399.36,
+      536.45,
+      415.3
+    ],
+    "text": "described the object and says it was similar to that. The JMO opined most of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.265888214111328,
+      11.5006742477417,
+      11.584540367126465,
+      11.600000381469727,
+      11.696449279785156,
+      11.828254699707031,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.49,
+      423.36,
+      535.69,
+      439.3
+    ],
+    "text": "injuries could have been caused with an instrument like the rolling pin. The Learned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.4945707321167,
+      11.584540367126465,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.4,
+      447.61,
+      536.57,
+      463.55
+    ],
+    "text": "Trial Judge had comprehensively analysed the acceptability of the statement and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.74,
+      471.84,
+      535.61,
+      487.78
+    ],
+    "text": "production. And he had come to his own conclusion. As we discussed earlier the Trial",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.308589935302734,
+      11.588994979858398,
+      11.600000381469727,
+      11.693077087402344
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.15,
+      495.84,
+      537.3,
+      511.78
+    ],
+    "text": "Judge is the best person to see the production, observe demeanour and deportment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.978607177734375,
+      11.31817626953125,
+      11.600000381469727,
+      11.828254699707031
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.6,
+      520.08,
+      536.32,
+      536.02
+    ],
+    "text": "of witnesses. When the Judge concludes that he accepts the evidence we have no",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.588994979858398,
+      11.600000381469727,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.74,
+      544.09,
+      535.92,
+      560.03
+    ],
+    "text": "reasons before us to disbelieve the same. When we consider the submission,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.305614471435547,
+      11.562640190124512,
+      11.600000381469727,
+      11.828254699707031
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77.21,
+      568.32,
+      538.27,
+      584.26
+    ],
+    "text": "judgements and facts of the case, we find that there is no merit in this ground of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.172938346862793,
+      11.273659706115723,
+      11.600000381469727,
+      11.638885498046875,
+      11.921154022216797,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.6,
+      592.32,
+      119.22,
+      608.26
+    ],
+    "text": "appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.41,
+      624.48,
+      536.57,
+      640.42
+    ],
+    "text": "The last ground of appeal is that the certain prejudicial evidence against the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.172938346862793,
+      11.437005043029785,
+      11.600000381469727,
+      11.638885498046875,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.36,
+      648.48,
+      538.27,
+      664.42
+    ],
+    "text": "accused-appellant are allowed. The counsel is not very specific in his submissions of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.172938346862793,
+      11.584540367126465,
+      11.600000381469727,
+      11.763842582702637,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.42,
+      672.25,
+      536.62,
+      688.19
+    ],
+    "text": "this ground of appeal. Regarding the main witness, the Learned Trial Judge had given",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.6,
+      696.25,
+      455.75,
+      712.19
+    ],
+    "text": "ample reasons to reject the evidence of the accused and his witnesses.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.828254699707031,
+      12.055891990661621
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.44,
+      728.4,
+      536.43,
+      744.34
+    ],
+    "text": "We carefully considered the judgement of the Learned Trial Judge and we observed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.4817476272583,
+      11.600000381469727,
+      11.632654190063477,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.41,
+      752.41,
+      536.14,
+      768.35
+    ],
+    "text": "that the entire trial was taken up before the same judge and the judgement also",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5006742477417,
+      11.600000381469727,
+      11.65626335144043,
+      11.71052360534668
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.85,
+      70.7,
+      530.29,
+      86.78
+    ],
+    "text": "delivered by him. So, he had the benefit of seeing, hearing and analysing all the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.242609024047852,
+      11.521843910217285,
+      11.699999809265137,
+      12.107745170593262
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.47,
+      94.93,
+      530.51,
+      111.01
+    ],
+    "text": "witnesses, materials and facts. The Learned Trial Judge was not disturbed by any",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.478605270385742,
+      11.560518264770508,
+      11.699999809265137,
+      11.73210620880127
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.84,
+      118.93,
+      529.66,
+      135.01
+    ],
+    "text": "external factors. That is clearly established by the fact the Learned Trial Judge had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.220993995666504,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.69,
+      142.93,
+      531.36,
+      159.01
+    ],
+    "text": "found the death of the 1 st deceased as Culpable Homicide not amounting to murder",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.807772636413574,
+      11.001871109008789,
+      11.699999809265137,
+      11.743369102478027,
+      11.814440727233887,
+      11.972428321838379
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.85,
+      167.17,
+      531.28,
+      183.25
+    ],
+    "text": "on the basis of available evidence before him. If he was influenced by any other",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.521843910217285,
+      11.550139427185059,
+      11.677528381347656,
+      11.699999809265137,
+      11.749943733215332,
+      12.107745170593262
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.84,
+      191.66,
+      530.37,
+      207.74
+    ],
+    "text": "extraneous factors as submitted by the submissions, the Learned Trial Judge would",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.001871109008789,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.97,
+      215.66,
+      530.25,
+      231.74
+    ],
+    "text": "have convicted for murder. The finding of the Learned Trial Judge was after giving",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.478605270385742,
+      11.634366035461426,
+      11.699999809265137,
+      11.972428321838379
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.74,
+      238.04,
+      530.17,
+      255.98
+    ],
+    "text": "reasons for such conclusion. The finding regarding death of the 2nd deceased the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.2017183303833,
+      11.634366035461426,
+      11.699999809265137,
+      12.107745170593262
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.94,
+      263.9,
+      527.2,
+      279.98
+    ],
+    "text": "Learned Trial Judge had ample evidence to conclude that the death of the 12-year-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.879128456115723,
+      12.107745170593262
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.85,
+      288.14,
+      530.22,
+      304.22
+    ],
+    "text": "old child is nothing but murder. Hence I find that the Learned Trial Judge had utilized",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.025826454162598,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.98,
+      311.89,
+      438.2,
+      327.97
+    ],
+    "text": "his judicial trained mind to hear, conclude and find his own findings.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.605770111083984,
+      11.685641288757324,
+      11.699999809265137,
+      11.879128456115723
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.49,
+      344.3,
+      469.82,
+      360.38
+    ],
+    "text": "As we discussed above, all grounds of appeal had failed on its own merits.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.247499465942383,
+      11.656669616699219,
+      11.699999809265137,
+      12.107745170593262
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.25,
+      376.7,
+      529.45,
+      392.78
+    ],
+    "text": "After careful consideration, we find the judgment of the Learned Trial Judge is well",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.025826454162598,
+      11.656669616699219,
+      11.699999809265137,
+      11.802253723144531,
+      12.107745170593262
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.45,
+      400.7,
+      347.35,
+      416.78
+    ],
+    "text": "found and we have no reasons to disturb the same.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.612372398376465,
+      11.656669616699219,
+      11.699999809265137,
+      11.743369102478027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.01,
+      432.86,
+      529.69,
+      448.94
+    ],
+    "text": "Accordingly, we dismiss the appeal and affirm the conviction and the sentence. We",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.656669616699219,
+      11.697049140930176,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.37,
+      456.86,
+      449.83,
+      472.94
+    ],
+    "text": "direct the High Court of Kandy to implement the sentence from today.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.879128456115723,
+      12.107745170593262
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.98,
+      504.41,
+      178.03,
+      522.0
+    ],
+    "text": "Appeal Dismissed.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.77,
+      603.26,
+      231.09,
+      621.3
+    ],
+    "text": "A.L. Shiran Gooneratne. J",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.748432159423828
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.16,
+      629.41,
+      113.34,
+      645.49
+    ],
+    "text": "I agree,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      315.78,
+      579.44,
+      528.75,
+      595.69
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      316.98,
+      703.52,
+      529.9,
+      719.77
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  }
+]

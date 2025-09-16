@@ -1,0 +1,119 @@
+IN THE COURT OF APPEAL OF THE DEMOCRATIC
+
+SOCIALIST REPUBLIC OF SRI LANKA
+
+Kachchu Mohamed Samzeer,
+
+No. 10, St. Anthonys Road,
+
+Negombo.
+
+Presently of:
+
+Marine Light Henveriy,
+
+Male City,
+
+Republic of Maldives
+
+Respondent-Petitioner-Petitioner
+
+CA CASE NO: CA/LA/10/2016
+
+BOARD OF QUAZIS CASE NO: BQ/7/14/R/CMB
+
+QUAZI COURT OF VAVNIYA CASE NOS: 488/WM,
+
+489/CM
+
+Vs.
+
+M.A.C. Fathima Siyaniya,
+
+No. 21/1B,
+
+Palli Veediya,
+
+Pattanichur,
+
+Vavuniya.
+
+Applicant-Respondent-Respondent
+
+Before: Mahinda Samayawardhena, J.
+
+Counsel: Yoosuf Nazar for the Respondent.
+
+Safana Gul Begum for the Petitioner.
+
+Decided on: 04.12.2018
+
+2
+
+Samayawardhena, J.
+
+This is an application filed by the petitioner for leave to appeal
+
+against the undated order of the Board of Quazis marked P7. By
+
+this order the Board of Quazis overruled the preliminary objection
+
+raised by the petitioner to dismiss the respondents application in
+
+limine.
+
+The preliminary objection is briefly as follows. The petitioner filed
+
+an application before the Board of Quazis to set aside a
+
+maintenance order made by the Quazi. Thereafter both parties
+
+informed the Board of Quazis that the matter was settled between
+
+the parties and therefore the impugned order of the Quazi could
+
+be vacated. The Board of Quazis did not vacate the order of the
+
+Quazi, but instead, laid by the case. This the Board did in front
+
+of both the parties and their senior lawyers.
+
+After a few months, the respondent moved to reopen the case on
+
+the basis that the settlement was a farce and the petitioner has
+
+no genuine interest in reuniting with the family. It is in response
+
+to that, the petitioner moved to dismiss the reopening application
+
+in limine on the premise that the Board of Quazis did not have
+
+jurisdiction to lay by the case, when the parties informed the
+
+Board that they have settled the matter and therefore the order of
+
+the Quazi be vacated.
+
+As I said earlier, the case was laid by in front of both the parties
+
+and their senior lawyers. The parties or their lawyers at that time
+
+did not object the Board laying by the case. The petitioner or his
+
+senior lawyer did not insist to vacate the order of the Quazi and
+
+pro forma allow the application of the petitioner or terminate the
+
+proceedings. Nor did the petitioner appeal against that order if
+
+3
+
+he was dissatisfied with that order. Having accepted that order
+
+at that time, it does not lie in the mouth of the petitioner now to
+
+say that the order is contrary to law.
+
+Leave to appeal against the impugned order is refused. No costs.
+
+Judge of the Court of Appeal

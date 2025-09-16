@@ -1,0 +1,7009 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      128.76,
+      38.03,
+      546.09,
+      74.74
+    ],
+    "text": "-IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      16.600000381469727,
+      16.66288185119629,
+      16.664575576782227,
+      16.71217155456543,
+      16.749576568603516,
+      16.754182815551758
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      182.33,
+      82.12,
+      479.84,
+      104.26
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.600000381469727,
+      16.66288185119629
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      98.54,
+      233.19,
+      256.78,
+      250.93
+    ],
+    "text": "C.A. Case N a. 366/2000 (F)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.899405479431152,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      98.82,
+      260.68,
+      258.15,
+      277.35
+    ],
+    "text": "D.C. Matara Case No. U5499",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.548306465148926,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.58,
+      149.19,
+      580.87,
+      166.93
+    ],
+    "text": "Rev. Nakulugamuwe Sumanatissa Thera (Deceased)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.753488540649414,
+      13.300000190734863,
+      13.336400032043457
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.51,
+      173.31,
+      576.04,
+      207.27
+    ],
+    "text": "Chief Incumbent of Bomure Viharaya and Gandara Purana Viharaya,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.509796142578125,
+      12.594542503356934
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.58,
+      213.87,
+      462.96,
+      230.55
+    ],
+    "text": "Bomure Viharaya, Kapugama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.58,
+      235.84,
+      374.26,
+      253.58
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.58,
+      276.87,
+      494.98,
+      294.61
+    ],
+    "text": "Rev. Kanumuldeniye Upali Thera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.38393497467041
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.51,
+      300.99,
+      497.01,
+      317.66
+    ],
+    "text": "Gandara Purana Viharaya, Gandara.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.39,
+      323.19,
+      443.86,
+      340.93
+    ],
+    "text": "Substituted PLAINTIFF",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.325475692749023
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.64,
+      374.4,
+      332.34,
+      384.0
+    ],
+    "text": "~Vs~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      6.754255771636963
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.58,
+      416.55,
+      571.41,
+      434.29
+    ],
+    "text": "Rev. Urugamuwe Dhammissara Thera (Deceased)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.183296203613281,
+      13.300000190734863,
+      13.336400032043457
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.58,
+      440.92,
+      462.96,
+      457.59
+    ],
+    "text": "Bomure Viharaya, Kapugama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.58,
+      463.11,
+      387.21,
+      480.85
+    ],
+    "text": "DEFENDANT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.82,
+      504.63,
+      480.82,
+      522.37
+    ],
+    "text": "Rev. Pattiyawala Seevali Thera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.38393497467041
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.58,
+      528.51,
+      453.09,
+      545.18
+    ],
+    "text": "Bomune Vihara, Kapugama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.63,
+      550.47,
+      457.05,
+      568.21
+    ],
+    "text": "Substituted DEFENDANT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.325475692749023
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.61,
+      596.55,
+      334.84,
+      614.29
+    ],
+    "text": "AND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.06,
+      642.63,
+      481.06,
+      660.38
+    ],
+    "text": "Rev. Pattiyawala Seevali Thera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.38393497467041
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.82,
+      666.28,
+      453.33,
+      682.95
+    ],
+    "text": "Bomune Vihara, Kapugama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.87,
+      688.24,
+      543.26,
+      705.98
+    ],
+    "text": "Substituted DEFENDANT~APPELLANT",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.159682273864746,
+      13.325475692749023
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.52,
+      730.64,
+      347.94,
+      746.17
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149.79,
+      65.53,
+      326.15,
+      83.14
+    ],
+    "text": "Kapugama Seelawansa Thero",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      149.55,
+      88.82,
+      416.02,
+      106.43
+    ],
+    "text": "Nakulugamuwe Sumanatissa Thero (Plaintiff)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.05,
+      116.89,
+      585.4,
+      134.51
+    ],
+    "text": "The finally perfected the amended plaint averred that he was the Viharadhipathi of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.080963134765625,
+      13.199999809265137,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.27,
+      139.45,
+      585.4,
+      157.06
+    ],
+    "text": "Gandara Vihara, and that Bomure Vihara was an adjunct or appurtenant Vihara of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.080963134765625,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.27,
+      162.26,
+      584.97,
+      179.87
+    ],
+    "text": "Gandara Vihara and that the Plaintiff in his capacity of Viharadhipathi of Gandara Vihara",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.15,
+      184.57,
+      351.22,
+      202.18
+    ],
+    "text": "was also the Viharadhipathi of Bomure Vihara.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.07,
+      212.64,
+      585.08,
+      230.26
+    ],
+    "text": "The Plaintiff further averred that one Heelle Indrajothi Thera, who was at the relevant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.13,
+      236.89,
+      585.42,
+      254.5
+    ],
+    "text": "time the Viharadhipathi of Bomure Vihara by an ala writing dated 21.04.1885 had gifted",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5841646194458,
+      12.963582992553711,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.1,
+      259.94,
+      585.65,
+      277.55
+    ],
+    "text": "Bomure Vihara to Heelle Rewatha Thero~the Viharadhipathi of Gandara Vihara at that",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.819690704345703,
+      7.513188362121582,
+      7.99167537689209,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.13,
+      282.73,
+      584.12,
+      300.35
+    ],
+    "text": "time and there was also an execution of a Deed bearing No. 9202 and dated 05.05.1885",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.877561569213867,
+      12.957777976989746,
+      13.170867919921875,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.26,
+      305.29,
+      585.08,
+      322.9
+    ],
+    "text": "attested by Symon de Alwis, Notary Public, by which the said Heelle Indrajothi Thera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.9,
+      327.86,
+      584.91,
+      345.47
+    ],
+    "text": "handed over Bomure Vihara along with his two pupils to Gandara Vihara. It is this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.281895637512207
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.26,
+      350.41,
+      584.97,
+      368.02
+    ],
+    "text": "assertion that gives rise to the claim that Bomure Vihara had since 1885 become the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.778882026672363,
+      13.199999809265137,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.02,
+      372.97,
+      585.15,
+      390.58
+    ],
+    "text": "adjunct or appurtenant Vihara of Gandara Vihara. In the end the assertion of the original",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.1,
+      395.78,
+      585.27,
+      413.39
+    ],
+    "text": "Plaintiff was that since he had become the Viharadhipathi of Gandara Vihara by virtue of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.7,
+      419.53,
+      584.96,
+      437.14
+    ],
+    "text": "pupillary succession, ipso facto he was also the Viharadhipathi of Bomure Vihara because",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.414997100830078,
+      12.912429809570312,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.1,
+      443.07,
+      434.0,
+      460.67
+    ],
+    "text": "Bomure Vihara was an appurtenant Vihara of Gandara Vihara.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.81,
+      471.37,
+      585.18,
+      488.99
+    ],
+    "text": "The pupillary succession was pleaded as follows: In the pedigree the Plaintiff cited, one",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.509772300720215,
+      13.165304183959961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.77,
+      493.69,
+      585.46,
+      511.3
+    ],
+    "text": "finds Kapugama Seelawansa Thera after Heelle Rewatha Thero. Kapugama Seelawansa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.04,
+      516.25,
+      585.45,
+      533.86
+    ],
+    "text": "Thera was a pupil of Heelle Rewatha Thero and as such he succeeded Heelle Rewatha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0113525390625,
+      13.080963134765625,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.04,
+      538.82,
+      585.46,
+      556.43
+    ],
+    "text": "Thera as the Viharadhipathi of both Gandara and Bomure Vihara. The Plaintiff averred",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0113525390625,
+      13.199999809265137,
+      13.233956336975098
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.37,
+      561.37,
+      586.15,
+      578.98
+    ],
+    "text": "that since taking office, Kapugama Seelawansa Thero functioned as Viharadhipathi of both",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.924269676208496,
+      13.0113525390625,
+      13.199999809265137,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.37,
+      583.93,
+      585.19,
+      601.54
+    ],
+    "text": "Viharas for a very long time and after the demise of the said Kapugama Seelawansa Thera,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.16,
+      606.49,
+      585.34,
+      624.1
+    ],
+    "text": "he~the original Plaintiff who was the senior pupil of Kapugama Seelawansa Thera, became",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.09524393081665,
+      7.602104663848877,
+      7.947225570678711,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.13,
+      628.82,
+      376.86,
+      646.43
+    ],
+    "text": "his successor as the Viharadhipathi of both Viharas.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0113525390625,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.14,
+      656.9,
+      584.67,
+      674.51
+    ],
+    "text": "As opposed to this version in the finally amended plaint, there emerged a traversal of this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.875307083129883,
+      12.924269676208496,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.27,
+      679.22,
+      584.84,
+      696.83
+    ],
+    "text": "claim in the answer and the original Defendant asserted that he was in fact the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.12,
+      702.73,
+      585.59,
+      720.34
+    ],
+    "text": "Viharadhipathi of Bomure Vihara and even if the parchment writing or the ala writing and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5841646194458,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      338.02,
+      729.22,
+      347.17,
+      745.5
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.37,
+      66.26,
+      585.99,
+      83.87
+    ],
+    "text": "the Deed bearing No. 9202 dated 02.08.1885 as averred in the Plaint had been executed,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.930855751037598,
+      13.165304183959961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.36,
+      88.82,
+      585.26,
+      106.43
+    ],
+    "text": "they would not have operated as valid conveyances of rights. The original Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.165304183959961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      97.96,
+      111.38,
+      585.41,
+      128.99
+    ],
+    "text": "prayed for a dismissal of the Plaintiff's action and for a declaration that he was the lawful",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.14,
+      133.94,
+      282.82,
+      151.55
+    ],
+    "text": "Viharadhipathi of Bomure Vihara.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.41,
+      162.26,
+      584.97,
+      179.87
+    ],
+    "text": "So much for the pleadings. When the trial began, there were two admissions that were",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.797926902770996,
+      13.199999809265137,
+      13.336246490478516
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.14,
+      185.06,
+      585.74,
+      202.67
+    ],
+    "text": "recorded namely the subject~matter Bomure Vihara is exempted from Section 4(1) of the",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.09524393081665,
+      7.476998329162598,
+      7.842652320861816,
+      13.198949813842773,
+      13.199999809265137,
+      13.293418884277344
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.11,
+      207.62,
+      585.45,
+      225.23
+    ],
+    "text": "Buddhist Temporalities Ordinance and that the chief incumbency of the subject~matter is",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.023952007293701,
+      7.38954496383667,
+      7.698727130889893,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.28,
+      231.62,
+      583.53,
+      249.23
+    ],
+    "text": "decided on the rule of pupillary succession which is premised on Sisyanu Sisya Paramparawa.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.685025215148926,
+      12.876420974731445,
+      12.935964584350586,
+      13.199999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.34,
+      260.41,
+      584.18,
+      278.02
+    ],
+    "text": "For the sake of completeness let me advert to the main issues that were raised for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.163850784301758,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.27,
+      282.97,
+      577.54,
+      300.58
+    ],
+    "text": "determination at the trial. The following issues were formulated on behalf of the Plaintiff.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.45,
+      311.29,
+      483.07,
+      328.9
+    ],
+    "text": "~ Issue No.1 ~ Is the Plaintiff the Viharadhipathi of Bomure Vihara?",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.749991416931152,
+      5.951806545257568,
+      13.02458381652832,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.45,
+      334.09,
+      585.21,
+      351.7
+    ],
+    "text": "~ Issue No. 2 ~ Has the Viharadhipathiship devolved on the Plaintiff as pleaded in the",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.8885650634765625,
+      6.09524393081665,
+      12.930855751037598,
+      13.165304183959961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      132.19,
+      356.65,
+      353.06,
+      374.26
+    ],
+    "text": "Plaint and the pedigree annexed thereto?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.06,
+      384.96,
+      461.66,
+      402.57
+    ],
+    "text": "The following two issues were suggested by the original Defendant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.45,
+      413.06,
+      497.24,
+      430.67
+    ],
+    "text": "~ Issue No. 5 ~ Is the Defendant the Viharadhipathi of Bomure Vihara?",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.749991416931152,
+      12.930855751037598,
+      13.02458381652832,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.45,
+      435.62,
+      584.9,
+      453.23
+    ],
+    "text": "~ Issue No. 6 ~ Has the Viharadhipathiship devolved on the Defendant in the manner",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.749991416931152,
+      5.951806545257568,
+      13.170867919921875,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      132.04,
+      458.42,
+      552.02,
+      476.03
+    ],
+    "text": "pleaded in paragraph 6 of the answer and the pedigree annexed to the answer?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.14,
+      486.5,
+      585.41,
+      504.11
+    ],
+    "text": "As the testimony began, it was the substituted Plaintiff (hereinafter sometimes referred to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.875307083129883,
+      13.199999809265137,
+      13.335752487182617
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.5,
+      509.06,
+      585.72,
+      526.67
+    ],
+    "text": "as \"the Plaintiff\" or \"substituted Plaintiff~ Respondent\") and the substituted Defendant",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.819690704345703,
+      6.975180149078369,
+      13.165304183959961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.96,
+      531.86,
+      585.61,
+      549.47
+    ],
+    "text": "(hereinafter sometimes referred to as '<the Defendant\" or \"substituted Defendant~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.023952007293701,
+      7.794173240661621,
+      12.449780464172363,
+      13.165304183959961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.37,
+      554.41,
+      586.4,
+      572.02
+    ],
+    "text": "Appellant\") who gave evidence and produced documents on behalf of the original Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.73,
+      576.73,
+      395.53,
+      594.34
+    ],
+    "text": "and the original Defendant who had since passed away.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.59,
+      606.25,
+      585.68,
+      623.86
+    ],
+    "text": "By his judgment dated 17.04.2000 the learned District Judge of Matara answered the Issues",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.53226089477539,
+      12.980483055114746,
+      13.02458381652832,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.93,
+      629.53,
+      585.57,
+      647.14
+    ],
+    "text": "No.1 and No.2 in favour of the Plaintiff and No.5 and No. 6 in the negative thus holding",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.272600173950195
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.61,
+      652.1,
+      584.86,
+      669.71
+    ],
+    "text": "that the Plaintiff was in fact the Viharadhipathi of Gandara Purana Vihara and Bomure",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.190796852111816,
+      13.199999809265137,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.61,
+      674.42,
+      585.36,
+      692.03
+    ],
+    "text": "Vihara and the temporalities of the Bomure Vihara were in the management of Gandara",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.080963134765625,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.82,
+      696.5,
+      585.93,
+      714.11
+    ],
+    "text": "Purana Vihara. It is against this judgment that the Defendant appealed and when this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      338.12,
+      730.54,
+      347.63,
+      746.2
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.37,
+      66.84,
+      582.37,
+      84.31
+    ],
+    "text": "matter came up for hearing, the learned President's Counsel for the substituted Defendant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.295293807983398
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.36,
+      89.63,
+      583.95,
+      107.11
+    ],
+    "text": "Appellant raised an argument that the Plaintiff not being the most senior pupil of Rev.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.78004264831543,
+      12.875221252441406,
+      13.100000381469727,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.58,
+      112.2,
+      524.13,
+      129.67
+    ],
+    "text": "Kapugama Seelavansa could not succeed the Reverent monk as Viharadhipathi.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.961973190307617,
+      13.100000381469727,
+      13.101699829101562
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.29,
+      140.28,
+      585.86,
+      157.76
+    ],
+    "text": "Thus the quintessential question that arises before Court is whether the Plaintiff had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.46,
+      164.28,
+      585.61,
+      181.76
+    ],
+    "text": "sufficient local standi to institute this action. In other words the question is whether the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.498205184936523,
+      12.894204139709473,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.58,
+      187.32,
+      585.23,
+      204.79
+    ],
+    "text": "Plaintiff had a cause of action to have himself declared as the Viharadhipathi of Bomure",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.961973190307617,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.14,
+      210.11,
+      584.64,
+      227.59
+    ],
+    "text": "Vihara. He gets this right indubitably if it is established that Bomure Vihare is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.990139961242676,
+      13.100000381469727,
+      13.189444541931152,
+      13.285141944885254
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.26,
+      232.68,
+      585.45,
+      250.15
+    ],
+    "text": "appurtenant to Gandara Vihara and that he was indeed the Viharadhipathi of Gandara",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.12,
+      255.25,
+      584.64,
+      272.72
+    ],
+    "text": "Vihara. Did the Plaintiff become the Viharadhipathi of Gandara Vihara in the first",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97.77,
+      277.79,
+      150.09,
+      295.27
+    ],
+    "text": "instance?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97.85,
+      306.11,
+      585.48,
+      323.59
+    ],
+    "text": "A few pronouncements on the office of Viharadhipthi shed light on the importance and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.18,
+      328.67,
+      585.92,
+      346.15
+    ],
+    "text": "significance of the office. Justice Canekaratne in Punchibanda v. Dharmananda Thera",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.614709854125977,
+      13.100000381469727,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.48,
+      351.48,
+      237.02,
+      368.95
+    ],
+    "text": "(1948) 48 N.L.R 11 states:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.096964836120605,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      131.97,
+      382.06,
+      584.54,
+      398.42
+    ],
+    "text": "\"The Bhikku may be the presiding officer of a Vihare, or a resident priest, or a non-resident priest",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.339158058166504,
+      12.528564453125,
+      12.59890365600586,
+      12.61134147644043,
+      12.659171104431152,
+      12.740838050842285,
+      12.770357131958008,
+      12.788129806518555,
+      12.788339614868164,
+      12.825484275817871,
+      12.8434419631958,
+      12.850638389587402,
+      12.877617835998535,
+      13.021143913269043,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132.24,
+      405.73,
+      584.43,
+      423.2
+    ],
+    "text": "(agantuge); the preSiding priest is known as the Viharadhipati; sometimes he is called the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.965636253356934,
+      12.014245986938477,
+      12.181939125061035,
+      12.435110092163086,
+      12.4776029586792,
+      12.520593643188477,
+      12.562956809997559,
+      12.718047142028809,
+      12.733840942382812,
+      12.862833023071289,
+      12.902203559875488
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132.09,
+      429.97,
+      552.09,
+      447.44
+    ],
+    "text": "incumbent; the incumbency is called the adhipathikama, in some cases the Adhikari Bhikku\".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.965636253356934,
+      12.262138366699219,
+      12.46976089477539,
+      12.534712791442871,
+      12.547640800476074,
+      12.636604309082031,
+      12.645614624023438,
+      12.653507232666016,
+      12.659171104431152,
+      12.852620124816895,
+      12.88609504699707,
+      13.242069244384766,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96.4,
+      459.24,
+      585.23,
+      476.71
+    ],
+    "text": "Justice Canekaratne further states that, \"A Viharadhipati is one who can lawfully claim to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.678210258483887,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97.93,
+      482.75,
+      584.68,
+      500.23
+    ],
+    "text": "be the head of the Vihare; one, generally who can show that he is the pupil of the last incumbent",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.014245986938477,
+      12.17746639251709,
+      12.547640800476074,
+      12.672449111938477,
+      12.709403991699219,
+      12.813724517822266,
+      13.100000381469727,
+      13.116739273071289,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.06,
+      507.48,
+      585.76,
+      524.95
+    ],
+    "text": "or that he is in the pupillary succession\". In the Divisional Bench (5 judges) decision in",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.16349983215332,
+      12.385622024536133,
+      12.459871292114258,
+      12.49531078338623,
+      12.547640800476074,
+      12.850534439086914,
+      12.877617835998535,
+      13.100000381469727,
+      13.100553512573242
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.56,
+      531.72,
+      587.53,
+      549.19
+    ],
+    "text": "Waharaka alias Maratata Sabhita Thera v. Amunugama Ratnapala Thera (1981) 1",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.419482231140137,
+      12.658873558044434,
+      12.701282501220703,
+      13.100000381469727,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.4,
+      555.24,
+      585.63,
+      572.71
+    ],
+    "text": "SrLLR 201, Chief Justice Neville Samarakoon, while making observations on the rights and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.667976379394531,
+      13.01014232635498,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.27,
+      577.79,
+      585.75,
+      595.27
+    ],
+    "text": "duties of an incumbent of a temple and the effect of the Buddhist Temporalities legislation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.28,
+      601.56,
+      489.73,
+      619.04
+    ],
+    "text": "on that office referred to over thirty six earlier cases and commented thus:-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.82307243347168,
+      13.100000381469727,
+      13.189444541931152,
+      13.238273620605469
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132.21,
+      631.57,
+      584.72,
+      649.04
+    ],
+    "text": "\"The right to an incumbency is a legal right enforceable in law and it is not purdy an ecclesiastical",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.17746639251709,
+      12.28812026977539,
+      12.302560806274414,
+      12.438504219055176,
+      12.459871292114258,
+      12.5431547164917,
+      12.545878410339355,
+      12.585868835449219,
+      12.61134147644043,
+      12.616546630859375,
+      12.634696006774902,
+      12.682120323181152,
+      12.814613342285156,
+      12.88406753540039,
+      13.044381141662598,
+      13.357281684875488,
+      13.392797470092773,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132.18,
+      656.85,
+      586.9,
+      673.21
+    ],
+    "text": "matter. When a Viharadhipathi of a temple sues to be declared entitled to the office of",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.770513534545898,
+      12.316821098327637,
+      12.339158058166504,
+      12.435110092163086,
+      12.54865550994873,
+      12.590179443359375,
+      12.600445747375488,
+      12.627269744873047,
+      12.938036918640137,
+      13.011209487915039,
+      13.256582260131836,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132.01,
+      681.34,
+      584.4,
+      697.7
+    ],
+    "text": "Viharadhipathi of a temple and to eject those disputing his rights or to recover possession of the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.321552276611328,
+      12.327913284301758,
+      12.42314338684082,
+      12.5431547164917,
+      12.57511043548584,
+      12.57580280303955,
+      12.585868835449219,
+      12.638778686523438,
+      12.671390533447266,
+      12.796719551086426,
+      12.810168266296387,
+      12.960026741027832,
+      13.026494026184082,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132.58,
+      704.77,
+      583.65,
+      722.24
+    ],
+    "text": "temple and its endowments he is enforcing a right he has in law and any such claim is exempt from",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.965636253356934,
+      12.014245986938477,
+      12.16349983215332,
+      12.17746639251709,
+      12.374076843261719,
+      12.449810981750488,
+      12.545878410339355,
+      12.585868835449219,
+      12.635597229003906,
+      12.636604309082031,
+      12.661288261413574,
+      12.664833068847656,
+      12.678474426269531,
+      12.688722610473633,
+      12.724998474121094,
+      12.729737281799316,
+      12.88406753540039,
+      13.002298355102539,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      337.99,
+      730.21,
+      347.29,
+      746.75
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      132.82,
+      66.81,
+      584.98,
+      84.88
+    ],
+    "text": "the provisions of the Prescription Ordinance by virtue of the provisions of s. 34 of the Buddhist",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.393725395202637,
+      12.619343757629395,
+      12.733542442321777,
+      12.846725463867188,
+      12.90893268585205,
+      12.968127250671387,
+      13.03563117980957,
+      13.043251037597656,
+      13.199999809265137,
+      13.27286148071289,
+      13.376553535461426,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      132.23,
+      91.88,
+      288.55,
+      109.09
+    ],
+    "text": "Temporalities Ordinance of 1931.\"",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.729266166687012,
+      12.90893268585205,
+      13.046954154968262,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.11,
+      120.6,
+      585.89,
+      138.07
+    ],
+    "text": "What is then the content and scope of an action to be declared Viharadhipathi of a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.41427993774414
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.35,
+      138.45,
+      587.02,
+      162.19
+    ],
+    "text": "temple? As Pathirana, J. said in Mapalane Dhammadaja Thera v. Ratumba Wimalajathi",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.95094108581543,
+      12.711385726928711,
+      13.100000381469727,
+      13.399999618530273,
+      13.489203453063965,
+      15.146872520446777
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100.28,
+      166.45,
+      584.86,
+      183.92
+    ],
+    "text": "Thera 79 (1) N.LR 145 at p.l63 (a decision of a Divisional Bench of 5 judges), it is in fact",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.670561790466309,
+      12.727556228637695,
+      12.799247741699219,
+      13.100000381469727,
+      13.285141944885254,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.5,
+      189.0,
+      585.8,
+      206.48
+    ],
+    "text": "and in substance, an action for the Viharadhipathiship of the temple although in form it",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.26,
+      211.8,
+      549.95,
+      229.27
+    ],
+    "text": "appears to be an action to be entitled to the status of a Viharadhipathi of the temple.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.031320571899414,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.41,
+      239.65,
+      585.39,
+      257.12
+    ],
+    "text": "So a Viharadhipathi is invested with a cause of action to have his status declared in terms",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.749357223510742,
+      13.100000381469727,
+      13.169515609741211
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.05,
+      262.2,
+      585.57,
+      279.68
+    ],
+    "text": "of Section 217 (G) of the Civil Procedure Code and in fact one may recall the case of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.488581657409668,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100.04,
+      285.25,
+      584.66,
+      302.72
+    ],
+    "text": "Thiagarajah v. Karthigesu 69 N.LR 73 where H.N.G. Fernando, S.P.] (as His Lordship",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.756647109985352,
+      12.401266098022461,
+      12.660114288330078,
+      13.056777954101562,
+      13.057832717895508,
+      13.100000381469727,
+      13.399999618530273,
+      13.574699401855469
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.13,
+      302.85,
+      585.43,
+      326.59
+    ],
+    "text": "then was, with G.P.A. Silva, J. agreeing) held that the maintainability of an action for a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.622186660766602,
+      13.084691047668457,
+      13.100000381469727,
+      13.116739273071289,
+      13.231490135192871,
+      15.146872520446777
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.03,
+      330.35,
+      585.5,
+      347.83
+    ],
+    "text": "declaration of status is clearly contemplated in the definition of \"cause of action\" in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.92,
+      352.91,
+      584.44,
+      370.39
+    ],
+    "text": "Section 5 of the Civil Procedure Code, read together with the provisions of Section 217 (G)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.218008995056152,
+      13.100000381469727,
+      13.169515609741211
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.79,
+      376.91,
+      584.77,
+      394.39
+    ],
+    "text": "of the same Code and Section 62 of the Courts Ordinance~see comparable dicta to this",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.165711402893066,
+      6.754276752471924,
+      8.100215911865234,
+      12.929186820983887,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.78,
+      400.19,
+      582.88,
+      417.67
+    ],
+    "text": "effect of Dheeraratne,]. in Eksith Fernanda v. Manawadu and Others (2000) 1 Sri.LR 95.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.756647109985352,
+      12.672422409057617,
+      13.100000381469727,
+      13.399999618530273,
+      13.783608436584473
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.86,
+      428.52,
+      585.08,
+      445.99
+    ],
+    "text": "But it would appear that the action for a declaration of status as a Viharadhipathi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.961973190307617,
+      13.100000381469727,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.78,
+      451.31,
+      585.43,
+      468.79
+    ],
+    "text": "connotes with it more incidents unfamiliar with a common or garden action for a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.231490135192871,
+      13.484895706176758
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.03,
+      475.08,
+      585.33,
+      492.6
+    ],
+    "text": "declaration of status in the sense of Thiagarajah v. Karthigesu (supra). This was explained",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.559033393859863,
+      12.90984058380127,
+      13.100000381469727,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.82,
+      494.85,
+      583.52,
+      518.59
+    ],
+    "text": "in Mapalane Dhammadaja Thera v. Ratumba Wimalajathi Thera (supra). Pathirana, J.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.756647109985352,
+      12.71298885345459,
+      13.100000381469727,
+      13.399999618530273,
+      13.489203453063965,
+      13.800000190734863,
+      14.908316612243652
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.66,
+      523.08,
+      585.44,
+      540.55
+    ],
+    "text": "held that an action for a declaration as Viharadhipathi is not merely an action for a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.961973190307617,
+      13.100000381469727,
+      13.101699829101562,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.04,
+      545.4,
+      585.02,
+      562.87
+    ],
+    "text": "declaration of title or status, but in fact it carries with it an assertion to the title of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.209244728088379,
+      13.219108581542969,
+      13.231490135192871,
+      13.484895706176758
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.9,
+      567.95,
+      585.02,
+      585.43
+    ],
+    "text": "movable and immovable property belonging to the Vihara. It is very clear from the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.96,
+      590.51,
+      585.63,
+      607.99
+    ],
+    "text": "provisions of Sections 4(2), 18,20 and 22 of Buddhist Temporalities Ordinance of 1931, and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.167780876159668,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.89,
+      613.07,
+      585.33,
+      630.55
+    ],
+    "text": "the views of Sansoni,]. in Pemananda Thera v. Thamas Perera (1955) 56 N.LR 413 and of",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.756647109985352,
+      12.202452659606934,
+      13.100000381469727,
+      13.399999618530273,
+      13.574699401855469
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.1,
+      636.12,
+      585.46,
+      653.59
+    ],
+    "text": "Pathirana,]. in Dhammadaja Thera v. Wimalajathi Thera (1977) 79(1) N.LR 145 that it",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.756647109985352,
+      12.636344909667969,
+      12.907587051391602,
+      13.085441589355469,
+      13.100000381469727,
+      13.105348587036133,
+      13.285141944885254,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.81,
+      658.44,
+      584.62,
+      675.91
+    ],
+    "text": "is only a controlling Viharadhipathi who has the rights and powers in regard to a temple",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.03,
+      680.76,
+      561.44,
+      698.23
+    ],
+    "text": "exempted from the operation of Section 4(1) of the Buddhist Temporalities Ordinance.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      337.28,
+      729.39,
+      346.65,
+      746.06
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.65,
+      66.98,
+      585.33,
+      84.59
+    ],
+    "text": "So a Viharadhipathi enjoys locus standi to institute an action for a declaration but did the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.40355110168457,
+      12.797926902770996,
+      12.894204139709473,
+      13.199999809265137,
+      13.2694673538208
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.58,
+      90.49,
+      585.3,
+      108.1
+    ],
+    "text": "Plaintiff in this case have that right invested in him? This issue has to be necessarily",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.14618968963623,
+      13.199999809265137,
+      13.239689826965332,
+      13.259565353393555
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.36,
+      113.05,
+      585.47,
+      130.66
+    ],
+    "text": "resolved having regard to the admission recorded at the trial namely the chief incumbency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.5,
+      136.58,
+      584.24,
+      154.19
+    ],
+    "text": "of the subject~matter is decided on the rule of pupillary succession based on Sisyanu Sisya",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.023952007293701,
+      7.436185836791992,
+      7.724934101104736,
+      12.746200561523438,
+      12.790278434753418,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.25,
+      161.05,
+      556.06,
+      178.66
+    ],
+    "text": "Paramparawa. What are the rules of SisyanuSisyaParamparawa that govern incumbency?",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.735261917114258,
+      13.122476577758789,
+      13.199999809265137,
+      13.465381622314453
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.06,
+      190.34,
+      585.87,
+      207.95
+    ],
+    "text": "The learned President's Counsel Mr. S.c.B. Walgampaya for the Defendant contended that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.15427017211914,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.5,
+      212.9,
+      585.47,
+      230.51
+    ],
+    "text": "as the Plaintiff was not the senior pupil of Rev. Kapugama Seelawansa, no right inhered in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.165304183959961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.16,
+      235.45,
+      585.93,
+      253.06
+    ],
+    "text": "him to seek a declaration as the Viharadhipathi of the Bomure Vihara. On the other hand",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.165304183959961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.58,
+      257.78,
+      585.58,
+      275.39
+    ],
+    "text": "Mr. Champ aka Ladduwahetty countered this contention by putting forward the stance",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.15427017211914,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.37,
+      280.34,
+      584.7,
+      297.95
+    ],
+    "text": "that it is sufficient for the Plaintiff to have been a pupil of the previous incumbent. His",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.239689826965332,
+      13.536266326904297
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.5,
+      303.13,
+      585.4,
+      320.75
+    ],
+    "text": "argument was that the Plaintiff himself did not claim that he was the senior most pupil of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.080963134765625,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.58,
+      325.69,
+      585.58,
+      343.3
+    ],
+    "text": "Rev. Kapugama Seelawansa. A reference was made to paragraph 4 of the amended Plaint",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899019241333008,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.14,
+      348.25,
+      585.19,
+      365.86
+    ],
+    "text": "wherein the Plaintiff had not asserted such seniority. Mr. Ladduwahetty argued that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.26,
+      370.81,
+      585.47,
+      388.42
+    ],
+    "text": "original Plaintiff was a pupil of Rev. Kapugama Seelawansa Thero and he thereafter",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.19,
+      393.62,
+      585.11,
+      411.23
+    ],
+    "text": "succeeded to the Viharadhipathiship after the demise of the then incumbent Kapugama",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.39,
+      416.18,
+      165.49,
+      433.79
+    ],
+    "text": "Seelawansa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.23,
+      443.42,
+      586.14,
+      462.25
+    ],
+    "text": "If one goes back to paragraph 4 of the plaint again, there is an averment which states that",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      14.267928123474121
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.62,
+      466.41,
+      586.33,
+      484.69
+    ],
+    "text": "the Plaintiff continued to date to hold the office of Viharadhipathiship, which gave him",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.121918678283691,
+      13.199999809265137,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.69,
+      490.81,
+      585.48,
+      508.42
+    ],
+    "text": "sufficient locus standi to institute the action. This was the answer that was proffered to this",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.469331741333008,
+      12.894204139709473,
+      13.199999809265137,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.75,
+      514.09,
+      585.46,
+      531.7
+    ],
+    "text": "Court when the President's Counsel raised the incapacity of the Plaintiff to institute this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.996481895446777,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.98,
+      536.65,
+      585.69,
+      554.26
+    ],
+    "text": "action on the basis that the Plaintiff was not the oldest pupil of Kapugama Seelawansa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.238992691040039,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.53,
+      560.41,
+      585.93,
+      578.02
+    ],
+    "text": "Thero. Though Mr. Ladduwahetty argued that the incapacity or lack of locus standi of the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.337366104125977,
+      12.839007377624512,
+      13.199999809265137,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.82,
+      583.44,
+      586.49,
+      601.06
+    ],
+    "text": "Plaintiff was not raised in the issues, Issue No.2 which was raised by the Plaintiff himself",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.272600173950195
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.0,
+      607.21,
+      585.36,
+      624.82
+    ],
+    "text": "engages the same question namely: \"Has the Viharadhiapthiship devolved on the Plaintiff as pleaded",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.024782180786133,
+      12.512510299682617,
+      12.513313293457031,
+      12.547640800476074,
+      12.574950218200684,
+      12.679847717285156,
+      12.913259506225586,
+      13.199999809265137,
+      13.33479118347168
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.98,
+      631.93,
+      586.21,
+      649.54
+    ],
+    "text": "in the plaint and the pedigree annexed thereto?\" This question has been answered by the learned",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.435110092163086,
+      12.459871292114258,
+      12.534445762634277,
+      12.547640800476074,
+      12.566902160644531,
+      12.675461769104004,
+      12.700703620910645,
+      13.07823657989502,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.06,
+      655.22,
+      273.18,
+      672.82
+    ],
+    "text": "District Judge in the affirmative.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.77,
+      683.05,
+      585.44,
+      700.67
+    ],
+    "text": "The answer to that question, as I pointed out before, depends on whether the Plaintiff has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0113525390625,
+      13.199999809265137,
+      13.312222480773926
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.2,
+      705.38,
+      586.37,
+      722.99
+    ],
+    "text": "established that he succeeded to the Viharadhipathiship of Bomure Viharya according to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.135207176208496,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      338.51,
+      729.01,
+      347.81,
+      745.55
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.9,
+      67.56,
+      584.79,
+      85.03
+    ],
+    "text": "Sisyanu Sisya Paramparawa Rules. As I said before, the Viharadhpathi of Gandara Purana",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.777962684631348,
+      12.826444625854492,
+      12.83342170715332,
+      12.873038291931152,
+      13.031320571899414,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.89,
+      90.46,
+      584.54,
+      108.88
+    ],
+    "text": "Viharaya could become the Viharadhipathi of Bomure Viharya only if Bomure Viharaya has",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      14.222694396972656
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.69,
+      113.87,
+      584.71,
+      131.35
+    ],
+    "text": "become appurtenant or adjunct to Gandara Viharaya. This case raises both questions",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.91,
+      137.63,
+      583.85,
+      155.11
+    ],
+    "text": "namely: Did the Plaintiff succeed as Viharadhiapthi according to Sisyanu Sisya Paramparawa",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.685025215148926,
+      12.873038291931152,
+      12.876420974731445,
+      12.916009902954102,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.1,
+      160.93,
+      584.74,
+      178.4
+    ],
+    "text": "Rules? Secondly has the Bomure Vihara become an appurtenant Vihara of Gandara",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      183.25,
+      152.72,
+      200.72
+    ],
+    "text": "Viharaya?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.13,
+      211.56,
+      584.66,
+      229.03
+    ],
+    "text": "Firsdy I would deal with the question-Did the original Plaintiff succeed Kapugama",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.231490135192871
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.91,
+      234.61,
+      444.66,
+      252.09
+    ],
+    "text": "Seelawansa Thero by way of Sisyanu Sisya Paramparawa Rule?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.8,
+      263.16,
+      335.03,
+      280.64
+    ],
+    "text": "Judicial Interpretation of \"Sisyanu Sisya\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.171156883239746,
+      13.363941192626953
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.57,
+      292.45,
+      584.98,
+      309.92
+    ],
+    "text": "The Supreme Court of this country has consistendy interpreted the term \"Sisyanu Sisya\" to",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.724893569946289,
+      12.779010772705078,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.88,
+      315.96,
+      583.92,
+      333.44
+    ],
+    "text": "mean from pupil to pupil. That is to say, on the death of the first Viharadhipathi, he is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.990139961242676,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.97,
+      338.29,
+      584.51,
+      355.76
+    ],
+    "text": "succeeded by his senior pupil who in turn is succeeded by his own senior pupil and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.104199409484863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.71,
+      360.83,
+      585.18,
+      378.31
+    ],
+    "text": "succession continues in that manner as long as each succeeding Viharadhpathi leaves a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.806716918945312,
+      13.100000381469727,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.46,
+      383.63,
+      585.99,
+      401.11
+    ],
+    "text": "pupil or pupils. In the Supreme Court decision in Dhammajoti Unnanse v. Paranatale",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.923186302185059,
+      13.100000381469727,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.25,
+      406.45,
+      320.77,
+      423.92
+    ],
+    "text": "(1881) 4 SCC 121, Justice Harry Dias said:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.076952934265137,
+      12.658873558044434,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      131.47,
+      436.78,
+      583.97,
+      453.14
+    ],
+    "text": "\"Sisyanu Sisya Paramparawa means \"pupillary succession\" or \"succession from pupil to pupil\". The",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.330901145935059,
+      12.367740631103516,
+      12.522412300109863,
+      12.567435264587402,
+      12.58347225189209,
+      12.609270095825195,
+      12.683599472045898,
+      12.759596824645996,
+      12.777962684631348,
+      12.83566665649414,
+      12.873038291931152,
+      12.877617835998535,
+      12.894671440124512
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      131.8,
+      461.73,
+      584.19,
+      478.09
+    ],
+    "text": "second word \"anu\" means \"each by each\" or \"orderly\" and the effect of that word seems to limit the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.274918556213379,
+      12.283539772033691,
+      12.367740631103516,
+      12.40803337097168,
+      12.435110092163086,
+      12.476367950439453,
+      12.495792388916016,
+      12.547640800476074,
+      12.54993724822998,
+      12.585868835449219,
+      12.707347869873047,
+      12.734787940979004,
+      12.771878242492676,
+      12.772245407104492,
+      12.799599647521973,
+      12.877617835998535,
+      13.029580116271973,
+      13.100553512573242,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      131.8,
+      485.97,
+      584.17,
+      502.33
+    ],
+    "text": "succession to the descending line to the exclusion of both the ascending and the collateral lines. We",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.025673866271973,
+      12.367740631103516,
+      12.435110092163086,
+      12.459709167480469,
+      12.472823143005371,
+      12.5431547164917,
+      12.547640800476074,
+      12.585868835449219,
+      12.591509819030762,
+      12.607781410217285,
+      12.62742805480957,
+      12.659171104431152,
+      12.796929359436035,
+      12.828304290771484,
+      12.866947174072266,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      132.04,
+      510.45,
+      584.43,
+      526.81
+    ],
+    "text": "see that, according to the strict grammatical meaning of the words Sisyanu Sisya Paramparawa, the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0292387008667,
+      12.435110092163086,
+      12.547640800476074,
+      12.668059349060059,
+      12.675355911254883,
+      12.691309928894043,
+      12.716150283813477,
+      12.742940902709961,
+      12.840781211853027,
+      12.873038291931152,
+      12.91927719116211,
+      12.954907417297363,
+      13.236957550048828,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      132.11,
+      535.17,
+      402.33,
+      551.53
+    ],
+    "text": "line of succession is limited to pupils of the descending line\".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.49986743927002,
+      12.420554161071777,
+      12.503511428833008,
+      12.59518051147461,
+      12.644290924072266,
+      12.659171104431152,
+      12.699753761291504,
+      12.716150283813477,
+      12.92866039276123,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.07,
+      563.22,
+      583.87,
+      581.08
+    ],
+    "text": "In Gunananda Unnanse v. Dewarakkita Unnanse (1924) 26 NLR 257, Justice A. St. V.",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.506321907043457,
+      12.127025604248047,
+      12.148514747619629,
+      12.801397323608398,
+      12.890169143676758,
+      12.89489459991455,
+      13.100000381469727,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      96.4,
+      587.16,
+      584.92,
+      604.63
+    ],
+    "text": "J ayawardene said: \"This rule requiring the transmission of an incumbency from senior pupil to senior",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.367740631103516,
+      12.438504219055176,
+      12.547640800476074,
+      12.58432388305664,
+      12.630983352661133,
+      12.683599472045898,
+      12.685765266418457,
+      12.710616111755371,
+      12.721207618713379,
+      12.764374732971191,
+      12.896749496459961,
+      12.901683807373047,
+      13.100000381469727,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.37,
+      612.69,
+      559.75,
+      629.05
+    ],
+    "text": "pupil produces certainty and creates a sort of \"primogeniture\" which is easily understood and applied\".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.703452110290527,
+      12.227338790893555,
+      12.495631217956543,
+      12.583738327026367,
+      12.636234283447266,
+      12.6824369430542,
+      12.738207817077637,
+      12.748827934265137,
+      12.773504257202148,
+      12.818586349487305,
+      13.004977226257324,
+      13.034977912902832,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.16,
+      640.44,
+      584.97,
+      657.91
+    ],
+    "text": "Several judgments of our Supreme Court have clearly recognized this rule of succession",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.26,
+      662.52,
+      584.38,
+      680.0
+    ],
+    "text": "and it is now so well established that an incumbent cannot invalidate it by nominating one",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.116739273071289,
+      13.148061752319336,
+      13.285141944885254,
+      13.484895706176758
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.03,
+      686.29,
+      583.67,
+      703.76
+    ],
+    "text": "of his co-pupils to succeed him-see Gunananda Unnanse v. Dewarakkita Unnanse (1924)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.923186302185059,
+      11.991863250732422,
+      11.996197700500488,
+      12.699753761291504,
+      13.100000381469727,
+      13.218976974487305,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.32,
+      709.33,
+      515.6,
+      726.8
+    ],
+    "text": "26 N.LR 257; Amaraseela Thero v. Sasanatillake Thero (1957) 59 N.LR 289.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.923186302185059,
+      12.789161682128906,
+      13.018446922302246,
+      13.043980598449707,
+      13.054521560668945,
+      13.100000381469727,
+      13.105348587036133,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      337.46,
+      729.63,
+      346.83,
+      746.3
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.05,
+      66.73,
+      585.08,
+      84.34
+    ],
+    "text": "The fact that incumbency has to revolve around pupils of an incumbent is illustrated by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.312222480773926
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.49,
+      89.05,
+      170.47,
+      106.66
+    ],
+    "text": "another rule.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.12,
+      117.61,
+      526.35,
+      135.23
+    ],
+    "text": "A Stranger cannot be Appointed as Successor to the Exclusion of the Pupils",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.207147598266602,
+      13.236798286437988,
+      13.277273178100586,
+      13.428374290466309,
+      13.51762866973877,
+      13.57934856414795
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.05,
+      145.92,
+      584.78,
+      163.54
+    ],
+    "text": "The decision in Terunnanse v. Terunnanse (1929) 31 N.LR 161 at 163 is that an",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.662214279174805,
+      11.684953689575195,
+      11.926520347595215,
+      12.592206954956055,
+      13.199999809265137,
+      13.399999618530273,
+      13.714618682861328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.05,
+      168.98,
+      585.52,
+      186.59
+    ],
+    "text": "incumbent's choice of a successor is limited to his pupils. He cannot transfer his right to",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.871881484985352,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.37,
+      191.54,
+      415.61,
+      209.15
+    ],
+    "text": "the incumbency to a stranger to the exclusion of his pupils.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.11,
+      219.85,
+      401.8,
+      237.47
+    ],
+    "text": "Presumption in favour of Sisyanu Sisya Paramparawa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.259565353393555,
+      13.277273178100586
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.31,
+      249.12,
+      584.24,
+      266.73
+    ],
+    "text": "It must always be remembered that the general rule of succession is the Sisyanu Sisya",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.746200561523438,
+      12.790278434753418,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.01,
+      273.62,
+      585.22,
+      291.23
+    ],
+    "text": "Paramparawa. Accordingly, in any case where the incumbency of a temple is in question, in",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.801116943359375,
+      13.199999809265137,
+      13.259565353393555,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.13,
+      298.34,
+      585.22,
+      315.95
+    ],
+    "text": "the absence of evidence to the contrary, it must be presumed that the incumbency is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.335752487182617
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.98,
+      322.81,
+      583.84,
+      340.42
+    ],
+    "text": "subject to the Sisyanu Sisya Paramparawa Rule of succession~see Ratnapala Unnanse v.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.749991416931152,
+      6.580044269561768,
+      7.465570449829102,
+      11.466187477111816,
+      12.824177742004395,
+      12.873038291931152,
+      12.876420974731445,
+      13.199999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.75,
+      346.34,
+      586.3,
+      363.95
+    ],
+    "text": "Kevitiagala Unnanse (1890) 2 SCC 26; Unnanse v. Unnanse (1921) 22 NLR 323;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.662214279174805,
+      12.795811653137207,
+      12.857455253601074,
+      12.939274787902832,
+      13.063443183898926,
+      13.134940147399902,
+      13.199999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      99.09,
+      369.37,
+      583.78,
+      386.98
+    ],
+    "text": "Gunaratna Unnanse v. Dhammananda (1921) 22 NLR 276. As remarked by Justice T.S.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.671673774719238,
+      12.72935962677002,
+      12.792613983154297,
+      12.857455253601074,
+      12.875307083129883,
+      13.06804084777832,
+      13.199999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.34,
+      393.13,
+      564.73,
+      410.74
+    ],
+    "text": "Fernando in 69 N.LR 412, \"it has been so laid down by our Supreme Court in unmistakable terms\".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.052414894104004,
+      12.273880958557129,
+      12.312740325927734,
+      12.388633728027344,
+      12.459871292114258,
+      12.565835952758789,
+      12.629498481750488,
+      12.647045135498047,
+      12.658906936645508,
+      12.77846908569336,
+      12.974649429321289,
+      12.975526809692383,
+      13.016976356506348,
+      13.068798065185547,
+      13.107576370239258,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.1,
+      422.18,
+      309.49,
+      439.79
+    ],
+    "text": "Departure from the Rule of Seniority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.277273178100586,
+      13.51762866973877
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.02,
+      450.73,
+      585.64,
+      468.34
+    ],
+    "text": "Could there be a departure from this rule of seniority? It is apposite to bear in mind what",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.29426383972168
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.27,
+      469.58,
+      587.15,
+      492.39
+    ],
+    "text": "G.P.A. Silva, J. said in 1971 in the case of Easwatte Dhammarakitta Thera v. Dampe",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.878277778625488,
+      12.222992897033691,
+      12.234919548034668,
+      13.191997528076172,
+      13.199999809265137,
+      13.399999618530273,
+      13.608560562133789
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.52,
+      496.09,
+      585.89,
+      513.7
+    ],
+    "text": "Dharmaratne Thera (1971) 76 N.LR 73 namely it was only from about 1920 onwards that",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.448508262634277,
+      12.605827331542969,
+      12.848006248474121,
+      13.18038558959961,
+      13.199999809265137,
+      13.25528335571289,
+      13.335752487182617,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.37,
+      518.9,
+      585.51,
+      536.51
+    ],
+    "text": "the rule of pupillary succession to incumbencies of Buddhist temples was properly",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.871881484985352,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.26,
+      541.45,
+      426.49,
+      559.06
+    ],
+    "text": "developed by our courts. To cite the learned Judge verbatim:~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.674363136291504,
+      7.849228858947754,
+      13.175025939941406,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      132.21,
+      570.73,
+      585.0,
+      588.34
+    ],
+    "text": "\"The strict rule of Sisyanu Sisya Paramparawa as we understand today, came to be accepted with",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.181939125061035,
+      12.243709564208984,
+      12.339158058166504,
+      12.395986557006836,
+      12.457127571105957,
+      12.52182388305664,
+      12.61134147644043,
+      12.669116973876953,
+      12.824177742004395,
+      12.83342170715332,
+      12.873038291931152,
+      12.878658294677734,
+      12.941349983215332,
+      12.959922790527344,
+      13.171908378601074,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      131.39,
+      596.37,
+      584.55,
+      612.73
+    ],
+    "text": "greater rigidity only after the rule was judicially interpreted in the second and third decades of this",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.244586944580078,
+      12.446097373962402,
+      12.514973640441895,
+      12.547640800476074,
+      12.636604309082031,
+      12.675461769104004,
+      12.700965881347656,
+      12.719311714172363,
+      12.753293991088867,
+      12.880010604858398,
+      12.970672607421875,
+      12.979501724243164,
+      12.98775863647461,
+      12.988532066345215,
+      13.066140174865723,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      132.39,
+      618.85,
+      584.55,
+      637.52
+    ],
+    "text": "century. It will not be correct to say that there was inflexible adherence to this rule prior to this",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863,
+      9.833991050720215,
+      12.0,
+      12.135979652404785,
+      12.339158058166504,
+      12.514973640441895,
+      12.528884887695312,
+      12.59395694732666,
+      12.661128997802734,
+      12.666790008544922,
+      12.669116973876953,
+      12.719311714172363,
+      12.726999282836914,
+      12.85535717010498,
+      12.874963760375977,
+      12.93679428100586,
+      12.940470695495605,
+      13.100553512573242
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      132.32,
+      645.34,
+      584.42,
+      661.7
+    ],
+    "text": "interpretation and we might misread ourselves if we apply the rule as interpreted without exception",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.181939125061035,
+      12.273826599121094,
+      12.395986557006836,
+      12.523054122924805,
+      12.585868835449219,
+      12.586028099060059,
+      12.659171104431152,
+      12.693684577941895,
+      12.753293991088867,
+      12.822662353515625,
+      12.863093376159668,
+      12.880010604858398,
+      13.053571701049805,
+      13.083870887756348,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      132.67,
+      669.82,
+      586.59,
+      686.18
+    ],
+    "text": "to the past, not taking into account the facts and circumstances of each case. One might say that,",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.833991050720215,
+      12.085583686828613,
+      12.28544807434082,
+      12.362700462341309,
+      12.534873008728027,
+      12.585868835449219,
+      12.659171104431152,
+      12.747041702270508,
+      12.750720024108887,
+      12.757654190063477,
+      12.863093376159668,
+      12.891345977783203,
+      12.895970344543457,
+      12.908952713012695,
+      12.940470695495605,
+      13.01517391204834,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      337.78,
+      729.94,
+      346.93,
+      746.22
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      131.88,
+      66.45,
+      586.35,
+      82.81
+    ],
+    "text": "even after such a judicial interpretation, instances of a departure from the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.639164924621582,
+      15.334685325622559
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      131.89,
+      89.5,
+      510.46,
+      105.86
+    ],
+    "text": "ordinary rule are found occasionally in respect of certain temples'~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.60214900970459,
+      13.399999618530273,
+      13.51703929901123,
+      13.804737091064453,
+      15.334685325622559
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.09,
+      116.76,
+      584.59,
+      134.23
+    ],
+    "text": "The above statement quite clearly shows that the rule has been departed from without",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.33,
+      139.31,
+      584.71,
+      156.79
+    ],
+    "text": "doing violence to its sanctity. It is for this reason that the practice grew that an incumbent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.116739273071289,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.3,
+      161.87,
+      583.5,
+      179.35
+    ],
+    "text": "of a temple can appoint or nominate anyone of his pupils to succeed him and the pupil so",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.065805435180664,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.54,
+      184.45,
+      584.27,
+      201.92
+    ],
+    "text": "appointed or nominated, even if such pupil was a junior, succeeds to the exclusion of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.24,
+      208.2,
+      582.71,
+      225.67
+    ],
+    "text": "senior pupil of that incumbent~see Gunananda Unnanse v. Dewarakkita Unnanse (1924)",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.023952007293701,
+      6.598985195159912,
+      8.031936645507812,
+      11.419482231140137,
+      13.100000381469727,
+      13.189444541931152,
+      13.218976974487305,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.36,
+      231.72,
+      584.67,
+      249.19
+    ],
+    "text": "26 N.LR 257. As Justice De Krester said in Piyatissa Terunnanse v. Saranapala",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.419482231140137,
+      12.819701194763184,
+      12.826444625854492,
+      12.907232284545898,
+      13.018446922302246,
+      13.100000381469727,
+      13.399999618530273,
+      13.66257095336914
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      99.08,
+      254.52,
+      584.39,
+      271.99
+    ],
+    "text": "Terunnanse (1938) 40 N.LR 262 at 263, \"as I understand the law a priest always has the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.043980598449707,
+      13.054521560668945,
+      13.098099708557129,
+      13.100000381469727,
+      13.399999618530273,
+      13.574699401855469
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.16,
+      277.02,
+      584.05,
+      295.02
+    ],
+    "text": "right to nominate his successor from among his pupils. I need hardly quote all the cases on",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.12,
+      299.87,
+      582.88,
+      317.35
+    ],
+    "text": "this point\". The earlier cases cited in this case were the following. Henepolle Unnanse v.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.419482231140137,
+      13.100000381469727,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.66,
+      322.68,
+      583.41,
+      340.15
+    ],
+    "text": "Subita Unnanse 5 SCC 235; Terunnanse v. Terunnanse (1905) Matara Cases 236;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.614709854125977,
+      12.789161682128906,
+      13.100000381469727,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      98.13,
+      345.49,
+      582.88,
+      362.96
+    ],
+    "text": "Gunananda Unnanse v. Dewarakkita Unnanse 26 N.LR 257 and Rewata Unnanse v.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.923186302185059,
+      12.890169143676758,
+      13.0127592086792,
+      13.100000381469727,
+      13.399999618530273,
+      13.66257095336914
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.54,
+      368.28,
+      307.08,
+      385.75
+    ],
+    "text": "Ratnajoti Unnanse (1916) 3 CWR 193.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.48370361328125,
+      12.709015846252441,
+      13.100000381469727,
+      13.329686164855957,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      96.85,
+      396.33,
+      584.18,
+      414.61
+    ],
+    "text": "Thus it is open to an incumbent to appoint, by deed or last will, any particular pupil as his",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.961973190307617,
+      13.100000381469727,
+      13.285141944885254,
+      13.300000190734863,
+      13.450695991516113
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.0,
+      420.6,
+      585.35,
+      438.07
+    ],
+    "text": "successor even bypassing his senior pupil~vide Sumangala Unnanse v. Sobita Unnanse",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.023952007293701,
+      6.9558610916137695,
+      7.556065559387207,
+      11.614709854125977,
+      13.100000381469727,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.53,
+      443.88,
+      584.55,
+      461.35
+    ],
+    "text": "(1835) 5 SCC 235; Dhammajoti Thero v. Sobita Thero (19l3) 16 N.LR 408; Saranankara",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.923186302185059,
+      12.300024032592773,
+      12.863311767578125,
+      13.00576114654541,
+      13.100000381469727,
+      13.15528392791748,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      98.46,
+      466.68,
+      582.88,
+      484.15
+    ],
+    "text": "Unnanse v. Indajoti Unnanse (1918) 20 N.LR 385 at 400; Jinaratana Thero v.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.923186302185059,
+      12.127025604248047,
+      12.709015846252441,
+      12.92310619354248,
+      13.100000381469727,
+      13.399999618530273,
+      13.574699401855469
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.9,
+      489.49,
+      584.67,
+      506.96
+    ],
+    "text": "Somaratana Thero (1946) 47 N.LR 228; Piyatissa Terunnanse v. Saranapala",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.419482231140137,
+      13.083189010620117,
+      13.100000381469727,
+      13.15528392791748,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      99.08,
+      512.28,
+      584.27,
+      529.75
+    ],
+    "text": "Terunnanse (1938) 40 N.LR 262; Buddharakkita Thero v. The Public Trustee (1948) 44",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.127025604248047,
+      13.054521560668945,
+      13.083189010620117,
+      13.100000381469727,
+      13.105348587036133,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.5,
+      535.07,
+      584.64,
+      552.55
+    ],
+    "text": "N.LR 325. For a recent (1991) Supreme Court case of Three Judges where this rule was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.758909225463867,
+      12.966874122619629,
+      13.100000381469727,
+      13.66257095336914
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.16,
+      557.63,
+      583.74,
+      575.11
+    ],
+    "text": "recognized, see Basnagoda Hemaloka v. Sandanangama Attadassi (1991) 2 Sri.LR p.228",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.614709854125977,
+      12.758909225463867,
+      12.9951810836792,
+      13.0127592086792,
+      13.100000381469727,
+      13.399999618530273,
+      13.437546730041504
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.18,
+      581.64,
+      583.62,
+      599.11
+    ],
+    "text": "where it was said: \"an incumbent of a Buddhist temple is entitled to appOint any particular pupil as his",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.764187812805176,
+      11.965636253356934,
+      12.024782180786133,
+      12.327913284301758,
+      12.350446701049805,
+      12.438504219055176,
+      12.627269744873047,
+      12.661288261413574,
+      12.683599472045898,
+      12.770566940307617,
+      12.892436981201172,
+      12.920573234558105,
+      13.042737007141113,
+      13.100000381469727,
+      13.285141944885254,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.48,
+      606.69,
+      148.14,
+      623.05
+    ],
+    "text": "successor\".",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.337998390197754,
+      12.574363708496094
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.33,
+      635.88,
+      584.63,
+      653.35
+    ],
+    "text": "There was no such appointment here. Can then a pupil qua the Plaintiff in the case claim",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.430368423461914,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.41,
+      658.93,
+      584.29,
+      676.4
+    ],
+    "text": "that he could succeed to the incumbency notwithstanding the fact that he was not the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.41,
+      681.48,
+      584.52,
+      698.96
+    ],
+    "text": "most senior pupil of Rev. Kapugama Seelawansa? From the foregoing I arrive at the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.850066184997559,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      333.84,
+      728.64,
+      349.6,
+      745.82
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.99,
+      65.89,
+      585.99,
+      83.36
+    ],
+    "text": "opinion that departures have indeed been permitted having regard to the facts and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.98,
+      88.68,
+      285.63,
+      106.16
+    ],
+    "text": "circumstances of a particular case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.6,
+      116.77,
+      584.94,
+      134.24
+    ],
+    "text": "Are there facts and circumstances in this case that warrant such a departure in the case?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.966318130493164,
+      13.100000381469727,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.77,
+      139.33,
+      585.36,
+      156.8
+    ],
+    "text": "The Plaintiff himself conceded under cross-examination that his tutor was Rev. Kapugama",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.112244606018066,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.11,
+      161.88,
+      585.64,
+      179.36
+    ],
+    "text": "Seelawansa Thera. The tutor had three pupils. One was Kebaliyapola Somaratna Thero",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.62,
+      184.44,
+      585.25,
+      201.92
+    ],
+    "text": "who was residing at Kadawedduwa Thun Bodhi Vihara. The other pupil was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.81,
+      207.24,
+      585.82,
+      224.71
+    ],
+    "text": "Kadawedduwa Premaratna Thero and the third pupil was the Plaintiff. In the course of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.875221252441406,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.49,
+      229.56,
+      586.12,
+      247.03
+    ],
+    "text": "further cross-examination the Plaintiff also admitted that Kapugama Seelawansa Thera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.261702537536621
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.61,
+      252.11,
+      284.49,
+      269.59
+    ],
+    "text": "had other pupils as well; that the 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.961973190307617,
+      13.100000381469727,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      282.38,
+      252.12,
+      586.03,
+      269.59
+    ],
+    "text": "st pupil was Wehelle Indratna, Kebaliyagama Somaratna",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.400100231170654,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.6,
+      272.97,
+      584.83,
+      292.39
+    ],
+    "text": "was the 2nd pupil, Lunama Nandasara Thera was the 3rd pupil and the Plaintiff was the 5th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.66,
+      297.48,
+      586.68,
+      314.95
+    ],
+    "text": "pupil. It was the argument of the Defendant that when two pupils senior to the Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.031320571899414,
+      13.100000381469727,
+      13.116739273071289,
+      13.163695335388184
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.62,
+      320.03,
+      585.55,
+      337.51
+    ],
+    "text": "were alive, he could not have succeeded Kapugama Seelawansa Thero in the absence of an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.101699829101562
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.73,
+      342.83,
+      240.44,
+      360.31
+    ],
+    "text": "appointment by the tutor.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.81,
+      370.92,
+      585.41,
+      388.39
+    ],
+    "text": "But it is noteworthy that none of the other pupils have claimed the Viharadhipathiship by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.116739273071289,
+      13.285141944885254
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.38,
+      393.47,
+      585.27,
+      410.95
+    ],
+    "text": "virtue of succession on seniority. No one ever contested the Plaintiff in the matter of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.717259407043457,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.69,
+      416.04,
+      586.36,
+      433.51
+    ],
+    "text": "succession. No other pupil has come forward to vindicate Viharadhipathiship. In such a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.66,
+      438.61,
+      586.39,
+      456.08
+    ],
+    "text": "situation an outsider such as the Defendant cannot set up seniority in appeal when a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.295293807983398
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.93,
+      461.16,
+      586.03,
+      478.64
+    ],
+    "text": "situation of this nature is catered to where the Buddhist Ecclesiastical Law quite clearly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.9,
+      483.72,
+      586.09,
+      501.2
+    ],
+    "text": "permits a junior pupil to succeed to Viharadhipathiship in special circumstances. One",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.99,
+      506.52,
+      586.16,
+      523.99
+    ],
+    "text": "cannot go searching for senior pupils when their exact whereabouts and even their",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.75,
+      528.84,
+      586.67,
+      546.31
+    ],
+    "text": "identities have not been established with certainty. No doubt the rule that a senior pupil",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.101699829101562,
+      13.116739273071289,
+      13.231490135192871
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.1,
+      551.16,
+      586.65,
+      568.63
+    ],
+    "text": "must succeed his tutor enjoys its eternal value but it is not inflexible as to prevent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.961973190307617,
+      13.100000381469727,
+      13.101699829101562,
+      13.285141944885254,
+      13.305784225463867
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.17,
+      573.71,
+      586.88,
+      591.19
+    ],
+    "text": "somebody such as the Plaintiff fram succession when no senior pupil has come forward. In",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.31,
+      596.51,
+      586.87,
+      613.98
+    ],
+    "text": "the circumstances I see no reason to disturb the conclusion reached by the learned District",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      97.56,
+      619.07,
+      505.43,
+      636.55
+    ],
+    "text": "Judge that the incumbency of Gandara Vihara had devolved on the Plaintiff.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.01,
+      647.16,
+      586.04,
+      664.64
+    ],
+    "text": "The next question to be answered is whether the Bomure Vihara has become an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.45,
+      669.49,
+      586.08,
+      686.97
+    ],
+    "text": "appurtenant Vihara to Gandara Vihara and as such the Plaintiff had also become the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.961973190307617,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.25,
+      691.56,
+      290.97,
+      709.03
+    ],
+    "text": "incumbent of the Bomure Viharaya.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      335.74,
+      729.74,
+      351.96,
+      745.3
+    ],
+    "text": "11",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.58,
+      65.77,
+      529.9,
+      83.38
+    ],
+    "text": "Deed No. 9202 dated 02.05.1885 attested by Symon de Alwis Notary Public?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.306917190551758,
+      13.364179611206055,
+      13.378739356994629,
+      13.403579711914062
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.58,
+      94.34,
+      585.18,
+      111.95
+    ],
+    "text": "By Deed No. 9202 dated 02.05.1885 and attested by Symon de Alwis Notary Public Heelle",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.645712852478027,
+      12.800000190734863,
+      13.01789379119873,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.8,
+      116.65,
+      585.17,
+      134.26
+    ],
+    "text": "Indrajothi Thero of Bomure Vihara handed over his rights to his brother monk Heelle",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.81,
+      139.21,
+      518.7,
+      156.82
+    ],
+    "text": "Rewatha Thero, who was the Viharadhipathi of the Gandara Purana Viharaya.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.3,
+      167.52,
+      585.69,
+      185.14
+    ],
+    "text": "The Defendant took up the position that this transfer is not valid in law. This deed was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.232359886169434,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.74,
+      191.29,
+      504.8,
+      208.92
+    ],
+    "text": "though produced marked PI at the trial without any opposition or objection.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.82914924621582,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.13,
+      220.58,
+      585.69,
+      238.19
+    ],
+    "text": "A careful perusal of this Deed which was executed 100 years ago by Symon de Alwis",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.957267761230469,
+      13.14046573638916,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.7,
+      243.14,
+      585.42,
+      260.75
+    ],
+    "text": "Notary Public shows that the deed, (Q)>O~ ~c:o) in fact handed over the rights of Heelle",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.212061405181885,
+      7.514721393585205,
+      13.080963134765625,
+      13.199999809265137,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.55,
+      265.46,
+      585.18,
+      283.07
+    ],
+    "text": "Indrajothi Thero with a duty cast upon the person who got the rights namely Heelle",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.219684600830078
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.58,
+      287.77,
+      585.64,
+      305.38
+    ],
+    "text": "Rewatha Thero to take care of three pupils of Heelle Indrajothi Thero, the executants of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.080963134765625,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.61,
+      310.33,
+      150.8,
+      327.94
+    ],
+    "text": "the deed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.31,
+      338.89,
+      585.95,
+      356.5
+    ],
+    "text": "It has been argued that in 1885 there was no prohibition against the transfer of rights in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.516664505004883,
+      13.199999809265137,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.38,
+      362.66,
+      585.33,
+      380.29
+    ],
+    "text": "this manner. In fact, the prohibition of transferring Shangika property came into operation",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.968818664550781,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.27,
+      385.69,
+      566.53,
+      403.31
+    ],
+    "text": "only in terms of the Buddhist Temporalities Ordinance No. 31 of 1931 in the year of 1931.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.649494171142578,
+      12.036372184753418,
+      12.175517082214355,
+      12.800000190734863,
+      12.930855751037598,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.31,
+      414.01,
+      584.95,
+      431.62
+    ],
+    "text": "In fact Section 34 of this Ordinance specifically lays down that the rights acquired prior to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0641508102417,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.39,
+      436.82,
+      584.27,
+      454.43
+    ],
+    "text": "the commencement of the operation of the Ordinance which came into effect on 01.11.1931",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.902483940124512,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.14,
+      459.38,
+      585.7,
+      476.99
+    ],
+    "text": "would not be affected by the Ordinance. This position, advanced by the Plaintiff is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.06,
+      481.7,
+      585.84,
+      499.31
+    ],
+    "text": "incontrovertible and I proceed to hold that the conveyance dated 02.05.1885 is valid in law",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.5,
+      504.26,
+      586.0,
+      521.87
+    ],
+    "text": "and the rights over Bomure Viharaya vested in Heelle Rewatha Thero~the predecessor of",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.09524393081665,
+      7.602104663848877,
+      8.116827011108398,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.35,
+      527.06,
+      443.6,
+      544.67
+    ],
+    "text": "Kapugama Seelawansa. This raises another important question.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.35,
+      555.37,
+      587.35,
+      572.99
+    ],
+    "text": "Has Heellee Indrajothi Thero 'abandoned' and 'renounced' his rights in favour of",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.82653522491455,
+      13.199999809265137,
+      13.221932411193848,
+      13.277273178100586,
+      13.413178443908691
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.34,
+      577.69,
+      232.86,
+      595.3
+    ],
+    "text": "Heelle Rewatha Thero?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.277522087097168
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.37,
+      606.49,
+      585.71,
+      624.1
+    ],
+    "text": "A careful perusal of the Deed No. 9202 (PI) clearly shows that Heelle Indrajothi Thero",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.930855751037598,
+      13.199999809265137,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.51,
+      629.06,
+      585.96,
+      646.67
+    ],
+    "text": "clearly intended to abandon his rights to the Bomure Viharaya and renounced the same in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.27,
+      651.62,
+      367.39,
+      669.23
+    ],
+    "text": "favour of his brother pupil Heelle Rewatha Thero.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      98.31,
+      679.46,
+      431.77,
+      697.07
+    ],
+    "text": "The follOwing wording in the said deed, is indeed significant: ~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.09524393081665,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      334.57,
+      727.75,
+      350.42,
+      745.89
+    ],
+    "text": "12",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.514179229736328
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132.96,
+      64.6,
+      599.04,
+      82.54
+    ],
+    "text": "\"~ &:0) QQ ~eme) CS>l:eD C) crl:~ ffiQ)es> Qt Q>@ Q5) ~~",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.653016567230225,
+      7.76020622253418,
+      8.181471824645996,
+      8.509514808654785,
+      9.100000381469727,
+      9.818817138671875,
+      9.8269624710083,
+      10.199999809265137,
+      10.308831214904785,
+      10.683300018310547,
+      10.718250274658203,
+      12.439935684204102,
+      12.765202522277832
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132.73,
+      87.64,
+      595.85,
+      104.31
+    ],
+    "text": "~ ~o @5>tl) 6)@@ ~tl) tl>Ol:M~ ~ oe>O) QO ~~",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.894582748413086,
+      9.399999618530273,
+      9.487018585205078,
+      9.8269624710083,
+      10.384912490844727,
+      10.399999618530273,
+      10.422744750976562,
+      11.297123908996582,
+      11.465705871582031,
+      13.130033493041992
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132.73,
+      112.15,
+      354.49,
+      126.17
+    ],
+    "text": "C.O~B5 OOl:Q 1885 l:c\" Q 02 ~.\"",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      6.851569175720215,
+      9.35692310333252,
+      10.199999809265137,
+      10.399106979370117,
+      10.470513343811035,
+      10.990330696105957
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.53,
+      138.25,
+      585.94,
+      155.86
+    ],
+    "text": "This clearly manifests Heel1e Indrajothi's intention to renounce and abandon his rights in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.956962585449219,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.5,
+      160.81,
+      585.97,
+      178.42
+    ],
+    "text": "favour of Heelle Rewatha of the Bomure Purana Viharaya. There is a clear stipulation that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.85,
+      183.37,
+      585.95,
+      200.98
+    ],
+    "text": "the transferee Heelle Rewatha should take over and nurture not only the physical",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.85,
+      205.69,
+      585.67,
+      223.3
+    ],
+    "text": "temporalities of the Bomure Viharaya but also the Heel1e Indrajothi Thero's three young",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.956962585449219,
+      13.199999809265137,
+      13.35647201538086
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.43,
+      228.49,
+      559.77,
+      246.1
+    ],
+    "text": "pupils namely Kanampitiye Indragupta, Kirinde Rewatha and Kapugama Seelawansa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.3,
+      256.8,
+      585.93,
+      274.42
+    ],
+    "text": "These were the submissions made by Mr. Champ aka Ladduwahetty for the Plaintiff and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.15427017211914,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.59,
+      279.13,
+      585.39,
+      296.74
+    ],
+    "text": "the case law on abandonment makes it crystal clear that the act of Heelle Indrajothi Thero",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.239689826965332,
+      13.335752487182617
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.27,
+      301.93,
+      585.39,
+      319.54
+    ],
+    "text": "in executing the deed manifested a clear intention to renounce his rights over Bomure",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.33,
+      324.5,
+      586.21,
+      342.11
+    ],
+    "text": "Viharaya. Soon after executing the deed PI, Heelle Indrajothi disrobed and became a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.29,
+      347.06,
+      585.62,
+      364.67
+    ],
+    "text": "layman. This voluntary disrobing strengthens the evidence that the execution of the Deed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.58,
+      369.62,
+      452.83,
+      387.23
+    ],
+    "text": "PI was nothing but a renunciation and abandonment of his rights.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.080963134765625,
+      13.199999809265137,
+      13.442914962768555
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.04,
+      398.19,
+      584.58,
+      415.79
+    ],
+    "text": "This act eventuates in the consequence that his line of succession to the Bomure Viharaya",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.27,
+      420.73,
+      584.36,
+      438.34
+    ],
+    "text": "came to an end. The Supreme Court laid down in Punnananda v. Weliwitiya Soratha 51",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.878277778625488,
+      11.89263916015625,
+      13.199999809265137,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.7,
+      444.97,
+      584.79,
+      462.58
+    ],
+    "text": "N.L.R 372 that: \"the abandonment of an incumbency by a priest operates to deprive his pupils of their",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.327913284301758,
+      12.435110092163086,
+      12.438504219055176,
+      12.485172271728516,
+      12.588849067687988,
+      12.632043838500977,
+      12.681169509887695,
+      12.688880920410156,
+      12.710616111755371,
+      12.716150283813477,
+      12.776179313659668,
+      12.884376525878906,
+      13.018982887268066,
+      13.199999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.57,
+      470.38,
+      241.05,
+      486.74
+    ],
+    "text": "rights of pupillary succession\".",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.562849998474121,
+      12.693209648132324,
+      12.923736572265625,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.55,
+      499.69,
+      585.99,
+      517.3
+    ],
+    "text": "In Punnananda Thero's case, decided in 1950 Justice Windham observed that the effect of",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.665626525878906,
+      12.778905868530273,
+      12.981185913085938,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.73,
+      522.72,
+      585.84,
+      540.34
+    ],
+    "text": "abandonment depriving a pupil to succeed to the incumbency had not been previously",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.227221488952637
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.76,
+      545.29,
+      468.97,
+      562.9
+    ],
+    "text": "covered by any authority. To quote Justice Windham's exact words :~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.674363136291504,
+      8.327688217163086,
+      13.175025939941406,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132.46,
+      573.37,
+      585.91,
+      590.98
+    ],
+    "text": "\"With regard to the question whether such an abandonment by Sumangala",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.286565780639648
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132.59,
+      596.18,
+      585.67,
+      613.79
+    ],
+    "text": "operated to deprive his pupils of such rights to the incumbency as they might",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0113525390625,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132.59,
+      618.49,
+      586.35,
+      636.1
+    ],
+    "text": "otherwise have claimed, I think the learned District Judge was right in holding that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132.36,
+      642.25,
+      585.69,
+      659.86
+    ],
+    "text": "it did so operate. The question appears not to be covered by authority. It has been held in",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.339158058166504,
+      12.463043212890625,
+      12.522412300109863,
+      12.5431547164917,
+      12.555914878845215,
+      12.772245407104492,
+      12.78907299041748,
+      12.940470695495605,
+      13.134519577026367,
+      13.199999809265137,
+      13.399999618530273,
+      13.536266326904297
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      133.08,
+      665.3,
+      585.65,
+      682.91
+    ],
+    "text": "Dammaratna Unnanse v. Sumangala Unnanse l4 NLR 400 that when a tutor",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.878277778625488,
+      13.199999809265137,
+      13.239689826965332,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132.6,
+      687.62,
+      585.88,
+      705.23
+    ],
+    "text": "disrobes himself for immorality, this does not deprive his pupils of their rights of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.080963134765625,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      334.82,
+      727.21,
+      350.81,
+      744.82
+    ],
+    "text": "13",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      132.02,
+      66.57,
+      584.5,
+      83.77
+    ],
+    "text": "pupillary succession. But I think the case is different where the tutor abandons his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.951796531677246,
+      13.011765480041504
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      131.99,
+      89.13,
+      585.12,
+      106.34
+    ],
+    "text": "rights to an incumbency. Disrobing, with the intention of giving up the priesthood,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.068597793579102,
+      13.081128120422363
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      131.88,
+      111.69,
+      585.13,
+      128.9
+    ],
+    "text": "is the equivalent, ecclesiastically, of personal demise, and it does not entail, any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91603946685791,
+      13.001301765441895,
+      13.183338165283203
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      131.97,
+      134.0,
+      585.61,
+      151.21
+    ],
+    "text": "more than death entails, an abandonment of rights, but merely a personal incapacity",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.003286361694336,
+      13.203822135925293
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      132.2,
+      158.0,
+      584.15,
+      175.21
+    ],
+    "text": "to exercise there. These rights can accordingly descend to a pupillary successor. The",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.342252731323242,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      132.16,
+      183.58,
+      583.85,
+      199.94
+    ],
+    "text": "abandonment of an incumbency by a priest, on the other hand, constitutes the forfeiture of that to",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.189746856689453,
+      12.395121574401855,
+      12.512510299682617,
+      12.547640800476074,
+      12.572978019714355,
+      12.629498481750488,
+      12.653507232666016,
+      12.800907135009766,
+      12.84192943572998,
+      12.929282188415527,
+      12.973719596862793,
+      12.987552642822266,
+      13.018467903137207,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      131.94,
+      208.06,
+      584.25,
+      224.42
+    ],
+    "text": "which his pupil's rights of succession are attached, namely the incumbency itself The priest remains",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.448196411132812,
+      12.534979820251465,
+      12.547640800476074,
+      12.59518051147461,
+      12.611554145812988,
+      12.6138916015625,
+      12.682120323181152,
+      12.6824369430542,
+      12.695479393005371,
+      12.715781211853027,
+      12.751823425292969,
+      12.805512428283691,
+      12.902203559875488,
+      13.35888671875,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      132.15,
+      232.53,
+      584.62,
+      248.89
+    ],
+    "text": "a priest, but abandons his rights to the incumbency, upon which the pupillary rights to succession",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.764187812805176,
+      12.327913284301758,
+      12.432685852050781,
+      12.5431547164917,
+      12.606877326965332,
+      12.610225677490234,
+      12.61920166015625,
+      12.659171104431152,
+      12.6824369430542,
+      12.751823425292969,
+      12.788339614868164,
+      12.810168266296387,
+      12.96018123626709,
+      13.172823905944824,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      132.16,
+      257.02,
+      469.09,
+      273.38
+    ],
+    "text": "are dependent. There accordingly remain no rights for the pupil to inherit.\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.212809562683105,
+      12.43220043182373,
+      12.571699142456055,
+      12.6138916015625,
+      12.659171104431152,
+      12.661764144897461,
+      12.693209648132324,
+      12.716150283813477,
+      12.740889549255371,
+      12.748827934265137,
+      12.856998443603516,
+      13.061575889587402
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      97.81,
+      285.22,
+      584.87,
+      302.42
+    ],
+    "text": "The Supreme Court decision in Punnananda v. Welivitiye Soratha (1950) 51 NLR 372 is",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.756647109985352,
+      11.959354400634766,
+      12.649568557739258,
+      12.899999618530273,
+      12.961553573608398,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      98.13,
+      308.01,
+      585.81,
+      325.22
+    ],
+    "text": "therefore an important decision of Justice Windham and Gunasekera. The case can be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.969511985778809
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      98.03,
+      330.57,
+      524.96,
+      347.78
+    ],
+    "text": "cited for the following four propositions of Buddhist Ecclesiastical law, namely;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91603946685791
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      114.87,
+      358.9,
+      585.88,
+      376.1
+    ],
+    "text": "i. It is well settled law that under the ecclesiastical law observed by the Buddhists in",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5,
+      12.243185997009277,
+      12.899999618530273,
+      12.91603946685791,
+      13.016226768493652
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      140.75,
+      381.69,
+      585.33,
+      398.89
+    ],
+    "text": "Ceylon, there are only two forms of pupilage which will confer rights of pupillary",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.988396644592285
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      140.69,
+      404.25,
+      505.5,
+      421.46
+    ],
+    "text": "succession namely, pupilage by robbing and pupilage by ordination.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.909096717834473
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      114.87,
+      433.29,
+      571.38,
+      450.49
+    ],
+    "text": "ii. Our law does not recognize pupilage by adoption as conferring rights of succession.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5,
+      12.629498481750488,
+      12.647575378417969,
+      12.795148849487305,
+      12.862646102905273,
+      12.899999618530273,
+      13.001301765441895
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      115.11,
+      462.57,
+      585.02,
+      479.77
+    ],
+    "text": "iii. The abandonment of an incumbency by a monk, who continues to remain in robes",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5,
+      12.899999618530273,
+      12.909096717834473,
+      12.997879028320312,
+      13.051411628723145
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      141.09,
+      485.13,
+      544.02,
+      502.34
+    ],
+    "text": "thereafter deprives his pupils of their right to succeed to such incumbency.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.272316932678223,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      115.35,
+      513.45,
+      586.14,
+      530.65
+    ],
+    "text": "iv. Such abandonment does not require any notarial deed or other prescribed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273,
+      12.899999618530273,
+      13.001301765441895
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      140.73,
+      536.01,
+      585.98,
+      553.22
+    ],
+    "text": "formality, but it is a question of fact, and the intention to abandon may be inferred",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.917387962341309,
+      13.183338165283203,
+      13.289276123046875
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      140.98,
+      558.32,
+      251.55,
+      575.53
+    ],
+    "text": "from circumstances.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      98.29,
+      586.41,
+      586.09,
+      603.62
+    ],
+    "text": "There is an abundance of evidence led at the trial to show that after the execution of Deed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91603946685791,
+      12.932658195495605,
+      13.016226768493652
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      98.94,
+      609.02,
+      586.34,
+      627.3
+    ],
+    "text": "No. 9202 PI all parties associated with these temples acted in accordance with the said",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.799473762512207,
+      12.869112968444824,
+      12.899999618530273,
+      13.006807327270508,
+      13.130097389221191
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      98.99,
+      631.77,
+      585.71,
+      648.97
+    ],
+    "text": "abandonment and renunciation by Heelle Indrajothi. It has to be pointed out that Kirinde",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.907347679138184,
+      12.917387962341309,
+      12.9437255859375,
+      12.958517074584961
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      99.05,
+      654.08,
+      585.98,
+      671.29
+    ],
+    "text": "Rewatha whom the Defendant has called his predecessor in title has accepted and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91603946685791,
+      12.961553573608398
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      99.0,
+      676.66,
+      586.26,
+      693.87
+    ],
+    "text": "acknowledged the rights of the original Plaintiff with regard to the Bomure Viharaya by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.068597793579102
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      335.28,
+      729.36,
+      351.52,
+      746.54
+    ],
+    "text": "14",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      97.8,
+      66.58,
+      585.13,
+      83.78
+    ],
+    "text": "document P4. In the circumstances I hold that the original Plaintiff has very clearly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.016226768493652
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      97.76,
+      89.37,
+      484.97,
+      106.58
+    ],
+    "text": "established his right to be the \"Viharadhipathi\" of the Bomure Viharaya.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.917387962341309
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      97.82,
+      118.89,
+      584.97,
+      136.1
+    ],
+    "text": "I proceed to affirm the judgment of the learned District Judge of Matara dated 17.04.2000",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.296417236328125,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      97.79,
+      142.41,
+      225.78,
+      159.61
+    ],
+    "text": "and dismiss the appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      364.01,
+      255.46,
+      584.35,
+      272.66
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.920332908630371,
+      12.974782943725586,
+      13.04775333404541,
+      13.065834045410156,
+      13.083938598632812
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      334.33,
+      728.95,
+      350.18,
+      747.09
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.514179229736328
+    ]
+  }
+]
