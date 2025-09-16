@@ -19,8 +19,7 @@ class AppealsDoc(AbstractDoc):
         return "⚖️ Judgements of the Court of Appeal of 🇱🇰 Sri Lanka"
 
     @classmethod
-    @cache
-    def remote_data_url_base(cls) -> str:
+    def get_remote_data_url_base(cls) -> str:
         return "/".join(
             [
                 "https://github.com",
@@ -35,7 +34,7 @@ class AppealsDoc(AbstractDoc):
     def remote_data_url(self) -> str:
         return "/".join(
             [
-                self.remote_data_url_base(),
+                self.get_remote_data_url_base(),
                 self.__class__.get_dir_docs_for_cls_relative(),
                 self.dir_doc_relative_to_class,
             ]
