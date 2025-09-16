@@ -1,0 +1,2181 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      97.13,
+      124.98,
+      504.09,
+      142.57
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.71114444732666
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      215.21,
+      155.93,
+      386.49,
+      173.52
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      255.85,
+      209.67,
+      516.15,
+      226.34
+    ],
+    "text": "The Democratic Socialist Republic of Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.120737075805664
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      74.08,
+      315.77,
+      223.49,
+      348.84
+    ],
+    "text": "Court of Appeal Case No. HCC 138/2016",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.699999809265137,
+      13.034738540649414
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      74.09,
+      361.85,
+      238.07,
+      395.86
+    ],
+    "text": "High Court ofVavuniya No. 2549/2014",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.699999809265137,
+      12.749652862548828
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.59,
+      240.64,
+      397.28,
+      257.31
+    ],
+    "text": "Complainant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.69,
+      282.97,
+      339.01,
+      299.38
+    ],
+    "text": "V.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.67,
+      317.31,
+      393.7,
+      333.98
+    ],
+    "text": "I. Arumugam Sasikumar",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.25,
+      346.84,
+      379.88,
+      363.51
+    ],
+    "text": "2. Kalimuththu Suresh",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.455972671508789,
+      12.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.7,
+      376.35,
+      373.7,
+      393.02
+    ],
+    "text": "Accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.3,
+      422.8,
+      323.57,
+      439.47
+    ],
+    "text": "AND NOW",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.618438720703125
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.3,
+      468.87,
+      380.38,
+      485.54
+    ],
+    "text": "Arumugam Sasikumar",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.7,
+      509.56,
+      430.58,
+      526.23
+    ],
+    "text": "Accused Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      325.39,
+      540.51,
+      343.41,
+      561.94
+    ],
+    "text": "v.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      255.9,
+      590.55,
+      431.94,
+      638.19
+    ],
+    "text": "Hon. Attorney General, Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.291257858276367,
+      12.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.94,
+      659.67,
+      464.42,
+      676.35
+    ],
+    "text": "Complainant Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      510.5,
+      763.68,
+      517.85,
+      776.75
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.17,
+      86.67,
+      141.27,
+      103.98
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.74,
+      159.38,
+      151.6,
+      176.69
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.85,
+      269.88,
+      167.93,
+      287.35
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.154288291931152
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.85,
+      319.23,
+      246.16,
+      336.54
+    ],
+    "text": "WRITTEN SUBMISSIONS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.82,
+      342.6,
+      151.01,
+      360.07
+    ],
+    "text": "FILED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.154288291931152
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.44,
+      429.0,
+      186.65,
+      446.47
+    ],
+    "text": "JUDGMENT ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.14925765991211,
+      13.154288291931152
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.8,
+      482.3,
+      279.67,
+      499.61
+    ],
+    "text": "K. PRIY ANTHA FERNANDO, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5,
+      12.54452133178711
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.05,
+      86.31,
+      469.31,
+      103.62
+    ],
+    "text": "KK WICKREMASINGHE, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.5,
+      14.424761772155762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.08,
+      110.56,
+      484.04,
+      128.09
+    ],
+    "text": "K PRIY ANTHA FERNANDO, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.86,
+      158.85,
+      517.09,
+      194.05
+    ],
+    "text": "Nihara Randeniya for the Accused Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.09,
+      209.61,
+      517.39,
+      244.81
+    ],
+    "text": "P. Kumararatnam SDSG for the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.03,
+      269.73,
+      352.71,
+      286.93
+    ],
+    "text": "02.08.2019",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      291.84,
+      342.44,
+      499.46,
+      359.65
+    ],
+    "text": "01.10.2018 by the Accused Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.28,
+      378.09,
+      462.03,
+      395.3
+    ],
+    "text": "07.11 .2018 by the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.845609664916992,
+      12.855673789978027,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.72,
+      429.21,
+      352.91,
+      446.42
+    ],
+    "text": "23.10.2019",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.75,
+      527.12,
+      516.02,
+      546.13
+    ],
+    "text": "01. The Accused Appellant (Appellant) was indicted with the 2nd Accused in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.513072967529297,
+      12.391633033752441,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.01,
+      551.98,
+      517.28,
+      569.18
+    ],
+    "text": "the High Court of Vavuniya on one count of abduction punishable under",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.329015731811523,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.22,
+      575.38,
+      516.85,
+      592.59
+    ],
+    "text": "section 355 of the Penal Code, and on one count of murder punishable",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.39,
+      598.4,
+      516.29,
+      615.61
+    ],
+    "text": "under section 296 of the Penal Code. After the conclusion of the case for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.329015731811523,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.01,
+      621.45,
+      519.08,
+      638.65
+    ],
+    "text": "the prosecution, the learned High Court Judge acting under section 200 of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.329015731811523
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.01,
+      642.69,
+      517.05,
+      661.69
+    ],
+    "text": "the Code of Criminal Procedure Act acquitted the 2nd Accused of both",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.317312240600586,
+      12.899999618530273,
+      13.329015731811523,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112.91,
+      667.53,
+      517.08,
+      684.73
+    ],
+    "text": "counts. After conclusion of the trial, the learned High Court Judge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112.93,
+      690.57,
+      516.6,
+      707.77
+    ],
+    "text": "convicted the Appellant on count No.1 and sentenced him for 10 years",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.69278621673584,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.38,
+      713.62,
+      516.86,
+      730.83
+    ],
+    "text": "rigorous imprisonment. Being aggrieved by the said conviction and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.22,
+      736.3,
+      389.99,
+      753.51
+    ],
+    "text": "sentence the Appellant preferred the instant appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      509.34,
+      764.04,
+      516.69,
+      777.11
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      137.39,
+      110.61,
+      388.82,
+      127.81
+    ],
+    "text": "Grounds of appeal urged by the Appellant are;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152.95,
+      164.61,
+      517.03,
+      181.81
+    ],
+    "text": "1. That the learned Trial Judge erred in law when concluding that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.165767669677734,
+      12.647171974182129,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.17,
+      187.66,
+      476.61,
+      204.87
+    ],
+    "text": "the prosecution proved its case beyond reasonable doubt.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.85,
+      233.73,
+      519.44,
+      250.93
+    ],
+    "text": "2. That the learned Trial Judge failed to analyze the evidence of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.653698921203613,
+      12.899999618530273,
+      13.329015731811523
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.17,
+      256.78,
+      312.9,
+      273.98
+    ],
+    "text": "the prosecution witnesses.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.77,
+      303.58,
+      516.69,
+      320.79
+    ],
+    "text": "3. That the learned Trial Judge based his judgment purely on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.03,
+      326.6,
+      313.45,
+      343.81
+    ],
+    "text": "speculations and surmises.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.5,
+      373.05,
+      516.78,
+      390.25
+    ],
+    "text": "4. The learned Trial Judge failed to evaluate the defence case",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.881336212158203,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168.51,
+      396.09,
+      516.67,
+      413.29
+    ],
+    "text": "properly and rejected the defence evidence in the wrong",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.897649765014648,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168.86,
+      419.14,
+      217.0,
+      436.35
+    ],
+    "text": "premise.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.04,
+      481.77,
+      515.91,
+      498.98
+    ],
+    "text": "02. All four grounds of appeal can be considered together as they are based",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.862646102905273,
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.86,
+      505.17,
+      515.89,
+      522.38
+    ],
+    "text": "on the same footing, that the evidence has not been evaluated properly by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.855673789978027,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.61,
+      528.21,
+      245.61,
+      545.41
+    ],
+    "text": "the learned Trial Judge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.03,
+      574.65,
+      516.14,
+      591.85
+    ],
+    "text": "03. Counsel for the Appellant submitted that it is unsafe to convict the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.594225883483887,
+      12.776762008666992,
+      12.89329719543457,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.61,
+      597.7,
+      490.07,
+      614.91
+    ],
+    "text": "Appellant on the testimony of the PW3 who is not a credible witness.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.290711402893066,
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.68,
+      637.29,
+      515.99,
+      654.49
+    ],
+    "text": "04. Prosecution mainly relied upon the evidence of the sole eye witness",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.51,
+      659.98,
+      519.21,
+      677.19
+    ],
+    "text": "called by the prosecution Gunarasa Nagarani (PW3) who is the wife of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.890596389770508,
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.61,
+      683.01,
+      515.63,
+      700.21
+    ],
+    "text": "the deceased victim. Her evidence was that her husband (victim) was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.25,
+      706.06,
+      515.78,
+      723.27
+    ],
+    "text": "taken away by those who came from the EPDP office. She identified the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.24,
+      728.17,
+      516.0,
+      746.3
+    ],
+    "text": "Appellant and the 2nd Accused as the persons who took the husband. She",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.72039270401001,
+      12.862646102905273,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      508.2,
+      764.08,
+      515.78,
+      777.56
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.06,
+      85.78,
+      515.98,
+      102.98
+    ],
+    "text": "had not seen them before. After 12 days of taking her husband away, his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.276533126831055,
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.1,
+      108.8,
+      516.68,
+      126.01
+    ],
+    "text": "body was found and she had identified the body as of her husband's at the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.862646102905273,
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.06,
+      132.22,
+      165.7,
+      149.43
+    ],
+    "text": "hospital.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.11,
+      178.66,
+      516.83,
+      195.86
+    ],
+    "text": "05. She had identified the Accused persons at the identification parade held",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.34,
+      201.7,
+      517.39,
+      218.9
+    ],
+    "text": "in the Magistrate's Court. Her sister in law had told her the same day that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.647171974182129,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.68,
+      224.72,
+      516.5,
+      241.93
+    ],
+    "text": "the name of the person who abducted her husband is Kumar. However, in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.594225883483887,
+      12.647171974182129,
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.59,
+      248.14,
+      516.6,
+      265.34
+    ],
+    "text": "cross examination it was revealed that in her statement to the police made",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.89329719543457,
+      12.897649765014648,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.58,
+      271.16,
+      516.93,
+      288.37
+    ],
+    "text": "after 12 days of the alleged abduction, she had told the police that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.69278621673584,
+      12.899999618530273,
+      13.726991653442383
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.74,
+      294.22,
+      517.57,
+      311.43
+    ],
+    "text": "unidentified persons abducted her husband in the night of February. That",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.647171974182129,
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.7,
+      317.24,
+      517.22,
+      334.45
+    ],
+    "text": "was after the body of the deceased was recovered. Although she learnt the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.06,
+      340.3,
+      517.06,
+      357.51
+    ],
+    "text": "name of the suspect as Kumar from her sister in law, she had failed to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.862646102905273,
+      12.897649765014648,
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.63,
+      363.7,
+      517.43,
+      380.91
+    ],
+    "text": "give his name to the police. Although she had told the police that her",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.71,
+      386.72,
+      520.29,
+      403.93
+    ],
+    "text": "husband was abducted in February, according to the charge the date of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.647171974182129,
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.59,
+      408.79,
+      516.35,
+      427.34
+    ],
+    "text": "abduction is 8th March 2009. If she knew that the name of the person who",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.729554653167725,
+      12.594225883483887,
+      12.899999618530273,
+      13.52949047088623,
+      13.616786003112793
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.6,
+      433.16,
+      516.29,
+      450.37
+    ],
+    "text": "abducted her husband was Kumar, she could have given the name to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.71,
+      456.2,
+      516.97,
+      473.41
+    ],
+    "text": "police. The best witness to testify on the identity of the Accused would",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.71,
+      479.25,
+      517.22,
+      496.45
+    ],
+    "text": "have been her sister in law who knew the Appellant before. Prosecution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.647171974182129,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.71,
+      502.3,
+      322.81,
+      519.51
+    ],
+    "text": "has failed to call her to give evidence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.75,
+      542.25,
+      517.22,
+      559.45
+    ],
+    "text": "06. In cross examination, PW3 again said that when she went to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.776762008666992,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.59,
+      565.3,
+      517.45,
+      582.51
+    ],
+    "text": "Chettikulam EPDP camp, the Officer in charge told her that it was Kumar",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.647171974182129,
+      12.89329719543457,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.7,
+      588.7,
+      517.09,
+      605.91
+    ],
+    "text": "who abducted her husband. She had told in her evidence at the inquest",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.69,
+      611.72,
+      515.97,
+      628.93
+    ],
+    "text": "that she could identify the person and that he is in the Chettikulam camp.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.290711402893066,
+      12.647171974182129,
+      12.820756912231445,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.85,
+      634.77,
+      516.23,
+      651.97
+    ],
+    "text": "She had further said that he was fat and not much hair on the head. Then",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.59,
+      657.81,
+      516.7,
+      675.01
+    ],
+    "text": "again in re-examination she had said that it was not Kumar she referred to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.530045509338379,
+      12.647171974182129,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.59,
+      680.49,
+      516.02,
+      697.69
+    ],
+    "text": "as the person who was fat and without hair on the head, but the Officer in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.391633033752441,
+      12.862646102905273,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.23,
+      703.54,
+      226.51,
+      720.74
+    ],
+    "text": "charge of the camp.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      509.0,
+      764.04,
+      516.35,
+      777.11
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.47,
+      86.13,
+      517.22,
+      103.33
+    ],
+    "text": "07. On the above contradictions per se and inter se in the testimony of the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.647171974182129,
+      12.899999618530273,
+      13.289241790771484,
+      13.399999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.02,
+      109.18,
+      514.2,
+      126.38
+    ],
+    "text": "PW3, her evidence on the identity ofthe Appellant cannot be relied upon.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.21846866607666
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.11,
+      150.21,
+      517.33,
+      168.09
+    ],
+    "text": "08. In case of Sumanasena V. Attorney General [1999] 3 Sri L.R. 137 it",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.603144645690918,
+      12.600000381469727,
+      12.89329719543457,
+      12.899999618530273,
+      13.399999618530273,
+      13.726991653442383
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.06,
+      172.89,
+      517.54,
+      190.09
+    ],
+    "text": "was held that evidence must not be counted but weighed and the evidence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.94,
+      196.3,
+      516.63,
+      213.5
+    ],
+    "text": "of a single solitary witness if cogent and impressive could be acted upon",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.157088279724121,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.45,
+      219.33,
+      218.59,
+      236.53
+    ],
+    "text": "by a Court of law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.855673789978027,
+      12.899999618530273,
+      13.726991653442383
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.11,
+      265.77,
+      517.67,
+      283.06
+    ],
+    "text": "09. In case of Wijepala V. Attorney General SC Appeal 104/99, 3,d October",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.603144645690918,
+      11.852879524230957,
+      12.399999618530273,
+      12.899999618530273,
+      13.399999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.66,
+      289.18,
+      210.16,
+      306.38
+    ],
+    "text": "2000 Court said;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      213.57,
+      315.74,
+      518.63,
+      338.49
+    ],
+    "text": "The evidence of a single witness, if cogent and",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.218622207641602,
+      13.399999618530273,
+      14.465350151062012,
+      17.173254013061523
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152.11,
+      343.65,
+      516.89,
+      360.01
+    ],
+    "text": "impressive, can be acted upon by a Court, but, whenever there are",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.250970840454102,
+      13.395648956298828,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.83,
+      366.52,
+      516.71,
+      383.41
+    ],
+    "text": "circumstances of suspicion in the testimony of such a witness or is",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.152615547180176,
+      13.399999618530273,
+      14.465350151062012,
+      14.670517921447754
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.82,
+      390.09,
+      516.7,
+      406.45
+    ],
+    "text": "challenged by the cross examination or otherwise, then",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.83,
+      413.13,
+      517.21,
+      429.5
+    ],
+    "text": "corroboration may be necessary. The established rule of practice",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.191122055053711,
+      13.218622207641602,
+      13.399999618530273,
+      14.465350151062012
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152.12,
+      435.64,
+      517.59,
+      452.53
+    ],
+    "text": "in such circumstances is to look for corroboration in material",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.055315971374512,
+      13.152615547180176,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      150.57,
+      459.2,
+      484.5,
+      475.56
+    ],
+    "text": "particulars by reliable testimony, direct or circumstantial .... '",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.58,
+      520.3,
+      516.5,
+      537.5
+    ],
+    "text": "lO. The above-mentioned discrepancies in her evidence go to the root of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.103976249694824,
+      12.391633033752441,
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.24,
+      543.32,
+      516.14,
+      560.53
+    ],
+    "text": "case and affect the credibility ofPW3. On the identity of the Appellant as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.862646102905273,
+      12.899999618530273,
+      12.972347259521484,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.33,
+      566.37,
+      516.85,
+      583.57
+    ],
+    "text": "the person who abducted the deceased, there is no other evidence either",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.890596389770508,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.25,
+      589.42,
+      516.33,
+      606.63
+    ],
+    "text": "direct or circumstantial adduced by the prosecution. Medical evidence on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.855673789978027,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.98,
+      612.44,
+      519.93,
+      629.65
+    ],
+    "text": "the autopsy conducted on the body of the deceased and the evidence of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.97,
+      635.85,
+      515.96,
+      653.05
+    ],
+    "text": "the Police Officer who investigated into the matter after the body of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.24,
+      658.89,
+      516.5,
+      676.09
+    ],
+    "text": "deceased was found are not of any assistance to the identity of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.329015731811523,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.96,
+      681.93,
+      517.38,
+      699.13
+    ],
+    "text": "Appellant as the offender or the person who abducted the deceased.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.94,
+      704.6,
+      516.74,
+      721.81
+    ],
+    "text": "Hence, it is unsafe to convict the Appellant on the sole testimony ofPW3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.594225883483887,
+      12.89329719543457,
+      12.899999618530273,
+      13.024003982543945
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      508.9,
+      763.77,
+      516.7,
+      777.64
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.7,
+      86.03,
+      516.28,
+      103.37
+    ],
+    "text": "who is incredible. I find that the grounds of appeal have merit and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.642946243286133,
+      13.0,
+      13.581830024719238
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.95,
+      109.8,
+      258.92,
+      127.14
+    ],
+    "text": "appeal should be allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.66,
+      155.86,
+      517.47,
+      173.21
+    ],
+    "text": "Hence, conviction ofthe Appellant by the learned High Court Judge is set",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.338257789611816,
+      12.90540599822998,
+      13.0,
+      13.269604682922363
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.58,
+      179.27,
+      355.73,
+      196.62
+    ],
+    "text": "aside. Appellant is acquitted of count No.1.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.642946243286133,
+      13.0,
+      13.581830024719238
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.9,
+      225.36,
+      242.42,
+      242.7
+    ],
+    "text": "Appeal allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      258.8,
+      311.6,
+      490.98,
+      329.47
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.21,
+      373.53,
+      266.07,
+      391.4
+    ],
+    "text": "K.K. WICKREMASINGHE, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      165.15,
+      404.27,
+      209.27,
+      421.61
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      255.2,
+      466.04,
+      487.66,
+      483.91
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      509.31,
+      766.33,
+      516.65,
+      778.42
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.800000190734863
+    ]
+  }
+]

@@ -1,0 +1,5074 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      130.25,
+      96.3,
+      503.74,
+      112.78
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      238.98,
+      117.54,
+      395.65,
+      134.02
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.08,
+      149.52,
+      514.53,
+      164.86
+    ],
+    "text": "In the matter of an Application for Transfer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.494949340820312,
+      11.5,
+      12.197638511657715
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.68,
+      170.46,
+      514.11,
+      186.16
+    ],
+    "text": "of Case No. HC 8570/16 from the High",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.283636093139648,
+      11.5,
+      11.600000381469727,
+      11.999310493469238
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.05,
+      191.53,
+      514.34,
+      207.61
+    ],
+    "text": "Court of the Western Province Holden in",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.699999809265137,
+      11.999310493469238
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.04,
+      213.25,
+      513.39,
+      228.59
+    ],
+    "text": "Colombo, Court No. 06, under and in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.453606605529785,
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.13,
+      234.49,
+      502.65,
+      249.83
+    ],
+    "text": "terms of Section 46 of the Judicature Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.999310493469238
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      120.46,
+      267.25,
+      283.94,
+      315.63
+    ],
+    "text": "Court of Appeal Application No: CA Transfer 20/17 HC Colombo Case No: 8570/16",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.5,
+      11.899999618530273,
+      12.197638511657715
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      121.25,
+      558.54,
+      160.55,
+      575.02
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      120.46,
+      654.65,
+      168.68,
+      671.13
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.910545349121094
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.47,
+      323.77,
+      419.97,
+      339.11
+    ],
+    "text": "Basil Rohana Rajapakse",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.11,
+      342.49,
+      368.81,
+      357.83
+    ],
+    "text": "Medamulana,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.48,
+      360.86,
+      365.73,
+      376.2
+    ],
+    "text": "Weeraketiya.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      394.9,
+      387.18,
+      505.21,
+      403.66
+    ],
+    "text": "Accused-Petitioner",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.90689754486084
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.99,
+      416.83,
+      330.22,
+      434.55
+    ],
+    "text": "-Vs-",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.75,
+      451.2,
+      448.05,
+      466.54
+    ],
+    "text": "Honourable Attorney General",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.78,
+      469.92,
+      459.16,
+      485.26
+    ],
+    "text": "Attorney General's Department,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.04,
+      488.28,
+      364.14,
+      503.63
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.101236343383789,
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      425.46,
+      518.58,
+      495.37,
+      535.06
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.970292091369629
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.82,
+      557.69,
+      347.3,
+      575.02
+    ],
+    "text": "A.L. Shiran Gooneratne J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      11.954524993896484,
+      12.050268173217773
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.69,
+      583.57,
+      269.75,
+      599.65
+    ],
+    "text": "&",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      195.05,
+      608.93,
+      366.14,
+      625.41
+    ],
+    "text": "Mahinda Samayawardhena J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5,
+      11.940232276916504,
+      11.966215133666992
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      247.91,
+      654.6,
+      449.19,
+      669.94
+    ],
+    "text": "Gamini Marapana, PC for the Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      247.57,
+      680.52,
+      503.32,
+      695.86
+    ],
+    "text": "Thusith Mudalige, DSG and Sudharshana De Silva,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.364298820495605,
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      248.35,
+      698.88,
+      372.91,
+      714.23
+    ],
+    "text": "DSG for the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.398804664611816,
+      11.41186237335205,
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      459.88,
+      736.82,
+      513.76,
+      748.91
+    ],
+    "text": "Page 1 of 12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.75010871887207,
+      8.800000190734863,
+      9.194220542907715
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120.21,
+      66.05,
+      453.77,
+      83.5
+    ],
+    "text": "Written Submissions: By the Accused-Petitioner on 03112/2018",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.810744285583496,
+      11.311810493469238,
+      11.5,
+      11.699999809265137,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      247.99,
+      93.15,
+      416.47,
+      108.76
+    ],
+    "text": "By the Respondent on 30/ 11 /20 18",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.498834609985352,
+      10.326306343078613,
+      10.997993469238281,
+      10.999561309814453,
+      11.5,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120.58,
+      122.08,
+      193.9,
+      139.65
+    ],
+    "text": "Argued on :",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120.2,
+      152.8,
+      205.39,
+      170.25
+    ],
+    "text": "Judgment on :",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      247.91,
+      121.87,
+      307.17,
+      138.95
+    ],
+    "text": "31107120 19",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.11544418334961,
+      12.287698745727539,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      247.95,
+      152.48,
+      310.24,
+      169.55
+    ],
+    "text": "27/0912019",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120.94,
+      205.98,
+      283.48,
+      224.62
+    ],
+    "text": "A.L. Shiran Gooneratne J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.665678977966309,
+      12.730524063110352,
+      13.018158912658691
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154.34,
+      262.36,
+      513.72,
+      277.97
+    ],
+    "text": "The Petitioner has invoked the jurisdiction of this Court, inter alia, to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.456260681152344,
+      11.690596580505371,
+      11.69284725189209,
+      11.699999809265137,
+      11.955265045166016,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120.94,
+      290.79,
+      514.05,
+      306.4
+    ],
+    "text": "have an order transferring Case No. HC 8570/16 (sometimes referred to as the",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.716135025024414,
+      11.322327613830566,
+      11.5,
+      11.690596580505371,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120.38,
+      319.23,
+      513.99,
+      334.84
+    ],
+    "text": "\"impugned case\") from High Court No. 06 to any High Court not presided",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.32225227355957,
+      11.690596580505371,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120.85,
+      348.03,
+      514.07,
+      363.64
+    ],
+    "text": "over by the learned High Court Judge, who presided over the said case at the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.690546035766602,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120.95,
+      376.12,
+      514.55,
+      391.73
+    ],
+    "text": "time material to this application. The application for transfer of the said case is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.425762176513672,
+      10.68343734741211,
+      11.104442596435547,
+      11.552773475646973,
+      11.574577331542969,
+      11.699999809265137,
+      11.823052406311035,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.3,
+      404.19,
+      420.03,
+      419.8
+    ],
+    "text": "made under and in terms of Section 46 of the Judicature Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.298821449279785,
+      11.699999809265137,
+      12.103201866149902,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.12,
+      440.19,
+      379.55,
+      455.8
+    ],
+    "text": "Section 46(1) of the Judicature Act reads as follows,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.63,
+      477.13,
+      377.81,
+      491.29
+    ],
+    "text": "\"46(1) Whenever it appears to the Court of Appeal -",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.4246244430542,
+      11.536476135253906,
+      11.600000381469727,
+      13.068587303161621
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      138.37,
+      513.13,
+      514.96,
+      527.29
+    ],
+    "text": "(a) that a fair and impartial trial cannot be had in any particular court or",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.485383987426758,
+      11.509749412536621,
+      11.600000381469727,
+      11.611794471740723,
+      11.711514472961426,
+      11.793978691101074
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154.12,
+      541.57,
+      202.48,
+      555.74
+    ],
+    "text": "place; or",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      138.37,
+      570.0,
+      504.16,
+      584.16
+    ],
+    "text": "(b) that some questions of law of unusual difficulties are likely to arise; or",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.485383987426758,
+      11.600000381469727,
+      12.869034767150879,
+      13.068587303161621
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      138.37,
+      598.08,
+      514.34,
+      612.24
+    ],
+    "text": "(c) that a view of the place in or near which any offence is alleged to have",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.450840950012207,
+      11.600000381469727,
+      13.068587303161621
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.05,
+      626.52,
+      514.59,
+      640.69
+    ],
+    "text": "been committed may be required for the satisfactory inquiry into or trial",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.676348686218262,
+      11.8135347366333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154.68,
+      654.61,
+      231.99,
+      668.77
+    ],
+    "text": "of the same; or",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.600000381469727,
+      13.068587303161621
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      138.38,
+      682.55,
+      368.45,
+      696.84
+    ],
+    "text": "(d) that it is so expedient on any other ground;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.600000381469727,
+      11.320123672485352,
+      11.536476135253906,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      460.6,
+      736.09,
+      514.48,
+      748.18
+    ],
+    "text": "Page 2 of 12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.75010871887207,
+      8.800000190734863,
+      9.194220542907715
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.98,
+      67.07,
+      515.95,
+      81.72
+    ],
+    "text": "the court may order upon sllch terms as to the payment of costs or otherwise as",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.963193893432617,
+      11.979632377624512,
+      12.0,
+      13.089033126831055
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.98,
+      95.5,
+      517.0,
+      110.15
+    ],
+    "text": "the said court thinks fit, for the transfer of any action, prosecution, proceeding",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0,
+      12.015490531921387,
+      13.491864204406738
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.02,
+      123.94,
+      516.86,
+      138.59
+    ],
+    "text": "or mailer pending before any court to any other court and accordingly in evelY",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.706511497497559,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.81,
+      152.39,
+      516.51,
+      167.04
+    ],
+    "text": "sllch case, the court to which any such action, prosecution, proceeding or",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.869844436645508,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.05,
+      180.55,
+      515.73,
+      195.48
+    ],
+    "text": "mailer is so transferred shall, notwithstanding anything to the contrary in this",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.706511497497559,
+      11.869844436645508,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.66,
+      208.91,
+      515.47,
+      223.56
+    ],
+    "text": "or any other law, take cognizance of and have the power and jurisdiction to",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.869844436645508,
+      12.0,
+      13.291997909545898
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.69,
+      237.35,
+      515.59,
+      252.0
+    ],
+    "text": "hear, try, and determine such action, prosecution, proceeding or maller, as",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.913740158081055,
+      11.963193893432617,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.23,
+      260.82,
+      516.55,
+      281.54
+    ],
+    "text": "fully and effectually to all intents or purposes as if such court had an original",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.869844436645508,
+      11.963193893432617,
+      12.0,
+      15.451400756835938
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.08,
+      293.86,
+      246.57,
+      308.51
+    ],
+    "text": "power and jurisdiction. \"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.66,
+      329.06,
+      461.18,
+      344.53
+    ],
+    "text": "The facts leading to this application can be briefly set out as follows,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.39544677734375,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156.22,
+      365.42,
+      516.15,
+      380.89
+    ],
+    "text": "At the time of filing this application the Petitioner was indicted in 3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.773021697998047,
+      11.600000381469727,
+      11.666460037231445,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.59,
+      393.87,
+      515.14,
+      409.34
+    ],
+    "text": "separate cases before the High Court of Colombo, that is, HC 8546/ 16, HC",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.28131103515625,
+      11.272992134094238,
+      11.399999618530273,
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.88,
+      421.94,
+      515.91,
+      437.41
+    ],
+    "text": "8222/ 16 and HC 8570/16. All 3 cases were listed before the same judge",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.477200508117676,
+      10.713531494140625,
+      11.09820556640625,
+      11.399999618530273,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.79,
+      450.03,
+      279.59,
+      465.5
+    ],
+    "text": "presiding in High Court No. 06.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.503297805786133,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156.48,
+      486.03,
+      515.16,
+      501.5
+    ],
+    "text": "On 02/02/2017, when Case No. HC 8546116 was mentioned before the",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.28131103515625,
+      10.964064598083496,
+      11.272992134094238,
+      11.302886009216309,
+      11.399999618530273,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.24,
+      514.1,
+      515.85,
+      529.57
+    ],
+    "text": "said Court, the learned High Court Judge referred the said case to High Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.13,
+      542.54,
+      515.78,
+      558.01
+    ],
+    "text": "No. I for reallocation on the basis that Case No. HC 8222/ 16 pending against",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.477200508117676,
+      11.09820556640625,
+      11.359864234924316,
+      11.399999618530273,
+      11.568156242370605,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      122.37,
+      570.62,
+      515.17,
+      586.09
+    ],
+    "text": "the same accused was already listed for trial before him, a fact disclosed by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.03,
+      598.7,
+      193.99,
+      614.18
+    ],
+    "text": "learned judge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156.12,
+      635.06,
+      514.93,
+      650.53
+    ],
+    "text": "On 15/03/2017, when Case No. 8222/ 16 was taken up, the learned",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.28131103515625,
+      10.477200508117676,
+      10.604494094848633,
+      11.087928771972656,
+      11.18593978881836,
+      11.399999618530273,
+      11.585991859436035,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.92,
+      663.14,
+      515.04,
+      678.61
+    ],
+    "text": "Counsel for the Petitioner made application to have this case heard before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      121.91,
+      691.23,
+      514.91,
+      706.7
+    ],
+    "text": "another High Court Judge, on the basis that the presiding judge has been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.573670387268066,
+      11.600000381469727,
+      11.6058988571167
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      461.32,
+      737.18,
+      515.39,
+      749.27
+    ],
+    "text": "Page 3 of 12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.75010871887207,
+      8.800000190734863,
+      8.9227933883667,
+      8.992103576660156
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.56,
+      64.18,
+      515.86,
+      81.22
+    ],
+    "text": "arrainged as the 3rd Respondent in Writ Application No. CAl89/20 17. The said",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.447010040283203,
+      11.153024673461914,
+      11.399999618530273,
+      12.15737533569336,
+      12.199999809265137,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.99,
+      94.19,
+      515.36,
+      109.39
+    ],
+    "text": "Writ Application was filed to challenge the mandate and proceedings in inquiry",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.296782493591309,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.05,
+      122.99,
+      514.95,
+      138.29
+    ],
+    "text": "bearing No. P.c.I. 549/2015 before the Presidential Commission of Inquiry to",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.52669620513916,
+      12.087228775024414,
+      12.144536972045898,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.3,
+      151.44,
+      518.1,
+      166.65
+    ],
+    "text": "investigate and inquire into serious acts of fraud, corruption and abuse of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.06,
+      179.88,
+      515.25,
+      195.08
+    ],
+    "text": "power, state resources and privileges, commonly known as the PRECIFAC, on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.68929672241211,
+      11.399999618530273,
+      11.466456413269043
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.01,
+      208.32,
+      514.36,
+      223.53
+    ],
+    "text": "the basis that the Petitioner was, in/er alia, denied a fair hearing at the said",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.296782493591309,
+      11.399999618530273,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.3,
+      236.39,
+      515.82,
+      251.59
+    ],
+    "text": "inquiry. The presiding judge was a member of the PRECIFAC. Having",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.41938304901123,
+      11.458847999572754,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.58,
+      265.18,
+      514.48,
+      280.48
+    ],
+    "text": "considered the said application, the learned High Court Judge, on 15103/2017,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.128933906555176,
+      11.153024673461914,
+      11.2544584274292,
+      11.399999618530273,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.02,
+      293.27,
+      513.98,
+      308.47
+    ],
+    "text": "made order declining to hear the case and referred the case to High Court No. I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.65,
+      321.35,
+      351.35,
+      336.55
+    ],
+    "text": "to be reallocated to be heard by another judge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.296782493591309,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      155.4,
+      357.71,
+      514.8,
+      373.0
+    ],
+    "text": "On 15106/2017, when Case No. 8570116 was mentioned before the same",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.034223556518555,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.52,
+      385.8,
+      514.55,
+      401.0
+    ],
+    "text": "judge, the learned Counsel for the Petitioner made the san1e application and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.21,
+      414.24,
+      513.64,
+      429.53
+    ],
+    "text": "drew the attention of Court to the said Writ Application No. CAl89/20 17, and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.314781188964844,
+      11.399999618530273,
+      11.85085391998291,
+      12.144536972045898,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.16,
+      442.68,
+      514.94,
+      457.88
+    ],
+    "text": "sought a transfer of the case to be heard by another High Court Judge. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.981778144836426,
+      11.399999618530273,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.94,
+      471.12,
+      514.12,
+      486.33
+    ],
+    "text": "learned High Court Judge having considered that notices had not been issued in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.66,
+      499.55,
+      514.45,
+      514.84
+    ],
+    "text": "the said case bearing No. Writ Application No. 89/2017, refused the application",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.399999618530273,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.66,
+      527.62,
+      514.28,
+      542.83
+    ],
+    "text": "made by the Petitioner and declined to transfer the impugned case to be heard",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.34,
+      555.7,
+      393.43,
+      570.91
+    ],
+    "text": "by another judge and proceeded to fix the case for trial.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.13502025604248,
+      11.399999618530273,
+      11.43140697479248
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154.69,
+      591.72,
+      514.86,
+      606.93
+    ],
+    "text": "The application for the transfer of the impugned case from the presiding",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.679747581481934,
+      11.399999618530273,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.15,
+      619.79,
+      508.23,
+      635.0
+    ],
+    "text": "judge to be heard by another judge is primarily based on two grounds, namely,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.261507987976074,
+      11.399999618530273,
+      11.505412101745605
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.37,
+      655.4,
+      514.24,
+      670.79
+    ],
+    "text": "I. Hearing cases against the Petitioner during the pendency of case bearing",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.399999618530273,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154.48,
+      683.87,
+      514.29,
+      699.16
+    ],
+    "text": "No. CAlWritl89/20 17, leads the Petitioner to reasonably apprehend that",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.296782493591309,
+      11.399999618530273,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      459.88,
+      737.18,
+      514.12,
+      749.27
+    ],
+    "text": "Page 4 of 12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.800000190734863,
+      8.992103576660156
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      42.95,
+      24.82,
+      50.04,
+      43.24
+    ],
+    "text": "..",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.149760246276855
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158.37,
+      63.02,
+      519.19,
+      78.49
+    ],
+    "text": "the learned High Court Judge is motivated by bias against the Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.359864234924316,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158.28,
+      91.46,
+      325.54,
+      106.93
+    ],
+    "text": "and/or extraneous considerations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      141.41,
+      119.55,
+      518.11,
+      135.02
+    ],
+    "text": "2. Comments made by the learned Judge in Case No. HC 8026/15 are",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.431147575378418,
+      11.223441123962402,
+      11.250432968139648,
+      11.300000190734863,
+      11.488312721252441,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158.29,
+      147.98,
+      519.21,
+      163.45
+    ],
+    "text": "capable of depriving the Petitioner of having a completely independent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158.28,
+      176.42,
+      517.85,
+      191.89
+    ],
+    "text": "and an objective mind devoid of prejudice being brought to bear on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.39544677734375,
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158.73,
+      204.87,
+      385.76,
+      220.34
+    ],
+    "text": "merits and the demerits of the impugned case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      158.68,
+      240.86,
+      518.03,
+      256.34
+    ],
+    "text": "In support of the l SI contention, the learned President's Counsel for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.322847366333008,
+      7.0,
+      11.585991859436035,
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.14,
+      269.66,
+      518.04,
+      285.13
+    ],
+    "text": "Petitioner submits that the sudden and unexpected change of mind by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.82,
+      298.1,
+      517.7,
+      313.57
+    ],
+    "text": "learned judge to decline the application to transfer the impugned case to be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.39544677734375,
+      11.408418655395508,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.54,
+      326.55,
+      518.34,
+      342.02
+    ],
+    "text": "heard before another judge gives rise to a reasonable apprehension of bias on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.18,
+      354.62,
+      517.16,
+      370.09
+    ],
+    "text": "the part of the trial judge. The sudden and unexpected change of mind is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.056885719299316,
+      11.600000381469727,
+      12.051368713378906,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.08,
+      383.06,
+      517.72,
+      398.53
+    ],
+    "text": "attributed by the Petitioner to the decision of the trial judge to decline to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.16,
+      411.15,
+      518.2,
+      426.62
+    ],
+    "text": "transfer the impugned case to be heard before another judge, after having",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.06,
+      439.59,
+      517.35,
+      455.07
+    ],
+    "text": "already decided to transfer case bearing No. HC 8222116 against the same",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.39544677734375,
+      11.5834379196167,
+      11.593948364257812,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.08,
+      468.03,
+      517.71,
+      483.5
+    ],
+    "text": "accused on the ground that the learned judge was a member of the PRECIF AC,",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.18,
+      496.1,
+      282.33,
+      511.57
+    ],
+    "text": "which is common to both cases.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.96,
+      532.46,
+      517.52,
+      552.55
+    ],
+    "text": "In case bearing No. 8222116, in advance of the hearing, the learned ,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.503297805786133,
+      11.600000381469727,
+      12.250557899475098,
+      14.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.03,
+      560.9,
+      518.55,
+      576.37
+    ],
+    "text": "judge was alerted to the pendency of the said Writ application by the Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.250432968139648,
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.72,
+      588.98,
+      516.81,
+      604.45
+    ],
+    "text": "and an objection was raised by the Petitioner. On ascertaining the facts",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.39544677734375,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.04,
+      617.42,
+      517.67,
+      632.89
+    ],
+    "text": "submitted by the respective counsel, the learned judge recused himself from the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.206008911132812,
+      11.600000381469727,
+      11.662581443786621
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.73,
+      645.51,
+      151.0,
+      660.98
+    ],
+    "text": "case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      157.6,
+      681.15,
+      516.41,
+      696.62
+    ],
+    "text": "Impartiality of a tribunal was considered in Locabail (UK) Ltd. v.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.117724418640137,
+      11.250432968139648,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.15,
+      709.23,
+      517.35,
+      724.7
+    ],
+    "text": "Bayfield Properties Ltd: (2000) Q.B. 451 , CA (Civ. Div.), where it was held",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.161096572875977,
+      11.243471145629883,
+      11.396617889404297,
+      11.454183578491211,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      463.48,
+      734.3,
+      517.72,
+      746.39
+    ],
+    "text": "Page 5 of 12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.75010871887207,
+      8.800000190734863,
+      8.992103576660156
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      44.77,
+      26.27,
+      50.56,
+      44.69
+    ],
+    "text": ".'",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.707930564880371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.33,
+      65.43,
+      518.81,
+      83.02
+    ],
+    "text": "that \"--- if, before he begins, the judge is alerted 10 some mailer that might,",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      11.399999618530273,
+      11.513472557067871,
+      11.899999618530273,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.29,
+      96.31,
+      520.03,
+      110.84
+    ],
+    "text": "depending on the fiill facts throw doubt on his fitness to sit, he should inquire",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.201233863830566,
+      11.820282936096191,
+      11.855315208435059,
+      11.899999618530273,
+      11.996310234069824
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.58,
+      124.39,
+      520.09,
+      138.93
+    ],
+    "text": "into the fiill facts, so far as (hey are ascertainable, and make appropriate",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.266487121582031,
+      11.344745635986328,
+      11.899999618530273,
+      11.902399063110352
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.95,
+      148.85,
+      519.71,
+      168.21
+    ],
+    "text": "disclosure. If (he mailer only emerges during the hearing, he is obliged to",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.266487121582031,
+      11.812579154968262,
+      11.899999618530273,
+      15.009355545043945
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.94,
+      180.9,
+      518.69,
+      195.8
+    ],
+    "text": "disclose what he then knows. He is not bound to fill gaps in his knowledge,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.657631874084473,
+      11.820282936096191,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.3,
+      204.31,
+      519.69,
+      225.03
+    ],
+    "text": "which if filled might provide stronger grounds for objection, but if he does",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.899999618530273,
+      15.300000190734863,
+      15.451400756835938
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.95,
+      237.43,
+      520.04,
+      252.33
+    ],
+    "text": "make further inquiry and discovers filrther relevant facts, he is bound to",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.344745635986328,
+      11.820282936096191,
+      11.899999618530273,
+      11.945512771606445
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.95,
+      265.87,
+      521.33,
+      280.77
+    ],
+    "text": "disclose them. However, it is generally undesirable that hearings be aborted",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.68470287322998,
+      11.833866119384766,
+      11.878479957580566,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.26,
+      294.68,
+      441.62,
+      309.21
+    ],
+    "text": "unless the reality or appearance of justice require such a step. \"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.820282936096191,
+      11.899999618530273,
+      12.095739364624023,
+      13.23649787902832
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      160.16,
+      329.99,
+      519.93,
+      345.19
+    ],
+    "text": "When the impugned case was mentioned before the learned judge on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.458847999572754
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      127.41,
+      358.34,
+      519.01,
+      373.64
+    ],
+    "text": "15/06/2017 against the same accused, the learned judge in the course of the",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.037357330322266,
+      11.090508460998535,
+      11.153024673461914,
+      11.296782493591309,
+      11.2989501953125,
+      11.300000190734863,
+      11.399999618530273,
+      11.43140697479248,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.89,
+      386.87,
+      519.36,
+      402.08
+    ],
+    "text": "application for transfer of the said case to be heard by another judge, inquired",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.679747581481934,
+      11.153024673461914,
+      11.399999618530273,
+      11.505412101745605,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.23,
+      414.96,
+      519.69,
+      430.16
+    ],
+    "text": "from the counsel regarding the present position of the writ application in order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.399999618530273,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.97,
+      443.03,
+      520.0,
+      458.23
+    ],
+    "text": "to ascertain whether notices were issued on the Respondents. Since the answer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.296782493591309,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.62,
+      471.48,
+      518.43,
+      486.69
+    ],
+    "text": "was in the negative, the learned judge proceeded to fix the case for trial.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.399999618530273,
+      11.43140697479248
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.17,
+      499.54,
+      518.82,
+      514.75
+    ],
+    "text": "Therefore, the learned judge made the said order from facts which could have",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.896584510803223,
+      11.399999618530273,
+      11.43140697479248
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.0,
+      527.62,
+      518.94,
+      542.83
+    ],
+    "text": "been ascertained at the time he made the decision. In his order he further states",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.308633804321289,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.6,
+      556.08,
+      518.68,
+      571.29
+    ],
+    "text": "that in the event notices are issued in the said case, a further application can be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.296782493591309,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.19,
+      584.14,
+      184.75,
+      599.35
+    ],
+    "text": "considered.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.02,
+      620.51,
+      519.08,
+      635.71
+    ],
+    "text": "The pending writ application in this Court is the only reason given by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.296782493591309,
+      11.304046630859375,
+      11.399999618530273,
+      11.41938304901123
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.26,
+      648.58,
+      518.71,
+      663.79
+    ],
+    "text": "the Petitioner to \"reasonably apprehend\" that the learned judge is motivated by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.403800010681152,
+      11.588343620300293
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.28,
+      676.66,
+      519.55,
+      691.88
+    ],
+    "text": "bias and/or extraneous considerations against the Petitioner. \"--- personal",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.296782493591309,
+      11.399999618530273,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      464.92,
+      737.53,
+      518.8,
+      749.62
+    ],
+    "text": "Page 6 of 12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.75010871887207,
+      8.800000190734863,
+      8.992103576660156
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.97,
+      68.33,
+      516.27,
+      82.74
+    ],
+    "text": "imparliality of the judge is presumed, until there is proof 10 the contrary\".",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.285137176513672,
+      11.76284122467041,
+      11.800000190734863,
+      11.995972633361816,
+      12.979499816894531
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.62,
+      95.99,
+      333.9,
+      111.19
+    ],
+    "text": "(Castillo Algar v. Spain, 30 E.H.R.R. 826)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.755850791931152,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      157.05,
+      132.35,
+      503.83,
+      147.55
+    ],
+    "text": "[n Re. Medicaments and Related Classes of Goods (No.2) (200 I)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.364795684814453,
+      11.399999618530273,
+      11.947025299072266,
+      12.019659042358398
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123.08,
+      160.79,
+      515.59,
+      175.99
+    ],
+    "text": "WLR 700, CA (Civ. Div.), the Court of Appeal of England considered the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.418734550476074,
+      11.947025299072266,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.66,
+      189.23,
+      514.95,
+      204.44
+    ],
+    "text": "compatibility test of bias or apparent bias when raised as a ground of appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.73,
+      217.67,
+      518.1,
+      232.88
+    ],
+    "text": "taking into consideration the jurisprudence set out by the European Court of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.71,
+      246.11,
+      515.96,
+      261.31
+    ],
+    "text": "Human Rights in Incal v. Turkey E.H.R.R. 449 where it was held, inter alia, on",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.399999618530273,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.74,
+      274.18,
+      515.44,
+      289.39
+    ],
+    "text": "the question of impartiality \"two tests are to be applied, the first of which",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.296782493591309,
+      11.399999618530273,
+      11.407947540283203,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.65,
+      302.63,
+      515.39,
+      317.84
+    ],
+    "text": "consists of trying to determine the personal conviction of a particular judge in a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.896584510803223,
+      11.399999618530273,
+      11.43140697479248,
+      11.442669868469238,
+      11.947025299072266,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.66,
+      331.08,
+      515.24,
+      346.29
+    ],
+    "text": "given case. (the subjective approach) and the second in asserting whether the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.6,
+      359.14,
+      515.03,
+      374.35
+    ],
+    "text": "judge offered guarantees sufficient to exclude any legitimate doubt in this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.74,
+      387.59,
+      281.11,
+      402.8
+    ],
+    "text": "respect (the objective approach)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      156.16,
+      423.96,
+      514.87,
+      439.16
+    ],
+    "text": "Tn applying the objective approach, the Court needs to be satisfied that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.040087699890137,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.36,
+      452.02,
+      452.42,
+      467.23
+    ],
+    "text": "the Petitioner has a legitimate reason which is objectively justified.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.961153030395508,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      156.14,
+      488.03,
+      515.0,
+      503.23
+    ],
+    "text": "The Petitioner in paragraphs 10, 11,44,45 and 46 in the writ application",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.399999618530273,
+      12.162640571594238
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.74,
+      516.1,
+      299.23,
+      531.31
+    ],
+    "text": "marked P6(a), inter alia, states that,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123.7,
+      552.89,
+      515.4,
+      567.3
+    ],
+    "text": "\"the PRECIFAC and the purported investigation and inquiry carried oul inter",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.97,
+      581.33,
+      514.99,
+      595.74
+    ],
+    "text": "alia against the Petitioner by the PRECIFAC as more fully pleaded hereinafter,",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120.51,
+      609.41,
+      514.96,
+      623.82
+    ],
+    "text": "forms part of much larger mala fide politically motivated witch hunt against",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.800000190734863,
+      13.180765151977539
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.9,
+      637.5,
+      502.25,
+      651.91
+    ],
+    "text": "the Petitioner as the brother and a strong supporter of the former President\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.800000190734863,
+      13.180765151977539
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123.69,
+      673.5,
+      515.18,
+      687.91
+    ],
+    "text": "\"that the above pleaded political back ground and patent political",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.89521598815918
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.69,
+      701.57,
+      509.0,
+      715.98
+    ],
+    "text": "victimi=ation has a material bearing on the subject molter of this application\".",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.469419479370117,
+      11.800000190734863,
+      13.180765151977539
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      461.32,
+      739.45,
+      514.9,
+      751.4
+    ],
+    "text": "Page 7 of 12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.699999809265137,
+      8.706097602844238,
+      9.141830444335938
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.02,
+      68.28,
+      519.63,
+      83.48
+    ],
+    "text": "The argument in support of the Petitioner is that the learned judge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.43140697479248,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.62,
+      96.35,
+      518.65,
+      111.55
+    ],
+    "text": "having considered the above stated facts and circumstances considered it",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.064461708068848,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.52,
+      124.79,
+      519.51,
+      140.08
+    ],
+    "text": "appropriate to transfer case bearing No. HC 8222116 to be heard by another",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.92228889465332
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      124.46,
+      153.23,
+      519.63,
+      168.44
+    ],
+    "text": "judge, however declined to do so in the impugned case which was similarly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.54,
+      181.67,
+      519.03,
+      196.88
+    ],
+    "text": "circumstanced. This argument in my view, does not hold ground for the simple",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.66,
+      210.11,
+      519.28,
+      225.32
+    ],
+    "text": "reason that the order to transfer case bearing No. HC 8222/ 16 was given taking",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.927508354187012,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      126.26,
+      238.55,
+      521.7,
+      253.76
+    ],
+    "text": "into consideration the ascertainable facts disclosed to Court at the time of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.263330459594727,
+      11.296782493591309,
+      11.399999618530273,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.98,
+      267.35,
+      519.13,
+      282.55
+    ],
+    "text": "making such order. However, when the order in the impugned case was made",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.63,
+      295.79,
+      518.18,
+      311.0
+    ],
+    "text": "the learned judge made directions on the ascertained facts leaving the option to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.43140697479248
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.61,
+      323.86,
+      346.11,
+      339.07
+    ],
+    "text": "revisit the issue when full facts were known.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.76,
+      359.52,
+      518.82,
+      374.72
+    ],
+    "text": "In Incal v. Turkey, (supra), the Court went on to say that, \"appearances",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.213677406311035,
+      11.296782493591309,
+      11.399999618530273,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.22,
+      388.27,
+      518.29,
+      403.15
+    ],
+    "text": "may be of certain imparlance; whal is al slake is Ihe confidence which the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.086211204528809,
+      11.100000381469727,
+      11.76284122467041,
+      11.800000190734863,
+      12.979499816894531
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.55,
+      417.18,
+      518.73,
+      431.59
+    ],
+    "text": "courts in a democratic sociely must inspire in Ihe public and, above ali, as far",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.570416450500488,
+      11.60854721069336,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.21,
+      445.6,
+      518.99,
+      460.02
+    ],
+    "text": "as criminal proceedings are concerned; in Ihe accused; in deciding whelher",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.570416450500488,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.49,
+      473.58,
+      519.51,
+      488.46
+    ],
+    "text": "there is legitim ale reason to fear thai a parlicular cOllrt lacks independence or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.899999618530273,
+      11.100000381469727,
+      11.551738739013672,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.84,
+      502.02,
+      517.97,
+      516.9
+    ],
+    "text": "imparlialily, Ihe stand poinl of the accused is important wilhoul being decisive;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.570416450500488,
+      11.800000190734863,
+      13.180765151977539
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.93,
+      530.58,
+      439.77,
+      544.99
+    ],
+    "text": "what is decisive is whether his doubts are objectively justified. \"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.464994430541992,
+      11.76284122467041,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.02,
+      564.77,
+      518.69,
+      581.0
+    ],
+    "text": "This brings me to the 2nd ground urged by the Petitioner that the learned",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.022982120513916,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.21,
+      593.86,
+      518.51,
+      609.07
+    ],
+    "text": "Judge was motivated by bias against the Petitioner and/or extraneous",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.18,
+      622.31,
+      518.1,
+      637.51
+    ],
+    "text": "considerations, when he made certain comments which are more ' fully",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.16,
+      650.38,
+      518.32,
+      665.59
+    ],
+    "text": "described in paragraph 22 of the Petition which relates to the convicting and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.12,
+      677.32,
+      518.62,
+      694.77
+    ],
+    "text": "sentencing the accused in case No. HC 8026115. It is contended that comments",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.008373260498047,
+      11.153024673461914,
+      11.399999618530273,
+      12.029559135437012
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      125.62,
+      706.56,
+      518.45,
+      721.76
+    ],
+    "text": "made by the learned judge with regard to a certain 'political culture' prevalent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.505412101745605
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      464.2,
+      738.59,
+      518.28,
+      751.97
+    ],
+    "text": "Page 8 of 12",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.091465950012207,
+      9.472696304321289,
+      9.5,
+      9.552902221679688
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      119.77,
+      66.37,
+      514.15,
+      81.71
+    ],
+    "text": "during the previous administration, during which the Petitioner, inter alia, held",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.108485221862793,
+      11.5,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.13,
+      94.81,
+      513.77,
+      110.15
+    ],
+    "text": "a Cabinet Portfolio, was influenced by an independent personal opinion formed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.14,
+      123.25,
+      514.9,
+      138.59
+    ],
+    "text": "on the basis of extraneous considerations. Such statements, the Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      12.197638511657715
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.09,
+      151.32,
+      513.92,
+      166.66
+    ],
+    "text": "states, are partisan views which will affect all those who were part of the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.999310493469238
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.62,
+      179.76,
+      513.37,
+      195.19
+    ],
+    "text": "previous administration. It has been said on high judicial authority that judges,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.122227668762207,
+      11.347286224365234,
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.88,
+      208.2,
+      516.53,
+      223.54
+    ],
+    "text": "like Caesar's wife, should be above suspicion. (Leeson v. General Council of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.726486206054688,
+      11.069700241088867,
+      11.5,
+      11.80013370513916,
+      11.999310493469238
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.19,
+      236.64,
+      514.14,
+      251.98
+    ],
+    "text": "Medical Education (1889) 43 Ch. D. 366 at p. 385, per Bowen L.1. There must",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.020033836364746,
+      11.097091674804688,
+      11.295022964477539,
+      11.355390548706055,
+      11.435820579528809,
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.58,
+      265.08,
+      514.66,
+      280.42
+    ],
+    "text": "not even be the appearance of bias. (Dimes v. Grand Junction Canal (1852) 3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.069700241088867,
+      11.312623023986816,
+      11.5,
+      12.197638511657715
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.19,
+      293.88,
+      181.44,
+      309.22
+    ],
+    "text": "H.L.C.759.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.58339786529541
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      154.42,
+      329.89,
+      513.78,
+      345.23
+    ],
+    "text": "At the outset, it is to be noted that comments alleged to have been made",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.102945327758789,
+      11.112884521484375,
+      11.346221923828125,
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.6,
+      358.33,
+      514.76,
+      373.67
+    ],
+    "text": "by the learned judge are comments not made in the impugned case. In applying",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.55437183380127
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.57,
+      386.4,
+      514.49,
+      401.74
+    ],
+    "text": "the subjective test, as discussed earlier, there is a presumption that the Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.726486206054688,
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.57,
+      414.49,
+      513.4,
+      429.84
+    ],
+    "text": "has acted impartially, which must be displaced by evidence to the contrary. In",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.33626937866211,
+      11.494949340820312,
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.12,
+      443.28,
+      514.1,
+      458.62
+    ],
+    "text": "applying the objective test, the question is whether a legitimate doubt as to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.310792922973633,
+      11.353618621826172,
+      11.39340591430664,
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.85,
+      471.36,
+      398.93,
+      486.7
+    ],
+    "text": "impartiality of the tribunal can be 'objectively justified'.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.066374778747559,
+      11.102945327758789,
+      11.5,
+      11.767733573913574,
+      12.197638511657715
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      154.37,
+      507.36,
+      513.99,
+      522.7
+    ],
+    "text": "In Porter v. Magill; Weeks v. Magill (2001) UKHL 67; (2002) 2A.C.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.069700241088867,
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.47,
+      535.8,
+      513.64,
+      551.14
+    ],
+    "text": "357, the House of Lords held that the test to be adopted was that put forward in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.201834678649902,
+      11.346221923828125,
+      11.5,
+      12.197638511657715
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.91,
+      563.89,
+      514.27,
+      579.23
+    ],
+    "text": "Re. Medicaments and Related Classes or Goods (supra),where \"the court",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.485590934753418,
+      11.5,
+      11.800000190734863,
+      12.197638511657715
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.28,
+      593.2,
+      514.3,
+      607.62
+    ],
+    "text": "should first ascertain all the relevant circumstances and then ask whether those",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.770513534545898,
+      11.800000190734863,
+      11.844366073608398
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.51,
+      621.65,
+      514.02,
+      636.06
+    ],
+    "text": "circumstances would lead a fair minded and informed observer to conclude",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.770513534545898,
+      11.800000190734863,
+      11.89521598815918
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.46,
+      649.2,
+      512.7,
+      664.54
+    ],
+    "text": "that there was a real possibility that the tribunal was biased\". In Helow v.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.802923202514648,
+      11.5,
+      11.55437183380127,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      120.75,
+      677.28,
+      514.79,
+      692.62
+    ],
+    "text": "Secretary of State for the Home Department (2008) UKHL 62; Lord Hope",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.542770385742188,
+      12.197638511657715
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      460.24,
+      737.54,
+      514.48,
+      749.63
+    ],
+    "text": "Page 9 of 12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.800000190734863,
+      8.992103576660156
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.97,
+      64.88,
+      520.9,
+      79.88
+    ],
+    "text": "described a fair minded and informed observer as someone \"who is neither",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.32866096496582,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      127.34,
+      93.79,
+      289.71,
+      108.32
+    ],
+    "text": "unduly sensitive nor suspicious\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      160.82,
+      129.68,
+      520.3,
+      144.62
+    ],
+    "text": "The test that has often been applied by our courts is whether there is a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.162285804748535,
+      11.199999809265137,
+      11.209395408630371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      127.34,
+      158.11,
+      519.14,
+      173.06
+    ],
+    "text": "likelihood of bias. (Simon v. Commissioner of National Housing (1972) 75",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.924358367919922,
+      10.982589721679688,
+      11.054758071899414,
+      11.150792121887207,
+      11.174370765686035,
+      11.199999809265137,
+      11.229361534118652,
+      11.841763496398926,
+      12.037534713745117
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.77,
+      186.2,
+      521.37,
+      201.14
+    ],
+    "text": "NLR 471). [n Dr. Karunaratne v. Attorney General and another (1995) 2 SLR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.924358367919922,
+      11.027470588684082,
+      11.199999809265137,
+      11.385218620300293,
+      11.431605339050293
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      127.01,
+      214.64,
+      519.57,
+      229.58
+    ],
+    "text": "298, answering the main contention of a reasonable apprehension of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.197249412536621,
+      11.199999809265137,
+      11.841763496398926,
+      12.037534713745117
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.67,
+      243.07,
+      520.61,
+      258.02
+    ],
+    "text": "Petitioner that a fair and impartial trial cannot be had before the learned trial",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.197249412536621,
+      11.199999809265137,
+      11.296781539916992
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      125.55,
+      271.31,
+      519.33,
+      286.52
+    ],
+    "text": "judge, Gunersekera J. held, at page 302, \"in regard to the application of the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.291773796081543,
+      11.294451713562012,
+      11.399999618530273,
+      11.657631874084473,
+      11.899999618530273,
+      13.034381866455078
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.58,
+      299.97,
+      521.06,
+      314.98
+    ],
+    "text": "test of reasonable suspicion of bias it must be shown that the suspicion is based",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.162285804748535,
+      11.199999809265137,
+      11.833866119384766,
+      11.899999618530273,
+      13.034381866455078,
+      13.23649787902832
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.62,
+      328.52,
+      519.49,
+      343.05
+    ],
+    "text": "on reasonable grounds which would appeal to the reasonable right thinking",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.65,
+      357.31,
+      519.84,
+      371.84
+    ],
+    "text": "man, it can never be based on conjecture or on flimsy insubstantial grounds\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.657631874084473,
+      11.68470287322998,
+      11.833866119384766,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.25,
+      385.29,
+      519.19,
+      400.29
+    ],
+    "text": "and further that \"there must be material which shows a tendency to favour one",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.05,
+      413.15,
+      520.07,
+      428.37
+    ],
+    "text": "side unfairly at the expense of the other\". [n Re R. Ratnagopal (1968) 70 NLR",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.027470588684082,
+      11.199999809265137,
+      11.202149391174316,
+      11.262227058410645,
+      11.399999618530273,
+      11.899999618530273,
+      13.034381866455078
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      125.95,
+      441.8,
+      519.85,
+      456.85
+    ],
+    "text": "409 (Supreme Court), T. S. Fernando J. stated, at page 435, that \"The proper",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.814162254333496,
+      11.199999809265137,
+      11.291773796081543,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      125.87,
+      469.5,
+      518.78,
+      485.37
+    ],
+    "text": "test to be applied is, in my opinion, an objective one, and / would formulate it",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.366019248962402,
+      11.68470287322998,
+      11.820282936096191,
+      11.899999618530273,
+      11.945512771606445
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      125.68,
+      498.79,
+      519.35,
+      513.32
+    ],
+    "text": "somewhat on the following lines: Would a reasonable man, in all the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.657631874084473,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      125.91,
+      526.87,
+      519.35,
+      541.41
+    ],
+    "text": "circumstances of the case, believe that there was a real likelihood of the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.820282936096191,
+      11.899999618530273,
+      13.034381866455078,
+      13.23649787902832
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.13,
+      554.84,
+      518.48,
+      569.84
+    ],
+    "text": "Commissioner being biased against him?\" The Supreme Court went on to hold",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.899999618530273,
+      12.347293853759766
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      126.0,
+      582.93,
+      519.35,
+      597.87
+    ],
+    "text": "that the allegations of bias are vague and unsubstantial. In Ratnagopal v. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.485456466674805,
+      10.585650444030762,
+      10.924358367919922,
+      11.199350357055664,
+      11.199999809265137,
+      11.209395408630371,
+      12.037534713745117
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      125.62,
+      611.72,
+      518.69,
+      626.66
+    ],
+    "text": "Attorney General ( 1969) 72 N.L.R. 145, at page lSI, the Privy Council agreed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.595115661621094,
+      11.15219783782959,
+      11.197249412536621,
+      11.199999809265137,
+      11.270577430725098
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      125.62,
+      640.15,
+      518.99,
+      655.1
+    ],
+    "text": "with these views (the Privy Council set aside the judgment of the Supreme",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.209720611572266,
+      11.199999809265137,
+      11.319561958312988,
+      12.037534713745117
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      125.52,
+      668.23,
+      517.69,
+      683.18
+    ],
+    "text": "Court on other grounds). There may be real likelihood of bias where there is,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.198299407958984,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      125.88,
+      696.32,
+      518.42,
+      711.26
+    ],
+    "text": "for example. personal friendship or hostility, fami ly or other close relationship",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.13662052154541,
+      11.199999809265137,
+      11.440223693847656
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      459.89,
+      736.32,
+      518.5,
+      749.06
+    ],
+    "text": "Page 10 of 12",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.600000381469727,
+      8.65591812133789,
+      8.889333724975586,
+      9.421629905700684
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      40.9,
+      62.56,
+      515.92,
+      82.58
+    ],
+    "text": "\" with a party. (See De Sm ith, Judicial Review of Administrative Action 2nd",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.022982120513916,
+      8.699999809265137,
+      11.300000190734863,
+      11.600000381469727,
+      12.091154098510742
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.86,
+      92.18,
+      247.36,
+      107.65
+    ],
+    "text": "Edition, pages, 246-252)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      158.32,
+      128.49,
+      516.92,
+      143.57
+    ],
+    "text": "In the performance of his judicial functions in case bearing No. HC",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.848687171936035,
+      11.164386749267578,
+      11.300000190734863,
+      12.091154098510742
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.35,
+      156.62,
+      517.41,
+      172.09
+    ],
+    "text": "8026/ 15, which is unrelated to the impugned case, the learned High Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.022947311401367,
+      11.212007522583008,
+      11.300000190734863,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.12,
+      185.37,
+      517.1,
+      200.45
+    ],
+    "text": "Judge has made a finding that certain public servants act with impunity, a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.07,
+      213.82,
+      517.08,
+      228.89
+    ],
+    "text": "comment based on the evidence in that case. Apart from that comment,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.53,
+      242.25,
+      517.25,
+      257.33
+    ],
+    "text": "reference is also made to a certain \"political culture\" which prevailed at the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.212007522583008,
+      11.247126579284668,
+      11.300000190734863,
+      11.368988990783691
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.54,
+      270.69,
+      516.16,
+      285.77
+    ],
+    "text": "time, which is an opinion expressed by the learned judge in deciding the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.104000091552734,
+      11.212007522583008,
+      11.300000190734863,
+      11.306998252868652
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.09,
+      299.14,
+      516.9,
+      314.22
+    ],
+    "text": "case. The Petitioner is aggrieved by the said comments by the learned judge,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.212007522583008,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.11,
+      327.21,
+      516.53,
+      342.29
+    ],
+    "text": "citing bias towards him due to the Petitioner's close association with the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.247126579284668,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.58,
+      355.65,
+      516.76,
+      370.73
+    ],
+    "text": "previous administration. The Petitioner in claiming that the reference to a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.848687171936035,
+      11.247126579284668,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      123.98,
+      384.09,
+      516.45,
+      399.17
+    ],
+    "text": "\"certain political culture\" as bias or considering extraneous considerations, has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.104000091552734,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.78,
+      412.18,
+      517.43,
+      427.26
+    ],
+    "text": "failed to give reasons to objectively justify his concerns. The opinion expressed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.247126579284668,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.83,
+      440.97,
+      516.83,
+      456.05
+    ],
+    "text": "in the course of a judicial finding, unrelated to the impugned case, in my view,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.848687171936035,
+      11.300000190734863,
+      11.894510269165039
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.09,
+      469.41,
+      516.75,
+      484.49
+    ],
+    "text": "caIUlot be regarded as objectively justifying reasonable apprehension of bias on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.894510269165039
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.53,
+      497.49,
+      517.22,
+      512.57
+    ],
+    "text": "the pat1 of the learned High Court Judge. It must be stated that when bias or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.25390625,
+      11.300000190734863,
+      12.091154098510742
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.1,
+      525.93,
+      517.08,
+      541.01
+    ],
+    "text": "extraneous considerations are not established, impartiality towards the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      124.16,
+      554.01,
+      277.19,
+      569.09
+    ],
+    "text": "Petitioner should be presumed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.097128868103027,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      125.86,
+      590.69,
+      517.46,
+      605.1
+    ],
+    "text": "\"Views expressed by a judge in open courl in the pelformance of his judicial",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.979499816894531
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      122.29,
+      619.14,
+      515.92,
+      633.55
+    ],
+    "text": "jimclion, which were not graluilously oulspoken opinions or plainly oulside Ihe",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.570416450500488,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      123.88,
+      647.21,
+      516.75,
+      661.62
+    ],
+    "text": "scope oflhe proper performance of his dUlies, would nol give rise 10 a doubl as",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.686996459960938,
+      11.641180992126465,
+      11.800000190734863,
+      12.01680850982666,
+      13.180765151977539
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      123.83,
+      675.29,
+      517.53,
+      689.7
+    ],
+    "text": "10 a projessional judge 's abilily 10 perform his duties wilh an objective judicial",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.873817443847656,
+      11.200048446655273,
+      11.800000190734863,
+      11.993513107299805
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      458.09,
+      735.49,
+      516.7,
+      747.44
+    ],
+    "text": "Page 11 of 12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.617761611938477,
+      8.706097602844238,
+      8.940865516662598
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      37.79,
+      49.59,
+      519.6,
+      86.96
+    ],
+    "text": ", mind\" (O'Neill v. I-1M Advocate (No.2); Lauchlan v. Same (2013) UKSC 36; 2",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.708572387695312,
+      10.97301959991455,
+      11.300000190734863,
+      11.309596061706543,
+      11.800000190734863,
+      12.899999618530273,
+      27.20009994506836
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.15,
+      92.49,
+      195.3,
+      107.56
+    ],
+    "text": "Cr.App.R.34)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.02,
+      128.49,
+      521.57,
+      143.57
+    ],
+    "text": "The Petitioner has also not established, that by being a close associate of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.36918830871582,
+      11.894510269165039
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.25,
+      156.93,
+      518.8,
+      172.01
+    ],
+    "text": "the previous administration, the opinion expressed by the learned judge has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.381158828735352
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.18,
+      185.37,
+      518.16,
+      200.45
+    ],
+    "text": "given rise to a doubt as to the judge's ability to perform his judicial duties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.247126579284668,
+      11.300000190734863,
+      11.536279678344727
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      124.81,
+      213.81,
+      519.33,
+      228.89
+    ],
+    "text": "Therefore, the Petitioner has failed to 'objectively justify' that the comments",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.247126579284668,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.16,
+      242.25,
+      519.73,
+      257.33
+    ],
+    "text": "expressed by the learned judge in that case have influenced him of bias or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.104000091552734,
+      11.300000190734863,
+      11.381158828735352,
+      12.091154098510742
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.16,
+      271.05,
+      518.33,
+      286.13
+    ],
+    "text": "extraneous considerations towards the Petitioner, when deciding on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.56,
+      299.5,
+      343.17,
+      314.57
+    ],
+    "text": "impugned case, as alleged by the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      158.71,
+      335.49,
+      519.17,
+      350.57
+    ],
+    "text": "For all the reasons stated above, I refuse the application of the Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.518046379089355,
+      11.894510269165039
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      124.8,
+      363.93,
+      331.86,
+      379.01
+    ],
+    "text": "and dismiss the application without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      124.87,
+      399.57,
+      287.57,
+      414.65
+    ],
+    "text": "Petition dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      294.45,
+      500.88,
+      507.02,
+      516.95
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      125.57,
+      529.99,
+      299.37,
+      546.61
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.015839576721191
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      124.29,
+      552.42,
+      166.18,
+      568.79
+    ],
+    "text": "1 agree.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      294.45,
+      581.89,
+      507.03,
+      597.96
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.652132987976074
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      458.8,
+      735.84,
+      517.8,
+      748.72
+    ],
+    "text": "Page 12 of 12",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.699999809265137,
+      8.706097602844238,
+      8.940865516662598,
+      9.300000190734863
+    ]
+  }
+]

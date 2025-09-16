@@ -1,0 +1,2111 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      88.13,
+      105.12,
+      517.06,
+      123.27
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.133157730102539,
+      13.139639854431152,
+      13.165387153625488,
+      13.168123245239258
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      212.33,
+      137.51,
+      392.93,
+      155.66
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.147165298461914
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      63.93,
+      320.03,
+      220.43,
+      354.38
+    ],
+    "text": "Court of Appeal Case No. CA(PHC)APN 76/2016",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.645829200744629
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      63.64,
+      368.63,
+      212.46,
+      404.43
+    ],
+    "text": "High Court Kandy Case No. HC 108/2015",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.82,
+      194.07,
+      440.24,
+      244.21
+    ],
+    "text": "Hon. Attorney General, Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.143782615661621,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.1,
+      275.07,
+      403.56,
+      292.81
+    ],
+    "text": "Complainant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.18,
+      314.9,
+      343.6,
+      338.94
+    ],
+    "text": "v.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.070119857788086
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.46,
+      352.11,
+      529.56,
+      402.26
+    ],
+    "text": "Kumarasinghe Arachchilage Sunil Premathilaka alias Kumarasinghe Arachchilage Sunil Premasiri alias Aththa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.21,
+      412.95,
+      378.48,
+      430.69
+    ],
+    "text": "Accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.84,
+      453.64,
+      396.66,
+      471.38
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.308497428894043
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.46,
+      502.23,
+      439.88,
+      552.37
+    ],
+    "text": "Hon. Attorney General, Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.11,
+      567.03,
+      461.83,
+      584.78
+    ],
+    "text": "Complainant Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.18,
+      611.58,
+      343.11,
+      634.66
+    ],
+    "text": "v.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.477453231811523
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.1,
+      656.31,
+      529.11,
+      706.1
+    ],
+    "text": "Kumarasinghe Arachchilage Sunil Premathilaka alias Kumarasinghe Arachchilage Sunil Premasiri alias Aththa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.85,
+      736.59,
+      449.09,
+      754.34
+    ],
+    "text": "Accused Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      521.33,
+      782.28,
+      529.42,
+      795.61
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.72,
+      64.54,
+      134.43,
+      82.54
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.01114559173584
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.65,
+      141.95,
+      144.58,
+      159.95
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.026272773742676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.41,
+      222.98,
+      162.39,
+      240.59
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.377111434936523,
+      13.5662202835083
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.36,
+      274.43,
+      244.61,
+      310.07
+    ],
+    "text": "WRITTEN SUBMISSIONS FILED ON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.0,
+      13.05488395690918
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.36,
+      364.1,
+      182.19,
+      381.71
+    ],
+    "text": "JUDGMENT ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.540654182434082,
+      13.5662202835083
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.36,
+      426.34,
+      279.79,
+      444.34
+    ],
+    "text": "K. PRlY ANTHA FERNANDO, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.0,
+      13.074237823486328,
+      13.078313827514648,
+      13.217480659484863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      291.16,
+      63.77,
+      483.44,
+      82.54
+    ],
+    "text": "K. K. WICKREMASINGHE, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.0,
+      13.066479682922363,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      291.16,
+      89.69,
+      495.32,
+      108.46
+    ],
+    "text": "K. PRIYANTHA FERNANDO, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.0,
+      13.044872283935547,
+      13.045768737792969,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.74,
+      141.25,
+      529.71,
+      177.59
+    ],
+    "text": "Shanaka Wijesinghe DSG for the Complainant Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.74,
+      222.62,
+      356.96,
+      240.22
+    ],
+    "text": "08.10.2019",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      286.48,
+      291.36,
+      528.23,
+      308.97
+    ],
+    "text": "23.01.2019 by the Complainant Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      286.49,
+      363.72,
+      353.07,
+      381.33
+    ],
+    "text": "26.11.2019",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.35,
+      476.04,
+      529.9,
+      493.66
+    ],
+    "text": "01. Accused Respondent (Respondent) was indicted in the High Court of Kandy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.046760559082031,
+      13.199999809265137,
+      14.082686424255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.97,
+      500.17,
+      529.1,
+      517.78
+    ],
+    "text": "for one count of kidnapping punishable in terms of section 354 of the Penal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.793386459350586,
+      13.199999809265137,
+      13.885690689086914,
+      14.082686424255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.98,
+      524.65,
+      529.65,
+      542.26
+    ],
+    "text": "Code and one count of grave sexual abuse punishable in terms of section",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.885690689086914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.97,
+      549.13,
+      530.0,
+      566.75
+    ],
+    "text": "365(B)2(b) of the Penal Code. Upon serving the indictment, Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.885690689086914
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.14,
+      573.25,
+      529.19,
+      590.86
+    ],
+    "text": "pleaded not guilty to the charges and the learned High Court Judge fixed the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.65,
+      597.73,
+      529.71,
+      615.35
+    ],
+    "text": "case for trial. On 15.10.2015 counsel for the Respondent moved to re-fix the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.63,
+      621.86,
+      529.16,
+      639.47
+    ],
+    "text": "case for trial on personal grounds. Witnesses were warned to appear on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.73,
+      645.97,
+      384.19,
+      663.58
+    ],
+    "text": "next date and the trial was re-fixed for 17. 12 2015.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.630724906921387,
+      12.929579734802246,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.34,
+      710.42,
+      529.37,
+      728.03
+    ],
+    "text": "02. On 17.12. 2015 the Respondent moved to withdraw his early guilty plea and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.73,
+      734.54,
+      529.16,
+      752.15
+    ],
+    "text": "to plead guilty. Upon reading the charges and Respondent pleading guilty,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      521.56,
+      782.11,
+      530.07,
+      796.13
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.73,
+      64.36,
+      530.19,
+      82.24
+    ],
+    "text": "learned High Court Judge proceeded to sentence the Respondent after",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.09,
+      88.48,
+      529.37,
+      106.36
+    ],
+    "text": "hearing the counsel for the State and the Respondent in mitigation. For both",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.395599365234375,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95.99,
+      112.97,
+      529.42,
+      130.85
+    ],
+    "text": "counts 1 and 2, the learned High Court Judge sentenced the Respondent for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.09,
+      137.44,
+      528.41,
+      155.32
+    ],
+    "text": "1 year rigorous imprisonment suspended for 15 years and fine of Rs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.726052284240723,
+      13.270322799682617,
+      13.399999618530273,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.0,
+      161.45,
+      529.63,
+      179.46
+    ],
+    "text": "10,0001- on each count and in default 1 year rigorous imprisonment.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.889942169189453,
+      13.043119430541992,
+      13.300000190734863,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.06,
+      185.92,
+      530.09,
+      203.93
+    ],
+    "text": "FUl1her the Respondent was ordered to pay Rs. 250,0001- as compensation",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.067315101623535,
+      13.252336502075195,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.1,
+      210.53,
+      530.55,
+      228.41
+    ],
+    "text": "to the victim child and in default 4 years rigorous imprisonment. Being",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.145227432250977,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95.96,
+      234.65,
+      529.39,
+      252.53
+    ],
+    "text": "aggrieved by the above sentence, the Petitioner preferred this application to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.02,
+      258.77,
+      530.05,
+      276.65
+    ],
+    "text": "get the sentence revised and substituted with an adequate sentence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95.99,
+      283.6,
+      195.68,
+      301.48
+    ],
+    "text": "according to law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.7,
+      345.17,
+      529.29,
+      363.05
+    ],
+    "text": "03. Notices were sent to the Respondent by this court on several occasions by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.293728828430176,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.1,
+      369.64,
+      529.47,
+      387.52
+    ],
+    "text": "registered post and also served through process server of the District Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.07,
+      393.77,
+      529.4,
+      411.65
+    ],
+    "text": "However, Respondent failed to appear and therefore the case was fixed for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.27007007598877,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.31,
+      418.24,
+      529.89,
+      436.12
+    ],
+    "text": "argument. I have carefully considered the proceedings in the High Court,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.889942169189453,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.33,
+      442.36,
+      529.64,
+      460.24
+    ],
+    "text": "application and the submissions made by the counsel for the Petitioner and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.1,
+      466.84,
+      261.46,
+      484.72
+    ],
+    "text": "the relevant legal provisions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.7,
+      515.44,
+      533.02,
+      533.32
+    ],
+    "text": "04. Prescribed sentence for the offence of kidnapping (Count No.1) in terms of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.145227432250977,
+      13.399999618530273,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.59,
+      539.92,
+      530.29,
+      557.8
+    ],
+    "text": "Section 354 of the Penal Code is a term of imprisonment of either",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.138039588928223,
+      13.399999618530273,
+      13.99048900604248,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.35,
+      564.05,
+      502.14,
+      581.93
+    ],
+    "text": "description which may extent to seven years and also be liable to a fine.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.7,
+      628.84,
+      529.1,
+      646.72
+    ],
+    "text": "05. Prescribed sentence for the offence of grave sexual abuse (Count No.2) in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.889942169189453,
+      13.399999618530273,
+      13.807455062866211,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.09,
+      652.96,
+      530.37,
+      670.84
+    ],
+    "text": "terms of section 365 B(2)b of the Penal Code is a term of rigorous",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.99048900604248,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.73,
+      677.44,
+      529.45,
+      695.32
+    ],
+    "text": "imprisonment of not less than seven years and not exceeding 20 years and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.09,
+      701.57,
+      530.22,
+      719.45
+    ],
+    "text": "with a fine and also be ordered to pay compensation of an amount",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.35,
+      725.69,
+      529.52,
+      743.57
+    ],
+    "text": "determined by coul1 to the victim for the injuries caused to that person.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.03,
+      749.81,
+      452.13,
+      767.69
+    ],
+    "text": "Injuries to the victim includes psychological or mental trauma.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      521.88,
+      782.07,
+      529.46,
+      795.55
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.7,
+      88.12,
+      529.56,
+      106.0
+    ],
+    "text": "06. Counsel for the Petitioner submitted that when the legislature has clearly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96.15,
+      112.6,
+      529.65,
+      130.48
+    ],
+    "text": "prescribed the minimum mandatory term of imprisonment of 7 years for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96.0,
+      136.72,
+      532.66,
+      154.6
+    ],
+    "text": "offence in count No.2, the learned High Court Judge has given a term of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.145227432250977,
+      13.399999618530273,
+      13.99048900604248,
+      14.112791061401367
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96.37,
+      161.21,
+      529.89,
+      179.09
+    ],
+    "text": "imprisonment for 1 year suspended for 15 years which is illegal and grossly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.726052284240723,
+      13.138039588928223,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96.73,
+      185.68,
+      281.74,
+      203.56
+    ],
+    "text": "inadequate in the circumstances.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.145227432250977,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.34,
+      234.28,
+      529.65,
+      252.16
+    ],
+    "text": "07. Learned High COUli Judge in his sentencing remarks has not given any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.889942169189453,
+      13.024694442749023,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96.47,
+      258.41,
+      530.24,
+      276.29
+    ],
+    "text": "reason to deviate from the sentence prescribed by law, other than to say that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96.1,
+      282.89,
+      529.19,
+      300.77
+    ],
+    "text": "the Respondent is being remorseful and that he is not a registered criminal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.138039588928223,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.68,
+      307.36,
+      530.33,
+      325.23
+    ],
+    "text": "Learned High Court Judge has further said that he is also giving",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96.0,
+      331.49,
+      511.69,
+      349.37
+    ],
+    "text": "consideration to the Judgment of the Supreme Court in case No. 17/2013.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.227011680603027,
+      12.44023609161377,
+      12.772045135498047,
+      13.395599365234375,
+      13.399999618530273,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.34,
+      396.64,
+      529.95,
+      414.52
+    ],
+    "text": "08. Facts and circumstances of this case are totally different to that of case",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.99048900604248,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.82,
+      420.06,
+      529.71,
+      439.72
+    ],
+    "text": "No.SC Appeal 17/2013. In that case the victim of rape has delivered a baby",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.034465789794922,
+      12.857598304748535,
+      12.997247695922852,
+      13.100000381469727,
+      13.399999618530273,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.98,
+      445.24,
+      529.12,
+      463.12
+    ],
+    "text": "as a consequence of sexual intercourse between the victim and the Accused.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96.08,
+      469.36,
+      529.53,
+      487.24
+    ],
+    "text": "Accused had been looking after the child and supporting the mother (victim)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96.07,
+      493.84,
+      529.2,
+      511.72
+    ],
+    "text": "right through out. Their Lordships of the Supreme Court were of the view in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.145227432250977,
+      13.399999618530273,
+      13.99048900604248,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96.09,
+      517.96,
+      530.35,
+      535.84
+    ],
+    "text": "that case in the circumstances, in the best interest of the child, the Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.145227432250977,
+      13.395599365234375,
+      13.399999618530273,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.92,
+      542.44,
+      529.28,
+      560.32
+    ],
+    "text": "should not be incarcerated as the Appellant was supporting the victim and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96.09,
+      566.92,
+      528.09,
+      584.8
+    ],
+    "text": "the child genuinely. The facts and circumstances in SC Appeal 17/2013",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.034465789794922,
+      12.216078758239746,
+      12.46091079711914,
+      13.145227432250977,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96.1,
+      591.4,
+      530.11,
+      609.28
+    ],
+    "text": "have no application to this case other than to say that the court has the right",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.74,
+      615.53,
+      443.3,
+      633.41
+    ],
+    "text": "to use its discretion. That discretion has to be used judicially.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.34,
+      663.76,
+      529.22,
+      681.76
+    ],
+    "text": "09. It is the duty of the court to give effect to the law enacted by the legislature.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.138039588928223,
+      13.293728828430176,
+      13.399999618530273,
+      14.000452995300293,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.63,
+      687.89,
+      528.8,
+      705.77
+    ],
+    "text": "To deviate from the prescribed minimum mandatory sentence, there has to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.27007007598877,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96.13,
+      712.01,
+      529.66,
+      729.89
+    ],
+    "text": "be compelling reasons. Reasons have to be so compelling unless otherwise",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.23154067993164,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      96.1,
+      736.49,
+      431.57,
+      754.37
+    ],
+    "text": "the couli would not be acting in the best interest of Justice.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.889942169189453,
+      13.399999618530273,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      521.24,
+      781.14,
+      528.97,
+      794.88
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61.83,
+      80.57,
+      529.28,
+      98.45
+    ],
+    "text": "10. The only mitigatory circumstances submitted and available for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.193102836608887,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96.05,
+      105.04,
+      529.5,
+      122.91
+    ],
+    "text": "Respondent were that he was a first offender and that he tendered an early",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96.0,
+      129.16,
+      530.05,
+      147.03
+    ],
+    "text": "guilty plea. Those mitigating factors would make the Respondent entitle to a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.91,
+      153.65,
+      529.39,
+      171.53
+    ],
+    "text": "sufficient discount in his sentence, but would not be a compelling reason to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.145227432250977,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.99,
+      177.77,
+      527.11,
+      195.65
+    ],
+    "text": "deviate from the prescribed minimum mandatory sentence of imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62.01,
+      242.57,
+      529.94,
+      260.67
+    ],
+    "text": "11. The aggravating factors override the mitigating factors in this case. The",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.255586624145508,
+      13.145227432250977,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96.09,
+      267.04,
+      529.73,
+      284.92
+    ],
+    "text": "victim child had been 4 years old. The Respondent is her granduncle who",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.138039588928223,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96.11,
+      291.53,
+      529.42,
+      309.41
+    ],
+    "text": "was 46 years old at the time the sexual offence was committed on the victim",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.387293815612793,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.97,
+      316.0,
+      528.71,
+      333.88
+    ],
+    "text": "child. Being her granduncle (mother'S sister's husbands' father), what is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.835979461669922,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.98,
+      340.12,
+      528.66,
+      358.0
+    ],
+    "text": "expected of him is to protect the grandchild, not to sexually abuse her.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.138039588928223,
+      13.399999618530273,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.68,
+      364.61,
+      530.08,
+      382.49
+    ],
+    "text": "Respondent has therefore breached the trust reposed on him which is a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.138039588928223,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.93,
+      389.08,
+      530.03,
+      406.96
+    ],
+    "text": "serious aggravating factor. Hence, I am of the firm view that the sentence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96.36,
+      413.21,
+      530.65,
+      431.09
+    ],
+    "text": "imposed on the Respondent by the learned High Court Judge is illegal,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.138039588928223,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96.11,
+      437.68,
+      529.65,
+      455.56
+    ],
+    "text": "wrong in principle and grossly inadequate. Therefore, we set aside the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.889942169189453,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.94,
+      462.17,
+      529.91,
+      480.05
+    ],
+    "text": "sentence imposed by the learned High Court Judge and taking into account",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96.1,
+      486.28,
+      529.65,
+      504.16
+    ],
+    "text": "the sentence prescribed by law, the aggravating and mitigating factors, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.293728828430176,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.98,
+      510.4,
+      285.97,
+      528.28
+    ],
+    "text": "following sentence is substituted.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.138039588928223,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.3,
+      575.2,
+      380.58,
+      593.08
+    ],
+    "text": "Count No.1. Rigorous imprisonment for 1 year",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      218.38,
+      607.48,
+      529.4,
+      625.49
+    ],
+    "text": "fine of Rs. 10,0001-, in default of payment 3 months",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.059220314025879,
+      13.108166694641113,
+      13.145227432250977,
+      13.300000190734863,
+      13.399999618530273,
+      13.99048900604248,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      217.96,
+      632.08,
+      343.16,
+      649.96
+    ],
+    "text": "simple imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.91,
+      664.12,
+      385.59,
+      682.0
+    ],
+    "text": "Count No.2. Rigorous imprisonment for 8 years",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      219.8,
+      696.41,
+      529.47,
+      714.42
+    ],
+    "text": "fine of Rs. J 0,0001-, in default of payment 3 months",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.912762641906738,
+      13.300000190734863,
+      13.395599365234375,
+      13.399999618530273,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      217.96,
+      720.29,
+      343.18,
+      738.16
+    ],
+    "text": "simple imprisonment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      521.17,
+      783.19,
+      528.84,
+      795.83
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      218.0,
+      63.63,
+      528.97,
+      81.52
+    ],
+    "text": "Rs.250,OOOI- to be paid to the victim as compensation,",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.389890670776367,
+      13.199999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      218.77,
+      88.13,
+      529.45,
+      106.01
+    ],
+    "text": "in default of payment simple imprisonment for 2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.145227432250977,
+      13.399999618530273,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      218.14,
+      112.61,
+      253.27,
+      130.49
+    ],
+    "text": "years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.03,
+      177.4,
+      279.71,
+      195.28
+    ],
+    "text": "Revision application allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      254.12,
+      274.87,
+      498.72,
+      293.71
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76.95,
+      339.89,
+      266.0,
+      358.87
+    ],
+    "text": "K.K. WICKREMASINGHE, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      159.39,
+      364.24,
+      205.51,
+      382.12
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      254.12,
+      428.96,
+      498.66,
+      447.8
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      521.51,
+      782.12,
+      529.31,
+      795.99
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  }
+]
