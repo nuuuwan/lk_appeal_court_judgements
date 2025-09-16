@@ -1,4 +1,4 @@
-# ⚖️ Judgements of the Court of Appeal of 🇱🇰 Sri Lanka
+# Appeals
 
 ## Data Summary
 
@@ -6,8 +6,8 @@
 | :-- | --: |
 | Data Source | https://courtofappeal.lk |
 | Date Range | 2012-04-23 to 2025-09-11 |
-| Number of Docs | 10,099 |
-| Number of Docs with PDFs | 5,995 |
+| Number of Docs | 9,416 |
+| Number of Docs with PDFs | 5,996 |
 | Dataset Size | 3.3GB |
 
 ## Document Metadata Example
