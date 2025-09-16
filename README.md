@@ -7,8 +7,8 @@
 | Data Source | https://courtofappeal.lk |
 | Date Range | 2012-04-23 to 2025-09-11 |
 | Number of Docs | 10,099 |
-| Number of Docs with PDFs | 6,374 |
-| Dataset Size | 3.4GB |
+| Number of Docs with PDFs | 5,715 |
+| Dataset Size | 3.0GB |
 
 ## Document Metadata Example
 
