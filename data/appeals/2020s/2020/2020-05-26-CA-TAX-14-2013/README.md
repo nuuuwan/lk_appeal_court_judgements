@@ -1,0 +1,775 @@
+Page1of13
+
+INTHECOURTOFAPPEALOFTHEDEMOCRATICSOCIALISTREPUBLICOFSRILANKA
+
+InthematterofanApplicationofaCaseStatedfor
+
+the opinion of the Court of Appeal under and in
+
+termsofSection36oftheValueAddedTaxAct(as
+
+amended) read with Section 141 of the Inland
+
+Revenue Act No. 38 of 2000 (as amended) and
+
+Section 11A of the Tax Appeals Commission Act
+
+No.23of2011(asamended).
+
+TheCommissionerGeneralofInlandRevenue,
+
+DepartmentofInlandRevenue,
+
+InlandRevenueBuilding,
+
+SirChittampalamA.GardinerMawatha,
+
+Colombo02.
+
+Appellant
+
+CaseNo.CA(TAX)14/2013
+
+TACNo:TAC/OLD/VAT/016 Vs.
+
+JanashakthiGeneralInsuranceCol.Ltd
+
+No.46,MuttiahRoad,Colombo02.
+
+Respondent
+
+Before:JanakDeSilva,J.
+
+N.BandulaKarunarathnaJ.
+
+Counsel:
+
+AnushaFernando,DSGfortheAppellant
+
+Dr.ShivajiFelixfortheRespondent
+
+WrittenSubmissionstenderedon:
+
+Appellanton03.09.2018,26.10.2018and11.10.2019
+
+Respondenton01.08.2018,17.09.2018and11.10.2019
+
+Arguedon:14.10.2019
+
+Decidedon:20.05.2020
+
+Page2of13
+
+JanakDeSilvaJ.
+
+TheRespondentreceivedanoticeofassessmentinrespectofassessmentbearingNo.8201798
+
+dated26thApril2006forValueAddedTax(VAT)fortaxableperiodendingon31stMarch2003.
+
+The Respondent appealed to the Appellant against the notice of assessment by petition of
+
+appeal dated 22nd May 2006 on the grounds stated therein. The Appellant confirmed the
+
+assessment. The Respondent appealed to the Board of Review which failed to hear and
+
+determinethematteruntiltheTaxAppealsCommission(TAC)wassetup.Consequently,when
+
+thematterwastakenupbeforetheTAC,theRespondentraisedwhatwerereferredtoastwo
+
+preliminaryobjectionsnamely:
+
+i. Theassessmentiscontrarytolawandthereforeofnoforceoravailinlaw.
+
+ii. TheappealtotheTACwastimebarredbyoperationoflaw.
+
+Although,thepetitionofappealfiledbytheRespondentcontained12grounds,theTACdidnot
+
+makeanyrulingonthembutaddressedonlythetwopreliminaryobjectionsraisedbythe
+
+Respondent.TheTACbyitsdeterminationdated26.02.2013rejectedtheobjectionontimebar
+
+butupheldtheobjectiononthevalidityoftheassessmentandannulledtheassessmentthat
+
+hadpreviouslybeenconfirmedbytheAppellant.ThebasisoftheTACdeterminationwasthat
+
+nolawfullyvalidnoticeofassessmenthasbeenservedonthetaxpayer.
+
+AggrievedbythedeterminationoftheTAConthepreliminaryobjection,theAppellantmadean
+
+applicationforaCaseStated(X4)whichwasmadeintermsofsection36oftheValueAdded
+
+TaxActNo.14of2002asamended.TheTAChasforwardedtoCourtaCaseStatedcontaining
+
+sevenquestionsoflawwhicharethesamesuggestedbytheAppellantbyX4.
+
+Whenthismatterwastakenupforhearingon04.11.2013,theRespondentraisedapreliminary
+
+objectioninrelationtothepartiesnamedinthecaptionnamelythat,theRespondenthadbeen
+
+named the Appellant. In 2015, this Court held that the preliminary objection raised by the
+
+RespondentlackedclarityandtheRespondentwaspermittedon14.07.2015toreformulate
+
+thepreliminaryobjection.On30.09.2015,theCourtdismissedthepreliminaryobjection.
+
+By motion dated 21st March 2017, the Appellant sought to amend the questions of law.
+
+Thereafteron21.03.2018,theAppellantmovedtoamendthequestionsoflawsetoutinthe
+
+CaseStatedintermsofmotiondated9thMarch2018towhichtheRespondentobjected.Parties
+
+wereallowedtofilewrittensubmissionsandthisorderpertainstotheissueofamendingthe
+
+questionsoflawintheCaseStated.
+
+Page3of13
+
+Theproposedquestionsoflawassetoutinmotiondated9thMarch2018areasfollows:
+
+1.HavingheldthatithadnojurisdictiondidtheTACerrinlawinmakingafurtherorderto
+
+annultheassessment?
+
+2.Ifso,shouldtheordertoannultheassessmentbesetaside?
+
+3.Did the Commission err in law in characterising the absence of a printed name or
+
+signatureasajurisdictionalissue?
+
+4.Did the Commission err in law in permitting the Respondent who invoked the
+
+jurisdictionoftheCommissiontochallengeitsjurisdiction?
+
+5.DidtheCommissionerrinlawinholdingithadnojurisdiction?
+
+6.Inanyevent,wastheRespondentprecludedinlawfromraisingtheissueofalackof
+
+printednameorsignatureforthefirsttimebeforetheCommission?
+
+7.Isthenoticeofassessmentand/ortheassessmentsubstantiallycompliantwiththeVAT
+
+Act?
+
+8.Istheprintednameorsignatureofthepersonmakingtheassessmentonlyadirectory
+
+requirement?
+
+9.Inanyevent,istheabsenceofaprintednameorsignatureexcusableintermsofsection
+
+61oftheVATAct?
+
+10.Inanyevent,didtheCommissionerrinlawinannullingtheassessment?
+
+TheobjectionsoftheRespondenttotheproposedamendmentsascorrectlysummarizedbythe
+
+Appellant,albeitone,isasfollows:
+
+i. TheAppellant(andnottheTAC)mustdecidethequestionslaw.
+
+ii. TheAppellantmustdecidethequestionsoflawwithinonemonth.
+
+iii. ThequestionsoflawmustbeproperlyidentifiedbytheAppellantatthetimearequest
+
+foraCaseStatedismade.
+
+iv. Once an application for a Case Stated is made, the question of law identified by the
+
+Appellantareconcretized.
+
+v. TheAppellantbysettingoutthequestionsoflawonwhichanapplicationforaCase
+
+Statedismadehasnailedhis/hercolourstothemastandisnotpermittedtochangehis
+
+positionthereafter.
+
+vi. TheAppellantisnotlawfullyempoweredtounilaterallychangethequestionsoflaw.
+
+vii. TheAppellanthasbeen remiss andmust suffertheconsequencesofhis actions.The
+
+Stateisnotaprivilegedsuitorinataxappeal.
+
+Page4of13
+
+viii. ThepropercourseofactionwouldhavebeenfortheAppellanttochallengethedecision
+
+oftheTACbywayofanapplicationforjudicialreviewinviewofthedecisioninThe
+
+CommissionerGeneralofInlandRevenuev.KoggalaGarments(Private)Limited[C.A.
+
+(TAX)01/2008,C.A.M.05.04.2017].
+
+ix. NoneofthequestionsoflawraisedbytheAppellantconstitutequestionsoflawunder
+
+section11AoftheTaxAppealsCommissionActNo.23of2011asamended(TACAct).
+
+x. ThequestionsoflawareabstractandcannotformthesubjectmatterofaCaseStated.
+
+Iwillnowaddresseachoftheseobjections.
+
+(i)TheAppellant(andnottheTAC)mustdecidethequestionslaw.
+
+TheRespondentreferredtosection11A(1)oftheTACActandsubmittedthatitistheAppellant
+
+who must decide the questions of law. However, thesectionreads orthe Commissioner
+
+GeneralmaymakeanapplicationrequiringtheCommissiontostateacaseonaquestionoflaw
+
+. Thus, it is the TAC that must state a case and not the Appellant as submitted by the
+
+Respondentalthoughinpractice,itmaybeconvenientforaprospectiveAppellanttopropose
+
+certainquestionsoflawfortheconsiderationoftheTACtobeincludedinaCaseStated.
+
+Infact,inCommissionerGeneralv.Dr.S.S.L.Perera[C.A.(Tax)03/2017,C.A.M.11.01.2019],I
+
+heldthat:
+
+Accordingly,inmyviewtheobligationtoframethequestionsoflawisinitiallyplacedon
+
+theTACandnottheAppellantascontendedbytheRespondent.Infact,BasnayakeC.J.in
+
+R.M.Fernandov.CommissionerofIncomeTax(ReportsofCeylonTaxCases,Vol.I,page
+
+571at577)specificallystatedthatitisnotfortheappellanttostatethequestionsof
+
+lawarisingonaCaseStated.
+
+(ii)TheAppellantmustdecidethequestionsoflawwithinonemonth.
+
+TheRespondentrelyingonsection11A(1)oftheTACActcontendedthatoncethequestionsof
+
+lawissetoutbytheAppellant,itcannotbechangedlater.ItappearsthattheRespondenthas
+
+placed much emphasis on the one month time period mentioned therein. However, in my
+
+opinion,suchemphasisismisplaced.
+
+Page5of13
+
+Section11A(6)oftheTACActreads:
+
+AnytwoormoreJudgesoftheCourtofAppealmayhearanddetermineanyquestion
+
+oflawarisingonthestatedcaseandmayinaccordancewiththedecisionofCourtupon
+
+such question, confirm, reduce, increase or annul the assessment determined by the
+
+Commission,ormayremitthecasetotheCommissionwiththeopinionoftheCourt,
+
+thereon.(Emphasisadded)
+
+ThewordshearanddetermineanyquestionoflawarisingontheCaseStatedappearedin
+
+section74(5)oftheIncomeTaxOrdinanceNo2of1932andwasinterpretedbyBasnayakeC.J.
+
+inR.M.Fernandov.CommissionerofIncomeTax(supra.at577)tomeanthatitrequiresthe
+
+Court to hear and determine any questions of law arising on the Case Stated and not any
+
+questionorquestionsformulatedbytheBoard.
+
+PreviouslyinM.P.Silvav.CommissionerofIncomeTax(ReportsofCeylonTaxCases,Vol.I,page
+
+336at338)CanekeratneJ.havingconsideredsection74(5)oftheIncomeTaxOrdinanceNo2of
+
+1932heldthatallquestionsthatcouldberaisedonthewholecasewasintendedtobeleft
+
+open.ThelearnedJudgechosetofollowthedictainUshersWiltshireBreweryv.Bruce[(1915)
+
+A.C.433at465,466].
+
+InCommissionerofIncomeTaxv.SaverimuttuRetty(ReportsofCeylonTaxCases,Vol.I,page
+
+103at109)AbrahamsC.J.didmakeasimilarstatementbystating:
+
+IncidentallytherewasnoreferencetousonthispointbytheBoardofReview,since
+
+thatpointwasnotputtotheBoardwhentheywerecalledupontoadjudicateinappeal,
+
+butwearenot,ofcourseprecludedfromconsideringanypointuponwhichtheactual
+
+decisionoftheBoardmightbeupheld,nomatterwhatmighthavebeentheirreasons
+
+forarrivingatthatdecision.
+
+It is an established rule of interpretation that the legislature is presumed to know the law,
+
+judicialdecisionsandgeneralprinciplesoflaw.BindrasInterpretationofStatutes,10thed.,page
+
+235statesasfollows:
+
+Thelegislaturemustbepresumedtoknowthecourseofthelegislation,aswellasthe
+
+course of judicial decisions in the country, a fortiorari of the superior courts of the
+
+country.Itisawellsettledruleofconstructionthatwhenastatuteisrepealedandre
+
+enacted, and words in the repealed statute are reproduced in the new statute, they
+
+shouldbeinterpretedinthesensewhichhadbeenjudiciallyputonthemintherepealed
+
+Page6of13
+
+Act,becausethelegislatureispresumedtobeacquaintedwiththeconstructionwhich
+
+courtshaveputuponthewords,whentheyrepeatthesamewords,theymustbetaken
+
+tohaveacceptedtheinterpretationputonthembythecourtascorrectlyreflectingthe
+
+legislativemind.
+
+In Nilamdeen v. Nanayakkara (76 N.L.R. 169) it was held that it is a wellknown rule of
+
+constructionthatwherethelegislatureusesinanActalegaltermwhichhasreceivedjudicial
+
+interpretation, it must be assumed that the term is used in the sense in which it has been
+
+judiciallyinterpreted.Thereisalsoanotherruleofconstructionthatwherethewordsofanold
+
+statutearemadepartofanewstatute,thelegalinterpretationwhichhasbeenputuponthe
+
+formerbycourtsoflawisapplicabletothosesamewordsinthenewstatute.
+
+Therefore,thisCourtcanhearanddetermineanyquestionoflawarisingontheCaseStated.
+
+Thisprovidestheopportunitytoeitherpartytoproposeanewquestionoflawortoamenda
+
+questionoflawtothisCourt.WheretheCourtisoftheviewthatitarisesfromtheCaseStated
+
+they can be accepted as part of the Case Stated provided that the answers to the new or
+
+amendedquestionsoflawmayresultintheconfirmation,reduction,increasingorannullingthe
+
+assessmentdeterminedbytheTAC,orrequirestheremittingofthecasetotheTACwiththe
+
+opinionoftheCourtsothattheTACcanrevisetheassessmentinaccordancewiththeopinion
+
+oftheCourt.
+
+IfthesubmissionsoftheRespondentistobeaccepted,itwillmakesection11A(6)oftheTAC
+
+Actredundant.ThisCourtwillnotbeabletohearanddetermineanyquestionsoflawarisingon
+
+theCaseStatedifsuchquestionwasnotraisedatthetimetheCaseStatedwassetout.
+
+ThereisafurtherreasonwhythecontentionoftheRespondentmustfail.ACaseStatedcan
+
+containonlyquestionsoflaw.Incivilappeals,itisanestablishedprinciplethataquestionof
+
+lawcanberaisedforthefirsttimeinappeal.[Thalagalav.GangodawilaCooperativeSociety
+
+Ltd (48 N.L.R. 472), Jayawickrama v. Silva (76 N.L.R. 427), Simon Fernando v. Bernadette
+
+Fernando(2003)2Sri.L.R.158,Seethav.Weerakoon(49N.L.R.225),Somawathiev.Wilsonand
+
+Others(2010)1Sri.L.R.128].IseenovalidreasonwhythesameprinciplecannotapplyinaCase
+
+Stated.
+
+Page7of13
+
+(iii)ThequestionsoflawmustbeproperlyidentifiedbytheAppellantatthetimearequest
+
+foraCaseStatedismade,
+
+(iv) Once an application for a Case Stated is made, the question of law identified by the
+
+Appellantareconcretizedand
+
+(v) The Appellant by setting out the questions of law on which an application for a Case
+
+Stated is made has nailed his/her colours to the mast and is not permitted to change his
+
+positionthereafter.
+
+Accepting the positions articulated above will again render section 11A (6) of the TAC Act
+
+meaningless.IhaveexplainedearlierthatthisCourthaspowertoconsiderquestionsoflaw
+
+otherthanwhatissetoutintheCaseStated[CommissionerGeneralofInlandRevenuev.Dr.S.
+
+S.L.Perera(supra)].WhereanypartytoaCaseStatedproposesnewquestionsoflaworseeks
+
+toamendthequestionsoflaw,thatmustbeconsideredaspartofsuchprocesssincebythe
+
+timeaCaseStatedistakenupforhearingmuchtimehaslapsedfromitstransmissiontothis
+
+Court and addressing the issue of amending or adding questions of law will contribute to a
+
+delayintheproceedings.
+
+(vi)TheAppellantisnotlawfullyempoweredtounilaterallychangethequestionsoflaw.
+
+ThecomplaintthattheAppellantisunilaterallyseekingtochangethequestionoflawiswithout
+
+foundation. In the first place, the duty to formulate the questions of law is on the TAC.
+
+Therefore,thisCourthasthepowertoframenewquestionsoflawarisingfromtheCaseStated
+
+ortoamendthequestionsoflawalreadyframedwhilstwhetherthequestionsoflawproposed
+
+bytheAppellantshouldbecomepartoftheCaseStatedisdecidedbyCourtafterhearingthe
+
+objectionsifanyoftheRespondent.
+
+(vii)TheAppellanthasbeenremissandmustsuffertheconsequencesofhisactions.TheState
+
+isnotaprivilegedsuitorinataxappeal.
+
+ItissurprisingthatthelearnedcounselfortheRespondenthasframedthisobjectioninthis
+
+manner. The principle I identified in CommissionerGeneral of Inland Revenue v. Dr. S. S. L.
+
+Perera(supra)appliestoallCaseStatedmattersirrespectiveoftheidentityofthepartythat
+
+makestheapplication.Similarly,ifandwhenthisCourtallowstheapplicationoftheAppellant,
+
+Page8of13
+
+thisCourtwillapplytheprincipletoallCaseStatedmattersirrespectiveoftheidentityofthe
+
+partywhomadetheapplication.
+
+(viii)ThepropercourseofactionwouldhavebeenfortheAppellanttochallengethedecision
+
+of the TAC by way of an application for judicial review in view of the decision in The
+
+CommissionerGeneralofInlandRevenuev.KoggalaGarments(Private)Limited[C.A.(TAX)
+
+01/2008,C.A.M.05.04.2017].
+
+TheRespondentcontendsthatnoneofthequestionsoflawraisedbytheAppellant,eitherin
+
+theoriginalormodifiedform,canlawfullyconstitutequestionsoflawfortheopinionofCourt
+
+intermsofsection11AoftheTACActastheanswerstothequestionsposeddonothavean
+
+impact on the assessment per se and the proper course of action that should have been
+
+adoptedbytheAppellantwastochallengethedecisionoftheTACbywayofjudicialreview.
+
+RelianceisplacedonthedecisionofthisCourtinTheCommissionerGeneralofInlandRevenue
+
+v.KoggalaGarments(Private)Limited(supra).
+
+Thisobjectionraisesthevexedquestionofthecoexistenceofstatutoryrightofappealand
+
+judicial review. I will address this aspect before proceeding to consider the judgment in
+
+Commissioner General of Inland Revenue v. Koggala Garments (Private) Limited (supra) on
+
+whichtheobjectionisbased.
+
+Letmestarttheanalysisbyrestatingtwoestablishedprinciples.Firstly,judicialreviewbeinga
+
+discretionaryremedymayberefusedwherethereisanadequateandeffectiveremedysuchas
+
+astatutoryappeal.Secondly,judicialreviewisconcernedwiththelegalityofadecisionwhereas
+
+anappealinquireswhetherthedecisionisrightorwrong.
+
+TheremaybesituationswhereanAppellantinastatutoryappealproceedingwishestoraise
+
+questionsrelatingtolegalitysuchasthebreachoftherulesofnaturaljusticeoranissueonthe
+
+jurisdiction of the decision maker. A multitude of judicial authority supports the proposition
+
+thatjurisdictionalquestionscanberaisedbywayofappeal.
+
+In Regina v. Inland Revenue Commission ex parte Preston [(1985) A.C. 835 at 862], Lord
+
+Templeman expressly held that on appeal High Court can correct all kinds of errors of law
+
+includingerrorswhichmightotherwisebesubjecttojudicialreview.Similarapproachwastaken
+
+inR.v.MinisterofHousingandLocalGovernmentexparteFinchleyBoroughCouncil[(1955)1
+
+W.L.R.29at25],RePurkissApplication[(1962)1W.L.R.902at914],EssexCountyCouncilv.
+
+Essex Incorporated Congregational Church Union [(1963) A.C. 808], Snell v. Unity Finance
+
+CompanyLimited[(1964)2Q.B.203],ArsenalFootballClubLtdv.Ende[(1977)Q.B.100at116].
+
+Page9of13
+
+Breach of the common law principles of natural justice can be dealt with by the appellate
+
+systeminthetaxfield[R.v.BrentfordGeneralCommissionersEx.p.Chan(1986)S.T.C.65;R.v.
+
+CommissionerfortheSpecialPurposesoftheIncomeTaxActsEx.p.Napier(1988)3AllE.R.166;
+
+Baninv.Mackinlay(InspectorofTaxes)(1985)1AllE.R.842].
+
+Furthermore,giventhattheestablishedpositionisthatatribunalexceedsitsjurisdictionifit
+
+makesanyerroroflaw[AnisminicLtdv.ForeignCompensationCommission(1969)2A.C.147],
+
+statutoryappealprocedurewillbemaderedundantintheeventitisheldthatjurisdictional
+
+questionscannotberaisedinsuchappealprocedure.
+
+The general principle thus gleaned is that jurisdictional issues which may form the basis of
+
+judicialreviewcanberaisedinastatutoryappeal.
+
+The learned counsel for the Respondent has cited the decision in Commissioner General of
+
+Inland Revenue v. Koggala Garments (Private) Limited (supra) to submit that the Appellant
+
+shouldhavesoughtjudicialreviewagainsttheimpugnedorderoftheTAConthepreliminary
+
+objection.Inparticular,thefollowingparagraphshavebeenquoted:
+
+Ifthequestionsoflawstatedinthiscourtdoesnotariseontheassessments,thiscourt
+
+isdenudedofjurisdictiontohearanddeterminethequestionsoflaw.(Nawaz,J.atpage
+
+10)
+
+Theappropriatetimeforstatingacaseonapointoflawisaftertheconclusionofthe
+
+substantivehearing.Whereatribunalhasmadeaninterimrulingwhichischallenged,it
+
+isinappropriateforacasetobestatedandtheaggrievedpartyshouldseekpermission
+
+toobtainjudicialreview.Thisisalsothemostappropriatemodeofchallengewherethe
+
+complaint is that the inferior court misunderstands its role or function. See the
+
+pronouncement in R. v. Chief Commissioner, ex parte Winnington [The Times,
+
+November26,1982]."
+
+TheRespondentsubmitsthatnoneofthequestionsoflawraisedbytheAppellant,eitherin
+
+theiroriginalormodifiedform,canlawfullyconstitutequestionsoflawfortheopinionofCourt
+
+in terms of section 11A of theTAC Act and therefore, the determination of the TAC on the
+
+preliminaryissueshouldhavebeenimpugnedbywayofjudicialreview.Itisfurthersubmitted
+
+thateveniftheAppellantsucceedsintheappealbyhavingthequestionsoflawansweredinhis
+
+favour,itwouldnotresultintheamountoftaxassessedbeingconfirmedsincethesubstantive
+
+issuesraisedbythetaxpayersappealhavenotbeenconsideredbytheTAC.
+
+Page10of13
+
+LetmebeginbyconsideringthefirstparagraphofTheCommissionerGeneralofInlandRevenue
+
+v.KoggalaGarments(Private)Limited(supra):
+
+Ifthequestionsoflawstatedinthiscourtdoesnotariseontheassessments,thiscourt
+
+isdenudedofjurisdictiontohearanddeterminethequestionsoflaw.
+
+Yet,asexplainedearliersection11A(6)oftheTACActspecificallyallowsthisCourttohearand
+
+determineanyquestionoflawarisingontheCaseStatedanddoesnotrequireittoariseonthe
+
+assessments.
+
+Furthermore, the two paragraphs quoted from Commissioner General of Inland Revenue v.
+
+KoggalaGarments(Private)Limited(supra)isinmyopinionmutuallyinconsistent.
+
+Letmegiveanexample.AcasebeforetheTACraisesthequestionofwhethertheassessmentis
+
+timebarredinadditiontosubstantiveissues.TheTACdecidestotakeupthetimebarissueasa
+
+preliminaryobjectionasraisedbythetaxpayer.IftheTACoverrulesthepreliminaryobjection
+
+then we are told, by the second part quoted from Koggala Garment case (supra), that the
+
+taxpayermustresorttojudicialreviewastheTAChasnotlookedatthesubstantiveissues.Yet
+
+ifthetaxpayersucceedsinitschallengeontimebarofassessment,thenitisinrelationtoa
+
+matterarisingontheassessmentand,wearetoldbythefirstpartofthequotationinKoggala
+
+Garmentcase(supra),theCommissionerGeneralofInlandRevenuecanmoveforaCaseStated
+
+tobereferredtothisCourt.
+
+Thepresentcaseprovidesafurtherexampleoftheinconsistencyofthetwopartsquotedfrom
+
+Koggala Garment case (supra). If the same issue was decided by the TAC in favour of the
+
+Appellant, then the Respondent can seek to submit a Case Stated relying on the first part
+
+quoted, as it is a matter arising on the assessment. In that situation, if the Respondent
+
+succeededontheCaseStated,theassessmentmadewouldhavetobeannulled.Butthesecond
+
+partofthequotestatesitisnotpossibletosubmitaCaseStatedastherewasnohearingonthe
+
+substantiveissues.
+
+Therefore,withthegreatestofrespect,IamunabletoagreewiththereasoningintheKoggala
+
+Garmentcase(supra).ThelearnedcounselfortheRespondentsubmittedthatthejudgmentof
+
+thisCourtinKoggalaGarmentcase(supra)wasaffirmedbytheSupremeCourton04.05.2018
+
+inCommissionerGeneralofInlandRevenuev.KoggalaGarments(Private)Limited[S.C.Spl.L.A.
+
+ApplicationNo.114/2017]whentheSupremeCourtrefusedspecialleavetoappeal.However,
+
+inB.M.Karunadasa,Asst.CommissionerofLabourv.W.Balasuriya,SportsofKings[CA(PHC)
+
+APN 97/2010, C.A.M. 17.07.2013] Salam J. (with Rajapakse J. agreeing) held that it is a
+
+Page11of13
+
+misconception to come to the conclusion that the refusal of leave by the Supreme Court
+
+constitutestheaffirmationofthejudgmentofthelowercourtandcannotbeconsideredas
+
+creatingaprecedent.
+
+IwishtoaddthatthereareotherreasonsinmyviewwhyKoggalaGarmentcase(supra)does
+
+notreflectthecorrectlegalposition.
+
+Firstly,itistritelawthatanyprovisionoflawshouldbeinterpretedsothatitwouldapplyina
+
+mannerconsistentwiththeConstitutionbeingtheSupremeLawoftheland.Aninterpretation
+
+thatmayresultinaprovisionbeingappliedinamannerinconsistentwiththeConstitutionhas
+
+to be avoided. [Ismalebbe v. Jayawardena, Assistant Commissioner of Agrarian Services and
+
+Others (1990) 2 Sri.L.R. 199 at 204205]. As explained above, applying the ratio in Koggala
+
+Garmentcase(supra)createssituationswhereifapreliminaryissueisansweredinfavourof
+
+oneparty,theaggrievedpartymustresorttojudicialreview,whichisdiscretionary,whereasif
+
+itisansweredinfavouroftheotherparty,theaggrievedpartymaysubmitaCaseStatedwhich
+
+isavailableasofright.
+
+Secondly, such a situation is in any event contrary to public policy since it results in two
+
+differentproceduresfortwotypesofpartiesarisingfromthesamedecision.
+
+Thirdly, even if it is assumed that the decision of this Court has to be connected to an
+
+assessment,thereversalofanannulmentdonebytheTACasinthiscaseisdirectlyconnected
+
+totheassessment.IfthisCourtsodecides,andremitsitsopiniontotheTAC,theTACwillhave
+
+to reverse the annulment of the assessment it made and thereafter decide the substantive
+
+issue.Suchacourseofactioniscoveredbythewords"revisetheassessment"insection11A(6)
+
+oftheTACAct.Thereisnobasistosaythatthephrase"revisetheassessment"islimitedto
+
+arithmeticrevisions.
+
+Thirdly,itoverlooksthebasicruleofinterpretationthatthegreaterpowerincludesthelesser
+
+power.Theprinciplethatthegrantofagreaterpowerincludesthegrantofalesserpowerisan
+
+acceptedprinciplethathasbeenrecognizedinvirtuallyeverylegalcodefromtimeimmemorial.
+
+IthasbeenrecognizedandappliedinSriLanka.[M.B.Ibealebbev.TheQueen(65N.L.R.433at
+
+435),TheQueenv.A.D.Hemapala(65N.L.R.313at322)].
+
+Fourthly,KoggalaGarmentcase(supra)reliesonthedecisioninD.M.S.Fernandov.Mohideen
+
+Ismail[(1982)1Sri.L.R.222at234]whereSamarakoonC.J.held:
+
+"Therewasanothermatterthatwasraisedincidentally.ItwascontendedbytheDeputy
+
+SolicitorGeneralthattheRespondentwasnotentitledtomaintainthisapplicationfor
+
+writ because an alternative remedy by way of appeal as available to him under the
+
+Page12of13
+
+InlandRevenueAct.Thoseprovisionsconfinehimtoanappealagainstthequantumof
+
+theassessment.TheCommissionerhasnotbeengivenpowertoordertheAssessorto
+
+communicatereasons.Hemay,ormaynot,dosoasanadministrativeact.TheAssessor
+
+may, or may not, obey. The Assessee is powerless to enforce the execution of such
+
+administrative act. The present objection goes to the very root of the matter and is
+
+independentofquantum.Itconcernstheveryexerciseofpowerandisafitmatterfor
+
+writjurisdiction.Anapplicationforwritofcertiorariistheproperremedy."
+
+Inthatmatter,thewritjurisdictionwassoughttoassailtheassessmentoftheAssessorforhis
+
+failuretogivereasonsfortherejectionofthereturninwriting.Itisnotamatterthatarose
+
+aftertheappealmadetotheCommissionerGeneralofInlandRevenueandanappealtothe
+
+BoardofRevieworastatutoryappellatebodyunlikeinthiscase.Furthermore,theSupreme
+
+Courtonlystatesthattheproperremedyisjudicialreviewandnotthatitistheonlyremedy.
+
+Theabovestatementmustbeunderstoodandlimitedtothatcontext.
+
+Inanyevent,ImayaddthatthereversalofanannulmentoftheassessmentmadebytheTACis
+
+directly connectedto theassessment.An order reversing anannulmentofan assessment is
+
+intrinsically intertwined with the validity of an assessment and as such is connected to an
+
+assessment.
+
+TheRespondentfurthercontendedthattherehasbeenadelayofmorethanfiveyearsbefore
+
+thequestionsoflawwereproposed.AsthelearnedDSGsubmittedthisobjectionoverlooksthe
+
+factthaton04.11.2013whenthematterwastakenupforthefirsttime,theRespondentraised
+
+apreliminaryobjectionandin2015thisCourtfoundthatitlackedclarityandtheRespondent
+
+waspermittedtoreformulateit.Thereafter,Courtmadeorderon30.09.2015dismissingthe
+
+preliminary objection. The application to amend the questions of law was made by the
+
+AppellantforthefirsttimeinJanuary2017.
+
+Furthermore, the authorities are clear that a question of law can be raised at anytime. No
+
+prejudiceiscausedtoanypartybyacceptingamendedquestionsoflawatanytimebeforethe
+
+conclusionofthehearingprovidedpartieshavebeengivenafairopportunitytoaddressthe
+
+questionsoflawbeforejudgment.
+
+Ihavegivencarefulconsiderationtothequestionsoflawsetoutinthemotiondated9thMarch
+
+2018filedbytheAppellant.Inmyview,question10isvagueandassuchshouldnotbeallowed.
+
+Allotherquestionsarequestionsoflaw,arisingfromtheCaseStatedandtheanswerstowhich
+
+mayresultintheconfirmation,reduction,increasingorannullingtheassessmentdetermined
+
+by the TAC,orrequires theremittingofthe case tothe TACwith the opinion of theCourt.
+
+Page13of13
+
+Therefore, I allow the Appellant to amend the questions of law as requested to the extent
+
+specifiedabove.
+
+Foralltheaforesaidreasons,questionsoflawNos.1to9inthemotiondated9thMarch2018
+
+filedbytheAppellantwillnowconstitutethequestionsoflawinthisCaseStated.
+
+JudgeoftheCourtofAppeal
+
+N.BandulaKarunarathnaJ.
+
+Iagree.
+
+JudgeoftheCourtofAppeal

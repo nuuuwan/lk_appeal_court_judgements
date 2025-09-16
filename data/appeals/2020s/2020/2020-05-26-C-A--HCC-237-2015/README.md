@@ -1,0 +1,91 @@
+, .
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST
+
+/ REPUBLIC OF SRI LANKA.
+
+Muthunagonnage Mervin
+
+Nishantha Fernando.
+
+Accused-Appellant.
+
+H.C.C. No.237[2015 Vs.
+
+HC Chilaw No.150[2006 Hon. Attorney General,
+
+Attorney General's Department
+
+Colombo 12.
+
+Before
+
+Counsel
+
+Decided on
+
+Complainant-Respondents -
+
+Respondents.
+
+Hon . Justice K.K.Wickremasinghe
+
+Hon. Justice Priyantha Fernando
+
+Nalin Ladduwahetty P.C. with Lakni de Silva [or the
+
+Accused-Appellant.
+
+Lakmali Karunanayake D.S.G. [or the Respondent.
+
+17/02/2020
+
+Hon.Justice K.K.Wickremasinghe.
+
+Accused-Appellant present in Court produced by Prison
+
+Authorities.
+
+Learned President's Counsel moves to withdraw the appeal
+
+against the conviction and makes an application to bring down the
+
+, ,
+
+sentence and also to backdate the sentence from the date of
+
+conviction.
+
+Considering the facts of this case, Learned Deputy Solicitor
+
+General concedes to bring down the sentence to 7 years Rigorous
+
+Imprisonment. Hence we reduce the sentence of imprisonment to 7
+
+years.
+
+Hence upon withdrawal, conviction against the Accused -
+
+Appellant is affirmed. Accordingly appeal against the conviction is
+
+dismissed.
+
+Further, we back date the sentence of 7 years Rigorous
+
+Imprisonment to run from the date of conviction, namely
+
+13/08/2015. The rest of the sentence stands as it is.
+
+Registrar is directed to send copies of this order to the
+
+relevant High Court and the Prison Authorities.
+
+JUDGE OF THE COURT OF APPEAL
+
+K.Priyantha Fernando! J .
+
+I agree.
+
+JUDGE OF THE COURT OF APPEAL
+
+WC/ -

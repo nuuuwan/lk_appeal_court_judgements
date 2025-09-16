@@ -1,0 +1,2719 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      75.88,
+      109.15,
+      527.95,
+      125.02
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.858677864074707,
+      11.899999618530273,
+      11.902399063110352,
+      11.907896995544434,
+      11.959301948547363,
+      11.992490768432617,
+      12.014944076538086,
+      12.080333709716797,
+      12.15070915222168
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      63.59,
+      325.15,
+      196.63,
+      354.69
+    ],
+    "text": "Court of Appeal Case No. CA(PHC) 16/2016",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.85556697845459,
+      11.899999618530273,
+      11.963530540466309
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      63.41,
+      366.91,
+      233.13,
+      398.97
+    ],
+    "text": "High Court of Kuliyapitiya Case No. HCR 03/2012",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.85556697845459,
+      11.899999618530273,
+      12.001070976257324,
+      12.036269187927246
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.03,
+      412.98,
+      220.31,
+      428.85
+    ],
+    "text": "Magistrate Court of Hettipola",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.001070976257324,
+      12.108572006225586
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.9,
+      136.86,
+      335.86,
+      152.74
+    ],
+    "text": "SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.4,
+      179.15,
+      344.85,
+      226.4
+    ],
+    "text": "Officer in Charge, Police Station, Hettipola.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.77,
+      241.07,
+      391.81,
+      256.28
+    ],
+    "text": "Complainant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.19,
+      278.02,
+      340.71,
+      297.67
+    ],
+    "text": "v.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.003118515014648
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.26,
+      315.96,
+      411.42,
+      379.04
+    ],
+    "text": "D.M. Pradeep Wasantha Perera, NO.5141 A, Peiris Mawatha, Boralessa, Lunuwila.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.830747604370117,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.86,
+      396.23,
+      370.74,
+      411.44
+    ],
+    "text": "Accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      63.6,
+      429.54,
+      285.2,
+      445.41
+    ],
+    "text": "Case No.6427 AND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.892047882080078,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.21,
+      465.72,
+      396.48,
+      544.99
+    ],
+    "text": "Dihal Shashikapriya Peiris, No.3 73/BIl, J.R.Fernandopulle Mawatha, Koswaththa, Kochchikade.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0,
+      11.399999618530273,
+      11.486970901489258,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.19,
+      559.67,
+      376.59,
+      574.88
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.83,
+      589.42,
+      340.83,
+      609.07
+    ],
+    "text": "v.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.251016616821289
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      242.56,
+      627.35,
+      344.86,
+      642.55
+    ],
+    "text": "I. Officer in Charge,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.47,
+      643.55,
+      327.27,
+      674.59
+    ],
+    "text": "Police Station, Hettipola.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      241.13,
+      691.06,
+      413.06,
+      737.96
+    ],
+    "text": "2. I-Ion. Attorney General, Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.219063758850098,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.19,
+      754.8,
+      390.83,
+      770.0
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      521.33,
+      783.0,
+      529.42,
+      796.33
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254.21,
+      69.1,
+      411.55,
+      100.01
+    ],
+    "text": "D. M. Pradeep Wasantha Perera, NO.SI4/ A, Peiris Mawatha,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.923787117004395,
+      11.0802640914917,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254.82,
+      101.14,
+      306.79,
+      132.06
+    ],
+    "text": "Boralessa, Lunuwila.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      326.85,
+      133.19,
+      434.84,
+      148.27
+    ],
+    "text": "Accused- Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254.49,
+      174.93,
+      314.89,
+      190.02
+    ],
+    "text": "AND NOW",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.367448806762695
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      253.84,
+      216.69,
+      396.43,
+      263.82
+    ],
+    "text": "Dihal Shashikapriya Peiris, No.3 73/BII , J.R.Fernandopulle Mawatha,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.200461387634277,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254.83,
+      264.93,
+      323.64,
+      295.86
+    ],
+    "text": "Koswaththa, Kochchikade.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.270962715148926,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      326.82,
+      317.86,
+      428.18,
+      332.93
+    ],
+    "text": "Petitioner-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.83,
+      347.51,
+      307.45,
+      367.16
+    ],
+    "text": "v.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      242.2,
+      392.73,
+      344.53,
+      407.81
+    ],
+    "text": "I. Officer in Charge,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254.47,
+      408.57,
+      327.31,
+      439.86
+    ],
+    "text": "Police Station, Hettipola.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.77,
+      461.5,
+      412.99,
+      508.97
+    ],
+    "text": "2. Hon. Attorney General, Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.16974925994873,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      327.19,
+      525.57,
+      452.2,
+      540.65
+    ],
+    "text": "Respondent-Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      253.85,
+      567.33,
+      411.38,
+      598.61
+    ],
+    "text": "D.M. Pradeep Wasantha Perera, No.SI4/A, Peiris Mawatha,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.246874809265137,
+      11.300000190734863,
+      11.37773323059082
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254.82,
+      599.38,
+      306.05,
+      630.29
+    ],
+    "text": "Boralessa, Lunuwila.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      326.85,
+      647.25,
+      498.84,
+      662.33
+    ],
+    "text": "Accused- Respondent- Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      521.2,
+      782.65,
+      529.29,
+      795.98
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.74,
+      90.5,
+      124.78,
+      105.6
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.924323081970215
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.31,
+      168.97,
+      133.5,
+      184.07
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.98819351196289
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.45,
+      248.49,
+      148.33,
+      264.02
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.42,
+      301.82,
+      219.91,
+      316.92
+    ],
+    "text": "WRITTEN SUBMISSIONS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.963266372680664,
+      11.067315101623535
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.73,
+      327.73,
+      133.06,
+      342.83
+    ],
+    "text": "FILED ON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.899999618530273,
+      10.990474700927734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.35,
+      406.88,
+      165.89,
+      422.41
+    ],
+    "text": "JUDGMENT ON",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.329911231994629,
+      11.384037971496582
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.92,
+      460.99,
+      249.87,
+      476.75
+    ],
+    "text": "K. PRIY ANTHA FERNANDO, J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.899999618530273,
+      11.033828735351562,
+      11.051497459411621,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      290.62,
+      89.0,
+      451.51,
+      105.24
+    ],
+    "text": "K.K. WICKREMASINGHE, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.5,
+      11.079472541809082,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      290.09,
+      116.27,
+      464.97,
+      131.87
+    ],
+    "text": "K. PRIY ANTHA FERNANDO, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.899999618530273,
+      10.968832015991211,
+      11.079668998718262,
+      11.08050537109375,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      290.83,
+      168.1,
+      528.16,
+      199.38
+    ],
+    "text": "Priyantha Alagiyawanna with Isuru Weerasooriya for the Petitioner Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      290.31,
+      216.33,
+      515.2,
+      231.41
+    ],
+    "text": "Shanaka Wijesinghe DSG for the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      290.04,
+      248.37,
+      347.08,
+      263.45
+    ],
+    "text": "02.12.2019",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      290.45,
+      326.85,
+      482.28,
+      341.93
+    ],
+    "text": "29.11.2019 by the Petitioner Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.632802963256836,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      290.45,
+      358.89,
+      442.7,
+      373.97
+    ],
+    "text": "29.1 1.2019 by the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.295449256896973,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      290.4,
+      407.13,
+      347.05,
+      422.21
+    ],
+    "text": "05.02.2020",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.95,
+      494.47,
+      530.93,
+      517.95
+    ],
+    "text": "o I. This is an appeal preferred by the Petitioner-Appellant (Appellant) against the order of",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.300000190734863,
+      11.894510269165039,
+      17.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91.41,
+      521.98,
+      531.29,
+      537.06
+    ],
+    "text": "the learned High Court Judge of Kuliyapitiya dated 01.03.2016 affirming the order of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.894510269165039
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91.33,
+      542.85,
+      529.18,
+      557.93
+    ],
+    "text": "confiscation of a lorry bearing No. 43-9581 made by the learned Magistrate of Hettipola",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.894510269165039,
+      12.091154098510742
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91.33,
+      563.96,
+      165.97,
+      579.35
+    ],
+    "text": "on 24. 11.20 I I.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.004281044006348,
+      11.199999809265137,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.0,
+      605.85,
+      528.69,
+      620.93
+    ],
+    "text": "02. The Accused in the Magistrate's Court case was the driver of the lorry No. 43-9581. On",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.985931396484375,
+      12.091154098510742
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91.41,
+      626.38,
+      528.65,
+      641.46
+    ],
+    "text": "the day in question, the Accused was arrested by the Hettipola police for transporting",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91.42,
+      647.25,
+      528.42,
+      662.33
+    ],
+    "text": "timber without a valid licence. Upon pleading guilty, the Accused was fined by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91.72,
+      667.78,
+      528.66,
+      682.86
+    ],
+    "text": "learned Magistrate and in terms of section 40 of the Forest Ordinance a vehicle inquiry",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      12.091154098510742
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91.43,
+      688.29,
+      528.76,
+      703.37
+    ],
+    "text": "was held. At the inquiry, the Appellant gave evidence claiming the said vehicle as the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.104000091552734,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      91.41,
+      709.18,
+      176.71,
+      724.26
+    ],
+    "text": "registered owner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      521.16,
+      782.27,
+      529.11,
+      796.41
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.72,
+      68.63,
+      528.89,
+      83.83
+    ],
+    "text": "03. On behalf of the absolute owner (Asia Asset Finance Company), a representative also",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91.7,
+      89.51,
+      528.75,
+      104.72
+    ],
+    "text": "gave evidence. After inquiry, the learned Magistrate ordered the vehicle to be confiscated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91.77,
+      110.75,
+      528.4,
+      125.96
+    ],
+    "text": "Against the said order of the learned Magistrate, the Appellant preferred an application in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.153024673461914,
+      11.399999618530273,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91.77,
+      131.63,
+      483.55,
+      146.83
+    ],
+    "text": "the High Court of Kuliyapitiya to get the order of the learned Magistrate revised.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.947025299072266,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.36,
+      173.39,
+      528.98,
+      188.59
+    ],
+    "text": "04. After the hearing of the above revISion application, the learned High Court Judge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91.7,
+      194.27,
+      528.53,
+      209.48
+    ],
+    "text": "dismissed the said application and affirmed the confiscation order of the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.11,
+      215.16,
+      529.1,
+      230.37
+    ],
+    "text": "Magistrate. This appeal is preferred against the said order of the learned High Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.261507987976074,
+      11.399999618530273,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91.37,
+      236.04,
+      210.92,
+      251.25
+    ],
+    "text": "Judge dated 01.03.2016.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.37,
+      281.03,
+      528.98,
+      296.24
+    ],
+    "text": "05. At the argument stage of this appeal, both counsel for the Appellant and the Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91.33,
+      301.92,
+      466.44,
+      317.13
+    ],
+    "text": "agreed to dispose this matter on the written submissions filed by both parties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.0,
+      343.31,
+      327.98,
+      358.51
+    ],
+    "text": "06. Section 40 (1) of the Forest Ordinance provides;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91.22,
+      374.42,
+      353.0,
+      389.89
+    ],
+    "text": "\"( 1) where any person is convicted of a forest offence-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.986105918884277,
+      11.5,
+      11.600000381469727,
+      11.899999618530273,
+      13.034381866455078
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.94,
+      405.49,
+      532.8,
+      420.83
+    ],
+    "text": "(a) all timber or forest produce which is not the property of the State in respect of",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.657631874084473,
+      11.899999618530273,
+      12.829127311706543,
+      13.034381866455078
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.02,
+      427.15,
+      346.73,
+      441.68
+    ],
+    "text": "which such offence has been commilled; and",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.94,
+      468.12,
+      528.52,
+      483.46
+    ],
+    "text": "(b) all tools, vehicles, implements, callie and machines used in committing such",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.657631874084473,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.63,
+      489.79,
+      528.3,
+      504.33
+    ],
+    "text": "offence, shall in addition to any other punishment specified for such offence, be",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.571413040161133,
+      11.833866119384766,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.63,
+      510.68,
+      373.79,
+      525.21
+    ],
+    "text": "confiscated by Order of the convicting Magistrate:",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.899999618530273,
+      13.034381866455078
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.44,
+      552.43,
+      529.46,
+      566.96
+    ],
+    "text": "Provided that in any case where the owner of such tools, vehicles, implements and",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.657631874084473,
+      11.899999618530273,
+      13.034381866455078
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.67,
+      572.52,
+      532.44,
+      587.86
+    ],
+    "text": "machines used in the commission of such offence, is a third party, no Order of",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.657631874084473,
+      11.899999618530273,
+      12.829127311706543,
+      13.034381866455078
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.63,
+      589.14,
+      528.11,
+      609.86
+    ],
+    "text": "confiscation shall be made if such owner proves to the satisfaction of the court",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.820282936096191,
+      11.833866119384766,
+      11.899999618530273,
+      13.034381866455078,
+      15.451400756835938
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.59,
+      615.07,
+      528.72,
+      629.61
+    ],
+    "text": "that he had taken all precautions to prevent the use of such tools, vehicles,",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.806835174560547,
+      11.820282936096191,
+      11.899999618530273,
+      13.034381866455078
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.58,
+      635.96,
+      527.79,
+      650.49
+    ],
+    "text": "implements, cattle and machines, as the case may be, for the commission of the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.495940208435059,
+      11.899999618530273,
+      12.829127311706543
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.26,
+      656.47,
+      173.78,
+      671.01
+    ],
+    "text": "offence. \"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      59.64,
+      697.56,
+      528.6,
+      712.76
+    ],
+    "text": "07. Hence, it is clear that the Appellant (owner) has to prove to the satisfaction of the court,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.69,
+      718.08,
+      530.57,
+      733.28
+    ],
+    "text": "that he had taken all precautions to prevent the use of the vehicle for the commission of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.296782493591309,
+      11.399999618530273,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.69,
+      738.6,
+      414.96,
+      753.8
+    ],
+    "text": "the offence, in this case transporting timber without a valid permit.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      520.16,
+      782.39,
+      527.51,
+      795.46
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60.36,
+      68.99,
+      528.39,
+      84.19
+    ],
+    "text": "08. Learned counsel for the Appellant submitted that the Appellant has proved to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91.3,
+      89.87,
+      528.37,
+      105.08
+    ],
+    "text": "satisfaction of the court that he has taken all necessary precautions to prevent the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91.34,
+      110.39,
+      224.6,
+      125.59
+    ],
+    "text": "commission of the offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60.0,
+      161.51,
+      528.37,
+      176.83
+    ],
+    "text": "09. At the vehicle inquiry, held in terms of section 40 (I) of the Forest Ordinance, the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.947025299072266,
+      12.075807571411133
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91.43,
+      182.39,
+      528.23,
+      197.6
+    ],
+    "text": "Appellant gave evidence on his behalf. His evidence was that he was the registered",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.06008243560791,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91.33,
+      203.27,
+      527.84,
+      218.48
+    ],
+    "text": "owner of the vehicle in question and he had employed Accused as the driver. He had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91.34,
+      224.16,
+      530.93,
+      239.37
+    ],
+    "text": "given instructions to the driver not to do any illegal acts using the vehicle (page 109 of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91.41,
+      245.04,
+      139.79,
+      260.24
+    ],
+    "text": "the brief).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      183.02,
+      261.78,
+      528.43,
+      283.13
+    ],
+    "text": "\" ... u(!j2Ji't5JU U,W25J\"\" c:5h ?C5'@ ? @, c tJC5'\"d e2Ji'25J,. uuJ g[hW25J\"\" :1BCJ@",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.329100608825684,
+      9.238207817077637,
+      9.663092613220215,
+      10.304814338684082,
+      10.42430305480957,
+      10.469828605651855,
+      10.921552658081055,
+      11.034736633300781,
+      11.496225357055664,
+      11.699999809265137,
+      12.197186470031738,
+      15.399999618530273,
+      16.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146.04,
+      287.67,
+      528.64,
+      301.96
+    ],
+    "text": "@, (!j@B~6JC5'''''2Ji'@ 25Jut5!uc:B t5J{ijC5'Z5/. 2f5zfj t}C5'oltJ C5',;ud t;:;)o2Ji'25J (jtJ, :1B\"\"c:,",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.594604969024658,
+      8.300000190734863,
+      8.329100608825684,
+      9.41030216217041,
+      9.612044334411621,
+      10.62303352355957,
+      11.01053524017334,
+      11.35321044921875,
+      11.625110626220703,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146.04,
+      303.98,
+      529.98,
+      324.99
+    ],
+    "text": "@, t5J{ijC5'Z5/. uuJ gU,W25J\"\" :1BCJ@ 2f5zfj t}C5'oltJ #\"\",uts/ 2f3(!j,. (jul2f3 #\"'\" Be",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.300000190734863,
+      8.542701721191406,
+      9.30798053741455,
+      9.45773983001709,
+      9.763970375061035,
+      10.466196060180664,
+      10.905901908874512,
+      11.01053524017334,
+      11.699999809265137,
+      11.741925239562988,
+      11.777691841125488,
+      12.30961799621582,
+      13.568781852722168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145.35,
+      330.15,
+      382.82,
+      344.44
+    ],
+    "text": "t;:;)o2Ji'25J (jtJ, :1B\"\"c:, @, U(!j2Ji't5JU \"l1!Jut5! t;:;)G' .. \" \"",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399127006530762,
+      9.660004615783691,
+      10.160345077514648,
+      10.419363021850586,
+      10.68836498260498,
+      10.974027633666992,
+      11.352076530456543,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60.8,
+      369.57,
+      528.2,
+      385.71
+    ],
+    "text": "1 O. Further, he said in evidence that he used to go and inspect the vehicle at the times when",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.000082969665527,
+      11.38243579864502,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91.07,
+      391.19,
+      528.21,
+      406.4
+    ],
+    "text": "he is free. His evidence was that the Accused driver took the vehicle the previous day",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.93,
+      412.08,
+      528.5,
+      427.28
+    ],
+    "text": "stating to transport bricks to Moratuwa. However, during cross examination it was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91.09,
+      432.96,
+      527.78,
+      448.17
+    ],
+    "text": "revealed that the Appellant did not even know from where the bricks were loaded or to be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.30964183807373,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91.34,
+      453.83,
+      127.54,
+      469.03
+    ],
+    "text": "loaded.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60.82,
+      516.83,
+      527.01,
+      532.07
+    ],
+    "text": "11. In case of Mary Matilda Silva V. P.H. de Silva, Inspector of Police, Habarana rCA",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.7564115524292,
+      11.213677406311035,
+      11.219063758850098,
+      11.399999618530273,
+      11.84018611907959,
+      11.872270584106445,
+      11.947025299072266,
+      12.0,
+      13.291997909545898
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.84,
+      537.35,
+      528.3,
+      552.59
+    ],
+    "text": "(PHC) 86/97, decided on 08.07.2010/, His Lordship Justice Sisira de Abrew discussed",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.61,
+      558.23,
+      528.2,
+      573.44
+    ],
+    "text": "about the owner taking all precautions to prevent the use of the vehicle for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.62,
+      579.11,
+      432.96,
+      594.32
+    ],
+    "text": "commission of the offence. His Lordship Justice Sisira de Abrew said;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.947025299072266
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      182.37,
+      610.66,
+      526.54,
+      625.31
+    ],
+    "text": "\"In my view. for the owner of the vehicle to discharge the burden (1)",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.271224021911621,
+      11.6199312210083,
+      11.979632377624512,
+      12.0,
+      13.089033126831055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.58,
+      631.55,
+      527.41,
+      646.2
+    ],
+    "text": "that he/she had taken all precautions to prevent the use of the vehicle for the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.869844436645508,
+      11.913890838623047,
+      11.979632377624512,
+      12.0,
+      13.089033126831055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.63,
+      652.35,
+      527.34,
+      667.07
+    ],
+    "text": "commission of the offence (2) that the vehicle had been used for the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.899999618530273,
+      11.820964813232422,
+      11.979632377624512,
+      12.0,
+      13.089033126831055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.63,
+      673.3,
+      528.23,
+      687.95
+    ],
+    "text": "commission of the offence without his/her knowledge. mere giving instructions",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0,
+      13.089033126831055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.57,
+      693.82,
+      527.25,
+      708.47
+    ],
+    "text": "is not sufficient. In order to discharge the burden embodied in the proviso to",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.6199312210083,
+      11.862107276916504,
+      11.869844436645508,
+      11.958277702331543,
+      11.979632377624512,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.4,
+      714.71,
+      527.52,
+      729.36
+    ],
+    "text": "section 3A of the Animals Act is it sufficient for the owner to say that",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.733695030212402,
+      11.820051193237305,
+      11.862107276916504,
+      11.869844436645508,
+      12.0,
+      13.089033126831055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.57,
+      735.23,
+      527.41,
+      749.88
+    ],
+    "text": "instructions not to use the vehicle for illegal purpose had been given to the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.869844436645508,
+      11.979632377624512,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.3,
+      756.11,
+      528.14,
+      770.76
+    ],
+    "text": "driver? if the courts of this country is going to say that it is sufficient. then all",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.82413101196289,
+      11.6199312210083,
+      11.862107276916504,
+      11.979632377624512,
+      12.0,
+      13.089033126831055,
+      14.037015914916992
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      520.09,
+      783.18,
+      527.76,
+      795.82
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.38,
+      69.22,
+      529.99,
+      83.87
+    ],
+    "text": "what the owner in a case of this nature has to say is that he gave said",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.561747550964355,
+      11.706511497497559,
+      11.856340408325195,
+      11.869844436645508,
+      12.0,
+      13.089033126831055
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.29,
+      90.1,
+      527.78,
+      104.75
+    ],
+    "text": "instructions. Even for the second offence, this is all that he has to say. Then",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.6199312210083,
+      11.774991035461426,
+      11.862107276916504,
+      11.868277549743652,
+      11.979632377624512,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.94,
+      110.98,
+      528.5,
+      125.63
+    ],
+    "text": "there is no end to the commission of the offence and to the use of the vehicle",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.6199312210083,
+      11.862107276916504,
+      11.913890838623047,
+      11.979632377624512,
+      12.0,
+      12.882919311523438
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.19,
+      131.87,
+      529.47,
+      146.52
+    ],
+    "text": "for the commission of the offence. Every time when the vehicle is detected",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.561747550964355,
+      11.979632377624512,
+      12.0,
+      13.089033126831055
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.02,
+      152.75,
+      528.13,
+      167.4
+    ],
+    "text": "with cattle all what he has to say is that he had given instructions to the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.6199312210083,
+      11.856340408325195,
+      11.862107276916504,
+      11.979632377624512,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.66,
+      173.63,
+      528.62,
+      188.28
+    ],
+    "text": "driver. Then the purpose of the legislature in enacting the proviso to section",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.6199312210083,
+      11.958277702331543,
+      11.979632377624512,
+      12.0,
+      13.089033126831055
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.97,
+      194.51,
+      529.01,
+      209.16
+    ],
+    "text": "3A of the Animals Act isfrustrated ... ln the instant case the owner did not call",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.644895553588867,
+      11.667389869689941,
+      12.0,
+      13.089033126831055
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.01,
+      215.39,
+      458.61,
+      230.04
+    ],
+    "text": "her driver and establish that she had given instructions to him. \"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.749536514282227,
+      11.869844436645508,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      91.06,
+      245.64,
+      502.6,
+      260.98
+    ],
+    "text": "Although it was a case under the Animals Act the same principle applies to this case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477377891540527,
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.82,
+      290.64,
+      528.78,
+      305.98
+    ],
+    "text": "12. Appellant has also failed to call the Accused driver to give evidence or to cite him as a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.268163681030273,
+      11.475573539733887,
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      91.06,
+      311.52,
+      528.54,
+      326.87
+    ],
+    "text": "witness, when the driver was the best person other than himself to testify to the fact that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.346221923828125,
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      91.05,
+      332.4,
+      445.21,
+      347.75
+    ],
+    "text": "the Appellant took precautions to prevent the commission of the offence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      12.197638511657715
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.82,
+      374.17,
+      527.97,
+      389.51
+    ],
+    "text": "13. As the learned High Court Judge in his Judgment has rightly observed, the behavior of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.268163681030273,
+      11.453606605529785,
+      11.468606948852539,
+      11.5,
+      11.999310493469238
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      91.06,
+      395.05,
+      527.65,
+      410.4
+    ],
+    "text": "Appellant after the Accused was arrested is also suspicious. He had not even attended to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.310792922973633,
+      11.346221923828125,
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.69,
+      415.92,
+      527.98,
+      431.26
+    ],
+    "text": "the matter when his lorry was taken into custody. Appellant had come to claim the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.7,
+      436.8,
+      527.96,
+      452.15
+    ],
+    "text": "vehicle after about a month. In his evidence, he has said that he did not know that he had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.494949340820312,
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.6,
+      457.68,
+      363.82,
+      473.03
+    ],
+    "text": "committed an offence and that he did not take it serious.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477377891540527,
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.45,
+      499.45,
+      527.73,
+      514.88
+    ],
+    "text": "14. It is unlikely that an owner of a lorry is unaware of the legal position that his vehicle is",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.310792922973633,
+      11.432703018188477,
+      11.444698333740234,
+      11.5,
+      12.197638511657715
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.98,
+      520.33,
+      449.51,
+      535.67
+    ],
+    "text": "liable to be confiscated when timber is transported without a valid permit.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.310792922973633,
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.46,
+      562.08,
+      528.42,
+      577.42
+    ],
+    "text": "15. Although the Appellant in this Petition of Appeal has urged a defect in the charge as a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.268163681030273,
+      11.453606605529785,
+      11.475573539733887,
+      11.5,
+      11.999310493469238
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.62,
+      582.96,
+      528.38,
+      598.31
+    ],
+    "text": "ground of appeal, at the argument stage or by way of written submissions he did not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.32329273223877,
+      11.40173053741455,
+      11.5,
+      11.999310493469238,
+      12.197638511657715
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.74,
+      603.86,
+      173.07,
+      619.2
+    ],
+    "text": "pursue the same.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.46,
+      638.4,
+      528.15,
+      653.74
+    ],
+    "text": "16. In the above premise, the learned High Court Judge has rightly found that the order of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.268163681030273,
+      11.494949340820312,
+      11.5,
+      11.999310493469238
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.98,
+      659.28,
+      527.94,
+      674.63
+    ],
+    "text": "learned Magistrate confiscating the vehicle was in order and that the revision application",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.453606605529785,
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.56,
+      679.81,
+      192.44,
+      695.15
+    ],
+    "text": "should be dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      520.47,
+      783.25,
+      527.81,
+      795.34
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91.03,
+      69.0,
+      527.65,
+      84.2
+    ],
+    "text": "Hence, the order of the learned High Court Judge dated 01.03 .2016 and the order of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.947025299072266,
+      12.144536972045898
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.98,
+      89.79,
+      334.25,
+      105.35
+    ],
+    "text": "learned Magistrate dated 24.11.2011 are affirmed.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.245418548583984,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      131.01,
+      142.44,
+      232.77,
+      157.65
+    ],
+    "text": "Appeal is dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76.59,
+      287.62,
+      236.37,
+      303.41
+    ],
+    "text": "K.K. WICKREMASINGHE, J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      144.61,
+      308.39,
+      182.64,
+      323.6
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      253.41,
+      225.69,
+      463.06,
+      241.48
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.424972534179688
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      253.41,
+      370.78,
+      463.06,
+      386.57
+    ],
+    "text": "JlJDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      520.81,
+      783.01,
+      528.24,
+      796.21
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  }
+]

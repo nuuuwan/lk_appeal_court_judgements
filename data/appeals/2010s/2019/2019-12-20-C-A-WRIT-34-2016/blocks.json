@@ -1,0 +1,5066 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      122.78,
+      71.99,
+      493.97,
+      88.35
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      96.59,
+      446.8,
+      112.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      170.64,
+      444.79,
+      184.64
+    ],
+    "text": "Ceylon Electricity Board,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      191.76,
+      337.27,
+      205.76
+    ],
+    "text": "No.50,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      212.88,
+      475.73,
+      226.88
+    ],
+    "text": "Sir Chittampalam A. Gardiner",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      234.0,
+      356.71,
+      248.0
+    ],
+    "text": "Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      255.15,
+      379.99,
+      269.15
+    ],
+    "text": "P.O. Box 540,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      276.27,
+      365.59,
+      290.27
+    ],
+    "text": "Colombo 2.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      297.39,
+      355.27,
+      311.39
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      360.75,
+      326.23,
+      374.73
+    ],
+    "text": "CA CASE NO: CA/WRIT/34/2016",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      403.01,
+      317.57,
+      417.01
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      277.25,
+      445.37,
+      437.59,
+      459.37
+    ],
+    "text": "1. Hon. John Seneviratne,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      466.49,
+      470.95,
+      480.49
+    ],
+    "text": "Minister of Labour and Trade",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      487.61,
+      396.79,
+      501.61
+    ],
+    "text": "Union Relations,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      508.73,
+      471.19,
+      522.73
+    ],
+    "text": "Ministry of Labour and Trade",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      529.85,
+      396.79,
+      543.85
+    ],
+    "text": "Union Relations,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      550.97,
+      412.39,
+      564.97
+    ],
+    "text": "Labour Secretariat,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      572.12,
+      365.59,
+      586.12
+    ],
+    "text": "Colombo 5.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      277.25,
+      593.24,
+      423.91,
+      607.24
+    ],
+    "text": "2. Hon. Gamini Lokuge,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      614.36,
+      480.07,
+      628.36
+    ],
+    "text": "Former Minister of Labour and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      635.48,
+      403.03,
+      649.48
+    ],
+    "text": "Labour Relations,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      656.6,
+      378.79,
+      670.6
+    ],
+    "text": "No. 157/10A,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      677.72,
+      411.67,
+      691.72
+    ],
+    "text": "Mawiththara Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      698.95,
+      367.51,
+      712.96
+    ],
+    "text": "Piliyandala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.61,
+      180.69,
+      383.29,
+      494.9
+    ],
+    "text": "Website Copy Website Copy",
+    "fonts": [
+      "Arial"
+    ],
+    "sizes": [
+      43.424400329589844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.25,
+      102.24,
+      428.47,
+      116.24
+    ],
+    "text": "3. M.D.C. Amarathunga,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      123.36,
+      496.66,
+      137.36
+    ],
+    "text": "Commissioner General of Labour,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      144.48,
+      412.39,
+      158.48
+    ],
+    "text": "Labour Secretariat,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      165.6,
+      365.59,
+      179.6
+    ],
+    "text": "Colombo 5.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.25,
+      186.72,
+      422.47,
+      200.72
+    ],
+    "text": "4. Palitha Weerasekera,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      207.96,
+      355.75,
+      221.96
+    ],
+    "text": "No. 33/2,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      229.08,
+      445.99,
+      243.08
+    ],
+    "text": "Nimala Mariya Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      250.23,
+      352.39,
+      264.23
+    ],
+    "text": "Handala,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      271.35,
+      348.07,
+      285.35
+    ],
+    "text": "Wattala.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.25,
+      292.47,
+      397.03,
+      306.47
+    ],
+    "text": "5. R.D. Dhanapala,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      313.59,
+      341.11,
+      327.59
+    ],
+    "text": "No. 44,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      334.71,
+      432.79,
+      348.71
+    ],
+    "text": "Jayathillaka Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      355.83,
+      349.75,
+      369.83
+    ],
+    "text": "Hali Ela.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.25,
+      376.95,
+      374.71,
+      390.95
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      440.33,
+      397.15,
+      454.33
+    ],
+    "text": "Before: Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      467.45,
+      432.19,
+      481.45
+    ],
+    "text": "Counsel: Ranga Dayananda for the Petitioner.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.22,
+      488.57,
+      460.42,
+      502.57
+    ],
+    "text": "Vikum De Abrew, S.D.S.G., for the 1st-3rd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214.25,
+      509.81,
+      297.53,
+      523.81
+    ],
+    "text": "Respondents.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      536.93,
+      285.29,
+      550.93
+    ],
+    "text": "Decided on: 18.12.2019",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      618.32,
+      298.13,
+      632.32
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      651.44,
+      500.55,
+      665.44
+    ],
+    "text": "The petitioner filed this application seeking to quash by way of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      672.56,
+      444.79,
+      686.56
+    ],
+    "text": "writ of certiorari the award of the arbitrator marked P2.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.61,
+      180.69,
+      383.29,
+      494.9
+    ],
+    "text": "Website Copy Website Copy",
+    "fonts": [
+      "Arial"
+    ],
+    "sizes": [
+      43.424400329589844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      102.24,
+      500.7,
+      116.24
+    ],
+    "text": "There was a grievance on the part of the 5th respondent, a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      123.36,
+      500.74,
+      137.36
+    ],
+    "text": "former employee of the petitioner, that he had not been given the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      144.48,
+      500.74,
+      158.48
+    ],
+    "text": "due promotion from Store Keeper Grade II to Store Keeper Grade",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      165.6,
+      500.74,
+      179.6
+    ],
+    "text": "I in spite of his passing the competitive examination held on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      186.72,
+      190.1,
+      200.72
+    ],
+    "text": "14.07.2002.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      219.96,
+      500.69,
+      233.96
+    ],
+    "text": "On the recommendation of the Commissioner General of Labour,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      241.11,
+      500.59,
+      255.11
+    ],
+    "text": "the Minister of Labour, acting in terms of section 4(1) of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      262.23,
+      500.74,
+      276.23
+    ],
+    "text": "Industrial Disputes Act, No. 43 of 1950, as amended, referred",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      283.35,
+      463.18,
+      297.35
+    ],
+    "text": "the dispute to the 4th respondent arbitrator for arbitration.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      316.47,
+      500.7,
+      330.47
+    ],
+    "text": "The arbitrator held an inquiry into the matter where both parties",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      337.59,
+      500.69,
+      351.59
+    ],
+    "text": "were fully heard. It is after the said inquiry that the impugned",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      358.71,
+      500.65,
+      372.71
+    ],
+    "text": "award was made by the arbitrator. By that award the petitioner",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      379.83,
+      500.69,
+      393.83
+    ],
+    "text": "was directed to promote the 5th respondent to Class I and place",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      400.95,
+      500.62,
+      414.95
+    ],
+    "text": "him on the relevant salary scale and pay the arrears of salary",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      422.09,
+      478.42,
+      436.09
+    ],
+    "text": "until his date of retirement and arrears of pension thereafter.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      455.21,
+      500.63,
+      469.21
+    ],
+    "text": "There is no complaint that the petitioner was not given a fair",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      476.33,
+      500.7,
+      490.33
+    ],
+    "text": "hearing, or the arbitrator was biased, or there was a procedural",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      497.45,
+      500.74,
+      511.45
+    ],
+    "text": "irregularity in conducing the inquiry or the like. The sole ground",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      518.57,
+      500.74,
+      532.57
+    ],
+    "text": "upon which the petitioner challenges the said award is that the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      539.81,
+      500.72,
+      553.81
+    ],
+    "text": "arbitrator did not properly evaluate the evidenceboth oral and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      560.93,
+      500.71,
+      574.93
+    ],
+    "text": "documentaryled before him, thereby arriving at conclusions",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      582.08,
+      500.71,
+      596.08
+    ],
+    "text": "not supported by evidence. It is on this basis the petitioner",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      603.2,
+      500.74,
+      617.2
+    ],
+    "text": "states that the award is irrational and/or arbitrary and/or illegal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      624.32,
+      500.7,
+      638.38
+    ],
+    "text": "and/or ultra vires and/or null and void. The petitioner also",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      645.44,
+      435.91,
+      659.44
+    ],
+    "text": "states that there is an error on the face of the record.1",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      696.67,
+      499.98,
+      720.06
+    ],
+    "text": "1 It is interesting to note that the petitioner has cited almost all the grounds in general. Vide paragraphs 13-15 of the petition.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.61,
+      180.69,
+      383.29,
+      494.9
+    ],
+    "text": "Website Copy Website Copy",
+    "fonts": [
+      "Arial"
+    ],
+    "sizes": [
+      43.424400329589844
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      102.24,
+      494.62,
+      116.24
+    ],
+    "text": "The 1st and 3rd respondents filed objections to this application.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      135.36,
+      500.74,
+      149.36
+    ],
+    "text": "At the argument before this Court, on behalf of the petitioner,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      156.48,
+      500.61,
+      170.48
+    ],
+    "text": "brief oral submissions were made followed by written",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      177.6,
+      500.74,
+      191.6
+    ],
+    "text": "submissions. However, no submissionsoral or writtenhave",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      198.72,
+      365.59,
+      212.72
+    ],
+    "text": "been made on behalf of the respondents.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      231.96,
+      500.7,
+      245.96
+    ],
+    "text": "It is the contention of the petitioner (in the written submissions)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      253.11,
+      500.64,
+      267.11
+    ],
+    "text": "that although the 5th respondent was successful at the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      274.23,
+      500.74,
+      288.23
+    ],
+    "text": "competitive examination, he could not be promoted to Grade I,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      295.35,
+      500.52,
+      309.35
+    ],
+    "text": "as he did not fulfil the criteria set out in circulars marked R1,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      316.47,
+      205.01,
+      330.47
+    ],
+    "text": "R16 and R17.2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      349.59,
+      500.74,
+      363.59
+    ],
+    "text": "In the first place, I must state that only R1 is a circular; the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      370.71,
+      227.57,
+      384.71
+    ],
+    "text": "other two are not.3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      6.480000019073486,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      403.85,
+      500.5,
+      417.85
+    ],
+    "text": "It is not the complaint of the petitioner that the arbitrator",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      424.97,
+      500.74,
+      438.97
+    ],
+    "text": "ignored the alleged circulars. The said circulars were placed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      446.09,
+      500.74,
+      460.09
+    ],
+    "text": "before the arbitrator at the inquiry and the 5th respondent was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      467.21,
+      500.69,
+      481.21
+    ],
+    "text": "cross examined on them at length. By reading the impugned",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      488.33,
+      500.7,
+      502.33
+    ],
+    "text": "award it is clear that the arbitrator considered them in reaching",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      509.45,
+      200.21,
+      523.45
+    ],
+    "text": "his decision.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      542.57,
+      500.74,
+      556.57
+    ],
+    "text": "Whilst the petitioner was serving as a Store Keeper Grade II, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      563.81,
+      500.67,
+      577.81
+    ],
+    "text": "5th respondent was arrested and then indicted in the High Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      584.96,
+      500.74,
+      598.96
+    ],
+    "text": "for accepting a bribe. Then, the 5th respondents services were",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      606.08,
+      500.74,
+      620.08
+    ],
+    "text": "suspended. However, he was later acquitted by the High Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      627.2,
+      500.66,
+      641.2
+    ],
+    "text": "and reinstated with back wages.4 By the time he was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      648.32,
+      500.63,
+      662.32
+    ],
+    "text": "suspended, he had passed the competitive examination for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      684.91,
+      429.5,
+      720.06
+    ],
+    "text": "2 Vide paragraph 2.3 and 2.4 of the written submissions. 3 Vide page 417 for R1, page 434 for R16 and page 436 for R17. 4 Vide page 401 of P1.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.61,
+      180.69,
+      383.29,
+      494.9
+    ],
+    "text": "Website Copy Website Copy",
+    "fonts": [
+      "Arial"
+    ],
+    "sizes": [
+      43.424400329589844
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      102.24,
+      500.7,
+      116.24
+    ],
+    "text": "promotion. It appears there is a training successful officers",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      123.36,
+      500.69,
+      137.36
+    ],
+    "text": "undergo before they are given the promotion. The eleven Grade II",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      144.48,
+      500.74,
+      158.48
+    ],
+    "text": "officers who passed the examination together with the 5th",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      165.6,
+      500.74,
+      179.6
+    ],
+    "text": "respondent had been given the training during the 5th",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      186.72,
+      500.69,
+      200.72
+    ],
+    "text": "respondents period of suspension and their promotions have",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      207.96,
+      500.74,
+      221.96
+    ],
+    "text": "been given. It appears that the training was for only one week.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      229.08,
+      500.74,
+      243.08
+    ],
+    "text": "After reinstatement upon acquittal from the High Court case, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      250.23,
+      500.7,
+      264.23
+    ],
+    "text": "5th respondent worked in the CEB (the petitioner) for more than",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      271.35,
+      387.91,
+      285.35
+    ],
+    "text": "one year and two months before retirement.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      304.47,
+      500.74,
+      318.47
+    ],
+    "text": "During this period, the 5th respondent made several requests to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      325.59,
+      500.67,
+      339.59
+    ],
+    "text": "the petitioner to grant him the promotion. He complained to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      346.71,
+      500.74,
+      360.71
+    ],
+    "text": "Commissioner General of Labour, the Human Rights",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      367.83,
+      334.39,
+      381.83
+    ],
+    "text": "Commission etc. about this matter.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      400.95,
+      500.74,
+      414.95
+    ],
+    "text": "At that stage, the petitioners only defence was that the 5th",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      422.09,
+      500.74,
+      436.09
+    ],
+    "text": "respondent could not be given the promotion because he had",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      443.21,
+      500.66,
+      457.21
+    ],
+    "text": "not undergone the training5, which is, according to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      464.33,
+      500.74,
+      478.39
+    ],
+    "text": "petitioner, a sine qua non for the promotion to be granted. Both",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      485.57,
+      500.67,
+      499.57
+    ],
+    "text": "the Commissioner of Labour6 and the Human Rights",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      506.69,
+      500.74,
+      520.69
+    ],
+    "text": "Commission7 directed/recommended the promotion be granted,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      527.81,
+      500.73,
+      541.81
+    ],
+    "text": "as it is the responsibility of the employer to give the required",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      548.93,
+      300.53,
+      562.93
+    ],
+    "text": "training to the 5th respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      582.08,
+      500.74,
+      596.08
+    ],
+    "text": "It seems that the petitioner took up the new position, i.e. the 5th",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      603.2,
+      500.56,
+      617.2
+    ],
+    "text": "respondent has not satisfied the other requirements stated in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      624.32,
+      457.06,
+      638.32
+    ],
+    "text": "R1, R16 and R17, for the first time before the arbitrator.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      684.91,
+      253.32,
+      720.06
+    ],
+    "text": "5 Vide page 394 of P1. 6 Vide page 391-393 of P1. 7 Vide pages 395-397 of P1.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      77.61,
+      180.69,
+      383.29,
+      494.9
+    ],
+    "text": "Website Copy Website Copy",
+    "fonts": [
+      "Arial"
+    ],
+    "sizes": [
+      43.424400329589844
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      102.24,
+      500.74,
+      116.24
+    ],
+    "text": "The petitioner says that according to the internal circular R1,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      123.36,
+      500.74,
+      137.36
+    ],
+    "text": "the 5th respondent should have earned all the increments during",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      144.48,
+      500.64,
+      158.48
+    ],
+    "text": "the preceding three years to be eligible for the promotion, but",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      165.6,
+      500.65,
+      179.6
+    ],
+    "text": "the 5th respondent did not get the increment for one year due to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      186.72,
+      439.27,
+      200.72
+    ],
+    "text": "his admission of guilt involving a false medical claim.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      219.96,
+      500.73,
+      233.96
+    ],
+    "text": "R16 and R17 are not circulars: they are guidelines to be used in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      241.11,
+      250.13,
+      255.11
+    ],
+    "text": "granting promotions.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      274.23,
+      500.67,
+      288.23
+    ],
+    "text": "According to R16, to be eligible for promotion the officer should",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      295.35,
+      439.27,
+      309.35
+    ],
+    "text": "not have been punished in the preceding three years.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      328.47,
+      500.74,
+      342.47
+    ],
+    "text": "It appears there has not been a consistent policy in granting",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      349.59,
+      500.66,
+      363.59
+    ],
+    "text": "promotions, and the petitioner has not been very serious in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      370.71,
+      500.67,
+      384.71
+    ],
+    "text": "issuing guidelines. For instance, there is a vast difference",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      391.83,
+      500.73,
+      405.83
+    ],
+    "text": "between denial of an increment as a punishment in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      412.97,
+      500.69,
+      426.97
+    ],
+    "text": "preceding three years, and any punishment in the preceding",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      434.09,
+      188.18,
+      448.09
+    ],
+    "text": "three years.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      467.21,
+      500.7,
+      481.21
+    ],
+    "text": "In regard to the matter of making a false medical claim, as the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      488.33,
+      500.59,
+      502.33
+    ],
+    "text": "arbitrator in the award has stated, there is no document which",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      509.45,
+      500.74,
+      523.45
+    ],
+    "text": "says the 5th respondent pleaded guilty to the charge. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      530.57,
+      500.74,
+      544.57
+    ],
+    "text": "petitioner in the written submission points to R3 in that regard.8",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      551.81,
+      500.74,
+      565.81
+    ],
+    "text": "This document shows that the disciplinary inquiry regarding the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      572.96,
+      500.71,
+      586.96
+    ],
+    "text": "false medical claim was suspended because the 5th respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      594.08,
+      500.69,
+      608.08
+    ],
+    "text": "expressed his willingness to pay back the money he obtained by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      615.2,
+      259.01,
+      629.2
+    ],
+    "text": "tendering false receipts.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      648.32,
+      500.66,
+      662.32
+    ],
+    "text": "The arbitrator has taken the view that it is not proper to punish",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      669.44,
+      500.55,
+      683.44
+    ],
+    "text": "an officer without holding a disciplinary inquiry and also not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      708.43,
+      226.32,
+      720.06
+    ],
+    "text": "8 Vide page 417 in P1.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.61,
+      180.69,
+      383.29,
+      494.9
+    ],
+    "text": "Website Copy Website Copy",
+    "fonts": [
+      "Arial"
+    ],
+    "sizes": [
+      43.424400329589844
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "7",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      102.24,
+      500.74,
+      116.24
+    ],
+    "text": "proper to take into account a punishment given in such",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      123.36,
+      500.74,
+      137.36
+    ],
+    "text": "circumstances when granting a promotion. The arbitrator, as I",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      144.48,
+      499.78,
+      158.48
+    ],
+    "text": "will explain below, is entitled to take such a view. It is not illegal.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      177.6,
+      500.74,
+      191.6
+    ],
+    "text": "The said punishment (denial of an increment and deprivation of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      198.72,
+      500.74,
+      212.72
+    ],
+    "text": "health insurance benefits for 5 years) was given before the 5th",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      219.96,
+      500.73,
+      233.96
+    ],
+    "text": "respondent had been granted permission to sit for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      241.11,
+      500.7,
+      255.11
+    ],
+    "text": "competitive examination. The arbitrator in the award has taken",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      262.23,
+      500.73,
+      276.23
+    ],
+    "text": "the view that, if that punishment is a positive bar to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      283.35,
+      500.74,
+      297.35
+    ],
+    "text": "promotion, the petitioner should not have recommended the 5th",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      304.47,
+      340.87,
+      318.47
+    ],
+    "text": "respondent to sit for the examination.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      337.59,
+      500.69,
+      351.59
+    ],
+    "text": "Another allegation brought against the 5th respondent before the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      358.71,
+      504.51,
+      372.71
+    ],
+    "text": "arbitrator was shortages and excesses in stocks in the stores.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      379.83,
+      500.71,
+      393.83
+    ],
+    "text": "This stock taking was done in the absence of the 5th respondent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      400.95,
+      500.73,
+      414.95
+    ],
+    "text": "when he had been under interdiction. According to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      422.09,
+      500.74,
+      436.09
+    ],
+    "text": "petitioner, this shows the failure on the part of the 5th",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      443.21,
+      500.7,
+      457.21
+    ],
+    "text": "respondent to properly maintain an inventory.9 As the arbitrator",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      464.33,
+      500.73,
+      478.33
+    ],
+    "text": "has stated in the award, if the 5th respondent committed a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      485.45,
+      500.65,
+      499.45
+    ],
+    "text": "serious offence, a disciplinary inquiry should have been held on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      506.57,
+      500.74,
+      520.57
+    ],
+    "text": "that matter upon a charge sheet. No such inquiry was held.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      527.81,
+      500.73,
+      541.81
+    ],
+    "text": "Some money had been deducted from the 5th respondents salary",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      548.93,
+      500.72,
+      562.93
+    ],
+    "text": "in this regard and was later returned withholding a small",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      570.08,
+      500.71,
+      584.08
+    ],
+    "text": "amount. The petitioner states this was done on humanitarian",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      591.2,
+      178.82,
+      605.2
+    ],
+    "text": "grounds.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      624.32,
+      500.66,
+      638.32
+    ],
+    "text": "In reference to R17, the petitioner states that to be promoted in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      645.44,
+      504.58,
+      659.44
+    ],
+    "text": "the service of store keeper, a person shall pass an interview.10",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      696.67,
+      361.22,
+      720.06
+    ],
+    "text": "9 Vide paragraph 2.20 of the written submission. 10 Vide paragraph 2.25 of the written submission.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.61,
+      180.69,
+      383.29,
+      494.9
+    ],
+    "text": "Website Copy Website Copy",
+    "fonts": [
+      "Arial"
+    ],
+    "sizes": [
+      43.424400329589844
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "8",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      102.24,
+      500.72,
+      116.24
+    ],
+    "text": "The 5th respondent did not have any control over this. It is the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      123.36,
+      418.15,
+      137.36
+    ],
+    "text": "responsibility of the employer to call for interviews.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      156.48,
+      500.69,
+      170.48
+    ],
+    "text": "The petitioner, both in the petition and in the written",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      177.6,
+      500.74,
+      191.6
+    ],
+    "text": "submission, has stated that unless the award marked P2 is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      198.72,
+      500.58,
+      212.72
+    ],
+    "text": "quashed, irreparable loss and damage would be caused to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      219.96,
+      500.73,
+      233.96
+    ],
+    "text": "petitioner. There is no meaning to that claim. Rejection of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      241.11,
+      500.64,
+      255.11
+    ],
+    "text": "application will not cause irreparable loss and damage to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      262.23,
+      179.06,
+      276.23
+    ],
+    "text": "petitioner.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      295.35,
+      500.74,
+      309.35
+    ],
+    "text": "Having considered all matters, the arbitrator has decided to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      316.47,
+      323.95,
+      330.47
+    ],
+    "text": "grant reliefs to the 5th respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      349.59,
+      473.86,
+      363.59
+    ],
+    "text": "Section 17(1) of the Industrial Disputes Act reads as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      382.71,
+      500.25,
+      396.77
+    ],
+    "text": "When an industrial dispute has been referred under section",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      403.85,
+      500.28,
+      417.91
+    ],
+    "text": "3(1)(d) or section 4(1) to an arbitrator for settlement by",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      424.97,
+      500.46,
+      439.03
+    ],
+    "text": "arbitration, he shall make all such inquiries into the dispute",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      446.09,
+      500.5,
+      460.15
+    ],
+    "text": "as he may consider necessary, hear such evidence as may",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      467.21,
+      500.31,
+      481.27
+    ],
+    "text": "be tendered by the parties to the dispute, and thereafter",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      488.33,
+      500.5,
+      502.39
+    ],
+    "text": "make such award as may appear to him just and equitable.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      509.45,
+      500.48,
+      523.51
+    ],
+    "text": "A labour tribunal shall give priority to the proceedings for",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      530.57,
+      500.26,
+      544.63
+    ],
+    "text": "the settlement of any industrial dispute that is referred to it",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      551.81,
+      319.01,
+      565.87
+    ],
+    "text": "for settlement by arbitration.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      584.96,
+      500.5,
+      599.02
+    ],
+    "text": "In Asian Hotels and Properties PLC v. Benjamin [2013] 1 Sri LR",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      606.08,
+      500.67,
+      620.14
+    ],
+    "text": "407 at 419, Bandaranayake C.J. whilst referring to section 17(1)",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      627.2,
+      336.31,
+      641.2
+    ],
+    "text": "of the Industrial Disputes Act stated:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      660.32,
+      500.26,
+      674.38
+    ],
+    "text": "An Arbitrator, who has been empowered to make such",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      681.43,
+      500.43,
+      695.5
+    ],
+    "text": "award should do so, as may appear to him just and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.22,
+      702.55,
+      500.18,
+      716.62
+    ],
+    "text": "equitable. Section 17 of the Industrial Disputes Act, referred",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77.61,
+      180.69,
+      383.29,
+      494.9
+    ],
+    "text": "Website Copy Website Copy",
+    "fonts": [
+      "Arial"
+    ],
+    "sizes": [
+      43.424400329589844
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "9",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      102.24,
+      500.43,
+      116.3
+    ],
+    "text": "to earlier, clearly had granted an unfettered discretion for",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      123.36,
+      441.91,
+      137.42
+    ],
+    "text": "the Arbitrator to mete out just and equitable relief.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      156.48,
+      500.5,
+      170.54
+    ],
+    "text": "In Brown & Company PLC v. Minister of Labour [2011] 1 Sri LR",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      177.6,
+      314.69,
+      191.66
+    ],
+    "text": "305 at 316-317, Marsoof J. held:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      210.84,
+      500.19,
+      224.9
+    ],
+    "text": "Arbitration under the Industrial Disputes Act is intended to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      231.96,
+      500.4,
+      246.02
+    ],
+    "text": "be even more liberal, informal and flexible than commercial",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      253.11,
+      500.39,
+      267.17
+    ],
+    "text": "arbitration, primarily because the Arbitrator is empowered",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      274.23,
+      500.48,
+      288.29
+    ],
+    "text": "to make an award which is just and equitable. When an",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      295.35,
+      500.49,
+      309.41
+    ],
+    "text": "industrial dispute has been referred under Section 3(1)(d) or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      316.47,
+      500.43,
+      330.53
+    ],
+    "text": "Section 4(1) of the Industrial Disputes Act to an Arbitrator",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      337.59,
+      500.41,
+      351.65
+    ],
+    "text": "for settlement by arbitration, Section 17(1) of the said Act",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      358.71,
+      500.46,
+      372.77
+    ],
+    "text": "requires such Arbitrator to make all such inquiries into the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      379.83,
+      500.2,
+      393.89
+    ],
+    "text": "dispute as he may consider necessary, hear such evidence",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      400.95,
+      500.2,
+      415.01
+    ],
+    "text": "as may be tendered by the parties to the dispute, and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      422.09,
+      500.42,
+      436.15
+    ],
+    "text": "thereafter make such award as may appear to him just and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      443.21,
+      500.4,
+      457.27
+    ],
+    "text": "equitable. In my view, the word make as used in the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      464.45,
+      500.35,
+      478.51
+    ],
+    "text": "said provision, has the effect of throwing the ball in to the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      485.57,
+      500.23,
+      499.63
+    ],
+    "text": "Arbitrators court, so to speak, and requires him to initiate",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      506.69,
+      500.39,
+      520.75
+    ],
+    "text": "what inquiries he considers are necessary. The Arbitrator is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      527.81,
+      500.41,
+      541.87
+    ],
+    "text": "not simply called upon to hold an inquiry, where the ball",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      548.93,
+      500.43,
+      562.99
+    ],
+    "text": "would be in the court of the parties to the dispute and, it",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      570.08,
+      500.22,
+      584.14
+    ],
+    "text": "would be left to them to tender what evidence they consider",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      591.2,
+      500.45,
+      605.26
+    ],
+    "text": "necessary requiring the arbitrator to be just a judge",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      612.32,
+      500.43,
+      626.38
+    ],
+    "text": "presiding over the inquiry, the control and progress of which",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      633.44,
+      500.5,
+      647.5
+    ],
+    "text": "will be in the hands of the parties themselves or their",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      654.56,
+      500.26,
+      668.62
+    ],
+    "text": "Counsel. What the Industrial Disputes Act has done",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      675.68,
+      500.13,
+      689.74
+    ],
+    "text": "appears to me to be to substitute in place of the rigid",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      696.79,
+      500.43,
+      710.86
+    ],
+    "text": "procedures of the law envisaged by the adversarial",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77.61,
+      180.69,
+      383.29,
+      494.9
+    ],
+    "text": "Website Copy Website Copy",
+    "fonts": [
+      "Arial"
+    ],
+    "sizes": [
+      43.424400329589844
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      298.61,
+      47.98,
+      317.33,
+      61.98
+    ],
+    "text": "10",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      102.24,
+      500.4,
+      116.3
+    ],
+    "text": "system, a new and more flexible procedure, which is in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      123.36,
+      500.48,
+      137.42
+    ],
+    "text": "keeping with the fashion in which equity in English law",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      144.48,
+      500.16,
+      158.54
+    ],
+    "text": "gave relief to the litigants from the rigidity of the common",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      165.6,
+      500.5,
+      179.66
+    ],
+    "text": "law. The function of the arbitral power in relation to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      186.72,
+      500.5,
+      200.78
+    ],
+    "text": "industrial disputes is to ascertain and declare what in the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      207.96,
+      500.5,
+      222.02
+    ],
+    "text": "opinion of the Arbitrator ought to be the respective rights",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      229.08,
+      500.25,
+      243.14
+    ],
+    "text": "and liabilities of the parties as they exist at the moment the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      250.23,
+      500.2,
+      264.29
+    ],
+    "text": "proceedings are instituted. His role is more inquisitorial,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      271.35,
+      500.45,
+      285.41
+    ],
+    "text": "and he has a duty to go in search for the evidence, and he",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      292.47,
+      500.27,
+      306.53
+    ],
+    "text": "is not strictly required to follow the provisions of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      313.59,
+      500.4,
+      327.65
+    ],
+    "text": "Evidence Ordinance in doing so. Just as much as the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      334.71,
+      500.2,
+      348.77
+    ],
+    "text": "procedure before the arbitrator is not governed by the rigid",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      355.83,
+      500.45,
+      369.89
+    ],
+    "text": "provisions of the Evidence Ordinance, the procedure",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      376.95,
+      500.36,
+      391.01
+    ],
+    "text": "followed by him need not be fettered by the rigidity of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      398.07,
+      179.78,
+      412.13
+    ],
+    "text": "law.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      431.21,
+      500.49,
+      445.27
+    ],
+    "text": "Kalamazoo Industries Ltd v. Minister of Labour and Vocational",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      452.33,
+      500.67,
+      466.39
+    ],
+    "text": "Training [1998] 1 Sri LR 235 at 249, F.N.D. Jayasuriya J.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      473.57,
+      174.74,
+      487.57
+    ],
+    "text": "observed:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      506.69,
+      500.42,
+      520.75
+    ],
+    "text": "Relief by way of certiorari in relation to an award made by",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      527.81,
+      500.32,
+      541.87
+    ],
+    "text": "an arbitrator will be forthcoming to quash such an award",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      548.93,
+      500.5,
+      562.99
+    ],
+    "text": "only if the arbitrator wholly or in part assumes a",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      570.08,
+      500.25,
+      584.14
+    ],
+    "text": "jurisdiction which he does not have or exceeds that which",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      591.2,
+      500.14,
+      605.26
+    ],
+    "text": "he has or acts contrary to principles of natural justice or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      612.32,
+      500.5,
+      626.38
+    ],
+    "text": "pronounces an award which is eminently irrational or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      633.44,
+      500.23,
+      647.5
+    ],
+    "text": "unreasonable or is guilty of an illegality. The remedy by",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      654.56,
+      500.43,
+      668.62
+    ],
+    "text": "way of certiorari cannot be made use of to correct errors or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      675.68,
+      500.35,
+      689.74
+    ],
+    "text": "to substitute a correct order for a wrong order and if the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      696.79,
+      500.4,
+      710.86
+    ],
+    "text": "arbitrator's award was not set aside in whole or in part, it",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.61,
+      180.69,
+      383.29,
+      494.9
+    ],
+    "text": "Website Copy Website Copy",
+    "fonts": [
+      "Arial"
+    ],
+    "sizes": [
+      43.424400329589844
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      298.61,
+      47.98,
+      317.33,
+      61.98
+    ],
+    "text": "11",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      102.24,
+      500.32,
+      116.3
+    ],
+    "text": "had to be allowed to stand unreversed. It is pertinent to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      123.36,
+      500.5,
+      137.42
+    ],
+    "text": "refer to the principles laid down by Prof. H.W.R. Wade on",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      144.48,
+      500.48,
+      158.54
+    ],
+    "text": "Administrative Law 12th edition at pages 34 to 35",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      165.6,
+      500.4,
+      179.66
+    ],
+    "text": "wherein the learned author states: Judicial review is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      186.72,
+      500.49,
+      200.78
+    ],
+    "text": "radically different from the system of appeals. When",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      207.96,
+      500.2,
+      222.02
+    ],
+    "text": "hearing an appeal, the court is concerned with the merits of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      229.08,
+      500.39,
+      243.14
+    ],
+    "text": "the decision under appeal. But in judicial review, the court",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      250.23,
+      500.33,
+      264.29
+    ],
+    "text": "is concerned with its legality. On appeal, the question is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      271.35,
+      500.39,
+      285.41
+    ],
+    "text": "right or wrong. On review, the question is lawful or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      292.47,
+      500.31,
+      306.53
+    ],
+    "text": "unlawful..judicial review is a fundamentally different",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      313.59,
+      500.49,
+      327.65
+    ],
+    "text": "operation. Instead of substituting its own decision for that",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      334.71,
+      500.48,
+      348.77
+    ],
+    "text": "of some other body, as happens when an appeal is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      355.83,
+      500.23,
+      369.89
+    ],
+    "text": "allowed, a court, on review, is concerned only with whether",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      376.95,
+      500.43,
+      391.01
+    ],
+    "text": "the act or order under attack should be allowed to stand or",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      398.07,
+      500.22,
+      412.13
+    ],
+    "text": "not. In the circumstances the objective of this court upon",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      419.21,
+      500.36,
+      433.27
+    ],
+    "text": "judicial review in this application is to strictly consider",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      440.33,
+      500.23,
+      454.39
+    ],
+    "text": "whether the whole or part of the award of the arbitrator is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      461.45,
+      500.17,
+      475.51
+    ],
+    "text": "lawful or unlawful. This court ought not to exercise its",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      482.57,
+      500.28,
+      496.63
+    ],
+    "text": "appellate powers and jurisdiction when engaged in the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      503.81,
+      500.48,
+      517.87
+    ],
+    "text": "exercise of supervisory jurisdiction and judicial review of an",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      524.93,
+      287.09,
+      538.99
+    ],
+    "text": "award of an arbitrator.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      558.05,
+      500.49,
+      572.05
+    ],
+    "text": "The arbitrator is not bound to follow the alleged circulars to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      579.2,
+      500.69,
+      593.2
+    ],
+    "text": "extreme letter. He shall direct his attention to them, but he is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      600.32,
+      500.66,
+      614.32
+    ],
+    "text": "free to not follow them, by giving reasons, when making a just",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      621.44,
+      241.49,
+      635.44
+    ],
+    "text": "and equitable order.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      654.56,
+      500.66,
+      668.56
+    ],
+    "text": "The award of the arbitrator is not perverse. It is, in my view,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      675.68,
+      500.69,
+      689.68
+    ],
+    "text": "coherent. It may well be that the facts of this case can be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      696.79,
+      504.49,
+      710.8
+    ],
+    "text": "interpreted in the manner suggested by the petitioner as well.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77.61,
+      180.69,
+      383.29,
+      494.9
+    ],
+    "text": "Website Copy Website Copy",
+    "fonts": [
+      "Arial"
+    ],
+    "sizes": [
+      43.424400329589844
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      298.61,
+      47.98,
+      317.33,
+      61.98
+    ],
+    "text": "12",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      102.24,
+      500.69,
+      116.24
+    ],
+    "text": "That shall not be the yardstick to overturn or quash the decision",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      123.36,
+      500.64,
+      137.36
+    ],
+    "text": "of the arbitrator by certiorari. What the law requires the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      144.48,
+      500.67,
+      158.48
+    ],
+    "text": "arbitrator to do is to make a just and equitable order at the end",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      165.6,
+      424.87,
+      179.6
+    ],
+    "text": "of the day. This the arbitrator has done in this case.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      198.72,
+      446.47,
+      212.72
+    ],
+    "text": "I dismiss the application of the petitioner without costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      298.23,
+      287.09,
+      312.23
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      77.61,
+      180.69,
+      383.29,
+      494.9
+    ],
+    "text": "Website Copy Website Copy",
+    "fonts": [
+      "Arial"
+    ],
+    "sizes": [
+      43.424400329589844
+    ]
+  }
+]
