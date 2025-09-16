@@ -7,28 +7,28 @@ A collection of Appeals documents.
 |   |    |
 | :-- | --: |
 | Data Source | courtofappeal.lk |
-| Date Range | 2012-04-23 to 2025-09-11 |
-| Number of Docs | 9,416 |
-| Number of Docs with PDFs | 8,771 |
-| Dataset Size | 9.1GB |
+| Date Range | 2012-04-23 to 2025-09-15 |
+| Number of Docs | 10,000 |
+| Number of Docs with PDFs | 8,965 |
+| Dataset Size | 9.2GB |
 
 ## Document Metadata Example
 
 ```json
 {
-    "num": "CA/WRT/0475/2019",
-    "date_str": "2025-09-11",
-    "description": "Mudaliperuge Manel Rupa Ranjani Kulathunga Vs M. U. Nishantha, Divisional Secretary, Galewela and ten others before Hon. K.M.G.H. Kulatunga, J.",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=28f6df4f-d61e-469a-a1b8-a65c7e840138&filename=WRT-0475-19%20-%2010.09.2025.pdf.pdf",
+    "num": "CA/ PHC/ 140/ 2020",
+    "date_str": "2025-09-15",
+    "description": "Liyana Arachchige Asanka Maduranga Vs. Jayaratna Muhandiramge Lasantha Sanjula before Hon. Damith Thotawatte, J.",
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ed6141e8-3216-4dce-b736-c7fb13560cad&filename=CA%20PHC%20140-20%20Judgment%20%28Final%29.pdf.pdf",
     "url_metadata": "https://courtofappeal.lk/?page_id=13121",
-    "parties": "Mudaliperuge Manel Rupa Ranjani Kulathunga Vs M. U. Nishantha, Divisional Secretary, Galewela and ten others",
-    "judgement_by": "Hon. K.M.G.H. Kulatunga, J.",
-    "keywords": "Land Development Ordinance (LDO) permit \u2022 succession \u2022 legitimate expectation (procedural & substantive) \u2022 cancellation of permits \u2022 laches \u2022 occupation",
-    "legistation": "Article 140 of the Constitution of Sri Lanka \u2022 Land Development Ordinance (LDO)"
+    "parties": "Liyana Arachchige Asanka Maduranga Vs. Jayaratna Muhandiramge Lasantha Sanjula",
+    "judgement_by": "Hon. Damith Thotawatte, J.",
+    "keywords": "Section 66 and 68 of the PCPA, Section 72 of the PCPA- wide discretion for Primary Court Judge, Claims to ownership \u2013 irrelevant, Control of the premises",
+    "legistation": "The Constitution of the Socialist Democratic Republic of Sri Lanka The Primary Courts\u2019 Procedure Act No. 44 of 1979"
 }
 ```
 
-[source data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-09-11-CA-WRT-0475-2019)
+[source data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-09-15-CA--PHC--140--2020)
 
 ## Documents By Year
 
@@ -41,6 +41,7 @@ A collection of Appeals documents.
 
 ## 20 Latest documents
 
+- 2025-09-15 | `CA/ PHC/ 140/ 2020` | Liyana Arachchige Asanka Maduranga Vs. Jayaratna Muhandiramge Lasantha Sanjula before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-09-15-CA--PHC--140--2020)
 - 2025-09-11 | `CA/WRT/0475/2019` | Mudaliperuge Manel Rupa Ranjani Kulathunga Vs M. U. Nishantha, Divisional Secretary, Galewela and ten others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-09-11-CA-WRT-0475-2019)
 - 2025-09-10 | `CA/WRT/811/2025` | A. A. F. Farween Vs The Secretary of the Judicial Service Commission and Hon. Attorney General before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-09-10-CA-WRT-811-2025)
 - 2025-09-10 | `CA /HCC/ 292-295/2024` | Kohona Koralalage Chandraratna Bandara and others Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-09-10-CA--HCC--292-295-2024)
@@ -60,4 +61,3 @@ A collection of Appeals documents.
 - 2025-08-29 | `CA-WRT-293/21` | Mohamed Alavi Navaz Caffoor and others Vs The Director Mosque and Muslim Charitable Trusts or Wakfs and others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-08-29-CA-WRT-293-21)
 - 2025-08-29 | `CA/WRT/147/2024` | The Petroleum Dealers’ Association, Lanka Filling Station, Vs Ceylon Petroleum Corporation, before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-08-29-CA-WRT-147-2024)
 - 2025-08-29 | `CA/RII/0086/2024` | Dissanayake Mudiyanselage Darmasena Bandara, Vs Wanasinghe Mudiyanselage Jayasinghe Bandara, before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-08-29-CA-RII-0086-2024)
-- 2025-08-29 | `CA(PHC)/0030/2020` | Raj Fernando Vs. Subramaniam Sathasiwam & 1 Other before Hon. K. M. S. DISSANAYAKE, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-08-29-CA-PHC--0030-2020)
