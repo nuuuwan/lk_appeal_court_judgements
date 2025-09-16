@@ -34,6 +34,7 @@ class AppealsDoc(AbstractDoc):
         return "/".join(
             [
                 self.remote_data_url_base(),
-                self.dir_doc_extended_without_base,
+                self.__class__.get_dir_docs_for_cls_relative(),
+                self.dir_doc_relative_to_class,
             ]
         )
