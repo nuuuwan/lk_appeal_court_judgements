@@ -1,0 +1,2467 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      -0.21,
+      57.12,
+      4.13,
+      67.84
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.800099849700928
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -2.46,
+      65.51,
+      18.0,
+      159.73
+    ],
+    "text": "~ J 1 i I I",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.9142813682556152,
+      7.900100231170654,
+      12.600000381469727,
+      13.300000190734863,
+      33.5,
+      36.79999923706055
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -1.8,
+      152.55,
+      10.65,
+      183.33
+    ],
+    "text": "~ ]",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      1.3469966650009155,
+      22.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -2.25,
+      185.91,
+      14.75,
+      302.67
+    ],
+    "text": "1 1 l i l I I i I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727,
+      11.100000381469727,
+      13.0,
+      14.300000190734863,
+      14.600000381469727,
+      17.5,
+      20.5,
+      30.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -2.0,
+      328.79,
+      14.01,
+      368.36
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      28.799999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      198.73,
+      124.76,
+      461.89,
+      140.87
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.22917652130127,
+      11.260079383850098,
+      11.267194747924805,
+      11.360679626464844,
+      11.523214340209961,
+      11.562541961669922,
+      11.567955017089844
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      233.4,
+      152.84,
+      426.12,
+      168.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.029911041259766,
+      11.24786376953125,
+      11.267194747924805,
+      11.290949821472168,
+      11.390095710754395
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      132.54,
+      270.92,
+      286.15,
+      288.89
+    ],
+    "text": "CA Restitution 927/2008",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      132.69,
+      303.33,
+      259.29,
+      321.3
+    ],
+    "text": "D.C. Matara P/16631",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.83,
+      738.06,
+      334.42,
+      750.56
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.98,
+      208.01,
+      499.68,
+      221.89
+    ],
+    "text": "Lakshmi Mangalika Sooriyarachchi",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.38,
+      226.17,
+      437.82,
+      239.94
+    ],
+    "text": "Substituted Plaintiff",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      370.33,
+      336.33,
+      385.38,
+      350.1
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.9,
+      363.77,
+      463.16,
+      377.65
+    ],
+    "text": "1. Chandrasiri Eidiriweera",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.774815559387207,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.16,
+      381.77,
+      440.33,
+      395.65
+    ],
+    "text": "2. Ranjan Ediriweera",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.857181549072266,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      353.55,
+      399.93,
+      412.06,
+      413.7
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      353.05,
+      435.7,
+      461.12,
+      449.47
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      353.54,
+      471.77,
+      466.54,
+      485.65
+    ],
+    "text": "Mendis Silva Ediriweera",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      353.79,
+      490.17,
+      404.43,
+      503.94
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      353.29,
+      526.17,
+      368.34,
+      539.94
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      353.78,
+      561.77,
+      516.99,
+      575.65
+    ],
+    "text": "Lakshmi Mangalika Sooriyarachchi",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      353.66,
+      579.93,
+      526.81,
+      593.7
+    ],
+    "text": "Substituted Plaintiff - Respondent",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      353.61,
+      615.77,
+      460.98,
+      629.65
+    ],
+    "text": "Chandrasiri Ediriweera",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.0,
+      651.55,
+      440.56,
+      665.42
+    ],
+    "text": "Ranjan Ediriweera",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      353.85,
+      685.64,
+      468.53,
+      700.58
+    ],
+    "text": "1 at and 2nd Defendants -",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.699999809265137,
+      6.838763236999512,
+      10.0,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.03,
+      705.21,
+      424.69,
+      718.98
+    ],
+    "text": "Respondents.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      595.86,
+      298.1,
+      601.25,
+      324.75
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      19.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      596.1,
+      349.24,
+      601.89,
+      391.9
+    ],
+    "text": "I!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      19.600000381469727,
+      20.799999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      596.42,
+      412.15,
+      601.97,
+      427.4
+    ],
+    "text": "i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      596.39,
+      455.7,
+      601.73,
+      485.01
+    ],
+    "text": "i I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727,
+      17.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      596.22,
+      497.39,
+      600.47,
+      518.41
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      595.84,
+      534.21,
+      603.79,
+      573.5
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      28.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      594.74,
+      548.21,
+      607.95,
+      613.47
+    ],
+    "text": "f,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.70009994506836,
+      47.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      595.12,
+      607.44,
+      603.07,
+      655.59
+    ],
+    "text": "i iI",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.800099849700928,
+      15.100000381469727,
+      28.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      596.17,
+      647.03,
+      600.49,
+      662.93
+    ],
+    "text": "~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      5.2416791915893555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129.34,
+      67.9,
+      468.54,
+      85.42
+    ],
+    "text": "BEFORE : Deepali Wijesundera J.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      11.915855407714844,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      340.55,
+      94.85,
+      437.88,
+      111.34
+    ],
+    "text": "M.M.A. Gaffoor J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.57041072845459,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.96,
+      125.02,
+      480.02,
+      142.07
+    ],
+    "text": "COUNSEL Lasitha Chaminda for the",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      340.31,
+      156.05,
+      395.33,
+      172.54
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      340.06,
+      186.78,
+      470.28,
+      203.27
+    ],
+    "text": "H. Withanachchi for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.495494842529297,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      340.04,
+      217.73,
+      491.1,
+      234.22
+    ],
+    "text": "Defendants - Respondents.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.4,
+      247.97,
+      422.25,
+      264.95
+    ],
+    "text": "ARGUED ON : 14th July, 2015",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.964584350585938,
+      11.399999618530273,
+      11.42068099975586,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.63,
+      274.55,
+      423.69,
+      295.72
+    ],
+    "text": "DECIDED ON : 06th May, 2016",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.301751136779785,
+      11.399999618530273,
+      11.42068099975586,
+      11.870162010192871,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.39,
+      360.7,
+      265.14,
+      378.04
+    ],
+    "text": "Deepali Wiiesundera J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      13.538833618164062
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.16,
+      435.17,
+      523.14,
+      451.66
+    ],
+    "text": "The plaintiff respondent instituted an action in the District Court to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.804203033447266,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.88,
+      463.73,
+      523.72,
+      480.22
+    ],
+    "text": "partition a land morefully described in the schedule to the plaint and a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.976527214050293,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.89,
+      492.05,
+      523.57,
+      508.54
+    ],
+    "text": "preliminary survey had been done. Court had issued notice on the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.909005165100098,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.5,
+      520.38,
+      524.11,
+      536.87
+    ],
+    "text": "claimants before the surveyor. The plaint had been amended thereafter",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.39,
+      548.93,
+      523.16,
+      565.42
+    ],
+    "text": "with permission of court and lis pendens registered again in keeping",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.976527214050293,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.39,
+      577.25,
+      523.26,
+      593.74
+    ],
+    "text": "with the land surveyed. After notice a party was added as the second",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.76,
+      605.57,
+      523.89,
+      622.06
+    ],
+    "text": "defendant. The case was taken up for trial and the plaintiff's evidence",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.99,
+      633.65,
+      523.68,
+      650.14
+    ],
+    "text": "and the documents marked have gone uncontested. The learned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129.09,
+      661.73,
+      523.15,
+      678.22
+    ],
+    "text": "District Judge had delivered judgment and Interlocutory decree had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129.13,
+      689.81,
+      525.11,
+      706.3
+    ],
+    "text": "been entered, and a commission was issued for the final scheme of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      322.5,
+      739.23,
+      330.0,
+      752.57
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.88,
+      66.83,
+      523.36,
+      83.87
+    ],
+    "text": "partition. The final plan was prepared and accordingly Final Decree was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.296568870544434,
+      12.39374828338623,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.51,
+      95.15,
+      525.38,
+      112.19
+    ],
+    "text": "entered based on plan no. 1323. The parties have moved for writ of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.10586166381836,
+      12.205728530883789,
+      12.375876426696777,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.65,
+      123.46,
+      524.35,
+      140.5
+    ],
+    "text": "possession to divide the land. The writ was executed. The petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.271080017089844,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.26,
+      152.27,
+      522.9,
+      169.31
+    ],
+    "text": "claims that lots 8 and 10 of final plan no. 2900 were allocated to him in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.999326705932617,
+      12.205728530883789,
+      12.263801574707031,
+      12.271080017089844,
+      12.358078956604004,
+      12.373170852661133,
+      12.399999618530273,
+      12.464681625366211
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.27,
+      180.59,
+      332.92,
+      197.63
+    ],
+    "text": "another District Court partition action.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.92,
+      256.18,
+      522.95,
+      273.22
+    ],
+    "text": "The petitioner had first filed a revision application in the Civil",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.999326705932617,
+      12.363846778869629,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.69,
+      284.75,
+      523.15,
+      301.79
+    ],
+    "text": "Appellate High Court in Matara to set aside the Final Decree but has",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.999326705932617,
+      12.381836891174316,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.16,
+      313.07,
+      519.92,
+      330.11
+    ],
+    "text": "later withdrawn the same. The instant application for Restitution-in-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.3,
+      341.39,
+      288.88,
+      358.43
+    ],
+    "text": "Intergrum was filed after that.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.68,
+      417.23,
+      523.17,
+      434.27
+    ],
+    "text": "The petitioner's counsel submitted that the learned District Judge",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.03,
+      445.54,
+      522.81,
+      462.58
+    ],
+    "text": "erred in law when he failed to examine the title deeds marked and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.999326705932617,
+      12.219231605529785,
+      12.271080017089844,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.03,
+      474.1,
+      523.87,
+      491.14
+    ],
+    "text": "extent of the land surveyed which was larger in extent. The petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.17449951171875,
+      12.390046119689941,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.29,
+      502.19,
+      523.43,
+      519.22
+    ],
+    "text": "stated that the plaintiff respondent fraudulently suppressed title deeds",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.27,
+      530.98,
+      522.57,
+      548.02
+    ],
+    "text": "and the District Judge failed to examine the deeds marked and to find",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.373170852661133,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.11,
+      559.07,
+      466.2,
+      576.11
+    ],
+    "text": "that the corpus was larger than what was shown in the deeds.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.999326705932617,
+      12.39374828338623,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.28,
+      634.66,
+      523.77,
+      651.7
+    ],
+    "text": "The petitioner submitted that the revisionary jurisdiction and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.296568870544434,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      127.86,
+      662.5,
+      523.55,
+      679.54
+    ],
+    "text": "jurisdiction on restitution conferred on the Appellate Court is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.10586166381836,
+      12.221717834472656,
+      12.322709083557129,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.76,
+      690.58,
+      523.58,
+      707.62
+    ],
+    "text": "discretionary and should be exercised in proper circumstances. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.999326705932617,
+      12.284713745117188,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      321.97,
+      738.0,
+      329.32,
+      751.07
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      595.84,
+      269.73,
+      600.32,
+      291.85
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      595.91,
+      326.31,
+      599.3,
+      334.69
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.099999904632568
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      595.25,
+      356.42,
+      604.37,
+      404.32
+    ],
+    "text": "If",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863,
+      32.79999923706055
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.17,
+      436.08,
+      600.97,
+      445.98
+    ],
+    "text": "~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.359816551208496
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.17,
+      443.51,
+      600.97,
+      456.11
+    ],
+    "text": "~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.91853666305542
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      594.37,
+      496.49,
+      605.05,
+      733.88
+    ],
+    "text": "iii trIIIfrr IIl I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      12.300000190734863,
+      13.100000381469727,
+      13.699999809265137,
+      14.0,
+      14.800000190734863,
+      16.299999237060547,
+      16.399999618530273,
+      17.0,
+      19.5,
+      22.799999237060547,
+      23.100000381469727,
+      24.399999618530273,
+      38.40010070800781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      594.34,
+      720.6,
+      603.19,
+      756.88
+    ],
+    "text": "i 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.800099849700928,
+      17.70009994506836
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.68,
+      65.73,
+      522.03,
+      82.63
+    ],
+    "text": "petitioner stated that his rights to lots 8 and 10 in plan 2900 has been",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.950843811035156,
+      12.067757606506348,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.41,
+      94.05,
+      523.27,
+      110.95
+    ],
+    "text": "violated by the plaintiff respondent's and the first defendant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.68,
+      122.37,
+      522.54,
+      139.28
+    ],
+    "text": "respondent's collusive actions. Citing the judgment in Singho and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.773794174194336,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.07,
+      150.7,
+      522.83,
+      167.6
+    ],
+    "text": "another vs Suppaiah and others 2007 (1) SLR 370 stated that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.335598945617676,
+      12.362093925476074
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.55,
+      179.64,
+      522.75,
+      197.26
+    ],
+    "text": "\"notwithstanding the relief claimed by way of Restitution in",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.209244728088379,
+      14.199999809265137,
+      14.21938705444336,
+      14.38168716430664,
+      15.37923526763916
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.1,
+      211.37,
+      522.62,
+      228.7
+    ],
+    "text": "Intergrum the relief by way of revision does lie to the petitioner\".",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.21938705444336,
+      14.38168716430664,
+      15.102095603942871
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.12,
+      241.65,
+      411.51,
+      258.55
+    ],
+    "text": "The instant application is not a Revision application.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.272920608520508,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      160.96,
+      317.26,
+      522.98,
+      334.16
+    ],
+    "text": "The respondents learned counsel submitted that the instant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.54,
+      345.82,
+      522.02,
+      362.72
+    ],
+    "text": "application is misconceived in law and liable to be dismissed. He stated",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.950843811035156,
+      12.177793502807617,
+      12.235078811645508,
+      12.272920608520508,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.14,
+      374.13,
+      523.74,
+      391.03
+    ],
+    "text": "that the petitioner's remedy if any would have been under section 49 of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.269211769104004,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.14,
+      402.44,
+      223.34,
+      419.35
+    ],
+    "text": "the Partition Law.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.046283721923828,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.44,
+      478.06,
+      521.97,
+      494.96
+    ],
+    "text": "The respondents further stated that the petitioner by making an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.186223983764648,
+      12.215510368347168,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.79,
+      506.61,
+      522.62,
+      523.51
+    ],
+    "text": "application for Revision and then by withdrawing it later had forfeited his",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.16,
+      534.92,
+      522.49,
+      551.83
+    ],
+    "text": "rights to claim relief. The respondents also said that the petitioner is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.085530281066895,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.81,
+      563.26,
+      522.96,
+      580.16
+    ],
+    "text": "guilty of laches and is not entitled to seek remedies which are",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.085530281066895,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.28,
+      591.81,
+      202.15,
+      608.71
+    ],
+    "text": "d iscretiona ry.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.37047004699707,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.16,
+      666.93,
+      523.96,
+      683.83
+    ],
+    "text": "The respondents citing the judgments in Perera vs",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.950843811035156,
+      12.300000190734863,
+      12.362093925476074
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.36,
+      695.02,
+      523.83,
+      711.92
+    ],
+    "text": "Wijewickreme 15 NLR 411 and Sri Lanka Insurance Corporation Ltd",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.994505882263184,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      321.57,
+      737.1,
+      329.16,
+      749.6
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.84,
+      65.59,
+      524.64,
+      82.36
+    ],
+    "text": "vs Shanmugam 1995 1 SLR 55 argued that it is a basic requirement",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.036301612854004,
+      12.045977592468262,
+      12.143468856811523,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.58,
+      93.91,
+      524.09,
+      110.68
+    ],
+    "text": "that the person who seeks restitution should have been a party to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.13,
+      122.0,
+      230.76,
+      138.77
+    ],
+    "text": "legal proceedings.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      163.13,
+      197.84,
+      523.31,
+      214.6
+    ],
+    "text": "In the instant case the preliminary survey was done in 1995 and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.743093490600586,
+      12.075919151306152,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.1,
+      226.4,
+      523.73,
+      243.16
+    ],
+    "text": "the final survey in 2000 and the petitioner who claimed two lots in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.725834846496582,
+      11.902164459228516,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.13,
+      254.96,
+      523.97,
+      271.72
+    ],
+    "text": "final plan pleads ignorance of both surveys. The petitioner stated that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.22557258605957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.14,
+      283.53,
+      523.59,
+      300.29
+    ],
+    "text": "when the decree was executed in 2008 he came to know about the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.902164459228516,
+      12.120288848876953,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.39,
+      311.6,
+      218.59,
+      328.36
+    ],
+    "text": "partition decree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      161.92,
+      387.44,
+      523.24,
+      404.21
+    ],
+    "text": "The petitioner who claims lots 8 and 10 in plan 2900 should have",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.725834846496582,
+      12.042280197143555,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.41,
+      416.01,
+      523.16,
+      432.77
+    ],
+    "text": "been aware of it if not both one of the surveys and should have taken",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.22557258605957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.3,
+      444.31,
+      524.01,
+      461.08
+    ],
+    "text": "steps to show that his lands were erroneously included in the corpus but",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.075919151306152,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      127.91,
+      472.89,
+      523.64,
+      489.65
+    ],
+    "text": "without taking steps in the District Court or the High Court they have",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.075919151306152,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.41,
+      500.95,
+      523.28,
+      517.72
+    ],
+    "text": "moved for Restitution in the instant application. The petitioner failed to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.902164459228516,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.52,
+      529.29,
+      523.59,
+      546.05
+    ],
+    "text": "disclose fraud or collusion in keeping with section 48 of the Partition",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.902164459228516,
+      12.199999809265137,
+      12.363750457763672
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      127.93,
+      557.59,
+      511.95,
+      574.36
+    ],
+    "text": "Act. A final decree can only be set aside if fraud or collusion is proved.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.185240745544434,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      168.87,
+      633.21,
+      523.73,
+      649.97
+    ],
+    "text": "The petitioner has also failed to explain the delay in filing the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.902164459228516,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.64,
+      661.28,
+      524.16,
+      678.04
+    ],
+    "text": "instant application. A party who has been sleeping over his rights does",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.88,
+      689.36,
+      515.94,
+      706.12
+    ],
+    "text": "not get the privilege to invoke the discretionary jurisdiction of this court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      322.42,
+      736.83,
+      329.92,
+      750.17
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      595.24,
+      83.68,
+      602.05,
+      129.19
+    ],
+    "text": "i II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.199999809265137,
+      16.299999237060547,
+      24.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      594.61,
+      122.46,
+      605.29,
+      319.6
+    ],
+    "text": "t ! iI II I I I !I!! ! I! ,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.400100231170654,
+      6.800099849700928,
+      7.800099849700928,
+      9.100000381469727,
+      10.100000381469727,
+      10.199999809265137,
+      10.699999809265137,
+      12.0,
+      12.399999618530273,
+      13.399999618530273,
+      14.300000190734863,
+      15.5,
+      16.899999618530273,
+      28.0,
+      31.20009994506836,
+      38.40010070800781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      595.56,
+      315.8,
+      603.4,
+      411.73
+    ],
+    "text": "! tIilIi",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.500100135803223,
+      11.5,
+      13.300000190734863,
+      18.20009994506836,
+      21.799999237060547,
+      28.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      595.88,
+      408.0,
+      600.97,
+      440.55
+    ],
+    "text": "~ I, f",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.489988803863525,
+      5.199999809265137,
+      15.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      595.91,
+      437.69,
+      599.22,
+      458.63
+    ],
+    "text": "t\" t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.14049768447876,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      595.93,
+      470.98,
+      601.24,
+      521.2
+    ],
+    "text": ",ff",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      13.399999618530273,
+      19.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      594.61,
+      541.93,
+      605.82,
+      607.62
+    ],
+    "text": "I!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      23.100000381469727,
+      38.599998474121094
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.32,
+      66.21,
+      525.43,
+      83.11
+    ],
+    "text": "Since the petitioner is not entitled to the remedy by way of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.067757606506348,
+      12.085530281066895,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.36,
+      94.3,
+      525.15,
+      111.2
+    ],
+    "text": "Restitution, the appropriate remedy would have been to act under",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.53,
+      122.62,
+      524.05,
+      139.52
+    ],
+    "text": "section 49 of the Partition Act. In Menchinahamy vs Muniweera the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.958354949951172,
+      12.28714370727539,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.24,
+      150.93,
+      523.92,
+      167.83
+    ],
+    "text": "Supreme Court has decided that Restitution in Intergrum whould not be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.950843811035156,
+      12.235078811645508,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.27,
+      179.74,
+      503.74,
+      196.64
+    ],
+    "text": "available to a party if that party had another remedy available to him.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.2214994430542,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.46,
+      255.33,
+      525.9,
+      272.23
+    ],
+    "text": "For the afore stated reasons I decide to refuse the application of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.2214994430542,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.09,
+      284.12,
+      378.54,
+      301.03
+    ],
+    "text": "the petitioner with costs fixed at Rs. 25,0001=.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.143453598022461,
+      12.153376579284668,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      298.74,
+      397.91,
+      513.62,
+      414.29
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.1,
+      435.16,
+      232.88,
+      453.04
+    ],
+    "text": "M.M.A. Gaffoor J.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.100000381469727,
+      13.572638511657715
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.94,
+      473.61,
+      205.76,
+      491.1
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      298.98,
+      511.65,
+      514.11,
+      528.04
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      324.36,
+      738.0,
+      331.71,
+      751.07
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      596.03,
+      524.53,
+      600.54,
+      555.63
+    ],
+    "text": "!I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      596.65,
+      549.09,
+      601.38,
+      574.98
+    ],
+    "text": "I i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      15.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      597.51,
+      583.98,
+      601.26,
+      608.44
+    ],
+    "text": "if",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.800099849700928,
+      16.899999618530273
+    ]
+  }
+]

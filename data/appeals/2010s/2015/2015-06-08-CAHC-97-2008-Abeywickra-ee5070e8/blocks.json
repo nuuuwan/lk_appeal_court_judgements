@@ -1,0 +1,1514 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      92.18,
+      72.35,
+      522.94,
+      85.63
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      86.17,
+      352.03,
+      184.0
+    ],
+    "text": "OF SRI LANKA C.A. No. 97/08 HC. Ratnapura No. 55/98",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      183.98,
+      418.99,
+      268.51
+    ],
+    "text": "Abeywickrama Arachchige Basil Pa Botuwa Handiya, Pa Botuwa, Niwitagala.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      268.49,
+      428.59,
+      366.91
+    ],
+    "text": "Accused Appellant Vs. Hon. Attorney General Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      366.89,
+      398.71,
+      395.11
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.87,
+      70.9,
+      135.3,
+      87.94
+    ],
+    "text": "C.A. 97/2008",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.960355758666992,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.49,
+      106.9,
+      99.13,
+      123.94
+    ],
+    "text": "Before",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.38,
+      178.19,
+      105.31,
+      195.23
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.09,
+      249.16,
+      116.36,
+      267.04
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.76,
+      285.94,
+      124.22,
+      302.98
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204.2,
+      71.14,
+      387.74,
+      88.18
+    ],
+    "text": "H.C. Ratnapura Case No. 55/98",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.969217300415039,
+      12.050833702087402,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166.79,
+      106.71,
+      357.78,
+      124.3
+    ],
+    "text": "Vijith K. Malalgoda,PC.J.(P/CA) &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300943374633789,
+      12.399999618530273,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.24,
+      142.9,
+      276.24,
+      159.94
+    ],
+    "text": "H.C.J. Madawala.J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.026628494262695,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.19,
+      178.43,
+      455.65,
+      195.47
+    ],
+    "text": "Indika Mallawarachchi for the Accused-Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.605300903320312
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166.48,
+      214.19,
+      376.68,
+      231.23
+    ],
+    "text": "Thusith Mudalige, S.S.c. for the A.G.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.284966468811035,
+      12.300651550292969,
+      12.399999618530273,
+      12.605300903320312
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      167.12,
+      285.7,
+      234.25,
+      302.74
+    ],
+    "text": "19.05.2015",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.07,
+      321.46,
+      239.23,
+      338.5
+    ],
+    "text": "Vijith K. Malalgoda,PC .. J.(P/CA)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.151274681091309,
+      11.585017204284668,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.76,
+      365.86,
+      534.85,
+      382.9
+    ],
+    "text": "The accused-appellant in this case was indicted before the High Court of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.22192096710205,
+      12.347187042236328,
+      12.350601196289062,
+      12.399999618530273,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.51,
+      400.18,
+      534.42,
+      417.22
+    ],
+    "text": "Ratnapura along with six others for the murder of Pareigalage Wimaladasa on or",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.474625587463379,
+      12.499202728271484,
+      12.605300903320312,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.56,
+      432.57,
+      531.6,
+      451.78
+    ],
+    "text": "before 01.03.19990. At the time the case was taken up for trial, the 2nd and 3rd",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.203962326049805,
+      8.250977516174316,
+      12.282896995544434,
+      12.399999618530273,
+      12.464183807373047,
+      12.477258682250977,
+      12.697676658630371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.43,
+      469.06,
+      533.49,
+      486.1
+    ],
+    "text": "accused were reported dead. At the trial the prosecution had relied on the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.43,
+      503.39,
+      532.45,
+      520.43
+    ],
+    "text": "evidence of Dayawathi, Siriyawathi and the depositions of Premawathi and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.738675117492676,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.4,
+      537.46,
+      533.14,
+      554.5
+    ],
+    "text": "Somawathi whose evidence was led under Section 33 of the Evidence Ordinance",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.251358985900879,
+      12.399999618530273,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.45,
+      571.78,
+      533.61,
+      588.82
+    ],
+    "text": "since those two witnesses were dead at the time of the trial. According to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.464183807373047,
+      12.6393404006958,
+      12.738675117492676,
+      12.750252723693848
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.42,
+      606.1,
+      532.78,
+      623.14
+    ],
+    "text": "evidence of Dayawathi, the accused-appellant who had come to the house had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.476513862609863,
+      12.6393404006958,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.45,
+      640.18,
+      533.14,
+      660.15
+    ],
+    "text": "said\" Q)6l) Q)i, q~ 6~c)),'. Few minutes thereafter the deceased had come",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.870981693267822,
+      9.5518798828125,
+      10.699999809265137,
+      12.117269515991211,
+      12.199999809265137,
+      12.399999618530273,
+      12.685171127319336
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.27,
+      673.45,
+      533.74,
+      691.06
+    ],
+    "text": "to their house and at that time the 1 5t accused had stabbed him once. However,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.699999809265137,
+      12.397149085998535,
+      12.399999618530273,
+      12.592013359069824,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.08,
+      70.05,
+      533.05,
+      88.33
+    ],
+    "text": "under cross examination she had admitted that in her evidence at the Magistrate's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.41,
+      102.44,
+      533.05,
+      120.72
+    ],
+    "text": "Court she spoke of a fight. When confronted with her evidence at the Magistrate's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.18,
+      134.86,
+      532.6,
+      153.13
+    ],
+    "text": "Court she admitted, that she said so at the Magistrate's Court. According to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.18,
+      167.0,
+      533.29,
+      185.29
+    ],
+    "text": "evidence of Siriyawathi, the 1 st accused had come to their house and pointing a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.05,
+      199.64,
+      532.46,
+      217.92
+    ],
+    "text": "knife said \" tDOz(!)) tD~ 0)(!)C3 q~ ~C)O tDO~~\". According to the",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.727886199951172,
+      9.315278053283691,
+      9.652853965759277,
+      9.698494911193848,
+      11.100000381469727,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.16,
+      230.15,
+      535.7,
+      252.54
+    ],
+    "text": "evidence of all these witnesses, 2nd to the i h accused had come to the scene of",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.738706588745117,
+      9.0,
+      13.699999809265137,
+      14.21342945098877,
+      16.299999237060547
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.94,
+      265.88,
+      532.59,
+      284.16
+    ],
+    "text": "crime after stabbing took place. At the conclusion of the prosecution case, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.97,
+      298.05,
+      532.9,
+      316.33
+    ],
+    "text": "learned High Court Judge acting under Section 200 of the Criminal Procedure",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.95,
+      327.11,
+      529.27,
+      349.5
+    ],
+    "text": "Code decided to acquit the 4th to the i h accused-appellants. The accused-",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      8.966917037963867,
+      13.699999809265137,
+      16.299999237060547
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.95,
+      362.85,
+      532.68,
+      381.13
+    ],
+    "text": "appellant whilst making a dock statement before the learned High Court Judge had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.15,
+      395.48,
+      532.63,
+      413.76
+    ],
+    "text": "said that this incident happened at a time when he went to consume liquor and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.0,
+      427.64,
+      532.58,
+      445.91
+    ],
+    "text": "deceased who had come there, had attacked him with the torch and thereafter he",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.88,
+      460.04,
+      532.86,
+      478.31
+    ],
+    "text": "was pushed down and he managed to take a knife which was on a table and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.95,
+      492.45,
+      212.23,
+      510.73
+    ],
+    "text": "stabbed the deceased once.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.76,
+      576.93,
+      532.28,
+      595.2
+    ],
+    "text": "Counsel for the accused-appellant further submitted that this cannot be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.99,
+      609.32,
+      532.1,
+      627.6
+    ],
+    "text": "considered as a case of murder but a case of culpable homicide not amounting to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.81,
+      641.72,
+      240.72,
+      660.0
+    ],
+    "text": "murder based on a sudden fight.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.98,
+      69.56,
+      532.51,
+      87.84
+    ],
+    "text": "In support of the above position she submits that even though the witnesses",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57.99,
+      101.96,
+      532.42,
+      120.24
+    ],
+    "text": "Dayawathi and Siriyawathi had referred to the fact that the accused had made",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57.92,
+      134.12,
+      533.04,
+      152.39
+    ],
+    "text": "certain utterances prior to the deceased's arrival, witness, Dayawathi had admitted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57.56,
+      166.53,
+      532.74,
+      184.81
+    ],
+    "text": "that she said in the Magistrate's Court that there was a fight between the accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57.93,
+      198.93,
+      532.71,
+      217.21
+    ],
+    "text": "and the deceased. According to the police witnesses, a torch had been recovered",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57.91,
+      231.32,
+      532.41,
+      249.6
+    ],
+    "text": "from the scene of crime which corroborates for certain extent the version given by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57.79,
+      263.49,
+      533.35,
+      281.87
+    ],
+    "text": "the accused-appellant. It appears to this Court that the place where the incident",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.005144119262695
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57.81,
+      295.88,
+      463.99,
+      314.16
+    ],
+    "text": "had taken place, was a place where illicit arrack was sold to the people.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.79,
+      380.6,
+      532.59,
+      398.88
+    ],
+    "text": "We also observe that this is a chance meeting. One cannot expect the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.633890151977539,
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57.96,
+      413.24,
+      533.15,
+      431.52
+    ],
+    "text": "deceased to be present at the scene of crime just after the accused made certain",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57.84,
+      445.64,
+      533.1,
+      463.92
+    ],
+    "text": "utterances against him. Both witnesses, Dayawathi and Siriyawathi admitted in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57.78,
+      477.8,
+      442.2,
+      496.07
+    ],
+    "text": "their evidence that the deceased and the accused were good friends.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.29,
+      564.11,
+      532.97,
+      581.15
+    ],
+    "text": "Learned Senior State Counsel concedes the above position. He submits",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.02167797088623,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58.02,
+      598.42,
+      532.65,
+      615.46
+    ],
+    "text": "that there are favourable factors to the accused in this case specially when",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.22192096710205,
+      12.347187042236328,
+      12.399999618530273,
+      12.436994552612305,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58.42,
+      632.5,
+      532.76,
+      649.54
+    ],
+    "text": "considering the evidence of Dayawathi at the High Court trial. We are also",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58.8,
+      666.59,
+      533.13,
+      683.63
+    ],
+    "text": "mindful of the fact that the deceased had received only one stabbed injury. If the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.698848724365234,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58.66,
+      700.43,
+      532.46,
+      717.47
+    ],
+    "text": "accused was waiting for the deceased to come, as referred by Dayawathi he had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.841261863708496,
+      12.336135864257812,
+      12.363846778869629,
+      12.399999618530273,
+      12.697676658630371,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58.74,
+      71.39,
+      532.41,
+      88.43
+    ],
+    "text": "the opportunity of giving more than one blow at the deceased, since he had come",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.336135864257812,
+      12.399999618530273,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      59.53,
+      105.46,
+      241.35,
+      122.5
+    ],
+    "text": "unarmed to the scene of crime.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.6393404006958,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.38,
+      194.02,
+      533.01,
+      211.06
+    ],
+    "text": "Considering all those factors, we feel that this is a fit case to convict the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.22192096710205,
+      12.399999618530273,
+      12.568603515625,
+      12.773136138916016,
+      12.9769287109375
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58.43,
+      228.34,
+      532.22,
+      245.38
+    ],
+    "text": "accused-appellant for culpable homicide not amounting to murder based on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.496027946472168,
+      12.6393404006958,
+      12.697676658630371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58.43,
+      262.9,
+      532.71,
+      279.94
+    ],
+    "text": "exception four, i.e. sudden fight. We therefore, decide to set aside the conviction",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58.29,
+      297.22,
+      532.77,
+      314.26
+    ],
+    "text": "for murder imposed on the accused-appellant and convict him for culpable",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.512290954589844,
+      12.605300903320312
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58.8,
+      331.54,
+      534.61,
+      348.58
+    ],
+    "text": "homicide not amounting to murder an offence punishable under Section 297 of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.119681358337402,
+      12.399999618530273,
+      12.413542747497559,
+      12.416189193725586,
+      12.738675117492676,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58.26,
+      365.87,
+      532.75,
+      382.91
+    ],
+    "text": "the Penal Code on the basis of a sudden fight and impose a jail term of 20 years",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.242499351501465,
+      12.351203918457031,
+      12.364850044250488,
+      12.399999618530273,
+      12.475619316101074,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58.8,
+      400.43,
+      533.62,
+      417.47
+    ],
+    "text": "rigorous imprisonment with a fine of Rs. 5,000/- in default, simple imprisonment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.381958961486816,
+      12.399999618530273,
+      12.560905456542969,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58.43,
+      434.75,
+      118.98,
+      451.79
+    ],
+    "text": "of 2 years.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.09,
+      479.15,
+      533.38,
+      496.19
+    ],
+    "text": "At this stage counsel for the accused-appellant makes an application to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.235660552978516,
+      12.399999618530273,
+      12.504161834716797,
+      12.605300903320312
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58.8,
+      513.22,
+      532.89,
+      530.26
+    ],
+    "text": "implement the sentence from the date of conviction considering the age of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.219486236572266,
+      12.399999618530273,
+      12.48739242553711,
+      12.738675117492676
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58.42,
+      547.54,
+      476.44,
+      564.58
+    ],
+    "text": "accused. She submits that the accused-appellant is now 68 years of age.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.943445205688477,
+      12.057313919067383,
+      12.34342098236084,
+      12.399999618530273,
+      12.43669605255127,
+      12.474028587341309,
+      12.698848724365234,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.04,
+      591.94,
+      532.95,
+      608.98
+    ],
+    "text": "We make order to implement the said conviction of 20 years rigorous",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.404298782348633,
+      12.455475807189941,
+      12.773136138916016,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58.81,
+      626.26,
+      533.7,
+      643.3
+    ],
+    "text": "imprisonment from the date of conviction i.e. from 02.06.2008. Appeal is partly",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.399999618530273,
+      12.48739242553711,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      58.44,
+      660.35,
+      110.26,
+      677.39
+    ],
+    "text": "allowed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.03,
+      72.11,
+      531.7,
+      89.15
+    ],
+    "text": "Registrar is directed to send this record back to the High Court of Ratnapura",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.399999618530273,
+      12.773136138916016,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57.78,
+      106.67,
+      362.09,
+      123.71
+    ],
+    "text": "to implement this order and issue a fresh committal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.40784740447998,
+      12.6393404006958
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      276.22,
+      195.47,
+      496.32,
+      212.51
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.612492561340332,
+      11.708837509155273,
+      11.957608222961426,
+      11.9922456741333,
+      12.012907981872559,
+      12.11533260345459
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      58.05,
+      239.86,
+      165.53,
+      256.9
+    ],
+    "text": "H.C.J. Madawala,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.880257606506348,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.74,
+      284.26,
+      134.53,
+      301.3
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      275.19,
+      328.66,
+      471.14,
+      345.7
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.708837509155273,
+      11.892462730407715,
+      12.016932487487793,
+      12.046202659606934,
+      12.11533260345459
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      57.9,
+      418.18,
+      78.89,
+      435.22
+    ],
+    "text": "Cr/-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  }
+]

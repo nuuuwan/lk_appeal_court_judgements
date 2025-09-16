@@ -1,0 +1,3103 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      124.58,
+      72.35,
+      490.42,
+      85.63
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      86.17,
+      384.55,
+      183.52
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA No. 81/2011 H. C. Colombo Case No. 5187/2010",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      183.5,
+      477.7,
+      296.11
+    ],
+    "text": "1. T.Tukhtabonu alias Jhonu Jausmin (Presently incarcerated at Welikada Prison Female Section) 2. Abdul Aziz Ahamadu Marikkar 3. Mohommed Baheer Hussain",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      296.09,
+      471.58,
+      422.73
+    ],
+    "text": "Accused-Appellants Vs The Hon. Attorney General Attorney Generals Department Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      422.71,
+      428.95,
+      436.77
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.33,
+      103.85,
+      201.68,
+      128.64
+    ],
+    "text": "c. A. No. 8112011",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.650091171264648,
+      13.5,
+      16.993988037109375
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.74,
+      156.92,
+      136.62,
+      175.2
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.14,
+      204.93,
+      143.84,
+      223.2
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.73,
+      317.73,
+      162.47,
+      352.09
+    ],
+    "text": "Argued & Decided on",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.5,
+      31.27,
+      310.5,
+      47.28
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.18,
+      108.92,
+      452.22,
+      127.2
+    ],
+    "text": "H. C. Colombo Case No. 5187/2010",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.551546096801758,
+      13.58935260772705,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.69,
+      157.17,
+      421.96,
+      191.52
+    ],
+    "text": "Vijith K. Malalgoda, P.C., J (PICA) & H.C.J. Madawala, J.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.899999618530273,
+      13.494407653808594,
+      13.653169631958008,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.48,
+      205.17,
+      479.82,
+      239.05
+    ],
+    "text": "Saliya Peiris with Gayan Madawa appears for the 1 st and 2nd Accused-Appellants.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.73,
+      252.92,
+      419.88,
+      287.76
+    ],
+    "text": "Amila Palliyage appears for the 3 rd Accused-Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.658884048461914,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.47,
+      301.64,
+      444.13,
+      319.92
+    ],
+    "text": "Kapila Waidyaratne P.C., A.S.G. for A.G.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.91,
+      333.81,
+      273.45,
+      352.09
+    ],
+    "text": "21.10.2015.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204.31,
+      364.8,
+      263.95,
+      389.94
+    ],
+    "text": "********",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.299999237060547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.01,
+      430.53,
+      303.84,
+      448.81
+    ],
+    "text": "Vijith K. Malalgoda, P.C., J (PICA)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.52376651763916,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166.97,
+      495.09,
+      514.83,
+      513.37
+    ],
+    "text": "Heard Counsel in support of their cases. The Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.14,
+      527.73,
+      514.95,
+      546.0
+    ],
+    "text": "appeanng for all 3 accused at the out set inform from Court that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.99,
+      560.13,
+      514.99,
+      578.4
+    ],
+    "text": "they would not be canvassing the conviction before this Court but",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.01,
+      592.28,
+      515.14,
+      610.56
+    ],
+    "text": "would only be making submissions with regard to the sentence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.41,
+      625.41,
+      148.51,
+      643.68
+    ],
+    "text": "imposed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      587.6,
+      2.39,
+      601.19,
+      69.58
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      48.90010070800781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      588.36,
+      51.55,
+      595.59,
+      82.25
+    ],
+    "text": "I ! f [",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.2000999450683594,
+      5.699999809265137,
+      10.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      587.39,
+      81.54,
+      603.01,
+      163.43
+    ],
+    "text": "t I l I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.862739562988281,
+      5.500100135803223,
+      13.0,
+      56.20009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      591.34,
+      232.53,
+      601.29,
+      285.42
+    ],
+    "text": "f f ! I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.800000190734863,
+      16.100000381469727,
+      17.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      304.49,
+      31.23,
+      313.19,
+      46.7
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171.48,
+      66.29,
+      517.52,
+      85.2
+    ],
+    "text": "The learned Senior Counsel appearing for the I st and 2nd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.98,
+      99.08,
+      518.68,
+      117.36
+    ],
+    "text": "accused-appellants informs Court that the 1 st accused-appellant is an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.11,
+      130.38,
+      518.08,
+      149.76
+    ],
+    "text": "Usbakistan national, was married to the 2nd accused-appellant who IS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      8.840633392333984,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.98,
+      163.4,
+      518.0,
+      181.68
+    ],
+    "text": "a Sri Lankan and was living in Sri Lanka for some time. She IS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.713451385498047,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.84,
+      195.57,
+      519.25,
+      213.85
+    ],
+    "text": "the mother of two children. The eldest being nme years at present",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.98,
+      228.21,
+      519.13,
+      246.48
+    ],
+    "text": "and the youngest is nearly five years. He submits that the eldest",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.98,
+      260.36,
+      518.65,
+      278.65
+    ],
+    "text": "child was with certain known parties of the two accused since the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.13,
+      292.53,
+      518.43,
+      310.8
+    ],
+    "text": "both accused are in remand custody pending this appeal. Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.92,
+      324.45,
+      518.09,
+      342.72
+    ],
+    "text": "submits that whilst the eldest son was with a known party, it was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.74,
+      357.08,
+      518.38,
+      375.36
+    ],
+    "text": "observed that the said child had behavioral problems probably due",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.85,
+      389.24,
+      518.18,
+      407.51
+    ],
+    "text": "to the factor that both parents are not with him. They have to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.74,
+      421.4,
+      518.51,
+      439.69
+    ],
+    "text": "change hands and finally the child is now with an orphanage. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.61,
+      453.8,
+      518.42,
+      472.08
+    ],
+    "text": "youngest child who is below five years is permitted to be with the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.85,
+      486.2,
+      518.18,
+      504.48
+    ],
+    "text": "mother. He submits that the prison authorities has discretion to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.74,
+      518.85,
+      521.62,
+      537.13
+    ],
+    "text": "consider the custody of the child once the child reaches the age of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.97,
+      551.01,
+      517.55,
+      569.29
+    ],
+    "text": "five years. The learned Counsel's submissions on behalf of the 1 st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.98,
+      583.64,
+      518.52,
+      601.92
+    ],
+    "text": "accused-appellant is purely on sympathetic grounds. He begs mercy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.98,
+      616.04,
+      519.09,
+      634.32
+    ],
+    "text": "of this Court and submits that being a mother she had to look",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.75,
+      648.44,
+      518.77,
+      666.72
+    ],
+    "text": "after her two children and now that she has realized the consequences",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      98.97,
+      680.37,
+      518.82,
+      698.65
+    ],
+    "text": "of her conduct she will not lead to the same life once she leaves",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      305.38,
+      31.46,
+      314.08,
+      46.93
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.56,
+      67.41,
+      519.86,
+      85.69
+    ],
+    "text": "the pnson. Therefore he moves Court to consider a lenient",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.89,
+      99.8,
+      519.79,
+      118.08
+    ],
+    "text": "sentence to be imposed on her. According to the judgment delivered",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.46,
+      131.97,
+      519.21,
+      150.25
+    ],
+    "text": "on 28.03.2011 all three accused were convicted and they were",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.65,
+      163.89,
+      519.39,
+      182.17
+    ],
+    "text": "separately sentenced to a total period of 9 years. Out of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.7,
+      195.57,
+      519.53,
+      213.85
+    ],
+    "text": "charges in the indictment, 1 st count on which all three accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.57,
+      228.21,
+      519.49,
+      246.48
+    ],
+    "text": "were convicted the Court had imposed 5 years ngorous",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.72,
+      259.18,
+      519.36,
+      278.64
+    ],
+    "text": "imprisonment with a fine of the Rs. 50,0001=. 2nd and 5th counts",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.816911697387695,
+      8.830175399780273,
+      12.600000381469727,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.71,
+      292.04,
+      519.37,
+      310.32
+    ],
+    "text": "on which the 1 st accused-appellant was convicted, was imposed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.33,
+      324.44,
+      519.16,
+      342.72
+    ],
+    "text": "two years ngorous imprisonment with a fine of Rs. 25,0001= with",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.45,
+      357.08,
+      519.0,
+      375.36
+    ],
+    "text": "a default term of 3 months simple imprisonment. The Court has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.31,
+      389.5,
+      427.84,
+      407.77
+    ],
+    "text": "made order to run the above sentences consecutively.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171.7,
+      454.05,
+      518.89,
+      472.33
+    ],
+    "text": "The submissions before this Court was for the Court to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.69,
+      486.44,
+      519.26,
+      504.72
+    ],
+    "text": "consider making the above sentences to run concurrent. He further",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.57,
+      518.61,
+      519.26,
+      536.89
+    ],
+    "text": "moves considering the circumstances under which he is making the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.63,
+      551.25,
+      519.09,
+      569.52
+    ],
+    "text": "submissions, to consider making the said term to run from the date",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.45,
+      582.46,
+      519.31,
+      602.17
+    ],
+    "text": "of conviction. With regard to the 2nd accused who is the husband",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.816911697387695,
+      13.680935859680176,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.45,
+      614.63,
+      517.58,
+      634.32
+    ],
+    "text": "of the 1 st accused the learned Counsel submits that the 3 rd and 6th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.502838134765625,
+      8.665151596069336,
+      8.899999618530273,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.7,
+      648.68,
+      519.01,
+      666.96
+    ],
+    "text": "counts under which he was convicted other than the first count are",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.73,
+      680.6,
+      520.28,
+      698.88
+    ],
+    "text": "abetment counts and therefore move that the Court to consider",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      590.4,
+      101.99,
+      599.34,
+      157.46
+    ],
+    "text": "~ i \\ ! t",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.359999895095825,
+      5.900100231170654,
+      10.5,
+      14.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      590.72,
+      175.19,
+      606.34,
+      257.69
+    ],
+    "text": "Ii",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      28.70009994506836,
+      48.90010070800781
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      590.72,
+      251.07,
+      604.31,
+      348.69
+    ],
+    "text": "t I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.0,
+      48.90010070800781
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      591.77,
+      348.86,
+      599.67,
+      377.87
+    ],
+    "text": "t 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.900100231170654,
+      15.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      592.57,
+      392.44,
+      599.88,
+      428.57
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      26.299999237060547
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      592.97,
+      425.62,
+      607.98,
+      693.86
+    ],
+    "text": "r > I [ j I t ! i lIIIt",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.099999904632568,
+      5.300099849700928,
+      6.0,
+      11.199999809265137,
+      13.800000190734863,
+      17.0,
+      17.899999618530273,
+      19.5,
+      19.799999237060547,
+      23.100000381469727,
+      37.70009994506836,
+      41.0,
+      48.20009994506836,
+      54.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      594.77,
+      690.24,
+      603.8,
+      754.4
+    ],
+    "text": "~ f, I i 11f",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.7947332859039307,
+      4.67722749710083,
+      5.900100231170654,
+      9.100000381469727,
+      10.100000381469727,
+      12.399999618530273,
+      15.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      594.61,
+      773.54,
+      601.67,
+      797.18
+    ],
+    "text": "I f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      595.43,
+      807.99,
+      602.74,
+      843.07
+    ],
+    "text": "\\",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      26.299999237060547
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      305.71,
+      30.85,
+      315.01,
+      47.39
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.81,
+      67.65,
+      519.4,
+      85.93
+    ],
+    "text": "making all the said sentences to run concurrent and also to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.96,
+      99.33,
+      309.68,
+      117.6
+    ],
+    "text": "consider back dating the sentence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      171.97,
+      163.65,
+      519.62,
+      181.93
+    ],
+    "text": "The learned Counsel appearing for the 3 rd accused submits",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.812166213989258,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.32,
+      194.86,
+      519.43,
+      213.85
+    ],
+    "text": "that his client is only the driver of the 1 st and 2nd accused and was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.816911697387695,
+      8.899999618530273,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.73,
+      228.21,
+      519.08,
+      246.48
+    ],
+    "text": "involved in transporting the so called victims in this case. He",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.47,
+      260.59,
+      518.69,
+      278.87
+    ],
+    "text": "associates with the submissions made by the learned Counsel for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.32,
+      291.1,
+      519.15,
+      310.81
+    ],
+    "text": "the 1 st and 2nd accused-appellants and move that the Court to act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.816911697387695,
+      8.899999618530273,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.24,
+      323.27,
+      326.24,
+      343.2
+    ],
+    "text": "leniently on the 3rd accused-appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.812166213989258,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      171.04,
+      389.49,
+      519.11,
+      407.77
+    ],
+    "text": "Learned Senior Additional Solicitor General appearmg",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.46,
+      421.89,
+      518.66,
+      440.17
+    ],
+    "text": "for the Attorney General brings to the notice of this Court the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      99.15,
+      454.52,
+      518.52,
+      472.8
+    ],
+    "text": "seriousness of this indictment which IS based on procurement and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.399999618530273,
+      13.699999809265137,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.86,
+      487.17,
+      518.48,
+      505.45
+    ],
+    "text": "human traffic and he submits that he IS facing the difficulty in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.399999618530273,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.86,
+      519.33,
+      515.11,
+      537.61
+    ],
+    "text": "replying the submissions of the learned Counsel for the 1 st accused-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.605269432067871,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.74,
+      551.72,
+      518.64,
+      570.0
+    ],
+    "text": "appellant specially for the reason that the 1 st accused-appellant on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.63,
+      584.6,
+      518.81,
+      602.88
+    ],
+    "text": "whom the Counsel wanted this Court to act leniently is the main",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.44,
+      617.0,
+      518.84,
+      635.28
+    ],
+    "text": "perpetrator of this offence. Therefore he submits that this is very",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.74,
+      649.4,
+      518.44,
+      667.68
+    ],
+    "text": "difficult task for him to justify any reduction on the sentence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.99,
+      681.33,
+      518.56,
+      699.6
+    ],
+    "text": "imposed on her. However considering the mitigatory circumstances",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      590.74,
+      314.75,
+      604.11,
+      420.49
+    ],
+    "text": ", I i Ii I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      13.699999809265137,
+      15.300000190734863,
+      16.899999618530273,
+      19.20009994506836,
+      48.099998474121094
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      591.95,
+      416.22,
+      604.91,
+      613.28
+    ],
+    "text": "E f i IIII!I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      6.900100231170654,
+      9.100000381469727,
+      15.199999809265137,
+      21.799999237060547,
+      23.100000381469727,
+      24.100000381469727,
+      32.5,
+      39.20009994506836,
+      43.599998474121094
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      592.79,
+      593.68,
+      604.91,
+      653.59
+    ],
+    "text": "I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863,
+      43.599998474121094
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      594.25,
+      759.29,
+      603.1,
+      783.61
+    ],
+    "text": "j",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.70009994506836
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      594.48,
+      808.37,
+      601.79,
+      844.5
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      26.299999237060547
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      300.58,
+      30.8,
+      310.0,
+      46.33
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95.08,
+      66.68,
+      514.25,
+      84.96
+    ],
+    "text": "submitted by the learned Counsel, specially to the effect that she is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.680935859680176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.66,
+      98.85,
+      514.84,
+      117.13
+    ],
+    "text": "a mother of two children, where the eldest is presently in an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.91,
+      131.24,
+      517.78,
+      149.52
+    ],
+    "text": "orphanage and the youngest staying with her but facing danger of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.76,
+      163.17,
+      513.7,
+      181.45
+    ],
+    "text": "taken out from her since the child is reaching the age of five",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.54,
+      195.32,
+      514.94,
+      213.6
+    ],
+    "text": "years, the learned President's Counsel submits that he will not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.91,
+      227.0,
+      514.09,
+      245.28
+    ],
+    "text": "object for making sentences imposed on the 1 st accused-appellant to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.78,
+      259.41,
+      514.88,
+      277.69
+    ],
+    "text": "run concurrent. But with the question of back dating the sentence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.52,
+      291.57,
+      514.57,
+      309.84
+    ],
+    "text": "the learned Counsel submits that he will leave that matter in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.53,
+      324.2,
+      514.62,
+      342.48
+    ],
+    "text": "hands of the Court. However considering the nature of this offence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.53,
+      356.6,
+      514.34,
+      374.88
+    ],
+    "text": "where the three accused were involved in procurement of two",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.78,
+      388.52,
+      514.32,
+      406.8
+    ],
+    "text": "Usbakistan girls and making them to work as prostitutes in this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.67,
+      420.93,
+      514.57,
+      439.2
+    ],
+    "text": "country, he submits that he will vehemently object for any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.91,
+      453.57,
+      514.95,
+      471.85
+    ],
+    "text": "application for making the sentences to run concurrent or back dating",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      94.78,
+      485.12,
+      397.54,
+      504.48
+    ],
+    "text": "with regard to the 2nd and 3rd accused-appellants.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.203962326049805,
+      8.250977516174316,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174.43,
+      550.76,
+      514.17,
+      569.04
+    ],
+    "text": "We are mindful of all these facts and considering all",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95.0,
+      583.4,
+      514.71,
+      601.67
+    ],
+    "text": "the submissions made before this Court decide to impose the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95.37,
+      616.03,
+      340.45,
+      634.31
+    ],
+    "text": "following sentence on all three accused.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      585.58,
+      71.6,
+      595.44,
+      131.38
+    ],
+    "text": "r I I i ! \\",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.900100231170654,
+      6.500100135803223,
+      8.5,
+      9.399999618530273,
+      13.600000381469727,
+      16.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      587.29,
+      172.55,
+      603.35,
+      263.15
+    ],
+    "text": "\\ I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      28.799999237060547,
+      56.599998474121094
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      589.23,
+      256.77,
+      603.13,
+      352.84
+    ],
+    "text": "f i f ! I i I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.399999618530273,
+      11.100000381469727,
+      13.0,
+      15.0,
+      16.100000381469727,
+      21.100000381469727,
+      25.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      590.17,
+      379.61,
+      599.37,
+      425.09
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      33.099998474121094
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      591.48,
+      410.63,
+      603.6,
+      483.64
+    ],
+    "text": "! I ! , I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      15.899999618530273,
+      16.299999237060547,
+      17.20009994506836,
+      20.799999237060547,
+      21.799999237060547
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      592.23,
+      481.52,
+      602.24,
+      506.25
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      596.72,
+      693.34,
+      600.7,
+      712.99
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      596.07,
+      759.15,
+      604.13,
+      802.84
+    ],
+    "text": "II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273,
+      29.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      597.35,
+      804.79,
+      604.74,
+      840.27
+    ],
+    "text": "\\",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      26.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      29.8,
+      32.18,
+      311.68,
+      62.01
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      169.17,
+      67.17,
+      519.78,
+      85.45
+    ],
+    "text": "All three accused-appellants were imposed a sentence of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.078715324401855
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.53,
+      99.08,
+      516.98,
+      117.36
+    ],
+    "text": "five years ngorous imprisonment with a fine of Rs. 50,0001= on the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      98.16,
+      131.25,
+      516.74,
+      149.53
+    ],
+    "text": "1 st count. There IS no default term imposed on them, we order the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      9.5,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.07,
+      163.64,
+      516.05,
+      181.92
+    ],
+    "text": "default term of SIX months simple imprisonment on count one III",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5,
+      13.699999809265137,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.06,
+      195.56,
+      516.25,
+      213.84
+    ],
+    "text": "addition to the 50,0001= fine already imposed on all 3 accused. In",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.84,
+      226.68,
+      515.26,
+      245.77
+    ],
+    "text": "addition to that the 1 st accused-appellant was convicted for the 2nd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      8.866307258605957,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.82,
+      258.35,
+      516.5,
+      278.4
+    ],
+    "text": "and 5th charges in the indictment and imposed the sentence of two",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.879645347595215,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.7,
+      292.29,
+      516.72,
+      310.57
+    ],
+    "text": "years rigorous imprisonment with the fine of Rs. 25,0001= and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.699999809265137,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.84,
+      324.68,
+      515.84,
+      342.96
+    ],
+    "text": "default term of three months simple imprisonment on each count.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.9,
+      357.08,
+      516.59,
+      375.36
+    ],
+    "text": "We affirm those convictions but we make order that all three",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.76,
+      389.01,
+      517.06,
+      407.29
+    ],
+    "text": "sentences imposed on the 1 st accused-appellant to run concurrent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.81,
+      421.65,
+      516.59,
+      439.92
+    ],
+    "text": "and therefore the period she has to serve in jail will be five years",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.7,
+      453.8,
+      516.66,
+      472.08
+    ],
+    "text": "rigorous imprisonment. With regard to the fines and the default",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.7,
+      486.45,
+      516.37,
+      504.72
+    ],
+    "text": "terms already imposed we make no changes. We make further",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.85,
+      519.31,
+      516.31,
+      537.6
+    ],
+    "text": "order to run the said jail term of 5 year with effect from the date",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.82,
+      550.19,
+      512.71,
+      570.25
+    ],
+    "text": "of conviction, i.e from 28.03.2011. The 2nd and 3rd accused-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.707393646240234,
+      8.738706588745117,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.59,
+      581.43,
+      516.46,
+      603.41
+    ],
+    "text": "appellants were convicted of 3rd and 6th and 4th and i h respectively",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      8.707393646240234,
+      8.713695526123047,
+      9.42501449584961,
+      13.699999809265137,
+      14.346925735473633,
+      18.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.58,
+      616.52,
+      516.72,
+      634.8
+    ],
+    "text": "and imposed a sentence of 2 years rigorous imprisonment with a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.81,
+      648.93,
+      516.35,
+      667.21
+    ],
+    "text": "fine of Rs. 25,0001= on each count and default term of three",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.45,
+      681.08,
+      516.59,
+      699.36
+    ],
+    "text": "months simple imprisonment. We affirm those convictions. With",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.633890151977539,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      587.21,
+      -16.5,
+      607.78,
+      90.04
+    ],
+    "text": "I I , I I I I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.500100135803223,
+      10.399999618530273,
+      11.100000381469727,
+      11.399999618530273,
+      21.0,
+      23.70009994506836,
+      37.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      587.75,
+      114.61,
+      600.93,
+      176.05
+    ],
+    "text": "\\ \\ I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      19.799999237060547,
+      22.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      589.72,
+      204.86,
+      603.65,
+      273.7
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      50.099998474121094
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      589.8,
+      259.21,
+      602.92,
+      354.98
+    ],
+    "text": "I II",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      16.799999237060547,
+      38.599998474121094,
+      47.20009994506836
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      591.75,
+      351.37,
+      601.92,
+      376.51
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.299999237060547
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      592.74,
+      459.24,
+      605.31,
+      526.71
+    ],
+    "text": "Il",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.20009994506836,
+      45.20009994506836
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      594.97,
+      528.81,
+      599.97,
+      553.54
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      598.33,
+      806.07,
+      605.61,
+      842.07
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      26.20009994506836
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      28.82,
+      31.52,
+      311.75,
+      61.79
+    ],
+    "text": "7",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      14.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      96.94,
+      67.88,
+      516.59,
+      86.16
+    ],
+    "text": "regard to the implementation of the above sentences we make no",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.06,
+      100.05,
+      516.76,
+      118.33
+    ],
+    "text": "changes and the both accused will have to serve a term of nine",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      96.94,
+      132.44,
+      516.82,
+      150.72
+    ],
+    "text": "years rigorous imprisonment with effect from today. We make no",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.29,
+      164.61,
+      513.67,
+      182.88
+    ],
+    "text": "changes on the sentences imposed on the 2nd, 3rd accused-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.29,
+      196.76,
+      517.21,
+      215.04
+    ],
+    "text": "appellant. Subject to the above variation in the sentences imposed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.28,
+      228.44,
+      431.48,
+      246.72
+    ],
+    "text": "on the 1 st Accused-Appellant the appeal stand dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      242.09,
+      288.68,
+      506.92,
+      306.96
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.13,
+      320.84,
+      212.89,
+      339.12
+    ],
+    "text": "H.C.J. Madawala, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.494407653808594,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      169.34,
+      353.24,
+      218.08,
+      371.52
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      242.32,
+      385.64,
+      486.03,
+      403.92
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.17,
+      435.32,
+      130.88,
+      453.6
+    ],
+    "text": "AKN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      588.67,
+      302.73,
+      604.02,
+      356.38
+    ],
+    "text": "I ! I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      15.0,
+      27.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      589.41,
+      354.17,
+      592.84,
+      366.71
+    ],
+    "text": "I.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.504134178161621
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      588.15,
+      369.39,
+      608.17,
+      485.13
+    ],
+    "text": "\\' II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.493277549743652,
+      27.600000381469727,
+      72.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      589.55,
+      467.61,
+      600.45,
+      521.47
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      39.20009994506836
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      591.0,
+      505.99,
+      598.99,
+      535.78
+    ],
+    "text": "! I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      591.84,
+      532.32,
+      595.2,
+      544.92
+    ],
+    "text": "~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.115142822265625
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      591.38,
+      549.72,
+      603.58,
+      639.25
+    ],
+    "text": "t I r [ i I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.0,
+      13.300000190734863,
+      14.0,
+      16.399999618530273,
+      21.899999618530273,
+      23.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      592.52,
+      632.33,
+      600.97,
+      663.76
+    ],
+    "text": "t I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.0,
+      15.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      593.2,
+      658.07,
+      602.26,
+      680.46
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.299999237060547
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      593.08,
+      675.38,
+      601.29,
+      720.98
+    ],
+    "text": "f f I !",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.099999904632568,
+      10.5,
+      11.100000381469727,
+      13.600000381469727
+    ]
+  }
+]

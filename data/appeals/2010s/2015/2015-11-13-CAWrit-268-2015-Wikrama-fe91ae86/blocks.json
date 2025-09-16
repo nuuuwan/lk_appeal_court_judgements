@@ -1,0 +1,3390 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      -0.67,
+      145.61,
+      13.73,
+      188.89
+    ],
+    "text": "1 I 1 .1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.093880653381348,
+      10.699999809265137,
+      19.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -0.16,
+      194.55,
+      11.44,
+      252.69
+    ],
+    "text": "J I j",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      14.899999618530273,
+      23.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -1.7,
+      277.06,
+      14.12,
+      305.21
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      21.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -0.29,
+      303.8,
+      9.48,
+      337.18
+    ],
+    "text": "t \\ j",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.800099849700928,
+      8.800000190734863,
+      18.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      -0.51,
+      327.1,
+      20.3,
+      457.1
+    ],
+    "text": "l j 1 , j 1 I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.399999618530273,
+      11.0,
+      11.600000381469727,
+      21.399999618530273,
+      30.20009994506836,
+      31.899999618530273,
+      36.40010070800781
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      0.05,
+      450.28,
+      14.45,
+      522.77
+    ],
+    "text": "1 1 I i j",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      10.600000381469727,
+      13.699999809265137,
+      17.5,
+      19.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      556.49,
+      36.37,
+      564.58,
+      49.7
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.48,
+      71.1,
+      568.49,
+      89.79
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.34,
+      248.53,
+      206.57,
+      270.0
+    ],
+    "text": "CA/WRIT/268/2015",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.57,
+      99.29,
+      357.22,
+      118.23
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.359306335449219
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.69,
+      154.62,
+      563.59,
+      171.1
+    ],
+    "text": "In the matter of an Application for mandates in",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.570333480834961,
+      11.899999618530273,
+      12.080333709716797
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.94,
+      175.26,
+      564.07,
+      191.74
+    ],
+    "text": "the nature of Writ of Certiorari in terms of the",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.725672721862793,
+      11.899999618530273,
+      12.080333709716797,
+      12.216832160949707
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.91,
+      196.38,
+      564.31,
+      212.86
+    ],
+    "text": "Provisions of Article 140 of the Constitution of the",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.080333709716797,
+      12.216832160949707,
+      12.3518705368042
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.96,
+      217.01,
+      526.03,
+      233.49
+    ],
+    "text": "Democratic Socialist Republic of Sri Lanka",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.216832160949707
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.05,
+      284.93,
+      565.01,
+      300.68
+    ],
+    "text": "1. Wikramasinghe Wasala Mudiyanselage Dayaratne",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.48951530456543,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.91,
+      306.5,
+      364.49,
+      321.98
+    ],
+    "text": "Bandara,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.13,
+      347.55,
+      565.67,
+      363.02
+    ],
+    "text": "2. Wikramasinghe Wasala Mudiyanselage Menaka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.488312721252441,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.15,
+      368.67,
+      416.03,
+      384.14
+    ],
+    "text": "Bandara both of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.49,
+      389.55,
+      444.11,
+      405.02
+    ],
+    "text": "No. 635/2, Ambalanwita,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.62,
+      410.17,
+      397.32,
+      425.64
+    ],
+    "text": "Eeriyandaluwa,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.63,
+      431.3,
+      379.34,
+      446.77
+    ],
+    "text": "Pelmadulla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.78,
+      472.34,
+      565.92,
+      487.81
+    ],
+    "text": "3. Dasanayake Mudiyanselage Yamuna Kumari",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.1,
+      493.7,
+      383.65,
+      509.18
+    ],
+    "text": "Dasanayake,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.05,
+      514.57,
+      402.64,
+      530.05
+    ],
+    "text": "Thanayamwatte,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.28,
+      535.46,
+      379.8,
+      550.93
+    ],
+    "text": "Opanayake.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.35,
+      576.27,
+      566.64,
+      591.74
+    ],
+    "text": "4. Dasanayake Mudiyanselage Saman Kumari",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.82,
+      597.62,
+      383.98,
+      613.1
+    ],
+    "text": "Dasana yake,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.83,
+      617.78,
+      518.29,
+      633.25
+    ],
+    "text": "Polwatte, Ambalanwita, Eeriyandaluwa,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      321.07,
+      639.39,
+      380.78,
+      654.86
+    ],
+    "text": "Pelmadulla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.96,
+      679.7,
+      567.69,
+      695.17
+    ],
+    "text": "5. Dasanayake Mudiyanselage Priyanka Ranjani",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      321.56,
+      700.82,
+      385.11,
+      716.29
+    ],
+    "text": "Dasanayake,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      321.89,
+      721.47,
+      452.59,
+      736.94
+    ],
+    "text": "No. 62/2, Thanayamwatte,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      321.96,
+      742.35,
+      381.48,
+      757.82
+    ],
+    "text": "Opanayake.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      557.68,
+      36.61,
+      565.77,
+      49.94
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.82,
+      71.3,
+      565.03,
+      86.77
+    ],
+    "text": "6. Dasanayake Mudiyanselage Kamani Srimathi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      319.15,
+      91.94,
+      382.7,
+      107.42
+    ],
+    "text": "Dasanayake,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.45,
+      277.99,
+      301.02,
+      294.93
+    ],
+    "text": "Vs,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.515052795410156
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      318.89,
+      112.83,
+      396.56,
+      128.3
+    ],
+    "text": "Eeri yandal uwa,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      318.91,
+      133.71,
+      378.62,
+      149.18
+    ],
+    "text": "Pelmadulla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.61,
+      175.21,
+      536.54,
+      190.68
+    ],
+    "text": "7. Yapita Mudiyanselage Seneviratne Bandara,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      319.01,
+      196.09,
+      441.04,
+      211.56
+    ],
+    "text": "No. 157, Delgashandiya,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      318.84,
+      216.98,
+      378.36,
+      232.45
+    ],
+    "text": "Opanayake.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      427.6,
+      248.3,
+      512.89,
+      264.36
+    ],
+    "text": "PETITIONERS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.11,
+      309.63,
+      497.08,
+      325.1
+    ],
+    "text": "1. National Gem and Jewellery Authority,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.462631225585938,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.89,
+      330.25,
+      440.0,
+      345.72
+    ],
+    "text": "No. 25, Galle Face Terrace,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.73,
+      351.13,
+      368.98,
+      366.61
+    ],
+    "text": "Colombo 03.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.89,
+      392.91,
+      430.39,
+      408.38
+    ],
+    "text": "2. Mr. Aruna Gunawardane,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.488312721252441,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.72,
+      413.79,
+      479.35,
+      429.26
+    ],
+    "text": "Chairman/ Chief Executive Officer,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.89,
+      434.66,
+      497.32,
+      450.13
+    ],
+    "text": "National Gem and Jewellery Authority,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      304.13,
+      455.54,
+      440.27,
+      471.01
+    ],
+    "text": "No. 25, Galle Face Terrace,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.96,
+      476.42,
+      368.98,
+      491.89
+    ],
+    "text": "Colombo 03.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.82,
+      517.94,
+      441.92,
+      533.41
+    ],
+    "text": "3. Mr. M.P.N. Wikramasinghe,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      304.03,
+      538.82,
+      390.73,
+      554.29
+    ],
+    "text": "Director General,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      304.37,
+      559.7,
+      497.57,
+      575.17
+    ],
+    "text": "National Gem and Jewellery Authority,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      304.38,
+      580.33,
+      440.52,
+      595.81
+    ],
+    "text": "No. 25, Galle Face Terrace,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      304.21,
+      601.21,
+      369.46,
+      616.69
+    ],
+    "text": "Colombo 03.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.15,
+      642.74,
+      403.41,
+      658.21
+    ],
+    "text": "4. N.P. Samarathunga,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      304.27,
+      662.9,
+      532.27,
+      678.37
+    ],
+    "text": "Deputy Director-Land Regional Development,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      304.51,
+      683.78,
+      386.9,
+      699.25
+    ],
+    "text": "Regional Office,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      304.61,
+      704.19,
+      498.06,
+      719.66
+    ],
+    "text": "National Gem and Jewellery Authority,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      304.51,
+      725.31,
+      359.21,
+      740.78
+    ],
+    "text": "Ratnapura.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      557.4,
+      36.93,
+      565.28,
+      50.94
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      282.32,
+      71.31,
+      383.47,
+      86.78
+    ],
+    "text": "5. D.T. Kulananda,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.43,
+      92.43,
+      564.25,
+      107.9
+    ],
+    "text": "Director-National Enforcement and Regional",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.43,
+      113.07,
+      370.98,
+      128.54
+    ],
+    "text": "Development,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      424.39,
+      111.9,
+      443.08
+    ],
+    "text": "Before:",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.53,
+      133.95,
+      493.96,
+      149.42
+    ],
+    "text": "National Gem and Jewellery Authority,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      303.41,
+      154.57,
+      439.51,
+      170.04
+    ],
+    "text": "No. 25, Galle Face Terrace,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      303.23,
+      175.45,
+      368.87,
+      190.93
+    ],
+    "text": "Colombo 03.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      282.1,
+      217.22,
+      529.14,
+      232.69
+    ],
+    "text": "6. Kottewatte Arachchillage Rukman Kottewatte,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.53567123413086,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.29,
+      237.86,
+      420.81,
+      253.34
+    ],
+    "text": "No.11O, Rakwana Road,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.19,
+      258.75,
+      359.9,
+      274.22
+    ],
+    "text": "Pelmadulla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      282.12,
+      300.51,
+      469.83,
+      315.98
+    ],
+    "text": "7. D.M. Sumith Gamini Dasanayake,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.53567123413086,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.14,
+      321.37,
+      382.53,
+      336.85
+    ],
+    "text": "Thana yamwatte,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.12,
+      342.02,
+      359.64,
+      357.49
+    ],
+    "text": "Opanayake.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130.77,
+      422.98,
+      347.1,
+      443.31
+    ],
+    "text": "Vijith K. Malalgoda PC J (PICA) &",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.100000381469727,
+      13.5,
+      14.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      131.68,
+      450.94,
+      263.06,
+      473.24
+    ],
+    "text": "H. C. J. Madawala J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.486793518066406,
+      13.5,
+      15.119759559631348,
+      16.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      427.14,
+      363.46,
+      519.08,
+      379.25
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.36,
+      510.79,
+      430.47,
+      529.48
+    ],
+    "text": "Counsel: Gamini Marapana PC, with Navin Marapana for the Petitioners",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125.47,
+      541.88,
+      509.25,
+      558.14
+    ],
+    "text": "Manohara R. de Silva PC with Anuruddha Dharmaratne for the 6th Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.099999904632568,
+      11.535572052001953,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125.47,
+      569.72,
+      400.53,
+      585.97
+    ],
+    "text": "Ruwanthi Hearth Gunaratne, SC for 1st _5th Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.197579383850098,
+      10.304566383361816,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.44,
+      637.94,
+      178.9,
+      653.41
+    ],
+    "text": "Inquiry on: 11.09.2015",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.24,
+      665.54,
+      299.75,
+      681.01
+    ],
+    "text": "Written Submission on: 23.09.2015,30.09.2015",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.39,
+      693.45,
+      177.02,
+      709.24
+    ],
+    "text": "Order on: 04.11.2015",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      557.0,
+      36.43,
+      564.73,
+      50.17
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.01,
+      69.02,
+      266.43,
+      109.95
+    ],
+    "text": "Order Vijith K. Malalgoda PC J (PICA)",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.5,
+      14.100000381469727,
+      15.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.99,
+      120.04,
+      459.14,
+      135.79
+    ],
+    "text": "Petitioner to the present application had come before this court seeking inter alia,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100.55,
+      157.97,
+      572.89,
+      173.72
+    ],
+    "text": "11. issue a mandate in the nature of Writ of Certiorari quashing the decision of the 4th",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.300099849700928,
+      7.8587260246276855,
+      11.800000190734863,
+      11.881667137145996
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      137.22,
+      185.03,
+      573.27,
+      201.55
+    ],
+    "text": "Respondent to issue a license to the 6th Respondent to gem on aforesaid land depicted on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.300099849700928,
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      136.94,
+      213.65,
+      572.96,
+      229.4
+    ],
+    "text": "lot 1 in final plan No. 1750 dated 31.08.2011 prepared by Kapila Edirisinghe License",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      137.07,
+      240.71,
+      565.01,
+      257.23
+    ],
+    "text": "Surveyor and/ or quash any license issued to the 6th Respondent to gem on the said land.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.300099849700928,
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100.55,
+      268.78,
+      573.42,
+      285.07
+    ],
+    "text": "111. Issue an interim order staying the operation of the decision of the 2nd and 5th Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.300099849700928,
+      11.800000190734863,
+      11.881667137145996
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      137.01,
+      295.73,
+      571.61,
+      312.67
+    ],
+    "text": "to issue a license to gem to the 6th Respondent as evidenced by the letter of the 5th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.580573558807373,
+      7.699999809265137,
+      11.576228141784668,
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      136.98,
+      323.98,
+      573.42,
+      340.52
+    ],
+    "text": "Respondent P-19 and also prevent the 6th Respondent, his servants, agents and/or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.300099849700928,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      136.92,
+      352.37,
+      572.95,
+      368.12
+    ],
+    "text": "employees from carrying out any gemming activities in the land depicted as lot 1 in Final",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      136.99,
+      380.45,
+      573.08,
+      396.2
+    ],
+    "text": "Partition Plan bearing No 1750 dated 31.08.2011 prepared by Kapila Edirisinghe,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      137.22,
+      408.05,
+      572.98,
+      423.8
+    ],
+    "text": "Licensed Surveyor including but not limited to mining for gems, washing gem gravel,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      137.27,
+      435.65,
+      572.64,
+      451.4
+    ],
+    "text": "removing gem gravel and the use of mechanized gemming equipment pending the final",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.019018173217773
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      137.17,
+      463.72,
+      296.89,
+      479.47
+    ],
+    "text": "determination of this application",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.881667137145996
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.7,
+      500.44,
+      573.3,
+      517.15
+    ],
+    "text": "The petitioners when supporting the application submitted that, the 1st Respondent, the National Gem",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.49,
+      528.46,
+      573.56,
+      545.24
+    ],
+    "text": "Jewellery Authority and 2nd to 5th Respondents have taken a decision to issue and/or issued a gemming",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.300099849700928,
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.7,
+      555.64,
+      572.75,
+      572.59
+    ],
+    "text": "license to the 6th Respondent as evinced in the document dated 18.05.2015 (P-19). The Petitioner'",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      11.701539039611816,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.67,
+      583.9,
+      572.93,
+      600.44
+    ],
+    "text": "further submitted that the 6th Respondent who is a complete out sider who does not possess soil rights to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.300099849700928,
+      11.576228141784668,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.01,
+      612.52,
+      573.67,
+      628.27
+    ],
+    "text": "the land in question has claimed leased rights which he said to have acquired whilst a partition action",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.739947319030762,
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.56,
+      640.12,
+      130.62,
+      655.87
+    ],
+    "text": "was pending.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.08,
+      676.12,
+      572.33,
+      693.31
+    ],
+    "text": "Since the said decision of the 1st and/or 2nd to 5th Respondents were purely based on the 2/3 share the 6th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.300099849700928,
+      7.580573558807373,
+      7.699999809265137,
+      11.740449905395508,
+      11.800000190734863,
+      11.881667137145996
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.98,
+      705.17,
+      574.23,
+      720.92
+    ],
+    "text": "Respondent is claiming on the said document petitioner moved to quash the said decision by way of a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863,
+      11.881667137145996
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      596.2,
+      387.22,
+      603.98,
+      514.0
+    ],
+    "text": "IftItli!!I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.800099849700928,
+      11.199999809265137,
+      11.399999618530273,
+      12.0,
+      13.300000190734863,
+      13.600000381469727,
+      15.899999618530273,
+      17.100000381469727,
+      19.20009994506836,
+      33.79999923706055
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      596.01,
+      544.06,
+      602.11,
+      576.61
+    ],
+    "text": ",",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      24.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      558.85,
+      37.62,
+      566.52,
+      50.26
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.64,
+      71.06,
+      575.46,
+      86.53
+    ],
+    "text": "Writ of Certiorari and considering the outcome of the said decision, further moved for grant interim",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.916726112365723
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.43,
+      98.91,
+      374.48,
+      114.38
+    ],
+    "text": "relief as prayed, to prevent further damage to the said property.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.12,
+      136.82,
+      575.63,
+      152.29
+    ],
+    "text": "This court being satisfied with the submission made on behalf of the Petitioners decided to issue notices",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.916726112365723
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.08,
+      164.67,
+      411.94,
+      180.14
+    ],
+    "text": "as well as a limited stay as prayed in sub paragraph (iii) to the Petition.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.1,
+      200.69,
+      576.99,
+      217.82
+    ],
+    "text": "The 1st to 5th and 6th Respondents who appeared before this court on notice objected to the extension of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.413936138153076,
+      7.699999809265137,
+      11.600000381469727,
+      11.642721176147461
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.41,
+      230.18,
+      575.41,
+      245.65
+    ],
+    "text": "the said interim order and the present inquiry was held in order to consider the extension of the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.34,
+      258.02,
+      135.33,
+      273.49
+    ],
+    "text": "interim order.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.95,
+      294.53,
+      575.24,
+      311.41
+    ],
+    "text": "At the inquiry before us it was revealed that the 1st Petitioner W.W.M. Dayaratne Bandara, one G.M.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.14,
+      323.79,
+      575.53,
+      339.26
+    ],
+    "text": "Heenmenike and one G.M. Cyril Welagedara entered into an Agreement No. 26790 dated 25.08.2010",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.18,
+      349.96,
+      575.46,
+      366.85
+    ],
+    "text": "with the 6th Respondent, whereby it was agreed that they would lease the portion of land allotted to them",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      11.477705001831055,
+      11.600000381469727,
+      11.916726112365723
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.97,
+      377.8,
+      575.49,
+      394.7
+    ],
+    "text": "by the Final Decree in District Court of Ratnapura Case No. 112101P to the 6th Respondent for a period",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.08,
+      405.89,
+      575.47,
+      422.63
+    ],
+    "text": "of 10 years. It was further reveled that at the time the said agreement was reached the 1st Petitioner was",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      11.600000381469727,
+      11.707071304321289,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.08,
+      434.91,
+      575.69,
+      450.38
+    ],
+    "text": "entitled to an undivided 1/3 share of the said land and the said Heenmanike who is the predecessor in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.642721176147461
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.4,
+      461.08,
+      526.17,
+      478.21
+    ],
+    "text": "title to the 3rd to the 6th Petitioners was also entitled to the undivided 1/3 share of the said land.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.580573558807373,
+      7.61032772064209,
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.1,
+      499.01,
+      575.98,
+      515.75
+    ],
+    "text": "It appears that the 2/3 share the 6th Respondent was relying, was mainly based on the said agreement",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.580573558807373,
+      11.600000381469727,
+      11.707071304321289
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.37,
+      528.26,
+      575.75,
+      543.73
+    ],
+    "text": "26790 dated 25.08.2010 which was produced marked P-1O and the entire case will be focused on this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.34310531616211,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.57,
+      554.69,
+      576.28,
+      571.33
+    ],
+    "text": "document. The 6th Respondent's argument before this case was based on section 66 (1) of the Partition",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.580573558807373,
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.18,
+      583.46,
+      150.97,
+      598.93
+    ],
+    "text": "Act to the effect;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103.46,
+      621.14,
+      576.06,
+      636.61
+    ],
+    "text": "\"After a partition action is duly registered as a lis pendens under the Registration of Document",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103.8,
+      648.87,
+      576.2,
+      665.21
+    ],
+    "text": "Ordinance no voluntary alienation, lease or hypothecation of any undivided share or interest",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103.56,
+      676.1,
+      576.17,
+      691.57
+    ],
+    "text": "of or in the land to which the action relates shall be made or affected until the final determination",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103.56,
+      703.7,
+      575.92,
+      719.17
+    ],
+    "text": "of the action by dismissal thereof, or by the entry of a decree of partition under section 36 or by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.642721176147461,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.12,
+      731.55,
+      261.4,
+      747.02
+    ],
+    "text": "the entry of a certificate of sale\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.916726112365723,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      559.31,
+      35.73,
+      567.19,
+      49.74
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      103.8,
+      70.58,
+      576.23,
+      86.05
+    ],
+    "text": "and submitted that said agreement does not refer to voluntary alienation, lease or hypothecation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.56,
+      98.43,
+      575.33,
+      113.9
+    ],
+    "text": "of any undivided share or interest but it contains only a promise and/or undertaking and therefore the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.75,
+      125.33,
+      576.34,
+      141.73
+    ],
+    "text": "said agreement remains valid and binding upon parties and therefore the 1st Respondent Authority and/or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.61,
+      151.96,
+      342.72,
+      169.33
+    ],
+    "text": "2nd to 5th Respondents has rightly taken cognizance of it.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.592651844024658,
+      7.699999809265137,
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.39,
+      190.6,
+      574.25,
+      207.02
+    ],
+    "text": "However the Petitioners challenged the validity of the license issued by the 1st and/or 2nd _5th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.4650139808654785,
+      7.580573558807373,
+      7.699999809265137,
+      10.164361000061035,
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.63,
+      219.38,
+      575.49,
+      234.85
+    ],
+    "text": "Respondents, based on P-lO since final decree has now been entered in the said partition action. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.21,
+      247.23,
+      576.04,
+      262.7
+    ],
+    "text": "position taken up by the Petitioners were that, at best P-lO can only considered as a document purporting",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.41,
+      275.05,
+      443.94,
+      290.53
+    ],
+    "text": "to create an encumbrance as referred to in section 48 (1) of the Partition Law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.38,
+      312.99,
+      575.5,
+      328.46
+    ],
+    "text": "Petitioners have strengthen their argument by referring to Regulation 8 (2) of the Regulations made",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.44,
+      340.57,
+      417.6,
+      356.04
+    ],
+    "text": "under the National Gems and Jewellary Authority Act which reads thus;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      103.22,
+      378.5,
+      343.95,
+      393.97
+    ],
+    "text": "\"No license shall be granted to any person unless-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      158.05,
+      416.42,
+      318.08,
+      431.89
+    ],
+    "text": "a. He himself owns the land, or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.171225547790527,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.93,
+      444.26,
+      575.56,
+      459.73
+    ],
+    "text": "b. He has obtained the consent of so many of the other owners as to ensure that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.583989143371582,
+      11.600000381469727,
+      11.78054428100586,
+      11.916726112365723
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      176.03,
+      472.1,
+      574.98,
+      487.57
+    ],
+    "text": "applicant and such other consenting owners together own at least two thirds of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.642721176147461
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      176.3,
+      499.69,
+      448.46,
+      515.17
+    ],
+    "text": "land in respect of which the application has been made\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.34,
+      535.96,
+      575.54,
+      552.85
+    ],
+    "text": "The position taken up by the Petitioners on this issue was that the 6th Respondent is not a soil owner and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.42,
+      565.22,
+      494.34,
+      580.69
+    ],
+    "text": "therefore, in law, he could not have been issued a license to gem in the land in question.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.41,
+      603.15,
+      575.45,
+      618.62
+    ],
+    "text": "When considering the arguments placed by both parties before us, the court is of the view that both these",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.46,
+      630.74,
+      575.73,
+      646.22
+    ],
+    "text": "positions placed by the two parties will have a significant bearing on the final outcome of this case. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.56,
+      658.11,
+      575.71,
+      673.58
+    ],
+    "text": "court further observes that it is too early for this court to reject one version against the other. However,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.67,
+      685.69,
+      576.24,
+      701.17
+    ],
+    "text": "the most important issue this court will have to now consider is the extension of the interim relief this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.916726112365723
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.82,
+      713.3,
+      188.38,
+      728.78
+    ],
+    "text": "court has already issued.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      560.53,
+      36.75,
+      568.03,
+      50.09
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.76,
+      70.58,
+      569.79,
+      86.05
+    ],
+    "text": "Circumstances under which interim reliefs are granted by our courts were discussed in a number of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.642721176147461
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.53,
+      98.66,
+      568.89,
+      114.19
+    ],
+    "text": "cases such as Billimoria V. Minister of Lands (1978-1979) 1 Sri LR 10, Duwearachchi and another",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.838751792907715,
+      12.300000190734863,
+      12.659253120422363,
+      13.388992309570312
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.7,
+      126.51,
+      568.22,
+      142.1
+    ],
+    "text": "V. Vincent Perera (1984) 2 Sri LR 94, Mahindasoma V. Mithripala Senanayake and others (1996) 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.600000381469727,
+      11.838751792907715,
+      12.300000190734863,
+      12.334053039550781,
+      12.562989234924316
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.14,
+      154.38,
+      127.98,
+      169.4
+    ],
+    "text": "SriLR 180.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.612139701843262
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.06,
+      192.02,
+      568.02,
+      207.49
+    ],
+    "text": "This court bears in mind the useful reminder of that celebrated jurisprudence as propounded by Neville",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.2,
+      219.87,
+      568.46,
+      235.4
+    ],
+    "text": "Samarakone CJ in the case of Billimoria V. Minister of Lands, Land Development and Mahaweli",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.838751792907715,
+      11.916726112365723,
+      12.300000190734863,
+      12.351890563964844,
+      13.388992309570312
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.54,
+      247.71,
+      567.91,
+      263.24
+    ],
+    "text": "Development and Two Others (1978-1979) I Sri LR 13 that \"the interest of justice therefore required",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.685684204101562,
+      11.78054428100586,
+      12.299699783325195,
+      12.300000190734863,
+      12.562989234924316
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.36,
+      275.32,
+      567.3,
+      291.07
+    ],
+    "text": "that a stay order be made as an interim measure. It would not be correct to judge such stay order in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.586341857910156,
+      11.600000381469727,
+      11.682111740112305
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.48,
+      303.14,
+      568.34,
+      318.62
+    ],
+    "text": "same strict manner as final orders by their very nature must depend a great deal on a judge's opinion",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.27,
+      330.97,
+      253.64,
+      346.45
+    ],
+    "text": "as to the necessity for interim action.\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.52,
+      368.91,
+      568.07,
+      384.44
+    ],
+    "text": "Court of Appeal in the case of Deuwearchchi and another V. Vincent Perera and another (1984) 2",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.68597412109375,
+      11.78054428100586,
+      11.916726112365723,
+      12.300000190734863,
+      12.334053039550781
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.14,
+      396.74,
+      564.46,
+      412.27
+    ],
+    "text": "Sri LR 94 held that the court should be guided by the following principle when granting interim relief.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.768969535827637,
+      12.300000190734863,
+      12.659253120422363
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.32,
+      434.41,
+      480.13,
+      449.89
+    ],
+    "text": "I will the final order be rendered nugatory if the petitioner is successful",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.763005256652832
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.32,
+      462.26,
+      346.76,
+      477.73
+    ],
+    "text": "II where does the balance of convenience lie",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.916726112365723
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.56,
+      490.35,
+      512.53,
+      505.82
+    ],
+    "text": "III will irreparable and irremediable mischief or injury be caused to either party",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.35,
+      527.79,
+      567.65,
+      543.26
+    ],
+    "text": "Petitioners have come before this court seeking the issuance of a Writ of Certiorari to quash the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.29,
+      554.6,
+      567.77,
+      570.85
+    ],
+    "text": "gemming license issued to the 6th Respondent, according to them is completely an outsider who does",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.099999904632568,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.62,
+      583.22,
+      567.47,
+      598.69
+    ],
+    "text": "not have soil right to the land in question. As submitted by them if the interim order is vacated now,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.763005256652832
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.62,
+      611.06,
+      567.66,
+      626.53
+    ],
+    "text": "the Petitioners suffer grave, irremediable and irreparable loss to them. On contrary the extension of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.642721176147461
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.78,
+      638.65,
+      568.03,
+      654.13
+    ],
+    "text": "interim order will not cause any loss to either party since the gems who ever the party intending to take",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.53,
+      665.23,
+      568.14,
+      681.49
+    ],
+    "text": "out will continue to remain on the land. However the 6th Respondent submitted that he invested nearly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.099999904632568,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.35,
+      693.38,
+      568.13,
+      708.85
+    ],
+    "text": "400000/- to develop the gem pit but we observe that the license issued on him had expired on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.81,
+      720.99,
+      567.28,
+      736.46
+    ],
+    "text": "25.10.2015 and therefore the extension of the interim order will any way not cause further loss to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.916726112365723
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.96,
+      747.79,
+      146.08,
+      764.06
+    ],
+    "text": "6th Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.1873626708984375,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      597.19,
+      423.71,
+      599.59,
+      430.31
+    ],
+    "text": "j",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.800099849700928
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      597.22,
+      487.06,
+      600.97,
+      501.04
+    ],
+    "text": "i r",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.500100135803223
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      595.88,
+      550.28,
+      604.04,
+      658.33
+    ],
+    "text": "tII[tIi",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727,
+      10.699999809265137,
+      11.100000381469727,
+      16.100000381469727,
+      17.399999618530273,
+      18.899999618530273,
+      35.40010070800781
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      596.25,
+      681.75,
+      602.48,
+      742.19
+    ],
+    "text": "I[II",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.399999618530273,
+      14.0,
+      19.5,
+      20.20009994506836
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      557.81,
+      35.74,
+      565.68,
+      49.75
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.67,
+      70.82,
+      566.21,
+      86.29
+    ],
+    "text": "For the reasons discussed above I see no grounds to vacate the interim order already issued by this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.59,
+      98.67,
+      566.04,
+      114.14
+    ],
+    "text": "court as prayed by the Petitioner in sub paragraph (iii) to the Petition and decided to extend the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.36,
+      126.74,
+      292.25,
+      142.21
+    ],
+    "text": "order until the final determination of this case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      320.08,
+      240.6,
+      557.69,
+      256.67
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.88,
+      267.04,
+      175.4,
+      285.6
+    ],
+    "text": "H.C.J. Madawala",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      167.17,
+      295.16,
+      212.03,
+      313.44
+    ],
+    "text": "I agree,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      319.89,
+      352.69,
+      530.19,
+      368.76
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      595.13,
+      329.11,
+      603.28,
+      408.03
+    ],
+    "text": "f 1! l!",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      11.699999809265137,
+      15.5,
+      15.699999809265137,
+      35.099998474121094
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      595.17,
+      413.45,
+      605.01,
+      592.54
+    ],
+    "text": "; !I t ltrI I! iI!! r",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.300099849700928,
+      5.699999809265137,
+      7.800099849700928,
+      8.100000381469727,
+      8.5,
+      9.100000381469727,
+      10.5,
+      14.399999618530273,
+      15.899999618530273,
+      16.100000381469727,
+      19.20009994506836,
+      23.399999618530273,
+      29.299999237060547,
+      35.40010070800781
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      596.53,
+      590.48,
+      599.09,
+      596.81
+    ],
+    "text": ";",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.599999904632568
+    ]
+  }
+]

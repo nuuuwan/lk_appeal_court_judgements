@@ -1,0 +1,3858 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      88.87,
+      62.06,
+      521.41,
+      84.87
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.41721248626709,
+      15.514455795288086,
+      15.602212905883789,
+      15.665231704711914,
+      15.668726921081543,
+      15.735330581665039,
+      15.813676834106445,
+      15.905210494995117,
+      16.041763305664062
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      215.9,
+      85.83,
+      394.7,
+      108.64
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.96448040008545,
+      15.41721248626709,
+      15.611359596252441,
+      16.02385139465332
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.6,
+      489.2,
+      114.8,
+      504.73
+    ],
+    "text": "C.A. No.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.74,
+      514.88,
+      186.8,
+      530.41
+    ],
+    "text": "H. C. Badulla Case No.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.487704277038574,
+      11.155172348022461,
+      11.208378791809082,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      209.99,
+      489.73,
+      249.31,
+      506.27
+    ],
+    "text": "81/14",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.247535705566406
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      210.26,
+      515.17,
+      268.69,
+      531.71
+    ],
+    "text": "128/2002",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.792099952697754
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.54,
+      152.49,
+      499.4,
+      168.02
+    ],
+    "text": "In the matter of an Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.139002799987793,
+      11.230938911437988,
+      11.300000190734863,
+      11.480311393737793,
+      11.484296798706055,
+      11.898975372314453
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.0,
+      178.17,
+      540.01,
+      193.7
+    ],
+    "text": "against an order of the High Court",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.230938911437988,
+      11.300000190734863,
+      11.400304794311523,
+      11.427382469177246,
+      11.898975372314453
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.15,
+      203.61,
+      518.01,
+      219.14
+    ],
+    "text": "under Sec. 331 of the Code of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.05330753326416,
+      11.300000190734863,
+      11.349143028259277,
+      11.400304794311523,
+      11.7659912109375,
+      11.898975372314453
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      356.72,
+      229.05,
+      534.0,
+      244.58
+    ],
+    "text": "Criminal Procedure Act No. 15 of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.631536483764648
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      356.93,
+      252.75,
+      388.94,
+      269.42
+    ],
+    "text": "1979.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.93,
+      330.57,
+      473.41,
+      346.1
+    ],
+    "text": "AparekkaJayasundara",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      356.39,
+      347.85,
+      500.1,
+      363.38
+    ],
+    "text": "Mudiyanselage Jayathilaka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.35,
+      364.88,
+      424.38,
+      380.41
+    ],
+    "text": "Jayasewana,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      356.14,
+      390.08,
+      394.52,
+      405.6
+    ],
+    "text": "Prison,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      356.17,
+      415.53,
+      400.89,
+      431.05
+    ],
+    "text": "Badulla.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      427.7,
+      441.91,
+      531.83,
+      457.44
+    ],
+    "text": "Accused-Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.69,
+      560.54,
+      368.22,
+      584.69
+    ],
+    "text": "v.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.22576141357422
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.41,
+      619.28,
+      502.92,
+      634.81
+    ],
+    "text": "The Hon. Attorney General,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.396141052246094
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.49,
+      644.49,
+      527.89,
+      660.02
+    ],
+    "text": "Attorney General's Department,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.396141052246094
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.56,
+      669.2,
+      424.47,
+      684.73
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      427.18,
+      695.14,
+      495.11,
+      710.66
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      529.31,
+      733.21,
+      537.33,
+      747.49
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      594.48,
+      418.38,
+      606.41,
+      498.83
+    ],
+    "text": "!! rI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      12.0,
+      18.0,
+      42.90010070800781
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      595.58,
+      525.32,
+      601.71,
+      563.29
+    ],
+    "text": "Ir",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.70009994506836,
+      20.799999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      595.28,
+      528.33,
+      605.12,
+      604.59
+    ],
+    "text": "~ ,It",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.3941125869750977,
+      16.20009994506836,
+      17.20009994506836,
+      35.40010070800781
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      594.45,
+      608.05,
+      606.74,
+      688.4
+    ],
+    "text": "fII",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      16.399999618530273,
+      18.899999618530273,
+      44.20009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.26,
+      96.03,
+      109.99,
+      111.73
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.849508285522461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.85,
+      171.63,
+      119.0,
+      187.33
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.094660758972168
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.53,
+      247.81,
+      135.2,
+      262.37
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727,
+      10.664205551147461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.0,
+      297.96,
+      136.4,
+      312.53
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727,
+      10.664205551147461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.72,
+      95.28,
+      315.91,
+      112.46
+    ],
+    "text": "H. N. J. Perera, J. &",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.0,
+      11.2144775390625,
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.75,
+      120.49,
+      343.72,
+      137.67
+    ],
+    "text": "K. K. Wickramasinghe, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.325255393981934,
+      10.460206031799316,
+      11.0,
+      11.2144775390625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.15,
+      171.12,
+      459.85,
+      187.06
+    ],
+    "text": "Jagath Abeynayake for the Accused-Appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.631706237792969,
+      11.735113143920898
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.23,
+      196.32,
+      483.41,
+      212.26
+    ],
+    "text": "Yasantha Kodagoda ASG, for the Attorney General.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.045234680175781,
+      11.600000381469727,
+      11.735113143920898
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.86,
+      244.25,
+      302.1,
+      262.42
+    ],
+    "text": "21st of May 2015",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      11.500977516174316,
+      11.600000381469727,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.86,
+      294.41,
+      320.18,
+      312.83
+    ],
+    "text": "21st of January 2016",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      11.500977516174316,
+      11.600000381469727,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.03,
+      372.01,
+      213.64,
+      389.19
+    ],
+    "text": "K. K. WICKRAMASINGHE, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.511310577392578,
+      11.2144775390625,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.68,
+      422.89,
+      539.87,
+      523.78
+    ],
+    "text": "The Accused- Appellant, herein after referred to as the \"Appellant\", was indicted in the High Court of Badulla for having committed rape on a minor (his adopted daughter, namely; Disanayake Mudiyanselage Bandara Menika Rangani Rathnayake) at Kithulella on or about a day in between 2000. 03. 01 to 2000. 03. 31 and on or about a day in between 2000. 05. 01 to 2000.05.30, and thereby committing offences punishable under sec. 364 (2) (e) of the Penal Code as amended by Act No. 22 of 1995.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.081356048583984,
+      11.349955558776855,
+      11.500977516174316,
+      11.509295463562012,
+      11.57076358795166,
+      11.584540367126465,
+      11.595699310302734,
+      11.598350524902344,
+      11.600000381469727,
+      11.616738319396973,
+      11.631706237792969,
+      11.682357788085938,
+      11.735113143920898,
+      11.828254699707031,
+      11.921154022216797,
+      11.961905479431152
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.01,
+      558.0,
+      540.72,
+      590.98
+    ],
+    "text": "After the trial the Appellant was found not guilty for the second count and convicted only for the first count and sentenced to twelve years rigorous imprisonment, a fine of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.631706237792969,
+      11.735113143920898,
+      11.763842582702637,
+      11.784926414489746,
+      11.961905479431152
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.95,
+      592.32,
+      540.36,
+      642.34
+    ],
+    "text": "Rs. 15000/= with a default sentence of 6 months imprisonment and to pay compensation of Rs. 150 000/= payable to the victim with a default sentence of two years rigorous imprisonment, on 2015.06.24.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.547886848449707,
+      10.641609191894531,
+      11.595699310302734,
+      11.600000381469727,
+      11.631706237792969,
+      11.66278076171875,
+      11.771236419677734,
+      11.784926414489746,
+      11.828254699707031,
+      11.921154022216797
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.25,
+      676.31,
+      541.2,
+      709.07
+    ],
+    "text": "During the trial, the Victim, her mother, her teacher, the medical officer, the investigating officers and Additional Division Secretary had given evidence on behalf of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.631706237792969,
+      11.784926414489746
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      531.78,
+      732.02,
+      539.28,
+      745.36
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64.68,
+      60.28,
+      535.42,
+      93.52
+    ],
+    "text": "the prosecution. However, the Appellant had only made a dock statement after the conclusion of the case of the prosecution and had not called for any witnesses.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.559346199035645,
+      11.755666732788086,
+      11.800000190734863,
+      11.864822387695312,
+      12.022256851196289,
+      12.023484230041504,
+      12.159378051757812
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64.92,
+      128.66,
+      535.95,
+      161.93
+    ],
+    "text": "Being aggrieved of the aforesaid conviction and sentence the Appellant preferred this appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.159378051757812
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64.82,
+      197.07,
+      537.69,
+      264.88
+    ],
+    "text": "According to the evidence led by the prosecution, the victim was only about 13 years of age at the time of the incident and the victim, admitting an inference made by the learned State Counsel, had stated that the incident happened on a day in between 1999.4.14 to 2000.4.30 (vide page 55 of the brief).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.536764144897461,
+      11.593238830566406,
+      11.599852561950684,
+      11.72174072265625,
+      11.755666732788086,
+      11.764395713806152,
+      11.76830768585205,
+      11.800000190734863,
+      11.805298805236816,
+      11.92978572845459,
+      12.023484230041504
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64.96,
+      299.79,
+      538.27,
+      470.8
+    ],
+    "text": "The victim was a child of a very poor family which had about eight children. According to the victim, her parents didn't have enough money to give her a good education and she had gone to school only up to grade two while she was with her parents. Therefore, her parents had sent her to the appellant to adopt her as their own child when she was seven years old. The appellant was married at that time but didn't have any children. So both appellant and his wife had adopted the victim as their own child and treated her well. The evidence given by the prosecution witness no. 3 (mother of the victim) also corroborates her evidence with regard to this fact. However, according to the victim these well treatments of the appellant and his wife had changed after the birth of their own son (vide page 63 of the brief).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.059943199157715,
+      11.17647647857666,
+      11.496599197387695,
+      11.601479530334473,
+      11.657388687133789,
+      11.67074203491211,
+      11.683979988098145,
+      11.736982345581055,
+      11.739595413208008,
+      11.755666732788086,
+      11.757723808288574,
+      11.758828163146973,
+      11.764395713806152,
+      11.76830768585205,
+      11.786842346191406,
+      11.800000190734863,
+      11.818085670471191,
+      11.87143325805664,
+      11.886086463928223,
+      11.92978572845459,
+      11.944465637207031,
+      12.023484230041504,
+      12.064583778381348
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.94,
+      505.47,
+      538.77,
+      710.56
+    ],
+    "text": "As clearly divulged by the victim, one day (in between 1999.4.14 to 2000.4.30) evening the aunt (appellant's wife) had asked her to inform the appellant to come and fix the television as it was not working. At that time, the appellant was at a nearby (about 10 minutes away from their house) temple. So the victim had walked to the temple through the railway to convey the message to the appellant (about 6pm). At the temple, the victim had met the appellant and she had conveyed the message to him. Then the appellant had asked her to tell the aunt to plug it correctly and he will come later. So the victim had started to return home alone. While she was walking on the railway, the appellant had called her behind and asked her to come with him to pluck some 'nelli' (amla fruit) for aunt as she was pregnant those days (vide pages 59 and 60 of the brief). The victim had believed this as the aunt was actually pregnant and she knew that there are 'nelli' trees in that area of the woods. So she had gone to the woods ('maanakele')",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.948799133300781,
+      11.048788070678711,
+      11.059943199157715,
+      11.071779251098633,
+      11.17647647857666,
+      11.577299118041992,
+      11.599852561950684,
+      11.657388687133789,
+      11.678070068359375,
+      11.682818412780762,
+      11.683979988098145,
+      11.695235252380371,
+      11.697000503540039,
+      11.70542049407959,
+      11.716957092285156,
+      11.72918701171875,
+      11.731451034545898,
+      11.736982345581055,
+      11.741705894470215,
+      11.745272636413574,
+      11.755666732788086,
+      11.760835647583008,
+      11.76830768585205,
+      11.789345741271973,
+      11.793248176574707,
+      11.79329776763916,
+      11.800000190734863,
+      11.805298805236816,
+      11.835845947265625,
+      11.864822387695312,
+      11.87143325805664,
+      11.886086463928223,
+      11.92978572845459,
+      12.023484230041504,
+      12.030449867248535,
+      12.064583778381348,
+      12.259648323059082
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      530.76,
+      728.38,
+      538.64,
+      742.39
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      67.66,
+      60.06,
+      540.88,
+      370.54
+    ],
+    "text": "with the appellant without any hesitation. When they reached the place where the 'nelli' trees were, the appellant had held the victim and made her to lie on the ground facing up. At the time of this incident the appellant was wearing a trouser and at-shirt and the victim was wearing a trouser like a qlot and a t-shirt. Then the appellant had removed his own trouser and he had put down the trouser and the under pant of the , victim up to her knees. After that, the Appellant had pressed his male organ against the female organ of the victim for about five to ten minutes and he had moved up and down while doing so. Through this whole process, the appellant was closing the mouth of the victim with one of his hands and he was warning the victim not to shout (vide pages 60, 61, 71, 72 and 73 of the brief). Anyway, according to the evidence given by the witnesses for the prosecution that was a place where no one would have heard any sound even if the victim had shouted (vide pages 75, 109 and 110 of the brief). When the appellant got up, the victim had noticed something in white colour at the place where the appellant committed the act. After everything was done the appellant had worn his trouser back and dressed up the victim too. Then he had warned the victim not to tell anything about this incident to anyone and if she does so she will not be able to go back home. Finally, the victim had come home and the appellant had gone back to the temple (vide pages 62 and 74 of the brief).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      11.6199312210083,
+      11.632729530334473,
+      11.695281028747559,
+      11.699384689331055,
+      11.71609115600586,
+      11.73338794708252,
+      11.78711223602295,
+      11.821826934814453,
+      11.829184532165527,
+      11.836030006408691,
+      11.84079360961914,
+      11.841097831726074,
+      11.84287166595459,
+      11.854822158813477,
+      11.85487174987793,
+      11.858060836791992,
+      11.867619514465332,
+      11.883938789367676,
+      11.892720222473145,
+      11.90436840057373,
+      11.909005165100098,
+      11.91192626953125,
+      11.914495468139648,
+      11.932610511779785,
+      11.936833381652832,
+      11.944421768188477,
+      11.948137283325195,
+      11.948539733886719,
+      11.950798988342285,
+      11.953911781311035,
+      11.961638450622559,
+      11.967055320739746,
+      11.976527214050293,
+      11.982586860656738,
+      11.992748260498047,
+      12.0,
+      12.030112266540527,
+      12.030461311340332,
+      12.034501075744629,
+      12.12494945526123,
+      12.166397094726562,
+      12.26198959350586,
+      12.363106727600098,
+      12.589948654174805
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      68.82,
+      404.69,
+      541.28,
+      507.34
+    ],
+    "text": "When the victim was coming home just after the incident, her aunt was waiting for her at the door step as she was late (vide page 74 of the brief). Even though the victim was warned by the appellant not to tell anyone, she had told the whole act done to her by the appellant to the aunt just after she reached home. Then the aunt had asked her not to tell this to anyone else and she had told that she will question the appellant with regard to this incident (vide page 62 of the brief).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.14202880859375,
+      11.581812858581543,
+      11.619621276855469,
+      11.75576400756836,
+      11.769230842590332,
+      11.821826934814453,
+      11.832683563232422,
+      11.836030006408691,
+      11.839729309082031,
+      11.84079360961914,
+      11.844390869140625,
+      11.85487174987793,
+      11.863675117492676,
+      11.9216947555542,
+      11.932610511779785,
+      11.944320678710938,
+      12.0,
+      12.030461311340332,
+      12.12494945526123,
+      12.166397094726562,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.13,
+      541.74,
+      542.44,
+      661.43
+    ],
+    "text": "According to the victim, the appellant had come into her room on nights of some other days, while the aunt was sleeping, and had touched her breast and kissed her face by warning her not to shout. Also the victim had never shouted as the appellant was a tough person and he used to assault her even for small mistakes done by her (vide pages 62, 63 and 75 of the brief). Further the appellant had told her that he will buy her nice new pair of slippers if she didn't tell this to anyone. So she had not informed these incidents to anyone at that time.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.153277397155762,
+      11.398158073425293,
+      11.651643753051758,
+      11.697281837463379,
+      11.699384689331055,
+      11.753722190856934,
+      11.75576400756836,
+      11.78140926361084,
+      11.78711223602295,
+      11.821573257446289,
+      11.832683563232422,
+      11.84079360961914,
+      11.844340324401855,
+      11.893678665161133,
+      11.932610511779785,
+      11.934521675109863,
+      11.944320678710938,
+      11.944421768188477,
+      12.0,
+      12.030461311340332,
+      12.12494945526123,
+      12.131974220275879,
+      12.166397094726562
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      533.72,
+      728.83,
+      541.45,
+      742.57
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.98,
+      55.97,
+      538.41,
+      158.87
+    ],
+    "text": "After the aforesaid main incident in the woods she had learnt at the school, under the subject of 'Health and Physical Science', that girls should be careful of boys. With that lesson, she had got scared and on a day that she fainted at school she had told to her class teacher that she is not safe at her home (\"mata gedara karadarai\"). However, at that period of time that teacher had got a transfer and left the school (vide page 63 of the brief).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.36394214630127,
+      11.646389961242676,
+      11.674999237060547,
+      11.699384689331055,
+      11.745092391967773,
+      11.75576400756836,
+      11.80542278289795,
+      11.836030006408691,
+      11.854720115661621,
+      11.85487174987793,
+      11.909005165100098,
+      11.924210548400879,
+      11.932610511779785,
+      11.944421768188477,
+      11.953510284423828,
+      11.963343620300293,
+      11.988694190979004,
+      11.988795280456543,
+      12.0,
+      12.030461311340332,
+      12.03794002532959,
+      12.102165222167969,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.96,
+      193.73,
+      538.6,
+      296.38
+    ],
+    "text": "Then the victim, of her own, had sent a letter to the Ella police station, addressing to a police officer and without pasting any stamp, by merely putting it into the red colour post box in the school at which the postman used to collect letters. About a week after the letter was sent, some police officers had visited her place and she had informed the incident happened in the woods to them (vide page 63 of the brief). The police had visited the place where the incident happened with the victim.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.674999237060547,
+      11.675718307495117,
+      11.776620864868164,
+      11.815836906433105,
+      11.85487174987793,
+      11.863675117492676,
+      11.91192626953125,
+      11.912782669067383,
+      11.930800437927246,
+      11.932610511779785,
+      11.93411922454834,
+      11.944421768188477,
+      11.944772720336914,
+      11.976527214050293,
+      12.0,
+      12.030461311340332,
+      12.26198959350586,
+      12.363106727600098
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.96,
+      330.78,
+      538.33,
+      416.15
+    ],
+    "text": "However, according to the evidence given by the police officers who was called as witnesses, even though the victim stated that she sent a letter to the police stating all her grievances, they have not received any such letter (vide pages 113 and 114 of the brief). According to them, they have started the investigations upon information given by a lady probation officer to the Assistant Superintendent of Police on 2000.06.14.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.14202880859375,
+      11.793931007385254,
+      11.79830551147461,
+      11.829184532165527,
+      11.836030006408691,
+      11.84079360961914,
+      11.859325408935547,
+      11.93321418762207,
+      11.944320678710938,
+      11.956571578979492,
+      12.0,
+      12.030461311340332,
+      12.166397094726562,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.01,
+      450.53,
+      539.61,
+      570.22
+    ],
+    "text": "According to the evidence given by the victim, she had been raped by the younger brother of the appellant prior to the incident that took place in the woods. Accordingly, that incident had taken place on or about the same year she experienced the incident in woods. According to her, that was the first time she faced such kind of an incident in her lifetime (vide page 66, 67 and 68 of the brief). At that time, appellant's brother had given her a big chocolate and asked her not to tell anyone about that incident. Therefore, she had not informed it to anyone.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.454867362976074,
+      11.699384689331055,
+      11.746726989746094,
+      11.75576400756836,
+      11.836030006408691,
+      11.84079360961914,
+      11.844390869140625,
+      11.85487174987793,
+      11.859325408935547,
+      11.863675117492676,
+      11.932610511779785,
+      11.949995994567871,
+      11.976527214050293,
+      11.99579906463623,
+      12.0,
+      12.030461311340332,
+      12.12494945526123,
+      12.131974220275879,
+      12.166397094726562,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.73,
+      604.61,
+      538.74,
+      638.38
+    ],
+    "text": "At the time that the victim gave evidence in the Trial Court she was a married woman and she was also a mother.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.674999237060547,
+      11.75576400756836,
+      11.804203033447266,
+      11.84079360961914,
+      11.901495933532715,
+      11.909811019897461,
+      11.91192626953125,
+      11.944421768188477,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.12,
+      672.29,
+      539.64,
+      705.82
+    ],
+    "text": "The learned Counsel for the appellant argued on the following points to show that the prosecution had failed to prove its case beyond reasonable doubt, the learned Trial",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.65689468383789,
+      11.782580375671387,
+      11.909005165100098,
+      11.932610511779785,
+      11.980884552001953,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      531.93,
+      724.32,
+      539.95,
+      738.6
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.83,
+      55.04,
+      538.26,
+      70.57
+    ],
+    "text": "Judge had failed to analyse the facts of the case and also to show that the learned Trial",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.400304794311523,
+      11.480311393737793,
+      11.55247974395752,
+      11.674301147460938,
+      11.7659912109375,
+      11.806211471557617
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.83,
+      72.33,
+      295.32,
+      87.86
+    ],
+    "text": "Judge had failed to apply the law properly;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.55976390838623,
+      11.806211471557617
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.45,
+      97.23,
+      539.19,
+      113.9
+    ],
+    "text": "1. The teachers evidence was that the victim had told her only about domestic",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.341723442077637,
+      11.392570495605469,
+      11.395992279052734,
+      11.400304794311523,
+      11.46558666229248,
+      11.61719799041748,
+      12.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.43,
+      115.53,
+      539.03,
+      131.06
+    ],
+    "text": "harassment when she inquired about her breakfast when she fainted at school (vide",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.341723442077637,
+      11.373709678649902
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.66,
+      133.04,
+      539.27,
+      148.57
+    ],
+    "text": "page number 8~ of the brief). Further the said teacher had failed to assert anyth'ing",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      8.809993743896484,
+      11.300000190734863,
+      11.350786209106445,
+      11.400304794311523,
+      11.480311393737793,
+      11.674301147460938,
+      11.898975372314453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.81,
+      149.97,
+      539.55,
+      200.67
+    ],
+    "text": "specific regarding the appellant in her statement to the police (vide pages 90 and 91 of the brief). 2. In the case of the letter to the police the following has transpired during the case;",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.251496315002441,
+      11.300000190734863,
+      11.313192367553711,
+      11.313591957092285,
+      11.319732666015625,
+      11.347450256347656,
+      11.400304794311523,
+      11.480311393737793,
+      11.522558212280273,
+      11.674301147460938,
+      11.7659912109375,
+      11.806211471557617,
+      11.898975372314453,
+      12.083639144897461,
+      12.100000381469727,
+      12.13719367980957
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      104.53,
+      202.16,
+      252.81,
+      217.69
+    ],
+    "text": "a) No letter was produced.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.991642951965332,
+      11.300000190734863,
+      11.474059104919434
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      104.67,
+      219.09,
+      465.63,
+      235.23
+    ],
+    "text": "b) No police officer had seen the letter (vide page 114 of the brief).",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.195920944213867,
+      11.300000190734863,
+      11.400304794311523,
+      11.474059104919434,
+      11.480311393737793,
+      11.898975372314453,
+      12.250859260559082
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      104.52,
+      236.97,
+      539.87,
+      252.5
+    ],
+    "text": "c) The investigations triggered off following information given by a probation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.849781036376953,
+      11.300000190734863,
+      11.347400665283203,
+      11.375200271606445,
+      11.40114688873291,
+      11.698716163635254
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.74,
+      253.65,
+      539.68,
+      287.32
+    ],
+    "text": "officer (vide page 97 and 98 of the brief). 3. The victim's evidence was that she was not sure whether penetration occurred.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.319732666015625,
+      11.47282886505127,
+      11.487396240234375,
+      11.691082954406738,
+      11.898975372314453,
+      12.100000381469727,
+      12.13719367980957
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      68.6,
+      289.04,
+      540.7,
+      339.39
+    ],
+    "text": "Therefore, it is a question whether there was actual penetration during the incident that took place near the woods (vide pages 71, 72 and 73). 4. Even though the victim states that she was once raped by the brother of the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.027514457702637,
+      11.162261009216309,
+      11.300000190734863,
+      11.319732666015625,
+      11.332901954650879,
+      11.400304794311523,
+      11.411301612854004,
+      11.413381576538086,
+      11.496048927307129,
+      11.55247974395752,
+      11.55976390838623,
+      11.61719799041748,
+      11.898975372314453,
+      11.997097969055176,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.0,
+      341.12,
+      538.92,
+      356.65
+    ],
+    "text": "appellant (vice pages 66 and 67) she has not taken any steps as she did in this case.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.812170028686523,
+      11.235466003417969,
+      11.244463920593262,
+      11.300000190734863,
+      11.529813766479492
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.74,
+      358.4,
+      541.57,
+      373.93
+    ],
+    "text": "She did not tell her adopting mother, teacher or police by a letter, though it",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.15365219116211,
+      11.300000190734863,
+      11.305898666381836,
+      11.306797981262207,
+      11.313192367553711,
+      11.529813766479492,
+      11.657737731933594,
+      11.997097969055176
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.38,
+      374.77,
+      541.35,
+      408.51
+    ],
+    "text": "happened in the same year during New Year season (April) (vide pages 67, 68 and 69). Accordingly, the evidence given by the victim is unreliable, confusing and inter",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.027514457702637,
+      11.300000190734863,
+      11.319732666015625,
+      11.354021072387695,
+      11.400304794311523,
+      12.100000381469727,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.27,
+      410.24,
+      541.2,
+      425.77
+    ],
+    "text": "se contradictory and her demeanour as a whole as depicted throughout her",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.92213249206543,
+      10.93712329864502,
+      11.300000190734863,
+      11.313192367553711,
+      11.395050048828125
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.24,
+      427.28,
+      256.35,
+      442.81
+    ],
+    "text": "evidence is unstable and vague.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.027514457702637,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.81,
+      444.8,
+      540.54,
+      460.33
+    ],
+    "text": "Therefore, it is clear that the evidence of the victim that she complained to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.027514457702637,
+      11.300000190734863,
+      11.319732666015625,
+      11.400304794311523,
+      11.540882110595703,
+      11.55247974395752,
+      11.631536483764648,
+      11.772808074951172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.07,
+      462.08,
+      541.29,
+      477.61
+    ],
+    "text": "teacher and the police station about the incident (having no other resource) are not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.319732666015625,
+      11.338733673095703,
+      11.341723442077637,
+      11.400304794311523,
+      11.412688255310059
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.43,
+      479.36,
+      540.19,
+      512.2
+    ],
+    "text": "true and/or cannot be relied upon in deciding the spontaneity of her evidence. 5. Admitting a suggestion posed by the learned State Counsel in examination in chief,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.300450325012207,
+      11.377683639526367,
+      11.400304794311523,
+      11.480311393737793,
+      11.490494728088379,
+      11.7659912109375,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.31,
+      513.68,
+      540.67,
+      529.21
+    ],
+    "text": "the victim agreed that her trouble was caused during the period which extended",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.319732666015625,
+      11.347898483276367,
+      11.392570495605469,
+      11.400304794311523,
+      11.55247974395752
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.33,
+      524.37,
+      540.8,
+      546.51
+    ],
+    "text": "from 14th April 1999 to the 30th April 2000 (vide page 55 of the brief). If this",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.670510292053223,
+      11.300000190734863,
+      11.325571060180664,
+      11.400304794311523,
+      11.547343254089355,
+      11.674301147460938,
+      11.7659912109375,
+      12.047686576843262,
+      12.100000381469727,
+      12.131359100341797,
+      12.208860397338867
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.5,
+      548.49,
+      540.78,
+      564.02
+    ],
+    "text": "suggestion were to be acted upon in deciding the case against the appellant it would",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.251496315002441,
+      11.300000190734863,
+      11.319732666015625,
+      11.400304794311523,
+      11.540882110595703,
+      11.772808074951172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.72,
+      565.52,
+      183.21,
+      581.05
+    ],
+    "text": "either amount to:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.379173278808594
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.49,
+      582.45,
+      540.33,
+      615.86
+    ],
+    "text": "a) set the charges in the indictment violating the terms of sec. 174 (1) read with (2) of the Code of Criminal Procedure by setting charge of offences of same kind",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.139205932617188,
+      11.272917747497559,
+      11.300000190734863,
+      11.312193870544434,
+      11.319732666015625,
+      11.354120254516602,
+      11.387907981872559,
+      11.400304794311523,
+      11.631536483764648,
+      11.7659912109375,
+      11.95386791229248,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.59,
+      617.61,
+      446.24,
+      633.14
+    ],
+    "text": "within period exceeding twelve months in the same indictment.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.307547569274902,
+      11.38855266571045,
+      11.400304794311523
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.73,
+      635.12,
+      120.64,
+      650.65
+    ],
+    "text": "or",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.530303001403809
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.1,
+      652.16,
+      541.5,
+      667.69
+    ],
+    "text": "b) set the charges beyond the period set out in the indictment violating the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.319732666015625,
+      11.354120254516602,
+      11.400304794311523,
+      11.613161087036133
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.1,
+      669.44,
+      459.91,
+      684.97
+    ],
+    "text": "provision set out in sec. 165 (1) of the Code of Criminal Procedure.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.319732666015625,
+      11.452964782714844,
+      11.7659912109375
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      533.63,
+      723.1,
+      541.51,
+      737.11
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      594.81,
+      -1.09,
+      605.93,
+      255.39
+    ],
+    "text": "ti! IIIIIiII!!I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.800099849700928,
+      10.399999618530273,
+      13.0,
+      13.699999809265137,
+      18.20009994506836,
+      19.799999237060547,
+      20.399999618530273,
+      21.799999237060547,
+      24.399999618530273,
+      28.600000381469727,
+      39.0,
+      40.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      597.03,
+      259.84,
+      600.39,
+      273.32
+    ],
+    "text": "!",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82.48,
+      48.77,
+      536.53,
+      100.31
+    ],
+    "text": "Therefore, the evidence elicited from the above admission should not have been considered in deciding whether the offence fell within the time framed by the charge.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.821826934814453,
+      11.863675117492676,
+      11.976527214050293,
+      11.992748260498047,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.4,
+      101.33,
+      537.2,
+      187.19
+    ],
+    "text": "6. The first complaint was made on 14.06.2000. The police officer who conducted the investigations has given evidence to the effect that they received the first complaint after about seven months from the incident. However, that officer had also stated that the incident had taken place in March 1999 (vide page 113 of the brief). If this evidence to have any significance in deciding the time of the offence it says either;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.418984413146973,
+      11.58792495727539,
+      11.751884460449219,
+      11.793931007385254,
+      11.804203033447266,
+      11.85487174987793,
+      11.856947898864746,
+      11.930800437927246,
+      11.932610511779785,
+      11.934521675109863,
+      11.958828926086426,
+      11.976527214050293,
+      11.979433059692383,
+      11.980484962463379,
+      11.982586860656738,
+      11.992748260498047,
+      12.0,
+      12.030461311340332,
+      12.166397094726562,
+      12.26198959350586,
+      12.363106727600098
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.65,
+      188.21,
+      537.43,
+      204.7
+    ],
+    "text": "a) the offence was committed in December 1999 (seven months back from the first",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.479042053222656,
+      11.91192626953125,
+      11.963695526123047,
+      11.976527214050293,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.26,
+      205.5,
+      279.43,
+      257.02
+    ],
+    "text": "complaint) or b) it was committed in March 1999.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.688302040100098,
+      11.769230842590332,
+      12.0,
+      12.363106727600098
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.17,
+      265.73,
+      538.28,
+      299.75
+    ],
+    "text": "In either case it does not fall within the period mentioned in the indictment (01.03.2000 to 31.03.2000).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.646441459655762,
+      11.65689468383789,
+      11.976527214050293,
+      12.0,
+      12.030461311340332,
+      12.363106727600098
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.33,
+      308.7,
+      538.52,
+      428.87
+    ],
+    "text": "7. The doctor had testified that the victim had told him of two rapes which were committed by her adopting father during April and May 2000. If that is the case, then the evidence given by the victim in Court saying that she was ravished (vide pages 62 and 63 of the brief) by the appellant only once is contradictory and in contrast with the time specified in the first count of the indictment. 8. The doctor cannot positively determine the time of the penetration (Vide page 193 of the brief).",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.36394214630127,
+      11.441187858581543,
+      11.558218002319336,
+      11.581812858581543,
+      11.685221672058105,
+      11.689071655273438,
+      11.74682903289795,
+      11.804203033447266,
+      11.836030006408691,
+      11.91192626953125,
+      11.930800437927246,
+      11.932610511779785,
+      11.944320678710938,
+      11.944421768188477,
+      11.958828926086426,
+      12.0,
+      12.045265197753906,
+      12.11797046661377,
+      12.12494945526123,
+      12.26198959350586,
+      12.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.07,
+      463.25,
+      539.16,
+      514.06
+    ],
+    "text": "Under the above mentioned fifth ground of appeal, the learned Counsel for the appellant had argued that if the Court acts upon the admission made by the victim with regard to the time period in which the incident took place, it would either amount to:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.804203033447266,
+      11.85487174987793,
+      11.945777893066406,
+      11.983988761901855,
+      12.0,
+      12.030461311340332,
+      12.131974220275879,
+      12.363106727600098
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85.32,
+      522.96,
+      538.93,
+      539.5
+    ],
+    "text": "c) violation of the terms of sec. 174 (1) read with (2) of the Code of Criminal",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.34402084350586,
+      11.543985366821289,
+      11.736865043640137,
+      11.99779987335205,
+      12.0,
+      12.12494945526123,
+      12.165464401245117,
+      12.277580261230469,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85.32,
+      540.78,
+      539.65,
+      591.34
+    ],
+    "text": "Procedure Code or d) violation of a provisions set out in sec. 165 (1) of the Code of Criminal Procedure",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.616832733154297,
+      11.791081428527832,
+      11.877019882202148,
+      11.98429012298584,
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      103.51,
+      592.37,
+      135.7,
+      608.86
+    ],
+    "text": "Code.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.806591033935547
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.6,
+      643.25,
+      412.99,
+      659.74
+    ],
+    "text": "The sec. 174 of the Code of Criminal Procedure states as follows;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.270794868469238,
+      11.543985366821289,
+      11.782580375671387,
+      11.845048904418945,
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.44,
+      668.21,
+      539.39,
+      701.74
+    ],
+    "text": "(1) \"When a person is accused of more offences than one of the same kind committed within the space of twelve months from the first to the last of such",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.36394214630127,
+      11.67453670501709,
+      11.768568992614746,
+      11.793116569519043,
+      11.886311531066895,
+      11.912833213806152,
+      12.0,
+      12.030461311340332,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      532.45,
+      717.31,
+      540.18,
+      731.05
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      100.45,
+      60.77,
+      535.56,
+      112.06
+    ],
+    "text": "offences he may be charged with and tried at one trial for any number of them not exceeding three, and in trials before the High Court such charges may be included in one and the same indictment.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.73793888092041,
+      11.798050880432129,
+      11.86569881439209,
+      11.897915840148926,
+      11.90436840057373,
+      11.944421768188477,
+      11.97036361694336,
+      11.976527214050293,
+      11.99905014038086,
+      12.0,
+      12.030112266540527,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83.31,
+      130.37,
+      536.66,
+      181.42
+    ],
+    "text": "(2) Offences are of the same kind when they are punishable with the same amount of punishment under the same section of the Penal Code or of any special or local law.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.845048904418945,
+      11.847784042358398,
+      11.877019882202148,
+      11.897915840148926,
+      11.926474571228027,
+      11.949995994567871,
+      12.0,
+      12.013392448425293,
+      12.12494945526123,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.2,
+      215.79,
+      532.71,
+      248.86
+    ],
+    "text": "The provisions in sec. 165 (1) of the Code of Criminal Procedure with regard to the time period that has to be mentioned in the charge sheet or the indictment states as follows;",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.270794868469238,
+      11.587510108947754,
+      11.616832733154297,
+      11.791081428527832,
+      11.854720115661621,
+      11.856947898864746,
+      11.976527214050293,
+      12.0,
+      12.030461311340332,
+      12.26198959350586,
+      12.376995086669922,
+      12.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.04,
+      264.77,
+      536.68,
+      281.26
+    ],
+    "text": "(1) ,liThe charge shall contain such particulars as to the time and place of the alleged",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.398158073425293,
+      11.680548667907715,
+      11.859325408935547,
+      11.867619514465332,
+      12.0,
+      12.030461311340332,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      101.89,
+      281.1,
+      537.61,
+      346.31
+    ],
+    "text": "offence and as to the person (if any) against whom and as to the thing (if any) in respect of which it was committed as are reasonably sufficient to give the accused notice of the matter with which he is charged and to show that the offence is not prescribed.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.14202880859375,
+      11.270794868469238,
+      11.36394214630127,
+      11.558218002319336,
+      11.878130912780762,
+      11.878686904907227,
+      11.90436840057373,
+      11.91192626953125,
+      11.944421768188477,
+      11.976527214050293,
+      12.0,
+      12.030461311340332,
+      12.12494945526123,
+      12.166397094726562,
+      12.26198959350586,
+      12.589948654174805
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.91,
+      361.73,
+      539.61,
+      498.77
+    ],
+    "text": "In the present case, there was no eye witness to the incident. The whole case was mainly based on the victim's evidence. As precisely stated by the learned High Court Judge by citing several reported judgments in his judgment, the rule is that it is unsafe to convict on uncorroborated evidence of an alleged victim in a charge of a sexual offence (Gurcharan Singh v. State of Haryana AIR 1972 S. C. 266l) but also it has been recognized that if the evidence of the victim is convincing such evidence could be acted on even in the absence of corroboration (Bharwada Bhoginbhai Hirjibhai vs State Of Gujarat 1983 AIRHC 753 and Sunil And Another v. The Attorney General 1986 (1) SlR",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.012901306152344,
+      11.166288375854492,
+      11.278563499450684,
+      11.284716606140137,
+      11.469367980957031,
+      11.573573112487793,
+      11.587510108947754,
+      11.6199312210083,
+      11.633760452270508,
+      11.646441459655762,
+      11.6514892578125,
+      11.781357765197754,
+      11.782580375671387,
+      11.787518501281738,
+      11.793931007385254,
+      11.804203033447266,
+      11.84079360961914,
+      11.847885131835938,
+      11.858060836791992,
+      11.859325408935547,
+      11.86569881439209,
+      11.877323150634766,
+      11.909005165100098,
+      11.909811019897461,
+      11.91192626953125,
+      11.920989990234375,
+      11.923405647277832,
+      11.944320678710938,
+      11.944421768188477,
+      11.961538314819336,
+      11.976527214050293,
+      11.979433059692383,
+      11.983438491821289,
+      11.984539985656738,
+      12.0,
+      12.030461311340332,
+      12.12494945526123,
+      12.131974220275879,
+      12.166397094726562,
+      12.26198959350586,
+      12.363106727600098,
+      12.397467613220215,
+      12.600000381469727,
+      12.926894187927246
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.1,
+      499.5,
+      95.79,
+      515.99
+    ],
+    "text": "230).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.97,
+      541.01,
+      539.23,
+      670.54
+    ],
+    "text": "According to the submissions made by the learned Counsel for the appellant, the main argument that he brings forward is the time period within which the offence is alleged to have been committed does not match with the time period mentioned in the indictment. In this case, we only have the evidence given by the victim in order to decide the exact time period in which the alleged offence has been committed, but it is evident that the victim does not have a clear idea about the exact date on which or an exact time period in which she faced the incident. However, while giving evidence she has admitted a time period suggested by the learned State Counsel.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.36394214630127,
+      11.558218002319336,
+      11.573573112487793,
+      11.578238487243652,
+      11.587510108947754,
+      11.629324913024902,
+      11.646441459655762,
+      11.674999237060547,
+      11.751884460449219,
+      11.75576400756836,
+      11.793931007385254,
+      11.804203033447266,
+      11.90436840057373,
+      11.9216947555542,
+      11.93321418762207,
+      11.944320678710938,
+      11.945777893066406,
+      11.976527214050293,
+      11.979433059692383,
+      11.992748260498047,
+      12.0,
+      12.030112266540527,
+      12.131974220275879
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.6,
+      685.73,
+      539.7,
+      702.22
+    ],
+    "text": "The important fact in this case is that the victim was a thirteen (13) year old girl who",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.166288375854492,
+      11.65689468383789,
+      11.782580375671387,
+      11.804203033447266,
+      11.91192626953125,
+      11.985791206359863,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.17,
+      701.81,
+      540.37,
+      718.3
+    ],
+    "text": "lived with an uncle (appellant) and an aunt apart from her parents and siblings at the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.573573112487793,
+      11.79031753540039,
+      11.944421768188477,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      531.89,
+      728.86,
+      539.76,
+      742.87
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      -6.19,
+      -2.49,
+      16.61,
+      72.02
+    ],
+    "text": "1 1 I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.20009994506836,
+      19.0,
+      41.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.18,
+      67.96,
+      538.16,
+      262.73
+    ],
+    "text": "time of the incident. Most importantly, she was a total dependant of that aunt and the uncle (appellant). She had no protection other than them and there was no one else to take care of her. She was at the mercy of the appellant. Therefore, obviously there would have been a huge disparity in power between the appellant and the victim. When considering this kind of a child, that child becomes totally helpless if her guardians started to ill-treat her. In this case, that was the thing happened to the victim. Furthermore, it is evident that this uncle (the appellant) was a tough person who used to punish this victim even for small mistakes of her. Moreover, it is evident that the victim had prayed for the protection of her aunt when she experienced annoyance from the uncle but unfortunately she had not received the required protection from her. In such kind of a situation we cannot expect an enormous bravery from this kind of a child to divulge or reveal all the annoyance she went through to a third person and to seek",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.268845558166504,
+      11.382773399353027,
+      11.397744178771973,
+      11.461494445800781,
+      11.47672176361084,
+      11.548979759216309,
+      11.638240814208984,
+      11.645792007446289,
+      11.655364036560059,
+      11.657388687133789,
+      11.67074203491211,
+      11.699320793151855,
+      11.736982345581055,
+      11.74065113067627,
+      11.741705894470215,
+      11.76830768585205,
+      11.800000190734863,
+      11.805298805236816,
+      11.864822387695312,
+      11.87143325805664,
+      11.929439544677734,
+      11.92978572845459,
+      12.023484230041504,
+      12.064583778381348,
+      12.159378051757812,
+      12.259648323059082,
+      12.705599784851074
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.32,
+      262.84,
+      539.04,
+      311.2
+    ],
+    "text": "protec~ion from that person. This is because these kinds of children live in fear and they know that if her attempt goes wrong, she will have to come back to the same guardians and then she will have to face much more grievances than in the present.",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      7.167995452880859,
+      11.268845558166504,
+      11.657388687133789,
+      11.76830768585205,
+      11.798349380493164,
+      11.800000190734863,
+      11.805298805236816,
+      11.812743186950684,
+      11.92978572845459,
+      12.023484230041504,
+      12.064583778381348,
+      12.484591484069824
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.37,
+      343.46,
+      539.83,
+      521.45
+    ],
+    "text": "Nevertheless, it is evident that the victim in this case, even though she was a small child at the time of the incident, had tried her best to inform some proper authorities about the grievances she faced. Furthermore, as the learned ASG pointed out, we should take cognizance of the fact that, when an ordinary thirteen (13) year old school girl is raped, she would not know that, what had occurred to her is an 'offence', and that she should immediately rush to lodge her complaint regarding the matter at the nearest police station. It is evident in this case that the victim came to know something about sexuality and the danger that a female has from males only after she attended the 'health and physical science' class at school. This is a fact that we can agree with because, this victim didn't have her mother with her to teach her all these things and to warn or advice her. However, after that the victim had tried to reveal the truth to her class teacher.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.989784240722656,
+      11.048788070678711,
+      11.072845458984375,
+      11.268845558166504,
+      11.461494445800781,
+      11.47672176361084,
+      11.491055488586426,
+      11.496599197387695,
+      11.497729301452637,
+      11.536405563354492,
+      11.554495811462402,
+      11.593238830566406,
+      11.606513023376465,
+      11.653541564941406,
+      11.657388687133789,
+      11.69165325164795,
+      11.70542049407959,
+      11.736982345581055,
+      11.741705894470215,
+      11.76830768585205,
+      11.798850059509277,
+      11.800000190734863,
+      11.800049781799316,
+      11.805298805236816,
+      11.812743186950684,
+      11.868203163146973,
+      11.87143325805664,
+      11.92978572845459,
+      11.937202453613281,
+      12.023484230041504,
+      12.064583778381348,
+      12.259648323059082
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.08,
+      537.39,
+      541.08,
+      553.6
+    ],
+    "text": "This whole analysis explains the reason for the belatedness and it is evident that as a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.048788070678711,
+      11.461494445800781,
+      11.662447929382324,
+      11.800000190734863,
+      11.929439544677734,
+      12.259648323059082
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.34,
+      553.47,
+      541.92,
+      698.32
+    ],
+    "text": "result of this delay the victim did not have an accurate idea of the exact day on which the incident happened. Furthermore, this victim had been called upon to give evidence after a lapse of twelve (12) years. Therefore, both the age of the victim at the time she was subjected to the offence and the time period that had lapsed since the committing of the offence to the time at which she was called upon to testify, are factors that should be taken into consideration when assessing the credibility and the testimonial trustworthiness of the testimony of the victim. In considering attended circumstances of this case, one cannot expect the victim to have been able to pinpoint and testify regarding the exact date or time period on which she faced the incident.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.214157104492188,
+      11.527554512023926,
+      11.577299118041992,
+      11.591253280639648,
+      11.593238830566406,
+      11.614492416381836,
+      11.639711380004883,
+      11.657388687133789,
+      11.67074203491211,
+      11.695235252380371,
+      11.722244262695312,
+      11.736982345581055,
+      11.800000190734863,
+      11.87143325805664,
+      11.886086463928223,
+      11.92978572845459,
+      12.023484230041504,
+      12.064583778381348,
+      12.159378051757812
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      533.4,
+      735.81,
+      541.27,
+      749.82
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      43.54,
+      4.06,
+      62.93,
+      14.5
+    ],
+    "text": ", .'",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.800099849700928,
+      9.917160987854004
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.5,
+      59.1,
+      538.65,
+      302.62
+    ],
+    "text": "However, according to the testimony given by the victim it is evident that she had tried her best to explain the exact time period within which the incident took place. In Bharwada Bhoginbhai Hirjibhai vs State Of Gujarat 1983 AIRHC 753 Justice Thakkar has stated that; \" ... (5) In regard to exact time of an incidentl or the time duration of an occurrencel usually I people make their estimates by guess work on the spur of the moment at the time of interrogation. And one cannot expect people to make very precise or reliable estimates in such matters. Againl it depends on the time- sense of individuals which varies from person to person .... N In this case the victim had clearly stated that she was in grade eight (8) at the time of the incident and she was thirteen (13) years old. (Here it should be noted that it is evident, that she had missed one year of her school life as she was admitted to grade two (2) when she was seven (7) years old.) The evidence given by the doctor who examined her also corroborates the fact that she was thirteen (13) years old at the time of the examination. Furthermore, she had stated that the appellant's brother raped her in a month of April as it occurred at the residence of the appellant's brother when she went there to collect the dish on which the aunt sent",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.900100231170654,
+      5.500100135803223,
+      11.14202880859375,
+      11.232292175292969,
+      11.270794868469238,
+      11.36394214630127,
+      11.478832244873047,
+      11.481510162353516,
+      11.49714183807373,
+      11.558218002319336,
+      11.587510108947754,
+      11.62143611907959,
+      11.646441459655762,
+      11.652253150939941,
+      11.65689468383789,
+      11.674999237060547,
+      11.685340881347656,
+      11.699999809265137,
+      11.734410285949707,
+      11.75576400756836,
+      11.758979797363281,
+      11.768568992614746,
+      11.769230842590332,
+      11.782580375671387,
+      11.836030006408691,
+      11.84079360961914,
+      11.852604866027832,
+      11.854720115661621,
+      11.85487174987793,
+      11.863210678100586,
+      11.877019882202148,
+      11.909005165100098,
+      11.91192626953125,
+      11.932610511779785,
+      11.934521675109863,
+      11.944320678710938,
+      11.944421768188477,
+      11.976527214050293,
+      11.980484962463379,
+      11.985791206359863,
+      11.999650001525879,
+      12.0,
+      12.02148151397705,
+      12.030461311340332,
+      12.045265197753906,
+      12.107502937316895,
+      12.11619758605957,
+      12.12494945526123,
+      12.199999809265137,
+      12.26198959350586,
+      12.334589958190918,
+      12.363106727600098,
+      12.36315631866455,
+      12.493961334228516,
+      12.623456954956055
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      66.18,
+      302.22,
+      538.44,
+      448.31
+    ],
+    "text": "'Sinhala and Hindu New Year sweets' to the appellant's brother. Then after she had clearly stated that the incident in issue took place after the occurrence of the incident at the residence of the appellant's brother. In Court, the victim, admitting a suggestion made by the learned State Counsel, stated that the incident had taken place in between 14th April 1999 to 30th April 2000. In considering all these facts it is clear that the incident in question had taken place after 1999 April and before May 2000. Therefore, the admission of the proposed time period by the victim gives rise to the evidential position that, in fact the victim had been raped during the period specified in the first charge of the indictment.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.354116439819336,
+      11.36394214630127,
+      11.478832244873047,
+      11.674999237060547,
+      11.706049919128418,
+      11.747734069824219,
+      11.776620864868164,
+      11.800000190734863,
+      11.804203033447266,
+      11.81162166595459,
+      11.821826934814453,
+      11.846259117126465,
+      11.870501518249512,
+      11.90562915802002,
+      11.932610511779785,
+      11.944320678710938,
+      11.944421768188477,
+      11.944772720336914,
+      11.976527214050293,
+      11.97883129119873,
+      11.991897583007812,
+      12.0,
+      12.030461311340332,
+      12.12494945526123,
+      12.131974220275879,
+      12.26198959350586
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.21,
+      463.97,
+      539.71,
+      577.18
+    ],
+    "text": "Also another point argued on by the learned Counsel for the appellant was that the time period mentioned by the police officer who inquired into the incident as the time period in which the incident took place does not fall within the time period mentioned in the indictment. However, when looking into the way the particular police officer had answered the questions put to him it is evident that he was not exactly sure about the exact time period within which the incident took place. Furthermore, he does not explain how he came to know about the time period he mentioned.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.14202880859375,
+      11.166288375854492,
+      11.629324913024902,
+      11.668624877929688,
+      11.769230842590332,
+      11.776620864868164,
+      11.78711223602295,
+      11.793931007385254,
+      11.802677154541016,
+      11.804203033447266,
+      11.821826934814453,
+      11.882575988769531,
+      11.90436840057373,
+      11.910567283630371,
+      11.91192626953125,
+      11.967055320739746,
+      12.0,
+      12.030461311340332,
+      12.363106727600098
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.86,
+      608.93,
+      540.95,
+      707.23
+    ],
+    "text": "According to Sec. 165 (1) of the Code of Criminal Procedure as I have mentioned above, the main purpose of mentioning the date on which or the time period within which the alleged offence has been committed is to give a reasonably sufficient notice to the accused or the appellant of the matter with which he is charged and to show that the offence is not prescribed. In CA 1/2013 dated 31.01.2014, Justice Sisira J de Abrew held that IiAccording to section 165 of the Criminal Procedure Codel the charge must, inter",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.166288375854492,
+      11.270794868469238,
+      11.320353507995605,
+      11.36394214630127,
+      11.458114624023438,
+      11.478832244873047,
+      11.504416465759277,
+      11.5830659866333,
+      11.65910816192627,
+      11.699999809265137,
+      11.750046730041504,
+      11.78711223602295,
+      11.79031753540039,
+      11.791081428527832,
+      11.793931007385254,
+      11.843327522277832,
+      11.854720115661621,
+      11.863675117492676,
+      11.878838539123535,
+      11.992748260498047,
+      12.0,
+      12.013392448425293,
+      12.030461311340332,
+      12.12494945526123,
+      12.36315631866455
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      526.42,
+      726.2,
+      539.41,
+      741.14
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.105450630187988
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      55.66,
+      -2.99,
+      65.89,
+      22.29
+    ],
+    "text": ". '",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.300099849700928,
+      18.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.28,
+      65.48,
+      539.81,
+      211.43
+    ],
+    "text": "alia, specify the time and place of the offence with which the accused is charged. The idea behind this principal is to give sufficient opportunity to the accused to answer the charge and to ensure a fair trial. Answering the charge includes among other things preparing for his defence, presenting his defence and cross-examining the witness called by the prosecution etc .... II In the present case, the dock statement given by the appellant clearly shows that the purpose of the Sec. 165 (1) had been fulfilled. In the dock statement the appellant had specifically stated that \"this is an incident which happened in the middle of a lot of problems\". This impliedly means that the appellant was well aware of the time period which the prosecution was referring to.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.2918925285339355,
+      11.36394214630127,
+      11.458114624023438,
+      11.691073417663574,
+      11.744071006774902,
+      11.81162166595459,
+      11.84079360961914,
+      11.85487174987793,
+      11.877019882202148,
+      11.91192626953125,
+      11.925065994262695,
+      11.952506065368652,
+      11.96660327911377,
+      12.0,
+      12.03794002532959,
+      12.12494945526123,
+      12.26198959350586,
+      12.397467613220215,
+      12.632731437683105,
+      12.70223331451416,
+      12.829809188842773,
+      12.889796257019043,
+      12.899999618530273,
+      13.199999809265137,
+      13.570999145507812
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.84,
+      227.09,
+      539.52,
+      259.9
+    ],
+    "text": "The learned Counsel for the appellant also argued on the fact that victim had only told the teacher about domestic harassment when she inquired about her breakfast and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.782580375671387,
+      11.836030006408691,
+      11.867619514465332,
+      11.909005165100098,
+      11.932610511779785,
+      11.980484962463379,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      68.51,
+      259.73,
+      541.22,
+      469.9
+    ],
+    "text": "nothin~ about rape. Further he argued that the said teacher had failed to assert anything specific regarding the appellant in her statement to the police. As I have mentioned above, we cannot expect a clear cut explanation of the incident from an immature girl like the victim in this case to a third person at their first conversation about the annoyances that she suffers. However, it is evident that she had started to get close to the teacher and started to divulge the annoyances and ill-treatments that she experiences at her residence. Unfortunately the teacher had to leave the school at the same time period. The evidence given by the teacher corroborates these facts. However, even though the teacher's statement to the police is silent with regard to the appellant, she had stated in Courts that the victim had clearly stated to her that the uncle (appellant) had touched her body. Furthermore, the teacher, while giving evidence, had clearly stated that she felt that the victim was hiding something from her or in other words she had some more to tell her (vide page 91 of the brief).",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      7.39177942276001,
+      11.278563499450684,
+      11.36394214630127,
+      11.558218002319336,
+      11.573573112487793,
+      11.65689468383789,
+      11.674999237060547,
+      11.74682903289795,
+      11.75576400756836,
+      11.769230842590332,
+      11.776620864868164,
+      11.78711223602295,
+      11.820862770080566,
+      11.829184532165527,
+      11.836030006408691,
+      11.85487174987793,
+      11.856947898864746,
+      11.867619514465332,
+      11.897915840148926,
+      11.932610511779785,
+      11.93321418762207,
+      11.943215370178223,
+      11.944320678710938,
+      11.944421768188477,
+      11.946782112121582,
+      11.976527214050293,
+      12.0,
+      12.030461311340332,
+      12.12494945526123,
+      12.166397094726562,
+      12.26198959350586,
+      12.363106727600098
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      69.32,
+      485.57,
+      542.91,
+      663.82
+    ],
+    "text": "Another point on which the learned Counsel for the appellant argued was that the victim, in giving evidence, had stated that she is not certain whether penetration occurred. Actually, if this question was asked an adult victim of rape who was a virgin, definitely she would have answered it in the same way. However, an adult victim may have the knowledge to explain the incident she faced clearly in detail through which a listener can come to an inference whether penetration occurred or not but, obviously a girl who experienced such kind of an incident when she was a child would have not been able to memorise the fact that how deep the male organ of the accused entered into her female organ. However, this answer of the victim shows that she is a trustworthy witness because she had ample opportunity to give false evidence by stating that penetration occurred, but she did not.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.36394214630127,
+      11.454867362976074,
+      11.570825576782227,
+      11.573573112487793,
+      11.674999237060547,
+      11.697281837463379,
+      11.736455917358398,
+      11.75576400756836,
+      11.804203033447266,
+      11.821826934814453,
+      11.836030006408691,
+      11.84079360961914,
+      11.85487174987793,
+      11.897915840148926,
+      11.909005165100098,
+      11.912833213806152,
+      11.9216947555542,
+      11.931404113769531,
+      11.93321418762207,
+      11.935124397277832,
+      11.941055297851562,
+      11.945777893066406,
+      11.976527214050293,
+      11.992748260498047,
+      12.0,
+      12.030461311340332,
+      12.12494945526123,
+      12.131974220275879,
+      12.26198959350586,
+      12.589948654174805
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70.26,
+      679.01,
+      542.46,
+      711.34
+    ],
+    "text": "Even though the doctor's evidence stated that he was unable to determine the exact time of the penetration he had undoubtedly stated that penetration had occurred.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.561383247375488,
+      11.776620864868164,
+      11.78711223602295,
+      11.84079360961914,
+      11.85487174987793,
+      11.90436840057373,
+      12.0,
+      12.12494945526123
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      529.31,
+      732.73,
+      542.01,
+      747.01
+    ],
+    "text": "11",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      70.5,
+      97.73,
+      540.68,
+      146.15
+    ],
+    "text": "Furthermore he had observed several lacerations on her hymen. This corroborates with the victims version because according to her she had been raped by the appellant as well as his brother. .",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.011702537536621,
+      11.270794868469238,
+      11.75576400756836,
+      11.898420333862305,
+      11.909005165100098,
+      11.9216947555542,
+      11.935124397277832,
+      11.944320678710938,
+      11.961638450622559,
+      12.0,
+      12.030461311340332
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      71.43,
+      163.49,
+      543.16,
+      261.83
+    ],
+    "text": "I do not see the fact that the victim had stated to the doctor that the appellant raped her twice but at the Court she had stated that it took place only at once, as a fact that creates a reasonable doubt which goes to the root of the case. This is because, as precisely explained by the learned High Court Judge, at the time the victim was giving evidence she was trying her best to forget the past and move forward as she was married and also a mother at that time. Therefore, she did not have a good and a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.011702537536621,
+      11.14202880859375,
+      11.36394214630127,
+      11.593619346618652,
+      11.674999237060547,
+      11.689071655273438,
+      11.697281837463379,
+      11.712506294250488,
+      11.75576400756836,
+      11.79031753540039,
+      11.821826934814453,
+      11.84079360961914,
+      11.84180736541748,
+      11.85487174987793,
+      11.86569881439209,
+      11.926926612854004,
+      11.932610511779785,
+      11.936129570007324,
+      11.96660327911377,
+      11.99579906463623,
+      12.0,
+      12.03794002532959,
+      12.12494945526123,
+      12.141910552978516,
+      12.166397094726562,
+      12.30082893371582,
+      12.589948654174805
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.0,
+      261.9,
+      542.75,
+      327.34
+    ],
+    "text": "separa~e memory of each and every occasion on which she got ravished. Furthermore, here also she had ample opportunity to give false evidence by stating that the appellant raped her twice, even though she could not remember it exactly. This also shows that the victim is a credible witness.",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      7.377870082855225,
+      11.166288375854492,
+      11.593619346618652,
+      11.674999237060547,
+      11.76453971862793,
+      11.838665008544922,
+      11.883938789367676,
+      11.909005165100098,
+      11.909811019897461,
+      11.944421768188477,
+      11.96660327911377,
+      12.0,
+      12.03794002532959,
+      12.363106727600098
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.4,
+      343.74,
+      544.98,
+      506.76
+    ],
+    "text": "The next point on which the learned Counsel for the appellant argued was that the victim had not taken any step against the alleged rape committed by the brother of the appellant with compared to the alleged rape committed by the appellant and therefore the evidence given by the victim is unreliable. The other fact he argued on was that even though the victim stated that she sent a letter to the police, no letter was found and the investigations triggered off following information of a probation officer. In Fradd v. Brown and Company 20 NLR 282 at 283, it was held that lilt is rare that a decision of a Judge so express, so explicit, upon a point of fact purely, is over-ruled by a Court of Appeal, because Courts of Appeal recognize the priceless advantage which a Judge of first instance has in matters of that kind, as contrasted with any Judge of a",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.336084365844727,
+      11.36394214630127,
+      11.478832244873047,
+      11.572951316833496,
+      11.668624877929688,
+      11.697281837463379,
+      11.698050498962402,
+      11.75576400756836,
+      11.769230842590332,
+      11.776620864868164,
+      11.79031753540039,
+      11.793931007385254,
+      11.814008712768555,
+      11.821826934814453,
+      11.90436840057373,
+      11.926474571228027,
+      11.930800437927246,
+      11.944421768188477,
+      11.945777893066406,
+      12.0,
+      12.030112266540527,
+      12.030461311340332,
+      12.055621147155762,
+      12.12494945526123,
+      12.166397094726562,
+      12.26198959350586,
+      12.363106727600098,
+      12.50686264038086,
+      12.644471168518066,
+      12.93093490600586,
+      13.248323440551758,
+      13.255925178527832,
+      13.322022438049316,
+      13.32538890838623,
+      13.426136016845703,
+      13.434869766235352,
+      13.437591552734375,
+      13.482650756835938,
+      13.52526569366455,
+      13.539542198181152,
+      13.54621696472168,
+      13.5656099319458,
+      13.594265937805176,
+      13.617189407348633,
+      13.67276382446289,
+      13.68431568145752,
+      13.688953399658203,
+      13.724895477294922,
+      13.7265043258667,
+      13.74644660949707,
+      13.762598991394043,
+      13.800000190734863,
+      13.889459609985352,
+      14.03642463684082
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      73.9,
+      506.24,
+      545.71,
+      734.87
+    ],
+    "text": "Court of Appeal, who can only learn from paper or from narrative of those who were present. It is very rare that, in questions of veracity so direct and so specific as these, a Court of Appeal will over-rule a Judge of first instance\". In the present case, the learned High Court Judge has well analysed all the evidence before him in his Judgment and accordingly he has not noticed any untrustworthiness of the victim's testimony. Furthermore, even though we can only come to a decision by going through the proceedings, we also do not see any untrustworthiness of the victim's evidence. Moreover, merely because the police did not receive any letter from victim or the investigations did not start as a result of the letter written by the victim to the police, we cannot say that the victim did not send such a letter or the appellant did not commit such an act. However, the victim had stated that she did not mention any of the incidents she faced in that letter but merely mentioned that she is unsafe at home. Therefore, the absence of this letter does not create a reasonable doubt which goes to the root of the case.",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.011702537536621,
+      11.166288375854492,
+      11.336506843566895,
+      11.389521598815918,
+      11.429173469543457,
+      11.451777458190918,
+      11.454867362976074,
+      11.478832244873047,
+      11.511663436889648,
+      11.587510108947754,
+      11.593619346618652,
+      11.600137710571289,
+      11.622770309448242,
+      11.633760452270508,
+      11.68783950805664,
+      11.698050498962402,
+      11.712506294250488,
+      11.732672691345215,
+      11.736455917358398,
+      11.748106002807617,
+      11.776620864868164,
+      11.798050880432129,
+      11.804203033447266,
+      11.846721649169922,
+      11.852696418762207,
+      11.86569881439209,
+      11.875100135803223,
+      11.900991439819336,
+      11.903109550476074,
+      11.90436840057373,
+      11.907644271850586,
+      11.926474571228027,
+      11.970413208007812,
+      11.971967697143555,
+      12.0,
+      12.030461311340332,
+      12.03794002532959,
+      12.12494945526123,
+      12.26198959350586,
+      12.50686264038086,
+      12.584028244018555,
+      12.644471168518066,
+      13.203874588012695,
+      13.210509300231934,
+      13.324197769165039,
+      13.381040573120117,
+      13.386866569519043,
+      13.394698143005371,
+      13.426136016845703,
+      13.426547050476074,
+      13.516640663146973,
+      13.541631698608398,
+      13.554465293884277,
+      13.5656099319458,
+      13.589138984680176,
+      13.642096519470215,
+      13.67099666595459,
+      13.682802200317383,
+      13.68431568145752,
+      13.700037956237793,
+      13.744588851928711,
+      13.800000190734863,
+      13.889459609985352,
+      14.03642463684082,
+      14.181915283203125
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      532.92,
+      771.56,
+      545.28,
+      786.5
+    ],
+    "text": "12",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.831228256225586
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      595.43,
+      138.51,
+      605.1,
+      186.33
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      34.79999923706055
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      596.26,
+      211.77,
+      600.01,
+      222.07
+    ],
+    "text": "l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.500100135803223
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      594.94,
+      389.74,
+      602.39,
+      426.56
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      26.799999237060547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      595.73,
+      456.03,
+      600.07,
+      477.46
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.600000381469727
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      42.05,
+      -19.32,
+      72.88,
+      21.62
+    ],
+    "text": ", .",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.699999809265137,
+      29.799999237060547
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      63.53,
+      62.7,
+      537.4,
+      128.4
+    ],
+    "text": "In the case of King v. Musthapha Lebbe 44 N.L.R. 505 the Court of Appeal held that \"The court of criminal Appeal will not interfere with the verdict of a Jury unless it has a real doubt as to the quilt of the accused or is of the opinion that on the whole it is safer that the conviction should not be allowed to stand\".",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.18818187713623,
+      11.240230560302734,
+      11.399999618530273,
+      11.427217483520508,
+      11.530997276306152,
+      11.53811264038086,
+      11.817937850952148,
+      11.951509475708008,
+      12.502165794372559,
+      12.70223331451416,
+      12.728667259216309,
+      12.800000190734863,
+      12.802749633789062,
+      12.859686851501465,
+      12.899999618530273,
+      12.952144622802734,
+      12.975728034973145,
+      13.074555397033691,
+      13.711665153503418
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64.15,
+      145.18,
+      536.36,
+      160.84
+    ],
+    "text": "Considering the above there is no reason to interfere with the findings of the learned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.076201438903809,
+      11.399999618530273,
+      11.423175811767578,
+      11.450637817382812,
+      11.479820251464844,
+      11.500160217285156,
+      11.530997276306152,
+      11.610800743103027,
+      11.725842475891113,
+      11.817937850952148
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64.53,
+      162.7,
+      395.35,
+      178.36
+    ],
+    "text": "High Court Judge. We affirm the Conviction and the Sentence.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.450637817382812,
+      11.610800743103027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      64.33,
+      213.82,
+      172.96,
+      229.48
+    ],
+    "text": "Appeal is dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.076201438903809,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      354.16,
+      287.49,
+      534.25,
+      303.16
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.852450370788574,
+      10.947259902954102,
+      11.020482063293457,
+      11.027979850769043,
+      11.070178031921387,
+      11.155221939086914
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65.25,
+      337.26,
+      163.52,
+      354.2
+    ],
+    "text": "H. N. J. PERERA, J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.0585355758667,
+      11.33702564239502,
+      11.399999618530273,
+      12.59274673461914
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65.93,
+      389.03,
+      106.98,
+      404.69
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      65.86,
+      464.86,
+      179.2,
+      480.52
+    ],
+    "text": "CASES REFERRED TO:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.63230037689209,
+      10.783584594726562,
+      11.240230560302734
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84.6,
+      515.26,
+      407.55,
+      530.92
+    ],
+    "text": "1. Gurcharan Singh v. State of Haryana AIR 1972 S. C. 266L",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.534008026123047,
+      10.734048843383789,
+      11.274003028869629,
+      11.399999618530273,
+      12.083556175231934
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84.63,
+      532.07,
+      469.18,
+      547.73
+    ],
+    "text": "2. Bharwada Bhoginbhai Hirjibhai vs State Of Gujarat 1983 AIRHC 753",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.127492904663086,
+      11.396949768066406,
+      11.399999618530273,
+      11.717089653015137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84.59,
+      549.1,
+      430.3,
+      564.76
+    ],
+    "text": "3. Sunil And Another v. The Attorney General 1986 (1) SLR 230",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.756115913391113,
+      11.138501167297363,
+      11.399999618530273,
+      11.539693832397461,
+      11.650106430053711
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84.44,
+      566.38,
+      366.34,
+      598.6
+    ],
+    "text": "4. CA 1/2013 dated 31.01.2014 5. Fradd v. Brown and Company 20 NLR 282 at 283",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.03371524810791,
+      11.17982292175293,
+      11.28552532196045,
+      11.392647743225098,
+      11.399999618530273,
+      11.469040870666504,
+      11.5511474609375,
+      11.834470748901367
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84.84,
+      599.99,
+      316.74,
+      615.65
+    ],
+    "text": "6. King v. Musthapha Lebbe 44 N.L.R. 505",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.129849433898926,
+      11.399999618530273,
+      11.427217483520508
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      527.64,
+      731.5,
+      540.46,
+      745.51
+    ],
+    "text": "13",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  }
+]

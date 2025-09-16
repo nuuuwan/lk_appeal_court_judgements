@@ -1,0 +1,894 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      124.58,
+      72.35,
+      493.42,
+      85.63
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      86.17,
+      384.55,
+      113.68
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      178.1,
+      176.42,
+      192.16
+    ],
+    "text": "C.A. No. 161/2013",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      204.38,
+      252.77,
+      218.44
+    ],
+    "text": "H. C. Monaragala Case No. 11-2011",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      255.41,
+      511.18,
+      269.47
+    ],
+    "text": "Lenaduwa Alias Lenawa Lokuge Susantha Indralal",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      307.73,
+      440.83,
+      321.79
+    ],
+    "text": "Defendant Appellant",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      360.05,
+      273.29,
+      374.11
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      412.51,
+      417.79,
+      468.69
+    ],
+    "text": "The Hon. Attorney General, Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      480.79,
+      392.95,
+      494.85
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -2.96,
+      106.56,
+      13.0,
+      178.01
+    ],
+    "text": "1 1 I I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      3.900099992752075,
+      7.800099849700928,
+      18.600000381469727,
+      28.70009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -2.67,
+      165.49,
+      12.34,
+      209.43
+    ],
+    "text": "I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.500100135803223,
+      14.600000381469727,
+      27.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.27,
+      32.98,
+      311.94,
+      47.27
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97.06,
+      91.88,
+      486.28,
+      110.16
+    ],
+    "text": "C.A. No. 16112013 H. C. Monaragala Case No. 11-2011",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.551546096801758,
+      13.58935260772705,
+      13.691146850585938,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.43,
+      139.88,
+      312.66,
+      158.16
+    ],
+    "text": "Before H.N.J. Perera, J. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.494407653808594,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.58,
+      211.65,
+      144.99,
+      229.93
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.21,
+      260.12,
+      153.54,
+      278.4
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.17,
+      284.12,
+      163.91,
+      302.4
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.17,
+      332.6,
+      189.61,
+      350.88
+    ],
+    "text": "H.N.J. Perera, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.494407653808594,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205.14,
+      164.12,
+      349.21,
+      182.4
+    ],
+    "text": "K.K. Wickremasinghe, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.494407653808594,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204.93,
+      212.36,
+      470.07,
+      230.64
+    ],
+    "text": "Amila Palliyage for the Accused-Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204.66,
+      236.36,
+      441.1,
+      254.64
+    ],
+    "text": "Harippriya Jayasundera, D.S.G., for A.G.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205.92,
+      284.36,
+      274.66,
+      302.64
+    ],
+    "text": "12.01.2016.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      205.52,
+      307.24,
+      264.99,
+      331.42
+    ],
+    "text": "********",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      168.34,
+      397.41,
+      515.01,
+      415.69
+    ],
+    "text": "Counsel for the accused-appellant inform Court that he",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.99,
+      429.57,
+      515.3,
+      447.84
+    ],
+    "text": "wishes to withdraw the appeal filed by the accused-appellant and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.99,
+      462.2,
+      515.34,
+      480.48
+    ],
+    "text": "moves Court to act under Section 359 of the Criminal Procedure",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.86,
+      494.6,
+      515.2,
+      512.88
+    ],
+    "text": "Code and to backdate sentence from the date of conviction namely",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.96,
+      527.0,
+      514.58,
+      545.28
+    ],
+    "text": "13.06.2013. At this stage Counsel for the Respondent brings it to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.73,
+      559.41,
+      515.62,
+      577.69
+    ],
+    "text": "the notice of this Court that in Count No. 2 of the indictment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.09,
+      591.56,
+      515.04,
+      609.84
+    ],
+    "text": "four years R.I. has been ordered in lieu of the fine Rs. 25000/= and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.49,
+      623.72,
+      514.82,
+      641.99
+    ],
+    "text": "that it be limited 2 years R.I. Further the Accused-Appellant has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.79,
+      656.35,
+      514.58,
+      674.64
+    ],
+    "text": "been directed to pay a sum of Rs. 100,0001= as compensation to",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      596.34,
+      425.74,
+      602.6,
+      520.29
+    ],
+    "text": "IiIif",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.199999809265137,
+      15.300000190734863,
+      19.5,
+      21.899999618530273,
+      25.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      596.8,
+      547.89,
+      604.9,
+      620.38
+    ],
+    "text": "1Jti!!",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.399999618530273,
+      11.100000381469727,
+      12.0,
+      13.100000381469727,
+      13.399999618530273,
+      16.20009994506836,
+      19.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.5,
+      642.87,
+      602.92,
+      669.66
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      19.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.84,
+      693.56,
+      600.3,
+      712.81
+    ],
+    "text": "i!I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.500100135803223,
+      7.400100231170654
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      597.61,
+      711.12,
+      602.0,
+      747.98
+    ],
+    "text": "~tt",
+    "fonts": [
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.496398448944092,
+      14.0,
+      15.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      298.25,
+      31.59,
+      307.02,
+      47.2
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.08,
+      67.88,
+      512.72,
+      86.16
+    ],
+    "text": "the victim and III lieu of the compensation 4 years R.I. has been",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.353119850158691,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.23,
+      100.05,
+      141.83,
+      118.33
+    ],
+    "text": "ordered.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.33,
+      164.36,
+      512.97,
+      182.64
+    ],
+    "text": "Accordingly we amend the term of imprisonment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.24,
+      196.53,
+      512.41,
+      214.81
+    ],
+    "text": "imposed in count No.2 in lieu of the fine to 2 years R.I. We also",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.633890151977539,
+      13.699999809265137,
+      14.082947731018066,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.47,
+      228.68,
+      512.78,
+      246.96
+    ],
+    "text": "amend the term of imprisonment imposed III lieu of compensation",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.353119850158691,
+      13.699999809265137,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.08,
+      260.62,
+      512.43,
+      278.89
+    ],
+    "text": "to 2 years R.I. and we direct that the sentence imposed on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.23,
+      292.77,
+      512.71,
+      311.05
+    ],
+    "text": "accused-appellant be implemented from the date of conviction",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.34,
+      325.41,
+      211.59,
+      343.68
+    ],
+    "text": "namely 13.06.2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.83,
+      357.81,
+      499.31,
+      376.09
+    ],
+    "text": "Subject to the said variations the appeal IS dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.399999618530273,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      238.48,
+      430.04,
+      481.91,
+      448.32
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.3,
+      476.85,
+      601.11,
+      522.0
+    ],
+    "text": "K.K. Wickremasinghe, J. rI I agree.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.697349548339844,
+      13.699999809265137,
+      19.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      238.48,
+      527.48,
+      478.59,
+      545.76
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.57,
+      601.88,
+      127.28,
+      620.16
+    ],
+    "text": "AKN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      594.58,
+      696.79,
+      605.91,
+      776.38
+    ],
+    "text": "If, I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.100000381469727,
+      22.399999618530273,
+      39.0
+    ]
+  }
+]

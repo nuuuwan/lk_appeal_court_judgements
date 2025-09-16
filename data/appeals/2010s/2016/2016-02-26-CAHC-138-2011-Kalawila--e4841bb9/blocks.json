@@ -1,0 +1,87 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      132.74,
+      72.35,
+      482.26,
+      85.63
+    ],
+    "text": "THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      86.17,
+      384.55,
+      186.64
+    ],
+    "text": "REPUBLIC OF SRI LANKA C.A Case No : CA: 138/2011 H.C.Thangalla Case No: 02/2009",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.520000457763672
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      186.62,
+      506.74,
+      242.92
+    ],
+    "text": "Kalawila Pathirage Piyal Wickramarathne, 69,Dalkapallawatte, Kalawila, Beruwala.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      242.93,
+      464.62,
+      355.51
+    ],
+    "text": "Accused Appellant Vs. Hon. Attorney General. Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      367.61,
+      428.95,
+      381.67
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
