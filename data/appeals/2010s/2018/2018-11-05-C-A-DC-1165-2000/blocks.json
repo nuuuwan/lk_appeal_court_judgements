@@ -1,0 +1,1825 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      122.78,
+      71.99,
+      493.8,
+      88.35
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      96.59,
+      446.8,
+      112.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      145.92,
+      492.58,
+      159.92
+    ],
+    "text": "Mahappu Thanthirige Ariyadasa,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      167.04,
+      372.55,
+      181.04
+    ],
+    "text": "Pinnaduwa,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      188.16,
+      386.71,
+      202.16
+    ],
+    "text": "Walahanduwa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      209.28,
+      409.03,
+      223.28
+    ],
+    "text": "Plaintiff-Appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      251.67,
+      294.77,
+      265.65
+    ],
+    "text": "CASE NO: CA/1165/2000/F",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      272.79,
+      307.25,
+      286.77
+    ],
+    "text": "DC GALLE CASE NO: 12604/P",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      315.03,
+      321.41,
+      329.03
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.25,
+      357.27,
+      487.78,
+      371.27
+    ],
+    "text": "1. Mahappu Thanthirige Jinadasa,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.25,
+      378.39,
+      371.11,
+      392.39
+    ],
+    "text": "Pinnaduwa,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.25,
+      399.51,
+      386.71,
+      413.51
+    ],
+    "text": "Walahanduwa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.25,
+      420.65,
+      483.94,
+      434.65
+    ],
+    "text": "2. Meepe Aluthgamage Marynona,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      441.77,
+      361.51,
+      455.77
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.25,
+      462.89,
+      368.71,
+      476.89
+    ],
+    "text": "Pinnaduwa,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.25,
+      484.01,
+      386.71,
+      498.01
+    ],
+    "text": "Walahanduwa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.25,
+      505.25,
+      460.18,
+      519.25
+    ],
+    "text": "2A(1) Yaggaha Ruhnage Sirisena,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.25,
+      526.37,
+      456.79,
+      540.37
+    ],
+    "text": "2A(2) Yaggaha Ruhnage Manjula",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      547.49,
+      415.75,
+      561.49
+    ],
+    "text": "Sampath Udayasiri,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.25,
+      568.61,
+      448.63,
+      582.61
+    ],
+    "text": "2A(3) Yaggaha Ruhnage Manoj,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.25,
+      589.76,
+      454.87,
+      603.76
+    ],
+    "text": "2A(4) Yaggaha Ruhnage Manura",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      610.88,
+      366.31,
+      624.88
+    ],
+    "text": "Jeewantha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.25,
+      632.0,
+      446.95,
+      646.0
+    ],
+    "text": "2A(5) Yaggaha Ruhnage Nilani,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.25,
+      653.12,
+      332.71,
+      667.12
+    ],
+    "text": "All of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.25,
+      674.24,
+      363.91,
+      688.24
+    ],
+    "text": "No. 218/A,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.25,
+      695.35,
+      373.99,
+      709.36
+    ],
+    "text": "Palliyawatta,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      35.98,
+      313.61,
+      64.02
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      72.0,
+      368.71,
+      86.0
+    ],
+    "text": "Pinnaduwa,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      93.12,
+      386.71,
+      107.12
+    ],
+    "text": "Walahanduwa.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      114.24,
+      455.02,
+      128.24
+    ],
+    "text": "Substituted 2nd Defendant-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.25,
+      135.36,
+      378.55,
+      149.36
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      177.6,
+      370.15,
+      191.6
+    ],
+    "text": "Before: Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      204.72,
+      466.9,
+      218.72
+    ],
+    "text": "Counsel: Kamal Dissanayake for the Plaintiff-Appellant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      231.96,
+      431.47,
+      245.96
+    ],
+    "text": "Anura Gunaratne for the Substituted 2nd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.22,
+      253.11,
+      336.07,
+      267.11
+    ],
+    "text": "Defendant-Respondents.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      280.23,
+      258.29,
+      294.23
+    ],
+    "text": "Decided on: 01.11.2018",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      344.54,
+      263.74,
+      360.93
+    ],
+    "text": "Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      379.59,
+      500.55,
+      393.59
+    ],
+    "text": "The plaintiff filed this action in the District Court of Galle",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      400.71,
+      500.67,
+      414.71
+    ],
+    "text": "naming two defendants to partition the land described in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      421.85,
+      500.69,
+      435.85
+    ],
+    "text": "schedule to the plaint between him and his brother, who has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      442.97,
+      500.74,
+      456.97
+    ],
+    "text": "been named as the 1st defendant, in equal shares. The 2nd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      464.09,
+      500.58,
+      478.09
+    ],
+    "text": "defendant, according to the plaint, has no title whatsoever to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      485.21,
+      500.74,
+      499.21
+    ],
+    "text": "land. The 2nd defendant in her statement of claim unfolded a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      506.33,
+      500.66,
+      520.33
+    ],
+    "text": "pedigree, which is not in total harmony with that of the plaintiff,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      527.45,
+      500.69,
+      541.45
+    ],
+    "text": "and claimed undivided share of the land, with the balance",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      548.57,
+      500.74,
+      562.57
+    ],
+    "text": "share to be equally divided between the plaintiff and the 1st",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      569.84,
+      189.14,
+      583.84
+    ],
+    "text": "defendant.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      602.96,
+      504.58,
+      616.96
+    ],
+    "text": "At the trial, the plaintiff and the 2nd defendant gave evidence.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      624.08,
+      500.74,
+      638.08
+    ],
+    "text": "Having considered the evidence led at the trial, the learned",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      645.2,
+      500.7,
+      659.2
+    ],
+    "text": "District Judge, who saw and heard both of them giving evidence,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      666.32,
+      500.64,
+      680.32
+    ],
+    "text": "accepted the pedigree of the 2nd defendant as the more probable",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      687.43,
+      385.75,
+      701.44
+    ],
+    "text": "one, and entered the Judgment accordingly.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      35.98,
+      313.61,
+      64.02
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      72.0,
+      500.54,
+      86.0
+    ],
+    "text": "It is against this Judgment dated 10.02.2000 the plaintiff has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      93.12,
+      244.85,
+      107.12
+    ],
+    "text": "preferred this appeal.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      126.24,
+      500.58,
+      140.24
+    ],
+    "text": "According to the plaintiff, the original owner of the land is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      147.36,
+      500.74,
+      161.36
+    ],
+    "text": "Bastian. The learned District Judge has disbelieved that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      168.48,
+      500.62,
+      182.54
+    ],
+    "text": "assertion inter alia by making reference to the plaintiffs first",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      189.6,
+      500.65,
+      203.6
+    ],
+    "text": "Deed marked P1, which in my view, is correct. According to P1,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      210.84,
+      500.65,
+      224.84
+    ],
+    "text": "Bastian has got title only to an undivided 7/24 share of the land",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      231.96,
+      500.66,
+      245.96
+    ],
+    "text": "and not to the whole land. In terms of paragraph 7 of the plaint,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      253.11,
+      500.67,
+      267.11
+    ],
+    "text": "the balance 17/24 share of Bastian has devolved on Baby and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      274.23,
+      500.54,
+      288.23
+    ],
+    "text": "Emalishamy. The plaintiff either in the plaint or in evidence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      295.35,
+      500.67,
+      309.35
+    ],
+    "text": "does not state how Bastian became entitled to the balance",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      316.47,
+      204.05,
+      330.47
+    ],
+    "text": "17/24 share.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      349.59,
+      500.61,
+      363.59
+    ],
+    "text": "Then in paragraph 8 of the plaint, the plaintiff states that the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      370.71,
+      500.74,
+      384.71
+    ],
+    "text": "aforesaid Baby gifted her rights to the plaintiff and the 1st",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      391.83,
+      503.38,
+      405.83
+    ],
+    "text": "defendant by the Deed marked at the trial P5 dated 30.09.1994.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      424.97,
+      500.65,
+      438.97
+    ],
+    "text": "Admittedly, the 2nd defendant is in possession of the land. So do",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      446.09,
+      500.65,
+      460.09
+    ],
+    "text": "the plaintiff and the 1st defendantvide the Preliminary Plan and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      467.21,
+      367.03,
+      481.21
+    ],
+    "text": "its Report marked X and X1 respectively.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      500.33,
+      500.62,
+      514.33
+    ],
+    "text": "It is the position of the plaintiff, as seen from paragraph 12 of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      521.57,
+      500.69,
+      535.57
+    ],
+    "text": "the plaint, that the 2nd defendant came into possession of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      542.69,
+      500.74,
+      556.69
+    ],
+    "text": "land with the leave and licence of her mother, and later the 2nd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      563.81,
+      500.74,
+      577.81
+    ],
+    "text": "defendant got a Deed dated 26.01.1994 executed in her favour",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      584.96,
+      500.53,
+      598.96
+    ],
+    "text": "from the aforesaid Baby, but no title passes from that Deed to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      606.08,
+      488.14,
+      620.08
+    ],
+    "text": "the 2nd defendant. This Deed was marked at the trial as 2V1.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      639.2,
+      500.69,
+      653.2
+    ],
+    "text": "I cannot understand on what basis the plaintiff says that no title",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      660.32,
+      500.52,
+      674.32
+    ],
+    "text": "passes on that Deed. The Deed 2V1 has been executed and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      681.43,
+      498.34,
+      695.44
+    ],
+    "text": "registered before the Deed P1 and therefore gets priority over P1.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      35.98,
+      313.61,
+      64.02
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      72.0,
+      500.69,
+      86.0
+    ],
+    "text": "The fact that the 2nd defendant came into possession of this land",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      93.12,
+      500.72,
+      107.12
+    ],
+    "text": "with the leave and licence of the plaintiffs mother was never",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      114.24,
+      345.67,
+      128.3
+    ],
+    "text": "proved except ipse dixit of the plaintiff.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      147.36,
+      500.69,
+      161.36
+    ],
+    "text": "In his evidence, the plaintiff says that the 2nd defendant came as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      168.48,
+      482.5,
+      182.48
+    ],
+    "text": "such in or around 1975.1 The action has been filed in 1994.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      201.6,
+      500.65,
+      215.6
+    ],
+    "text": "The plaintiff during the cross-examination has accepted that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      222.84,
+      500.61,
+      236.84
+    ],
+    "text": "Baby had a brother named Alwis2 who was in occupation of this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      243.99,
+      351.91,
+      257.99
+    ],
+    "text": "land even when he was born in 1950.3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      277.11,
+      500.7,
+      291.11
+    ],
+    "text": "It is the position put forward by the 2nd defendant during the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      298.23,
+      500.66,
+      312.23
+    ],
+    "text": "cross-examination that the 2nd defendant came to the house",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      319.35,
+      496.9,
+      333.35
+    ],
+    "text": "Alwis was in occupation and bought Babys rights by the afore-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      340.47,
+      500.26,
+      354.47
+    ],
+    "text": "mentioned Deed marked 2V14, which was denied by the plaintiff.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      373.59,
+      500.5,
+      387.59
+    ],
+    "text": "As the learned District Judge has correctly pointed out in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      394.71,
+      500.69,
+      408.71
+    ],
+    "text": "Judgment, the plaintiff in cross-examination has accepted the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      415.85,
+      297.77,
+      429.85
+    ],
+    "text": "pedigree of the 2nd defendant.5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      448.97,
+      500.66,
+      462.97
+    ],
+    "text": "The pivotal argument of the learned counsel for the appellant is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      470.09,
+      500.74,
+      484.09
+    ],
+    "text": "that when the learned District Judge has accepted the plaintiffs",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      491.21,
+      500.7,
+      505.21
+    ],
+    "text": "first Deed marked P1, it is inconsistent to accept the pedigree of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      512.33,
+      500.61,
+      526.33
+    ],
+    "text": "the 2nd defendant. I cannot bring myself to accept that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      533.57,
+      500.67,
+      547.57
+    ],
+    "text": "argument, as I understand, the learned District Judge has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      554.69,
+      500.74,
+      568.69
+    ],
+    "text": "referred to the Deed P1 in the Judgment, to defeat the argument",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      575.84,
+      500.73,
+      589.84
+    ],
+    "text": "of the plaintiff that Bastian is the sole original owner of the land",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      596.96,
+      299.09,
+      610.96
+    ],
+    "text": "and not for any other purpose.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      647.36,
+      263.09,
+      720.06
+    ],
+    "text": "1 Page 78 of the Appeal Brief 2 Page 74 of the Brief 3 Page 75 of the Brief 4 Pages 76-78 of the Brief 5 Pages 82-84 of the Brief",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      6.480000019073486,
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      35.98,
+      313.61,
+      64.02
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      72.0,
+      500.69,
+      86.0
+    ],
+    "text": "Against the evidence led at the trial, the learned trial Judge",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      93.12,
+      500.74,
+      107.12
+    ],
+    "text": "cannot be found fault with, on balance of probability, to have",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      114.24,
+      500.67,
+      128.24
+    ],
+    "text": "accepted the version of the 2nd defendant than that of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      135.36,
+      275.81,
+      149.36
+    ],
+    "text": "plaintiff as to the pedigree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      168.48,
+      321.17,
+      182.48
+    ],
+    "text": "Appeal is dismissed without costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      267.99,
+      287.09,
+      281.99
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

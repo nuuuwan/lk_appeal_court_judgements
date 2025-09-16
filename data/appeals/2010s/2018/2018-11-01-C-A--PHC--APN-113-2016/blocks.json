@@ -1,0 +1,3090 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      -2.31,
+      6.28,
+      16.29,
+      55.7
+    ],
+    "text": "1 i 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.300000190734863,
+      14.600000381469727,
+      24.799999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      125.24,
+      104.24,
+      535.52,
+      118.25
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.76633071899414,
+      9.898648262023926,
+      9.921651840209961,
+      10.026270866394043,
+      10.1369047164917,
+      10.167999267578125,
+      10.175370216369629,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.62,
+      225.92,
+      259.96,
+      239.93
+    ],
+    "text": "Case No. CA (PHC) APN No:113/2016",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.798185348510742,
+      9.947114944458008,
+      10.163434028625488,
+      10.199999809265137,
+      10.229058265686035
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.79,
+      252.31,
+      259.89,
+      266.32
+    ],
+    "text": "PHC Puttalam Case No: HCR 08/2015",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.761263847351074,
+      9.780367851257324,
+      10.113382339477539,
+      10.199999809265137,
+      10.28757381439209
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.78,
+      278.48,
+      249.16,
+      292.49
+    ],
+    "text": "MC Puttalam Case No:10098/2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.168200492858887,
+      10.199999809265137,
+      10.202199935913086,
+      10.232248306274414
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.3,
+      462.32,
+      229.55,
+      476.33
+    ],
+    "text": "Before: K.K. Wickremasinghe J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.284790992736816,
+      9.729497909545898,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      117.04,
+      493.76,
+      194.75,
+      507.77
+    ],
+    "text": "Janak De Silva J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.284790992736816,
+      10.082979202270508,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.13,
+      524.95,
+      120.62,
+      538.96
+    ],
+    "text": "Counsel:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.13,
+      156.8,
+      533.64,
+      170.81
+    ],
+    "text": "In the matter of an application in revision under",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.940960884094238,
+      10.1112642288208,
+      10.199999809265137,
+      10.202799797058105,
+      10.343342781066895,
+      10.524392127990723
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.8,
+      173.36,
+      526.53,
+      187.37
+    ],
+    "text": "and in terms of Article 138 of the Constitution.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.283458709716797,
+      10.524392127990723,
+      10.658447265625
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      297.36,
+      225.68,
+      437.28,
+      239.69
+    ],
+    "text": "Rameez Uddeen Mahamoor,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.200749397277832
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      297.61,
+      251.57,
+      403.34,
+      266.08
+    ],
+    "text": "No.5,6th Lane,Nawala,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.113487243652344,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      297.12,
+      278.48,
+      347.74,
+      292.49
+    ],
+    "text": "Rajagiriya.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      389.43,
+      303.37,
+      537.33,
+      318.64
+    ],
+    "text": "1st Party-Petitioner-Petitioner",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.269108772277832,
+      10.199999809265137,
+      10.200799942016602
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.91,
+      331.04,
+      299.79,
+      345.05
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.006157875061035
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.81,
+      357.42,
+      411.73,
+      371.44
+    ],
+    "text": "Don Roshan Chandana,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.66,
+      383.09,
+      470.33,
+      397.88
+    ],
+    "text": "19th Mile Post, Anuradhapura Road,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.099999904632568,
+      10.199999809265137,
+      10.239274024963379,
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.76,
+      409.76,
+      396.75,
+      423.77
+    ],
+    "text": "Ihalapuliyankulama.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      367.84,
+      435.65,
+      537.94,
+      450.16
+    ],
+    "text": "2nd Party-Responde nt-Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099999904632568,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.53,
+      554.87,
+      330.57,
+      570.07
+    ],
+    "text": "D.A.P. Weeraratne for pt Party-Petitioner-Petitioner",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.086366653442383,
+      10.199999809265137,
+      10.558500289916992,
+      12.268468856811523
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.56,
+      587.08,
+      537.71,
+      601.61
+    ],
+    "text": "K.V.S. Ganesharaja with S. George and Deepika Yogarajah for 2nd Party-Respondent-Respondent",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.022982120513916,
+      9.293740272521973,
+      9.83605670928955,
+      10.199999809265137,
+      10.39969539642334,
+      10.467103004455566,
+      10.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.01,
+      618.78,
+      247.11,
+      632.8
+    ],
+    "text": "Written Submissions tendered on:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.249927520751953,
+      10.304068565368652,
+      10.374556541442871
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.14,
+      649.14,
+      292.69,
+      664.04
+    ],
+    "text": "1st Party-Petitioner-Petitioner on 27.09.2018",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.800099849700928,
+      10.199999809265137,
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      76.57,
+      680.58,
+      189.47,
+      695.25
+    ],
+    "text": "Argued on: 30.07.2018",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137,
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.29,
+      711.53,
+      194.03,
+      726.2
+    ],
+    "text": "Decided on: 31.10.2018",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137,
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.75,
+      745.74,
+      333.84,
+      759.76
+    ],
+    "text": "Page 1 of 6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.14156436920166,
+      9.199999809265137,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      601.21,
+      319.35,
+      624.9,
+      381.37
+    ],
+    "text": "t I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.5,
+      42.599998474121094
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      601.92,
+      395.0,
+      610.87,
+      417.12
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -2.01,
+      -31.48,
+      23.19,
+      35.75
+    ],
+    "text": ",",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      50.40010070800781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      0.98,
+      28.23,
+      10.21,
+      56.08
+    ],
+    "text": "I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.399999618530273,
+      16.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.95,
+      103.74,
+      157.55,
+      118.47
+    ],
+    "text": "Janak De Silva J.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.498266220092773,
+      10.318136215209961,
+      10.32855224609375,
+      10.389494895935059
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.17,
+      135.1,
+      539.05,
+      149.53
+    ],
+    "text": "This an application in revision made against the order ofthe learned High CourtJudge of Puttalam",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.141633987426758,
+      10.402547836303711,
+      10.5,
+      10.678040504455566,
+      10.842223167419434
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.38,
+      156.71,
+      166.99,
+      171.14
+    ],
+    "text": "dated 12.07.2016.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.93,
+      187.9,
+      539.2,
+      202.33
+    ],
+    "text": "This matter arises out of an information filed by the Officer-in-Charge of the Saliyawewa Police",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.258881568908691,
+      10.402547836303711,
+      10.5,
+      10.563359260559082,
+      10.678040504455566,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.28,
+      209.51,
+      538.58,
+      223.94
+    ],
+    "text": "under section 66(1)(a} of the Primary Courts Procedure Act (Act). Information was filed on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.387395858764648,
+      10.477476119995117,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.15,
+      231.1,
+      538.49,
+      245.53
+    ],
+    "text": "25.11.2014. The parties were permitted to file affidavits, counter affidavits and documents. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.37485408782959,
+      10.448675155639648,
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.5,
+      252.17,
+      538.75,
+      266.89
+    ],
+    "text": "pt Party-Petitioner-Petitioner (Petitioner) claimed that he was in possession of the land in",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.458316802978516,
+      10.5,
+      10.557990074157715,
+      10.678040504455566,
+      11.916656494140625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.15,
+      273.88,
+      538.83,
+      288.5
+    ],
+    "text": "dispute from 17.03.2010 whereas the 2nd Party-Respondent-Respondent (Respondent) claimed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.022982120513916,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.7,
+      295.67,
+      399.07,
+      310.1
+    ],
+    "text": "that he was in possession of the land in dispute for about 20 years.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.343128204345703,
+      10.371969223022461,
+      10.380570411682129,
+      10.458316802978516,
+      10.5,
+      10.526317596435547,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.69,
+      326.86,
+      538.45,
+      341.29
+    ],
+    "text": "The parties admitted that the land in dispute is depicted as \"M\" in the sketch filed by the Police.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      9.869680404663086,
+      10.371969223022461,
+      10.37485408782959,
+      10.5,
+      10.623770713806152,
+      10.896224021911621
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.81,
+      348.46,
+      239.56,
+      362.89
+    ],
+    "text": "(Journal Entry dated 25.11.2014).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.45,
+      379.9,
+      540.0,
+      394.33
+    ],
+    "text": "The learned Magistrate held that the Respondent had established that he was in possession of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.448675155639648,
+      10.458316802978516,
+      10.460023880004883,
+      10.5,
+      10.540223121643066,
+      10.557990074157715,
+      10.623770713806152
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.47,
+      401.75,
+      539.47,
+      416.18
+    ],
+    "text": "the land in dispute on the date that information was filed and that the Petitioner had failed to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.489344596862793,
+      10.5,
+      10.557990074157715,
+      10.594772338867188,
+      10.623770713806152
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.65,
+      423.1,
+      538.3,
+      437.53
+    ],
+    "text": "establish the exact day on which he was evicted from the land in dispute by the Respondent.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.458316802978516,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.54,
+      444.46,
+      513.94,
+      458.89
+    ],
+    "text": "Accordingly, he held that the Respondent was entitled to possession of the land in dispute.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.460023880004883,
+      10.5,
+      10.594772338867188,
+      10.623770713806152,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.45,
+      475.9,
+      539.0,
+      490.33
+    ],
+    "text": "The Petitioner moved in revision to the High Court against the said order. The learned High Court",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.37485408782959,
+      10.485640525817871,
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.96,
+      497.26,
+      539.18,
+      511.69
+    ],
+    "text": "Judge by his order dated 12.07.2016 dismissed the said application on the basis that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.466998100280762,
+      10.469555854797363,
+      10.492197036743164,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.76,
+      518.86,
+      538.96,
+      533.29
+    ],
+    "text": "Petitioner had failed to establish exceptional circumstances as well as him having an alternative",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      9.925800323486328,
+      10.258881568908691,
+      10.5,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.56,
+      540.22,
+      282.52,
+      554.65
+    ],
+    "text": "remedy. Hence this application in revision.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.371969223022461,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.77,
+      571.9,
+      538.69,
+      586.33
+    ],
+    "text": "Before proceeding to consider the arguments made in the instant case it is observed with regret",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.869680404663086,
+      10.307740211486816,
+      10.371969223022461,
+      10.5,
+      10.673663139343262,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.0,
+      593.5,
+      538.46,
+      607.93
+    ],
+    "text": "that the Petitioner has failed to file proper papers in this application. There were six connected",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.340285301208496,
+      10.444855690002441,
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.56,
+      614.86,
+      538.0,
+      629.29
+    ],
+    "text": "matters namely CA (PHC) APN 109/2016, CA (PHC) APN 110/2016, CA(PHC)APN 111/2016, CA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.748185157775879,
+      9.845181465148926,
+      10.122617721557617,
+      10.140546798706055,
+      10.170221328735352,
+      10.271411895751953,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.35,
+      636.22,
+      538.58,
+      650.65
+    ],
+    "text": "(PHC) APN 112/2016, CA (PHC) APN 113/2016 and CA (PHC) APN 114/2016. In all these cases the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.748185157775879,
+      9.845181465148926,
+      10.026629447937012,
+      10.074738502502441,
+      10.07770824432373,
+      10.140546798706055,
+      10.170221328735352,
+      10.177290916442871,
+      10.202948570251465,
+      10.252840995788574,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.42,
+      657.58,
+      537.9,
+      672.01
+    ],
+    "text": "document marked P1 was the certified copy of the relevant High Court proceedings. However, in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.925905227661133,
+      10.371969223022461,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.15,
+      678.94,
+      538.49,
+      693.37
+    ],
+    "text": "CA (PHC) APN 113/2016 the document marked P1 was the record of H.C. Puttlam 09/2015",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.815006256103516,
+      9.845181465148926,
+      10.026629447937012,
+      10.07770824432373,
+      10.12303352355957,
+      10.5,
+      10.514739990234375,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.04,
+      700.31,
+      538.83,
+      714.74
+    ],
+    "text": "whereas that should have been marked as P1 in this case. Similarly, in this case the document",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      9.815006256103516,
+      10.296630859375,
+      10.307740211486816,
+      10.5,
+      10.557990074157715
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.33,
+      721.67,
+      537.86,
+      736.1
+    ],
+    "text": "marked P1 was the record of H.C. Puttlam 08/2015 whereas that should have been marked as P1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      9.815006256103516,
+      9.925905227661133,
+      10.05533504486084,
+      10.458316802978516,
+      10.5,
+      10.514739990234375,
+      10.557990074157715,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.99,
+      747.41,
+      333.17,
+      759.91
+    ],
+    "text": "Page 2 of 6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.09174633026123,
+      9.100000381469727,
+      9.550737380981445
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.92,
+      104.14,
+      542.53,
+      118.57
+    ],
+    "text": "in CA (PHC) APN 113/2016. While this was by itself a ground to dismiss CA (PHC) APN 113/2016",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.748185157775879,
+      9.845181465148926,
+      10.026629447937012,
+      10.07770824432373,
+      10.122617721557617,
+      10.140546798706055,
+      10.5,
+      10.594772338867188
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.77,
+      125.74,
+      541.41,
+      140.17
+    ],
+    "text": "and CA (PHC) APN 114/2016 applications, I have nevertheless considered the revision",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.748185157775879,
+      10.140546798706055,
+      10.170221328735352,
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.78,
+      147.11,
+      341.58,
+      161.54
+    ],
+    "text": "applications by reference to the correct Pi document.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.466547012329102,
+      10.5,
+      10.729785919189453,
+      11.2125244140625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.74,
+      178.55,
+      541.01,
+      192.98
+    ],
+    "text": "One of the main arguments of the learned counsel for the Petitioner is that the land in dispute is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.869680404663086,
+      10.408299446105957,
+      10.5,
+      10.557990074157715,
+      10.619915962219238,
+      10.678040504455566,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.68,
+      199.9,
+      541.74,
+      214.33
+    ],
+    "text": "not properly identified. He submitted that whereas the land claimed by the Petitioner is identified",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.271207809448242,
+      10.5,
+      10.557990074157715
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.55,
+      221.5,
+      541.37,
+      235.93
+    ],
+    "text": "as Dangaha Kumbura the Respondents claimed a portion of land called Thambigewela. The",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.300000190734863,
+      10.37485408782959,
+      10.5,
+      10.595316886901855,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.92,
+      242.87,
+      541.05,
+      257.3
+    ],
+    "text": "learned counsel for the Petitioner relied on Punchi Nona v. Padumasena and others [(1994)2",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.344368934631348,
+      10.300000190734863,
+      10.305398941040039,
+      10.5,
+      10.712646484375
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.27,
+      264.46,
+      541.82,
+      278.89
+    ],
+    "text": "SrLL.R. 117]. However, as pointed out earlier, parties in the Magistrates Court admitted that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.925800323486328,
+      10.162630081176758,
+      10.5,
+      10.563359260559082
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.68,
+      286.07,
+      541.54,
+      300.5
+    ],
+    "text": "land in dispute is depicted as \"M\" in the sketch filed by the Police. (Journal Entry dated",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.869680404663086,
+      9.925800323486328,
+      10.371969223022461,
+      10.5,
+      10.882984161376953
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.31,
+      307.42,
+      141.54,
+      321.85
+    ],
+    "text": "25.11.2014).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.01,
+      338.86,
+      292.86,
+      353.29
+    ],
+    "text": "Section 58 of the Evidence Ordinance reads:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.49539852142334,
+      10.5,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.82,
+      370.3,
+      541.13,
+      384.73
+    ],
+    "text": "\"No fact need be proved in any proceeding which the parties thereto or their agents agree",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.416366577148438,
+      10.5,
+      10.503349304199219
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.67,
+      391.67,
+      542.16,
+      406.1
+    ],
+    "text": "to admit at the hearing, or which, before the hearing, they agree to admit by any writing",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.466547012329102,
+      10.5,
+      10.594772338867188,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.01,
+      413.26,
+      541.44,
+      427.69
+    ],
+    "text": "under their hands, or which by any rule of pleading in force at the time they are deemed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.509695053100586,
+      10.529508590698242,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.67,
+      434.86,
+      291.04,
+      449.29
+    ],
+    "text": "to have admitted by their pleadings:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.529508590698242,
+      10.594772338867188
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.96,
+      478.07,
+      540.93,
+      492.5
+    ],
+    "text": "Provided that the court may, in its discretion, require the facts admitted to be proved",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.299995422363281,
+      10.5,
+      10.557990074157715,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.1,
+      499.42,
+      292.59,
+      513.85
+    ],
+    "text": "otherwise than by such admissions.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.93,
+      534.46,
+      376.97,
+      548.89
+    ],
+    "text": "Accordingly, an admission can be made in the following ways:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.258881568908691,
+      10.356062889099121,
+      10.371969223022461,
+      10.416366577148438,
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.74,
+      569.5,
+      470.53,
+      583.93
+    ],
+    "text": "(i) Where the parties or their agents agree to admit a fact at the hearing;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.514739990234375,
+      10.529508590698242,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.49,
+      591.1,
+      541.7,
+      605.53
+    ],
+    "text": "(ii) Where before the hearing, parties agree to admit a fact by any writing under their",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132.51,
+      612.46,
+      166.51,
+      626.89
+    ],
+    "text": "hands;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.48,
+      634.3,
+      540.74,
+      648.73
+    ],
+    "text": "(iii) Where, by any rule of pleading in force at the time the parties are deemed to have",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.594772338867188,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      132.13,
+      655.66,
+      298.69,
+      670.09
+    ],
+    "text": "admitted a fact by their pleadings.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.529508590698242
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      285.16,
+      747.17,
+      335.33,
+      759.67
+    ],
+    "text": "Page 3 of 6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.03683090209961,
+      9.100000381469727,
+      9.550737380981445
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75.05,
+      103.74,
+      535.94,
+      117.76
+    ],
+    "text": "The admission in the instant case as to the identity of the land in dispute was one made within",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.782975196838379,
+      10.152237892150879,
+      10.159420013427734,
+      10.199999809265137,
+      10.202799797058105,
+      10.278448104858398,
+      10.283458709716797,
+      10.524392127990723,
+      10.57539176940918
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75.18,
+      125.05,
+      535.08,
+      139.12
+    ],
+    "text": "(i) above. An admission of fact made by counsel is binding on the client [Coomaraswamy, The",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.884988784790039,
+      9.920315742492676,
+      10.150278091430664,
+      10.199999809265137,
+      10.238875389099121,
+      10.283458709716797,
+      10.658447265625
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75.0,
+      146.66,
+      535.18,
+      160.73
+    ],
+    "text": "Law of Evidence, Vol. I, page 129]. It is sometimes permissible to withdraw admissions on",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.743483543395996,
+      10.109296798706055,
+      10.199999809265137,
+      10.300000190734863,
+      10.328836441040039,
+      10.343490600585938,
+      10.44232177734375,
+      10.965547561645508
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75.26,
+      168.25,
+      536.06,
+      182.32
+    ],
+    "text": "questions of law but admissions on questions offact cannot be withdrawn [Uvais v. Punyawathie",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.522397994995117,
+      10.151785850524902,
+      10.199999809265137,
+      10.300000190734863,
+      10.318906784057617,
+      10.369147300720215,
+      10.57235336303711,
+      10.658447265625
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75.18,
+      189.85,
+      536.42,
+      203.92
+    ],
+    "text": "(1993) 2 SrLL.R. 46]. However, in Sivaratnam and others v. Dissanayake and others [(2004) 1",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.344368934631348,
+      10.055171966552734,
+      10.199999809265137,
+      10.300000190734863,
+      10.305398941040039
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.75,
+      211.51,
+      441.86,
+      225.53
+    ],
+    "text": "SrLL.R. 144 at 148] Amaratunga J. sought to explain the principle as follows:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.468628883361816,
+      9.782975196838379,
+      9.977523803710938,
+      10.199999809265137,
+      10.202799797058105,
+      10.265291213989258,
+      10.57539176940918
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.6,
+      246.06,
+      535.82,
+      260.56
+    ],
+    "text": "liThe decision in Uvais v Punyawathie (supra) is authority for the proposition that a fact",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.109296798706055,
+      10.199999809265137,
+      10.259526252746582,
+      10.283458709716797,
+      10.340827941894531,
+      10.467103004455566,
+      10.489479064941406
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.59,
+      268.15,
+      535.25,
+      282.17
+    ],
+    "text": "specifically admitted at the trial and relied on by the opposite party in deciding how he",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.194297790527344,
+      10.199999809265137,
+      10.202799797058105,
+      10.265291213989258,
+      10.271002769470215,
+      10.283458709716797,
+      10.292481422424316,
+      10.296394348144531
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.35,
+      289.74,
+      535.56,
+      303.76
+    ],
+    "text": "should present his case cannot be withdrawn or departed from at the stage of the appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.151785850524902,
+      10.199999809265137,
+      10.202799797058105,
+      10.265291213989258,
+      10.270357131958008,
+      10.32824420928955,
+      10.329626083374023,
+      10.658447265625
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.56,
+      311.34,
+      536.4,
+      325.36
+    ],
+    "text": "See also Mariammai v. Pethurupillal. Fernando, J.'s judgment in Uvais's case makes it very",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.884830474853516,
+      9.995244979858398,
+      10.159420013427734,
+      10.199999809265137,
+      10.217933654785156,
+      10.271349906921387,
+      10.746319770812988
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.57,
+      332.7,
+      535.99,
+      346.72
+    ],
+    "text": "clear that what is not permitted is the withdrawal of an admission in circumstances where",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.727663040161133,
+      10.1112642288208,
+      10.199999809265137,
+      10.202799797058105,
+      10.207447052001953,
+      10.286930084228516,
+      10.360191345214844,
+      10.40023422241211,
+      10.406067848205566,
+      10.658447265625
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.34,
+      354.3,
+      535.03,
+      368.32
+    ],
+    "text": "such withdrawal has the effect of subverting the fundamental principles of the Civil",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.202799797058105,
+      10.253758430480957,
+      10.283458709716797,
+      10.524392127990723
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.45,
+      375.9,
+      536.18,
+      389.92
+    ],
+    "text": "Procedure Code in regard to pleadings and issues. That judgment is not authority for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.727663040161133,
+      10.199999809265137,
+      10.202799797058105,
+      10.231152534484863,
+      10.281822204589844,
+      10.298028945922852,
+      10.318709373474121,
+      10.44232177734375
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.72,
+      397.51,
+      535.02,
+      411.53
+    ],
+    "text": "broader proposition that an admission once made cannot be withdrawn at all. An",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.1112642288208,
+      10.150278091430664,
+      10.199999809265137,
+      10.294660568237305,
+      10.470902442932129
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.33,
+      418.86,
+      535.82,
+      432.88
+    ],
+    "text": "admission made in a written statement may be subsequently withdrawn with the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.151785850524902,
+      10.199999809265137,
+      10.270357131958008,
+      10.276612281799316,
+      10.39454460144043
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.48,
+      440.23,
+      536.22,
+      454.25
+    ],
+    "text": "permission of the Judge. Muhammad Altof All Khan v Hamid-ud-din. Section 183 proviso",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.15771198272705,
+      10.199999809265137,
+      10.202799797058105,
+      10.214638710021973,
+      10.388557434082031,
+      10.39145278930664
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.58,
+      461.83,
+      534.83,
+      475.85
+    ],
+    "text": "of the Code of Criminal Procedure Act, No. 15 of 1979 explicitly demonstrates that an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.99570369720459,
+      10.199999809265137,
+      10.283458709716797,
+      10.406067848205566,
+      10.524392127990723,
+      10.658447265625,
+      10.790837287902832
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.33,
+      483.42,
+      534.89,
+      497.44
+    ],
+    "text": "admission can be withdrawn. Thus, the law's refusal to allow the withdrawal of an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.1112642288208,
+      10.199999809265137,
+      10.26832103729248,
+      10.283458709716797,
+      10.524392127990723,
+      10.57539176940918
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.33,
+      504.8,
+      441.9,
+      518.81
+    ],
+    "text": "admission is a matter depending on the circumstances of each case.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.727663040161133,
+      10.199999809265137,
+      10.283458709716797,
+      10.382123947143555,
+      10.658447265625
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.84,
+      540.06,
+      535.82,
+      554.08
+    ],
+    "text": "In the present case, no attempt was made to withdraw the admission as to the identity of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.782975196838379,
+      10.105310440063477,
+      10.199999809265137,
+      10.202799797058105,
+      10.236136436462402,
+      10.24415397644043,
+      10.283458709716797,
+      10.328836441040039,
+      10.450864791870117,
+      10.524392127990723,
+      10.57539176940918
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.53,
+      561.66,
+      535.58,
+      575.68
+    ],
+    "text": "corpus either in the Magistrate's Court or the High Court. Accordingly, I am of the view that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.202799797058105,
+      10.205947875976562,
+      10.27517318725586,
+      10.283458709716797,
+      10.456523895263672,
+      10.524392127990723
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.65,
+      583.26,
+      535.18,
+      597.28
+    ],
+    "text": "Petitioner cannot now be permitted to do so and argue that the identity of the corpus is in issue.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.01690673828125,
+      10.109296798706055,
+      10.199999809265137,
+      10.283458709716797,
+      10.286930084228516,
+      10.312678337097168,
+      10.359010696411133,
+      10.406067848205566,
+      10.57539176940918,
+      10.658447265625
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      279.88,
+      746.94,
+      330.05,
+      759.44
+    ],
+    "text": "Page 4 of 6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.03683090209961,
+      9.100000381469727,
+      9.550737380981445
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.32,
+      104.33,
+      541.38,
+      118.81
+    ],
+    "text": "In Ramalingam v. Thangarajah [(1982) 2 SrLL.R. 693 at 698] Sharvananda J. (as he was then)",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      8.962401390075684,
+      9.479475021362305,
+      10.079167366027832,
+      10.201970100402832,
+      10.224946975708008,
+      10.252840995788574,
+      10.458316802978516,
+      10.5,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.03,
+      125.98,
+      165.56,
+      140.41
+    ],
+    "text": "stated as follows:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.66793155670166,
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.02,
+      147.35,
+      540.91,
+      161.78
+    ],
+    "text": "\"In an inquiry into a dispute as to the possession of any land, where a breach of peace is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.670266151428223,
+      9.925800323486328,
+      10.258881568908691,
+      10.5,
+      10.540223121643066,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.39,
+      168.94,
+      541.9,
+      183.37
+    ],
+    "text": "threatened or is likely under Part VII of the Primary Courts Procedure Act, the main point",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.37930679321289,
+      10.5,
+      10.609182357788086,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.42,
+      190.3,
+      541.85,
+      204.73
+    ],
+    "text": "for decision is the actual possession of the land on the date of the filing of the information",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.5,
+      10.514739990234375,
+      10.619915962219238,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.73,
+      211.91,
+      541.83,
+      226.34
+    ],
+    "text": "under section 66, but where forcible dispossession took place within two months before",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.520529747009277,
+      10.781720161437988
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.15,
+      233.5,
+      541.91,
+      247.93
+    ],
+    "text": "the date on which the said information was filed the main point is actual possession prior",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.477476119995117,
+      10.5,
+      10.514739990234375
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.15,
+      255.11,
+      296.67,
+      269.54
+    ],
+    "text": "to the alleged date of dispossession.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.594772338867188,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.57,
+      290.38,
+      541.82,
+      304.81
+    ],
+    "text": "The learned counsel for the Petitioner submitted that the documents tendered by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.37485408782959,
+      10.466547012329102,
+      10.5,
+      10.623770713806152,
+      10.712646484375
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.88,
+      311.98,
+      541.82,
+      326.41
+    ],
+    "text": "Respondent does not establish that he was in possession of the land in dispute. However, the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.458316802978516,
+      10.5,
+      10.540223121643066,
+      10.552070617675781,
+      10.623770713806152
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.68,
+      333.34,
+      541.82,
+      347.77
+    ],
+    "text": "learned Magistrate has correctly concluded that the evidence tendered on behalf of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.364171028137207,
+      10.477476119995117,
+      10.5,
+      10.540223121643066,
+      10.557990074157715
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.88,
+      354.94,
+      541.86,
+      369.37
+    ],
+    "text": "Respondent does in fact establish his possession of the land in dispute whereas the Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.492197036743164,
+      10.5,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.69,
+      376.31,
+      171.29,
+      390.74
+    ],
+    "text": "has failed to do so.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.20094108581543,
+      10.270441055297852,
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.6,
+      411.62,
+      541.25,
+      426.32
+    ],
+    "text": "In this regard an important item of evidence is the document marked 20::>1 which is a certified",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.676664352416992,
+      10.065145492553711,
+      10.37480354309082,
+      10.416871070861816,
+      10.5,
+      10.55286693572998,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.29,
+      433.35,
+      541.46,
+      447.86
+    ],
+    "text": "copy of the proceedings in D.C. Puttalam 2109/L which has been filed on 18.12.2013, more than",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.364171028137207,
+      10.490567207336426,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.29,
+      454.49,
+      541.38,
+      469.21
+    ],
+    "text": "a year prior to information been filed under section 66(1)(a) of the Act, by the Respondent and 5",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5,
+      10.729785919189453,
+      10.814053535461426,
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.3,
+      476.38,
+      540.78,
+      490.81
+    ],
+    "text": "others against one Ferdinandusz and LB. Newton Pieris. The plaintiffs claimed that they were in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727,
+      10.371969223022461,
+      10.448675155639648,
+      10.5,
+      10.557990074157715
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.68,
+      497.98,
+      541.87,
+      512.41
+    ],
+    "text": "possession of the land in dispute and sought inter alia a declaration that they are entitled to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.514739990234375,
+      10.557990074157715,
+      10.594772338867188,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.68,
+      519.34,
+      540.65,
+      533.77
+    ],
+    "text": "possess the said land and preventing the defendants evicting them from the said land. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.327178001403809,
+      10.37485408782959,
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.54,
+      540.94,
+      541.22,
+      555.37
+    ],
+    "text": "defendants were two of the vendors who had purportedly sold the land in dispute to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.489344596862793,
+      10.5,
+      10.594772338867188,
+      10.781720161437988,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.64,
+      562.3,
+      542.5,
+      576.73
+    ],
+    "text": "Petitioner. This is an important fact which establishes that the Respondent was in possession of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.37480354309082,
+      10.458316802978516,
+      10.5,
+      10.55286693572998,
+      10.623770713806152,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79.87,
+      583.9,
+      541.86,
+      598.33
+    ],
+    "text": "the land in dispute at least one year prior to the date when information was filed. The Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.448675155639648,
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79.9,
+      605.5,
+      466.82,
+      619.93
+    ],
+    "text": "failed to establish that he took over possession of the land in dispute thereafter.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.565942764282227,
+      10.594772338867188,
+      10.623770713806152,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.26,
+      640.79,
+      541.48,
+      655.22
+    ],
+    "text": "On a careful reading of the evidence, I am of the view that the learned High Court Judge correctly",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.157256126403809,
+      10.480932235717773,
+      10.5,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.28,
+      661.91,
+      541.34,
+      676.34
+    ],
+    "text": "concluded that there are no exceptional circumstances to interfere with the assessment of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.540223121643066,
+      10.557990074157715,
+      10.594772338867188
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.29,
+      683.02,
+      284.89,
+      697.45
+    ],
+    "text": "evidence made by the learned Magistrate.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      285.64,
+      745.91,
+      336.72,
+      760.34
+    ],
+    "text": "Page 5 of 6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.707113265991211,
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      599.92,
+      -50.68,
+      628.61,
+      20.22
+    ],
+    "text": ",",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      51.599998474121094
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      600.96,
+      3.49,
+      615.42,
+      39.21
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      26.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      -5.52,
+      24.43,
+      7.05,
+      55.48
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      22.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.65,
+      104.87,
+      533.87,
+      119.3
+    ],
+    "text": "The Petitioner having moved the High Court by way of revision had a right of appeal to this court",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300454139709473,
+      10.5,
+      10.594772338867188,
+      10.678040504455566,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.61,
+      126.46,
+      533.03,
+      140.89
+    ],
+    "text": "against the order of the learned High Court Judge of Puttalam dated 12.07.2016. However, he",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.224946975708008,
+      10.5,
+      10.540223121643066,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73.01,
+      147.82,
+      533.64,
+      162.25
+    ],
+    "text": "has filed a revision application instead of an appeal. In Dharmaratne and another v. Palm Paradise",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.42949390411377,
+      10.086091995239258,
+      10.100000381469727,
+      10.102450370788574,
+      10.186331748962402,
+      10.20094108581543,
+      10.272674560546875,
+      10.37480354309082,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.69,
+      169.43,
+      412.47,
+      183.86
+    ],
+    "text": "Cabanas ltd. and others [(2003) 3 Sri.loR. 24 at 30] Amaratunga J. held:",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.420342445373535,
+      10.100000381469727,
+      10.204855918884277,
+      10.488944053649902,
+      10.495299339294434,
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.86,
+      204.7,
+      533.21,
+      219.13
+    ],
+    "text": "\"Thus the existence of exceptional circumstances is the process by which the Court selects",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.869680404663086,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      107.23,
+      226.31,
+      532.99,
+      240.74
+    ],
+    "text": "the cases in respect of which this extra-ordinary method of rectification should be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.277594566345215,
+      10.299995422363281,
+      10.5,
+      10.678040504455566,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      107.41,
+      247.66,
+      533.39,
+      262.09
+    ],
+    "text": "adopted. If such a selection process is not there revisionary jurisdiction of this Court will",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.5,
+      10.552070617675781,
+      10.710882186889648,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      107.56,
+      269.26,
+      533.25,
+      283.69
+    ],
+    "text": "become a gateway for every litigant to make a second appeal in the garb of a revision",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.526317596435547,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      107.41,
+      291.11,
+      534.82,
+      305.54
+    ],
+    "text": "application or to make an appeal in situations where the legislature has not given right of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.282905578613281,
+      10.37480354309082,
+      10.5,
+      10.552070617675781,
+      10.609182357788086,
+      10.678040504455566,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      107.17,
+      312.71,
+      144.13,
+      327.14
+    ],
+    "text": "appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.25,
+      347.74,
+      533.9,
+      362.17
+    ],
+    "text": "The practice of Court to insist on the existence of exceptional circumstances for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.448675155639648,
+      10.477476119995117,
+      10.5,
+      10.619915962219238,
+      10.678040504455566,
+      10.814053535461426,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      107.41,
+      369.34,
+      534.45,
+      383.77
+    ],
+    "text": "exercise of revisionary powers has taken deep root in our law and has got hardened into",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.282905578613281,
+      10.364171028137207,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      107.41,
+      390.94,
+      533.92,
+      405.37
+    ],
+    "text": "a rule which should not be lightly disturbed. The words used by the legislature do not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.299995422363281,
+      10.5,
+      10.552070617675781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      107.33,
+      412.55,
+      439.67,
+      426.98
+    ],
+    "text": "indicate that it ever intended to interfere with this 'rule of practice'.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.551523208618164,
+      10.557990074157715,
+      10.678040504455566,
+      10.729785919189453,
+      11.128066062927246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.69,
+      433.9,
+      533.95,
+      448.33
+    ],
+    "text": "There are no exceptional circumstances, which justifies this Court exercising the extraordinary",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.28,
+      455.5,
+      533.38,
+      469.93
+    ],
+    "text": "powers of revision against the order of the learned High Court Judge of Puttalam dated",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.514739990234375,
+      10.678040504455566,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.14,
+      477.11,
+      130.22,
+      491.54
+    ],
+    "text": "12.07.2016.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.01,
+      508.3,
+      401.14,
+      522.73
+    ],
+    "text": "Accordingly, the appeal is dismissed with costs fixed at Rs. 10,000/=.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.576815605163574,
+      10.256885528564453,
+      10.5,
+      10.514739990234375,
+      10.551523208618164
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      318.64,
+      602.39,
+      457.91,
+      616.82
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.03,
+      633.29,
+      185.73,
+      648.07
+    ],
+    "text": "K.K. Wickremasinghe J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.25400447845459,
+      10.5,
+      10.937421798706055
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      248.59,
+      664.79,
+      285.6,
+      679.22
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      318.64,
+      695.75,
+      457.91,
+      710.18
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.540223121643066,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      277.47,
+      748.61,
+      327.65,
+      761.11
+    ],
+    "text": "Page 6 of 6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.09174633026123,
+      9.100000381469727,
+      9.682459831237793
+    ]
+  }
+]

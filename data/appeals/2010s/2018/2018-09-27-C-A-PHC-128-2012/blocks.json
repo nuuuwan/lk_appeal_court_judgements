@@ -1,0 +1,3117 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      108.39,
+      106.33,
+      502.24,
+      123.94
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.203749656677246,
+      13.216889381408691
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      221.7,
+      122.89,
+      387.96,
+      140.51
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.94,
+      361.45,
+      302.87,
+      412.43
+    ],
+    "text": "e.A.(PHC) No. 128/2012 P.H.C. Colombo No. HCRA 68/2009 M.e. Fort No. 67283/07",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.20265007019043,
+      13.23470401763916
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      234.34,
+      697.9,
+      281.81,
+      718.78
+    ],
+    "text": "********",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.03,
+      156.6,
+      517.37,
+      225.91
+    ],
+    "text": "In the matter of an Appeal in terms of Article 154(3)) of the Constitution read with High Court of the Provinces (Special Provisions) Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.10004997253418,
+      13.107148170471191,
+      13.107248306274414,
+      13.117339134216309,
+      13.19892692565918,
+      13.209244728088379,
+      13.390381813049316
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.99,
+      242.53,
+      500.91,
+      345.19
+    ],
+    "text": "B.A. Premalal, No.OB, 1st Lane, Galpoththa Road, Nawala, Rajagiriya. Respondent-Petitioner-Appellant",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.599999904632568,
+      13.090246200561523,
+      13.100000381469727,
+      13.11978530883789,
+      13.180913925170898
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.61,
+      427.93,
+      359.7,
+      445.54
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.23,
+      461.89,
+      484.56,
+      581.36
+    ],
+    "text": "Vijitha Palihakkara, Wijesekera, General Manager Railways, Department of Railways, P.O. Box 355, Colombo. Applicant -Respondent-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.100000381469727,
+      13.146119117736816,
+      13.1685209274292,
+      13.16911792755127,
+      13.239556312561035
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.3,
+      597.49,
+      487.94,
+      666.07
+    ],
+    "text": "Hon. Attorney General, Attorney General's Department, Colombo 12. Respondent-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.192423820495605
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.06,
+      107.16,
+      142.96,
+      124.63
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.989787101745605
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      92.98,
+      171.48,
+      156.84,
+      188.95
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      232.72,
+      107.4,
+      399.05,
+      141.68
+    ],
+    "text": "JANAK DE SILVA, J. & ACHALA WENGAPPULI, J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.994173049926758,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233.04,
+      171.24,
+      505.72,
+      188.71
+    ],
+    "text": "Sanjeewa Dissanayake with Dilini Premasiri for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.29317569732666
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233.49,
+      195.0,
+      444.54,
+      212.47
+    ],
+    "text": "the Respondent-Petitioner-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233.45,
+      218.76,
+      489.96,
+      236.24
+    ],
+    "text": "Manohara Jayasinghe S.C. for the Applicant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.588974952697754
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233.7,
+      242.52,
+      458.9,
+      259.99
+    ],
+    "text": "Respondent-Respondent & Respondent-",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233.7,
+      266.28,
+      306.32,
+      283.75
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.31,
+      290.28,
+      243.95,
+      307.75
+    ],
+    "text": "WRITTEN SUBMISSIONS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.49,
+      314.04,
+      205.55,
+      331.51
+    ],
+    "text": "TENDERED ON :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.475177764892578
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.78,
+      361.8,
+      177.53,
+      379.27
+    ],
+    "text": "DECICEDON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233.68,
+      314.04,
+      411.71,
+      331.51
+    ],
+    "text": "22-06-2018( by the Respondent)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233.62,
+      337.8,
+      400.97,
+      355.27
+    ],
+    "text": "03-07-2018 (by the Appellant)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233.92,
+      361.57,
+      354.23,
+      379.04
+    ],
+    "text": "26th September, 2018",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      12.890169143676758,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      233.54,
+      408.25,
+      299.85,
+      424.66
+    ],
+    "text": "*************",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.383018493652344
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.05,
+      430.47,
+      272.17,
+      451.55
+    ],
+    "text": "ACHALA WENGAPPULI, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.491791725158691
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127.81,
+      483.24,
+      517.81,
+      500.71
+    ],
+    "text": "The Respondent-Petitioner-Appellant (hereinafter referred to as the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.08,
+      507.23,
+      517.95,
+      524.71
+    ],
+    "text": "\"Appellant\") has invoked the appellate jurisdiction of this Court, seeking",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.104199409484863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.28,
+      531.0,
+      517.99,
+      548.48
+    ],
+    "text": "to set aside an order dated 2nd February 2012, in case No. HCRA 68/2009",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.126476287841797,
+      13.100000381469727,
+      13.156578063964844,
+      13.209244728088379,
+      13.509403228759766
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.19,
+      554.76,
+      518.07,
+      572.23
+    ],
+    "text": "of the Provincial High Court holden in Colombo. In the said revision",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.101500511169434,
+      13.209244728088379,
+      13.229015350341797
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.18,
+      578.75,
+      517.53,
+      596.23
+    ],
+    "text": "application, the Appellant sought to set aside an ejectment order dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.139191627502441,
+      13.156578063964844,
+      13.191580772399902,
+      13.270293235778809
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.25,
+      602.28,
+      517.14,
+      619.75
+    ],
+    "text": "22nd April 2009, issued by the Magistrate's Court of Colombo in case No.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.212646484375,
+      13.100000381469727,
+      13.150303840637207,
+      13.239062309265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.4,
+      626.28,
+      514.01,
+      643.75
+    ],
+    "text": "67283/07, upon an application filed by the Applicant-Respondent-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.124427795410156,
+      13.390381813049316,
+      13.41330337524414
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.51,
+      650.04,
+      517.97,
+      667.51
+    ],
+    "text": "Respondent (hereinafter referred to as the \"Respondent\") under Section 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.334697723388672
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.67,
+      673.33,
+      505.33,
+      690.8
+    ],
+    "text": "of the State Land (Recovery of Possession) Act No.7 of 1979 as amended.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.123080253601074,
+      13.554224967956543
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      509.46,
+      734.67,
+      516.96,
+      748.01
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.99,
+      105.01,
+      519.08,
+      122.48
+    ],
+    "text": "In support of his appeal, the Appellant contended that the Provincial",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.261702537536621,
+      13.329244613647461
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95.47,
+      129.0,
+      518.4,
+      146.55
+    ],
+    "text": "High Court was in error when it rejected his plea of Res Judicata in the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.150303840637207,
+      13.209244728088379,
+      13.300121307373047,
+      13.35521411895752,
+      13.395909309387207,
+      13.518669128417969
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95.65,
+      153.0,
+      517.78,
+      170.48
+    ],
+    "text": "instant matter and in addition it failed to consider the following factors",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.209244728088379,
+      13.285240173339844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95.54,
+      176.77,
+      299.21,
+      194.24
+    ],
+    "text": "before it held against the Appellant;",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.781362533569336
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.78,
+      240.13,
+      518.56,
+      257.6
+    ],
+    "text": "1. that he had a legitimate expectation to carry one his business",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      13.100000381469727,
+      13.222180366516113,
+      13.261702537536621,
+      13.331160545349121
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.01,
+      263.89,
+      518.79,
+      281.36
+    ],
+    "text": "in the dispute premises as \"he has got the approval to renew",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.122231483459473,
+      13.156378746032715,
+      13.183484077453613,
+      13.345450401306152,
+      13.35521411895752
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.09,
+      287.4,
+      296.15,
+      304.87
+    ],
+    "text": "the Lease Agreement\",",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130.46,
+      334.91,
+      519.94,
+      352.39
+    ],
+    "text": "ii. the Appellant had constructed a building with his own",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.169515609741211,
+      13.254341125488281,
+      13.276165962219238
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164.97,
+      358.92,
+      518.89,
+      376.39
+    ],
+    "text": "funding with the approval of the Respondent and therefore",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.128768920898438,
+      13.231490135192871,
+      13.285240173339844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.09,
+      382.43,
+      433.66,
+      399.91
+    ],
+    "text": "there is an 1/ implied agreement\" between them,",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.089278221130371,
+      13.100000381469727,
+      13.390381813049316
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130.44,
+      429.96,
+      519.32,
+      447.44
+    ],
+    "text": "iii. the Provincial High Court had failed to consider",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.173295021057129,
+      13.19892692565918,
+      13.254341125488281
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      165.49,
+      453.72,
+      446.19,
+      471.19
+    ],
+    "text": "/I compensation or an alternate place of business\" .",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.936437129974365,
+      13.100000381469727,
+      13.270293235778809
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130.23,
+      509.41,
+      518.73,
+      526.88
+    ],
+    "text": "In order to appreciate the grounds of appeal of the Appellant in its",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.119186401367188,
+      13.156578063964844,
+      13.18343448638916,
+      13.209244728088379
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.5,
+      533.16,
+      518.97,
+      550.63
+    ],
+    "text": "proper context, it is relevant to refer to the factual background, as revealed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.33,
+      556.92,
+      518.71,
+      574.39
+    ],
+    "text": "from the material placed before the Provincial High Court, in a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.284451484680176
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.36,
+      580.91,
+      211.73,
+      598.39
+    ],
+    "text": "chronological order.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130.39,
+      644.28,
+      519.28,
+      661.84
+    ],
+    "text": "It is claimed by the Appellant that he has operated a small shop",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.222180366516113,
+      13.239062309265137,
+      13.261702537536621,
+      13.683144569396973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.72,
+      667.56,
+      519.5,
+      685.03
+    ],
+    "text": "upon a rent agreement with Colombo Municipal Council since 1989 and in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.104349136352539,
+      13.129866600036621,
+      13.137845993041992,
+      13.169515609741211
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.51,
+      691.33,
+      519.33,
+      708.8
+    ],
+    "text": "1990, he had put up a building with his own funding with the approval of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.083939552307129,
+      13.100000381469727,
+      13.101449966430664,
+      13.107148170471191,
+      13.231490135192871,
+      13.254341125488281,
+      13.407002449035645,
+      13.518756866455078,
+      13.559539794921875
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      96.83,
+      714.6,
+      518.86,
+      746.71
+    ],
+    "text": "CMC and continued to occupy it. The said business premises was allocated 3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5,
+      13.100000381469727,
+      13.169814109802246,
+      13.207806587219238
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.1,
+      106.44,
+      516.56,
+      123.91
+    ],
+    "text": "with the assessment No. 62Q. Thereafter, the Respondent granted a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.1,
+      130.21,
+      516.15,
+      147.68
+    ],
+    "text": "\"permit/ agreement\" bearing the reference of B18/1992 and in 2006,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.209244728088379,
+      13.374327659606934,
+      13.438817977905273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.99,
+      153.97,
+      517.44,
+      171.44
+    ],
+    "text": "certain additional conditions were agreed upon by the parties and a new",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.124427795410156,
+      13.292092323303223,
+      13.358695983886719,
+      13.362275123596191
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.22,
+      177.73,
+      516.87,
+      195.2
+    ],
+    "text": "agreement was signed in March 2007 for the period commencing from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.209244728088379,
+      13.24198055267334
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.28,
+      201.73,
+      236.85,
+      219.2
+    ],
+    "text": "2008 and ending on 2009.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.009940147399902,
+      13.100000381469727,
+      13.179757118225098,
+      13.285240173339844,
+      13.422480583190918
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.57,
+      265.09,
+      517.09,
+      282.56
+    ],
+    "text": "The Respondent, after serving a quit notice dated 30.10.2002 on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.12602424621582,
+      13.138692855834961,
+      13.308245658874512
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.57,
+      288.85,
+      517.73,
+      306.32
+    ],
+    "text": "Appellant to vacate the disputed premises made an application to Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.150303840637207,
+      13.254637718200684,
+      13.390381813049316
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.21,
+      312.6,
+      517.35,
+      330.07
+    ],
+    "text": "for an order of ejectment in application No. 50439/05 on 03.06.2003. When",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.104249000549316,
+      13.209244728088379,
+      13.270293235778809,
+      13.308245658874512
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.57,
+      336.11,
+      517.7,
+      353.59
+    ],
+    "text": "the Appellant informed Court that he had paid up all dues, the Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.101449966430664,
+      13.101500511169434,
+      13.116739273071289,
+      13.177023887634277,
+      13.19892692565918,
+      13.255181312561035,
+      13.518756866455078
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.57,
+      359.89,
+      517.46,
+      377.36
+    ],
+    "text": "made order to \"lay by\" the said application until advice of the Attorney",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.156578063964844,
+      13.173395156860352
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.23,
+      383.88,
+      517.45,
+      401.36
+    ],
+    "text": "General is obtained. There was no final order made by the Court to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.104249000549316,
+      13.124427795410156,
+      13.169814109802246,
+      13.19892692565918,
+      13.203144073486328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.46,
+      407.65,
+      267.26,
+      425.12
+    ],
+    "text": "application of the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      127.87,
+      471.0,
+      517.09,
+      488.48
+    ],
+    "text": "With his letter dated 04.04.2007, the Respondent has informed the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.176824569702148
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.81,
+      494.76,
+      516.58,
+      512.23
+    ],
+    "text": "Appellant of the termination of the lease agreement and directed him to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.207806587219238,
+      13.311542510986328
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.57,
+      518.52,
+      517.38,
+      536.0
+    ],
+    "text": "handover the vacant possession of the disputed premises on or before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.117288589477539,
+      13.150403022766113,
+      13.422480583190918
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.38,
+      542.28,
+      516.83,
+      559.75
+    ],
+    "text": "10.05.2007. The Respondent further informed the Appellant that his failure",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.81,
+      566.04,
+      516.57,
+      583.51
+    ],
+    "text": "to comply with the said direction would result in initiating legal action to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.185372352600098,
+      13.209244728088379,
+      13.231490135192871
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      93.82,
+      589.8,
+      318.64,
+      607.27
+    ],
+    "text": "recover possession of the said premises.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.05,
+      652.91,
+      517.09,
+      670.39
+    ],
+    "text": "Thereafter, the Respondent had then issued the 2nd quit notice on the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.736221313476562,
+      13.100000381469727,
+      13.103699684143066,
+      13.138692855834961,
+      13.177023887634277,
+      13.308245658874512
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.29,
+      676.68,
+      517.21,
+      694.15
+    ],
+    "text": "Appellant on 16.07.2007 and upon his failure to vacate the said premises,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.207806587219238,
+      13.303814888000488,
+      13.308245658874512
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      508.52,
+      734.11,
+      516.24,
+      747.85
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.46,
+      106.69,
+      517.17,
+      124.16
+    ],
+    "text": "another application is made under case No. 67283/07 seeking an order of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.254637718200684,
+      13.287014961242676,
+      13.390381813049316
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.7,
+      130.68,
+      219.13,
+      148.16
+    ],
+    "text": "ejectment from Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.13,
+      194.04,
+      516.37,
+      211.51
+    ],
+    "text": "At the inquiry before the Magistrate's Court, some of these factors",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.104049682617188,
+      13.221288681030273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.58,
+      217.8,
+      516.97,
+      235.27
+    ],
+    "text": "were brought to the notice of Court by the Appellant. However, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.101500511169434,
+      13.239062309265137,
+      13.28903579711914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.78,
+      241.56,
+      456.53,
+      259.04
+    ],
+    "text": "Magistrate's Court had issued the ejectment order on 02.04.2009.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.104249000549316,
+      13.107148170471191,
+      13.19892692565918,
+      13.254341125488281,
+      13.308245658874512
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      127.74,
+      304.69,
+      517.65,
+      322.16
+    ],
+    "text": "It is contended on behalf of the Appellant that the application",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.261702537536621,
+      13.308245658874512,
+      13.660749435424805
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.85,
+      328.68,
+      516.26,
+      346.21
+    ],
+    "text": "bearing No. 67283/07 could not be maintained upon the plea of Res",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.289144515991211,
+      13.361146926879883,
+      13.41330337524414
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.73,
+      352.44,
+      517.9,
+      369.96
+    ],
+    "text": "Judicata since the Respondent had failed to eject the Appellant in an",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.154451370239258,
+      13.270293235778809,
+      13.331160545349121
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.94,
+      375.97,
+      517.33,
+      393.44
+    ],
+    "text": "already issued ejectment order in application No. 50439/05 in 2004 for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.104249000549316,
+      13.209244728088379
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.13,
+      399.72,
+      232.75,
+      417.19
+    ],
+    "text": "same business premises.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.05,
+      463.08,
+      517.2,
+      480.6
+    ],
+    "text": "The plea of Res Judicata was considered by the Magistrate's Court,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.124427795410156,
+      13.135353088378906,
+      13.169814109802246,
+      13.347635269165039,
+      13.379854202270508
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.42,
+      486.85,
+      518.21,
+      504.32
+    ],
+    "text": "and in its order dated 22.04.2009, the said plea was rejected. The basis on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.104249000549316,
+      13.129866600036621,
+      13.169814109802246,
+      13.19301986694336,
+      13.209244728088379
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.3,
+      510.6,
+      517.33,
+      528.07
+    ],
+    "text": "which the said plea was rejected is that there is an agreement entered into",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.116739273071289,
+      13.390381813049316
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.33,
+      534.59,
+      517.17,
+      552.07
+    ],
+    "text": "by the Appellant and the Respondent in 2003 in respect of the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.074174880981445,
+      13.100000381469727,
+      13.209244728088379,
+      13.285240173339844,
+      13.35521411895752
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.34,
+      558.36,
+      517.86,
+      575.84
+    ],
+    "text": "premises. However, this agreement was terminated by the Respondent on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.124427795410156
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.86,
+      582.37,
+      518.01,
+      599.89
+    ],
+    "text": "10.05.2007 and therefore the plea of Res Judicata raised by the Appellant",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.124427795410156,
+      13.197834968566895,
+      13.289144515991211,
+      13.309223175048828,
+      13.362275123596191
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.54,
+      606.12,
+      518.22,
+      623.59
+    ],
+    "text": "was rejected by Court. Then it further concluded that since the Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.239062309265137,
+      13.261702537536621
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.78,
+      629.88,
+      517.72,
+      647.35
+    ],
+    "text": "had failed to establish that he has a valid permit, or any other written",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.101449966430664,
+      13.10739803314209,
+      13.129866600036621,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.67,
+      653.39,
+      517.41,
+      670.87
+    ],
+    "text": "authority to occupy the said premises, the Court should issue an order of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.150303840637207,
+      13.390381813049316
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.66,
+      676.91,
+      517.96,
+      694.39
+    ],
+    "text": "ejectment. It is further noted by the Magistrate's Court that the Appellant",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.104399681091309,
+      13.107148170471191,
+      13.124427795410156,
+      13.19892692565918,
+      13.261702537536621,
+      13.46419906616211
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      508.93,
+      735.31,
+      516.6,
+      747.95
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.58,
+      106.75,
+      517.1,
+      123.83
+    ],
+    "text": "had failed to seek relief under Section 12 of the State Lands (Recovery of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.802749633789062,
+      12.871152877807617,
+      12.969873428344727,
+      13.133992195129395
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.29,
+      130.28,
+      185.43,
+      147.35
+    ],
+    "text": "Possession) Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      127.63,
+      162.67,
+      517.1,
+      179.75
+    ],
+    "text": "When the Appellant sought to challenge the validity of the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.832010269165039,
+      12.865880966186523,
+      12.907498359680176,
+      12.993192672729492,
+      12.998855590820312
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.49,
+      186.43,
+      516.94,
+      203.51
+    ],
+    "text": "order of ejectment in HCRA 68/2009, the Provincial High Court dismissed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.057117462158203,
+      13.07666015625,
+      13.094804763793945
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.59,
+      210.2,
+      516.63,
+      227.28
+    ],
+    "text": "his petition as no exceptional circumstances were established to exercise its",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.802749633789062,
+      12.875527381896973,
+      12.898421287536621,
+      12.934146881103516
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.58,
+      233.72,
+      230.2,
+      250.79
+    ],
+    "text": "revisionary jurisdiction.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      127.59,
+      297.07,
+      499.38,
+      314.28
+    ],
+    "text": "In Wammoo & two Others v Menon 66 N.L.R. 289, Basnayake C.].",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.780284881591797,
+      12.800000190734863,
+      12.895146369934082,
+      13.800000190734863,
+      13.8490629196167
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.34,
+      320.35,
+      212.02,
+      337.43
+    ],
+    "text": "was of the view that;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.801750183105469,
+      12.865880966186523,
+      12.95550537109375
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163.15,
+      384.06,
+      476.83,
+      399.69
+    ],
+    "text": "\"Where there has been a breach in the case of a contractual",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.995945930480957,
+      12.027009963989258,
+      12.035840034484863,
+      12.042537689208984,
+      12.103922843933105,
+      12.309138298034668,
+      12.520804405212402,
+      12.658062934875488,
+      12.678675651550293,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.65,
+      404.86,
+      476.33,
+      421.06
+    ],
+    "text": "relationship like that behveen landlord and tenant, it is open to",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.903505325317383,
+      11.913716316223145,
+      12.248571395874023,
+      12.332408905029297,
+      12.47251033782959,
+      12.475383758544922,
+      12.482563972473145,
+      12.665695190429688,
+      12.720453262329102,
+      12.75346565246582,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163.06,
+      426.78,
+      476.83,
+      442.41
+    ],
+    "text": "the parties by agreement or conduct to renew the contractual",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.913716316223145,
+      12.263506889343262,
+      12.372511863708496,
+      12.438803672790527,
+      12.448010444641113,
+      12.559643745422363,
+      12.599783897399902,
+      12.678675651550293,
+      12.686193466186523,
+      12.757378578186035
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.89,
+      448.15,
+      476.75,
+      463.78
+    ],
+    "text": "relationship either expressly or tacitly. Where there has been such",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.108099937438965,
+      12.287385940551758,
+      12.374424934387207,
+      12.43288516998291,
+      12.438803672790527,
+      12.529031753540039,
+      12.638379096984863,
+      12.657052040100098,
+      12.678220748901367,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.4,
+      468.94,
+      476.88,
+      485.14
+    ],
+    "text": "a renewal, it is not open to the landlord to go back on it and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.703452110290527,
+      11.737229347229004,
+      12.141459465026855,
+      12.153524398803711,
+      12.25139331817627,
+      12.263715744018555,
+      12.428611755371094,
+      12.475383758544922,
+      12.482563972473145,
+      12.492198944091797,
+      12.748998641967773,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.64,
+      485.91,
+      476.65,
+      507.57
+    ],
+    "text": "proceed as if there had been no renewal. The acceptance of rent",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.906085968017578,
+      11.936257362365723,
+      12.062769889831543,
+      12.108099937438965,
+      12.243502616882324,
+      12.24705696105957,
+      12.28457260131836,
+      12.35164737701416,
+      12.440810203552246,
+      12.627436637878418,
+      12.800000190734863,
+      16.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.66,
+      511.99,
+      476.19,
+      527.62
+    ],
+    "text": "without more, after notice of termination of a monthly tenancy,",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.31646728515625,
+      12.534088134765625,
+      12.615673065185547,
+      12.660388946533203,
+      12.669838905334473,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.66,
+      533.34,
+      476.48,
+      548.97
+    ],
+    "text": "has been held, in the absence of other facts which indicate the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.179984092712402,
+      12.19101333618164,
+      12.263506889343262,
+      12.270706176757812,
+      12.3483304977417,
+      12.471945762634277,
+      12.555005073547363,
+      12.652904510498047,
+      12.688867568969727,
+      12.722918510437012,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.62,
+      554.71,
+      475.93,
+      570.34
+    ],
+    "text": "contrary, to amount to a tacit renewal of the contract of tenancy.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.913716316223145,
+      12.087679862976074,
+      12.153524398803711,
+      12.379647254943848,
+      12.590435028076172,
+      12.614962577819824,
+      12.621252059936523,
+      12.77021598815918,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.43,
+      575.49,
+      476.88,
+      591.69
+    ],
+    "text": "After such a tacit renewal, it has been held that the landlord is not",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.903505325317383,
+      12.035840034484863,
+      12.093873023986816,
+      12.372511863708496,
+      12.40046501159668,
+      12.428611755371094,
+      12.590435028076172,
+      12.597599983215332,
+      12.600038528442383,
+      12.636506080627441,
+      12.748998641967773,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.13,
+      592.47,
+      479.67,
+      614.13
+    ],
+    "text": "entitled to go back on it and sue for ejectment as if the notice of",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.906085968017578,
+      12.035840034484863,
+      12.259122848510742,
+      12.263506889343262,
+      12.26992416381836,
+      12.361385345458984,
+      12.407636642456055,
+      12.463014602661133,
+      12.475383758544922,
+      12.479487419128418,
+      12.788145065307617,
+      12.800000190734863,
+      16.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.81,
+      618.78,
+      479.67,
+      634.41
+    ],
+    "text": "termination was in force. In such a case a fresh notice of",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.949654579162598,
+      12.17719841003418,
+      12.231578826904297,
+      12.322181701660156,
+      12.457620620727539,
+      12.534088134765625,
+      12.616839408874512,
+      12.688867568969727,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.81,
+      639.33,
+      475.87,
+      655.53
+    ],
+    "text": "termination is necessary before an action in ejectment can be",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.471118927001953,
+      11.703452110290527,
+      12.13808536529541,
+      12.211994171142578,
+      12.288270950317383,
+      12.518351554870605,
+      12.524331092834473,
+      12.688867568969727,
+      12.781987190246582,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.56,
+      661.02,
+      476.19,
+      676.65
+    ],
+    "text": "instituted. But the renewal tacit or othenvise does not deprive the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.946708679199219,
+      12.042537689208984,
+      12.153524398803711,
+      12.289833068847656,
+      12.4208345413208,
+      12.47851276397705,
+      12.590435028076172,
+      12.759586334228516,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.58,
+      682.14,
+      476.78,
+      697.77
+    ],
+    "text": "landlord of the right to sue for arrears of rent though he cannot",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.737229347229004,
+      12.032170295715332,
+      12.258705139160156,
+      12.263506889343262,
+      12.3087739944458,
+      12.463014602661133,
+      12.559389114379883,
+      12.627436637878418,
+      12.656242370605469,
+      12.726991653442383,
+      12.732975006103516,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      507.95,
+      734.86,
+      515.83,
+      748.87
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162.66,
+      106.86,
+      477.3,
+      122.49
+    ],
+    "text": "pray ejectment. We are therefore of the opinion that the learned",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.923918724060059,
+      12.042537689208984,
+      12.263506889343262,
+      12.329347610473633,
+      12.406862258911133,
+      12.528316497802734,
+      12.559439659118652,
+      12.631389617919922,
+      12.7095308303833,
+      12.720453262329102,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162.95,
+      128.22,
+      368.63,
+      143.85
+    ],
+    "text": "Commissioner is wrong in his conclusion.\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.045194625854492,
+      12.398038864135742,
+      12.520804405212402,
+      12.67746353149414,
+      12.712349891662598,
+      12.765804290771484
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127.59,
+      188.77,
+      519.37,
+      206.24
+    ],
+    "text": "In the appeal before us, the 1st quit notice and the legal effect of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      13.100000381469727,
+      13.172101974487305,
+      13.207806587219238,
+      13.209145545959473
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.46,
+      212.52,
+      518.74,
+      229.99
+    ],
+    "text": "ensuing application for the ejectment of the Appellant has lapsed due to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.104199409484863,
+      13.276362419128418
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.89,
+      236.28,
+      519.6,
+      253.75
+    ],
+    "text": "subsequent agreement of lease entered into by the Appellant and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.113293647766113,
+      13.146318435668945,
+      13.207806587219238,
+      13.239062309265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.78,
+      260.27,
+      520.12,
+      277.75
+    ],
+    "text": "Respondent. The lease agreement was duly terminated by the Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.124427795410156,
+      13.169814109802246,
+      13.181695938110352
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.82,
+      283.79,
+      519.37,
+      301.27
+    ],
+    "text": "with prior notice to the Appellant. There was no challenge by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94.05,
+      307.79,
+      520.13,
+      325.27
+    ],
+    "text": "Appellant to the termination of the said lease agreement. After the day on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.19301986694336,
+      13.19892692565918
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.82,
+      331.32,
+      519.38,
+      348.79
+    ],
+    "text": "which the lease agreement was deemed terminated, the Respondent took",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.100950241088867,
+      13.111095428466797,
+      13.169814109802246
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.89,
+      354.84,
+      518.5,
+      372.32
+    ],
+    "text": "steps to issue the 2nd quit notice and upon the Appellant's failure to",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.890856742858887,
+      13.100000381469727,
+      13.107148170471191,
+      13.138692855834961,
+      13.303814888000488,
+      13.362275123596191
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94.06,
+      378.84,
+      519.0,
+      396.32
+    ],
+    "text": "hand over vacant possession of the disputed premises as per the said notice,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.118287086486816,
+      13.159265518188477,
+      13.194260597229004,
+      13.221040725708008
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94.18,
+      402.6,
+      519.51,
+      420.07
+    ],
+    "text": "an application was made to the relevant Magistrate's Court, seeking his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.14905834197998,
+      13.203144073486328,
+      13.24198055267334
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94.18,
+      426.36,
+      519.47,
+      443.84
+    ],
+    "text": "ejection under the provisions of the State Lands (Recovery of Possession)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.197834968566895,
+      13.382259368896484
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94.53,
+      450.6,
+      118.08,
+      468.07
+    ],
+    "text": "Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.076729774475098
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.29,
+      513.48,
+      520.0,
+      530.95
+    ],
+    "text": "The Respondent has therefore acted according to the applicable",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.104199409484863,
+      13.107148170471191,
+      13.124128341674805
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94.37,
+      537.24,
+      519.85,
+      554.71
+    ],
+    "text": "statutory provisions and the Magistrate's Court had correctly rejected the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.150303840637207,
+      13.177023887634277,
+      13.285240173339844
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94.59,
+      561.23,
+      519.85,
+      578.73
+    ],
+    "text": "plea of Res Judicata raised by the Appellant. This conclusion by the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.239062309265137,
+      13.33128833770752,
+      13.337349891662598
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94.51,
+      585.0,
+      520.44,
+      602.47
+    ],
+    "text": "Magistrate's Court could be justified, in view of the reasoning contained in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.100150108337402,
+      13.247371673583984
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94.98,
+      608.99,
+      520.44,
+      626.52
+    ],
+    "text": "the judgment of Wammoo & two Others v Menon (supra). Upon",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      13.100000381469727,
+      13.215787887573242,
+      13.800000190734863,
+      13.8490629196167
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94.67,
+      632.52,
+      520.21,
+      649.99
+    ],
+    "text": "consideration of the material before the Provincial High Court, it justifiably",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.117339134216309,
+      13.285141944885254
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      94.67,
+      656.28,
+      519.84,
+      673.75
+    ],
+    "text": "concluded that there were no exceptional circumstances disclosed in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.209244728088379,
+      13.261702537536621
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95.25,
+      679.79,
+      212.2,
+      697.27
+    ],
+    "text": "Appellant's petition.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      509.65,
+      734.3,
+      517.08,
+      747.5
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      126.85,
+      105.73,
+      517.96,
+      123.2
+    ],
+    "text": "The other grounds of appeal, as raised by the Appellant and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.10739803314209,
+      13.124427795410156,
+      13.153291702270508
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.1,
+      129.72,
+      518.03,
+      147.2
+    ],
+    "text": "reproduced above, are considerations applicable in judicial review and,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.99,
+      153.72,
+      518.66,
+      171.2
+    ],
+    "text": "owing to that reason, has no relevance to the determination of a revision",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.189444541931152,
+      13.199125289916992
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.98,
+      177.49,
+      518.37,
+      194.96
+    ],
+    "text": "application before the Provincial High Court. The Appellant invoked",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.173295021057129
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.1,
+      201.48,
+      517.54,
+      218.96
+    ],
+    "text": "revisionary jurisdiction of the Provincial High Court and did not seek to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.117339134216309,
+      13.150303840637207,
+      13.275228500366211,
+      13.30282974243164,
+      13.438817977905273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.0,
+      225.0,
+      519.08,
+      242.48
+    ],
+    "text": "challenge the validity of the issuance of 2nd quit notice by the Respondent",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.736221313476562,
+      13.100000381469727,
+      13.107148170471191,
+      13.239062309265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.13,
+      248.99,
+      326.44,
+      266.47
+    ],
+    "text": "by seeking a prerogative Writ to quash it.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.164193153381348
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      127.59,
+      312.11,
+      519.25,
+      329.59
+    ],
+    "text": "In view of the considerations that are referred to in the preceding",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.10644817352295,
+      13.107148170471191,
+      13.189444541931152,
+      13.35521411895752
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.38,
+      335.88,
+      518.07,
+      353.35
+    ],
+    "text": "paragraphs, we are of the firm view that the appeal of the Appellant is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.189444541931152,
+      13.19133186340332
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.46,
+      359.87,
+      209.35,
+      377.35
+    ],
+    "text": "devoid of any merit.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.207806587219238
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      127.64,
+      423.0,
+      517.21,
+      440.48
+    ],
+    "text": "We, accordingly make order dismissing the appeal of the Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107148170471191,
+      13.208649635314941
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.58,
+      446.76,
+      274.28,
+      464.23
+    ],
+    "text": "with costs fixed at Rs. 10,000.00.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.072270393371582,
+      13.100000381469727,
+      13.500914573669434
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      268.28,
+      541.94,
+      507.22,
+      560.37
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.315890312194824
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      94.24,
+      574.82,
+      229.22,
+      593.25
+    ],
+    "text": "IANAK DE SILVA, I.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.149346351623535,
+      13.300000190734863,
+      13.319235801696777,
+      13.334156036376953
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      128.27,
+      607.77,
+      175.85,
+      626.05
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.158867835998535,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      268.76,
+      674.42,
+      507.7,
+      692.85
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.315890312194824
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      508.61,
+      733.65,
+      516.48,
+      747.66
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  }
+]

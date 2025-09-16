@@ -1,0 +1,4259 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      4.66,
+      125.27,
+      20.59,
+      263.23
+    ],
+    "text": "~ I ! f j i ! I 1",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.399272441864014,
+      9.399999618530273,
+      10.100000381469727,
+      12.800000190734863,
+      15.100000381469727,
+      16.899999618530273,
+      17.600000381469727,
+      18.899999618530273,
+      19.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      140.65,
+      104.75,
+      476.55,
+      121.27
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.505407333374023,
+      11.59936237335205,
+      11.633657455444336,
+      11.661269187927246,
+      11.698153495788574,
+      11.707894325256348,
+      11.842162132263184,
+      11.886816024780273,
+      11.98033332824707
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.12,
+      129.48,
+      379.23,
+      146.0
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.25230598449707,
+      11.505407333374023,
+      11.572588920593262,
+      11.71419620513916
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.6,
+      262.62,
+      215.97,
+      279.11
+    ],
+    "text": "Case No.CA 315/2000(F)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.550324440002441,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.97,
+      287.1,
+      266.47,
+      303.59
+    ],
+    "text": "D.e. Rathnapura Case No. 5643/L",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.663018226623535,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.92,
+      179.33,
+      539.38,
+      196.06
+    ],
+    "text": "Wanasundara Muhandiramlage",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      325.41,
+      204.77,
+      538.96,
+      221.26
+    ],
+    "text": "Dayalatha Wansundra of Watapotha",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.53152847290039
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      325.4,
+      229.74,
+      425.33,
+      246.23
+    ],
+    "text": "Raod, Nivithigala.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      395.99,
+      262.55,
+      444.61,
+      278.93
+    ],
+    "text": "Plaintiff",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.23,
+      311.58,
+      378.1,
+      328.07
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.51155948638916
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.02,
+      360.21,
+      539.96,
+      393.82
+    ],
+    "text": "1. Medagoda Dasilikamage Mottihami (deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.060213088989258,
+      12.067659378051758
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      307.65,
+      402.05,
+      372.53,
+      418.54
+    ],
+    "text": "Nivithigala.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.01,
+      426.77,
+      515.43,
+      443.26
+    ],
+    "text": "1A. Walawatta Lekamlage Saumyawathi",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.29,
+      459.25,
+      538.74,
+      493.19
+    ],
+    "text": "lB. Medagoda Dasilikamage Somalatha Podi Menike.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.01,
+      509.81,
+      534.24,
+      526.3
+    ],
+    "text": "1e. Medagoda Daslikamage Anula Malathi",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.01,
+      543.42,
+      404.94,
+      576.46
+    ],
+    "text": "1D. Medagoda Wickrmasinghe",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      464.37,
+      543.42,
+      538.91,
+      559.91
+    ],
+    "text": "Dasilikamage",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.04,
+      593.34,
+      378.5,
+      626.62
+    ],
+    "text": "1E. Medagoda Wijeratna.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.53774642944336,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      405.81,
+      593.34,
+      539.04,
+      610.06
+    ],
+    "text": "Dasilikamage Upali",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.79,
+      643.73,
+      501.66,
+      660.22
+    ],
+    "text": "1F. Medagoda Dasilikamage Indrani.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.690971374511719,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.78,
+      676.61,
+      378.5,
+      693.1
+    ],
+    "text": "1G. Medagoda",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.86559772491455,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.91,
+      692.93,
+      377.97,
+      709.42
+    ],
+    "text": "Chandrika.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      399.57,
+      676.61,
+      538.83,
+      693.1
+    ],
+    "text": "Dasilikamage Kamani",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      304.24,
+      68.77,
+      312.33,
+      82.1
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.53,
+      103.97,
+      511.99,
+      120.46
+    ],
+    "text": "1H. Medagoda Dasilikamage Sunethra.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      407.51,
+      138.06,
+      479.6,
+      154.03
+    ],
+    "text": "Defendants.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.04,
+      187.74,
+      531.24,
+      220.79
+    ],
+    "text": "Medagoda Dasilikamage Indrani. Sirinimal Raod, Arakawela, Handapangoda.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      329.61,
+      237.89,
+      538.51,
+      254.38
+    ],
+    "text": "1 F Defendant- Petitioner-Appellant.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.95,
+      271.31,
+      307.1,
+      288.35
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.794306755065918
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.16,
+      305.1,
+      538.21,
+      354.94
+    ],
+    "text": "Wanasundara Muhandiramlage Dayalatha Wanasundara. Watapoth Road, Nivithigala.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.95361042022705,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      339.11,
+      372.3,
+      533.68,
+      388.27
+    ],
+    "text": "Plaintiff-Respondent Respondent.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271.58,
+      405.17,
+      513.75,
+      438.46
+    ],
+    "text": "2. 1A Walawatta Lekamlage Saumayawathi N ivith iga la.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.84180736541748,
+      11.88302993774414,
+      11.895797729492188,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271.53,
+      455.33,
+      538.13,
+      488.86
+    ],
+    "text": "3.1B Medagoda Dasilikamage Somalatha Podi Menike",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.6,
+      513.42,
+      524.83,
+      529.91
+    ],
+    "text": "4.1C. Medagoda Daslikamage Anula Malathi",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273.01,
+      562.13,
+      533.27,
+      578.62
+    ],
+    "text": "s.lD. Medagoda Dasilikamage Wickrmasinghe",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.333515167236328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271.55,
+      611.34,
+      538.86,
+      644.38
+    ],
+    "text": "6. 1E. Medagoda Dasilikamage Upali Wijeratna.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.63040828704834,
+      11.898268699645996,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271.52,
+      661.02,
+      538.06,
+      694.31
+    ],
+    "text": "7. 1G. Medagoda Dasilikamage Kamani Chandrika.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.763520240783691,
+      11.86559772491455,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271.54,
+      710.93,
+      511.96,
+      727.67
+    ],
+    "text": "8. 1H. Medagoda Dasilikamage Sunethra.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.902856826782227,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.98,
+      177.92,
+      116.82,
+      194.68
+    ],
+    "text": "Before",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.58,
+      231.92,
+      123.46,
+      248.68
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.96,
+      305.37,
+      141.9,
+      322.13
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      304.43,
+      67.83,
+      312.53,
+      82.23
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.47,
+      128.83,
+      515.84,
+      144.94
+    ],
+    "text": "Defendants- Respondents.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182.89,
+      177.67,
+      286.94,
+      194.44
+    ],
+    "text": "A.H.M.D. Nawaz J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.839323997497559,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      183.33,
+      204.55,
+      316.14,
+      221.32
+    ],
+    "text": "E.A.G.R. Amarasekara J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.633399963378906,
+      11.976298332214355,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182.96,
+      231.43,
+      538.55,
+      248.2
+    ],
+    "text": "Samantha Vithana with N. Mendis for the Plaintiff- Respondent.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.72037124633789,
+      12.199999809265137,
+      12.212443351745605,
+      12.410975456237793
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      183.22,
+      258.79,
+      536.9,
+      275.56
+    ],
+    "text": "e.G. Jayaweera Bandara for the Substituted-Defendant-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.318028450012207
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      183.13,
+      277.99,
+      243.19,
+      294.76
+    ],
+    "text": "Appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      183.69,
+      305.12,
+      252.61,
+      321.88
+    ],
+    "text": "18.10.2018.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.97,
+      371.12,
+      210.62,
+      387.88
+    ],
+    "text": "E.A.G.R. Amarasekara J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.839323997497559,
+      11.841739654541016,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.2,
+      436.89,
+      539.96,
+      453.65
+    ],
+    "text": "This is an appeal filed by the IF substituted Defendant Petitioner appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.458250999450684,
+      12.02154541015625,
+      12.199999809265137,
+      12.753016471862793
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.78,
+      461.84,
+      475.34,
+      478.6
+    ],
+    "text": "(hereinafter sometimes referred to as the Appellant) praying inter alia:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.6197509765625,
+      12.199999809265137,
+      12.203399658203125,
+      12.402912139892578
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      94.92,
+      494.71,
+      538.28,
+      511.48
+    ],
+    "text": "a) For a declaration that all the proceedings and step taken in Ratnapura D.C.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.517986297607422,
+      11.72557544708252,
+      12.140203475952148,
+      12.199999809265137,
+      12.336288452148438
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.4,
+      519.68,
+      541.0,
+      536.44
+    ],
+    "text": "Case No. 5643/Land after 22.09.1994 are null and void and avail no force of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.703131675720215,
+      12.193697929382324,
+      12.199999809265137,
+      12.50035285949707
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.81,
+      545.12,
+      137.48,
+      561.89
+    ],
+    "text": "law.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95.3,
+      570.08,
+      539.69,
+      586.84
+    ],
+    "text": "b) For an order allowing him to appoint a new lawyer in place of his lawyer who",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.935431480407715,
+      12.02154541015625,
+      12.140203475952148,
+      12.164447784423828,
+      12.199999809265137,
+      12.402912139892578,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.83,
+      595.04,
+      401.11,
+      611.8
+    ],
+    "text": "is dead and to take part and proceed with the case.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.458250999450684,
+      12.060805320739746,
+      12.199999809265137,
+      12.212443351745605,
+      12.402912139892578
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      95.16,
+      619.99,
+      400.03,
+      636.76
+    ],
+    "text": "c) Cost and other reliefs that this court shall deem fit.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.438162803649902,
+      12.199999809265137,
+      12.253880500793457,
+      12.336288452148438
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.2,
+      652.65,
+      539.37,
+      669.41
+    ],
+    "text": "The prayers in the petition do not request that any specific order or Judgment made",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.075919151306152,
+      12.10387134552002,
+      12.199999809265137,
+      12.230661392211914,
+      12.244020462036133,
+      12.270496368408203
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.01,
+      677.6,
+      539.45,
+      694.37
+    ],
+    "text": "by the learned District Judge should be vacated. However, the body of the Petition",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.069704055786133,
+      12.199999809265137,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.88,
+      702.57,
+      541.24,
+      719.33
+    ],
+    "text": "of appeal reveals that the cause for the filing of this appeal is the dissatisfaction of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      12.163695335388184,
+      12.199999809265137,
+      12.336288452148438,
+      12.410975456237793,
+      12.50035285949707,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180.65,
+      302.52,
+      194.93,
+      321.45
+    ],
+    "text": ".19",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      5.21,
+      114.72,
+      17.13,
+      225.72
+    ],
+    "text": ";~ J I j I 1 I J I",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.3515102863311768,
+      7.900100231170654,
+      11.399999618530273,
+      11.699999809265137,
+      15.100000381469727,
+      15.300000190734863,
+      15.899999618530273,
+      17.0,
+      20.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      5.22,
+      568.08,
+      12.06,
+      582.36
+    ],
+    "text": "J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      4.28,
+      585.8,
+      15.38,
+      615.43
+    ],
+    "text": "J 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      3.97,
+      609.89,
+      25.26,
+      750.74
+    ],
+    "text": "'I 1 I ! 1 I 1 I ! i !",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.423356533050537,
+      6.099999904632568,
+      7.199999809265137,
+      9.800000190734863,
+      10.699999809265137,
+      11.100000381469727,
+      12.0,
+      13.0,
+      15.399999618530273,
+      16.0,
+      38.29999923706055
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      304.52,
+      67.87,
+      312.24,
+      81.61
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.7,
+      103.65,
+      539.65,
+      120.55
+    ],
+    "text": "the Appellant with the decision dated 09.03.2000 made by the learned District",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.324824333190918
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.19,
+      128.85,
+      539.69,
+      145.75
+    ],
+    "text": "Judge of Rathnapura in case No. 5643/Land. By the said order the learned District",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.735286712646484,
+      12.050213813781738,
+      12.2157621383667,
+      12.243570327758789,
+      12.261289596557617,
+      12.2972993850708,
+      12.300000190734863,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.19,
+      153.82,
+      538.18,
+      170.72
+    ],
+    "text": "Judge rejected the application made by 16th Defendant-appellant who sought an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.954086303710938,
+      12.2157621383667,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.64,
+      179.02,
+      538.73,
+      195.92
+    ],
+    "text": "order from the District Court to suspend the execution of the writ in the aforesaid",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.125309944152832,
+      12.300000190734863,
+      12.45363998413086,
+      12.567100524902344,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.63,
+      203.97,
+      539.4,
+      220.87
+    ],
+    "text": "case. However, the learned District Judge has ordered the execution of writ by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.000555038452148,
+      12.061997413635254,
+      12.262993812561035,
+      12.300000190734863,
+      12.497859001159668,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.65,
+      228.93,
+      139.04,
+      245.83
+    ],
+    "text": "said order.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.190613746643066,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.6,
+      261.82,
+      540.28,
+      278.72
+    ],
+    "text": "When this matter was taken up for argument, the Plaintiff- Respondent raised a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.288094520568848,
+      12.300000190734863,
+      12.368409156799316
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.76,
+      287.01,
+      539.38,
+      303.91
+    ],
+    "text": "preliminary objection stating that this appeal has been erroneously preferred by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.061997413635254,
+      12.300000190734863,
+      12.452455520629883
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.22,
+      312.21,
+      538.8,
+      329.11
+    ],
+    "text": "the Appellant as a final appeal where she should have filed a leave to appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.667275428771973,
+      12.143909454345703,
+      12.300000190734863,
+      12.317538261413574
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.63,
+      336.93,
+      538.44,
+      353.83
+    ],
+    "text": "application. Therefore, the Plaintiff- Respondent argue that this appeal should be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.001989364624023,
+      12.300000190734863,
+      12.386743545532227
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.4,
+      362.09,
+      538.88,
+      379.04
+    ],
+    "text": "dismissed in limine. The said objection was raised in terms of the sub sections",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.125309944152832,
+      12.135427474975586,
+      12.223562240600586,
+      12.261289596557617,
+      12.300000190734863,
+      12.399999618530273,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.59,
+      387.33,
+      335.66,
+      404.23
+    ],
+    "text": "754(1), (2) and (5) of the civil procedure code.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.133421897888184,
+      12.300000190734863,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      77.75,
+      454.12,
+      232.72,
+      469.82
+    ],
+    "text": "Background to this appeal.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.668830871582031
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.1,
+      485.73,
+      538.93,
+      502.63
+    ],
+    "text": "1. The Plaintiff Respondent instituted D.C. Case No. 5643/Land by a plaint dated",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.633756637573242,
+      11.807906150817871,
+      12.153376579284668,
+      12.15944766998291,
+      12.199999809265137,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.22,
+      510.93,
+      511.54,
+      527.83
+    ],
+    "text": "25.10.1982 against the original Defendant, namely M.D. Mohottihamy.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.94,
+      535.89,
+      539.17,
+      552.79
+    ],
+    "text": "2. Mr. Nihal Wetttasinghe, Attorney-at-Law filed proxy on behalf of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.88406753540039,
+      12.300000190734863,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.76,
+      560.84,
+      177.27,
+      577.74
+    ],
+    "text": "Defendant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.9,
+      586.05,
+      538.83,
+      602.95
+    ],
+    "text": "3. The Defendant field his answer dated 22.08.1983 appearing by his",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.895756721496582,
+      12.110236167907715,
+      12.227234840393066,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.51,
+      611.5,
+      435.83,
+      628.4
+    ],
+    "text": "Registered Attorney, the said Mr. Nihal Wettasinghe, AAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.01806926727295,
+      12.261289596557617,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.52,
+      636.46,
+      538.32,
+      653.36
+    ],
+    "text": "4. Prior to the commencement of the trial before the learned District Judge, on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.992660522460938,
+      12.286643028259277,
+      12.291897773742676,
+      12.300000190734863,
+      12.45363998413086,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      111.78,
+      660.94,
+      539.4,
+      677.84
+    ],
+    "text": "the 19th March 1987, it was informed to court that the original Defendant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273371696472168,
+      12.300000190734863,
+      12.386743545532227,
+      12.588272094726562,
+      12.746352195739746
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.57,
+      685.66,
+      538.28,
+      702.56
+    ],
+    "text": "had died. Hence 1A to 1H Defendants were substituted in place of the said",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.85448169708252,
+      12.159042358398438,
+      12.190613746643066,
+      12.2972993850708,
+      12.300000190734863,
+      12.317538261413574,
+      12.414319038391113
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.2,
+      710.37,
+      222.68,
+      727.27
+    ],
+    "text": "original Defendant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      304.65,
+      68.16,
+      312.67,
+      82.44
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.14,
+      103.89,
+      538.34,
+      120.79
+    ],
+    "text": "5. As per the Journal Entry No. 27 dated 24.08.1987, the order Nisi had been",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.64479923248291,
+      11.884222984313965,
+      12.077436447143555,
+      12.236686706542969,
+      12.243570327758789,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.21,
+      129.32,
+      539.21,
+      146.23
+    ],
+    "text": "served on the 1A to 1H substituted Defendants but only 1A and 1C",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.636927604675293,
+      11.85448169708252,
+      12.262642860412598,
+      12.286643028259277,
+      12.300000190734863,
+      12.317538261413574,
+      12.326421737670898
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.45,
+      154.3,
+      539.5,
+      171.2
+    ],
+    "text": "substituted Defendants appeared in Courts but the other defendants,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.125309944152832,
+      12.300000190734863,
+      12.303998947143555,
+      12.326421737670898
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.8,
+      179.25,
+      539.17,
+      196.15
+    ],
+    "text": "namely 1B and 1D to 1H substituted Defendants were not present in courts",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.961749076843262,
+      12.152667999267578,
+      12.17349910736084,
+      12.2972993850708,
+      12.300000190734863,
+      12.363387107849121,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.2,
+      204.2,
+      539.43,
+      221.11
+    ],
+    "text": "on that day. However, the same registered Attorney who represented the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.386743545532227
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.44,
+      229.42,
+      538.78,
+      246.32
+    ],
+    "text": "original Defendant filed proxy on behalf of all the substituted Defendants.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.286643028259277,
+      12.300000190734863,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.76,
+      254.62,
+      490.07,
+      271.52
+    ],
+    "text": "Thus, they were represented in Court by the said registef:a.ttorney.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.125309944152832,
+      12.190613746643066,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.92,
+      265.24,
+      538.83,
+      296.47
+    ],
+    "text": "\" /\"0 6. However, it was informed to court on 22.09.1994 (vide J.E. 56 at page 32)",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.989014625549316,
+      11.506879806518555,
+      11.886551856994629,
+      12.186426162719727,
+      12.193136215209961,
+      12.286643028259277,
+      12.288594245910645,
+      12.300000190734863,
+      12.317538261413574,
+      12.746352195739746,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.02,
+      304.78,
+      539.2,
+      321.68
+    ],
+    "text": "that the said Registered Attorney of the Substituted Defendants, Mr. Nihal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.261289596557617,
+      12.300000190734863,
+      12.320682525634766,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.28,
+      329.73,
+      539.24,
+      346.63
+    ],
+    "text": "Wettasinghe had passed away. On the said date none of the substituted",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.906815528869629,
+      12.261289596557617,
+      12.274974822998047,
+      12.300000190734863,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.75,
+      354.7,
+      539.36,
+      371.6
+    ],
+    "text": "Defendants was present in court but, one Mr. Hennayaka AAL has informed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.061997413635254,
+      12.08537769317627,
+      12.2972993850708,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.42,
+      379.89,
+      539.21,
+      396.79
+    ],
+    "text": "court that he would be tendering proxy on behalf of the Substituted",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.11906909942627,
+      12.169861793518066,
+      12.300000190734863,
+      12.386743545532227,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.75,
+      405.1,
+      387.95,
+      422.0
+    ],
+    "text": "Defendants on the next date which he never did.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.052254676818848,
+      12.286643028259277,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.13,
+      430.05,
+      539.38,
+      446.95
+    ],
+    "text": "7. No notice was served on any of the substituted Defendants as required by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.539755821228027,
+      11.74759578704834,
+      12.171680450439453,
+      12.286643028259277,
+      12.300000190734863,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.41,
+      455.26,
+      331.44,
+      472.16
+    ],
+    "text": "Section 28 of the Civil Procedure Code.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.246031761169434,
+      12.300000190734863,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.15,
+      480.21,
+      541.24,
+      497.11
+    ],
+    "text": "8. Thereafter, Mr. P. Bamunuarachchi Attorney-at-Law filed proxy on behalf of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.039569854736328,
+      11.891103744506836,
+      12.300000190734863,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.26,
+      505.17,
+      538.79,
+      522.07
+    ],
+    "text": "the 1A substituted Defendant (vide lE. No. 57 at page 32 and the proxy filed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.08619213104248,
+      12.193136215209961,
+      12.243570327758789,
+      12.300000190734863,
+      13.081709861755371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.8,
+      530.13,
+      540.19,
+      547.03
+    ],
+    "text": "by the said Attorney-at-Law) and other Substituted Defendants were not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.261289596557617,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.81,
+      555.1,
+      321.47,
+      572.0
+    ],
+    "text": "represented by any Attorney-at-Law.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.14,
+      580.05,
+      539.65,
+      596.95
+    ],
+    "text": "9. Thereafter, when the case was taken up for trial on 12.12.1996, the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.893430709838867,
+      11.988557815551758,
+      12.286643028259277,
+      12.300000190734863,
+      12.461736679077148
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.33,
+      605.02,
+      539.16,
+      621.92
+    ],
+    "text": "Attorney-at-Law Mr. Bamunuarachchi informed Court that he has no",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.980192184448242,
+      12.052254676818848,
+      12.286293029785156,
+      12.300000190734863,
+      12.452455520629883
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.8,
+      630.21,
+      541.24,
+      647.11
+    ],
+    "text": "instruction from the Defendants. As per the type written proceedings of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.532292366027832,
+      12.300000190734863,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.88,
+      655.18,
+      539.29,
+      672.08
+    ],
+    "text": "12.12.1996, the learned District Judge has decided to proceed exparte",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.061997413635254,
+      12.300000190734863,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.43,
+      679.64,
+      541.89,
+      696.55
+    ],
+    "text": "against the Defendant (UeJZS;25)2lS)6lC) eJ~c{w[) e)2lS)e!lJ2:Sfi2lS)[) eJIDJeDc.:lC) eD~\"}",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.129150867462158,
+      7.617934703826904,
+      9.444045066833496,
+      9.538763046264648,
+      9.739045143127441,
+      12.0,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.99,
+      705.1,
+      539.63,
+      722.0
+    ],
+    "text": "However, in his exparte Judgement he has decided against the Defendants",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.980192184448242,
+      12.0,
+      12.052254676818848,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      304.67,
+      68.85,
+      312.55,
+      82.86
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      113.04,
+      104.22,
+      540.55,
+      121.27
+    ],
+    "text": "but in favour of the Plaintiff. ((( .... o1.@&(3:m61.@aJ DoS\",C) BZ5fi51:m~D25fC)",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.744597911834717,
+      11.9579439163208,
+      12.125309944152832,
+      12.153491020202637,
+      12.21264934539795,
+      12.300000190734863,
+      12.540792465209961,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      112.34,
+      129.18,
+      298.68,
+      146.12
+    ],
+    "text": "6@683D @@@ 25)~D i5125f~ :m6@.\" )",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.891425609588623,
+      7.15673303604126,
+      8.930846214294434,
+      11.93277359008789,
+      12.458503723144531,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95.36,
+      154.78,
+      539.41,
+      171.68
+    ],
+    "text": "10. The decree entered on the first instance was amended to include all the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.227234840393066,
+      12.273371696472168,
+      12.286643028259277,
+      12.289595603942871,
+      12.300000190734863,
+      12.317538261413574
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      112.77,
+      179.73,
+      539.0,
+      196.64
+    ],
+    "text": "Defendants and it was served on the la, lc, Id, le, Ig and Ih substituted",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.286643028259277,
+      12.300000190734863,
+      12.516691207885742,
+      12.825906753540039,
+      12.916357040405273,
+      12.987060546875,
+      13.018465995788574,
+      13.350260734558105,
+      13.483100891113281
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      112.76,
+      204.15,
+      539.31,
+      221.74
+    ],
+    "text": "Defendants and later on it was served on Ib and 1f Substituted Defendants",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273371696472168,
+      12.286643028259277,
+      12.300000190734863,
+      12.516691207885742,
+      13.036367416381836,
+      13.483100891113281
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      112.8,
+      229.89,
+      240.85,
+      246.79
+    ],
+    "text": "by substituted service.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95.36,
+      254.86,
+      538.8,
+      271.76
+    ],
+    "text": "11. lA substituted Defendant filed a Petition dated 06.10.1999 to get the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.289595603942871,
+      12.300000190734863,
+      12.45363998413086,
+      13.448162078857422
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      112.42,
+      279.81,
+      538.69,
+      296.72
+    ],
+    "text": "exparte order vacated but after an inquiry the learned District Judge",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.954086303710938,
+      12.2157621383667,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      112.2,
+      305.01,
+      538.66,
+      321.91
+    ],
+    "text": "dismissed the said petition and affirmed the said exparte Judgement.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.261289596557617,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      111.76,
+      330.21,
+      525.28,
+      347.11
+    ],
+    "text": "Thereafter, a writ of execution was granted by the Learned District Judge.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.2488431930542,
+      12.273371696472168,
+      12.300000190734863,
+      12.635961532592773,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95.12,
+      355.17,
+      538.93,
+      372.07
+    ],
+    "text": "12. Therefore, IF substituted Defendant (the Appellant) filed a Petition dated",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.289595603942871,
+      12.300000190734863,
+      12.935198783874512
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      112.17,
+      380.12,
+      538.32,
+      397.03
+    ],
+    "text": "06.10.1999 along with an affidavit to object to the writ of execution and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.07071304321289,
+      12.246885299682617,
+      12.300000190734863,
+      12.324824333190918,
+      12.45363998413086,
+      12.635961532592773,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      112.56,
+      405.33,
+      229.21,
+      422.23
+    ],
+    "text": "prayed inter alia for;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      112.45,
+      430.29,
+      540.76,
+      447.19
+    ],
+    "text": "a) Vacation of the exparte Decree entered already and annulment of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.621644020080566,
+      12.300000190734863,
+      12.55147933959961,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      130.08,
+      455.26,
+      540.37,
+      472.16
+    ],
+    "text": "proceedings from 22.09.1994 onwards, i.e. the date on which it",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.516691207885742
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.54,
+      480.21,
+      539.68,
+      497.11
+    ],
+    "text": "transpired that the Registered Attorney of the IF substituted Defendant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.386743545532227,
+      12.68720531463623,
+      12.80517578125
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      130.08,
+      505.17,
+      231.01,
+      522.07
+    ],
+    "text": "had passed away.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.236686706542969,
+      12.274974822998047,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      112.58,
+      530.38,
+      538.28,
+      547.28
+    ],
+    "text": "b) A declaration that the IF substituted Defendant is not bound by the said",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.701803207397461,
+      11.984247207641602,
+      12.190613746643066,
+      12.215510368347168,
+      12.300000190734863,
+      12.320682525634766,
+      12.80517578125
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.27,
+      555.33,
+      429.85,
+      572.23
+    ],
+    "text": "Judgment and Decree already delivered and entered.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      112.2,
+      580.29,
+      538.18,
+      597.19
+    ],
+    "text": "c) Recall the writ of execution issued to the Fiscal until her application is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.30500602722168,
+      11.484945297241211,
+      12.106833457946777,
+      12.254114151000977,
+      12.300000190734863,
+      12.45363998413086,
+      12.635961532592773,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.72,
+      605.25,
+      180.17,
+      622.15
+    ],
+    "text": "decided.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95.12,
+      630.21,
+      539.53,
+      647.11
+    ],
+    "text": "13. The learned District Judge thereafter by order dated 09.03.2000 refused to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.227234840393066,
+      12.289595603942871,
+      12.300000190734863,
+      12.317538261413574
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      111.97,
+      655.18,
+      538.2,
+      672.08
+    ],
+    "text": "grant the reliefs prayed for by the IF substituted Defendant and the Fiscal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.953263282775879,
+      12.300000190734863,
+      12.368409156799316,
+      12.80517578125
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      112.07,
+      679.9,
+      298.28,
+      696.8
+    ],
+    "text": "was ordered to execute the writ.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273371696472168,
+      12.300000190734863,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      304.45,
+      68.11,
+      312.18,
+      81.85
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95.61,
+      103.63,
+      539.2,
+      120.79
+    ],
+    "text": "14. Thereafter the iF Substituted Defendant has preferred this appeal to this",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.061997413635254,
+      12.191673278808594,
+      12.300000190734863,
+      12.45363998413086,
+      13.177629470825195
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.38,
+      129.1,
+      148.98,
+      146.0
+    ],
+    "text": "Court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76.96,
+      194.86,
+      539.2,
+      211.76
+    ],
+    "text": "The Plaintiff- Respondent's position is that the appellant cannot maintain this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.505115509033203,
+      12.153376579284668,
+      12.300000190734863,
+      12.320682525634766
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.63,
+      219.8,
+      539.75,
+      236.71
+    ],
+    "text": "appeal as he has preferred this as a direct appeal against an interlocutory order",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.539755821228027,
+      11.667275428771973,
+      11.954086303710938,
+      12.143200874328613,
+      12.169861793518066,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.51,
+      244.54,
+      426.49,
+      261.44
+    ],
+    "text": "without filing a leave to appeal application as required by law.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.539755821228027,
+      12.300000190734863,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.29,
+      277.63,
+      539.68,
+      294.79
+    ],
+    "text": "As per the Petition dated 06.10.1999 filed by the iF Substituted Defendant",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.64479923248291,
+      12.300000190734863,
+      13.311432838439941
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.3,
+      302.61,
+      538.18,
+      319.51
+    ],
+    "text": "Appellant in the District Court, one of the prayers was for a declaration that he is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.30500602722168,
+      12.052254676818848,
+      12.273371696472168,
+      12.2972993850708,
+      12.300000190734863,
+      12.320682525634766,
+      12.368409156799316,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78.0,
+      327.82,
+      537.83,
+      344.72
+    ],
+    "text": "not bound by the Judgment and decree entered in the district court case.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.945388793945312,
+      12.125309944152832,
+      12.246885299682617,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.2,
+      352.75,
+      538.02,
+      369.91
+    ],
+    "text": "Therefore, the application of the iF Defendant appellant in the District Court case",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.864335060119629,
+      12.2972993850708,
+      12.300000190734863,
+      12.68720531463623,
+      13.177629470825195
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.63,
+      378.21,
+      539.08,
+      395.11
+    ],
+    "text": "appears to be incidental to the purported Judgment of that case. Other prayers",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.110135078430176,
+      12.11906909942627,
+      12.300000190734863,
+      12.452455520629883,
+      12.45363998413086,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.5,
+      403.42,
+      539.53,
+      420.32
+    ],
+    "text": "were to get the proceedings in D.C. Case from 22.09.1994 onwards vacated and to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.701961517333984,
+      11.807906150817871,
+      12.246885299682617,
+      12.2972993850708,
+      12.300000190734863,
+      12.317538261413574,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78.01,
+      428.13,
+      538.47,
+      445.03
+    ],
+    "text": "recall the writ of possession. If the learned District Judge granted those reliefs,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.485698699951172,
+      12.497859001159668,
+      12.821446418762207
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.23,
+      453.1,
+      538.94,
+      470.0
+    ],
+    "text": "the District Court would have to go on with the action, from the point of time when",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.222807884216309,
+      12.286643028259277,
+      12.300000190734863,
+      12.55147933959961,
+      12.588272094726562
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.21,
+      478.04,
+      538.45,
+      494.95
+    ],
+    "text": "the death of the Attorney-at-law occu rred, to decide the rights of the pa rties.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.64369010925293,
+      12.252809524536133,
+      12.300000190734863,
+      12.45363998413086,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.2,
+      503.0,
+      538.74,
+      519.91
+    ],
+    "text": "Therefore, the order made by the learned District Judge on the aforesaid",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.286643028259277,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.62,
+      527.95,
+      540.29,
+      545.11
+    ],
+    "text": "application of the iF Defendant-Appellant is an interlocutory order and it is not a",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.505115509033203,
+      11.701803207397461,
+      11.954086303710938,
+      12.246885299682617,
+      12.300000190734863,
+      12.516691207885742,
+      12.821446418762207,
+      13.311432838439941
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76.95,
+      553.16,
+      489.58,
+      570.07
+    ],
+    "text": "Judgment as contemplated by Section 754(1) of the Civil Procedure Code.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.539755821228027,
+      12.197725296020508,
+      12.300000190734863,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.53,
+      586.29,
+      539.46,
+      603.19
+    ],
+    "text": "As per the Section 754(5) of the Civil Procedure Code, 'Judgment' means any",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.532292366027832,
+      12.300000190734863,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.21,
+      601.77,
+      538.32,
+      628.39
+    ],
+    "text": "Cl. judgment or order having the effect of final judgment made by any civil Court and",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.508548259735107,
+      12.246885299682617,
+      12.300000190734863,
+      12.424222946166992,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.65,
+      622.95,
+      539.07,
+      653.11
+    ],
+    "text": "\" as per the Section 754(2) of the Civil Procedure Code, one who is dissatisfied with",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.539755821228027,
+      11.701803207397461,
+      12.300000190734863,
+      12.55147933959961,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.63,
+      660.94,
+      538.42,
+      677.84
+    ],
+    "text": "any other order which does not fall within the category of Judgment, can prefer an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.954086303710938,
+      12.04000186920166,
+      12.300000190734863,
+      12.363387107849121,
+      12.55147933959961
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.63,
+      685.65,
+      407.97,
+      702.55
+    ],
+    "text": "appeal only with leave of this Court first had and obtained.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.236686706542969,
+      12.300000190734863,
+      12.324824333190918,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      303.41,
+      68.14,
+      311.29,
+      82.15
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.72,
+      103.65,
+      538.15,
+      120.55
+    ],
+    "text": "The learned Counsel for the Plaintiff -Respondent has brought this court's",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.079014778137207,
+      12.143200874328613,
+      12.300000190734863,
+      12.461736679077148
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.67,
+      128.86,
+      537.19,
+      145.76
+    ],
+    "text": "attention to the decisions in Siriwardana Vs Air Ceylon {1984} 1 SLR 286, Ranjith Vs",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.013113021850586,
+      11.053860664367676,
+      11.800000190734863,
+      12.203646659851074,
+      12.2972993850708,
+      12.300000190734863,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.65,
+      153.81,
+      536.12,
+      170.71
+    ],
+    "text": "Karunawathie {1998} 3 SLR 232, and Dona Padma Priyanthi Senanayake Vs. H.G.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.787785530090332,
+      11.122713088989258,
+      11.382929801940918,
+      11.800000190734863,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.48,
+      178.78,
+      539.37,
+      195.68
+    ],
+    "text": "Chamika Jayantha and two others S.c. Appeal No. 41/2015, and SC/CHC Appeal",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.674633979797363,
+      11.730796813964844,
+      11.800000190734863,
+      11.879979133605957,
+      12.074702262878418,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.14,
+      204.8,
+      128.5,
+      220.78
+    ],
+    "text": "37/2008.",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.24,
+      236.86,
+      538.43,
+      253.76
+    ],
+    "text": "The aforementioned Dona Padma Priyanthi Senanayake Vs. H.G. Chamika Jayantha",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.978719711303711,
+      11.635909080505371,
+      11.800000190734863,
+      12.153376579284668,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.65,
+      261.81,
+      537.91,
+      278.71
+    ],
+    "text": "and two others was decided by a bench comprising of 7 Judges of the Supreme",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.931814193725586,
+      12.300000190734863,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.62,
+      287.01,
+      538.03,
+      303.91
+    ],
+    "text": "Court. In that Judgment his Lordship the Chief Justice Priyasath Dep, PC concludes",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.001790046691895,
+      11.958354949951172,
+      12.214200019836426,
+      12.250751495361328,
+      12.300000190734863,
+      12.386743545532227
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.69,
+      312.21,
+      136.89,
+      329.11
+    ],
+    "text": "as follows;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.539755821228027,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.97,
+      343.51,
+      540.03,
+      361.65
+    ],
+    "text": "\"In order to decide whether an order is a final Judgement or not it is my",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.371807098388672,
+      13.542191505432129,
+      13.600000381469727,
+      13.739869117736816,
+      13.800000190734863,
+      13.954237937927246,
+      14.208455085754395
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.45,
+      369.92,
+      538.65,
+      386.77
+    ],
+    "text": "considered view that the proper approach is the approach adopted by Lord Escher",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.617087364196777,
+      13.739869117736816,
+      13.800000190734863,
+      13.841238021850586,
+      13.896661758422852,
+      14.0570068359375
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.39,
+      394.88,
+      537.63,
+      411.73
+    ],
+    "text": "in Salaman Vs Warner (Supra) which was cited with approval by Lord Denning in",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.261649131774902,
+      13.517508506774902,
+      13.68305492401123,
+      13.800000190734863,
+      14.0570068359375
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.3,
+      420.08,
+      288.64,
+      436.93
+    ],
+    "text": "Salter Rex Vs Gosh (Supra). It stated;",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.261649131774902,
+      13.625749588012695,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.93,
+      452.95,
+      538.86,
+      469.8
+    ],
+    "text": "\"If the decision whichever way it is given, will if it stands finally dispose of the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.739869117736816,
+      13.800000190734863,
+      13.807897567749023,
+      13.850109100341797,
+      14.25165843963623,
+      14.609601974487305
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.49,
+      478.11,
+      538.86,
+      495.0
+    ],
+    "text": "matter in dispute, I think that for the purpose of these rules it is final. On the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.739869117736816,
+      13.800000190734863,
+      13.826274871826172,
+      13.850109100341797,
+      14.609601974487305
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.43,
+      502.88,
+      537.73,
+      519.73
+    ],
+    "text": "other hand, if their decision if given one way, will dispose the matter in dispute,",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.517508506774902,
+      13.800000190734863,
+      13.912095069885254,
+      14.25165843963623,
+      14.448225975036621
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.45,
+      526.64,
+      536.65,
+      544.78
+    ],
+    "text": "but if given in the other, will allow the action to go on, then I think it is not final,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.542191505432129,
+      13.600000381469727,
+      13.760994911193848,
+      13.800000190734863,
+      13.890106201171875,
+      13.954237937927246,
+      14.25165843963623
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.45,
+      552.79,
+      182.37,
+      569.64
+    ],
+    "text": "but interlocutory\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.890106201171875
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.57,
+      585.81,
+      538.71,
+      602.71
+    ],
+    "text": "As mentioned before if the application relevant to this appeal was decided in favour",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.64479923248291,
+      12.2972993850708,
+      12.300000190734863,
+      12.45363998413086,
+      12.971993446350098
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.92,
+      610.78,
+      405.56,
+      627.68
+    ],
+    "text": "of the appellant it would have allowed the action to go on.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.45363998413086,
+      12.55147933959961,
+      12.746352195739746
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.49,
+      643.64,
+      537.22,
+      660.55
+    ],
+    "text": "Therefore, it is my considered view that the order relevant to this appeal is an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.505115509033203,
+      11.701803207397461,
+      11.954086303710938,
+      12.300000190734863,
+      12.320682525634766,
+      12.45363998413086,
+      12.516691207885742
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77.04,
+      668.38,
+      537.96,
+      685.28
+    ],
+    "text": "interlocutory order. Thus, the preliminary objection has substance. There was no",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.980192184448242,
+      12.202614784240723,
+      12.286293029785156,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77.05,
+      693.1,
+      538.2,
+      710.0
+    ],
+    "text": "right for a direct appeal to be lodged in this court but in his written submissions the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.11906909942627,
+      12.125309944152832,
+      12.300000190734863,
+      12.368409156799316,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.9,
+      717.81,
+      538.73,
+      734.71
+    ],
+    "text": "counsel for the appellant argue that this a suitable case to here and determine",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.988557815551758,
+      12.300000190734863,
+      12.368409156799316,
+      12.386743545532227,
+      12.45363998413086
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      304.68,
+      68.14,
+      312.55,
+      82.15
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.35,
+      103.99,
+      538.72,
+      120.76
+    ],
+    "text": "exercising revisionary jurisdiction. Section 753 of the Civil procedure Code",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.05139446258545,
+      12.199999809265137,
+      12.50035285949707
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77.88,
+      129.21,
+      366.42,
+      145.97
+    ],
+    "text": "describing the revisionary powers states as follows;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.49275016784668,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.88,
+      157.84,
+      540.37,
+      180.55
+    ],
+    "text": "flThe court of appeal, 0/ its own motion or an any application made, ....................... .",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.153108596801758,
+      13.600000381469727,
+      13.922004699707031,
+      14.200906753540039,
+      14.271170616149902,
+      14.300000190734863,
+      14.87191390991211,
+      16.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      180.62,
+      186.55,
+      539.85,
+      204.02
+    ],
+    "text": "and may upon revision of the case brought before it passes any",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      14.216304779052734,
+      14.29574966430664,
+      14.300000190734863,
+      14.583098411560059
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      76.58,
+      210.16,
+      524.79,
+      229.1
+    ],
+    "text": "judgment or make any order thereon, as the interest of the justice may require\".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.215500831604004,
+      14.300000190734863,
+      14.728189468383789
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.17,
+      244.65,
+      541.0,
+      261.41
+    ],
+    "text": "In AG Vs Gunawardena (1996) 2 SCR 149, it was held that in exercising powers of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.06020736694336,
+      11.441842079162598,
+      11.62216567993164,
+      11.743093490600586,
+      12.199999809265137,
+      12.270496368408203,
+      12.50035285949707,
+      12.69443130493164
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.01,
+      270.09,
+      538.32,
+      286.85
+    ],
+    "text": "revision the Appellate Court is not trammeled by technical rules of pleadings and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      12.165752410888672,
+      12.196999549865723,
+      12.199999809265137,
+      12.313026428222656,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.0,
+      295.28,
+      540.44,
+      312.04
+    ],
+    "text": "procedure. In doing so the Court has power to act whether it is set in motion by a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      11.90964412689209,
+      11.976197242736816,
+      12.012864112854004,
+      12.165752410888672,
+      12.199999809265137,
+      12.204448699951172,
+      12.402912139892578,
+      12.465705871582031
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.0,
+      320.24,
+      293.0,
+      337.0
+    ],
+    "text": "party or not and even ex mero motu.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.20909595489502,
+      12.230661392211914
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77.9,
+      353.12,
+      539.43,
+      369.88
+    ],
+    "text": "It appears this Court has power to exercise revisionary jurisdiction even of its own",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.093737602233887,
+      12.199999809265137,
+      12.402912139892578,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77.99,
+      378.09,
+      539.18,
+      394.85
+    ],
+    "text": "motion where it sees a miscarriage of justice. As per the incidents that have taken",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.708343505859375,
+      12.01926040649414,
+      12.199999809265137,
+      12.336288452148438,
+      12.635526657104492,
+      12.69443130493164
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.0,
+      403.03,
+      538.93,
+      419.8
+    ],
+    "text": "place before the learned District Judge, it appears that the learned District Judge",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.16600227355957,
+      12.199999809265137,
+      12.336288452148438,
+      12.465705871582031
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.01,
+      428.24,
+      540.41,
+      445.0
+    ],
+    "text": "has not served notices on the Substituted Defendants after the death of their",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.931392669677734,
+      12.199999809265137,
+      12.50035285949707
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.02,
+      453.21,
+      539.78,
+      469.97
+    ],
+    "text": "registered Attorney. Only one of the Substituted Defendants has filed a proxy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.093737602233887,
+      12.199999809265137,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77.47,
+      478.15,
+      540.01,
+      494.92
+    ],
+    "text": "thereafter. In that situation, as per the said section 28, it appears that no further",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.49275016784668,
+      11.90964412689209,
+      12.199999809265137,
+      12.336288452148438,
+      12.465705871582031
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.01,
+      503.11,
+      539.33,
+      519.88
+    ],
+    "text": "proceedings should have taken place against the other Substituted Defendants",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.253880500793457
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77.51,
+      528.55,
+      539.24,
+      545.32
+    ],
+    "text": "without giving notices of the death of their registered attorney. In such a situation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.90964412689209,
+      12.199999809265137,
+      12.233503341674805,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77.64,
+      553.52,
+      539.66,
+      570.28
+    ],
+    "text": "one can argue that the learned District Judge entered the exparte Judgment against",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.910771369934082,
+      12.199999809265137,
+      12.401732444763184
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77.48,
+      577.99,
+      540.18,
+      594.76
+    ],
+    "text": "the other Defendants without Jurisdiction and therefore judgment is a nullity",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.458250999450684,
+      12.199999809265137,
+      12.370951652526855
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77.62,
+      603.2,
+      539.94,
+      619.97
+    ],
+    "text": "against them. However before making any order on such grounds, this Court must",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.12275505065918,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77.41,
+      628.15,
+      540.05,
+      644.92
+    ],
+    "text": "give an opportunity to the Plaintiff- Respondent to make submissions on whether",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.90539264678955,
+      12.12275505065918,
+      12.199999809265137,
+      12.20624828338623,
+      12.402912139892578
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77.22,
+      653.12,
+      540.11,
+      669.89
+    ],
+    "text": "this court should act in revision in this matter as the Plaintiff- Respondent did not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.6197509765625,
+      12.075919151306152,
+      12.199999809265137,
+      12.21179485321045
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.0,
+      675.6,
+      539.07,
+      699.27
+    ],
+    "text": "~ have any opportunity to reply the Defendant- appellant's written Submissions ,...",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.711483955383301,
+      10.321122169494629,
+      12.199999809265137,
+      12.20624828338623,
+      12.285003662109375,
+      12.536995887756348
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      77.51,
+      702.8,
+      476.83,
+      719.57
+    ],
+    "text": "which moves this court to exercise its power of revisionary jurisdiction.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.536995887756348,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      604.24,
+      -24.07,
+      624.12,
+      83.61
+    ],
+    "text": "I, f I ,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.500100135803223,
+      15.0,
+      21.0,
+      22.0,
+      71.5000991821289
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      605.1,
+      652.15,
+      621.28,
+      732.12
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      58.20009994506836
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      62.68,
+      57.79,
+      314.05,
+      82.35
+    ],
+    "text": "10",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.105450630187988,
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.44,
+      103.87,
+      537.95,
+      121.03
+    ],
+    "text": "Therefore, this Court decides that the iF Defendant- Appellants could not have",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.26133918762207,
+      12.300000190734863,
+      12.386743545532227,
+      13.177629470825195
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.77,
+      129.1,
+      538.09,
+      146.0
+    ],
+    "text": "filed a direct appeal based on the order dated 09.03.2000 made by the learned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.286643028259277,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.48,
+      154.3,
+      537.46,
+      171.2
+    ],
+    "text": "District judge but before making a final decision on this matter this court gives an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.954086303710938,
+      12.286643028259277,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.92,
+      179.49,
+      538.48,
+      196.39
+    ],
+    "text": "opportunity to the Plaintiff- Respondent to make further submissions on why this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.286643028259277,
+      12.300000190734863,
+      12.308497428894043,
+      12.45363998413086,
+      12.588272094726562
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.86,
+      204.44,
+      462.59,
+      221.35
+    ],
+    "text": "Court shall not act in revision on the facts revealed before this court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.125309944152832,
+      12.286643028259277,
+      12.300000190734863,
+      12.363387107849121
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.47,
+      303.1,
+      241.73,
+      336.55
+    ],
+    "text": "E.A.G.R. Amarasekara Judge of the Court of Appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.890172958374023,
+      12.2157621383667,
+      12.300000190734863,
+      12.55147933959961,
+      12.68720531463623
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      77.41,
+      369.57,
+      119.89,
+      386.47
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.47,
+      468.21,
+      241.69,
+      501.91
+    ],
+    "text": "A.H.M.D. Nawaz Judge of the Court of Appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.2157621383667,
+      12.300000190734863,
+      12.55147933959961,
+      12.68720531463623
+    ]
+  }
+]
