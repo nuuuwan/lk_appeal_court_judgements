@@ -1,0 +1,1069 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      124.58,
+      72.35,
+      490.42,
+      85.63
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      86.17,
+      384.55,
+      198.76
+    ],
+    "text": "REPUBLIC OF SRI LANKA C.A. Application No: 77/2016",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times",
+      "Times New Roman,Bold",
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.479999542236328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      198.74,
+      467.5,
+      255.07
+    ],
+    "text": "F.S. Traders (Private) Limited, C-2-7, Economic Dedicated Centre, Dambulla.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      255.05,
+      419.11,
+      367.63
+    ],
+    "text": "Petitioner Vs. Hon. Ravi Karunanayake, Minister of Finance, and 05 others",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.07,
+      379.73,
+      434.02,
+      393.79
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.59,
+      68.75,
+      154.78,
+      85.79
+    ],
+    "text": "C.A. 77/2016",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.02889633178711,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.97,
+      140.74,
+      118.47,
+      157.78
+    ],
+    "text": "Before",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.58,
+      212.26,
+      125.08,
+      229.3
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.29,
+      317.78,
+      136.74,
+      336.59
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.96,
+      355.06,
+      144.38,
+      372.1
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      222.25,
+      68.75,
+      530.4,
+      85.79
+    ],
+    "text": "An Application for Writs of Certiorari, Prohibition and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.259706497192383,
+      12.399999618530273,
+      12.605300903320312,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      222.93,
+      104.75,
+      290.11,
+      121.78
+    ],
+    "text": "Mandamus",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.75,
+      138.98,
+      381.78,
+      157.79
+    ],
+    "text": "Vijith K. Malalgoda,P.C.J.(P/CA) &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.151274681091309,
+      12.399999618530273,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186.74,
+      176.5,
+      316.09,
+      193.54
+    ],
+    "text": "P. Padman Surasena,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.084354400634766,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186.74,
+      212.26,
+      518.07,
+      229.3
+    ],
+    "text": "K. Deekiriwewa with L.M. Deekiriwewa, Mrs. M.K. Herath",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.151274681091309,
+      12.399999618530273,
+      12.499202728271484
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186.34,
+      247.78,
+      481.03,
+      264.82
+    ],
+    "text": "and Mrs. Samantha Ramanayake for the Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.697676658630371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186.7,
+      283.55,
+      463.17,
+      300.59
+    ],
+    "text": "Milinda Gunathilaka,D.S.G. for the Respondents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.697676658630371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186.34,
+      355.06,
+      256.77,
+      372.1
+    ],
+    "text": "08.06.2016.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.28,
+      390.58,
+      258.13,
+      407.62
+    ],
+    "text": "Vijith K. Malalgoda,P.C.J.(P/CA)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.151274681091309,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114.19,
+      426.58,
+      535.47,
+      443.62
+    ],
+    "text": "Heard the learned counsel for the Petitioner as well as the learned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.841261863708496,
+      11.966574668884277,
+      12.399999618530273,
+      12.43669605255127,
+      12.605300903320312
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.96,
+      460.9,
+      399.78,
+      477.94
+    ],
+    "text": "Deputy Solicitor General representing the Respondents.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      113.9,
+      505.3,
+      535.77,
+      522.34
+    ],
+    "text": "In this case the main issue raised by the learned counsel for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.282896995544434,
+      12.335884094238281,
+      12.399999618530273,
+      12.43669605255127,
+      12.697676658630371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.96,
+      539.14,
+      535.06,
+      556.18
+    ],
+    "text": "Petitioner is that the gazette in question which is produced marked (X2' had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5,
+      11.943445205688477,
+      12.399999618530273,
+      12.43669605255127,
+      12.633893966674805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.75,
+      573.46,
+      535.82,
+      590.5
+    ],
+    "text": "been signed by the State Minister of Finance who is not a cabinet rank",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.749275207519531,
+      12.399999618530273,
+      12.43669605255127,
+      12.476513862609863,
+      12.577972412109375,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.97,
+      607.54,
+      535.89,
+      624.58
+    ],
+    "text": "Minister. When this matter came up on the last date i.e. 17.05.2015, the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.43669605255127,
+      12.469355583190918
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.01,
+      641.62,
+      535.89,
+      658.66
+    ],
+    "text": "learned Deputy Solicitor General informed Court that His Excellency the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.35682487487793,
+      12.399999618530273,
+      12.633893966674805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.97,
+      675.22,
+      535.76,
+      692.26
+    ],
+    "text": "President has properly appointed the State Minister of Finance as the Acting",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.966574668884277,
+      12.353964805603027,
+      12.399999618530273,
+      12.414541244506836,
+      12.43669605255127,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.21,
+      709.07,
+      536.35,
+      726.11
+    ],
+    "text": "Minister of Finance under Article 49 of the Constitution and he undertook to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.336135864257812,
+      12.399999618530273,
+      12.6393404006958,
+      12.87346076965332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.89,
+      742.91,
+      535.83,
+      759.95
+    ],
+    "text": "submit a copy of the said appointment before this Court. By way of a motion",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.124488830566406,
+      12.399999618530273,
+      12.43669605255127,
+      12.87346076965332,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      594.7,
+      808.22,
+      606.12,
+      839.97
+    ],
+    "text": "{",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      23.799999237060547
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.0,
+      68.63,
+      532.01,
+      85.81
+    ],
+    "text": "dated 18.05.2016 the learned Deputy Solicitor General has now filed the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.322896003723145,
+      12.5,
+      12.524226188659668
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.12,
+      103.19,
+      532.85,
+      120.37
+    ],
+    "text": "relevant document marked 'X'. We observe that the said document refers to",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.5,
+      12.684734344482422,
+      12.82453727722168,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.58,
+      137.75,
+      530.92,
+      154.93
+    ],
+    "text": "the appointment of the State Minister of Finance, Hon. Lakshman Yapa",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.17574405670166,
+      12.5,
+      13.059191703796387
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.41,
+      171.83,
+      533.99,
+      189.01
+    ],
+    "text": "Abeywardana as the Acting Minister of Finance until the Hon. Minister of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.88891315460205,
+      12.5,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.06,
+      206.15,
+      532.18,
+      223.33
+    ],
+    "text": "Finance is returned to Sri Lanka under Article 49. This appointment was made",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.991507530212402,
+      12.23871898651123,
+      12.363908767700195,
+      12.5,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.76,
+      240.68,
+      532.0,
+      257.9
+    ],
+    "text": "on 03.10.2015. The impugned gazette before us produced marked 'X2' is",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.991507530212402,
+      12.120901107788086,
+      12.5,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.76,
+      275.04,
+      532.18,
+      292.22
+    ],
+    "text": "dated 09.10.2015. We observe that there is a proper appointment made",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.991507530212402,
+      12.5,
+      12.619181632995605
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.9,
+      309.12,
+      532.51,
+      326.3
+    ],
+    "text": "under Article 49 of the Constitution by His Excellency the President prior to this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.222724914550781,
+      12.5,
+      12.504199028015137,
+      12.82453727722168,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.28,
+      343.43,
+      532.49,
+      360.61
+    ],
+    "text": "gazette is issued by the Acting Minister. Even in the gazette notification the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.991507530212402,
+      12.26728343963623,
+      12.39687442779541,
+      12.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.77,
+      377.76,
+      531.61,
+      394.94
+    ],
+    "text": "said Hon. Lakshman Yapa Abeywardana had signed the gazette notification as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.88891315460205,
+      12.230955123901367,
+      12.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.41,
+      412.32,
+      533.04,
+      429.5
+    ],
+    "text": "Acting Minister of Finance. However, the learned counsel for the Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.748774528503418,
+      12.789937973022461
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.63,
+      446.64,
+      532.53,
+      463.82
+    ],
+    "text": "whilst referring to Article 44 of the Constitution submits that a non- cabinet",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.684734344482422,
+      12.82453727722168,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.89,
+      480.95,
+      472.26,
+      498.13
+    ],
+    "text": "rank Minister cannot be appointed to act as a Cabinet Rank Minister.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.014730453491211,
+      12.334149360656738,
+      12.409724235534668,
+      12.5,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110.84,
+      569.04,
+      532.48,
+      586.22
+    ],
+    "text": "We see no merit in this argument raised by the learned counsel for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.322540283203125,
+      12.5,
+      12.546363830566406,
+      12.748774528503418
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.08,
+      603.35,
+      532.71,
+      620.53
+    ],
+    "text": "Petitioner. Under Article 49 the only qualification to be appointed as an Acting",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.014730453491211,
+      12.28489875793457,
+      12.334149360656738,
+      12.5,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.1,
+      637.43,
+      533.18,
+      654.61
+    ],
+    "text": "Minister is to be a member of Parliament. We observe that this is the only",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.79655647277832,
+      11.991507530212402,
+      12.334149360656738,
+      12.5,
+      12.619181632995605,
+      12.82453727722168,
+      12.92526626586914
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.52,
+      671.23,
+      532.41,
+      688.45
+    ],
+    "text": "ground raised by the learned counsel for the Petitioner challenging 'X2' before",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.5,
+      12.600000381469727,
+      12.656025886535645
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.33,
+      705.12,
+      531.83,
+      722.3
+    ],
+    "text": "this Court. When considering all these issues, we are not inclined to issue",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.628588676452637,
+      12.82453727722168
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      594.6,
+      804.83,
+      607.13,
+      839.64
+    ],
+    "text": "{",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      26.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.8,
+      68.88,
+      533.72,
+      86.06
+    ],
+    "text": "notices in this matter and therefore, we refuse notices and dismiss this",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      12.558812141418457
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.19,
+      103.2,
+      145.74,
+      120.38
+    ],
+    "text": "application.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.98,
+      192.35,
+      514.36,
+      209.39
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.804448127746582,
+      11.957608222961426,
+      11.9922456741333,
+      12.07945728302002,
+      12.11533260345459
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.52,
+      227.76,
+      203.07,
+      244.94
+    ],
+    "text": "P.Padman Surasena,J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      112.7,
+      263.52,
+      154.06,
+      280.7
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.19,
+      299.38,
+      488.92,
+      316.42
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.804448127746582,
+      11.957608222961426,
+      12.016932487487793,
+      12.07945728302002,
+      12.11533260345459
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.42,
+      335.05,
+      97.85,
+      352.66
+    ],
+    "text": "Cr/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      593.34,
+      -35.55,
+      607.37,
+      39.28
+    ],
+    "text": ",",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      56.099998474121094
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      595.88,
+      26.56,
+      603.47,
+      64.07
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      27.299999237060547
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      595.41,
+      811.73,
+      599.66,
+      842.65
+    ],
+    "text": "If",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.300000190734863
+    ]
+  }
+]

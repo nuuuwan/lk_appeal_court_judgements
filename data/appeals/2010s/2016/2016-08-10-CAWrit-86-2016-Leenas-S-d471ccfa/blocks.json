@@ -1,0 +1,765 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      143.9,
+      72.36,
+      470.98,
+      84.58
+    ],
+    "text": "IN THE SUPREME COURT OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      84.98,
+      378.07,
+      179.68
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA (Writ) Application No: 86/2016",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      10.5600004196167,
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      179.78,
+      382.51,
+      264.19
+    ],
+    "text": "Leenas Sebesthiyan Dias, Anawasala, Kalpitiya. And 02 others",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      264.17,
+      470.74,
+      433.05
+    ],
+    "text": "Petitioners Vs. Hon. Mahinda Amaraweera, Minister of Fisheries & Aquatic Resources, Ministry of Fisheries & Aquatic Resources, New Secretariat, Maligawatta, Colombo 10. And 02 others",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      433.03,
+      398.47,
+      447.09
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -1.38,
+      101.03,
+      30.65,
+      180.17
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      57.599998474121094
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.78,
+      115.61,
+      233.45,
+      133.62
+    ],
+    "text": "C.A. Writ Appln. 86/2016",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.62,
+      163.61,
+      120.4,
+      181.62
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.78,
+      235.61,
+      128.25,
+      253.62
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.42,
+      332.09,
+      136.45,
+      350.1
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.38,
+      356.33,
+      146.54,
+      374.34
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.65,
+      164.09,
+      406.95,
+      182.1
+    ],
+    "text": "Vijith K. Malalgoda, P.C., 1 (PICA) &",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.399999618530273,
+      13.424690246582031,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.62,
+      187.85,
+      325.16,
+      205.86
+    ],
+    "text": "P. Padman Surasena,l.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.78,
+      236.09,
+      480.37,
+      254.1
+    ],
+    "text": "Gamini Hettiarachchi with Sithara Abeywardane",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.78,
+      259.85,
+      292.71,
+      277.86
+    ],
+    "text": "for the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.43,
+      284.1,
+      453.02,
+      302.1
+    ],
+    "text": "Anusha Samaranayake, D.S.G., with Nayomi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.4,
+      308.1,
+      328.98,
+      326.11
+    ],
+    "text": "Kahawita, S.C., for A.G.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.78,
+      356.33,
+      257.14,
+      374.34
+    ],
+    "text": "04.07.2016.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188.0,
+      379.11,
+      247.75,
+      403.15
+    ],
+    "text": "********",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.41,
+      428.81,
+      287.3,
+      446.82
+    ],
+    "text": "Vijith K. Malalgoda, P.C., 1 (PICA)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.424690246582031,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.02,
+      477.77,
+      516.24,
+      495.78
+    ],
+    "text": "It is brought to the notice of Court by the learned",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.882890701293945,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.13,
+      500.84,
+      515.26,
+      520.03
+    ],
+    "text": "D.S.G. that the 3rd Respondent had now decided to withdraw the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.299300193786621,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.31,
+      526.26,
+      515.51,
+      544.27
+    ],
+    "text": "circular which is produced marked P5 in this case. It is submitted by",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.311585426330566,
+      13.5,
+      13.683144569396973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.94,
+      550.49,
+      515.51,
+      568.51
+    ],
+    "text": "the learned Counsel for the Petitioner that there is a condition in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.385313034057617,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.22,
+      574.97,
+      515.45,
+      592.98
+    ],
+    "text": "permits issued to the petitioners restraining them from taking an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.3,
+      599.45,
+      515.97,
+      617.45
+    ],
+    "text": "additional boat which was permitted under the earlier regulations. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.33,
+      623.69,
+      515.86,
+      641.7
+    ],
+    "text": "learned D.S.G. submits that steps would be taken to amend the permits",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.08,
+      647.94,
+      515.49,
+      665.95
+    ],
+    "text": "once the circular is withdrawn. Considering the submissions made by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.92,
+      672.18,
+      515.38,
+      690.19
+    ],
+    "text": "the learned D.S.G., the learned Counsel for the Petitioner moves to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      596.41,
+      138.06,
+      601.61,
+      163.75
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.70009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -2.01,
+      -19.81,
+      38.02,
+      79.12
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      72.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      0.7,
+      55.61,
+      7.46,
+      66.74
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      293.69,
+      32.22,
+      302.01,
+      47.03
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.14,
+      67.61,
+      516.08,
+      85.62
+    ],
+    "text": "withdraw this application. Application for withdrawal IS allowed and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.199999809265137,
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.26,
+      91.62,
+      214.57,
+      109.63
+    ],
+    "text": "accordingly dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.27,
+      140.1,
+      516.08,
+      158.18
+    ],
+    "text": "It is further informed by the learned D.S.G. that the legal",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.845080375671387
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.03,
+      163.85,
+      516.65,
+      181.86
+    ],
+    "text": "officer of the 3 rd Respondent is present in Court and the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.358304023742676,
+      13.385313034057617,
+      13.5,
+      14.10930061340332
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.86,
+      186.77,
+      508.5,
+      205.86
+    ],
+    "text": "D.S.G. is acting on the instructions received from the 3rd Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.199999809265137,
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.65,
+      236.1,
+      287.26,
+      254.11
+    ],
+    "text": "Application dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224.34,
+      308.34,
+      498.8,
+      326.35
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      79.86,
+      332.57,
+      215.53,
+      350.58
+    ],
+    "text": "P. Padman Surasena, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.395545959472656,
+      13.419509887695312,
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      151.58,
+      356.81,
+      200.41,
+      374.82
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      224.56,
+      404.57,
+      468.13,
+      422.58
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.13,
+      454.01,
+      113.28,
+      472.02
+    ],
+    "text": "AKN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      597.34,
+      782.63,
+      600.58,
+      822.92
+    ],
+    "text": "!t!,ti",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.199999809265137,
+      5.699999809265137,
+      6.599999904632568,
+      10.5,
+      10.899999618530273,
+      12.699999809265137
+    ]
+  }
+]

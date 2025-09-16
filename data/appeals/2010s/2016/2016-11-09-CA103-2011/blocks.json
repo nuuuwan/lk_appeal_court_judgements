@@ -1,0 +1,872 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      124.58,
+      72.35,
+      490.42,
+      85.63
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      86.17,
+      384.55,
+      225.4
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA 103/2011",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.520000457763672,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      225.38,
+      482.62,
+      281.71
+    ],
+    "text": "Sesathpura Dewage Jayantha Kumara Mudaliyawela, Ilippadeniya.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      281.69,
+      471.34,
+      393.84
+    ],
+    "text": "Accused - Appellant Vs. Hon. Attorney General Attorney Generals Department Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Times"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      394.48,
+      423.79,
+      421.44
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -5.68,
+      101.37,
+      21.45,
+      168.42
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      48.79999923706055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.88,
+      162.32,
+      201.21,
+      179.09
+    ],
+    "text": "Case No: 103/2011",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.759808540344238,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.8,
+      221.44,
+      320.82,
+      239.03
+    ],
+    "text": "BEFORE : Deepali Wijesundera, J. &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.123506546020508,
+      11.633602142333984,
+      12.199999809265137,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      170.41,
+      251.85,
+      270.72,
+      268.61
+    ],
+    "text": "loU. Jayasuriya, J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.936524391174316,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.39,
+      279.34,
+      523.15,
+      298.61
+    ],
+    "text": "COUNSEL : Anil Silva, PC with S. Kulathunga for the 1st accused-appellant.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      10.953189849853516,
+      11.158001899719238,
+      11.868342399597168,
+      12.199999809265137,
+      12.255622863769531,
+      12.397993087768555,
+      12.503231048583984
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166.99,
+      311.6,
+      362.24,
+      328.36
+    ],
+    "text": "Hiranjan Peiris, DSG for the State.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.446533203125,
+      12.199999809265137,
+      12.255622863769531,
+      12.685778617858887
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.85,
+      339.62,
+      154.98,
+      358.43
+    ],
+    "text": "ARGUED &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.009258270263672,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.54,
+      371.11,
+      235.8,
+      387.88
+    ],
+    "text": "DECIDED ON: 17.10.2016",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.858006477355957,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.52,
+      430.88,
+      223.44,
+      447.65
+    ],
+    "text": "Deepali Wijesundera, J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.936524391174316,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.52,
+      460.64,
+      530.2,
+      477.4
+    ],
+    "text": "This is a case where the accused-appellant has been convicted for abduction",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      12.122956275939941,
+      12.17412281036377,
+      12.199999809265137,
+      12.22337818145752,
+      12.255622863769531,
+      12.503231048583984
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.71,
+      495.21,
+      438.19,
+      511.97
+    ],
+    "text": "and rape under Section 354 and 364(2)(d) of the Penal Code.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.240981101989746,
+      12.901530265808105
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.52,
+      539.35,
+      526.96,
+      556.12
+    ],
+    "text": "The Counsel for the accused-appellant submits that in this case accused-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.183438301086426,
+      12.199999809265137,
+      12.335991859436035,
+      12.466832160949707,
+      12.594860076904297
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.95,
+      573.67,
+      531.08,
+      590.44
+    ],
+    "text": "appellant was convicted on the 16.11.2016 and has been imposed a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.17412281036377,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.96,
+      608.23,
+      529.88,
+      625.0
+    ],
+    "text": "sentence of 12 years rigorous imprisonment. He has already spent 5 years",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.924335479736328,
+      12.17412281036377,
+      12.199999809265137,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.32,
+      642.31,
+      531.1,
+      659.08
+    ],
+    "text": "in remand custody. In the circumstances counsel for the accused-appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.07394790649414,
+      12.199999809265137,
+      12.255622863769531,
+      12.594860076904297
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.33,
+      675.92,
+      531.22,
+      692.68
+    ],
+    "text": "has explained the facts to the accused-appellant and if this court permits to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.012864112854004,
+      12.199999809265137,
+      12.255622863769531,
+      12.402912139892578,
+      12.669708251953125,
+      12.919154167175293
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      591.84,
+      528.53,
+      604.35,
+      559.45
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      22.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      593.61,
+      799.2,
+      600.97,
+      823.16
+    ],
+    "text": "t ( I",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      5.500100135803223,
+      7.699999809265137,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -4.65,
+      65.28,
+      21.04,
+      128.76
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      46.20009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -3.68,
+      112.91,
+      10.75,
+      136.68
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.299999237060547
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.77,
+      73.52,
+      531.89,
+      90.28
+    ],
+    "text": "back date the sentence to the date of conviction namely 16.09.2011 the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.255622863769531,
+      12.335991859436035,
+      12.635526657104492,
+      12.800996780395508
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -3.47,
+      107.83,
+      406.18,
+      156.86
+    ],
+    "text": "accused-appellant is agreeable to withdraw his appeal. I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.654138565063477,
+      12.199999809265137,
+      12.363306999206543,
+      12.536995887756348,
+      20.799999237060547
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.74,
+      152.49,
+      532.67,
+      169.25
+    ],
+    "text": "Learned Deputy Solicitor General appearing for the State informs Court that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.255622863769531,
+      12.401732444763184,
+      12.503231048583984
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.77,
+      187.04,
+      532.01,
+      203.8
+    ],
+    "text": "he has no objection to this application. Therefore application of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.093737602233887,
+      12.120288848876953,
+      12.199999809265137,
+      12.635526657104492,
+      12.669708251953125
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.63,
+      221.37,
+      531.17,
+      238.13
+    ],
+    "text": "accused-appellant is allowed. Sentence is back dated to 16.09.2011 which is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.654138565063477,
+      12.036301612854004,
+      12.199999809265137,
+      12.669708251953125
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.46,
+      255.93,
+      245.97,
+      272.69
+    ],
+    "text": "the date he was convicted.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.13,
+      300.56,
+      363.76,
+      317.33
+    ],
+    "text": "Subject to the above terms appeal is dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.846735000610352,
+      12.199999809265137,
+      12.255622863769531,
+      12.669708251953125
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      333.03,
+      389.6,
+      530.37,
+      406.36
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.614027976989746,
+      11.830349922180176,
+      11.860783576965332,
+      11.919628143310547,
+      12.017230987548828
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.11,
+      478.39,
+      192.71,
+      495.41
+    ],
+    "text": "L.U. Jayasuriya, J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.976706504821777,
+      12.199999809265137,
+      12.38796615600586
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.66,
+      523.52,
+      134.13,
+      540.28
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      333.27,
+      611.84,
+      530.63,
+      628.6
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.614027976989746,
+      11.79616641998291,
+      11.861607551574707,
+      11.919628143310547,
+      12.017230987548828
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.45,
+      700.88,
+      115.76,
+      717.64
+    ],
+    "text": "NR/-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      590.79,
+      92.42,
+      610.81,
+      272.81
+    ],
+    "text": "l II j I ! , I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863,
+      10.5,
+      13.0,
+      18.20009994506836,
+      19.20009994506836,
+      19.799999237060547,
+      72.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      592.08,
+      255.39,
+      606.35,
+      411.22
+    ],
+    "text": "f t IIi II",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.899999618530273,
+      11.399999618530273,
+      14.100000381469727,
+      24.5,
+      27.600000381469727,
+      42.90010070800781,
+      48.40010070800781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      593.29,
+      431.51,
+      600.11,
+      478.25
+    ],
+    "text": ", \\!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.800099849700928,
+      9.600000381469727,
+      22.799999237060547
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      593.29,
+      505.16,
+      600.63,
+      523.3
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      594.0,
+      519.63,
+      602.71,
+      554.69
+    ],
+    "text": "\\!",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.600000381469727,
+      18.20009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      593.49,
+      549.12,
+      599.11,
+      584.63
+    ],
+    "text": "I { f t ,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.300099849700928,
+      4.900100231170654,
+      6.699999809265137,
+      9.100000381469727,
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      593.52,
+      592.09,
+      601.83,
+      610.78
+    ],
+    "text": "(",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      593.27,
+      613.67,
+      607.73,
+      694.02
+    ],
+    "text": "~ ! I I",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.623920440673828,
+      6.800099849700928,
+      15.300000190734863,
+      52.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      595.42,
+      660.59,
+      606.37,
+      714.73
+    ],
+    "text": "t,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.0,
+      39.40010070800781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      594.0,
+      781.23,
+      600.68,
+      845.04
+    ],
+    "text": "iIfi",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727,
+      13.0,
+      17.600000381469727,
+      24.100000381469727
+    ]
+  }
+]

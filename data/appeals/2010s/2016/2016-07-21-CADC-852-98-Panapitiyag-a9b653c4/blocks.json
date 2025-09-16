@@ -1,0 +1,2512 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      63.52,
+      56.57,
+      565.9,
+      75.13
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      250.89,
+      84.41,
+      355.0,
+      103.35
+    ],
+    "text": "OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.359306335449219
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.22,
+      429.47,
+      286.91,
+      477.84
+    ],
+    "text": "CA/APPEAL No.852/98F D.C. Gamapaba No. 30634/P",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.5,
+      19.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.71,
+      142.1,
+      465.99,
+      157.57
+    ],
+    "text": "1. Panapitiyage Chandrapala,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.462631225585938,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      334.51,
+      162.98,
+      525.64,
+      178.45
+    ],
+    "text": "Kanduboda South, Delgoda(Deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.89,
+      212.66,
+      512.53,
+      228.13
+    ],
+    "text": "1A. Panapitiyage Don Vijitha Kumara,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      343.5,
+      233.29,
+      490.22,
+      248.77
+    ],
+    "text": "No. 12, Kanduboda, Delgoda.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.5,
+      275.06,
+      487.23,
+      290.54
+    ],
+    "text": "2. Heiyanthuduwage John Perera,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      334.85,
+      295.71,
+      519.24,
+      311.18
+    ],
+    "text": "No. 400, Heiyanthuduwa. (Deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.97,
+      350.67,
+      506.19,
+      366.14
+    ],
+    "text": "2A. Heiyanthuduwage Sirisena Perera,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      341.33,
+      376.58,
+      467.88,
+      392.05
+    ],
+    "text": "No. 400, Heiyanthuduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.38,
+      436.11,
+      511.71,
+      451.58
+    ],
+    "text": "3. Panapitiyage Don Jakolis Jayarathne,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      462.35,
+      458.41,
+      519.49,
+      473.89
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.63,
+      476.42,
+      443.85,
+      491.89
+    ],
+    "text": "3A. Vithange Hamynona,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.19,
+      496.82,
+      507.73,
+      512.29
+    ],
+    "text": "Kanduboda, Delgoda. (Deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.1,
+      533.77,
+      471.66,
+      549.25
+    ],
+    "text": "3B. Kamal Purage Sumanapala",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.1,
+      577.7,
+      476.32,
+      593.17
+    ],
+    "text": "3C. Panapitiyage Dona Sarojini,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      339.79,
+      605.3,
+      535.16,
+      620.78
+    ],
+    "text": "Both of No. 572/3, Walgama, Malwana.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      249.1,
+      661.87,
+      516.3,
+      677.26
+    ],
+    "text": "Substituted lA, 2A, 3B and 3C Defendant-Appellants",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.899999618530273,
+      11.969347953796387,
+      12.057655334472656,
+      12.550472259521484
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      592.44,
+      332.73,
+      601.69,
+      385.39
+    ],
+    "text": "I i \" f , i",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      5.500100135803223,
+      7.500100135803223,
+      11.5,
+      11.699999809265137,
+      15.300000190734863,
+      18.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      592.05,
+      392.85,
+      599.27,
+      421.67
+    ],
+    "text": "f , f",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      6.400100231170654,
+      10.899999618530273,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      592.42,
+      740.84,
+      605.76,
+      814.03
+    ],
+    "text": "l I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.0,
+      48.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      281.24,
+      54.07,
+      305.72,
+      76.48
+    ],
+    "text": "Vs,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.52621841430664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      317.85,
+      89.08,
+      486.31,
+      104.83
+    ],
+    "text": "1. Panapitiyage Don Babu Singho,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.48951530456543,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.59,
+      115.01,
+      498.35,
+      130.75
+    ],
+    "text": "Kanduboda, Delgoda. (Deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      317.9,
+      169.01,
+      492.44,
+      184.76
+    ],
+    "text": "lA. P.D. Anura, 34A Wewa Road,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.838088035583496
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.24,
+      189.89,
+      479.81,
+      205.63
+    ],
+    "text": "Kanduboda South, Delgoda.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      376.78,
+      232.91,
+      559.41,
+      247.56
+    ],
+    "text": "Substituted lA Plaintiff-Respondent",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0,
+      12.911065101623535
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      316.9,
+      272.69,
+      526.55,
+      288.44
+    ],
+    "text": "3. Ranpathi Pathirage Podihamine Perera,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.739696502685547,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      335.33,
+      293.33,
+      498.9,
+      309.08
+    ],
+    "text": "No.782, Waduvegama, Malwana.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.09,
+      335.08,
+      453.69,
+      350.82
+    ],
+    "text": "24. Vithanage Chandrapala,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      338.1,
+      355.97,
+      481.08,
+      371.71
+    ],
+    "text": "Kanduboda South, Delgoda .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      316.97,
+      397.48,
+      541.8,
+      413.22
+    ],
+    "text": "25. Rathnayaka Appuhamilage Karunawathy,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      338.35,
+      418.13,
+      535.28,
+      433.87
+    ],
+    "text": "Kanduboda South, Delgoda. (Deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      317.21,
+      459.88,
+      499.36,
+      475.62
+    ],
+    "text": "25A. Vithanage Sanjeewa Jayasanka,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      347.22,
+      480.53,
+      486.07,
+      496.27
+    ],
+    "text": "Kanduboda South, Delgoda.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      461.26,
+      501.64,
+      536.38,
+      517.39
+    ],
+    "text": "And 22 others",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.912067413330078
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      388.96,
+      542.61,
+      560.65,
+      558.6
+    ],
+    "text": "4th to 26th Defendant-Respondents",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.100000381469727,
+      8.610136032104492,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      316.78,
+      584.68,
+      562.85,
+      601.03
+    ],
+    "text": "And now between in the matter of an Appeal to",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.800000190734863,
+      11.912067413330078,
+      12.008508682250977,
+      12.078024864196777,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      317.25,
+      605.56,
+      422.58,
+      621.31
+    ],
+    "text": "the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.819634437561035,
+      12.019018173217773,
+      12.057588577270508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      317.6,
+      646.84,
+      467.15,
+      662.59
+    ],
+    "text": "1. Panapitiyage Chandrapala,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.679433822631836,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      335.47,
+      667.26,
+      532.4,
+      683.0
+    ],
+    "text": "Kanduboda South, Delgoda. (Deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      321.02,
+      708.29,
+      510.51,
+      724.04
+    ],
+    "text": "lA. Panapitiyage Don Vijitha Kumara,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.927461624145508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      344.7,
+      728.93,
+      487.93,
+      744.67
+    ],
+    "text": "No.l2, Kanduboda, Delgoda.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      317.69,
+      76.35,
+      488.17,
+      91.82
+    ],
+    "text": "2. Heiyanthuduwage John Perera,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.488312721252441,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      335.81,
+      97.23,
+      520.2,
+      112.7
+    ],
+    "text": "No. 400, Heiyanthuduwa. (Deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      317.69,
+      128.17,
+      506.64,
+      143.65
+    ],
+    "text": "2A. Heiyanthuduwage Sirisena Perera,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      341.56,
+      154.1,
+      468.12,
+      169.58
+    ],
+    "text": "No. 400, Heiyanthuduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      284.14,
+      206.74,
+      563.07,
+      221.39
+    ],
+    "text": "Substituted lA and 2A Defendant-Appellant-Petitioners",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0,
+      12.108211517333984,
+      13.03004264831543
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      317.38,
+      252.74,
+      474.04,
+      268.21
+    ],
+    "text": "3B. Kamal Purage Sumanapala",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      317.62,
+      296.43,
+      475.59,
+      311.9
+    ],
+    "text": "3C. Panapitiyage Dona Sarojini,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      338.82,
+      324.25,
+      534.2,
+      339.73
+    ],
+    "text": "Both of No. 572/3, Walgama, Malwana.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.642721176147461
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      281.26,
+      380.61,
+      560.43,
+      396.28
+    ],
+    "text": "Substituted 3B and 3C Defendant-Appellant-Petitioners",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.399999618530273,
+      12.0,
+      12.03325366973877,
+      12.124504089355469
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      281.97,
+      408.41,
+      303.65,
+      426.42
+    ],
+    "text": "Vs,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      318.32,
+      438.76,
+      487.09,
+      454.51
+    ],
+    "text": "1. Panapitiyage Don Babu Singho,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.679433822631836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      333.31,
+      464.9,
+      499.09,
+      480.38
+    ],
+    "text": "Kanduboda, Delgoda. (Deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      318.86,
+      518.66,
+      493.48,
+      534.13
+    ],
+    "text": "lA. P.D. Anura, 34A Wewa Road,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.825949668884277
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.44,
+      539.54,
+      481.06,
+      555.01
+    ],
+    "text": "Kanduboda South, Delgoda.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.86,
+      594.1,
+      541.95,
+      608.75
+    ],
+    "text": "Substituted lA Plaintiff-Respondent-Respondent",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0,
+      12.911065101623535
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      319.04,
+      648.53,
+      524.88,
+      664.28
+    ],
+    "text": "1. Ranpathi Pathrage Podihamine Perera,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.679433822631836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      336.77,
+      669.38,
+      500.63,
+      684.86
+    ],
+    "text": "No.782, Waduvegama, Malwana.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      312.89,
+      720.75,
+      452.52,
+      736.22
+    ],
+    "text": "24. Vithanage Chandrapala,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      340.02,
+      741.15,
+      482.66,
+      756.63
+    ],
+    "text": "Kanduboda South, Delgoda .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.05,
+      221.79,
+      109.79,
+      240.6
+    ],
+    "text": "Before:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62.97,
+      274.84,
+      118.43,
+      293.65
+    ],
+    "text": "Counsel:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      316.25,
+      57.36,
+      498.79,
+      72.56
+    ],
+    "text": "25A. Vithanage Sanjeewa Jayasanka,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      346.27,
+      78.0,
+      484.92,
+      93.21
+    ],
+    "text": "Kanduboda South, Delgoda.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      460.06,
+      110.64,
+      535.07,
+      127.05
+    ],
+    "text": "And 22 others",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.238044738769531,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      318.28,
+      162.09,
+      552.51,
+      181.39
+    ],
+    "text": "i h to 26th DeJendant-Respondent-Respondents",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900100231170654,
+      11.899999618530273,
+      15.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.69,
+      221.56,
+      339.79,
+      241.76
+    ],
+    "text": "Vijith K. Malalgoda PC J (PICA)",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      14.100000381469727,
+      14.1163911819458,
+      14.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      135.0,
+      278.39,
+      488.49,
+      293.59
+    ],
+    "text": "C. Witharana for the lA, 2A, 3B and 3C Defendant-Appellant-Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.72355842590332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      134.83,
+      303.65,
+      557.96,
+      320.24
+    ],
+    "text": "Harsha Zoysa PC with Upendra Walgampaya for the 24th, 25A Defendant-Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.580573558807373,
+      7.699999809265137,
+      11.399999618530273,
+      11.42347526550293
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      134.91,
+      330.96,
+      438.21,
+      346.17
+    ],
+    "text": "Sandamal Rajapakshe for the Substituted plaintiff-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62.85,
+      382.31,
+      241.57,
+      397.51
+    ],
+    "text": "Written Submissions on: 10.03.2016",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62.57,
+      407.76,
+      194.19,
+      424.17
+    ],
+    "text": "Judgment on: 15.07.2016",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.19,
+      460.9,
+      109.52,
+      482.09
+    ],
+    "text": "Order",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      15.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.33,
+      487.71,
+      219.89,
+      507.91
+    ],
+    "text": "Vijith K. Malalgoda PC J",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727,
+      14.1163911819458,
+      14.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.74,
+      517.91,
+      560.77,
+      533.11
+    ],
+    "text": "lA, 2A, 3B and 3C Defendant-Appellant-Petitioners (here in after referred to as Appellant-Petitioners)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.635712623596191
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.11,
+      545.74,
+      560.7,
+      560.95
+    ],
+    "text": "have come before this court by the present appeal seeking an order to vacate the order dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.0,
+      573.36,
+      407.92,
+      588.56
+    ],
+    "text": "04.09.2013 made by this court abating the appeal bearing No. 852/98F.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.09,
+      611.02,
+      560.6,
+      626.23
+    ],
+    "text": "As observed by this court there were two separate appeals pending before this court bearing Nos.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62.89,
+      638.86,
+      534.41,
+      654.07
+    ],
+    "text": "852/98F and 852N98/F. The present appeal was pending before this court since November 1987.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.15,
+      676.06,
+      560.93,
+      691.27
+    ],
+    "text": "Since some of the parties to this appeal were dead, Appellant-Petitioners were directed to substitute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.378329277038574,
+      11.399999618530273,
+      11.678546905517578
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.33,
+      703.44,
+      560.58,
+      718.64
+    ],
+    "text": "them and since then the matter had gone down for years for substitution. When this matter was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.1,
+      731.04,
+      474.49,
+      746.24
+    ],
+    "text": "mentioned before this court finally on 30.05.2013 this court had observed as follows;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.34,
+      55.7,
+      559.62,
+      71.17
+    ],
+    "text": "\"When this matter was mentioned on the last occasion appeared to be a son of the 1 st Plaintiff-",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.199999809265137,
+      11.600000381469727,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.3,
+      83.29,
+      252.44,
+      98.77
+    ],
+    "text": "Appellant was present in court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.27,
+      111.61,
+      559.62,
+      127.12
+    ],
+    "text": "He has under taken to file papers to have them substituted in place of the deceased 1st Plaintiff-",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.199999809265137,
+      11.0,
+      11.600000381469727,
+      11.916726112365723
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.06,
+      138.98,
+      561.78,
+      154.46
+    ],
+    "text": "Appellant. He is not present in court today. No papers have been filed so far to substitute the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.09,
+      166.17,
+      562.03,
+      211.65
+    ],
+    "text": "heirs of the Deceased 1st Plaintiff-Appellant. It is brought to the notice of court that the 4th , 5th , i\\ 9t\\ 15th, 19th and 21st Defendant-Respondents are dead. This matter had been mentioned in",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.599999904632568,
+      11.0,
+      11.378740310668945,
+      11.439033508300781,
+      11.586341857910156,
+      11.600000381469727,
+      11.682111740112305,
+      11.78054428100586,
+      21.076061248779297
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.29,
+      222.5,
+      562.09,
+      237.97
+    ],
+    "text": "this court since 2011 Appellants have not taken steps to substitute the heirs of the Deceased",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.1,
+      250.1,
+      562.35,
+      265.58
+    ],
+    "text": "parties since then. However they are given one more date to file papers in order to substitute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.06,
+      277.69,
+      562.4,
+      293.17
+    ],
+    "text": "the heirs of the deceased parties, substitution papers are to be filed two weeks before the next",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.22,
+      305.06,
+      249.93,
+      320.53
+    ],
+    "text": "date. Mention on 04.09.2013.\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.35,
+      332.91,
+      562.06,
+      348.38
+    ],
+    "text": "Since the Plaintiff-Appellant (Appellant-Petitioners to present application before this court) have",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.19,
+      360.75,
+      562.37,
+      376.22
+    ],
+    "text": "failed to substitute the parties as directed by this court, the court made order abating the appeal on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.2,
+      388.36,
+      562.54,
+      404.11
+    ],
+    "text": "04.09.2013. It is also important to note that the said order was made inter parte. After the said order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727,
+      11.682111740112305
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.3,
+      416.18,
+      561.58,
+      431.66
+    ],
+    "text": "was made in September 2013 until February 2015, Plaintiff-Appellant had failed to take any steps to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.312589645385742,
+      11.477705001831055,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.54,
+      444.02,
+      310.87,
+      459.49
+    ],
+    "text": "vacate the order made by this court on 04.09.2013.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.48,
+      471.63,
+      562.09,
+      487.1
+    ],
+    "text": "I further observe that there was a journal entry dated 19.09.2014, taking steps to send the case record",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.33,
+      499.47,
+      561.65,
+      514.94
+    ],
+    "text": "back to the District Court Gampaha since the Plaintiff-Appellant had failed to take appropriate steps to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.54,
+      527.3,
+      168.97,
+      542.77
+    ],
+    "text": "vacate the said order.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.49,
+      564.74,
+      562.41,
+      580.22
+    ],
+    "text": "Even though there is no specific time period given for a party to come before this court to vacate an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.459094047546387,
+      11.477705001831055,
+      11.552803993225098,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.69,
+      592.58,
+      562.51,
+      608.05
+    ],
+    "text": "order made by this court, abating the proceedings and to get the matter re-listed, the aggrieved party",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.89,
+      620.17,
+      562.55,
+      635.65
+    ],
+    "text": "should come before this court within a reasonable time. Supreme Court has taken this view with regard",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.75,
+      647.77,
+      562.44,
+      663.25
+    ],
+    "text": "to the validity of an appeal which had been filed in the absence of statutory fixed time limits as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.642721176147461,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.68,
+      675.38,
+      105.58,
+      690.86
+    ],
+    "text": "follows,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.97,
+      712.83,
+      561.25,
+      728.31
+    ],
+    "text": "In the case of Mahaweli Authority of Sri Lanka V. United Agency Construction (Pvt) Ltd 2002 (1)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.513446807861328,
+      11.600000381469727,
+      11.742107391357422,
+      11.78054428100586,
+      12.088594436645508,
+      12.100000381469727,
+      12.163931846618652,
+      13.279693603515625
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.78,
+      740.19,
+      562.83,
+      755.67
+    ],
+    "text": "Sri LR 8 the Supreme Court held, that \"In the absence of any provision prescribing the time for an",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906,
+      12.100000381469727,
+      12.460432052612305
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.36,
+      56.67,
+      558.33,
+      72.14
+    ],
+    "text": "application for leave to appeal under section 37 (2) or any rule made by the Supreme Court under",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.07,
+      84.26,
+      557.95,
+      99.74
+    ],
+    "text": "section 43 of the Act, the Petitioner should make his application within reasonable period; and 55 days",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.12,
+      112.35,
+      554.86,
+      127.82
+    ],
+    "text": "from the order of the High Court cannot, in all circumstances, be considered to be a reasonable period.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.916726112365723
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.93,
+      149.92,
+      559.06,
+      165.53
+    ],
+    "text": "In the case of George Stuart & Co. Ltd V. Lankem Tea and Rubber Plantations Ltd 2004 (1) Sri LR",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.600000381469727,
+      11.445989608764648,
+      11.600000381469727,
+      11.699999809265137,
+      11.800000190734863,
+      11.807747840881348,
+      11.910483360290527,
+      11.916726112365723,
+      11.932555198669434,
+      12.094182968139648,
+      12.175621032714844,
+      12.209929466247559
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.45,
+      177.86,
+      557.73,
+      193.33
+    ],
+    "text": "246 the Supreme Court whilst confirming the above decision concluded that, an application made 108",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.9,
+      205.22,
+      323.75,
+      220.7
+    ],
+    "text": "days after the order of the High Court is unreasonable.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.916726112365723
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.96,
+      243.13,
+      557.94,
+      258.61
+    ],
+    "text": "Whilst relying on the decision in Nagappan V. Lankabarana Estate Ltd 75 NLR 488 where the Court",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137,
+      11.445989608764648,
+      11.600000381469727,
+      11.800000190734863,
+      12.113729476928711,
+      12.175621032714844
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.64,
+      270.98,
+      559.23,
+      286.45
+    ],
+    "text": "of Appeal had held, that the Plaintiff is entitled to obtained an order setting aside the order of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.642721176147461,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.64,
+      298.59,
+      510.05,
+      314.06
+    ],
+    "text": "abatement on satisfying the condition, (as set out in section 403 of the Civil Procedure Code)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95.64,
+      336.26,
+      372.56,
+      351.74
+    ],
+    "text": "a) That his application is made within a reasonable time",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95.27,
+      363.86,
+      451.83,
+      379.33
+    ],
+    "text": "b) That he was prevented by sufficient cause from continuing the action,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      95.47,
+      391.69,
+      557.74,
+      407.17
+    ],
+    "text": "the Learned Counsel for the Appellant-Petitioners submitted that due to the death of several",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.55,
+      419.54,
+      557.33,
+      435.01
+    ],
+    "text": "parities to the District Court Case, the Appellant -Petitioners could not filed the substitution papers to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.84,
+      447.38,
+      557.79,
+      462.85
+    ],
+    "text": "substitute all the parties during the limited time granted to him by this court but steps have been taken",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.97,
+      474.98,
+      266.43,
+      490.45
+    ],
+    "text": "to substitute some of the Deceased parties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.91,
+      502.58,
+      557.19,
+      518.06
+    ],
+    "text": "I cannot agree with the above submission made by the Appellant-Petitioners, as the record before me",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.593948364257812,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.64,
+      530.42,
+      557.09,
+      545.89
+    ],
+    "text": "explains the number of dates obtained by the Appellant-Petitioners for more than two years to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727,
+      11.642721176147461
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.84,
+      558.03,
+      186.04,
+      573.5
+    ],
+    "text": "substitute the said parties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.96,
+      585.87,
+      557.79,
+      601.34
+    ],
+    "text": "When this court, on 04.09.2013 made order abating the appeal, Appellant-Petitioners had taken 18",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.574421882629395,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.98,
+      613.46,
+      558.51,
+      628.93
+    ],
+    "text": "months to file the present relisting application before this court, which cannot be considered as a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.78,
+      641.3,
+      453.17,
+      656.77
+    ],
+    "text": "\"reasonable time\" in the absence of any explanation is given to explain the delay.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.18452262878418
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.93,
+      668.42,
+      560.03,
+      683.89
+    ],
+    "text": "I further observe that the Appellant-Petitioners had failed to inform this court the present position of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.97,
+      695.78,
+      555.37,
+      711.28
+    ],
+    "text": "the other appeal CA 852N98F. It is brought to our notice by the 25A Defendant-Respondent-",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.602072715759277,
+      11.645709991455078,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.2,
+      721.76,
+      559.47,
+      738.86
+    ],
+    "text": "Respondent that the relisting application filed by lA and 2nd Plaintiffs against the identical order of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.690674304962158,
+      11.600000381469727,
+      11.642721176147461,
+      12.280632019042969
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.28,
+      58.35,
+      554.34,
+      73.82
+    ],
+    "text": "abatement made by this court, was rejected by order dated 20.02.2015. Even though there was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.13,
+      85.93,
+      554.07,
+      101.41
+    ],
+    "text": "reference to the appeal CA 852N98F in the pleadings before this court the Appellant -Petitioners have",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.729823112487793,
+      11.788663864135742
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.24,
+      113.54,
+      249.57,
+      129.02
+    ],
+    "text": "suppressed the said fact from this court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.13,
+      141.13,
+      552.1,
+      156.61
+    ],
+    "text": "When considering the material discussed above, this court is of the view that the Appellant-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.916726112365723
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.11,
+      168.99,
+      112.89,
+      184.46
+    ],
+    "text": "Petitioners,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74.28,
+      197.06,
+      553.86,
+      212.53
+    ],
+    "text": "a) Have failed to prosecute the appeal before this court with due degillance, by failing to make the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.477705001831055,
+      11.553808212280273,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.14,
+      224.66,
+      287.84,
+      240.14
+    ],
+    "text": "necessary substitution for nearly 2 years",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73.94,
+      252.25,
+      554.57,
+      267.73
+    ],
+    "text": "b) Have failed to explain the delay in coming before this court to vacate the order of abatement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.78054428100586
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.15,
+      280.11,
+      360.01,
+      295.58
+    ],
+    "text": "made by this court on 04.09.2013 for nearly 18 months",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.75,
+      318.01,
+      456.92,
+      333.49
+    ],
+    "text": "and therefore dismiss the present appeal for relisting with cost fixed at Rs. 10.000/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      309.27,
+      448.6,
+      545.91,
+      466.05
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.343183517456055,
+      12.54558277130127,
+      12.558982849121094,
+      12.578231811523438,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      571.44,
+      -17.89,
+      611.47,
+      81.04
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      72.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      584.51,
+      60.71,
+      592.36,
+      89.03
+    ],
+    "text": "~ I !",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.6712939739227295,
+      11.100000381469727,
+      13.699999809265137
+    ]
+  }
+]

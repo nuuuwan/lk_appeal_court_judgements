@@ -1,0 +1,3512 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      13.88,
+      24.32,
+      37.27,
+      46.3
+    ],
+    "text": ", .",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5,
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      197.53,
+      65.02,
+      497.17,
+      81.4
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.792716026306152,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      234.36,
+      86.38,
+      460.88,
+      102.76
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      131.37,
+      277.02,
+      271.8,
+      291.75
+    ],
+    "text": "C.A.Appeal No. 591/97 (F)",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique"
+    ],
+    "sizes": [
+      10.600000381469727,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      131.77,
+      296.23,
+      307.09,
+      311.48
+    ],
+    "text": "D.C. Colombo Case No. 16032/L",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.800000190734863,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.27,
+      734.93,
+      335.86,
+      747.43
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.71,
+      133.24,
+      424.49,
+      146.98
+    ],
+    "text": "V. Tharumalingam",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.909995079040527,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      337.12,
+      151.24,
+      479.74,
+      164.98
+    ],
+    "text": "106, Mayfield Lane, Kotahena,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.82,
+      169.48,
+      397.88,
+      183.22
+    ],
+    "text": "Colombo 13.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      337.21,
+      187.24,
+      396.59,
+      200.98
+    ],
+    "text": "Presently of,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      337.12,
+      205.24,
+      430.12,
+      218.98
+    ],
+    "text": "103, Rochman Blvd",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.83,
+      223.24,
+      487.26,
+      236.98
+    ],
+    "text": "Scarbourogh, Ontario M1 H 1 S1,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.669901847839355,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.82,
+      241.24,
+      378.15,
+      254.98
+    ],
+    "text": "Canada.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.99,
+      259.16,
+      392.76,
+      272.79
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      371.29,
+      316.39,
+      387.6,
+      331.12
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      337.38,
+      343.73,
+      470.27,
+      357.47
+    ],
+    "text": "1. S.Arulanandam and wife",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.726304054260254,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      337.12,
+      361.73,
+      470.31,
+      375.47
+    ],
+    "text": "2. Uigawathy Arulanandam",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.80826187133789,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.27,
+      379.48,
+      480.79,
+      393.22
+    ],
+    "text": "Both of 106, Mayfield Lane",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.149975776672363
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.51,
+      397.48,
+      466.16,
+      411.22
+    ],
+    "text": "Kotahena: Colombo 13.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.27,
+      415.64,
+      428.1,
+      429.27
+    ],
+    "text": "DEFENDANTS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.51,
+      451.63,
+      409.13,
+      465.27
+    ],
+    "text": "BETWEEN",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.83,
+      486.77,
+      439.93,
+      500.51
+    ],
+    "text": "S.Arulanandam .",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.38,
+      505.24,
+      506.91,
+      518.98
+    ],
+    "text": "of 106, Mayfield Lane, Kotahena",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.149975776672363
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.58,
+      523.48,
+      416.0,
+      537.22
+    ],
+    "text": "Colombo 13.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.82,
+      539.94,
+      502.09,
+      554.61
+    ],
+    "text": "1 st DEFENDANT -APPELLANT",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.394269943237305,
+      9.899999618530273,
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.73,
+      577.64,
+      370.35,
+      591.27
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.95,
+      613.0,
+      440.11,
+      626.74
+    ],
+    "text": "V.Tharumalingam",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.6,
+      630.76,
+      495.87,
+      644.5
+    ],
+    "text": "106, Mayfield Lane, Kotahena",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.06,
+      649.0,
+      416.36,
+      662.74
+    ],
+    "text": "Colombo 13.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.45,
+      666.52,
+      414.15,
+      680.26
+    ],
+    "text": "Presently of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.149975776672363
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.84,
+      684.28,
+      514.29,
+      698.02
+    ],
+    "text": "103, Rochman Blvd, Scarborough",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.48,
+      702.04,
+      446.35,
+      715.78
+    ],
+    "text": "M1 H 1 S1, Canada.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.574654579162598,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      597.81,
+      640.65,
+      601.51,
+      658.93
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      596.9,
+      687.71,
+      603.31,
+      743.2
+    ],
+    "text": "tii\"i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.600000381469727,
+      11.100000381469727,
+      15.899999618530273,
+      17.399999618530273,
+      21.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      596.41,
+      767.1,
+      601.47,
+      779.6
+    ],
+    "text": "!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.71,
+      65.83,
+      487.2,
+      79.33
+    ],
+    "text": "PLAINTIFF-RESPONDENT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.65,
+      83.34,
+      433.6,
+      96.84
+    ],
+    "text": "(now deceased)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.800000190734863,
+      9.83722972869873
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      335.68,
+      119.19,
+      471.28,
+      133.04
+    ],
+    "text": "1. Mrs. Elizabeth Nesamma",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.848817825317383,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.26,
+      137.44,
+      427.17,
+      151.04
+    ],
+    "text": "Tharumalingam",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.72,
+      155.68,
+      510.45,
+      169.28
+    ],
+    "text": "103, Rochman Blvd, Scarborough",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.36,
+      173.44,
+      442.74,
+      187.04
+    ],
+    "text": "M1 H 1 S1, Canada.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.526660919189453,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      334.96,
+      191.44,
+      474.5,
+      205.04
+    ],
+    "text": "2. Mrs. Cecilia Puvaneswary",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.34,
+      209.44,
+      442.01,
+      223.04
+    ],
+    "text": "Nesakumar Collins",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.21,
+      227.44,
+      601.2,
+      259.04
+    ],
+    "text": "8, Olympic Drive, Whakatane, BOP, INew Zealand.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.606138229370117,
+      9.899999618530273,
+      16.299999237060547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      334.53,
+      243.92,
+      603.38,
+      354.06
+    ],
+    "text": "I i !3. Mrs. Angela Rajeswari Selvakumari I!Kulanthaivelu i3, Meadow Garth, Outwood, IWakefield, WF1 3TE, UK. I4. Gerard Jeyakumaran I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223,
+      7.800099849700928,
+      9.609899520874023,
+      9.768729209899902,
+      9.873363494873047,
+      9.899999618530273,
+      11.699999809265137,
+      12.0,
+      12.800000190734863,
+      16.299999237060547,
+      22.799999237060547,
+      24.70009994506836,
+      25.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.54,
+      353.43,
+      600.97,
+      385.03
+    ],
+    "text": "Tharumalingam f62, Bimbrok Road, Scarborough",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      16.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.7,
+      389.68,
+      477.98,
+      403.28
+    ],
+    "text": "Ontario M1 K 4T9, Canada.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.526660919189453,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      334.45,
+      404.09,
+      603.47,
+      441.6
+    ],
+    "text": "5. Mrs. Ursula Savithri Vasanthakumari IDunston",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.759248733520508,
+      9.899999618530273,
+      27.299999237060547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      352.0,
+      443.43,
+      512.62,
+      457.03
+    ],
+    "text": "103, Rochman Blvd, Scarborough,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.7,
+      461.43,
+      478.94,
+      475.03
+    ],
+    "text": "Ontario M1H 1S1, Canada.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      334.21,
+      479.43,
+      482.17,
+      493.03
+    ],
+    "text": "6. Mrs. Francis Shirani Kumari",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.3,
+      494.09,
+      603.23,
+      547.03
+    ],
+    "text": "Theophilus I1, Alesia Close, 110-112, INightingale Road, London N22 4NH",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.848817825317383,
+      9.899999618530273,
+      17.899999618530273,
+      27.299999237060547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.61,
+      541.53,
+      601.8,
+      566.26
+    ],
+    "text": "rEngland.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      18.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      334.45,
+      568.56,
+      503.93,
+      583.03
+    ],
+    "text": "7. Anton Jeyarajan Tharumalingam",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.899999618530273,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.48,
+      587.19,
+      503.97,
+      600.79
+    ],
+    "text": "84, Rochman Blvd, Scarborough",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.46,
+      605.42,
+      481.82,
+      619.03
+    ],
+    "text": "Ontario, M1 H 1 S2, Canada.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.430885314941406,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      334.45,
+      623.43,
+      522.75,
+      637.03
+    ],
+    "text": "8. Mrs. Marina Dharshini Shantakumari",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.764927864074707,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.52,
+      641.43,
+      381.17,
+      655.03
+    ],
+    "text": "Justin",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.71,
+      658.95,
+      513.34,
+      672.55
+    ],
+    "text": "39, Brentwood Drive, Scarborough",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.69,
+      676.71,
+      439.14,
+      690.31
+    ],
+    "text": "Ontario, M1 H 2G5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.430885314941406,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.5,
+      694.62,
+      491.57,
+      708.12
+    ],
+    "text": "SUBSTITUTED-PLAINTIFFS-",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      351.63,
+      708.0,
+      601.24,
+      725.88
+    ],
+    "text": "RESPONDENTS f t",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.699999809265137,
+      9.600000381469727,
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.42,
+      706.73,
+      607.07,
+      837.37
+    ],
+    "text": "2 II I l ! I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.800099849700928,
+      10.0,
+      13.0,
+      16.600000381469727,
+      17.0,
+      35.40010070800781,
+      49.40010070800781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      595.16,
+      822.82,
+      599.41,
+      843.84
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.89,
+      58.89,
+      459.05,
+      74.53
+    ],
+    "text": "BEFORE : Deepali Wijesundera J.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.687936782836914,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      335.23,
+      86.92,
+      431.21,
+      101.9
+    ],
+    "text": ": M.M.A. Gaffoor J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.687936782836914,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.49,
+      112.89,
+      450.95,
+      128.53
+    ],
+    "text": "COUNSEL : Nizam Kariapper with",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      337.68,
+      140.92,
+      516.21,
+      155.9
+    ],
+    "text": "M.I.M. Iynullah, M.C.M. Nawaz and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      341.04,
+      168.04,
+      506.29,
+      183.02
+    ],
+    "text": "M.S.S. Sanfara for the Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      341.04,
+      195.39,
+      473.83,
+      210.37
+    ],
+    "text": "Mano Dewanayagam with",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      340.29,
+      222.28,
+      464.38,
+      237.26
+    ],
+    "text": "Wilson Fernando for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      341.03,
+      249.63,
+      454.15,
+      264.61
+    ],
+    "text": "Plaintiff - Respondent.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.41,
+      275.8,
+      449.54,
+      291.26
+    ],
+    "text": "ARGUED ON : 23rd November, 2015",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.325006008148193,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.87,
+      303.16,
+      421.45,
+      318.61
+    ],
+    "text": "DECIDED ON : 10th June, 2016",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.500100135803223,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.89,
+      383.83,
+      255.36,
+      399.84
+    ],
+    "text": "Deepali Wijesundera J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.899999618530273,
+      12.340178489685059
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      162.41,
+      439.23,
+      525.57,
+      454.21
+    ],
+    "text": "The respondent (plaintiff in the District Court) instituted action against",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.59,
+      465.39,
+      525.09,
+      480.37
+    ],
+    "text": "the appellant (defendant in the District Court) to enforce specific performance",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.77,
+      490.7,
+      525.39,
+      506.26
+    ],
+    "text": "of the agreement marked P2 with the plaint and also to eject the respondent",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.899999618530273,
+      11.018109321594238,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.86,
+      517.47,
+      526.0,
+      532.45
+    ],
+    "text": "from the premises is suit. The appellant had filed answer the second defendant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.16,
+      543.63,
+      524.21,
+      558.61
+    ],
+    "text": "has not filed answer and the case had proceeded to trial on the issues framed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      128.89,
+      569.79,
+      525.51,
+      584.77
+    ],
+    "text": "At the trial only the respondent has given evidence for the plaintiff and the first",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.01,
+      595.71,
+      525.58,
+      610.69
+    ],
+    "text": "defendant has given evidence for the appellant. At the trial the respondent has",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.25,
+      621.87,
+      525.3,
+      636.85
+    ],
+    "text": "admitted the said agreement and the terms contained in it and also admitted",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.74236011505127,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.39,
+      648.03,
+      525.08,
+      663.01
+    ],
+    "text": "his failure to pay the balance purchase price of Rs. 300,000/=. The learned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.844910621643066,
+      10.899999618530273,
+      11.018109321594238
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.83,
+      673.71,
+      524.82,
+      688.69
+    ],
+    "text": "District Judge has delivered his judgment in favour of the plaintiff respondent.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273,
+      11.018109321594238
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.85,
+      699.39,
+      496.63,
+      714.37
+    ],
+    "text": "Being aggrieved by the said judgment the appellant has filed this appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.13,
+      727.76,
+      331.26,
+      740.43
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.13,
+      51.25,
+      603.64,
+      118.08
+    ],
+    "text": "II!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.899999618530273,
+      26.0,
+      27.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.16,
+      166.44,
+      603.39,
+      243.17
+    ],
+    "text": "IiIJ",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273,
+      16.799999237060547,
+      16.899999618530273,
+      18.5,
+      26.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.48,
+      315.09,
+      600.73,
+      326.77
+    ],
+    "text": "i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      595.82,
+      386.86,
+      602.61,
+      428.9
+    ],
+    "text": "l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      30.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.65,
+      63.79,
+      524.91,
+      79.18
+    ],
+    "text": "The learned counsel for the appellant submitted that there isn't a single",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.51,
+      89.96,
+      524.74,
+      105.35
+    ],
+    "text": "clause in the said agreement which gives right to the respondent to sue the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.52,
+      116.12,
+      525.11,
+      131.51
+    ],
+    "text": "appellant for ejectment, if it is so by implication and not by expressly. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.180533409118652,
+      11.199999809265137,
+      11.260785102844238
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.52,
+      142.27,
+      525.25,
+      157.66
+    ],
+    "text": "appellant stated that if one is to come to court to enforce specific performance",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.166299819946289,
+      11.199999809265137,
+      11.260785102844238
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.53,
+      168.44,
+      524.75,
+      183.83
+    ],
+    "text": "of an agreement and if the court is to grant such specific performance then the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.950572967529297,
+      11.166299819946289,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.6,
+      194.59,
+      467.18,
+      209.98
+    ],
+    "text": "terms and conditions of the agreement must be certain in its terms.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.063467979431152,
+      11.110794067382812,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.42,
+      262.03,
+      525.81,
+      277.42
+    ],
+    "text": "The appellant submitted that the learned District Judge did not answer",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.76,
+      288.2,
+      524.65,
+      303.59
+    ],
+    "text": "any of the issues raised at the trial and that the District Judge is under legal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.77,
+      314.59,
+      452.42,
+      329.98
+    ],
+    "text": "duty to answer the issues based on his findings in his judgment.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.063467979431152,
+      11.168405532836914,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.64,
+      381.79,
+      525.85,
+      397.18
+    ],
+    "text": "The appellant also stated that the concept of leave and licence can not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.178479194641113,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.15,
+      407.95,
+      524.93,
+      423.34
+    ],
+    "text": "be applied in respect of an occupier of immovable property who is occupying",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.994463920593262,
+      11.166299819946289,
+      11.181134223937988,
+      11.199999809265137,
+      11.307435035705566
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.07,
+      434.12,
+      524.86,
+      449.51
+    ],
+    "text": "the same based on an agreement to buy the property within a stipulated period",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.168405532836914,
+      11.181134223937988,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.25,
+      460.51,
+      168.08,
+      475.9
+    ],
+    "text": "of time.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163.38,
+      527.72,
+      526.01,
+      543.11
+    ],
+    "text": "The appellants further submitted that Sec. 146 of the Civil Procedure",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.199999809265137,
+      11.713813781738281
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130.02,
+      554.12,
+      526.41,
+      569.51
+    ],
+    "text": "Code specifically sets out the duty of the court to determine the issues and that",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.199999809265137,
+      11.307435035705566
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.85,
+      580.03,
+      525.92,
+      595.42
+    ],
+    "text": "it is settled law that the judge must answer every issue framed in the case. He",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.12580394744873,
+      11.166299819946289,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.81,
+      606.44,
+      526.29,
+      621.83
+    ],
+    "text": "further stated that Sec. 187 of the Civil Procedure Code states that a decision",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.05626392364502,
+      11.100000381469727,
+      11.199999809265137,
+      11.579955101013184
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130.08,
+      632.36,
+      525.95,
+      647.75
+    ],
+    "text": "has to be given on the points for determination and that court has to answer the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.168405532836914,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130.35,
+      658.27,
+      526.18,
+      673.66
+    ],
+    "text": "issues and give reasons for coming to that answer. The appellant cited the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.76,
+      683.95,
+      525.99,
+      699.37
+    ],
+    "text": "judgment in Sobanahamy vs Somadasa 2005 vol III page 201 and said",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.830493927001953,
+      10.88918685913086,
+      11.0,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130.29,
+      710.12,
+      405.11,
+      725.51
+    ],
+    "text": "failure to answer the issues is considered a fatal error.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.166299819946289,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.92,
+      733.97,
+      331.9,
+      746.37
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      594.3,
+      9.15,
+      605.7,
+      37.32
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      20.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      594.77,
+      69.73,
+      606.25,
+      244.05
+    ],
+    "text": "IfiI!1 tIf f I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223,
+      7.400100231170654,
+      9.300000190734863,
+      11.699999809265137,
+      13.0,
+      13.600000381469727,
+      16.399999618530273,
+      20.799999237060547,
+      33.20009994506836,
+      38.0,
+      41.29999923706055
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      595.72,
+      278.33,
+      602.5,
+      311.86
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      24.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      595.58,
+      307.28,
+      602.15,
+      354.44
+    ],
+    "text": "fi",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.100000381469727,
+      29.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      594.64,
+      749.98,
+      602.8,
+      848.21
+    ],
+    "text": "! 1[ IIl",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      11.699999809265137,
+      12.600000381469727,
+      14.300000190734863,
+      28.600000381469727,
+      33.90010070800781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      163.61,
+      63.55,
+      526.18,
+      78.94
+    ],
+    "text": "The learned counsel for the respondents argued that under clause 4, 6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.82481575012207,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.72,
+      89.48,
+      525.29,
+      104.9
+    ],
+    "text": "and 7 of the agreement marked P2 no specific provision is needed for filing",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0,
+      11.157319068908691,
+      11.163440704345703,
+      11.166299819946289,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.24,
+      115.87,
+      525.08,
+      131.26
+    ],
+    "text": "action for ejectment and that on the termination of the agreement and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.163440704345703,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.12,
+      142.28,
+      526.96,
+      157.67
+    ],
+    "text": "withdrawal of the leave and licence the defendant appellant is in the position of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.063467979431152,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.49,
+      168.19,
+      413.89,
+      183.58
+    ],
+    "text": "a trespasses and an action has to be filed for ejectment.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.06645393371582,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      163.77,
+      235.35,
+      525.34,
+      250.91
+    ],
+    "text": "Citing the judgment in Perera vs Lewis Abeysekera 58 NLR 506 the",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.22454833984375,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.63,
+      261.79,
+      525.77,
+      277.18
+    ],
+    "text": "respondent stated that where under a non-notarial agreement to sell immovable",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.86,
+      287.96,
+      525.34,
+      303.35
+    ],
+    "text": "property an advance is paid but the sale fails the agreement regarding the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.166299819946289,
+      11.181134223937988,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.86,
+      314.11,
+      526.74,
+      329.5
+    ],
+    "text": "money paid in advance is severable from the agreement for sale, the plaintiff",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.88918685913086,
+      11.166299819946289,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.63,
+      340.28,
+      525.83,
+      355.67
+    ],
+    "text": "respondent has the right to demand that the defendant appellant should vacate",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.55,
+      366.68,
+      410.95,
+      382.07
+    ],
+    "text": "the premises in exchange for the return of the advance.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.063467979431152,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      163.85,
+      433.64,
+      526.45,
+      449.03
+    ],
+    "text": "The respondents submitted that although all the issues were not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130.2,
+      460.03,
+      525.94,
+      475.42
+    ],
+    "text": "answered by the District Judge by way of findings from the evidence given the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.180533409118652,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130.34,
+      486.19,
+      525.66,
+      501.58
+    ],
+    "text": "matters in issue have been referred to. The respondents stated that regarding",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.063467979431152,
+      11.17842960357666,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130.34,
+      512.35,
+      525.65,
+      527.74
+    ],
+    "text": "issue no. 1 the defendant had admitted his failure to pay the balance sum,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130.59,
+      538.51,
+      526.73,
+      553.9
+    ],
+    "text": "issues no. 2 refers to plaintiff respondent's evidence which the District Judge",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.137777328491211,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130.83,
+      564.68,
+      526.34,
+      580.07
+    ],
+    "text": "has accepted. Issue 3, 4, and 5 of the respondents all have been answered",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.881470680236816,
+      10.982844352722168,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130.56,
+      590.83,
+      526.66,
+      606.22
+    ],
+    "text": "while making his findings. Referring to the defendant appellant's issue the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      131.07,
+      616.99,
+      526.14,
+      632.38
+    ],
+    "text": "respondents submitted the first had been answered as a preliminary issue in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.71212387084961,
+      11.13335132598877,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130.99,
+      643.15,
+      525.81,
+      658.54
+    ],
+    "text": "the affirmative, the other two issues the court has referred to in the findings.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130.99,
+      668.83,
+      526.16,
+      684.22
+    ],
+    "text": "The respondents further submitted that the action in the District Court was filed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.063467979431152,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      131.17,
+      694.75,
+      526.9,
+      710.14
+    ],
+    "text": "over 23 years ago in 1992 and judgment was delivered on 22/05/1997 and the",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.5,
+      11.05384635925293,
+      11.063467979431152,
+      11.163440704345703,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      326.02,
+      687.32,
+      609.53,
+      852.22
+    ],
+    "text": "5 II I II",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0,
+      15.300000190734863,
+      15.899999618530273,
+      39.099998474121094,
+      44.90010070800781,
+      59.20009994506836
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.86,
+      64.04,
+      525.97,
+      79.43
+    ],
+    "text": "plaintiff had died on 20/1212005 and his heirs have been substituted as",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.938087463378906,
+      11.011666297912598,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.87,
+      89.96,
+      526.82,
+      105.35
+    ],
+    "text": "respondents and cited the judgment in Jayasena vs Oayasena (2002) 3 SLR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.351080894470215
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.75,
+      116.11,
+      527.19,
+      131.5
+    ],
+    "text": "261 where it was held that to remit the case back to the District Court after",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.935731887817383,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.62,
+      142.51,
+      526.18,
+      157.9
+    ],
+    "text": "nearly 15 years to answer the issue will be a unfruitful exercise when the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.73,
+      168.43,
+      420.63,
+      183.82
+    ],
+    "text": "defendant appellant can not succeed in the original court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.063467979431152,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163.85,
+      236.11,
+      526.15,
+      251.5
+    ],
+    "text": "The learned District Judge in his judgment delivered on 22108/1997 has",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.199999809265137,
+      11.063467979431152,
+      11.194599151611328,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      129.86,
+      262.28,
+      526.06,
+      277.67
+    ],
+    "text": "not specifically answered the issues one by one in the order they were raised",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.063467979431152,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      130.11,
+      288.43,
+      468.08,
+      303.82
+    ],
+    "text": "but has referred to all the matters raised as issues in his judgment.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.063467979431152,
+      11.159476280212402,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164.65,
+      355.87,
+      526.04,
+      371.26
+    ],
+    "text": "Section 147 of the Civil Procedure Code refers to framing of issues and",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.0,
+      11.163440704345703,
+      11.199999809265137,
+      11.713813781738281
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      130.22,
+      382.03,
+      527.54,
+      397.42
+    ],
+    "text": "states that issues on law may be taken up first and disposed of in the instant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.158974647521973,
+      11.168405532836914,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      130.41,
+      408.19,
+      527.09,
+      423.58
+    ],
+    "text": "case the issue on law had been taken up first and proceeded to trial on the rest",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.163440704345703,
+      11.168405532836914,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      130.45,
+      434.35,
+      199.6,
+      449.74
+    ],
+    "text": "of the issues.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164.98,
+      501.56,
+      528.1,
+      516.95
+    ],
+    "text": "Sec. 187 of the Civil Procedure Code states the requisites of a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.199999809265137,
+      11.201899528503418,
+      11.26953411102295,
+      11.305651664733887,
+      11.349748611450195,
+      11.579955101013184,
+      11.846207618713379
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      130.24,
+      527.96,
+      188.04,
+      543.35
+    ],
+    "text": "judgment.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.245955467224121
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200.5,
+      562.09,
+      527.55,
+      578.09
+    ],
+    "text": "liThe Judgment shall contain a concise statement of the case,",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.02453327178955,
+      13.100000381469727,
+      13.283071517944336,
+      13.95781421661377
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200.24,
+      591.13,
+      528.79,
+      607.13
+    ],
+    "text": "the points for determination, the decision thereon, and the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.125925064086914,
+      13.175581932067871,
+      13.186315536499023
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200.07,
+      619.93,
+      528.98,
+      635.93
+    ],
+    "text": "reasons for such decision; and the opinions of the assessors",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.125925064086914,
+      13.175581932067871,
+      13.261059761047363,
+      14.096684455871582
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200.12,
+      648.73,
+      528.78,
+      664.73
+    ],
+    "text": "(if any) shall be prefixed to the judgment and signed by such",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.215144157409668,
+      13.247173309326172,
+      13.335336685180664,
+      13.510566711425781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200.31,
+      677.29,
+      332.54,
+      693.28
+    ],
+    "text": "assessors respectively\".",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      327.0,
+      734.0,
+      334.12,
+      746.67
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      596.6,
+      77.5,
+      601.33,
+      116.37
+    ],
+    "text": "ft",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      17.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      595.74,
+      132.54,
+      603.72,
+      243.42
+    ],
+    "text": "IiI lr",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863,
+      15.899999618530273,
+      16.299999237060547,
+      28.299999237060547,
+      29.899999618530273,
+      33.20009994506836
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      595.71,
+      281.03,
+      602.66,
+      315.38
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      25.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      596.11,
+      316.8,
+      601.45,
+      356.13
+    ],
+    "text": "tI",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      18.0,
+      19.20009994506836
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      596.01,
+      350.64,
+      601.8,
+      401.01
+    ],
+    "text": "~Il",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.553679943084717,
+      20.70009994506836,
+      20.799999237060547
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      596.08,
+      465.08,
+      601.41,
+      483.36
+    ],
+    "text": "J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      163.43,
+      98.22,
+      525.67,
+      113.47
+    ],
+    "text": "No where does it say that the issues have to be answered by saying",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.061081886291504,
+      11.07046127319336,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.97,
+      124.15,
+      440.43,
+      139.4
+    ],
+    "text": "\"yes\" or \"no\" or in the numbered form they have been framed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.01396656036377,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162.89,
+      191.59,
+      526.15,
+      206.84
+    ],
+    "text": "In Warnakula vs Ramani Jayawardena 1990 (1) SLR 206 it was held.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.18189811706543,
+      11.30029296875,
+      11.89045524597168
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      197.43,
+      226.14,
+      525.99,
+      242.38
+    ],
+    "text": "\"Bare answers to issues without reasons are not in",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.966574668884277,
+      13.300000190734863,
+      13.35224723815918
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      197.42,
+      251.27,
+      525.68,
+      271.95
+    ],
+    "text": "compliance with the requirements 0/ section 187 o/the Civil",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.876303672790527,
+      13.149396896362305,
+      13.300000190734863,
+      13.646291732788086,
+      15.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      197.38,
+      283.74,
+      527.45,
+      299.98
+    ],
+    "text": "Procedure Code. The evidence germane to each issue must",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.000426292419434,
+      13.300000190734863,
+      13.419661521911621
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      197.18,
+      311.54,
+      527.19,
+      329.15
+    ],
+    "text": "be reviewed or examined. The judge must evaluate and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.315640449523926,
+      13.595125198364258,
+      13.95164966583252
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      197.18,
+      337.91,
+      403.51,
+      358.59
+    ],
+    "text": "consider the totality 0/ the evidence\".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      15.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162.89,
+      411.18,
+      526.03,
+      426.43
+    ],
+    "text": "Therefore failure to answer the issues in the numbered order does not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.17,
+      437.35,
+      375.59,
+      452.6
+    ],
+    "text": "make it an error on the part of the District Judge.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.004388809204102,
+      11.016939163208008,
+      11.100000381469727,
+      11.118734359741211
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      162.89,
+      504.79,
+      525.6,
+      520.04
+    ],
+    "text": "The learned District Judge has analysed the evidence given before him",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.15,
+      530.95,
+      525.46,
+      546.21
+    ],
+    "text": "by the plaintiff and the defendant and come to his findings on the issues framed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.004388809204102,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.4,
+      557.1,
+      526.14,
+      572.35
+    ],
+    "text": "before him. He has analysed the agreement entered into by the parties. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.27,
+      583.26,
+      526.38,
+      598.51
+    ],
+    "text": "defendant has admitted the agreement in evidence and also the terms",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.840465545654297,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.24,
+      609.42,
+      526.0,
+      624.67
+    ],
+    "text": "contained in it but he had failed to prove in the District Court that he paid any",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.01396656036377,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.62,
+      635.58,
+      526.65,
+      650.83
+    ],
+    "text": "money other than the initial payment to the plaintiff. The learned District Judge",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      129.86,
+      661.26,
+      484.51,
+      676.52
+    ],
+    "text": "has carefully analysed all these facts and evidence placed before him.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      324.38,
+      734.45,
+      331.36,
+      746.85
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      595.81,
+      541.46,
+      599.34,
+      558.91
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      593.64,
+      726.02,
+      604.45,
+      821.63
+    ],
+    "text": "III",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      26.0,
+      28.0,
+      38.90010070800781
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      594.04,
+      804.07,
+      603.27,
+      849.69
+    ],
+    "text": "t I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.400100231170654,
+      33.20009994506836
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.21,
+      64.86,
+      524.59,
+      80.11
+    ],
+    "text": "The instant case had been filed 24 years ago and as stated in Jayasena",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.01396656036377,
+      11.083538055419922,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      127.4,
+      91.02,
+      523.88,
+      106.27
+    ],
+    "text": "vs Oayasena 2002 3 SLR 261 to remit this case to the District Court after 24",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.886802673339844,
+      11.0142183303833,
+      11.023083686828613,
+      11.100000381469727,
+      11.30029296875
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      127.39,
+      117.19,
+      524.58,
+      132.44
+    ],
+    "text": "years to answer the issues will be an unfruitful exercise when the appellants",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.061081886291504,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      127.55,
+      143.58,
+      523.85,
+      158.83
+    ],
+    "text": "can not succeed in the original court. The plaintiff in the District Court who had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.840465545654297,
+      11.01396656036377,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      127.57,
+      169.51,
+      325.84,
+      184.76
+    ],
+    "text": "given evidence is no more in the living.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.01396656036377,
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      161.97,
+      237.19,
+      524.66,
+      252.44
+    ],
+    "text": "For the afore stated reasons I dismiss the appeal with costs fixed at",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      128.14,
+      263.83,
+      195.12,
+      279.08
+    ],
+    "text": "RS.25,000/=",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      299.43,
+      353.57,
+      514.63,
+      370.06
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      128.87,
+      376.31,
+      233.22,
+      393.65
+    ],
+    "text": "M.M.A. Gaffoor J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.203032493591309,
+      13.538833618164062
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      197.18,
+      422.26,
+      238.35,
+      439.3
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      300.39,
+      490.85,
+      515.83,
+      507.34
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      595.78,
+      703.98,
+      602.06,
+      734.58
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      22.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      325.75,
+      706.96,
+      608.12,
+      794.49
+    ],
+    "text": "8 l",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5,
+      63.70009994506836
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      595.48,
+      774.05,
+      599.04,
+      782.18
+    ],
+    "text": "!",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.099999904632568
+    ]
+  }
+]
