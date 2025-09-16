@@ -1,0 +1,92 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      124.58,
+      72.35,
+      493.42,
+      85.63
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      86.17,
+      384.55,
+      204.18
+    ],
+    "text": "REPUBLIC OF SRI LANKA Court of Appeal No CA/MC-RV / 16/2015",
+    "fonts": [
+      "Times",
+      "Times New Roman,Bold",
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      204.71,
+      460.54,
+      233.6
+    ],
+    "text": "Waduduruge Rupalathara",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.479999542236328,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      234.18,
+      539.62,
+      573.01
+    ],
+    "text": "Petitioner Vs. 1. Hon. Attorney General, Attorney General's Department, Colombo 12 2. The Commissioner General of Prisons Prison Headquarters, Baseline Road, Colombo 9. 3. The Superintendent Mahara Prison, Ragama 4. Hon. Wijedasa Rajapakshe Ministry of Justice, Hultsfort, Ministry of Justice, Colombo 12.",
+    "fonts": [
+      "Times",
+      "Times,Bold"
+    ],
+    "sizes": [
+      12.0,
+      12.479999542236328,
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      585.74,
+      466.64,
+      599.62
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Calibri",
+      "Times,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.479999542236328
+    ]
+  }
+]

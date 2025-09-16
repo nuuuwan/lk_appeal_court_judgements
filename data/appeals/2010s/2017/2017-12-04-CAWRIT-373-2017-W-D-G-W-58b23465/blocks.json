@@ -1,0 +1,4576 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      138.4,
+      67.46,
+      468.34,
+      86.85
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.657767295837402,
+      13.673697471618652,
+      13.718724250793457,
+      13.905782699584961,
+      13.9468994140625,
+      13.95091438293457
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.05,
+      86.34,
+      427.18,
+      103.93
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      508.49,
+      33.97,
+      516.58,
+      47.3
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.9,
+      109.6,
+      516.26,
+      161.7
+    ],
+    "text": "In the matter of an application for Orders in the nature of Writs of Certiorari, Mandamus and Prohibition under Article",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.239473342895508,
+      13.371246337890625,
+      13.501687049865723
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.21,
+      162.89,
+      515.86,
+      197.21
+    ],
+    "text": "140 of the Constitution of the Democratic Socialist Republic of Sri Lanka.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.371246337890625
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      117.47,
+      203.35,
+      324.74,
+      220.27
+    ],
+    "text": "C.A. (Writ) Application No. 373/2017",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.8,
+      239.68,
+      512.54,
+      323.7
+    ],
+    "text": "1. Warusamana Dewage Gedara Wijerathne alias Wadugedara Wijerathne 885, William Gopallawa Mawatha, Kandy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.068855285644531,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      304.97,
+      342.64,
+      493.28,
+      393.77
+    ],
+    "text": "2. Thotage Sirisena Fernando, 62/5/A, Alwis Place, Kotahena, Colombo 03.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      304.65,
+      411.76,
+      493.51,
+      479.94
+    ],
+    "text": "3. Rajapakshage Keerthi Mahinda Karunathilake Kumara, Temple Road, Kewitiya, HalmiIlawewa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      304.27,
+      498.64,
+      506.89,
+      549.77
+    ],
+    "text": "4. Dilantha Kanishka Ariyarathne, \"Subhasiri Niwasa\", Enasalbedda, Pattiyagedara, Bandarawela.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.473464965820312,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.91,
+      567.76,
+      471.54,
+      618.17
+    ],
+    "text": "5. J anaka Kumara Rajapaksha Senadheera, No P-70, Udawalawa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.468564987182617,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.2,
+      636.16,
+      459.13,
+      652.97
+    ],
+    "text": "6. Piladuwa Hewage Yohan",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.34,
+      652.48,
+      445.72,
+      685.62
+    ],
+    "text": "Dhanushka, 51 Handiya, Deniyaya.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.091228485107422,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      448.47,
+      704.09,
+      512.9,
+      721.68
+    ],
+    "text": "Petitioners",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.61,
+      67.39,
+      335.15,
+      84.47
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298.4,
+      102.67,
+      486.0,
+      207.6
+    ],
+    "text": "1. Faizer Musthapha, Minister of Provincial Councils and Local Government, No 330, Dr. Colvin R. de Silva Mawatha (Union Place), Colombo 02.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.164262771606445,
+      12.681450843811035,
+      12.800000190734863,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.04,
+      225.8,
+      486.47,
+      348.47
+    ],
+    "text": "2. H. T. Kamal Pathmasiri, Secretary, Ministry of Provincial Councils and Local Government, No 330, Dr. Colvin R. de Silva Mawatha (Union Place), Colombo 02",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.750855445861816,
+      12.77843189239502,
+      12.78183650970459,
+      12.800000190734863,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      499.14,
+      31.93,
+      507.17,
+      46.21
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      431.21,
+      367.28,
+      506.44,
+      385.0
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.92,
+      390.79,
+      148.54,
+      408.52
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.37,
+      465.91,
+      156.88,
+      483.64
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176.8,
+      390.44,
+      340.02,
+      407.52
+    ],
+    "text": ": L.T.B. Dehideniya J. (PICA)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176.8,
+      413.23,
+      313.04,
+      430.31
+    ],
+    "text": ": K.K.Wickramasinghe J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.642227172851562,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176.8,
+      436.52,
+      297.2,
+      453.6
+    ],
+    "text": ": Shiran Gooneratne J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.642227172851562,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.52,
+      465.56,
+      490.28,
+      482.64
+    ],
+    "text": ": N.M.Shaheed with Nishani Godellawatta Mohamed Rafi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184.91,
+      488.84,
+      349.15,
+      505.92
+    ],
+    "text": "and Shihan for the Petitioners.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176.55,
+      512.13,
+      484.79,
+      529.2
+    ],
+    "text": ": Arjuna Obeysekara SDSG with Nirmalan Wigneswaran",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184.66,
+      534.91,
+      450.97,
+      551.99
+    ],
+    "text": "and Dr. Avanthi Perera SSC for the Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.01,
+      569.47,
+      332.16,
+      587.31
+    ],
+    "text": "Argued on : 15.11.2017 and 16.11.2017",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.99,
+      592.52,
+      249.1,
+      610.37
+    ],
+    "text": "Decided on : 22.11.2017",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.97,
+      650.26,
+      271.18,
+      668.26
+    ],
+    "text": "L.T.B. Dehideniya J. (PICA)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.800000190734863,
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.77,
+      677.95,
+      506.05,
+      695.03
+    ],
+    "text": "The petitioners are seeking to quash the Gazette notification issued",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.57,
+      700.27,
+      505.73,
+      717.35
+    ],
+    "text": "by the 1 st Respondent, the Minister of Local government dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      12.800000190734863,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      504.37,
+      33.36,
+      511.72,
+      46.43
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.5,
+      67.6,
+      512.0,
+      85.34
+    ],
+    "text": "17.02.2017 No. 2006/44 marked P3 on the basis that it is ultra vires. The",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.889102935791016,
+      12.970160484313965,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.71,
+      90.63,
+      512.81,
+      108.37
+    ],
+    "text": "Petitioners contention is that the Minister appointed committee under",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.285792350769043,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.58,
+      113.91,
+      511.57,
+      131.66
+    ],
+    "text": "section 3D of the Local Authorities Elections (Amendment) Act No. 22",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.223127365112305,
+      13.240216255187988,
+      13.245438575744629,
+      13.300000190734863,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.62,
+      137.19,
+      511.97,
+      154.93
+    ],
+    "text": "of 2012 has no authority to recommend to the Minister to alter the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.263249397277832,
+      13.300000190734863,
+      13.602265357971191
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.25,
+      160.23,
+      511.73,
+      177.98
+    ],
+    "text": "number of members for each ward of the Local Authority and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.465569496154785,
+      13.602265357971191
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.2,
+      183.27,
+      514.65,
+      201.01
+    ],
+    "text": "Minister has no power to issue such Gazette emending the number of",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.648164749145508,
+      12.699999809265137,
+      13.300000190734863,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.25,
+      206.07,
+      282.53,
+      223.81
+    ],
+    "text": "members allotted to each ward.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146.99,
+      235.35,
+      511.63,
+      253.1
+    ],
+    "text": "The Attorney General first appeared on notice as amicus curiae and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.215079307556152,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.17,
+      257.77,
+      511.6,
+      276.14
+    ],
+    "text": "later representing the 1 st and 2nd Respondents raised several preliminary",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      8.269108772277832,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.92,
+      281.91,
+      511.5,
+      299.66
+    ],
+    "text": "objections. Firstly delay, secondly not naming the relevant parties i.e. the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.20198917388916,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.72,
+      304.95,
+      511.39,
+      322.69
+    ],
+    "text": "Election Commission, thirdly misrepresentation of material facts and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.89,
+      327.99,
+      510.89,
+      345.74
+    ],
+    "text": "fourthly on locus standi. He further submitted that the alteration of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.299700736999512,
+      13.300000190734863,
+      13.602265357971191
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.53,
+      351.03,
+      510.9,
+      368.78
+    ],
+    "text": "number of the members for each ward is an incidental matter to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.285792350769043,
+      13.300000190734863,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.66,
+      374.31,
+      511.45,
+      392.06
+    ],
+    "text": "alteration to the boundaries of the wards where the wards become larger",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.602265357971191
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.45,
+      397.59,
+      510.62,
+      415.34
+    ],
+    "text": "or smaller with the alteration of the boundaries and sometimes new wards",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.07,
+      420.87,
+      510.54,
+      438.62
+    ],
+    "text": "have been created and therefore the alteration of the number of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.602265357971191,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111.81,
+      443.91,
+      510.23,
+      461.65
+    ],
+    "text": "members allocated to each ward is an incidental matter to the alteration to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.285792350769043,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111.57,
+      466.94,
+      510.58,
+      484.69
+    ],
+    "text": "the boundaries. His contention is the power to alter the boundaries",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0889253616333,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111.96,
+      489.99,
+      510.75,
+      507.74
+    ],
+    "text": "includes the power to alter the number of members allocated for each",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111.34,
+      513.03,
+      510.14,
+      530.78
+    ],
+    "text": "ward. Further he submits that the alteration of the number of members",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.286442756652832,
+      13.300000190734863,
+      13.602265357971191,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111.69,
+      536.55,
+      510.06,
+      554.29
+    ],
+    "text": "allocated to wards is done only in about 2.5% of the wards out of more",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.285792350769043,
+      13.300000190734863,
+      13.602265357971191,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111.33,
+      559.34,
+      205.37,
+      577.09
+    ],
+    "text": "than 4000 wards.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145.91,
+      588.14,
+      509.8,
+      605.88
+    ],
+    "text": "Several parties moved to intervene in to this application on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111.36,
+      610.94,
+      509.85,
+      628.68
+    ],
+    "text": "basis that they are affected parties. They are political parties, civil rights",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      111.11,
+      633.73,
+      313.57,
+      651.47
+    ],
+    "text": "movements, and intended candidates.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      145.12,
+      662.77,
+      509.43,
+      680.53
+    ],
+    "text": "The Local Authorities Election (Amendment) Act No. 22 of 2012",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.117446899414062,
+      13.300000190734863,
+      13.871665000915527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110.62,
+      685.36,
+      509.75,
+      703.1
+    ],
+    "text": "has introduced a new Part named as Part 1 to the Principle Act, the Local",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.215079307556152,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110.62,
+      707.9,
+      509.51,
+      725.65
+    ],
+    "text": "Authorities Election Ordinance last amended by Act No. 14 of 2002",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.957181930541992,
+      13.300000190734863,
+      13.871665000915527
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      498.68,
+      35.06,
+      506.18,
+      48.4
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.57,
+      68.84,
+      507.11,
+      85.92
+    ],
+    "text": "(hereinafter sometimes called and referred to as the Ordinance)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.58,
+      92.59,
+      434.97,
+      109.67
+    ],
+    "text": "facilitating re demarcation of the wards in Local Authorities.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      142.53,
+      121.16,
+      506.2,
+      138.24
+    ],
+    "text": "Under section 3A of the Ordinance the Minister was empowered to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.36,
+      144.43,
+      506.38,
+      161.51
+    ],
+    "text": "establish a National Delimitation Committee. (National Committee) The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.06,
+      167.73,
+      506.03,
+      184.8
+    ],
+    "text": "section 3B mandated the National Committee to make the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.99,
+      190.75,
+      506.44,
+      207.83
+    ],
+    "text": "recommendations to the Minister for the division of each local authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.88,
+      214.03,
+      506.28,
+      231.11
+    ],
+    "text": "area into wards, determine the boundaries, and assign a name and a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.75,
+      237.32,
+      506.11,
+      254.39
+    ],
+    "text": "number to each ward. Subsection (2) provides the requirements that have",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.73,
+      260.36,
+      505.12,
+      277.43
+    ],
+    "text": "to be taken into consideration by the National Committee in doing so.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.98,
+      283.41,
+      505.45,
+      300.49
+    ],
+    "text": "Subsection (3) mandates that the National Committee with the power to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.5,
+      306.43,
+      505.91,
+      323.51
+    ],
+    "text": "recommend the creation of a multi member ward or wards for any local",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.608421325683594
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.63,
+      330.2,
+      505.96,
+      347.28
+    ],
+    "text": "authority area. Under subsection (5) the National Committee is required",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.23,
+      352.99,
+      430.68,
+      370.06
+    ],
+    "text": "to submit the report on its recommendations to the Minister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.47,
+      381.8,
+      505.23,
+      398.87
+    ],
+    "text": "The subsection 3C (1) makes it mandatory for the Minister to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.11,
+      405.08,
+      505.47,
+      422.16
+    ],
+    "text": "submit the report to the President forthwith. Thereafter subsection (2)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.0,
+      427.88,
+      505.16,
+      444.96
+    ],
+    "text": "makes it an obligation of the President to publish an order in the Gazette",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106.94,
+      451.4,
+      166.51,
+      468.47
+    ],
+    "text": "indicating;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      167.43,
+      480.2,
+      308.94,
+      497.28
+    ],
+    "text": "I. Number of wards,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.70005989074707,
+      12.800000190734863,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      163.11,
+      503.48,
+      298.53,
+      520.56
+    ],
+    "text": "II. The boundaries,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158.31,
+      526.52,
+      252.36,
+      543.6
+    ],
+    "text": "III. Names,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      157.6,
+      549.55,
+      259.09,
+      566.63
+    ],
+    "text": "IV. Number,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.21,
+      572.83,
+      504.22,
+      589.91
+    ],
+    "text": "V. Alphabetical letter in English assigned to each ward,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.719748497009277,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106.7,
+      595.63,
+      286.29,
+      612.71
+    ],
+    "text": "in respect of each local authority.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.3,
+      624.43,
+      504.51,
+      641.51
+    ],
+    "text": "If the National Committee has recommended the creation of multi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.476948738098145,
+      13.724419593811035
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.81,
+      647.71,
+      504.11,
+      664.79
+    ],
+    "text": "member wards, then the President has to publish in the same Gazette the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106.18,
+      670.04,
+      222.15,
+      687.11
+    ],
+    "text": "following details too.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      168.63,
+      698.36,
+      267.35,
+      715.44
+    ],
+    "text": "I. The name,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      589.11,
+      -44.74,
+      603.59,
+      26.85
+    ],
+    "text": ",",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      52.099998474121094
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      589.94,
+      25.77,
+      600.36,
+      55.31
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.0,
+      18.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      589.07,
+      115.33,
+      600.69,
+      152.65
+    ],
+    "text": "l I i",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      6.500100135803223,
+      13.300000190734863,
+      21.299999237060547
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      587.29,
+      157.9,
+      599.13,
+      287.18
+    ],
+    "text": "f ! I! t f r i",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.100000381469727,
+      10.5,
+      11.699999809265137,
+      14.600000381469727,
+      16.20009994506836,
+      17.399999618530273,
+      42.599998474121094
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      587.35,
+      291.01,
+      600.36,
+      358.24
+    ],
+    "text": "f I l f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.300000190734863,
+      16.399999618530273,
+      16.600000381469727,
+      23.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      499.3,
+      32.42,
+      506.8,
+      45.76
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      167.43,
+      66.73,
+      507.34,
+      84.34
+    ],
+    "text": "II. The number or the alphabetical letter assigned to each",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.97,
+      89.78,
+      347.93,
+      107.39
+    ],
+    "text": "such multi member ward",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      162.86,
+      113.05,
+      442.5,
+      130.66
+    ],
+    "text": "III. The name of the respective local authority,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      162.16,
+      136.34,
+      507.65,
+      153.95
+    ],
+    "text": "IV. The total number of members to be elected to each",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.65,
+      159.61,
+      322.71,
+      177.22
+    ],
+    "text": "multi member ward.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143.27,
+      188.41,
+      506.59,
+      206.02
+    ],
+    "text": "Section 3D (1) of the Amendment Act grants the authority to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.88,
+      211.46,
+      507.69,
+      229.07
+    ],
+    "text": "Minister to cause alterations to the boundaries of the wards in the order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.48,
+      234.73,
+      506.68,
+      252.34
+    ],
+    "text": "published in the Gazette under section 3C. These alterations can be made",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.107978820800781,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.59,
+      257.78,
+      506.46,
+      275.39
+    ],
+    "text": "only on the recommendation of a committee that has to be appointed by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.131170272827148,
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.45,
+      280.81,
+      507.11,
+      298.42
+    ],
+    "text": "the Minister under that subsection. The requirements that have to be taken",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.1,
+      304.1,
+      506.21,
+      321.7
+    ],
+    "text": "into consideration by this committee in making their recommendation to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.58,
+      327.38,
+      507.12,
+      344.99
+    ],
+    "text": "alter the boundaries are the same as the requirements that had to be taken",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.165304183959961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.85,
+      350.65,
+      506.64,
+      368.26
+    ],
+    "text": "into consideration by the National Committee. Subsection (2) requires the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.6,
+      373.45,
+      506.58,
+      391.06
+    ],
+    "text": "alterations recommended by the committee to be published in the Gazette",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.49,
+      396.49,
+      507.26,
+      414.1
+    ],
+    "text": "by the Minister. The only alterations that can be made under this section",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.131170272827148,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.34,
+      420.02,
+      272.0,
+      437.63
+    ],
+    "text": "are specified as alterations on;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.165304183959961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      168.61,
+      449.05,
+      277.93,
+      466.66
+    ],
+    "text": "I. Boundaries,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.53635025024414,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      164.55,
+      472.08,
+      253.94,
+      489.69
+    ],
+    "text": "II. Names,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      159.99,
+      495.13,
+      387.69,
+      512.75
+    ],
+    "text": "III. Numbers or letters of each ward.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142.06,
+      523.7,
+      506.79,
+      541.31
+    ],
+    "text": "Under sections 3A to 3C the National Committee was empowered",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.1807861328125,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.71,
+      546.73,
+      505.9,
+      564.34
+    ],
+    "text": "to make recommendations in creation of multi member wards and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.414851188659668
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.7,
+      569.76,
+      505.93,
+      587.38
+    ],
+    "text": "President has to publish an order in the Gazette to that effect. The",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.69,
+      593.29,
+      506.01,
+      610.9
+    ],
+    "text": "Legislature, in its wisdom, has taken away the power of creating multi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.72,
+      616.09,
+      505.79,
+      633.7
+    ],
+    "text": "member wards/changing multi member wards into single member wards",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.86,
+      639.12,
+      506.54,
+      656.73
+    ],
+    "text": "from the Minister. The committee appointed by the Minister under",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.82,
+      661.69,
+      505.41,
+      679.31
+    ],
+    "text": "section 3D (1) is not empowered to make any such recommendations too.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.03962516784668,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.5,
+      684.25,
+      505.73,
+      701.85
+    ],
+    "text": "Any recommendation made exceeding the power or authority granted to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      591.31,
+      -1.8,
+      602.08,
+      25.41
+    ],
+    "text": "t",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      20.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      589.06,
+      31.26,
+      605.71,
+      316.74
+    ],
+    "text": "f t t i Ii I 1 i f ! i i I f I 1 ! t",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.099999904632568,
+      8.100000381469727,
+      10.399999618530273,
+      11.100000381469727,
+      11.5,
+      11.800000190734863,
+      12.399999618530273,
+      12.800000190734863,
+      13.600000381469727,
+      14.800000190734863,
+      14.899999618530273,
+      15.300000190734863,
+      16.70009994506836,
+      17.600000381469727,
+      17.70009994506836,
+      17.899999618530273,
+      23.399999618530273,
+      28.299999237060547,
+      29.899999618530273,
+      44.90010070800781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      589.68,
+      312.23,
+      594.0,
+      323.03
+    ],
+    "text": "~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.320000171661377
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      588.61,
+      321.12,
+      600.34,
+      402.3
+    ],
+    "text": "~ f I I I [ I",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.2256646156311035,
+      8.100000381469727,
+      10.899999618530273,
+      12.199999809265137,
+      17.20009994506836,
+      20.20009994506836,
+      21.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      587.14,
+      421.73,
+      600.48,
+      497.46
+    ],
+    "text": "r I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.70009994506836,
+      48.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      587.5,
+      483.83,
+      602.4,
+      584.11
+    ],
+    "text": "f i i I i I t j,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.006473541259766,
+      9.100000381469727,
+      11.100000381469727,
+      12.800000190734863,
+      13.399999618530273,
+      15.300000190734863,
+      22.399999618530273,
+      26.799999237060547
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      586.13,
+      583.37,
+      612.15,
+      721.44
+    ],
+    "text": "! r i !I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.900100231170654,
+      11.0,
+      41.40010070800781,
+      49.79999923706055,
+      51.29999923706055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      586.46,
+      710.07,
+      596.64,
+      814.24
+    ],
+    "text": "t , i l ! I ! } f I J",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      5.199999809265137,
+      6.0,
+      6.500100135803223,
+      7.199999809265137,
+      12.600000381469727,
+      13.399999618530273,
+      15.899999618530273,
+      16.899999618530273,
+      17.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      497.63,
+      31.66,
+      505.51,
+      45.67
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      107.01,
+      65.43,
+      505.06,
+      83.17
+    ],
+    "text": "the committee appointed under section 3D or any publication made on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.255927085876465,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      107.09,
+      88.96,
+      299.45,
+      106.7
+    ],
+    "text": "such recommendation is ultra vires.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.889102935791016,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      141.23,
+      117.51,
+      504.89,
+      135.26
+    ],
+    "text": "The learned DSG for the Respondents submitted, referring to Wade",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      107.17,
+      141.03,
+      504.64,
+      158.77
+    ],
+    "text": "and Forsyth on Administrative Law, Tenth Edition page 179 where it is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.889102935791016,
+      13.091668128967285,
+      13.27447509765625,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      107.09,
+      164.08,
+      505.95,
+      181.82
+    ],
+    "text": "stated that, \"A statutory power will be construed as impliedly authorizing",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.68,
+      188.8,
+      504.28,
+      204.92
+    ],
+    "text": "everything which can fairly be regarded as incidental or consequential to",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.95752239227295,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.88,
+      210.4,
+      504.78,
+      228.14
+    ],
+    "text": "the power itself; and this doctrine is not applied narrowly\" and argues",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.53,
+      233.67,
+      505.16,
+      251.41
+    ],
+    "text": "that changing a multi member ward into a single member ware and vise",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.53,
+      256.72,
+      504.72,
+      274.46
+    ],
+    "text": "versa is incidental to the alteration of the boundaries. He further submits",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0889253616333,
+      13.299700736999512,
+      13.300000190734863,
+      13.871665000915527
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.29,
+      279.99,
+      505.34,
+      297.73
+    ],
+    "text": "that with the alteration of the boundaries, new wards have been created",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.41,
+      303.02,
+      504.24,
+      320.77
+    ],
+    "text": "and unless the number of members allocated to each ward is changed,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0889253616333,
+      13.300000190734863,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.29,
+      326.3,
+      410.04,
+      344.05
+    ],
+    "text": "there is no way to allocate a member to such new wards.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.889102935791016,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      140.52,
+      354.87,
+      504.41,
+      372.62
+    ],
+    "text": "The Legislature has clearly indicated its intention In the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.375919342041016,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.05,
+      378.15,
+      507.12,
+      395.89
+    ],
+    "text": "Amendment Act. The section 3B (3) has given the power or authority of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.602265357971191
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.43,
+      401.43,
+      504.54,
+      419.17
+    ],
+    "text": "creating wards in the local authority area to the National Committee. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.262898445129395,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.89,
+      424.47,
+      503.99,
+      442.22
+    ],
+    "text": "National Committee was further entrusted with the authority to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.05,
+      447.75,
+      504.56,
+      465.49
+    ],
+    "text": "recommend creating multi member wards. The Legislature has purposely",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.8,
+      470.8,
+      504.65,
+      488.54
+    ],
+    "text": "taken away that power from the Minister appointed committee under",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.89,
+      493.83,
+      503.49,
+      511.58
+    ],
+    "text": "section 3D. That committee was entrusted only with the power to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.79,
+      517.11,
+      503.69,
+      534.85
+    ],
+    "text": "recommend the alteration of boundaries, names, and the number or the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.97,
+      540.14,
+      503.8,
+      557.89
+    ],
+    "text": "letter of a ward. Therefore the Minister or the committee appointed by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.602265357971191
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.52,
+      563.19,
+      503.93,
+      580.94
+    ],
+    "text": "Minister under section 3D, cannot acquire an authority or power which",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.55,
+      586.23,
+      504.34,
+      603.97
+    ],
+    "text": "has been kept away from it by the Legislature, on the pretext of it being",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.73,
+      609.02,
+      506.4,
+      626.77
+    ],
+    "text": "incidental to alteration of boundaries. It goes beyond the alteration of",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.264692306518555,
+      13.300000190734863,
+      13.602265357971191,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.37,
+      632.55,
+      503.5,
+      650.29
+    ],
+    "text": "boundaries. Creating new wards and altering the number of members",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.737648963928223
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.46,
+      655.12,
+      503.21,
+      672.86
+    ],
+    "text": "allocated to wards are matters that are not within the purview of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.602265357971191
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      105.29,
+      677.66,
+      503.34,
+      695.41
+    ],
+    "text": "Minister or Minister appointed committee under section 3D. It is the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0889253616333,
+      13.264692306518555,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      104.89,
+      700.22,
+      503.68,
+      717.96
+    ],
+    "text": "power given to the National Committee and only the National Committee",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      586.39,
+      -5.41,
+      603.73,
+      208.5
+    ],
+    "text": "j ! r f II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.699999809265137,
+      16.0,
+      18.5,
+      27.799999237060547,
+      48.599998474121094,
+      57.599998474121094
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      587.96,
+      189.26,
+      597.19,
+      212.07
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      496.69,
+      31.95,
+      504.19,
+      45.29
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.67,
+      65.78,
+      504.46,
+      83.39
+    ],
+    "text": "can make recommendations to that effect. Publishing an order on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.54,
+      88.81,
+      504.25,
+      106.42
+    ],
+    "text": "recommendations of the National Committee is vested with the President.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.68,
+      112.1,
+      504.81,
+      129.7
+    ],
+    "text": "The Minister was given a very limited power or mandate in changing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.77,
+      135.37,
+      390.89,
+      152.98
+    ],
+    "text": "Gazette published by the President under section 3C.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.76,
+      163.94,
+      504.32,
+      181.54
+    ],
+    "text": "The Minister or the committee appointed by the Minister derives",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.66,
+      187.46,
+      504.33,
+      205.08
+    ],
+    "text": "authority to alter the boundaries from the statue and therefore the words",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.248112678527832
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.66,
+      210.49,
+      504.21,
+      228.1
+    ],
+    "text": "of the statue that are giving the authority controls the function of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.5,
+      234.03,
+      157.21,
+      251.63
+    ],
+    "text": "Minister.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.53,
+      262.58,
+      503.92,
+      280.2
+    ],
+    "text": "The Minister III publishing the Gazette marked P3 stated as",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.941469192504883,
+      13.042662620544434,
+      13.199999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.41,
+      285.85,
+      151.83,
+      303.46
+    ],
+    "text": "follows;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      141.98,
+      315.57,
+      505.11,
+      331.93
+    ],
+    "text": "\"BY virtue of powers vested in me, by section 3D of the Local",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.021760940551758,
+      13.320161819458008,
+      13.399999618530273,
+      13.457725524902344,
+      14.534061431884766,
+      14.670517921447754
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.0,
+      337.25,
+      504.01,
+      355.13
+    ],
+    "text": "authorities Elections Ordinance (Chapter 262), 1, ........... do by this",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.549447059631348,
+      12.199999809265137,
+      13.178316116333008,
+      13.373272895812988,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.98,
+      362.12,
+      501.55,
+      378.49
+    ],
+    "text": "order amend the orders published in the Gazatte Extra Ordinary No.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.941609382629395,
+      13.308789253234863,
+      13.320161819458008,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.56,
+      384.83,
+      508.36,
+      401.31
+    ],
+    "text": "1928126 of 2Ft August 2015 by amending boundaries, number of",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.36467170715332,
+      13.399999618530273,
+      13.5,
+      14.396310806274414,
+      14.670517921447754
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.02,
+      407.09,
+      389.68,
+      424.97
+    ],
+    "text": "members and constituent parts of wards ... ............ \"",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.125436782836914,
+      13.399999618530273,
+      14.670517921447754
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      140.29,
+      435.86,
+      504.23,
+      453.47
+    ],
+    "text": "The Minister acted under section 3D of the Ordinance and altered",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.173322677612305,
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.81,
+      458.89,
+      504.38,
+      476.51
+    ],
+    "text": "the number of the members allocated to wards by the President under",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.08908462524414,
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.67,
+      482.41,
+      273.07,
+      500.02
+    ],
+    "text": "section 3C which is ultra vires.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      139.81,
+      511.21,
+      503.25,
+      528.82
+    ],
+    "text": "The learned DSG raised several preliminary objections. One of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.65,
+      534.49,
+      503.62,
+      552.1
+    ],
+    "text": "said objections is delay. The impugned Gazette was published on",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.34,
+      557.53,
+      503.57,
+      575.14
+    ],
+    "text": "17.02.2017 and the application was filed on 10.11 2017. The Counsel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.133783340454102,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.66,
+      580.33,
+      503.0,
+      597.94
+    ],
+    "text": "submits that it is a delay and relies on several authorities of this Court as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.165304183959961,
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.1,
+      603.37,
+      503.37,
+      620.98
+    ],
+    "text": "well as of the Supreme Court. In an application for a prerogative writ the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.165304183959961,
+      13.199999809265137,
+      13.819416999816895
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.15,
+      626.17,
+      502.72,
+      643.78
+    ],
+    "text": "petitioners have to seek remedy expeditiously. But if the Gazette itself is",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.840556144714355,
+      13.199999809265137,
+      13.399999618530273,
+      13.492802619934082
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.46,
+      649.69,
+      503.76,
+      667.3
+    ],
+    "text": "a nullity, the delay will not make it valid. On the other hand the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.3,
+      672.26,
+      503.61,
+      689.87
+    ],
+    "text": "DSG submits that the Election Commission has issued a press release on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.22,
+      694.81,
+      503.64,
+      712.42
+    ],
+    "text": "01.11.2017 that the Minister had informed the Commission on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.11,
+      38.4,
+      504.46,
+      51.47
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      106.66,
+      71.77,
+      505.05,
+      89.38
+    ],
+    "text": "01.11.2017 that the Guzette indicating the number of members of the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      107.17,
+      95.06,
+      504.68,
+      112.67
+    ],
+    "text": "local authorities has been published. If the Election Commission was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.60925579071045
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      106.55,
+      118.09,
+      505.3,
+      135.7
+    ],
+    "text": "unaware of the Gazette until it was informed the Respondents cannot",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      106.67,
+      141.38,
+      307.51,
+      158.99
+    ],
+    "text": "complain that the Petitioners are late.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      140.53,
+      170.18,
+      505.26,
+      187.79
+    ],
+    "text": "The locus standi of the Petitioners is also challenged by the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.840556144714355,
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      106.5,
+      193.45,
+      504.82,
+      211.06
+    ],
+    "text": "DSG. The Petitioners are citizens of this country and are eligible voters in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      106.3,
+      216.74,
+      504.72,
+      234.34
+    ],
+    "text": "the local government elections. Conducting election on an invalid Gazette",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      106.45,
+      240.01,
+      504.45,
+      257.62
+    ],
+    "text": "is a matter that will affect the rights of any citizen. The learned DSG",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      106.41,
+      263.06,
+      504.85,
+      280.67
+    ],
+    "text": "further submits that the Petitioners have failed to name the Election",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      106.17,
+      286.09,
+      504.46,
+      303.7
+    ],
+    "text": "Commission as a party. The Election Commission has not yet called for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      106.04,
+      309.13,
+      504.76,
+      326.74
+    ],
+    "text": "nomination for the local authorities' election. The Commission had issued",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.93,
+      332.65,
+      504.78,
+      350.26
+    ],
+    "text": "a press release that it intends to do so. Until the Commission triggered",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.126997947692871,
+      13.153216361999512,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.95,
+      355.46,
+      504.33,
+      373.07
+    ],
+    "text": "off the election by calling for nominations, the intention of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.247314453125,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.7,
+      378.74,
+      507.21,
+      396.35
+    ],
+    "text": "Commission will not make them a necessary party. The non disclosure of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.57,
+      401.53,
+      506.27,
+      419.2
+    ],
+    "text": "the said press release cannot be considered as a misrepresentation. It",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.480392456054688
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.71,
+      424.81,
+      467.86,
+      442.42
+    ],
+    "text": "discloses only the intention of the Commission to hold the election.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139.81,
+      454.09,
+      504.46,
+      471.7
+    ],
+    "text": "The Petitioners have established a strong case with high probability",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.7,
+      477.13,
+      504.21,
+      494.8
+    ],
+    "text": "of winning. It is obvious that if the interim order is not granted, the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137,
+      13.480392456054688,
+      13.492802619934082,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.45,
+      500.42,
+      289.89,
+      518.02
+    ],
+    "text": "application will become nugatory.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139.17,
+      529.21,
+      503.62,
+      546.83
+    ],
+    "text": "Any order suspending the operation of the Gazette may delay the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.23,
+      552.24,
+      503.77,
+      569.85
+    ],
+    "text": "election process. The Court has to weigh such a delay with holding",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.23,
+      575.53,
+      503.4,
+      593.14
+    ],
+    "text": "election on a Gazette on the face of it is ultra vires and a nullity. The",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.840556144714355,
+      12.899999618530273,
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.21,
+      598.33,
+      503.21,
+      615.94
+    ],
+    "text": "entire election will be a nullity if it is held under an invalid Gazette.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.840556144714355,
+      12.899999618530273,
+      13.199999809265137,
+      13.673892974853516
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.01,
+      621.37,
+      503.37,
+      638.98
+    ],
+    "text": "Therefore the Court is cf the view that the balance of convenience lies in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.840556144714355,
+      13.199999809265137,
+      13.685906410217285,
+      14.15877914428711
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      104.97,
+      644.4,
+      240.16,
+      662.02
+    ],
+    "text": "favour of the Petitioners.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      138.32,
+      672.49,
+      503.54,
+      690.1
+    ],
+    "text": "It has been held in the case of Duwearatchi and another V. Vincent",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.91696548461914,
+      13.100586891174316,
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      104.82,
+      695.53,
+      335.19,
+      713.14
+    ],
+    "text": "Perera and others [1984] 2 Sri L R 94 that;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.10969066619873,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      499.33,
+      38.16,
+      506.68,
+      51.23
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      143.27,
+      73.11,
+      507.98,
+      88.62
+    ],
+    "text": "(1) An interim stay order in a writ application is an incidental",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.522053718566895,
+      12.699999809265137,
+      12.892687797546387
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.6,
+      96.16,
+      505.39,
+      111.67
+    ],
+    "text": "order made in the exercise of the inherent or implied powers of the Court.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.87829875946045,
+      14.149349212646484
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.18,
+      119.43,
+      407.19,
+      134.94
+    ],
+    "text": "The Court should be guided by the following principles",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      162.48,
+      142.48,
+      508.95,
+      165.36
+    ],
+    "text": "(i) Will the final order be rendered nugatory if the petitioner.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.310166358947754,
+      12.699999809265137,
+      12.738192558288574,
+      17.11764907836914
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      196.4,
+      171.51,
+      272.42,
+      187.01
+    ],
+    "text": "is successful?",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      162.41,
+      192.84,
+      437.32,
+      210.31
+    ],
+    "text": "(ii) Where does the balance of convenience lie ?",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.699999809265137,
+      13.100000381469727,
+      14.015244483947754
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      162.46,
+      217.6,
+      506.68,
+      233.11
+    ],
+    "text": "(iii) Will irreparable and irremediable mischief or injury be",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.748906135559082,
+      12.77492904663086,
+      12.835081100463867
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      196.22,
+      240.87,
+      322.73,
+      256.38
+    ],
+    "text": "caused to either party?",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.23,
+      267.85,
+      505.8,
+      285.46
+    ],
+    "text": "In the case of [1996] 1 Sri L R 364 Mahindasoma V. Hon.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.91696548461914,
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.18,
+      291.14,
+      444.63,
+      308.74
+    ],
+    "text": "Maithripala Senanayake and others it has been held again that;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.55,
+      321.75,
+      506.94,
+      337.26
+    ],
+    "text": "(1) That the Court will be guided inter alia, by the following",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.522053718566895,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      162.43,
+      344.79,
+      364.25,
+      360.3
+    ],
+    "text": "principles, in granting interim relief",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.021821975708008
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      176.63,
+      367.84,
+      507.26,
+      390.72
+    ],
+    "text": "(a) Will the final order be rendered nugatory if the petitioner",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.522053718566895,
+      12.699999809265137,
+      12.738192558288574,
+      17.330272674560547
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      197.84,
+      396.63,
+      273.88,
+      412.13
+    ],
+    "text": "is successful?",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      176.63,
+      425.68,
+      432.4,
+      441.19
+    ],
+    "text": "(b) Where does the balance of convenience lie?",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.522053718566895,
+      12.699999809265137,
+      14.149349212646484
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      141.57,
+      452.9,
+      506.2,
+      470.51
+    ],
+    "text": "As I pointed out above, the Petitioners have established a strong",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.86,
+      476.18,
+      506.31,
+      493.79
+    ],
+    "text": "case with a probability of winning and that the balance of convenience",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.89,
+      499.21,
+      505.96,
+      516.82
+    ],
+    "text": "lies in favour of the Petitioners. Further it is established that if the interim",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137,
+      13.673892974853516,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.63,
+      522.02,
+      386.54,
+      539.63
+    ],
+    "text": "order is not issued, the application will be nugatory.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      141.85,
+      550.81,
+      506.01,
+      568.42
+    ],
+    "text": "Several intervenient petitioners moved permission to intervene in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.25,
+      574.09,
+      505.89,
+      591.7
+    ],
+    "text": "this application. The Court heard their respective cases. We are of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      107.25,
+      597.38,
+      505.4,
+      614.98
+    ],
+    "text": "view that these applications have to be considered only after giving the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.96,
+      620.17,
+      505.32,
+      637.78
+    ],
+    "text": "Petitioners also a hearing. The said intervenient petitioners are mostly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.8,
+      642.97,
+      505.0,
+      660.58
+    ],
+    "text": "political parties, intended candidate, civil right movements and citizens.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.94,
+      665.76,
+      505.41,
+      683.38
+    ],
+    "text": "Increasing the number of intervenient petitioners will not bend the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.81,
+      688.33,
+      312.97,
+      705.94
+    ],
+    "text": "balance of convenience towards them.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      493.07,
+      38.6,
+      505.75,
+      53.54
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.969171524047852
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      141.99,
+      73.64,
+      506.03,
+      90.72
+    ],
+    "text": "I hold that an interim order as prayed for in paragraph (f) of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      107.53,
+      96.91,
+      458.2,
+      113.99
+    ],
+    "text": "prayer to the petition be issued subject to the following variation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      141.95,
+      125.72,
+      506.15,
+      142.8
+    ],
+    "text": "The Court is mindful of the fact that the franchise of the people",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.344134330749512,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      107.82,
+      148.99,
+      505.88,
+      166.07
+    ],
+    "text": "should be protected. Therefore the Court does not intend to issue an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      107.93,
+      172.03,
+      506.35,
+      189.11
+    ],
+    "text": "interim order until the final determination of this case. The interim order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      107.64,
+      195.08,
+      505.78,
+      212.16
+    ],
+    "text": "is issued until the next day of hearing to enable the Court to re asses the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      107.49,
+      218.35,
+      325.26,
+      235.43
+    ],
+    "text": "necessity of extending the interim order.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      141.27,
+      247.64,
+      505.94,
+      264.72
+    ],
+    "text": "Issue interim order as prayed for in the paragraph (f) of the prayer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      107.25,
+      270.91,
+      423.89,
+      287.99
+    ],
+    "text": "to the petition to be operative until the next day of hearing.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      141.27,
+      299.47,
+      318.28,
+      316.54
+    ],
+    "text": "Issue notice on the Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      328.5,
+      378.2,
+      504.81,
+      395.28
+    ],
+    "text": "President of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.344134330749512,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      106.48,
+      435.94,
+      243.71,
+      453.94
+    ],
+    "text": "K.K. Wickramasinghe J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.31,
+      464.83,
+      180.32,
+      481.91
+    ],
+    "text": "I agree",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      346.48,
+      493.88,
+      504.09,
+      510.96
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.344134330749512,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      106.13,
+      523.06,
+      230.47,
+      541.06
+    ],
+    "text": "Shiran Gooneratne J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      140.07,
+      551.48,
+      182.34,
+      568.56
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      345.78,
+      609.55,
+      503.38,
+      626.63
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.476948738098145,
+      13.608421325683594
+    ]
+  }
+]

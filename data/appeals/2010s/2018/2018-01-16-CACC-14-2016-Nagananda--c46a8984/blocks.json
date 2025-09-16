@@ -1,0 +1,604 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      99.12,
+      72.11,
+      517.2,
+      87.91
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRAIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.274999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.27,
+      87.88,
+      400.05,
+      103.68
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.274999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.1,
+      104.38,
+      309.95,
+      179.08
+    ],
+    "text": "Court of Appeal Case No : CA CC/14/2016",
+    "fonts": [
+      "Arial,Bold",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.274999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      222.07,
+      491.49,
+      236.13
+    ],
+    "text": "Nagananda kodituwakku",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      243.1,
+      378.84,
+      257.16
+    ],
+    "text": "99,",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      264.1,
+      457.69,
+      278.16
+    ],
+    "text": "Subdrarama Road,",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      285.12,
+      417.14,
+      299.18
+    ],
+    "text": "Nugegoda.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      327.18,
+      419.39,
+      341.24
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      390.97,
+      378.84,
+      405.03
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      475.05,
+      477.97,
+      489.11
+    ],
+    "text": "Hon Attorney General.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      496.08,
+      526.02,
+      510.14
+    ],
+    "text": "Attorney Generals Department,",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      517.1,
+      426.91,
+      531.16
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      580.9,
+      435.16,
+      594.96
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      -1.33,
+      302.78,
+      20.24,
+      449.59
+    ],
+    "text": "I i i i I I I",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.699999809265137,
+      13.699999809265137,
+      14.0,
+      23.100000381469727,
+      23.70009994506836,
+      38.79999923706055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      104.56,
+      78.93,
+      526.13,
+      99.98
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRAIC SOCIALIST",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.72110652923584,
+      14.730653762817383,
+      14.791922569274902,
+      14.821846008300781,
+      14.922109603881836,
+      14.969603538513184,
+      15.006264686584473,
+      15.02175521850586
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      222.89,
+      105.07,
+      408.28,
+      123.91
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.98,
+      170.6,
+      270.55,
+      188.88
+    ],
+    "text": "CA Application No. CC/14/20 16",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.730022430419922,
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.82,
+      203.96,
+      321.48,
+      222.24
+    ],
+    "text": "Before : L.T.B. Dehideniya J (PICA)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.15,
+      236.84,
+      284.19,
+      255.12
+    ],
+    "text": "Shiran Goonarathne J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.32,
+      269.74,
+      223.85,
+      288.01
+    ],
+    "text": "Decided on : 14/12/2017",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.32,
+      302.37,
+      242.57,
+      320.65
+    ],
+    "text": "L.T.B.Dehideniya L (PICA)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116.28,
+      335.96,
+      548.78,
+      354.24
+    ],
+    "text": "The Petitioner instituted this action under the Article 105 (3) of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.65106201171875,
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.26,
+      360.68,
+      551.3,
+      378.96
+    ],
+    "text": "Constitution complaining that the 3 rd Respondent has committed a contempt of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.259967803955078,
+      13.699999809265137,
+      14.21342945098877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.26,
+      383.36,
+      548.3,
+      403.68
+    ],
+    "text": "court. The Petitioner's contention is that the 3rd Respondent in case Nos",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.259967803955078,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.88,
+      410.12,
+      547.93,
+      428.4
+    ],
+    "text": "CAlWritl158/2016 and CAlWritl484/2015 has presented incorrect material to",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.02,
+      435.33,
+      548.79,
+      453.61
+    ],
+    "text": "court and obtained interim relieves. The Petitioner's submission is that presenting",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.27,
+      460.28,
+      548.19,
+      478.56
+    ],
+    "text": "incorrect facts to the Court amounts to contempt of court and he moves that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.76,
+      484.52,
+      242.56,
+      502.8
+    ],
+    "text": "3 rd Respondent be punished.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.259967803955078,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.87,
+      517.88,
+      548.01,
+      536.16
+    ],
+    "text": "We are of the view that the Attorney General, being the chief prosecutor,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.94,
+      542.38,
+      548.13,
+      560.66
+    ],
+    "text": "should be heard in this regard. Accordingly we direct the Registrar to issue notice",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.76,
+      567.33,
+      526.34,
+      585.62
+    ],
+    "text": "on the Attorney General to appear as Amicus Curie and to express his opinion.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      360.66,
+      652.76,
+      547.92,
+      671.04
+    ],
+    "text": "President of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633,
+      14.479144096374512
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.47,
+      684.63,
+      211.93,
+      704.16
+    ],
+    "text": "Shiran Gooneratne J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.34,
+      716.85,
+      160.25,
+      735.13
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      380.08,
+      748.77,
+      547.2,
+      767.05
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.346925735473633,
+      14.479144096374512
+    ]
+  }
+]

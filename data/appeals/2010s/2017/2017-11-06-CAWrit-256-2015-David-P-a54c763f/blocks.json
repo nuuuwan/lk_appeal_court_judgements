@@ -1,0 +1,3485 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      0.47,
+      -16.79,
+      29.38,
+      54.66
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      52.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      3.04,
+      33.98,
+      11.66,
+      55.27
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      1.73,
+      79.74,
+      18.99,
+      108.18
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      20.70009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      512.53,
+      34.58,
+      520.03,
+      47.92
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      156.89,
+      69.43,
+      486.61,
+      87.15
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      198.77,
+      92.48,
+      445.59,
+      110.2
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.35,
+      121.51,
+      520.43,
+      138.45
+    ],
+    "text": "In the matter of an application for Mandates in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.424201011657715
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.41,
+      144.53,
+      520.53,
+      161.48
+    ],
+    "text": "the nature of Writs of Certiorari and Prohibition",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.291906356811523,
+      13.424201011657715
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.43,
+      167.59,
+      520.35,
+      184.53
+    ],
+    "text": "under and in terms of Article 140 of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.291906356811523,
+      13.555158615112305
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.38,
+      190.61,
+      500.65,
+      207.56
+    ],
+    "text": "Democratic Socialist Republic of Sri Lanka.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.424201011657715
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      125.86,
+      217.94,
+      293.44,
+      236.75
+    ],
+    "text": "CA Writ Application 256/2015",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.859611511230469,
+      13.714428901672363,
+      14.033392906188965,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.26,
+      248.71,
+      519.21,
+      265.65
+    ],
+    "text": "David Pieris Motor Company Limited,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.43,
+      271.5,
+      433.26,
+      288.45
+    ],
+    "text": "75, Hyde Park Comer,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.2,
+      294.53,
+      378.73,
+      311.48
+    ],
+    "text": "Colombo 02",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.99,
+      317.84,
+      369.64,
+      335.56
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.05,
+      341.11,
+      327.12,
+      358.05
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.71,
+      386.71,
+      466.39,
+      403.65
+    ],
+    "text": "Consumer Affairs Authority,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.71,
+      409.99,
+      455.81,
+      426.93
+    ],
+    "text": "CWE Secretariat Building,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.28,
+      433.02,
+      445.23,
+      449.96
+    ],
+    "text": "27, Vauxhall Street, 966,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.47,
+      456.05,
+      371.84,
+      473.0
+    ],
+    "text": "Colombo 2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.47,
+      479.33,
+      368.86,
+      496.28
+    ],
+    "text": "& 5 others",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.05,
+      502.63,
+      384.82,
+      520.35
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      120.63,
+      548.07,
+      352.62,
+      566.19
+    ],
+    "text": "Before : L.T.B. Dehideniya J. (PICA)",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.58205509185791,
+      12.199999809265137,
+      12.699999809265137,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      120.57,
+      594.67,
+      518.2,
+      612.51
+    ],
+    "text": "Counsel : Suren Fernando with K. Wickramanayake for the Petitioner",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.510028839111328,
+      12.699999809265137,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      189.28,
+      617.33,
+      403.01,
+      634.28
+    ],
+    "text": ": M. Jayasinghe SC for the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      120.21,
+      651.31,
+      258.69,
+      669.15
+    ],
+    "text": "Argued on : 28.07.2017",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      120.21,
+      679.26,
+      348.97,
+      696.99
+    ],
+    "text": "Written submissions filed on 19.09.2017",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      120.19,
+      707.96,
+      261.83,
+      725.8
+    ],
+    "text": "Decided on : 26.10.2017",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      1.68,
+      45.47,
+      14.59,
+      76.05
+    ],
+    "text": "1 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      15.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      3.23,
+      69.23,
+      11.18,
+      83.37
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      509.22,
+      36.07,
+      516.35,
+      48.74
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.45,
+      69.28,
+      283.18,
+      87.84
+    ],
+    "text": "L. T.B. Dehideniya J. (PICA)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.081412315368652,
+      13.120535850524902,
+      13.384641647338867,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153.25,
+      97.93,
+      515.28,
+      115.54
+    ],
+    "text": "This is an application filed by the Petitioner Company seeking for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.9,
+      120.98,
+      515.8,
+      138.59
+    ],
+    "text": "a Mandate in the nature of Writ of Certiorari to quash the order of the 1 st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.98,
+      144.49,
+      515.18,
+      162.1
+    ],
+    "text": "Respondent and for a Writ of Prohibition to prevent the Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.89,
+      167.54,
+      517.92,
+      185.15
+    ],
+    "text": "from acting in furtherance of the order sought to be quashed. The facts of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.77,
+      190.57,
+      515.89,
+      208.18
+    ],
+    "text": "this case are briefly as follows. The 5th Respondent has purchased a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.165304183959961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.52,
+      213.6,
+      515.16,
+      231.22
+    ],
+    "text": "motor bicycle from the Ratnapura branch of the Petitioner company on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.21,
+      236.89,
+      514.64,
+      254.5
+    ],
+    "text": "14/12/2009. After two days, i.e. on 1611212009, the bicycle could not be",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.902832984924316,
+      12.399999618530273,
+      13.144885063171387,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.61,
+      260.17,
+      514.81,
+      277.78
+    ],
+    "text": "started and after reporting, an agent from the company came and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.72,
+      283.22,
+      514.7,
+      300.83
+    ],
+    "text": "inspected the vehicle and the CDI unit was changed and thereafter the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.37,
+      306.01,
+      514.41,
+      323.62
+    ],
+    "text": "bicycle was working properly for a few days. Again on 18/12/2009 the",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      118.05,
+      329.3,
+      514.62,
+      346.9
+    ],
+    "text": "vehicle could not be started and it had been repaired by the Petitioner's",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.93,
+      352.57,
+      514.2,
+      370.19
+    ],
+    "text": "agent at Ratnapura. Again on 20112 the vehicle became defective and an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.901371955871582,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.92,
+      375.6,
+      514.15,
+      393.21
+    ],
+    "text": "agent came and certain wires were corrected and was able to start the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.31,
+      398.65,
+      161.49,
+      416.26
+    ],
+    "text": "vehicle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.79,
+      427.45,
+      514.24,
+      445.06
+    ],
+    "text": "The 5th Respondent was not satisfied with the vehicle because it",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.37,
+      450.73,
+      513.87,
+      468.33
+    ],
+    "text": "broke down three times within six days. Thereafter the he complained to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.31,
+      473.77,
+      514.46,
+      491.38
+    ],
+    "text": "the 1st Respondent: the Consumer Affair's Authority. After a protracted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.71,
+      497.28,
+      512.93,
+      514.9
+    ],
+    "text": "inquiry, the 1st Respondent made an order on 14/5/2015 marked P47,",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.47,
+      520.33,
+      514.14,
+      537.94
+    ],
+    "text": "ordering the Petitioner to pay the back the cost of the bicycle to the 5th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.3,
+      543.38,
+      185.4,
+      560.99
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      151.09,
+      571.94,
+      513.67,
+      589.55
+    ],
+    "text": "The Petitioner's contention is that the CDI unit which was changed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.840556144714355,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.13,
+      594.73,
+      514.03,
+      612.34
+    ],
+    "text": "by the Petitioner isn't covered by the warranty. Further they submitted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.131170272827148,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116.62,
+      618.02,
+      513.35,
+      635.62
+    ],
+    "text": "that the 5th Respondent has tampered with the wiring system and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116.87,
+      641.06,
+      513.58,
+      658.67
+    ],
+    "text": "reason for not starting the vehicle on another occasion is due to loose",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116.74,
+      663.61,
+      515.85,
+      681.22
+    ],
+    "text": "connection of the wires. Further they say that vehicle was in custody of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116.37,
+      686.17,
+      513.58,
+      703.78
+    ],
+    "text": "the 5th Respondent throughout the period and the Petitioner was not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      598.78,
+      80.11,
+      600.84,
+      90.28
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.400100231170654
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      598.07,
+      124.76,
+      602.47,
+      142.9
+    ],
+    "text": "r",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      590.97,
+      329.24,
+      608.34,
+      723.24
+    ],
+    "text": "rII (f ,tIIiIiIi II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      8.899999618530273,
+      13.199999809265137,
+      13.800000190734863,
+      14.399999618530273,
+      20.5,
+      21.799999237060547,
+      23.100000381469727,
+      27.299999237060547,
+      31.20009994506836,
+      37.70009994506836,
+      48.599998474121094,
+      54.0,
+      55.0,
+      58.29999923706055,
+      58.599998474121094
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      0.7,
+      17.88,
+      16.67,
+      67.35
+    ],
+    "text": "1 j",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.799999237060547,
+      18.20009994506836,
+      21.299999237060547
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      0.75,
+      67.19,
+      15.29,
+      167.95
+    ],
+    "text": "~ 1 i ) i I I i",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.539921283721924,
+      4.800099849700928,
+      14.0,
+      15.899999618530273,
+      16.299999237060547,
+      16.899999618530273,
+      19.100000381469727,
+      24.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      509.88,
+      36.29,
+      517.53,
+      49.9
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.86,
+      70.33,
+      516.28,
+      87.94
+    ],
+    "text": "allowed to inspect the vehicle until it was inspected before the 1 st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.7,
+      92.89,
+      268.53,
+      110.5
+    ],
+    "text": "Respondent on 05/0112011.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156.85,
+      121.69,
+      516.28,
+      139.3
+    ],
+    "text": "The Petitioner challenged the validity of the order of the 1 st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.22,
+      144.98,
+      515.85,
+      162.59
+    ],
+    "text": "Respondent on several grounds. One of the grounds argued by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.131170272827148,
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.46,
+      168.01,
+      515.85,
+      185.62
+    ],
+    "text": "Petitioner is that at the inspection carried out on the 05/0112011, in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.046760559082031,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.81,
+      191.53,
+      515.25,
+      209.14
+    ],
+    "text": "presence of the 1 st Respondent and 5th Respondent, the motor cycle was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.02,
+      214.56,
+      515.78,
+      232.17
+    ],
+    "text": "working in good condition and therefore the inquiry should have been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.93,
+      237.85,
+      515.35,
+      255.46
+    ],
+    "text": "concluded at that stage. It was found that the 5th Respondent has not used",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.54,
+      260.88,
+      515.58,
+      278.49
+    ],
+    "text": "the motor cycle for a long time and therefore the carburetor was clogged",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.93,
+      283.93,
+      515.63,
+      301.54
+    ],
+    "text": "and the battery was dead. After replacing the carburetor and the battery",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.31,
+      307.44,
+      514.62,
+      325.05
+    ],
+    "text": "they were able to start the motor cycle. Since there was no insurance to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.29,
+      330.73,
+      514.74,
+      348.35
+    ],
+    "text": "the motor cycle, they could not do a test run on a highway but they had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.126997947692871,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.41,
+      353.77,
+      514.89,
+      371.38
+    ],
+    "text": "done a test run on a foot path and found that the motor cycle is in good",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.82,
+      376.8,
+      514.67,
+      394.41
+    ],
+    "text": "working condition. In the report marked P19 the officers who were",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.05,
+      399.61,
+      514.63,
+      417.22
+    ],
+    "text": "representing the 1 st Respondent has been certified that they have not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.69,
+      423.12,
+      329.99,
+      440.73
+    ],
+    "text": "observed any defect in the motor cycle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152.02,
+      452.18,
+      514.57,
+      469.79
+    ],
+    "text": "The 5th Respondent has not agreed to accept the motor cycle",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.84,
+      475.21,
+      514.41,
+      492.82
+    ],
+    "text": "because he was suspicious of the condition of the vehicle. Thereafter the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285,
+      13.819416999816895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.33,
+      498.74,
+      517.29,
+      516.35
+    ],
+    "text": "1 st Respondent had referred this motor cycle to the technical division of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.33,
+      521.53,
+      514.53,
+      539.14
+    ],
+    "text": "the Colombo University for an inspection and to report. After receiving",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.08,
+      544.82,
+      513.4,
+      562.42
+    ],
+    "text": "the report, the 1st Respondent had made the impugned order marked P47.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.25,
+      567.62,
+      513.64,
+      585.23
+    ],
+    "text": "The Petitioner's other objection is that the 1st Respondent failed to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.840556144714355,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.45,
+      590.89,
+      514.49,
+      608.5
+    ],
+    "text": "follow the rules of natural justice. The Petitioner submits that the report",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.92,
+      613.94,
+      514.45,
+      631.55
+    ],
+    "text": "sent by the Colombo University was not given even after requesting for a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.99,
+      636.97,
+      514.01,
+      654.59
+    ],
+    "text": "copy and was not awarded the opportunity of cross-examining the author",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.98,
+      660.01,
+      513.7,
+      677.62
+    ],
+    "text": "of the report. Further the Petitioner submits that he was denied the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.75,
+      682.33,
+      513.13,
+      699.94
+    ],
+    "text": "opportunity of presenting evidence to count the said report. Therefore,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.36,
+      704.66,
+      513.53,
+      722.27
+    ],
+    "text": "the Petitioner argues that it is a violation of the rules of natural justice.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.840556144714355,
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      1.0,
+      41.01,
+      19.46,
+      124.16
+    ],
+    "text": "! I 1 I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.100000381469727,
+      9.399999618530273,
+      15.800000190734863,
+      25.0,
+      33.20009994506836
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      1.48,
+      132.5,
+      6.95,
+      155.96
+    ],
+    "text": "r i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.899999618530273,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      1.45,
+      190.59,
+      18.19,
+      231.95
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      30.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      508.77,
+      34.86,
+      516.36,
+      47.36
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.45,
+      67.93,
+      515.33,
+      85.54
+    ],
+    "text": "The Petitioners further submit that in the report, the author has come to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.05,
+      91.46,
+      514.49,
+      109.07
+    ],
+    "text": "the conclusion that there is a manufacturing defect in the wiring system.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.97,
+      114.49,
+      514.76,
+      132.1
+    ],
+    "text": "Therefore the Petitioner's contention is that he should have given an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.155525207519531,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.95,
+      137.78,
+      514.59,
+      155.39
+    ],
+    "text": "opportunity to question the author as to how he came to that conclusion.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.165304183959961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.71,
+      160.81,
+      514.91,
+      178.42
+    ],
+    "text": "The 1 st Respondent, in his order marked P46, has taken into",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.95,
+      183.86,
+      514.77,
+      201.47
+    ],
+    "text": "consideration the report submitted by the technical division of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.7,
+      207.13,
+      232.33,
+      224.74
+    ],
+    "text": "Colombo University.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.81,
+      235.93,
+      515.4,
+      253.54
+    ],
+    "text": "The Consumer Affairs Authority has the power to inquire to a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.69,
+      258.98,
+      515.17,
+      276.59
+    ],
+    "text": "complaint made by a consumer under Section 13 of the Consumer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.770306587219238,
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.3,
+      282.25,
+      514.01,
+      299.86
+    ],
+    "text": "Protection Act. An inquiry of this nature has to be conducted in fairness",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.33,
+      305.05,
+      514.56,
+      322.66
+    ],
+    "text": "to all parties, following the rules of natural justice. The Consumer Affairs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.09,
+      328.57,
+      514.17,
+      346.18
+    ],
+    "text": "Authority is not expected to make any determination to satisfy only the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.22,
+      351.6,
+      513.68,
+      369.22
+    ],
+    "text": "customers. It has to make an independent decision according to the facts",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.264692306518555
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.68,
+      374.66,
+      197.81,
+      392.27
+    ],
+    "text": "presented to it.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.119253158569336,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      151.07,
+      403.69,
+      514.25,
+      421.3
+    ],
+    "text": "On 05/0112011 III the presence of the officers of the 1st",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.941469192504883,
+      12.212388038635254,
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.81,
+      426.72,
+      513.94,
+      444.34
+    ],
+    "text": "Respondent, the Petitioner had established that the motor cycle was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.4,
+      450.25,
+      513.94,
+      467.86
+    ],
+    "text": "working in good condition. There was a difficulty to start the motor cycle",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.77,
+      473.06,
+      513.84,
+      490.67
+    ],
+    "text": "due to not using it for a long time. After attending to necessary",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.38,
+      496.1,
+      513.56,
+      513.71
+    ],
+    "text": "maintenance, they were able to start and run the vehicle. The inquiry",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.95,
+      519.38,
+      513.81,
+      536.99
+    ],
+    "text": "proceeded from that point onwards just because the 5th Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.28,
+      542.41,
+      513.48,
+      560.02
+    ],
+    "text": "didn't agree to accept the motor cycle. Once it is established that the item",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      116.22,
+      565.69,
+      513.16,
+      583.3
+    ],
+    "text": "sold is working in good condition there is no reason for the authority to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.93,
+      588.72,
+      292.02,
+      606.33
+    ],
+    "text": "proceed further with the inquiry.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      150.13,
+      617.29,
+      513.19,
+      634.9
+    ],
+    "text": "The 1st Respondent accepted the report issued by the Colombo",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.131170272827148,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.89,
+      640.32,
+      513.34,
+      657.94
+    ],
+    "text": "University without offering the Petitioner an opportunity to attack the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.8,
+      662.89,
+      472.2,
+      680.5
+    ],
+    "text": "credibility of the report or the expertise of the author of the report.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      149.65,
+      691.46,
+      514.28,
+      709.07
+    ],
+    "text": "The Petitioner has requested for a copy of the report submitted by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.41,
+      712.97,
+      514.54,
+      731.63
+    ],
+    "text": "the Colombo University from the 1st Respondent but the document",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      590.45,
+      757.91,
+      604.29,
+      833.29
+    ],
+    "text": "I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      22.100000381469727,
+      49.79999923706055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      0.71,
+      25.74,
+      16.39,
+      70.32
+    ],
+    "text": "1 i , !",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.900100231170654,
+      12.800000190734863,
+      13.399999618530273,
+      20.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      2.21,
+      65.38,
+      11.03,
+      115.9
+    ],
+    "text": "\\ , 1 , I I I !",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.599999904632568,
+      6.500100135803223,
+      6.800099849700928,
+      8.100000381469727,
+      8.600000381469727,
+      9.399999618530273,
+      10.399999618530273,
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      0.92,
+      113.03,
+      7.71,
+      144.37
+    ],
+    "text": "~ I j I",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.087082386016846,
+      5.800099849700928,
+      10.100000381469727,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      509.16,
+      32.77,
+      517.25,
+      46.1
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.77,
+      66.01,
+      517.63,
+      83.62
+    ],
+    "text": "marked P45, the proceedings of the inquiry dated 19.08.2014, bear",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.79,
+      89.3,
+      517.33,
+      106.91
+    ],
+    "text": "witness to the fact that the 1 st Respondent arbitrary refused to issue a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.67,
+      112.33,
+      516.67,
+      129.94
+    ],
+    "text": "copy. Under section 13 (1), (3) and (4) of the Consumer Affairs Authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.489583015441895,
+      13.199999809265137,
+      13.819416999816895
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.29,
+      135.85,
+      459.07,
+      153.46
+    ],
+    "text": "Act the 1 st Respondent can make an order only after an inquiry.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152.78,
+      158.65,
+      516.1,
+      176.26
+    ],
+    "text": "The 1 st Respondent, being an administrative body with quasI",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.19,
+      181.94,
+      516.32,
+      199.54
+    ],
+    "text": "judicial power, formulated by a statute to inquire in to the disputes in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.05,
+      204.97,
+      516.33,
+      222.58
+    ],
+    "text": "relating to consumer affairs, is duty bound to hold the inquiry fairly and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.04,
+      228.49,
+      515.26,
+      246.17
+    ],
+    "text": "reasonably. It has been held in the case of Shell Gas Lanka Ltd. vs.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.144331932067871,
+      13.199999809265137,
+      13.683144569396973,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.18,
+      251.77,
+      515.43,
+      269.38
+    ],
+    "text": "Consumer Affairs Authority and another [2008] 1 Sri L R 128 at 134 that;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.135994911193848,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152.61,
+      275.98,
+      515.79,
+      292.34
+    ],
+    "text": "The duty of the court is to see that power shall not be exercised in",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.191122055053711,
+      13.218622207641602,
+      13.320161819458008,
+      13.344484329223633,
+      13.385891914367676,
+      13.399999618530273,
+      14.534061431884766
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      152.29,
+      299.01,
+      516.43,
+      315.37
+    ],
+    "text": "unlawful and arbitrary manner, when exercise of such powers",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.399999618530273,
+      14.670517921447754
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.83,
+      322.28,
+      515.38,
+      338.65
+    ],
+    "text": "affects the basic rights of individuals. The courts should be alert to",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.191122055053711,
+      13.218622207641602,
+      13.221663475036621,
+      13.399999618530273,
+      14.534061431884766
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.72,
+      345.34,
+      516.73,
+      361.7
+    ],
+    "text": "see that such powers conferred by the statute are not exceeded or",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.57,
+      368.84,
+      193.83,
+      385.2
+    ],
+    "text": "abused.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.63,
+      390.74,
+      515.38,
+      408.35
+    ],
+    "text": "Wade and Forsyth in Administrative Law 9th Edition at page 966",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.4,
+      413.77,
+      169.59,
+      431.38
+    ],
+    "text": "says that;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      150.68,
+      438.21,
+      516.37,
+      454.57
+    ],
+    "text": "A statutory inquiry is a formalized version of the fair hearing",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.344484329223633,
+      13.399999618530273,
+      14.670517921447754
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.13,
+      461.0,
+      519.88,
+      477.37
+    ],
+    "text": "which is required by the common law according to the principles of",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.221663475036621,
+      13.399999618530273,
+      14.396310806274414
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      150.89,
+      484.29,
+      514.59,
+      500.65
+    ],
+    "text": "natural justice. It does not displace natural justice. It should be",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.052955627441406,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.12,
+      507.57,
+      515.38,
+      523.93
+    ],
+    "text": "regarded rather as a framework within which natural justice can",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.373123168945312,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.09,
+      530.61,
+      515.7,
+      546.98
+    ],
+    "text": "operate and supply missing details. The common law's",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.133602142333984,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      149.74,
+      553.65,
+      514.85,
+      570.01
+    ],
+    "text": "presumption that Parliament intends power to be exercised fairly is",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.327804565429688,
+      13.344484329223633,
+      13.385891914367676,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      150.63,
+      576.69,
+      512.71,
+      593.05
+    ],
+    "text": "all the stronger where Parliament itself has provided for a hearing.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.412943840026855
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      150.6,
+      599.73,
+      514.66,
+      616.1
+    ],
+    "text": "Natural justice has in fact been applied in a long series of cases to",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.221663475036621,
+      13.320161819458008,
+      13.399999618530273,
+      14.534061431884766
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      150.8,
+      623.01,
+      515.46,
+      639.37
+    ],
+    "text": "the whole procedure of a public inquiry, comprising the inspector's",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.399999618530273,
+      14.670517921447754
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      148.8,
+      645.8,
+      516.75,
+      662.17
+    ],
+    "text": "function alike. The principle of these cases was that the law could",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.218622207641602,
+      13.399999618530273,
+      14.534061431884766
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      150.42,
+      668.6,
+      515.4,
+      684.97
+    ],
+    "text": "not be content with seeing merely that the form of the statutory",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.327804565429688,
+      13.399999618530273,
+      14.534061431884766
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      149.24,
+      691.17,
+      515.4,
+      707.53
+    ],
+    "text": "procedure had been followed. The same applies to the statutory",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.133602142333984,
+      13.221663475036621,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      596.19,
+      331.09,
+      603.06,
+      366.42
+    ],
+    "text": "IiI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.535325050354004,
+      24.70009994506836
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      594.29,
+      373.79,
+      606.99,
+      533.61
+    ],
+    "text": "f.fIII ( II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.9305419921875,
+      8.899999618530273,
+      13.0,
+      17.20009994506836,
+      27.600000381469727,
+      32.5,
+      41.29999923706055,
+      45.20009994506836
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      592.77,
+      579.13,
+      607.42,
+      679.53
+    ],
+    "text": "rr JIf",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600000381469727,
+      13.800000190734863,
+      14.800000190734863,
+      16.399999618530273,
+      52.70009994506836
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      591.65,
+      703.98,
+      608.68,
+      830.63
+    ],
+    "text": "I!l lI,",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.300000190734863,
+      18.399999618530273,
+      24.399999618530273,
+      27.299999237060547,
+      35.40010070800781,
+      49.79999923706055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      591.83,
+      833.55,
+      593.73,
+      844.54
+    ],
+    "text": "f:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.400740623474121
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      507.95,
+      32.45,
+      515.6,
+      46.06
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.36,
+      67.56,
+      515.54,
+      84.05
+    ],
+    "text": "rules of procedure which have been made for many inquires, as",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.422929763793945,
+      13.5,
+      14.588191986083984
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.32,
+      90.35,
+      236.37,
+      106.83
+    ],
+    "text": "explained later.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.495148658752441,
+      13.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.57,
+      112.33,
+      515.24,
+      129.94
+    ],
+    "text": "The learned Counsel for the Petitioner cited a series of case such as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.165304183959961,
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.94,
+      135.85,
+      515.42,
+      153.46
+    ],
+    "text": "Nesle Lanka Ltd v. Consumer Affairs Authority and another [2005] 2 Sri",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.025952339172363,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.06,
+      159.14,
+      515.05,
+      176.75
+    ],
+    "text": "L R 138, Gregory Fernando v. Stanly Perera [2004] 1 Sri L R 346,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.025952339172363,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.82,
+      182.41,
+      515.04,
+      200.02
+    ],
+    "text": "Mahindapala and Others v. Minister of Land Development and others",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.853399276733398,
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.04,
+      205.21,
+      514.8,
+      222.82
+    ],
+    "text": "[2009] 2 Sri L R 324 where it has been emphasized that the inquiry needs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.38,
+      228.26,
+      427.64,
+      245.87
+    ],
+    "text": "to be held fairly and following the rules of natural justice.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      150.64,
+      251.05,
+      515.13,
+      268.67
+    ],
+    "text": "In the present case the 1 st Respondent had relied on a report",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.14,
+      274.58,
+      514.89,
+      292.19
+    ],
+    "text": "tendered by the Colombo University. In fact in the order marked P47, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.14,
+      297.61,
+      515.0,
+      315.22
+    ],
+    "text": "1 st Respondent had stated that the Colombo University had found that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.12,
+      320.89,
+      515.0,
+      338.5
+    ],
+    "text": "there is a manufacturing defect in the vehicle and the 1 st Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.03962516784668,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.13,
+      344.18,
+      514.66,
+      361.79
+    ],
+    "text": "relied on the findings of the University, but the Petitioner was denied the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      116.04,
+      367.21,
+      516.96,
+      384.89
+    ],
+    "text": "opportunity to contradict or counter the said report. It is a violation of",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.840556144714355,
+      13.199999809265137,
+      13.480392456054688,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.66,
+      390.01,
+      197.28,
+      407.62
+    ],
+    "text": "natural justice.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      149.73,
+      413.53,
+      514.16,
+      431.14
+    ],
+    "text": "Another factor that has to be considered is that according to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.41,
+      436.82,
+      514.2,
+      454.43
+    ],
+    "text": "warranty given by the Petitioner, the electric system was not covered. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.3,
+      459.85,
+      514.63,
+      477.46
+    ],
+    "text": "clause 3 of P48 is that \"the repair or replacement of parts shall not",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137,
+      13.5,
+      13.551032066345215,
+      14.725157737731934
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.26,
+      482.57,
+      514.78,
+      500.58
+    ],
+    "text": "include the repair and/or replacement of ......... any electric items .... \"",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      14.588191986083984
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.17,
+      505.94,
+      514.29,
+      523.55
+    ],
+    "text": "As per paragraph no. 2 of 1 R 1, the self starting system was not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.745111465454102,
+      13.126545906066895,
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.05,
+      529.22,
+      513.02,
+      546.83
+    ],
+    "text": "functioning even at the time of purchasing but the Petitioner knowing it,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      114.74,
+      552.02,
+      336.83,
+      569.63
+    ],
+    "text": "proceeded to purchase the motor bicycle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      148.75,
+      575.05,
+      513.17,
+      592.66
+    ],
+    "text": "As I pointed out earlier, the Petitioner had established that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      114.65,
+      597.85,
+      512.95,
+      615.46
+    ],
+    "text": "vehicle is in working condition in the presence of the officers of the 1 st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.03962516784668,
+      13.199999809265137,
+      13.551032066345215,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      114.9,
+      620.89,
+      513.44,
+      638.5
+    ],
+    "text": "Respondent Authority but still the 1 st Respondent continued with the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      114.84,
+      644.42,
+      513.22,
+      662.03
+    ],
+    "text": "inquiry, and relying on a report, where the Petitioner was not awarded the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      114.6,
+      666.97,
+      513.1,
+      684.58
+    ],
+    "text": "opportunity to test the expertise of the author; decided against the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.551032066345215
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      114.42,
+      689.29,
+      512.88,
+      706.9
+    ],
+    "text": "Petitioner. The Court cannot allow to stand such an order because it is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.0423583984375,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      114.34,
+      712.1,
+      469.88,
+      729.71
+    ],
+    "text": "arbitrary, illegal and against the accepted norms of natural justice.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.685906410217285
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      590.76,
+      633.83,
+      603.97,
+      730.6
+    ],
+    "text": "II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      44.20009994506836,
+      47.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      589.5,
+      755.59,
+      605.68,
+      846.7
+    ],
+    "text": "II f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.0,
+      15.199999809265137,
+      58.20009994506836
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      509.17,
+      17.78,
+      516.67,
+      31.12
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      152.38,
+      50.01,
+      516.95,
+      67.21
+    ],
+    "text": "Unser these circumstances, I issue writs as prayed for in paragraph",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.862646102905273,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      118.42,
+      72.81,
+      350.08,
+      90.02
+    ],
+    "text": "(d), (e) and (f) of the prayer of the petition.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.52949047088623
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.65,
+      95.61,
+      266.65,
+      112.82
+    ],
+    "text": "Application allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.74,
+      118.88,
+      204.03,
+      136.09
+    ],
+    "text": "No costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      339.06,
+      190.65,
+      514.85,
+      207.85
+    ],
+    "text": "President of the Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.52949047088623,
+      13.66147518157959
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      595.06,
+      706.47,
+      603.82,
+      843.91
+    ],
+    "text": "II! l jII II!",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.900100231170654,
+      11.100000381469727,
+      11.399999618530273,
+      13.699999809265137,
+      14.0,
+      14.100000381469727,
+      15.899999618530273,
+      20.399999618530273,
+      26.70009994506836,
+      30.600000381469727
+    ]
+  }
+]

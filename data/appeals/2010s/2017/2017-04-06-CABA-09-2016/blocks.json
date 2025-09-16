@@ -1,0 +1,942 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      23.24,
+      -0.25,
+      40.25,
+      41.79
+    ],
+    "text": ",",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      30.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      205.46,
+      65.96,
+      482.36,
+      80.84
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      239.41,
+      85.4,
+      448.92,
+      100.28
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      128.49,
+      250.16,
+      240.61,
+      266.92
+    ],
+    "text": "CA IBaii No. 09/2016",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.800000190734863,
+      10.807847023010254,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      128.49,
+      273.76,
+      281.87,
+      288.69
+    ],
+    "text": "CMC Colombo No. 56444/05",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      128.65,
+      513.33,
+      178.48,
+      528.2
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      128.25,
+      567.32,
+      186.99,
+      582.2
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      128.17,
+      648.44,
+      200.34,
+      663.32
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      128.39,
+      674.92,
+      201.96,
+      689.9
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.58,
+      154.62,
+      464.71,
+      168.64
+    ],
+    "text": "Muthupahana Gedara Jeewaka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.81,
+      171.69,
+      418.29,
+      186.77
+    ],
+    "text": "No. 336, Kandy Road",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.191996574401855,
+      10.199999809265137,
+      11.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.82,
+      190.14,
+      361.13,
+      204.16
+    ],
+    "text": "Kelaniya.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.62,
+      208.14,
+      413.22,
+      222.16
+    ],
+    "text": "(Now in the remand)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.050909996032715,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.73,
+      223.64,
+      381.13,
+      241.51
+    ],
+    "text": "PETITIONER",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.594767570495605
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.61,
+      296.59,
+      349.83,
+      311.47
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.7,
+      341.58,
+      398.9,
+      355.6
+    ],
+    "text": "1. Officer In Charge",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.82308578491211,
+      10.105310440063477,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.57,
+      355.04,
+      382.48,
+      382.96
+    ],
+    "text": "Police Station Peliyagoda.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.2,
+      396.32,
+      418.57,
+      410.33
+    ],
+    "text": "2. The Attorney General",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.905858993530273,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.33,
+      409.98,
+      463.2,
+      452.72
+    ],
+    "text": "Attorney General's Department Colombo 12. RESPONDENTS",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137,
+      11.300000190734863,
+      11.998553276062012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.55,
+      513.63,
+      458.09,
+      528.61
+    ],
+    "text": ": Deepali Wijesundera J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.687936782836914,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.79,
+      540.75,
+      431.69,
+      555.73
+    ],
+    "text": ": L.U. Jayasuriya J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.687936782836914,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.55,
+      567.39,
+      507.14,
+      582.37
+    ],
+    "text": ": Apsara Botheju for the Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      339.83,
+      594.99,
+      494.86,
+      609.97
+    ],
+    "text": "D.S. Soosatiahs S.S.C. for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      339.61,
+      621.87,
+      428.53,
+      636.85
+    ],
+    "text": "Attorney General",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.79,
+      647.85,
+      427.91,
+      663.01
+    ],
+    "text": ": 14th March, 2017",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.899999618530273,
+      11.045125007629395,
+      11.300000190734863,
+      11.393165588378906
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      333.55,
+      671.85,
+      427.43,
+      690.13
+    ],
+    "text": ": 31st March, 2017",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.579585075378418,
+      10.899999618530273,
+      11.209386825561523,
+      11.300000190734863,
+      11.393165588378906
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.2,
+      731.81,
+      330.18,
+      744.21
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      21.61,
+      1.54,
+      37.57,
+      40.97
+    ],
+    "text": ",",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      28.70009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.96,
+      66.27,
+      276.98,
+      85.08
+    ],
+    "text": "Oeepali Wijesundera J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      14.61919116973877
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.16,
+      124.74,
+      525.25,
+      141.37
+    ],
+    "text": "The suspect petitioner was remanded under Sec. 8 and 9 of the",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.004170417785645,
+      12.100000381469727,
+      12.705738067626953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127.99,
+      153.12,
+      526.17,
+      169.51
+    ],
+    "text": "Assistance to and Protection of Victims of Crime and Witness Act, No 4",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.094948768615723,
+      12.100000381469727,
+      12.705738067626953,
+      12.83742904663086
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.45,
+      181.62,
+      525.69,
+      198.25
+    ],
+    "text": "of 2015 and was remanded by the Chief Magistrate of Colombo. He's",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.175365447998047,
+      12.57271671295166
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.51,
+      209.7,
+      334.8,
+      226.33
+    ],
+    "text": "alleged to have threatened a witness.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.64,
+      281.7,
+      525.09,
+      298.33
+    ],
+    "text": "In the instant case the suspect petitioner was ordered bail by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.860733985900879,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.39,
+      309.79,
+      524.75,
+      326.42
+    ],
+    "text": "Magistrate and remanded on another B report before he could furnish",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.072969436645508,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.41,
+      338.1,
+      525.99,
+      354.73
+    ],
+    "text": "bail. When suspects are produced before the Magistrate's Court under",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.09,
+      366.42,
+      526.0,
+      383.05
+    ],
+    "text": "the provisions of the said act the Magistrate is duty bound to see whether",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.986870765686035,
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127.87,
+      394.5,
+      421.49,
+      411.13
+    ],
+    "text": "the police have abused the provisions of the said Act.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.312975883483887
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      162.19,
+      466.5,
+      524.47,
+      483.13
+    ],
+    "text": "Further the Magistrate should ascertain whether the facts placed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.41,
+      494.58,
+      526.87,
+      511.21
+    ],
+    "text": "before him falls within sec. 81 of the Code of Criminal Procedure Act",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.751378059387207,
+      12.100000381469727,
+      12.705738067626953,
+      12.83742904663086
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127.44,
+      522.91,
+      524.8,
+      539.54
+    ],
+    "text": "where the provision is in place to bind over the parties produced before",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.85328483581543,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127.93,
+      551.22,
+      524.61,
+      567.85
+    ],
+    "text": "him. After considering the facts placed before the Magistrate, if the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.182419776916504
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127.9,
+      579.3,
+      524.41,
+      595.93
+    ],
+    "text": "Magistrate is of the view that a particular suspect has violated the bail",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.02,
+      607.62,
+      524.85,
+      624.25
+    ],
+    "text": "conditions, he should proceed to cancel the bail order and remanded the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.53,
+      635.94,
+      526.89,
+      652.57
+    ],
+    "text": "suspect. Such a suspect should not be remanded under the provisions of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.020136833190918,
+      12.100000381469727,
+      12.175365447998047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.0,
+      663.36,
+      235.18,
+      679.75
+    ],
+    "text": "Act No. 04 of 2015.",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.961204528808594,
+      12.059281349182129,
+      12.100000381469727,
+      12.705738067626953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      323.45,
+      736.38,
+      331.04,
+      748.88
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      164.12,
+      67.74,
+      526.68,
+      84.23
+    ],
+    "text": "We decide to release the suspect petitioner on bail. The learned",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130.3,
+      95.81,
+      527.05,
+      112.3
+    ],
+    "text": "Magistrate is ordered to release the suspect petitioner on Rs. 25,000/=",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.908501625061035,
+      11.909005165100098,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.7,
+      124.13,
+      437.86,
+      140.62
+    ],
+    "text": "cash bail with two sureties acceptable to the Magistrate.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      299.94,
+      255.2,
+      515.26,
+      271.45
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.34,
+      276.7,
+      236.48,
+      294.04
+    ],
+    "text": "L.U. Jayasuriya J.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.0,
+      13.368526458740234
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      163.11,
+      300.54,
+      207.28,
+      317.03
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      299.46,
+      347.12,
+      515.06,
+      363.37
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      322.69,
+      737.78,
+      329.51,
+      749.92
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  }
+]
