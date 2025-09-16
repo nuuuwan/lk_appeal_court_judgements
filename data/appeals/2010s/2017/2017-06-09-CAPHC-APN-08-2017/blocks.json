@@ -1,0 +1,87 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      158.78,
+      72.35,
+      456.22,
+      85.63
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      86.17,
+      385.99,
+      228.4
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA (PHC) APN 08/2017 High Court No HC 5697/11",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Helvetica",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      228.38,
+      494.74,
+      270.55
+    ],
+    "text": "Mohamed Haneefa Ftima Rezana",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      270.53,
+      502.54,
+      411.31
+    ],
+    "text": "Petitioner (surety) Vs. Hon. Attorney General Attorney Generals Department Colombo 12.",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      411.31,
+      464.98,
+      425.37
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

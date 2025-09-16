@@ -1,0 +1,807 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      124.58,
+      72.35,
+      493.42,
+      85.63
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      86.17,
+      384.55,
+      244.12
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA. Case No. 134/2011 HC Negombo : 343/06",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Helvetica,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      244.13,
+      424.27,
+      272.23
+    ],
+    "text": "H.A. Prasanga Silva",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      272.21,
+      487.42,
+      384.79
+    ],
+    "text": "Appellant Vs. The Hon. Attorney General Attorney General's Department Colombo 12",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.07,
+      396.89,
+      464.98,
+      410.95
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      9.6,
+      -5.54,
+      31.95,
+      49.7
+    ],
+    "text": "/",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      40.20009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126.32,
+      69.45,
+      529.1,
+      85.6
+    ],
+    "text": "CA. Case No. 134/2011 Hi&:h Court Ne&:ombo No.343/2006",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.0,
+      11.300000190734863,
+      11.363445281982422,
+      12.484678268432617,
+      12.84124755859375
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125.99,
+      114.85,
+      164.38,
+      130.93
+    ],
+    "text": "Before",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125.83,
+      162.61,
+      173.26,
+      178.69
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125.97,
+      258.61,
+      154.57,
+      274.69
+    ],
+    "text": "Date",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228.89,
+      115.04,
+      389.19,
+      131.18
+    ],
+    "text": ": Deepali Wijesundera, J and",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.67,
+      139.1,
+      338.91,
+      155.18
+    ],
+    "text": "L.U. Jayasuriya, J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.908670425415039,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228.89,
+      162.85,
+      515.59,
+      178.93
+    ],
+    "text": ": Indika Mallwarachchi for the 151 Accused Appellant.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.844760894775391,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228.89,
+      186.48,
+      495.64,
+      202.93
+    ],
+    "text": ": Anil Silva P.C. with Sa han Kulatunga for the 2nd",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.602497100830078,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      234.97,
+      210.61,
+      343.3,
+      226.69
+    ],
+    "text": "Accused Appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.27,
+      234.85,
+      505.6,
+      250.93
+    ],
+    "text": "Chethiya Goonesekera DSG for the Respondent.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228.89,
+      258.61,
+      353.82,
+      274.69
+    ],
+    "text": ": 091h December, 2016",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.283215045928955,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.28,
+      311.39,
+      367.39,
+      329.8
+    ],
+    "text": "Judgement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.86469841003418
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125.93,
+      359.41,
+      271.77,
+      378.69
+    ],
+    "text": "Deepali Wijesundera, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.843581199645996,
+      14.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194.12,
+      407.9,
+      535.93,
+      423.98
+    ],
+    "text": "Heard both counsel for the Accused Appellants as well as the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126.22,
+      429.26,
+      428.57,
+      445.33
+    ],
+    "text": "Learned Deputy Solicitor General for the Respondents.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.52,
+      457.68,
+      535.5,
+      474.14
+    ],
+    "text": "The Learned Deputy Solicitor General concedes that the 2nd Accused",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.72039270401001,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125.77,
+      479.04,
+      535.8,
+      495.26
+    ],
+    "text": "Appellant should be acquitted on the 151 and 3rd counts. Considering the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.270352363586426,
+      10.504023551940918,
+      11.645573616027832,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126.11,
+      500.3,
+      535.77,
+      516.38
+    ],
+    "text": "evidence against the 2nd Accused Appellant, Court decides that he should",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.800099849700928,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126.49,
+      521.76,
+      341.61,
+      537.98
+    ],
+    "text": "be acquitted from the 2nd count as well.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.72039270401001,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      160.54,
+      550.71,
+      536.26,
+      566.78
+    ],
+    "text": "Learned Deputy Solicitor General concedes that this case should be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126.83,
+      571.69,
+      537.18,
+      587.89
+    ],
+    "text": "sent back for re-trial regarding the 151 Accused Appellant. Therefore Court",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.123486518859863,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126.85,
+      593.04,
+      537.14,
+      609.25
+    ],
+    "text": "decides to allow the appeal regarding the 2nd Accused Appellant and acquit",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.72039270401001,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126.98,
+      614.54,
+      232.17,
+      630.61
+    ],
+    "text": "him on all charges.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      194.96,
+      643.09,
+      536.12,
+      659.17
+    ],
+    "text": "On a perusal of the evidence given by the Appellant we find",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.835614204406738
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127.15,
+      663.97,
+      536.82,
+      680.05
+    ],
+    "text": "that the confessionary statement made by the Appellant has been produced",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      127.32,
+      684.85,
+      536.83,
+      700.93
+    ],
+    "text": "and marked by the state as X10, X15 and X16 and that this will offend",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.765417098999023
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126.72,
+      69.62,
+      536.04,
+      85.84
+    ],
+    "text": "Section 25 of the Evidence Ordinance. Therefore the conviction can not be",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      11.755516052246094,
+      11.800000190734863,
+      12.283062934875488
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126.36,
+      90.74,
+      220.61,
+      106.96
+    ],
+    "text": "allowed to stand.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160.01,
+      119.54,
+      444.87,
+      135.76
+    ],
+    "text": "The appeal of the 2nd Accused Appellant is allowed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.670694351196289,
+      11.650908470153809,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160.04,
+      148.35,
+      535.95,
+      164.56
+    ],
+    "text": "We send the case back for re-trial regarding the 1 sl Accused",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.844346523284912,
+      11.800000190734863,
+      11.813841819763184
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125.77,
+      169.96,
+      182.98,
+      186.17
+    ],
+    "text": "Appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.83,
+      257.0,
+      511.81,
+      273.11
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126.7,
+      314.59,
+      236.07,
+      330.7
+    ],
+    "text": "L.U. Jayasuriya, J.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      160.71,
+      343.46,
+      203.84,
+      359.68
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.83,
+      372.68,
+      511.86,
+      388.79
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.713441848754883
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      593.86,
+      530.85,
+      607.2,
+      614.1
+    ],
+    "text": "\\I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      25.70009994506836,
+      48.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      595.55,
+      626.0,
+      601.74,
+      691.26
+    ],
+    "text": "Ilt I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      18.600000381469727,
+      19.5,
+      25.70009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.42,
+      710.46,
+      601.01,
+      728.66
+    ],
+    "text": "i I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.100000381469727,
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.6,
+      731.44,
+      600.41,
+      754.28
+    ],
+    "text": "I., f!",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.948155164718628,
+      8.399999618530273,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      596.35,
+      797.63,
+      601.41,
+      822.64
+    ],
+    "text": "f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.20009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      587.99,
+      824.85,
+      600.65,
+      837.76
+    ],
+    "text": ". I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.399999618530273
+    ]
+  }
+]

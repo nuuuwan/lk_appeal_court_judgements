@@ -1,0 +1,4463 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      88.13,
+      109.33,
+      495.45,
+      122.14
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.159945487976074,
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.07,
+      230.28,
+      171.54,
+      243.09
+    ],
+    "text": "Case No. CA SS9/97(F)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.172374725341797,
+      9.300000190734863,
+      9.340113639831543,
+      9.398380279541016
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.24,
+      253.33,
+      158.04,
+      266.14
+    ],
+    "text": "D.C. Kegalle 2925/L",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.300000190734863,
+      9.674749374389648
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      60.76,
+      544.77,
+      178.43,
+      558.92
+    ],
+    "text": "Before: Janak De Silva J.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.300000190734863,
+      9.330193519592285,
+      10.03042221069336,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.4,
+      155.24,
+      444.43,
+      169.39
+    ],
+    "text": "Rambukwelle Vipassi Thero,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.41,
+      179.72,
+      434.97,
+      193.87
+    ],
+    "text": "Parilleyya Wana Aramaya,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.13,
+      204.21,
+      417.22,
+      218.36
+    ],
+    "text": "Weragala, Narangoda.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      332.87,
+      230.53,
+      520.49,
+      243.34
+    ],
+    "text": "lA PLAINTIFF-APPELLANT-PETITIONER",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.300000190734863,
+      10.422819137573242
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      307.67,
+      252.21,
+      323.55,
+      266.36
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.05508804321289
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.4,
+      291.33,
+      516.22,
+      305.48
+    ],
+    "text": "Rajamanthreege alias Acharige Appu Naide",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      307.87,
+      321.07,
+      358.17,
+      335.23
+    ],
+    "text": "Weragala.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.46,
+      350.68,
+      521.43,
+      364.86
+    ],
+    "text": "2nd PLAINTIFF-APPELLANT-RESPONDENT",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.099999904632568,
+      9.300000190734863,
+      10.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      307.95,
+      398.12,
+      516.72,
+      412.27
+    ],
+    "text": "lA. Senadhirannehelage Sunil Thilekeratne",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.819689750671387
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.08,
+      421.4,
+      410.8,
+      435.55
+    ],
+    "text": "2A. N.A. Asilin Nona,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.104086875915527,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.18,
+      444.68,
+      396.1,
+      458.83
+    ],
+    "text": "Both of Weragala.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.96,
+      492.61,
+      521.21,
+      505.42
+    ],
+    "text": "DEFENDANTS-RESPONDENTS-RESPONDENTS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      60.82,
+      573.86,
+      367.3,
+      589.28
+    ],
+    "text": "Counsel: Chathura Galhena for lA Plaintiff-Appellant-Petitioner",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.518287658691406,
+      10.562454223632812,
+      11.615715980529785
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      105.85,
+      603.64,
+      468.22,
+      617.95
+    ],
+    "text": "Athula Perera with Nayomi Kularatne for 2nd Plaintif-Appellant-Respondent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.022982120513916,
+      10.300000190734863,
+      10.42558479309082,
+      10.450550079345703
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      105.95,
+      633.55,
+      456.37,
+      647.71
+    ],
+    "text": "Sudarshani Coorey for lA and 2A Defendants-Respondents-Respondents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.20819091796875,
+      10.300000190734863,
+      10.518287658691406,
+      11.496548652648926
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      60.47,
+      662.45,
+      490.92,
+      676.76
+    ],
+    "text": "Written Submissions tendered on: lA Plaintiff-Appellant-Petitioner on 26th October 2017",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.113487243652344,
+      9.300000190734863,
+      9.52527141571045,
+      9.53995418548584,
+      10.300000190734863,
+      11.376178741455078
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      231.6,
+      691.16,
+      521.32,
+      705.31
+    ],
+    "text": "lA and 2A Defendants-Respondents-Respondents on 27th",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.751279354095459,
+      10.300000190734863,
+      11.376178741455078
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      231.22,
+      713.01,
+      298.68,
+      727.16
+    ],
+    "text": "October 2017",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.46,
+      754.78,
+      295.3,
+      767.69
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      584.23,
+      415.6,
+      600.24,
+      514.5
+    ],
+    "text": "! I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      19.5,
+      57.599998474121094
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      585.29,
+      495.27,
+      597.65,
+      570.69
+    ],
+    "text": "f I ! I t r",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      8.600000381469727,
+      12.0,
+      16.0,
+      16.899999618530273,
+      21.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      584.17,
+      591.4,
+      607.86,
+      675.54
+    ],
+    "text": "I I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.899999618530273,
+      23.100000381469727,
+      42.599998474121094
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.13,
+      103.13,
+      214.5,
+      121.83
+    ],
+    "text": "Argued on: 10th October 2017",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.446269035339355,
+      10.27214527130127,
+      10.442143440246582,
+      10.5,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.38,
+      136.97,
+      225.14,
+      151.83
+    ],
+    "text": "Decided on: 14th November 2017",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.3573637008667,
+      10.5,
+      10.524357795715332,
+      10.897522926330566,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.59,
+      166.87,
+      142.19,
+      181.6
+    ],
+    "text": "Janak De Silva J.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.319037437438965,
+      10.13365650177002,
+      10.147876739501953,
+      10.318136215209961
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.57,
+      196.6,
+      523.68,
+      211.22
+    ],
+    "text": "The original plaintiffs, Thalagune Seelarathna Thero and the 2nd plaintiff-appellant-respondent,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.022982120513916,
+      10.37485408782959,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.12,
+      218.39,
+      523.49,
+      232.82
+    ],
+    "text": "Rajamanthreege alias Acharige Appu Naide (hereinafter referred to as \"plaintiffs\") filed the above",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.01,
+      239.52,
+      524.73,
+      254.72
+    ],
+    "text": "action in the District Court of Kegalle and stated that the land more fully described in the pt",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5,
+      10.557990074157715,
+      10.678040504455566,
+      11.9927396774292
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.79,
+      262.54,
+      523.09,
+      276.97
+    ],
+    "text": "schedule to the plaint, called pansalewatta, was at one time owned by Parileyya Wana Aramaya",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.458316802978516,
+      10.5,
+      10.594772338867188
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.88,
+      283.72,
+      523.93,
+      298.58
+    ],
+    "text": "whilst the land more fully described in the 2nd schedule to the plaint, called benabadalge watte",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.022982120513916,
+      10.5,
+      10.594772338867188
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.92,
+      305.57,
+      523.23,
+      320.17
+    ],
+    "text": "hena, was at one time owned by the 2nd plaintiff-appellant-respondent. The plaintiffs claimed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.904919624328613,
+      10.387395858764648,
+      10.448675155639648,
+      10.466547012329102,
+      10.5,
+      10.568526268005371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.35,
+      327.3,
+      523.13,
+      342.02
+    ],
+    "text": "that in 1957 they exchanged the two lands described above as there was no roadway to parilleyya",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.5,
+      10.729785919189453,
+      10.781720161437988,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.64,
+      349.14,
+      523.36,
+      363.86
+    ],
+    "text": "wana aramaya. They further claimed that in 1982 the original 2nd defendant, Gamaralalage",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.022982120513916,
+      10.5,
+      10.557990074157715,
+      10.582029342651367,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      370.79,
+      522.74,
+      385.99
+    ],
+    "text": "Sumanapala, forcibly entered into possession of the land more fully described in the pt schedule",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5,
+      10.678040504455566,
+      11.9927396774292
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.35,
+      392.92,
+      520.25,
+      407.53
+    ],
+    "text": "to the plaint. The plaintiffs, inter alia, sought a declaration that the 2nd plaintiff-appellant-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.022982120513916,
+      10.5,
+      10.623770713806152
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.68,
+      413.75,
+      522.54,
+      428.95
+    ],
+    "text": "respondent was the owner of the land more fully described in the pt schedule to the plaint or in",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.371969223022461,
+      10.458316802978516,
+      10.5,
+      10.678040504455566,
+      10.729785919189453,
+      12.131387710571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.11,
+      435.35,
+      522.99,
+      450.55
+    ],
+    "text": "the alternative a declaration that the land more fully described in the pt schedule was owned by",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.371969223022461,
+      10.458316802978516,
+      10.466547012329102,
+      10.5,
+      10.623770713806152,
+      11.9927396774292
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.88,
+      457.48,
+      522.67,
+      472.33
+    ],
+    "text": "Parileyya Wana Aramaya and that the 2nd plaintiff-appellant-respondent was entitled to possess",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.022982120513916,
+      10.327178001403809,
+      10.5,
+      10.557990074157715,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.68,
+      479.61,
+      73.71,
+      493.9
+    ],
+    "text": "it.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.09,
+      509.5,
+      522.62,
+      523.93
+    ],
+    "text": "The original defendants filed answer and stated that they are unaware of a land called",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.37485408782959,
+      10.5,
+      10.557990074157715,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.68,
+      531.05,
+      523.34,
+      545.77
+    ],
+    "text": "pansalewatta and that plan no. 85/7 prepared by C.K. Baddewela and filed in the case depicts the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.872286796569824,
+      10.246182441711426,
+      10.466547012329102,
+      10.5,
+      10.623770713806152,
+      11.206659317016602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.68,
+      552.94,
+      523.61,
+      567.37
+    ],
+    "text": "land known as kirithanawatte and not pansalewatta as claimed by the plaintiffs. They further",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.31,
+      574.25,
+      523.47,
+      588.97
+    ],
+    "text": "stated that they had enjoyed possession of the said land for over 50 years and moved that the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.44802188873291,
+      10.5,
+      10.619915962219238,
+      10.678040504455566,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.3,
+      596.14,
+      236.38,
+      610.57
+    ],
+    "text": "action of the plaintiffs be dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.299995422363281,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.85,
+      626.14,
+      522.61,
+      640.57
+    ],
+    "text": "The learned District Judge after trial dismissed the action of the plaintiffs. The plaintiffs appealed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.37485408782959,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.14,
+      647.5,
+      522.24,
+      661.93
+    ],
+    "text": "While the appeal was pending one of the original plaintiffs, Thalagune Seelarathna Thero passed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.420146942138672,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.05,
+      668.86,
+      522.82,
+      683.29
+    ],
+    "text": "away and was substituted by Rambukwelle Vipassi Thero, the lA plaintiff-appellant-petitioner.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.458316802978516,
+      10.5,
+      11.486096382141113
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.41,
+      689.7,
+      523.92,
+      704.42
+    ],
+    "text": "He made an application dated 11th March 2016 to lead fresh evidence in terms of Section 773 of",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.063685417175293,
+      10.258881568908691,
+      10.37004566192627,
+      10.5,
+      10.540223121643066,
+      10.678040504455566,
+      10.729785919189453,
+      10.897522926330566,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.87,
+      711.35,
+      522.72,
+      725.78
+    ],
+    "text": "the Civil Procedure Code which was objected to by the defendants-respondents-respondents.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.458316802978516,
+      10.479680061340332,
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.85,
+      732.95,
+      259.57,
+      747.38
+    ],
+    "text": "This order relates to the said application.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.402547836303711,
+      10.5,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.9,
+      756.32,
+      296.02,
+      768.99
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      585.15,
+      694.89,
+      607.15,
+      783.04
+    ],
+    "text": "t I i f j ,",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      5.099999904632568,
+      8.600000381469727,
+      9.399999618530273,
+      12.100000381469727,
+      16.20009994506836,
+      39.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.81,
+      107.99,
+      523.36,
+      122.42
+    ],
+    "text": "The lA plaintiff-appeliant-petitioner sought to have three new documents admitted as fresh",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.37485408782959,
+      10.5,
+      10.594772338867188,
+      11.60762882232666
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.25,
+      129.35,
+      524.41,
+      143.78
+    ],
+    "text": "evidence. These were marked Xl to X3 with his application. When this matter was taken up for",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.787849426269531,
+      10.458316802978516,
+      10.461529731750488,
+      10.492197036743164,
+      10.5,
+      10.526317596435547,
+      10.729785919189453,
+      11.2567777633667
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.4,
+      150.94,
+      524.44,
+      165.37
+    ],
+    "text": "inquiry, counsel for lA plaintiff-appellant-petitioner informed court that they are limiting their",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.557990074157715,
+      10.619915962219238,
+      11.727947235107422
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.25,
+      173.02,
+      523.69,
+      187.45
+    ],
+    "text": "application to the two documents marked X2 and X3. X2 is a certified copy of plan 4169 prepared",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.787849426269531,
+      9.895976066589355,
+      10.03746223449707,
+      10.065145492553711,
+      10.5,
+      10.729785919189453,
+      10.781720161437988,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.4,
+      194.62,
+      520.54,
+      209.05
+    ],
+    "text": "by the Surveyor General and X3 is a certified copy of the relevant tenement list of the said plan.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.787849426269531,
+      9.869680404663086,
+      10.44802188873291,
+      10.466547012329102,
+      10.5,
+      10.540223121643066,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.98,
+      224.38,
+      523.59,
+      238.81
+    ],
+    "text": "Section 773 of the Civil Procedure Code vests power in the Court of Appeal to, if need be, receive",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.447166442871094,
+      10.458216667175293,
+      10.470808982849121,
+      10.5,
+      10.673663139343262,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.25,
+      245.99,
+      524.06,
+      260.42
+    ],
+    "text": "and admit new evidence additional to, or supplementary of, the evidence already taken in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.371969223022461,
+      10.432230949401855,
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.24,
+      267.82,
+      523.85,
+      282.25
+    ],
+    "text": "court of first instance, touching the matters at issue in any original cause, suit or action, as justice",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.371969223022461,
+      10.431476593017578,
+      10.5,
+      10.540223121643066
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.41,
+      289.91,
+      523.54,
+      304.34
+    ],
+    "text": "may require or to order a new or further trial on the ground of discovery of fresh evidence",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.477476119995117,
+      10.5,
+      10.507246971130371,
+      10.540223121643066,
+      10.609182357788086,
+      10.678040504455566,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.26,
+      311.74,
+      524.88,
+      326.17
+    ],
+    "text": "subsequent to the trial. Article 139(2) of the Constitution grants a similar power to the Court of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.540223121643066,
+      10.594772338867188,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.89,
+      333.35,
+      523.83,
+      347.78
+    ],
+    "text": "Appeal to receive and admit new evidence additional to, or supplementary of, the evidence",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.609182357788086,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.01,
+      354.94,
+      524.01,
+      369.37
+    ],
+    "text": "already taken in the Court of First Instance touching the matters at issue in any original case, suit",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.296630859375,
+      10.371969223022461,
+      10.5,
+      10.514739990234375,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.4,
+      376.54,
+      335.16,
+      390.97
+    ],
+    "text": "prosecution or action, as justice of the case may require.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.307740211486816,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.81,
+      406.54,
+      523.87,
+      420.97
+    ],
+    "text": "These statutory and constitutional provisions permit fresh evidence to be admitted subsequent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.369488716125488,
+      10.416366577148438,
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.07,
+      428.14,
+      523.37,
+      442.57
+    ],
+    "text": "to trial as justice may require. However, this power must be exercised with great caution. The",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.299995422363281,
+      10.37485408782959,
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.4,
+      449.98,
+      523.71,
+      464.41
+    ],
+    "text": "rights of the parties are determined by the evidence led before the trial judge which is tested by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.869680404663086,
+      10.466547012329102,
+      10.5,
+      10.540223121643066
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.0,
+      471.59,
+      523.63,
+      486.02
+    ],
+    "text": "cross-examination. Such leading of evidence, oral and documentary, including from third parties",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.343077659606934,
+      10.5,
+      10.540223121643066
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.25,
+      493.19,
+      524.49,
+      507.62
+    ],
+    "text": "and official witnesses, is facilitated by procedures set out in the Civil Procedure Code. A litigant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.869680404663086,
+      10.371969223022461,
+      10.433942794799805,
+      10.466547012329102,
+      10.5,
+      10.563359260559082
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.4,
+      515.02,
+      523.51,
+      529.45
+    ],
+    "text": "must show due diligence by resorting to these procedures in obtaining evidence in support of his",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.371969223022461,
+      10.388811111450195,
+      10.5,
+      10.540223121643066,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.01,
+      536.63,
+      524.53,
+      551.06
+    ],
+    "text": "case. Parties expend vast resources, time and effort in litigating and therefore it is important that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.186469078063965,
+      10.5,
+      10.525219917297363,
+      10.673663139343262
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.83,
+      557.98,
+      523.85,
+      572.41
+    ],
+    "text": "there is finality to litigation. This cannot be achieved if fresh evidence is permitted at the stage",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.869680404663086,
+      10.065145492553711,
+      10.299995422363281,
+      10.5,
+      10.729785919189453,
+      10.90320873260498
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.02,
+      579.83,
+      523.26,
+      594.26
+    ],
+    "text": "of appeal unimpeded. There are also concerns on the credibility of the fresh evidence and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.477476119995117,
+      10.5,
+      10.540223121643066,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.0,
+      601.91,
+      309.78,
+      616.34
+    ],
+    "text": "absence of it been tested under cross-examination.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.540223121643066,
+      10.673663139343262
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      290.04,
+      755.01,
+      297.91,
+      769.02
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      586.56,
+      119.01,
+      597.75,
+      186.23
+    ],
+    "text": "\\ I i ! t I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.599999904632568,
+      7.199999809265137,
+      13.199999809265137,
+      15.300000190734863,
+      16.600000381469727,
+      21.799999237060547
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      588.2,
+      184.31,
+      595.36,
+      198.31
+    ],
+    "text": "~ <",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.3941125869750977,
+      8.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      587.65,
+      199.27,
+      591.18,
+      210.53
+    ],
+    "text": ",f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.155597686767578
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.25,
+      108.37,
+      524.23,
+      122.93
+    ],
+    "text": "Therefore, courts have developed certain conditions to be fulfilled prior to admitting fresh",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.465850830078125,
+      10.600000381469727,
+      10.64510440826416
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.46,
+      129.96,
+      525.12,
+      144.53
+    ],
+    "text": "evidence. The Supreme Court has, in Oman Ekanayake and others v. Ratranhamyl, quoted with",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.253201484680176,
+      10.100000381469727,
+      10.13658332824707,
+      10.391295433044434,
+      10.421242713928223,
+      10.424140930175781,
+      10.583587646484375,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.21,
+      151.81,
+      524.67,
+      166.37
+    ],
+    "text": "approval the decision in Ratwatte v. Bandara and anotherP where the Supreme Court adopted",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.253201484680176,
+      10.100000381469727,
+      10.13658332824707,
+      10.179040908813477,
+      10.593498229980469,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.03,
+      172.89,
+      524.48,
+      187.97
+    ],
+    "text": "the test enunciated by Denning L.J. in Ladd v. Marshall3 in admitting fresh evidence at the stage",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.099999904632568,
+      9.253201484680176,
+      10.100000381469727,
+      10.141265869140625,
+      10.295064926147461,
+      10.421242713928223,
+      10.593498229980469,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.22,
+      195.24,
+      338.38,
+      209.81
+    ],
+    "text": "of appeal. Three conditions have to be fulfilled. They are:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.348926544189453,
+      10.600000381469727,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.66,
+      224.75,
+      524.3,
+      239.32
+    ],
+    "text": "(1) It must be shown that the evidence could not have been obtained with reasonable",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.319025993347168,
+      10.465850830078125,
+      10.600000381469727,
+      10.608146667480469
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.02,
+      246.6,
+      235.56,
+      261.17
+    ],
+    "text": "diligence for use at the trial.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.495535850524902,
+      10.600000381469727,
+      10.670367240905762
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.66,
+      268.43,
+      524.75,
+      283.0
+    ],
+    "text": "(2) The evidence must be such that, if given, it would probably have an important influence",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.307618141174316,
+      10.319025993347168,
+      10.424140930175781,
+      10.465850830078125,
+      10.55595874786377,
+      10.600000381469727,
+      10.724370956420898,
+      10.955005645751953
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.02,
+      290.29,
+      375.03,
+      304.85
+    ],
+    "text": "on the result of the case, although it may not be decisive.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.348926544189453,
+      10.400421142578125,
+      10.412186622619629,
+      10.600000381469727,
+      10.724370956420898,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.66,
+      312.37,
+      524.11,
+      326.93
+    ],
+    "text": "(3) The evidence must be such as is presumably to be believed or, in other words, it must be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.844259262084961,
+      10.112961769104004,
+      10.319025993347168,
+      10.348926544189453,
+      10.424140930175781,
+      10.495080947875977,
+      10.581483840942383,
+      10.593498229980469,
+      10.600000381469727,
+      10.64510440826416
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      99.01,
+      333.96,
+      395.13,
+      348.53
+    ],
+    "text": "apparently credible, although it need not be incontrovertible.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.348926544189453,
+      10.600000381469727,
+      10.60219955444336,
+      10.724370956420898
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.34,
+      363.64,
+      169.62,
+      378.09
+    ],
+    "text": "Reasonable Diligence",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.440984725952148,
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.05,
+      392.76,
+      524.46,
+      407.32
+    ],
+    "text": "Whether the evidence in issue could have been obtained by reasonable diligence before the trial",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.51626968383789,
+      10.537214279174805,
+      10.593498229980469,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.22,
+      414.61,
+      525.02,
+      429.17
+    ],
+    "text": "depends on the circumstances of each case. A party seeking to lead fresh evidence must satisfy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.345545768737793,
+      10.527250289916992,
+      10.537063598632812,
+      10.600000381469727,
+      10.64510440826416,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.96,
+      436.44,
+      524.6,
+      451.01
+    ],
+    "text": "court that the fresh evidence could not have been procured with reasonable diligence. A mere",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.22,
+      458.28,
+      524.96,
+      472.85
+    ],
+    "text": "statement to that effect in the application is insufficient. Facts supporting efforts made with",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.9165678024292,
+      10.384714126586914,
+      10.600000381469727,
+      10.608146667480469,
+      10.64510440826416
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.12,
+      479.89,
+      448.22,
+      494.45
+    ],
+    "text": "reasonable diligence to procure the evidence must be set out in the application.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.348926544189453,
+      10.593498229980469,
+      10.600000381469727,
+      10.613541603088379,
+      10.64510440826416
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.77,
+      509.39,
+      523.91,
+      523.96
+    ],
+    "text": "There have been instances where deeds have been sought to be admitted as fresh evidence. In",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.844259262084961,
+      10.134007453918457,
+      10.348926544189453,
+      10.580732345581055,
+      10.600000381469727,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.19,
+      531.23,
+      525.64,
+      545.8
+    ],
+    "text": "Rev. Kira/agama Sumanatissa Thero v. A/uwihare4 the Court of Appeal refused an application to",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.199999809265137,
+      9.073540687561035,
+      9.684868812561035,
+      10.100000381469727,
+      10.307618141174316,
+      10.600000381469727,
+      10.728768348693848,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.97,
+      553.07,
+      524.49,
+      567.64
+    ],
+    "text": "admit two deeds in appeal as it was not shown that this evidence could not have been obtained",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.972953796386719,
+      10.578779220581055,
+      10.593498229980469,
+      10.600000381469727,
+      10.60219955444336,
+      10.689472198486328,
+      10.724370956420898
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.09,
+      574.44,
+      525.24,
+      589.01
+    ],
+    "text": "with reasonable diligence at the trial. However, in Jandiris v. Deve RentaS a deed that was not",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.253201484680176,
+      10.046307563781738,
+      10.100000381469727,
+      10.421242713928223,
+      10.436742782592773,
+      10.600000381469727,
+      10.608146667480469
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.12,
+      596.03,
+      525.08,
+      610.6
+    ],
+    "text": "produced at the trial, its absence led the trial judge to question as to how T, a usufructuary",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.972953796386719,
+      10.004047393798828,
+      10.600000381469727,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.35,
+      617.87,
+      524.42,
+      632.44
+    ],
+    "text": "mortgagee in 1848, could convey a dominium to M in 1855, was admitted at the stage of appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.421242713928223,
+      10.508000373840332,
+      10.600000381469727,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.53,
+      639.47,
+      524.17,
+      654.04
+    ],
+    "text": "The plaintiff had searched the record in another District Court action and discovered the deed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.421242713928223,
+      10.424140930175781,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.01,
+      687.85,
+      132.89,
+      711.75
+    ],
+    "text": "1 (2012) B.L.R. 19 270 N.L.R. 231",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223,
+      8.17805290222168,
+      8.342796325683594,
+      8.5,
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      64.01,
+      711.38,
+      150.24,
+      723.52
+    ],
+    "text": "3 (1954) 3 All E.R. 745",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.800099849700928,
+      8.315592765808105,
+      8.5,
+      8.664688110351562,
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.82,
+      723.14,
+      144.89,
+      747.28
+    ],
+    "text": "4 (1985) 1 Sri.L.R. 19 533 N.L.R. 200",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.900100231170654,
+      8.342796325683594,
+      8.491395950317383,
+      8.5,
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290.6,
+      755.55,
+      298.1,
+      768.89
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      586.46,
+      83.92,
+      607.59,
+      137.12
+    ],
+    "text": "[ I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      38.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      588.01,
+      156.48,
+      600.8,
+      188.08
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      23.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      587.12,
+      183.66,
+      600.71,
+      406.05
+    ],
+    "text": "f II i I I I I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      7.800099849700928,
+      14.899999618530273,
+      18.5,
+      19.5,
+      21.799999237060547,
+      21.899999618530273,
+      48.90010070800781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.73,
+      108.22,
+      525.12,
+      122.65
+    ],
+    "text": "and applied for leave to produce it at the hearing of the appeal. But in Jayasekera v. Appuhamy",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.476058959960938,
+      10.199999809265137,
+      10.371969223022461,
+      10.5,
+      10.526317596435547,
+      10.540223121643066,
+      10.673663139343262,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.71,
+      130.07,
+      523.56,
+      144.5
+    ],
+    "text": "and others6 the Court of Appeal refused an application of the plaintiff to admit four deeds as",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.800099849700928,
+      9.66793155670166,
+      10.199999809265137,
+      10.258881568908691,
+      10.5,
+      10.678040504455566,
+      10.729785919189453,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.34,
+      151.66,
+      524.54,
+      166.09
+    ],
+    "text": "fresh evidence as the plaintiff had failed to demonstrate and prove that he could not obtain the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.925800323486328,
+      10.343128204345703,
+      10.5,
+      10.557990074157715,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.74,
+      173.5,
+      523.75,
+      187.93
+    ],
+    "text": "deeds relied by him as at the date of trial to be used at the trial, with reasonable diligence. In",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.925800323486328,
+      10.252840995788574,
+      10.416366577148438,
+      10.466547012329102,
+      10.472163200378418,
+      10.5,
+      10.540223121643066,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.47,
+      195.1,
+      523.55,
+      209.53
+    ],
+    "text": "Meegama Gurunnanselage Don Sirisena Wijeyakoon v. Indranee Margaret Wijeyakoon 7 an",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      6.599999904632568,
+      9.298896789550781,
+      10.141633987426758,
+      10.199999809265137,
+      10.344378471374512
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.49,
+      216.71,
+      524.62,
+      231.14
+    ],
+    "text": "attempt by the appellant to lead fresh evidence at the stage of appeal in the form of an affidavit",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.258881568908691,
+      10.466547012329102,
+      10.5,
+      10.540223121643066,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.74,
+      238.54,
+      523.81,
+      252.97
+    ],
+    "text": "of the notary who executed two deeds marked during the trial, which contained errors, was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.387395858764648,
+      10.5,
+      10.540223121643066,
+      10.710538864135742
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.88,
+      260.15,
+      523.81,
+      274.58
+    ],
+    "text": "rejected by the Court of Appeal as his evidence could have been led at the trial if reasonable",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.466547012329102,
+      10.492197036743164,
+      10.5,
+      10.673663139343262,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.74,
+      281.98,
+      261.01,
+      296.41
+    ],
+    "text": "diligence was exercised by the appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.458316802978516,
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.05,
+      311.5,
+      524.52,
+      325.93
+    ],
+    "text": "The two documents X2 and X3 are official documents and their existence may not, in the ordinary",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.895976066589355,
+      10.371969223022461,
+      10.37485408782959,
+      10.5,
+      10.529508590698242,
+      10.638931274414062
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.47,
+      333.34,
+      523.87,
+      347.77
+    ],
+    "text": "course of events, be known to private parties. Courts have allowed official documents to be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.299995422363281,
+      10.416366577148438,
+      10.5,
+      10.540223121643066,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.49,
+      355.18,
+      524.32,
+      369.61
+    ],
+    "text": "admitted as fresh evidence where the party seeking its admission as evidence was unaware of its",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.66793155670166,
+      9.925800323486328,
+      10.5,
+      10.540223121643066
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.49,
+      377.02,
+      524.79,
+      391.45
+    ],
+    "text": "existence. In Piyaratne Unanse v. Nandina8, an official document the existence of which was not",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      6.500100135803223,
+      9.476058959960938,
+      10.199999809265137,
+      10.252840995788574,
+      10.258881568908691,
+      10.458316802978516,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.64,
+      398.62,
+      524.07,
+      413.05
+    ],
+    "text": "known to a party during the trial was admitted in appeal. In Endiris de Silva v. Arnolis9, the records",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      6.599999904632568,
+      9.649917602539062,
+      10.086091995239258,
+      10.129355430603027,
+      10.199999809265137,
+      10.458316802978516,
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.5,
+      420.22,
+      524.98,
+      434.65
+    ],
+    "text": "of two village tribunal cases relevant to the subject-matter of the appeal and discovered after",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.277594566345215,
+      10.5,
+      10.540223121643066,
+      10.566787719726562,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.06,
+      441.83,
+      523.68,
+      456.26
+    ],
+    "text": "the appeal had been filed were permitted to be admitted. In Ratwatte v. Bandara and another10",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.400100231170654,
+      9.298896789550781,
+      10.086091995239258,
+      10.199999809265137,
+      10.229308128356934,
+      10.299995422363281,
+      10.489344596862793,
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.48,
+      463.67,
+      523.63,
+      478.1
+    ],
+    "text": "certain documents in the possession of a son of a former Basnayake Nilame was admitted as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.376473426818848,
+      10.458316802978516,
+      10.5,
+      10.540223121643066,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.73,
+      485.5,
+      523.72,
+      499.93
+    ],
+    "text": "evidence at the stage of appeal on the application of the incumbent Basnayake Nilame in a case",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.184304237365723,
+      10.477476119995117,
+      10.5,
+      10.678040504455566,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.34,
+      507.11,
+      525.12,
+      521.54
+    ],
+    "text": "filed by a party against the Basnayake Nilame of the Ruhunu Kataragama Maha Devale seeking a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.34409236907959,
+      10.5,
+      10.514739990234375,
+      10.540223121643066
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.73,
+      528.71,
+      523.63,
+      543.14
+    ],
+    "text": "declaration of title that he was the duly appointed kapurala of the devale. The Court held that as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.460023880004883,
+      10.5,
+      10.540371894836426,
+      10.557990074157715,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.86,
+      550.3,
+      524.28,
+      564.73
+    ],
+    "text": "Basnayake Nilames are elected they may not be aware of the existence of the relevant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.299995422363281,
+      10.461480140686035,
+      10.5,
+      10.540223121643066,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.74,
+      571.9,
+      375.14,
+      586.33
+    ],
+    "text": "documents in the possession of their predecessors or elsewhere.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.29,
+      687.65,
+      136.91,
+      698.92
+    ],
+    "text": "6 (2012) B.L.R. 291",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.800099849700928,
+      8.080123901367188,
+      8.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.26,
+      699.65,
+      152.74,
+      734.93
+    ],
+    "text": "7 (1986) 2 C.A.L.R. 378 837 N.L.R. 109 933 C.L.w. 39",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.400100231170654,
+      8.19424819946289,
+      8.199999809265137,
+      8.232037544250488
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.67,
+      735.18,
+      125.99,
+      746.45
+    ],
+    "text": "10 70 N.L.R. 231",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.400100231170654,
+      8.148085594177246,
+      8.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      290.28,
+      755.41,
+      298.37,
+      768.74
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      586.7,
+      273.58,
+      601.61,
+      357.93
+    ],
+    "text": "i i II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.399999618530273,
+      14.300000190734863,
+      24.399999618530273,
+      46.79999923706055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      587.74,
+      354.94,
+      602.64,
+      398.72
+    ],
+    "text": "f [ I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.500100135803223,
+      10.5,
+      26.799999237060547
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.73,
+      106.6,
+      525.08,
+      121.46
+    ],
+    "text": "The plaintiffs in their plaint dated 22nd August 1983, identified the land allegedly owned by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.022982120513916,
+      10.34409236907959,
+      10.371969223022461,
+      10.37485408782959,
+      10.380570411682129,
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.28,
+      128.62,
+      525.97,
+      143.05
+    ],
+    "text": "Parileyya Wana Aramaya as lot 113 of final village plan 4169. Furthermore, during the trial they",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.925800323486328,
+      10.5,
+      10.524721145629883,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.84,
+      150.71,
+      524.6,
+      165.14
+    ],
+    "text": "marked as 0l. 3, an extract of lot 113 of final village plan 4169. This extract had been issued on",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.797714233398438,
+      9.955582618713379,
+      10.141633987426758,
+      10.221352577209473,
+      10.362956047058105,
+      10.470759391784668,
+      10.489344596862793,
+      10.5,
+      10.524721145629883,
+      10.678040504455566,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.96,
+      171.55,
+      525.06,
+      186.73
+    ],
+    "text": "23rd August 1988. Trial commenced on 23rd May 1990 and concluded on 30th August 1996.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.128983974456787,
+      7.400100231170654,
+      10.147275924682617,
+      10.380570411682129,
+      10.388103485107422,
+      10.477476119995117,
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.24,
+      193.4,
+      525.14,
+      208.58
+    ],
+    "text": "Judgment was delivered on 13th March 1997. Clearly the plaintiffs knew well in advance the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.400100231170654,
+      10.343077659606934,
+      10.371969223022461,
+      10.387395858764648,
+      10.477476119995117,
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.69,
+      215.98,
+      525.23,
+      230.41
+    ],
+    "text": "existence of the plan 4169 now sought to be marked X2 as fresh evidence. The application made",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.787849426269531,
+      9.797714233398438,
+      10.299995422363281,
+      10.448675155639648,
+      10.5,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.84,
+      237.83,
+      525.74,
+      252.26
+    ],
+    "text": "by the 1A plaintiff-appellant-petitioner to admit it as fresh evidence only states that \"while the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.379610061645508,
+      10.5,
+      10.557990074157715,
+      10.863072395324707,
+      10.90320873260498
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.47,
+      259.66,
+      522.45,
+      274.09
+    ],
+    "text": "said appeal is pending before Your Lordships' Court the lA Substituted Plaintiff-Appellant-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.44802188873291,
+      10.5,
+      11.60762882232666
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.04,
+      281.27,
+      525.5,
+      295.7
+    ],
+    "text": "Petitioner was able to obtain copies of certain vital documents pertaining to the identity of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.458316802978516,
+      10.5,
+      10.540223121643066,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.44,
+      302.86,
+      525.47,
+      317.29
+    ],
+    "text": "corpus\" and that \"X1, X2 and X3 were not in possession at the time the trial proceeded before",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.895976066589355,
+      10.432230949401855,
+      10.5,
+      10.514739990234375,
+      10.557990074157715,
+      11.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.27,
+      324.46,
+      525.38,
+      338.89
+    ],
+    "text": "the District Court\". The question is not whether they were in his possession at the time of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.869680404663086,
+      10.371969223022461,
+      10.492197036743164,
+      10.5,
+      10.540223121643066
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.27,
+      346.3,
+      526.42,
+      360.73
+    ],
+    "text": "trial but whether these documents could have been obtained with reasonable diligence. I am of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.29861831665039,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.27,
+      367.9,
+      525.12,
+      382.33
+    ],
+    "text": "the view that the plaintiffs could have applied for and obtained a certified copy of the plan 4169",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.557990074157715,
+      10.619915962219238,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.63,
+      389.99,
+      524.74,
+      404.42
+    ],
+    "text": "(X2) by due diligence before the trial as they knew of its existence. The same reasoning is valid",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      9.869680404663086,
+      10.17104721069336,
+      10.466547012329102,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.3,
+      411.58,
+      525.51,
+      426.01
+    ],
+    "text": "for the tenement list marked as X3 as it is the tenement list for plan 4169. The application for",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.787849426269531,
+      9.925800323486328,
+      10.065145492553711,
+      10.448675155639648,
+      10.5,
+      10.526317596435547,
+      10.673663139343262
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.06,
+      433.42,
+      279.18,
+      447.85
+    ],
+    "text": "fresh evidence fails the test of due diligence.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.6,
+      463.53,
+      163.95,
+      477.3
+    ],
+    "text": "Important Influence",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.33,
+      492.22,
+      524.99,
+      506.65
+    ],
+    "text": "An application to lead fresh evidence at the stage of appeal must explain how the new evidence",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.194969177246094,
+      10.5,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.32,
+      514.07,
+      526.26,
+      528.5
+    ],
+    "text": "will have an important influence on the result of the case. In Beatrice Dep v. Lalani Meemaduwall",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.253201484680176,
+      9.574166297912598,
+      10.100000381469727,
+      10.252840995788574,
+      10.258881568908691,
+      10.296630859375,
+      10.47136116027832,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.46,
+      535.42,
+      525.51,
+      549.85
+    ],
+    "text": "an application to lead as fresh evidence some deeds and documents was rejected as they did not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.925800323486328,
+      10.023015975952148,
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.03,
+      557.27,
+      456.78,
+      571.7
+    ],
+    "text": "touch the matters at issue on which the judgment was delivered in the trial court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.371969223022461,
+      10.387395858764648,
+      10.5,
+      10.514739990234375
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.15,
+      734.57,
+      153.74,
+      745.7
+    ],
+    "text": "11 (1997) 3 Sri.L.R. 379",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.500100135803223,
+      8.100000381469727,
+      8.11463737487793
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      290.99,
+      754.38,
+      298.64,
+      767.99
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      589.84,
+      1.08,
+      601.12,
+      34.45
+    ],
+    "text": "t I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      20.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.01,
+      107.75,
+      524.79,
+      122.18
+    ],
+    "text": "The application of the lA plaintiff-appellant-petitioner claims that X2 and X3 are \"vital documents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.895976066589355,
+      10.37485408782959,
+      10.5,
+      10.557990074157715,
+      10.678040504455566,
+      11.60762882232666
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.12,
+      129.58,
+      524.09,
+      144.01
+    ],
+    "text": "pertaining to the identity of the corpus\". Presumably it is so pleaded as the learned District Judge,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      9.869680404663086,
+      10.16314697265625,
+      10.489945411682129,
+      10.5,
+      10.673663139343262,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.12,
+      150.94,
+      524.92,
+      165.37
+    ],
+    "text": "in answering the issues, appears to have concluded that the land depicted in plan no. 85/7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.371969223022461,
+      10.5,
+      10.557990074157715,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.12,
+      173.02,
+      523.74,
+      187.45
+    ],
+    "text": "prepared by C.K. Baddewela and filed in the case depicts the land known as kirithanawatte and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      9.94255256652832,
+      10.246182441711426,
+      10.466547012329102,
+      10.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.35,
+      194.38,
+      523.83,
+      208.81
+    ],
+    "text": "not pansalewatta as claimed in the plaint. The tenement list marked X3 identifies lot 113 of plan",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.797714233398438,
+      9.895976066589355,
+      10.371969223022461,
+      10.448675155639648,
+      10.5,
+      10.540223121643066,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.05,
+      216.22,
+      507.94,
+      230.65
+    ],
+    "text": "4169 as pansalewatta. To this extent X2 and X3 may have an important influence in the case.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      9.895976066589355,
+      10.141633987426758,
+      10.296630859375,
+      10.402345657348633,
+      10.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.77,
+      245.99,
+      523.93,
+      260.42
+    ],
+    "text": "The plaint was filed on the basis that pansalewatta was the property of parilleyya wana aramaya.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.37485408782959,
+      10.458316802978516,
+      10.466998100280762,
+      10.477476119995117,
+      10.5,
+      10.557990074157715,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.77,
+      267.58,
+      524.66,
+      282.01
+    ],
+    "text": "The plaintiffs prayed in the alternative for a declaration that the land more fully described in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300454139709473,
+      10.5,
+      10.619915962219238
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.58,
+      288.63,
+      521.68,
+      304.24
+    ],
+    "text": "pt schedule to the plaint was owned by Parileyya Wana Aramaya and that the 2nd plaintiff-",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.143914699554443,
+      10.5,
+      10.594772338867188,
+      12.149514198303223
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.97,
+      311.26,
+      524.78,
+      325.69
+    ],
+    "text": "appellant-respondent was entitled to possess it. Clearly their case is that pansalewatta was the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.307740211486816,
+      10.39815616607666,
+      10.458316802978516,
+      10.5,
+      10.529508590698242,
+      10.623770713806152,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.12,
+      332.86,
+      524.76,
+      347.29
+    ],
+    "text": "property of parilleyya wana aramaya. The Supreme Court has held that a temple is an institution,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.258881568908691,
+      10.282905578613281,
+      10.5,
+      10.540223121643066,
+      10.557990074157715
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.25,
+      354.22,
+      524.21,
+      368.65
+    ],
+    "text": "sui generis which is capable of receiving and holding property that has attributes of a corporation",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.800000190734863,
+      9.820428848266602,
+      10.065145492553711,
+      10.282905578613281,
+      10.5,
+      10.540223121643066,
+      10.557990074157715,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.58,
+      376.06,
+      524.99,
+      390.49
+    ],
+    "text": "for the purpose of acquiring and holding propertyY However, X2 shows the claimant of lot 113",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.895976066589355,
+      10.5,
+      10.526317596435547,
+      10.540223121643066,
+      10.678040504455566,
+      10.699999809265137,
+      10.735410690307617
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.98,
+      397.66,
+      525.07,
+      412.09
+    ],
+    "text": "of plan 4169 to be the incumbent of Lenagala Vihare which according to the evidence appears to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.416366577148438,
+      10.5,
+      10.540223121643066,
+      10.594772338867188,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.13,
+      419.99,
+      524.54,
+      434.42
+    ],
+    "text": "be distinct to parilleyya wana aramaya. Therefore, X2 may have an important influence on the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.895976066589355,
+      10.182293891906738,
+      10.258881568908691,
+      10.477476119995117,
+      10.5,
+      10.594772338867188
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.97,
+      441.58,
+      226.48,
+      456.01
+    ],
+    "text": "question of title in that context. s",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.540371894836426,
+      10.557990074157715,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.31,
+      471.11,
+      523.79,
+      485.54
+    ],
+    "text": "For the foregoing reasons, I am of the view that documents X2 and X3 would probably have an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.895976066589355,
+      10.141633987426758,
+      10.339929580688477,
+      10.390175819396973,
+      10.5,
+      10.557990074157715,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.36,
+      492.94,
+      281.86,
+      507.37
+    ],
+    "text": "important influence on the result of the case.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.296630859375,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.94,
+      522.3,
+      105.97,
+      537.03
+    ],
+    "text": "Credible",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.604069709777832
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.17,
+      551.99,
+      525.84,
+      566.42
+    ],
+    "text": "Courts would have less hesitation in admitting fresh evidence consisting of a judicial record or a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.394166946411133,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.97,
+      573.34,
+      524.67,
+      587.77
+    ],
+    "text": "deed or similar evidence which came into existence long before the dispute arose and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.96,
+      594.94,
+      524.79,
+      609.37
+    ],
+    "text": "chances of fabrication are extremely remote.13 Both X2 and X3 are certified copies of documents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.787849426269531,
+      9.895976066589355,
+      10.49679946899414,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.36,
+      616.79,
+      525.58,
+      631.22
+    ],
+    "text": "prepared by the Surveyor General long before the dispute arose between the parties. Section 7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.22,
+      638.62,
+      524.79,
+      653.05
+    ],
+    "text": "of the Land Surveys Ordinance states that any plan or survey purporting to be a true copy of one",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.251253128051758,
+      10.299995422363281,
+      10.5,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.11,
+      660.22,
+      523.98,
+      674.65
+    ],
+    "text": "purporting to be signed as aforesaid shall, provided the said copy purport to be signed and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.299995422363281,
+      10.416366577148438,
+      10.44802188873291,
+      10.5,
+      10.594772338867188,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.97,
+      710.67,
+      522.83,
+      734.83
+    ],
+    "text": "12 Kosgoda Pangnaseela v. Gamage Pavisthinahamy [(1986) 3 C.A.L.R. 48], Omare Dhammapala Thero v. Rajapakshage Peiris [(2004) 1 SrLL.R. 1)",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.900100231170654,
+      7.628971099853516,
+      7.808469772338867,
+      8.199999809265137,
+      8.5,
+      8.888733863830566,
+      9.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.11,
+      734.91,
+      279.9,
+      746.45
+    ],
+    "text": "13 Endris De Silva and another v. Amalis (33 c.L.W. 39)",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.099999904632568,
+      7.628971099853516,
+      8.199999809265137,
+      8.357251167297363,
+      8.5,
+      8.511792182922363,
+      8.546074867248535,
+      8.568473815917969
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      290.77,
+      754.83,
+      298.27,
+      768.17
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      586.88,
+      -45.57,
+      609.29,
+      62.21
+    ],
+    "text": ",I 1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.800099849700928,
+      40.29999923706055,
+      52.20009994506836
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      587.64,
+      420.5,
+      609.21,
+      557.38
+    ],
+    "text": "t I I I II f",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.900100231170654,
+      12.699999809265137,
+      14.800000190734863,
+      15.300000190734863,
+      22.100000381469727,
+      38.79999923706055,
+      41.29999923706055
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      587.37,
+      562.61,
+      604.4,
+      678.98
+    ],
+    "text": "f i II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.70009994506836,
+      29.299999237060547,
+      30.600000381469727,
+      48.40010070800781
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      588.2,
+      673.99,
+      597.07,
+      709.33
+    ],
+    "text": "t l ! t",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.900100231170654,
+      6.900100231170654,
+      8.800000190734863,
+      16.799999237060547
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.69,
+      107.99,
+      525.5,
+      122.42
+    ],
+    "text": "authenticated by the Surveyor-General or officer acting on his behalf as a true copy of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.477476119995117,
+      10.492197036743164,
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.7,
+      129.58,
+      525.37,
+      144.01
+    ],
+    "text": "original, be received in evidence in all cases and for all purposes instead of the original, and may",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.182293891906738,
+      10.277594566345215,
+      10.5,
+      10.526317596435547,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.85,
+      151.42,
+      525.5,
+      165.85
+    ],
+    "text": "(without proof that the original is not procurable) be taken as prima facie evidence of the truth",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.925800323486328,
+      10.065145492553711,
+      10.299995422363281,
+      10.5,
+      10.506547927856445,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.46,
+      173.27,
+      524.8,
+      187.7
+    ],
+    "text": "of the facts exhibited therein as fully as that original may be under this Ordinance; and it shall",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      9.925800323486328,
+      10.299995422363281,
+      10.5,
+      10.557990074157715,
+      10.673663139343262,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.84,
+      194.86,
+      522.65,
+      209.29
+    ],
+    "text": "not be necessary to prove that the said copy was in fact signed or authenticated by the Surveyor-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.299995422363281,
+      10.458316802978516,
+      10.5,
+      10.557990074157715,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.4,
+      216.95,
+      525.27,
+      231.38
+    ],
+    "text": "General or officer acting on his behalf, nor that it is a true copy, nor that the facts established",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.477476119995117,
+      10.492197036743164,
+      10.5,
+      10.527414321899414,
+      10.623770713806152,
+      10.90320873260498
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.27,
+      238.54,
+      525.51,
+      252.97
+    ],
+    "text": "therein are accurate, until evidence to the contrary shall have first been given. Therefore, the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.46,
+      260.39,
+      358.47,
+      274.82
+    ],
+    "text": "evidence sought to be adduced as fresh evidence, is credible.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.065145492553711,
+      10.5,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.57,
+      290.14,
+      525.45,
+      304.57
+    ],
+    "text": "An application to lead fresh evidence in terms of Section 773 of the Civil Procedure Code must",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.194969177246094,
+      10.350942611694336,
+      10.371969223022461,
+      10.5,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.71,
+      311.75,
+      522.4,
+      326.18
+    ],
+    "text": "satisfy all three conditions discussed above. But the application made by the 1A plaintiff-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.379610061645508,
+      10.5,
+      10.514739990234375
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.69,
+      333.59,
+      525.5,
+      348.02
+    ],
+    "text": "appellant-petitioner dated 11th March 2016 to lead fresh evidence in terms of Section 773 of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.035163879394531,
+      10.5,
+      10.540223121643066,
+      10.594772338867188,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.65,
+      355.19,
+      525.31,
+      369.62
+    ],
+    "text": "Civil Procedure Code satisfies only two conditions of the test enunciated by our courts. The 1A",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.37485408782959,
+      10.379610061645508,
+      10.479680061340332,
+      10.5,
+      10.638931274414062,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.84,
+      377.03,
+      525.23,
+      391.46
+    ],
+    "text": "plaintiff-appellant-petitioner has failed to establish that X2 and X3 could not have been obtained",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.787849426269531,
+      9.895976066589355,
+      10.282905578613281,
+      10.5,
+      10.557990074157715,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.56,
+      399.1,
+      525.38,
+      413.53
+    ],
+    "text": "with reasonable diligence for use at the trial. In fact, the circumstances show that they could have",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.252840995788574,
+      10.365235328674316,
+      10.5,
+      10.507097244262695,
+      10.557990074157715,
+      10.619915962219238
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.6,
+      420.7,
+      369.73,
+      435.13
+    ],
+    "text": "been obtained with reasonable diligence to be used at the trial.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.299995422363281,
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.03,
+      450.47,
+      525.75,
+      464.9
+    ],
+    "text": "For the foregoing reasons, the application of the 1A plaintiff-appellant-petitioner dated 11th",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.979151248931885,
+      10.339929580688477,
+      10.379610061645508,
+      10.5,
+      10.540223121643066
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.05,
+      472.06,
+      524.79,
+      486.49
+    ],
+    "text": "March 2016 to lead fresh evidence in terms of Section 773 of the Civil Procedure Code is refused.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.447166442871094,
+      10.458216667175293,
+      10.5,
+      10.594772338867188,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.99,
+      501.82,
+      286.45,
+      516.25
+    ],
+    "text": "I make no order as to costs of this application.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.925800323486328,
+      10.5,
+      10.814053535461426,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.49,
+      531.34,
+      340.74,
+      545.77
+    ],
+    "text": "The appeal will now be listed for argument in due course.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.37485408782959,
+      10.416366577148438,
+      10.5,
+      10.510245323181152,
+      10.619915962219238
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      311.45,
+      649.66,
+      450.47,
+      664.09
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      291.9,
+      756.05,
+      299.55,
+      769.66
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      588.21,
+      6.66,
+      600.68,
+      39.74
+    ],
+    "text": "t i ,",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      6.199999809265137,
+      10.899999618530273,
+      21.70009994506836
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      587.41,
+      178.96,
+      610.54,
+      251.9
+    ],
+    "text": "! I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      27.0,
+      41.599998474121094
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      587.94,
+      240.9,
+      598.25,
+      306.52
+    ],
+    "text": "t i ! r t",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      15.100000381469727,
+      15.300000190734863,
+      16.100000381469727,
+      18.20009994506836
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      588.17,
+      313.21,
+      603.9,
+      398.3
+    ],
+    "text": "t I I t f:",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.7845964431762695,
+      16.399999618530273,
+      19.799999237060547,
+      24.399999618530273,
+      28.299999237060547
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      588.16,
+      421.82,
+      600.16,
+      463.13
+    ],
+    "text": "t 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.0,
+      17.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      587.14,
+      463.26,
+      600.48,
+      615.6
+    ],
+    "text": "t !Ii Ir",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.100000381469727,
+      17.799999237060547,
+      20.799999237060547,
+      36.90010070800781,
+      39.70009994506836,
+      48.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      589.21,
+      607.53,
+      599.64,
+      637.03
+    ],
+    "text": "f !",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727,
+      18.0
+    ]
+  }
+]

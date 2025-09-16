@@ -1,0 +1,89 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      158.78,
+      72.35,
+      456.22,
+      85.63
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      86.17,
+      385.99,
+      164.92
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA PHC APN 14/2017",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Helvetica",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      6.0,
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      164.9,
+      422.47,
+      207.16
+    ],
+    "text": "Sube Appu Kankanamlage Anura Dharmapriya Weerawardhana",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      207.14,
+      449.95,
+      319.75
+    ],
+    "text": "2nd Accused Petitioner Vs. Hon. Attorney General, Attorney General's Department, Colombo 12",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      319.73,
+      473.02,
+      333.79
+    ],
+    "text": "Complainant - Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

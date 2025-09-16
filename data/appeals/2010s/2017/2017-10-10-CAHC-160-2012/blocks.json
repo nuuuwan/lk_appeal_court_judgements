@@ -1,0 +1,155 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      94.62,
+      85.63,
+      521.7,
+      101.43
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.274999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.27,
+      102.13,
+      400.05,
+      117.93
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.274999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.1,
+      117.9,
+      309.95,
+      202.36
+    ],
+    "text": "C.A. No: 160/12",
+    "fonts": [
+      "Cambria,Bold",
+      "Times",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.25,
+      12.0,
+      14.274999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.4,
+      202.55,
+      489.99,
+      258.66
+    ],
+    "text": "Attorney General, Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.4,
+      258.85,
+      433.66,
+      301.43
+    ],
+    "text": "Complainant",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.4,
+      301.65,
+      440.41,
+      385.51
+    ],
+    "text": "Vs. Wijamunige Themaris",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.4,
+      385.72,
+      440.41,
+      512.39
+    ],
+    "text": "Accused And now between Wijamunige Themaris",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.4,
+      512.6,
+      471.97,
+      554.44
+    ],
+    "text": "Accused-Appellants",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.4,
+      554.63,
+      489.99,
+      695.56
+    ],
+    "text": "Vs. Attorney General, Attorney General's Department, Colombo 12 Complainant- Respondent",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

@@ -1,0 +1,1340 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      108.65,
+      107.39,
+      507.4,
+      124.42
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.339686393737793
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      222.66,
+      130.19,
+      393.15,
+      147.22
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      518.75,
+      36.25,
+      526.77,
+      50.53
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.12,
+      163.27,
+      526.95,
+      178.9
+    ],
+    "text": "In the matter of an application for a",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.765052795410156,
+      12.800000190734863,
+      14.070314407348633
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.43,
+      186.05,
+      526.82,
+      201.69
+    ],
+    "text": "mandate in the nature of Writ of Certiorari",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.688867568969727,
+      12.800000190734863,
+      14.070314407348633,
+      14.20494556427002
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.61,
+      208.85,
+      485.96,
+      224.49
+    ],
+    "text": "under Article 140 of the Constitution.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.800000190734863,
+      14.070314407348633
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.35,
+      240.64,
+      448.42,
+      257.45
+    ],
+    "text": "Gihan Niroshan Jayawardena,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.29,
+      260.08,
+      437.4,
+      276.89
+    ],
+    "text": "No. 7/3, Lumbini Mawatha,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.17,
+      280.0,
+      401.48,
+      296.81
+    ],
+    "text": "Dalugama, Kelaniya.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      452.07,
+      310.68,
+      509.95,
+      327.71
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      88.9,
+      339.47,
+      251.22,
+      356.51
+    ],
+    "text": "Court of Appeal Application",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.827824592590332
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      88.51,
+      364.31,
+      306.31,
+      381.7
+    ],
+    "text": "No. CA 358/2017 Writ Vs.",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      88.49,
+      582.11,
+      128.1,
+      599.14
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      88.9,
+      659.87,
+      136.02,
+      676.9
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.53,
+      391.12,
+      490.63,
+      407.93
+    ],
+    "text": "1. Commercial Bank of Ceylon PLC,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.872604370117188,
+      12.600000381469727,
+      13.239473342895508
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.24,
+      410.8,
+      425.4,
+      427.61
+    ],
+    "text": "\"Commercial House\",",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.53,
+      430.48,
+      477.42,
+      447.29
+    ],
+    "text": "No. 21, Abdul Gaffor Mawatha,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.34,
+      450.18,
+      376.54,
+      466.98
+    ],
+    "text": "Colombo 01.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.41,
+      470.08,
+      421.09,
+      547.37
+    ],
+    "text": "2. L.B. Senanayake, Licensed Auctioneer, No. 182, 3rd Floor, Hulftsdrop Street, Colombo 12.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.358304023742676,
+      12.330774307250977,
+      12.46932315826416,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      171.53,
+      581.44,
+      325.42,
+      598.25
+    ],
+    "text": "L.T.B. Dehideniya J, (PICA)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.543071746826172,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      226.65,
+      604.72,
+      237.9,
+      621.07
+    ],
+    "text": "&",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      173.5,
+      626.8,
+      316.07,
+      643.61
+    ],
+    "text": "A.L. Shiran Gooneratne J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.339098930358887,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      415.62,
+      556.44,
+      489.42,
+      573.47
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      169.86,
+      658.96,
+      498.27,
+      710.33
+    ],
+    "text": "Dr. Jayatissa de Costa PC, with Edward Samarawickrama and Pasan Wijesinghe instructed by Damith Samarasekara for the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.573622703552246,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      519.54,
+      37.2,
+      527.56,
+      51.48
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.5,
+      72.64,
+      246.46,
+      90.1
+    ],
+    "text": "Argued 00 : 0811112017",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      9.911065101623535,
+      12.300000190734863,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.72,
+      100.49,
+      233.53,
+      117.95
+    ],
+    "text": "Decided 00 0911112017",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.911065101623535,
+      12.300000190734863,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.61,
+      135.24,
+      130.55,
+      152.27
+    ],
+    "text": "Order",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.611212730407715
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.26,
+      168.88,
+      239.71,
+      186.34
+    ],
+    "text": "A.L. Shirao Goooeratoe J.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124.98,
+      224.08,
+      516.4,
+      240.89
+    ],
+    "text": "Heard President's Counsel for the Petitioner in support of this application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.239473342895508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125.2,
+      264.64,
+      526.39,
+      281.45
+    ],
+    "text": "In paragraph (b), (c) and (d) of the prayer to the Petition, the Petitioner is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.347776412963867,
+      12.600000381469727,
+      13.239473342895508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.1,
+      294.88,
+      450.34,
+      311.69
+    ],
+    "text": "seeking relief, inter alia, in the nature of writ of Certiorari to Quash.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.0,
+      13.106422424316406
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.09,
+      335.2,
+      526.51,
+      352.01
+    ],
+    "text": "1. the notice of sale marked P21 published by the 1 st Respondent in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      11.872604370117188,
+      12.582938194274902,
+      12.600000381469727,
+      13.239473342895508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125.16,
+      364.0,
+      351.78,
+      382.73
+    ],
+    "text": "Government Gazette of 20th October 2017.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.135953903198242,
+      12.600000381469727,
+      13.106422424316406
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.21,
+      396.64,
+      297.43,
+      413.45
+    ],
+    "text": "2. the Board resolution marked P7.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.330774307250977,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.13,
+      425.21,
+      505.04,
+      443.45
+    ],
+    "text": "3. the letter dated 15th July 2017, demanding Rs. 36.1 million marked P12.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.46819019317627,
+      12.063007354736328,
+      12.493349075317383,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125.19,
+      467.2,
+      526.87,
+      484.01
+    ],
+    "text": "In order to prevent the 1 st Respondent from selling the mortgaged properties",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.29,
+      495.77,
+      525.65,
+      514.26
+    ],
+    "text": "by public auction, the Petitioner instituted action against the 1 st and 2nd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.238941192626953,
+      8.409669876098633,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.22,
+      527.92,
+      526.74,
+      544.73
+    ],
+    "text": "Respondents in Case No. DSP/460117 in the District Court of Colombo. On the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.582287788391113,
+      12.600000381469727,
+      12.800000190734863,
+      13.239473342895508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.26,
+      558.17,
+      526.96,
+      574.98
+    ],
+    "text": "notice returnable date of the said case, the Counsel appearing for the Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.106422424316406
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.33,
+      588.65,
+      526.8,
+      605.46
+    ],
+    "text": "submitted to Court that since the value of the case exceeds Rs. 5 million, this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.972007751464844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.38,
+      619.12,
+      471.01,
+      635.93
+    ],
+    "text": "action should be transferred to the Commercial High Court of Colombo.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.106422424316406
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125.17,
+      658.96,
+      526.22,
+      675.77
+    ],
+    "text": "The Learned District Judge having heard both parties, by order dated 31 st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      11.836626052856445,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.26,
+      688.73,
+      527.06,
+      705.54
+    ],
+    "text": "August 2017, transferred the said case to the Commercial High Court of Colombo,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.106422424316406
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      589.15,
+      344.19,
+      595.21,
+      359.17
+    ],
+    "text": "t",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      588.82,
+      356.87,
+      595.02,
+      374.65
+    ],
+    "text": "~ i ,",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.136085033416748,
+      7.199999809265137,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      588.59,
+      388.32,
+      595.24,
+      403.52
+    ],
+    "text": "f",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      586.77,
+      401.27,
+      607.14,
+      553.64
+    ],
+    "text": "~-! I I1 I I ! r",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.715290069580078,
+      6.900100231170654,
+      7.900100231170654,
+      16.5,
+      16.899999618530273,
+      22.100000381469727,
+      32.20009994506836,
+      35.79999923706055,
+      44.20009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      518.52,
+      36.46,
+      526.4,
+      50.47
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.67,
+      73.12,
+      526.14,
+      89.93
+    ],
+    "text": "and also vacated the enjoining order obtained by the Petitioner preventing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.43,
+      103.61,
+      526.02,
+      120.42
+    ],
+    "text": "auction of the mortgaged properties. The said order was subject to the rights of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.972007751464844,
+      13.239473342895508
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.1,
+      133.84,
+      481.84,
+      150.65
+    ],
+    "text": "parties until appropriate orders were made by the Commercial High Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124.2,
+      174.41,
+      528.55,
+      191.22
+    ],
+    "text": "The Petitioner states that the 1 st Respondent thereafter caused publication of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.758151054382324,
+      12.600000381469727,
+      12.972007751464844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.19,
+      203.23,
+      526.42,
+      221.93
+    ],
+    "text": "a notice of sale in the Government Gazette and Newspapers, dated 20th October",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.231114387512207,
+      12.600000381469727,
+      13.239473342895508
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.24,
+      233.48,
+      526.3,
+      252.18
+    ],
+    "text": "2017, to hold a public auction on 10th November 2017, to sell the mortgaged",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.400856971740723,
+      12.202427864074707,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.1,
+      265.84,
+      145.48,
+      282.65
+    ],
+    "text": "properties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.97,
+      306.41,
+      525.96,
+      323.22
+    ],
+    "text": "The said notice of sale was published after the transfer of the said case to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.239473342895508
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.05,
+      336.64,
+      525.69,
+      353.45
+    ],
+    "text": "the Commercial High Court. The Petitioner further states that a leave to appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.19,
+      364.89,
+      526.59,
+      383.7
+    ],
+    "text": "application in respect of the Learned District Judge's order dated 31 st August",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.55678939819336,
+      12.108774185180664,
+      12.600000381469727,
+      13.106422424316406
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.24,
+      397.36,
+      525.77,
+      414.17
+    ],
+    "text": "2017, was filed before the Civil Appeal High Court of Colombo which is to be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.347776412963867,
+      12.600000381469727,
+      13.106422424316406
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.38,
+      427.84,
+      258.12,
+      444.65
+    ],
+    "text": "supported on 11 th January 2017.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.56723690032959,
+      11.488253593444824,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124.23,
+      467.78,
+      526.02,
+      485.39
+    ],
+    "text": "It is observed that the Petitioner's case is pending, listing in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.545331954956055,
+      12.582287788391113,
+      12.600000381469727,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.43,
+      498.89,
+      526.34,
+      515.7
+    ],
+    "text": "Commercial High Court of Colombo. In the interim, there are no statutory or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.106422424316406
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.35,
+      529.12,
+      526.22,
+      545.93
+    ],
+    "text": "procedural inhibitions for the Petitioner to make an application to the Commercial",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.26,
+      559.84,
+      265.79,
+      576.65
+    ],
+    "text": "High Court for appropriate relief.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124.25,
+      599.68,
+      526.02,
+      616.49
+    ],
+    "text": "From time to time the Superior Courts have held, that, it is within the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.545331954956055,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.44,
+      630.16,
+      526.93,
+      646.97
+    ],
+    "text": "discretion of this Court to refuse to issue writ, if it is perceived that the Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.545331954956055,
+      12.600000381469727,
+      13.182581901550293,
+      13.239473342895508
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.54,
+      660.65,
+      363.27,
+      677.46
+    ],
+    "text": "has an adequate and appropriate alternative remedy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      514.28,
+      36.9,
+      522.01,
+      50.64
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.39,
+      73.55,
+      522.28,
+      89.83
+    ],
+    "text": "In the circumstances we hold that the Petitioner has an adequate alternative",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.2459135055542
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.45,
+      104.26,
+      297.23,
+      120.54
+    ],
+    "text": "remedy to address the reliefs prayed for.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.38,
+      144.83,
+      310.97,
+      161.1
+    ],
+    "text": "In the circumstances notice refused.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.18,
+      185.38,
+      306.73,
+      201.66
+    ],
+    "text": "Petition is dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275.68,
+      307.55,
+      489.67,
+      323.83
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.260798454284668,
+      12.261146545410156
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.41,
+      348.27,
+      238.19,
+      364.92
+    ],
+    "text": "L.T.B. Dehideniya J, (PICA)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.39,
+      389.15,
+      161.97,
+      405.43
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229.86,
+      429.46,
+      472.63,
+      445.74
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.202099800109863,
+      12.260798454284668
+    ]
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      99.12,
+      72.11,
+      517.2,
+      87.91
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRAIC SOCIALIST",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.274999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.27,
+      87.88,
+      400.05,
+      103.68
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      14.274999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.1,
+      104.38,
+      312.77,
+      206.86
+    ],
+    "text": "Court of Appeal case no : CA HC 38 /2016",
+    "fonts": [
+      "Arial,Bold",
+      "Cambria,Bold",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.274999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      228.82,
+      498.99,
+      242.88
+    ],
+    "text": "M.A.Chaminda Wijethilaka",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      249.85,
+      414.14,
+      263.91
+    ],
+    "text": "Randuwa,",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      270.87,
+      420.14,
+      284.93
+    ],
+    "text": "Pemaduwa",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      355.7,
+      433.66,
+      369.76
+    ],
+    "text": "Complainant",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      439.77,
+      378.84,
+      453.83
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      524.6,
+      474.97,
+      538.66
+    ],
+    "text": "Hon Attorney General",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      545.63,
+      523.77,
+      559.69
+    ],
+    "text": "Attorney Generals Department",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      566.65,
+      424.66,
+      580.71
+    ],
+    "text": "Colombo 12",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      651.47,
+      435.16,
+      665.53
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.99,
+      71.44,
+      190.64,
+      88.25
+    ],
+    "text": "C.A. No.38/2016",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.099066734313965
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.58,
+      119.21,
+      142.32,
+      136.02
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.657071113586426
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.51,
+      184.97,
+      150.9,
+      201.78
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.9,
+      232.48,
+      173.14,
+      264.66
+    ],
+    "text": "ARGUED AND DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.557779312133789,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.07,
+      306.55,
+      221.46,
+      327.76
+    ],
+    "text": "s. THURAIRAJA PC J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5,
+      12.100000381469727,
+      14.470338821411133
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      232.02,
+      71.68,
+      495.01,
+      88.49
+    ],
+    "text": "H.C. Anuradhapura Case No.HC 211/2013",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.963360786437988,
+      13.277297019958496,
+      13.37440299987793
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.61,
+      119.44,
+      459.94,
+      136.25
+    ],
+    "text": "S. DEVIKA DE L. TENNEKOON J AND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.607887268066406,
+      12.0,
+      12.557779312133789,
+      12.600000381469727,
+      12.714975357055664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.61,
+      142.97,
+      359.34,
+      159.78
+    ],
+    "text": "S. THURAlRAJA PC J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.66,
+      184.97,
+      515.95,
+      201.78
+    ],
+    "text": "Niroshana Igalahewa for the Accused-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.774097442626953,
+      12.846538543701172,
+      13.028851509094238,
+      13.119634628295898
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.1,
+      208.97,
+      384.44,
+      225.78
+    ],
+    "text": "A. Navavi SSC for the AG",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.222237586975098,
+      12.600000381469727,
+      12.679101943969727,
+      13.119634628295898
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      231.22,
+      248.09,
+      302.55,
+      264.9
+    ],
+    "text": "02.10.2017",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.084004402160645
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.13,
+      357.04,
+      524.87,
+      373.85
+    ],
+    "text": "Accused-Appellant is present in Court on bail and represented",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.748425483703613,
+      12.80188274383545,
+      12.954707145690918,
+      12.981378555297852,
+      12.99486255645752,
+      13.051799774169922,
+      13.086604118347168,
+      13.272028923034668,
+      13.40263557434082
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.93,
+      385.84,
+      525.23,
+      402.65
+    ],
+    "text": "by Ms. Niroshana Igalahewa. She was instructed by the accused-appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.713836669921875,
+      12.871524810791016,
+      13.003053665161133,
+      13.03073787689209,
+      13.116129875183105,
+      13.119634628295898,
+      13.127220153808594,
+      13.14860725402832
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.89,
+      414.65,
+      524.56,
+      431.46
+    ],
+    "text": "to withdraw the appeal and she moves to withdraw the appeal. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.7023344039917,
+      12.751736640930176,
+      12.75993537902832,
+      12.860262870788574,
+      12.965353012084961,
+      13.041128158569336,
+      13.119634628295898,
+      13.195479393005371,
+      13.40263557434082
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.78,
+      443.44,
+      523.81,
+      460.25
+    ],
+    "text": "accused-appellant present in Court confirms the withdrawal. Accordingly,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.780211448669434,
+      12.88121223449707,
+      12.954707145690918,
+      13.03189754486084,
+      13.074466705322266,
+      13.086604118347168,
+      13.200109481811523
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.12,
+      472.24,
+      411.27,
+      489.05
+    ],
+    "text": "the withdrawal is allowed and the appeal is dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.628717422485352,
+      12.813884735107422,
+      12.877299308776855,
+      12.904227256774902,
+      12.981378555297852,
+      13.041128158569336,
+      13.119634628295898,
+      13.40263557434082
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.34,
+      508.96,
+      524.92,
+      525.77
+    ],
+    "text": "Registrar is hereby directed to send the case record to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.7023344039917,
+      12.860997200012207,
+      12.87558650970459,
+      12.892602920532227,
+      12.972203254699707,
+      12.981378555297852,
+      13.108153343200684,
+      13.119634628295898,
+      13.214896202087402
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      86.1,
+      537.76,
+      336.14,
+      554.57
+    ],
+    "text": "Registrar of High Court of Anuradhapura.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.832014083862305,
+      12.836186408996582,
+      13.086604118347168,
+      13.164217948913574
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.28,
+      610.72,
+      522.49,
+      627.53
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.697919845581055,
+      12.732404708862305,
+      12.9443941116333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.83,
+      631.75,
+      289.62,
+      652.96
+    ],
+    "text": "s. DEVIKA DE L. TENNEKOON J",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.5,
+      11.533814430236816,
+      11.703802108764648,
+      11.94564151763916,
+      12.102174758911133,
+      14.470338821411133
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.31,
+      658.49,
+      204.28,
+      675.3
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.682380676269531
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.52,
+      680.8,
+      522.69,
+      697.61
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.697919845581055,
+      12.823026657104492,
+      12.9443941116333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.36,
+      706.06,
+      108.41,
+      721.73
+    ],
+    "text": "TW",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.659887313842773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.13,
+      741.49,
+      291.22,
+      754.82
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      158.78,
+      72.35,
+      456.22,
+      85.63
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      86.17,
+      385.99,
+      164.92
+    ],
+    "text": "REPUBLIC OF SRI LANKA CA/HC/17-18/2012",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold",
+      "Helvetica",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      6.0,
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      164.9,
+      334.27,
+      235.24
+    ],
+    "text": "H. Nihal H. Ajith Rohana",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      235.34,
+      417.79,
+      347.83
+    ],
+    "text": "Appellant Vs. Hon. Attorney General, Attorney General's Department, Colombo 12",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.07,
+      347.81,
+      392.95,
+      361.87
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
