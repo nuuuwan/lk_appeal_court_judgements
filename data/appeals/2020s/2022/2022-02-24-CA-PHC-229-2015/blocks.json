@@ -1,0 +1,1824 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      730.74,
+      543.17,
+      756.01
+    ],
+    "text": "Page 1 of 5",
+    "fonts": [
+      "Arial",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      82.34,
+      40.91,
+      532.43,
+      54.19
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.81,
+      68.39,
+      342.19,
+      81.67
+    ],
+    "text": "SRI LANKA",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      95.87,
+      416.35,
+      153.57
+    ],
+    "text": "Aseervatham Samson, Kaththankulam, Kattakandal.",
+    "fonts": [
+      "Arial",
+      "Times New Roman"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      156.49,
+      538.54,
+      199.41
+    ],
+    "text": "Complainant Vs.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      201.73,
+      397.63,
+      246.81
+    ],
+    "text": "Mohamen Nazeer, Ward No. 08, Erukalampiddy.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      249.52,
+      543.1,
+      292.56
+    ],
+    "text": "Respondent AND",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      294.88,
+      416.35,
+      339.96
+    ],
+    "text": "Aseervatham Samson, Kaththankulam, Kattakandal.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      342.76,
+      546.1,
+      385.68
+    ],
+    "text": "Complainant-Petitioner Vs.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      388.0,
+      397.63,
+      433.08
+    ],
+    "text": "Mohamen Nazeer, Ward No. 08, Erukalampiddy.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      435.78,
+      543.1,
+      462.86
+    ],
+    "text": "Respondent-Respondent",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      463.38,
+      543.1,
+      504.38
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      506.7,
+      416.35,
+      551.78
+    ],
+    "text": "Aseervatham Samson, Kaththankulam, Kattakandal.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.05,
+      554.58,
+      546.1,
+      597.5
+    ],
+    "text": "Complainant-Petitioner-Appellant Vs.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.05,
+      599.97,
+      397.63,
+      644.93
+    ],
+    "text": "Mohamen Nazeer, Ward No. 08, Erukalampiddy.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      647.61,
+      543.1,
+      674.81
+    ],
+    "text": "Respondent-Respondent-Respondent",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      689.36,
+      367.87,
+      718.49
+    ],
+    "text": "Before: Prasantha De Silva, J. K.K.A.V. Swarnadhipathi, J.",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.46,
+      173.53,
+      221.95,
+      310.92
+    ],
+    "text": "Court of Appeal PHC No: CA (PHC) 229/15 High Court Revision Application No. 09/2012 Primary Court of Mannar Case No: 4091",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      730.74,
+      543.17,
+      756.01
+    ],
+    "text": "Page 2 of 5",
+    "fonts": [
+      "Arial",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      40.67,
+      531.58,
+      109.17
+    ],
+    "text": "Counsel: K. Raveendran with Dushit Johnthasan and N. Fernando for the Complainant-Petitioner-Appellant. Sabry Nilamudeen for the Respondent-Respondent. Written Submissions 30.12.2021 by the Respondent.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      116.65,
+      215.69,
+      129.93
+    ],
+    "text": "tendered on:",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      137.17,
+      270.41,
+      164.25
+    ],
+    "text": "Argued on: 29.11.2021",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      176.89,
+      270.05,
+      190.17
+    ],
+    "text": "Decided on: 22.02.2022",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      204.85,
+      188.13,
+      234.09
+    ],
+    "text": "Prasantha De Silva, J.",
+    "fonts": [
+      "Arial",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      248.53,
+      543.03,
+      293.28
+    ],
+    "text": "Judgment This appeal emanates from the Order of the Provincial High Court of the Northern Province holden",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      300.76,
+      542.99,
+      314.04
+    ],
+    "text": "in Vavuniya in HCRA 232/2012, where the Complainant-Petitioner canvassed the Order of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      321.4,
+      494.86,
+      334.68
+    ],
+    "text": "learned Primary Court Judge in case bearing No. 4091 of the Primary Court of Mannar.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      362.8,
+      542.97,
+      376.08
+    ],
+    "text": "The Complainant-Petitioner-Appellant [hereinafter sometimes referred to as the Complainant]",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      383.56,
+      542.75,
+      396.84
+    ],
+    "text": "filed information dated 08.10.2010 under and in terms of the provisions of Section 66 (1) (b) of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      404.2,
+      542.68,
+      417.48
+    ],
+    "text": "the Primary Courts Procedure Act No. 44 of 1979 informing the breach of peace affecting the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      424.98,
+      148.7,
+      438.26
+    ],
+    "text": "land in dispute.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      466.38,
+      540.26,
+      479.66
+    ],
+    "text": "The learned Primary Court Judge of Mannar directed the notices to be served on the Respondent-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      487.02,
+      542.82,
+      500.3
+    ],
+    "text": "Respondent-Respondent [hereinafter referred to as the Respondent] and affixed on the land after",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      507.78,
+      543.05,
+      521.06
+    ],
+    "text": "being satisfied of the possible breach of peace as stated above. Subsequently, the parties filed their",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      528.42,
+      543.1,
+      541.7
+    ],
+    "text": "respective affidavits and counter affidavits, and the learned Primary Court Judge allowed the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      549.18,
+      243.05,
+      562.46
+    ],
+    "text": "parties to file written submissions.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      590.58,
+      410.35,
+      603.86
+    ],
+    "text": "It appears that the position taken up by the Complainant is as follows;",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      610.72,
+      542.94,
+      625.37
+    ],
+    "text": "Subject matter was seized and possessed by Saveri Soosaipillai and his predecessors since",
+    "fonts": [
+      "Arial",
+      "Symbol",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      632.85,
+      138.38,
+      646.13
+    ],
+    "text": "1904;",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      652.96,
+      444.67,
+      667.61
+    ],
+    "text": "The Complainant has constructed a house and engaged in cultivation;",
+    "fonts": [
+      "Arial",
+      "Symbol",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      674.56,
+      542.11,
+      689.32
+    ],
+    "text": "The subject matter was mortgaged on several occasions by virtue of deeds of transfer; [M1",
+    "fonts": [
+      "Arial",
+      "Symbol",
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      696.68,
+      141.98,
+      710.07
+    ],
+    "text": "to M4]",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      730.74,
+      543.17,
+      756.01
+    ],
+    "text": "Page 3 of 5",
+    "fonts": [
+      "Arial",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      40.26,
+      543.0,
+      54.91
+    ],
+    "text": "However, the possession of the subject matter remained with him and he cultivated the land",
+    "fonts": [
+      "Arial",
+      "Symbol",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      62.27,
+      385.03,
+      75.55
+    ],
+    "text": "except the time he was internally displaced and resettled;",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      82.52,
+      542.82,
+      97.17
+    ],
+    "text": "When he ploughed the land for cultivation on 29.09.2012, he was threatened to leave the",
+    "fonts": [
+      "Arial",
+      "Symbol",
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      104.53,
+      482.38,
+      117.81
+    ],
+    "text": "paddy land by the Vidathaltheevu Police at the instigation of the Respondent.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      145.93,
+      383.71,
+      159.21
+    ],
+    "text": "However, the Respondent had stated in his affidavits as follows;",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      166.52,
+      542.72,
+      179.97
+    ],
+    "text": "The subject matter was purchased for a valuable consideration by him and his brother in",
+    "fonts": [
+      "Arial",
+      "Times New Roman",
+      "Wingdings"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      187.33,
+      138.38,
+      200.61
+    ],
+    "text": "1983;",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      207.92,
+      542.97,
+      221.37
+    ],
+    "text": "He and his brother cultivated the subject matter in 1983 , 1984 and 1985 and had to leave",
+    "fonts": [
+      "Arial",
+      "Times New Roman",
+      "Wingdings"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      228.73,
+      326.33,
+      242.01
+    ],
+    "text": "that area due to pressure by a terrorist group;",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      249.35,
+      480.82,
+      262.8
+    ],
+    "text": "He could not visit there until the area was fully liberated by the Government;",
+    "fonts": [
+      "Arial",
+      "Times New Roman",
+      "Wingdings"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      269.99,
+      379.27,
+      283.44
+    ],
+    "text": "He cleared the land in August 2010 and erected a fence.",
+    "fonts": [
+      "Arial",
+      "Times New Roman",
+      "Wingdings"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      311.56,
+      542.88,
+      324.84
+    ],
+    "text": "It was the position of the Respondent that he was occupying the said land in dispute from 1983 to",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      332.32,
+      543.08,
+      345.6
+    ],
+    "text": "1990. After the riots, the Respondent was evacuated from the said land in dispute and the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      352.96,
+      295.97,
+      366.24
+    ],
+    "text": "Respondent returned to the said land in 1997.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      394.36,
+      542.82,
+      407.64
+    ],
+    "text": "From 1997 onwards the Respondent has been cultivating the said paddy land in dispute without",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      415.12,
+      542.88,
+      428.4
+    ],
+    "text": "any disturbances. On or around 2010, the Appellant forcibly entered into the said land in dispute",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      435.78,
+      543.06,
+      449.06
+    ],
+    "text": "in order to cultivate the paddy and the Respondents complained to the Police who gave instructions",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      456.54,
+      543.1,
+      469.82
+    ],
+    "text": "to both parties not to enter into the said land in dispute. Subsequently, the Complainant has filed",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      477.18,
+      415.27,
+      490.46
+    ],
+    "text": "the instant case in terms of Section 66 under Primary Code Procedure.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      518.58,
+      542.99,
+      531.86
+    ],
+    "text": "It was submitted on behalf of the Respondent that the Respondent has purchased the said land in",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      539.34,
+      543.09,
+      552.62
+    ],
+    "text": "dispute in 1983 and was in possession from 1983 onwards except during the civil war period which",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      559.98,
+      542.92,
+      573.26
+    ],
+    "text": "is an exceptional circumstance. According to the complaint made on 16.11.2010 by the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      580.62,
+      543.1,
+      593.9
+    ],
+    "text": "Respondent to the Police, it clearly indicates that the Respondent was in possession of the disputed",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      601.41,
+      543.1,
+      614.69
+    ],
+    "text": "land in 2010. The said complaint made by the Respondent to the Police Station of Vidataltivu on",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      622.05,
+      542.94,
+      635.33
+    ],
+    "text": "16.11.2010 is filed on record. The Complainant-Petitioner-Appellant had instituted the instant",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      642.81,
+      543.03,
+      656.09
+    ],
+    "text": "action marking documents P1-P12. Subsequently, Respondent-Respondent-Respondent had filed",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      663.45,
+      542.94,
+      676.73
+    ],
+    "text": "the affidavits with documents marked R1-R15. Since the dispute is relating to the possession of",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      684.2,
+      543.03,
+      697.49
+    ],
+    "text": "land, it is the duty of the learned Primary Court Judge to ascertain who was in possession of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      730.74,
+      543.17,
+      756.01
+    ],
+    "text": "Page 4 of 5",
+    "fonts": [
+      "Arial",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      40.79,
+      542.96,
+      54.07
+    ],
+    "text": "land in dispute at the time of filing the information under Section 66 of the Primary Courts",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      61.43,
+      518.02,
+      74.71
+    ],
+    "text": "Procedure Act and make Order as to who is entitled to the possession of the land in dispute.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      102.85,
+      543.05,
+      116.24
+    ],
+    "text": "The Complainant-Petitioner-Appellant marked and produced documents M5-M12 with the affidavit",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      123.49,
+      543.05,
+      136.77
+    ],
+    "text": "and had claimed possession of the disputed land relying on the said documents. However, counter",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      144.25,
+      542.76,
+      157.53
+    ],
+    "text": "affidavit of the Respondent states that the Police Officers have directed both parties not to enter",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      164.89,
+      172.34,
+      178.17
+    ],
+    "text": "the land in dispute.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      206.29,
+      542.92,
+      219.57
+    ],
+    "text": "Furthermore, the Complainant-Respondent-Appellant submitted that according to the documents",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      227.05,
+      543.02,
+      240.44
+    ],
+    "text": "marked as M5-M12, it establishes the Complainant-Respondent-Appellant was in exclusive",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      247.69,
+      543.08,
+      260.97
+    ],
+    "text": "possession of the disputed land and that he was engaged in cultivating the same. Nevertheless, it",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      268.48,
+      543.1,
+      281.87
+    ],
+    "text": "is worthy to peruse those documents marked and produced as M5, M6, M7, M8, M9, M10, M11 and",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      289.12,
+      97.7,
+      302.51
+    ],
+    "text": "M12.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      330.52,
+      542.94,
+      343.8
+    ],
+    "text": "It was the contention of the Complainant that the disputed paddy land was in control of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      351.28,
+      542.8,
+      364.56
+    ],
+    "text": "Complainant-Respondent-Appellant thus, he is entitled for an order in terms of Section 68 of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      371.92,
+      542.91,
+      385.2
+    ],
+    "text": "Primary Courts Procedure Act. Similarly, Court shall inquire in terms of Section 68 (3) of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      392.68,
+      542.76,
+      405.96
+    ],
+    "text": "Act, to the question whether such person was dispossessed of such possession for the last two",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      413.32,
+      405.79,
+      426.6
+    ],
+    "text": "months before granting an order in respect of the right of possession.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      454.74,
+      543.01,
+      468.02
+    ],
+    "text": "As such, it was contended by Complainant-Respondent-Appellant, that the learned Primary Court",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      475.5,
+      542.66,
+      488.78
+    ],
+    "text": "Judge and the learned Provincial High Court Judge had erred in Law by failing to examine the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      496.14,
+      543.12,
+      509.42
+    ],
+    "text": "question of possession and right to cultivate in deciding that the Respondent was entitled to the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      516.9,
+      230.69,
+      530.18
+    ],
+    "text": "possession of the subject matter.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      558.3,
+      542.99,
+      571.69
+    ],
+    "text": "It is to be observed that the said documents M5-M12 do not establish the possession of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      578.94,
+      542.95,
+      592.22
+    ],
+    "text": "Complainant-Respondent-Appellant relevant to the period of instituting the action on 06.12.2010.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      599.73,
+      543.1,
+      613.01
+    ],
+    "text": "On the other hand, in view of the complaint made by Respondent-Respondent-Respondent on",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      620.37,
+      540.02,
+      633.65
+    ],
+    "text": "16.11.2010 to the Vidataltivu Police Station, it substantiates that the Complainant-Respondent-",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      641.13,
+      543.0,
+      654.41
+    ],
+    "text": "Appellant had forcibly entered into the land in dispute and had removed the barbed wire fence",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      661.77,
+      294.77,
+      675.05
+    ],
+    "text": "erected on the boundary of the disputed land.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      730.74,
+      543.17,
+      756.01
+    ],
+    "text": "Page 5 of 5",
+    "fonts": [
+      "Arial",
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      40.79,
+      542.93,
+      54.07
+    ],
+    "text": "Therefore, it establishes that the Respondent had been dispossessed from the disputed land within",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      61.43,
+      542.81,
+      74.71
+    ],
+    "text": "a period of two months immediately before the date of instituting the instant action under Section",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      82.09,
+      141.02,
+      95.37
+    ],
+    "text": "66 of the Act.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      123.49,
+      546.1,
+      136.77
+    ],
+    "text": "In terms of Section 68 (3) of the Act, the Respondents possession be restored to the disputed land.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      164.89,
+      542.93,
+      178.17
+    ],
+    "text": "Therefore, we see no reason for us to interfere with the Order of the learned Magistrate of Mannar",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      185.65,
+      416.35,
+      198.93
+    ],
+    "text": "and the Order of the learned Provincial High Court Judge of Vavuniya.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      227.05,
+      542.73,
+      240.33
+    ],
+    "text": "Hence, we affirm the Order dated 10.01.2012 by the learned Magistrate of Mannar and the Order",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      247.69,
+      543.09,
+      260.97
+    ],
+    "text": "of the learned Provincial High Court Judge dated 28.02.2015 and dismiss this Appeal of the",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      268.48,
+      303.29,
+      281.76
+    ],
+    "text": "Complainant-Respondent-Appellant with costs.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      372.76,
+      543.1,
+      449.54
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL K.K.A.V. Swarnadhipathi, J.",
+    "fonts": [
+      "Times New Roman",
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      456.66,
+      110.9,
+      469.94
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times New Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      334.39,
+      505.14,
+      543.1,
+      518.42
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times New Roman,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
