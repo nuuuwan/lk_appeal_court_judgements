@@ -45,7 +45,6 @@ def data_repo_push():
             [
                 "git add .",
                 "git commit -m '👶🏾 [appeals_pipeline_local]'",
-                "git pull origin data --rebase",
                 "git push origin data",
                 "cd -",
             ]
