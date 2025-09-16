@@ -14,7 +14,10 @@ class AppealsDoc(AbstractDoc):
     legistation: str
 
     @classmethod
-    @cache
+    def get_doc_class_label(cls):
+        return "appeals"
+
+    @classmethod
     def doc_class_pretty_label(cls) -> str:
         return "⚖️ Judgements of the Court of Appeal of 🇱🇰 Sri Lanka"
 
