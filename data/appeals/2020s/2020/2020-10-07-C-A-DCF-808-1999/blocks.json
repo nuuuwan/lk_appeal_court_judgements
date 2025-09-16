@@ -1,0 +1,4725 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      112.85,
+      76.41,
+      503.87,
+      90.18
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.13117790222168,
+      9.461289405822754,
+      9.597290992736816,
+      9.605206489562988,
+      9.637738227844238,
+      9.72800064086914,
+      9.800000190734863,
+      9.83981704711914,
+      9.868485450744629,
+      9.905301094055176
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      95.41,
+      196.35,
+      186.08,
+      209.95
+    ],
+    "text": "Avissawella District",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      95.62,
+      211.47,
+      208.04,
+      225.07
+    ],
+    "text": "Court Case No: 17198/P",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.605159759521484,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      95.41,
+      245.32,
+      227.04,
+      258.92
+    ],
+    "text": "Appeal's Case No: 808/99(F)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.605159759521484,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.29,
+      121.84,
+      500.4,
+      150.2
+    ],
+    "text": "1. Thennekoon Mudiyanselage Kapila Thennakoon Ruwanwella, Niwunhella.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.899999618530273,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.21,
+      151.71,
+      512.55,
+      165.32
+    ],
+    "text": "2. Thennekoon Mudiyanselage Aron Singho",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.05,
+      166.84,
+      441.07,
+      180.44
+    ],
+    "text": "Ruwanwella, Niwunhella.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      477.52,
+      182.08,
+      520.93,
+      195.16
+    ],
+    "text": "Plaintiffs",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.91,
+      196.56,
+      489.31,
+      225.07
+    ],
+    "text": "Vs. 1. T.M. Podi Appuhami, 03 rd Mile Post,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.567999362945557,
+      9.311989784240723,
+      9.899999618530273,
+      10.084188461303711
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.06,
+      226.59,
+      458.04,
+      240.2
+    ],
+    "text": "Pulmude Road, Bogahawewa",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.22,
+      245.32,
+      483.4,
+      258.92
+    ],
+    "text": "2. Keragalaralage Piyadasa, Imbulana",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.05,
+      260.42,
+      382.68,
+      274.03
+    ],
+    "text": "Ruwanwella.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.81,
+      283.11,
+      478.41,
+      296.71
+    ],
+    "text": "3. Watthayalage Suwada, Imbulana,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.609899520874023,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.05,
+      297.87,
+      376.9,
+      311.47
+    ],
+    "text": "Niwunhela.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.53,
+      320.55,
+      466.42,
+      334.15
+    ],
+    "text": "4. Watthayalage Jema, Imbulana,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.795902252197266,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.06,
+      335.67,
+      379.44,
+      349.27
+    ],
+    "text": "Niwunhella.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.83,
+      354.76,
+      519.84,
+      372.49
+    ],
+    "text": "s. Watthayalage Bebi, Imbulana, Niwunhella.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      11.347590446472168
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.82,
+      380.67,
+      464.06,
+      394.27
+    ],
+    "text": "6. Wdtthayalage John, Imbulana,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.60242748260498,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.06,
+      395.8,
+      379.44,
+      409.4
+    ],
+    "text": "Niwunhella.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.79,
+      418.11,
+      489.47,
+      431.71
+    ],
+    "text": "7. Watthayalage Kirilamaya, Imbulana,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.593092918395996,
+      9.621070861816406,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.06,
+      433.24,
+      379.44,
+      446.84
+    ],
+    "text": "Niwunhella.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.81,
+      455.55,
+      490.65,
+      469.15
+    ],
+    "text": "8. Watthayalage Ranmanike, Imbulana",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.606138229370117,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.05,
+      470.66,
+      382.68,
+      484.27
+    ],
+    "text": "Ruwanwella.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.81,
+      493.36,
+      509.66,
+      521.71
+    ],
+    "text": "9. Watthayalage Wimalasena, Lewangama, North.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.607993125915527,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.97,
+      530.43,
+      470.43,
+      544.04
+    ],
+    "text": "10. Watthayalage Lalith Gunaratna,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.07,
+      545.92,
+      414.4,
+      559.52
+    ],
+    "text": "Lewangama, North.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      464.92,
+      568.72,
+      521.04,
+      581.8
+    ],
+    "text": "Defendants",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.93,
+      583.35,
+      358.38,
+      596.95
+    ],
+    "text": "By Now",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.382156372070312,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.93,
+      607.11,
+      503.31,
+      635.47
+    ],
+    "text": "1. Thennekoon Mudiyanselage Kapila Thennakoon, Ruwanwella, Niwunhella.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.899999618530273,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.21,
+      644.56,
+      515.13,
+      658.16
+    ],
+    "text": "2. Thennekoon Mudiyanselage Aron Singho,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.35732650756836,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.05,
+      659.32,
+      518.06,
+      672.92
+    ],
+    "text": "Ruwanwella, Niwunhella. (now deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.84,
+      681.64,
+      483.82,
+      695.24
+    ],
+    "text": "2(a) Thennakoon Mudiyanselage Kapila",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      322.14,
+      696.39,
+      493.54,
+      709.99
+    ],
+    "text": "Thennakoon, Niwunhella, Imubulana",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      408.76,
+      719.2,
+      512.91,
+      732.28
+    ],
+    "text": "Plaintiff -Appellants",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.03,
+      741.25,
+      313.89,
+      754.58
+    ],
+    "text": "Vs",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.145713806152344
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.6,
+      661.8,
+      127.81,
+      674.61
+    ],
+    "text": "Before:",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.09,
+      51.5,
+      473.51,
+      66.97
+    ],
+    "text": "t. Thennakoon Mudiyanselage Podi",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600000381469727,
+      11.750473976135254
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      319.69,
+      67.67,
+      498.38,
+      81.81
+    ],
+    "text": "Appuhami, Ruwanpura, 03,d Mile Post,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.149276733398438,
+      9.600000381469727,
+      9.72187614440918,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      320.18,
+      83.63,
+      458.11,
+      96.82
+    ],
+    "text": "Pulmude Road, Bogahawewa.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.32,
+      121.44,
+      439.8,
+      134.63
+    ],
+    "text": "2. Ker~gala Ralage Piyadasa,",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      6.0052008628845215,
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      320.14,
+      136.19,
+      428.52,
+      149.38
+    ],
+    "text": "Imbulana, Ruwanwella.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.29,
+      158.87,
+      499.07,
+      202.33
+    ],
+    "text": "3. Watthayalage Suwada (now deceased) 3 a) Watthayalage Jayarathne. 3 b) Watthayalage David",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.34788990020752,
+      9.463175773620605,
+      9.600000381469727,
+      9.677536964416504,
+      10.100000381469727,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      319.85,
+      203.87,
+      455.51,
+      217.06
+    ],
+    "text": "both of Nivunhalla, Imbulana",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727,
+      9.685370445251465,
+      10.210160255432129
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.64,
+      226.03,
+      413.55,
+      239.77
+    ],
+    "text": "4. Watthayalage Rema",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600000381469727,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.93,
+      248.87,
+      483.59,
+      262.06
+    ],
+    "text": "5. Watthayalage Bebi (now deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.453938484191895,
+      9.600000381469727,
+      9.755293846130371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      319.54,
+      264.0,
+      458.23,
+      292.36
+    ],
+    "text": "5 a) Watthayalage Jayarathne 5 b) Watthayalage David",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.199999809265137,
+      9.34788990020752,
+      9.600000381469727,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      319.86,
+      293.87,
+      455.09,
+      307.06
+    ],
+    "text": "both of Nivunhalla, Imbulana",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727,
+      10.01186466217041
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.91,
+      316.24,
+      484.31,
+      389.86
+    ],
+    "text": "6. Watthayalage John (now deceased) 6 a) Wijesinghe Pedige Rupawathie 6 b) Ajith Priyantha Kumara 6 c) Indika Sisira Kumara 6 d) Watthayalage Pushpa Janaki",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.34788990020752,
+      9.3937349319458,
+      9.600000381469727,
+      9.677536964416504,
+      10.100000381469727,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      319.22,
+      391.8,
+      443.93,
+      404.99
+    ],
+    "text": "all of Nivunhalla, Imbulana",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727,
+      10.01186466217041
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.55,
+      414.11,
+      513.49,
+      487.44
+    ],
+    "text": "7. Watthayalage Kirilamaya (now deceased). 7 a) Ranasinghe Pedige Pod ina 7 b) Watthayalage Gnawathie 7 c) Watthayalage Sudath Shelton 7 d) Watthayalage Ramani",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.155877113342285,
+      9.395523071289062,
+      9.474176406860352,
+      9.588234901428223,
+      9.600000381469727,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      319.18,
+      489.04,
+      515.56,
+      517.41
+    ],
+    "text": "7 e) Watthayalage Sugath Rohitha, all of C '185' Nivunhella South,Levangama South",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.349583625793457,
+      9.600000381469727,
+      9.899999618530273,
+      10.01186466217041,
+      10.605448722839355
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.13,
+      525.59,
+      445.03,
+      539.73
+    ],
+    "text": "8. Watthayalage Ran Manike,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.358409881591797,
+      9.600000381469727,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      321.98,
+      541.55,
+      424.31,
+      554.74
+    ],
+    "text": "Niwunhella,lmbulana",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.69408893585205
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.21,
+      563.87,
+      446.54,
+      577.06
+    ],
+    "text": "9. Watthayalage Wimalasena,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      319.47,
+      579.35,
+      408.64,
+      592.54
+    ],
+    "text": "Levangama, North.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727,
+      9.652457237243652
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.33,
+      601.35,
+      466.9,
+      614.86
+    ],
+    "text": "10. Watthayalage Lalith Gunaratna,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600000381469727,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      319.1,
+      616.79,
+      379.59,
+      629.98
+    ],
+    "text": "Ruwenwella.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      394.0,
+      639.49,
+      517.2,
+      652.3
+    ],
+    "text": "Defendant - Respondents",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      226.76,
+      662.16,
+      303.82,
+      674.97
+    ],
+    "text": "Janak De Silva J.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.60562801361084,
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.52,
+      689.29,
+      269.78,
+      702.76
+    ],
+    "text": "&",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      227.3,
+      716.67,
+      356.26,
+      730.13
+    ],
+    "text": "N. Bandula Karunarathna J.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.348695755004883,
+      9.300000190734863,
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      469.25,
+      737.4,
+      517.59,
+      750.59
+    ],
+    "text": "Page 2 of9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.052539825439453,
+      9.600000381469727,
+      9.943890571594238
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.82,
+      67.58,
+      135.77,
+      81.04
+    ],
+    "text": "Counsel:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.57,
+      159.74,
+      195.7,
+      173.2
+    ],
+    "text": "Written Submissions:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863,
+      10.000450134277344
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.25,
+      259.82,
+      147.39,
+      273.29
+    ],
+    "text": "Argued on:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.82,
+      290.07,
+      159.05,
+      303.53
+    ],
+    "text": "Judgment on:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.39,
+      320.3,
+      222.14,
+      333.76
+    ],
+    "text": "N. Bandula Karunarathna J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.917021751403809,
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229.45,
+      67.58,
+      517.63,
+      94.73
+    ],
+    "text": "Rohan Sahabandu, PC with Sachini Senanayake, AAL for the 1\" Plaintiff - Appellant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.813942909240723,
+      9.64863109588623,
+      9.800000190734863,
+      9.950986862182617,
+      9.986181259155273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.95,
+      99.27,
+      516.06,
+      130.0
+    ],
+    "text": "Vijith Singh with A. Perera for the 3rd and 5th Defendant-Respondents.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.031938552856445,
+      8.450075149536133,
+      9.448029518127441,
+      9.800000190734863,
+      9.950986862182617,
+      9.986181259155273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229.3,
+      134.54,
+      479.97,
+      151.61
+    ],
+    "text": "Waruni Ubesekara for the 6th Defendant -Respondent.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.450075149536133,
+      9.800000190734863,
+      9.880965232849121
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229.48,
+      159.74,
+      425.07,
+      173.2
+    ],
+    "text": "By the Plaintiff - Appellants on 08.07.2019",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.505938529968262,
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229.48,
+      177.74,
+      500.24,
+      194.8
+    ],
+    "text": "By the 3rd and 5th Defendant - Respondents on 26.06.2019",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.199999809265137,
+      8.450075149536133,
+      9.505938529968262,
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229.44,
+      198.98,
+      517.68,
+      216.41
+    ],
+    "text": "Further Written Submissions of & 5th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.450075149536133,
+      9.800000190734863,
+      9.949312210083008,
+      10.315967559814453,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229.46,
+      216.98,
+      413.22,
+      230.44
+    ],
+    "text": "Defendant/Respondents on 14.08.2019",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      229.48,
+      234.63,
+      463.3,
+      251.68
+    ],
+    "text": "By the 6th Defendant - Respondent on 11.03.2019.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.505938529968262,
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.84,
+      259.83,
+      288.49,
+      273.29
+    ],
+    "text": "09/07/2019.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.84,
+      290.42,
+      290.02,
+      303.88
+    ],
+    "text": "30/09/2020.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.905679702758789
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.82,
+      347.66,
+      518.23,
+      365.09
+    ],
+    "text": "The Plaintiff Appellants above named, instituted a Partition action by Plaint dated 07th June",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.18173885345459,
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.28,
+      366.37,
+      518.21,
+      379.84
+    ],
+    "text": "1983, seeking a Partition of the land called and known as \"Peella Aile Hena\" alias \"Peella Aile",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.403009414672852,
+      9.762679100036621,
+      9.800000190734863,
+      10.315967559814453
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.37,
+      381.51,
+      517.83,
+      394.97
+    ],
+    "text": "Hena Wattha\" alias \"Peella Gawa Hena Wattha\", situated at Nivunhella village in extent as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.403009414672852,
+      9.800000190734863,
+      9.810644149780273,
+      9.814090728759766
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.41,
+      392.66,
+      518.2,
+      409.72
+    ],
+    "text": "having of two Amunas of paddy sowing, between themselves and 1\" to 10th Defendants.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.710148811340332,
+      9.800000190734863,
+      10.036788940429688,
+      10.115617752075195,
+      10.138310432434082,
+      10.315967559814453
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.1,
+      411.38,
+      518.69,
+      424.84
+    ],
+    "text": "Commission was issued to Mr. P.K Sumanadasa Licensed Surveyor who returned his",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863,
+      9.826563835144043,
+      9.840516090393066,
+      10.036788940429688
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.14,
+      426.51,
+      518.68,
+      439.97
+    ],
+    "text": "commission with Preliminary Plan No 76/1031 dated 08.09.1984 together with his report",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.74117374420166,
+      9.800000190734863,
+      9.858426094055176,
+      9.950986862182617
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.14,
+      441.63,
+      517.77,
+      455.09
+    ],
+    "text": "attached thereto depicting the corpus as Lots 1-3 therein having a total extent of A10-R3-P",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.403009414672852,
+      9.425858497619629,
+      9.800000190734863,
+      9.87104320526123,
+      9.880965232849121,
+      9.91719913482666,
+      10.115617752075195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.16,
+      456.74,
+      108.89,
+      470.2
+    ],
+    "text": "25.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.46,
+      484.1,
+      518.3,
+      497.56
+    ],
+    "text": "Thereafter the Defendants filed their statements of claims and by their statements of claims",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863,
+      9.870397567749023,
+      9.880965232849121,
+      9.953695297241211,
+      10.315967559814453
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.88,
+      499.22,
+      518.71,
+      512.68
+    ],
+    "text": "whilst denying the averments in the Plaint claimed prescriptive title to the entirety of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863,
+      9.845444679260254,
+      9.880965232849121,
+      9.948820114135742,
+      10.036788940429688,
+      10.115617752075195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.13,
+      513.97,
+      511.65,
+      527.44
+    ],
+    "text": "corpus. Trial in the action commenced on 12.03.1997 and 46 points of contest were raised.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863,
+      10.115617752075195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.37,
+      536.65,
+      517.88,
+      550.12
+    ],
+    "text": "Upon the conclusion of the trial Written Submissions were filed on behalf of the Plaintiffs and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863,
+      9.880965232849121,
+      9.949312210083008,
+      10.315967559814453
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.12,
+      547.82,
+      518.73,
+      564.88
+    ],
+    "text": "3rd and 5th, 20d and 7th Defendants. Thereafter the Learned District Judge by her Judgement",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.606649398803711,
+      6.699999809265137,
+      8.450075149536133,
+      9.203975677490234,
+      9.800000190734863,
+      9.880965232849121
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.79,
+      566.54,
+      518.71,
+      580.0
+    ],
+    "text": "on 24.09.1999 whilst holding that the Plaintiffs are entitled to undivided 75/288 share of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863,
+      9.820728302001953,
+      9.880965232849121,
+      9.974349021911621,
+      10.036788940429688,
+      10.115617752075195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.77,
+      578.06,
+      518.88,
+      595.12
+    ],
+    "text": "corpus and decided that the 3rd and 5th Defendants had clearly proved their prescriptive title",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.031938552856445,
+      9.800000190734863,
+      9.948820114135742,
+      9.953695297241211,
+      9.974349021911621
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.83,
+      596.42,
+      518.2,
+      609.88
+    ],
+    "text": "the portion of land they claimed. Their lots were not excluded but Court granted the said",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863,
+      9.800749778747559,
+      9.827561378479004,
+      9.861557006835938,
+      9.870595932006836,
+      9.905086517333984,
+      9.963338851928711,
+      10.115617752075195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.8,
+      611.54,
+      231.62,
+      625.0
+    ],
+    "text": "shares to the 3-5 Defendants.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863,
+      9.880965232849121,
+      10.036788940429688
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.02,
+      633.87,
+      518.34,
+      647.33
+    ],
+    "text": "Being dissatisfied with the said Judgement, the Plaintiffs- Appellants above named have",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863,
+      9.880965232849121,
+      9.950986862182617
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      93.05,
+      648.98,
+      517.73,
+      662.44
+    ],
+    "text": "invoked the appellate jurisdiction of this Court by lodging an appeal against the sa id",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.006690979003906,
+      9.683154106140137,
+      9.766592979431152,
+      9.800000190734863,
+      10.115617752075195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.45,
+      663.74,
+      375.97,
+      677.2
+    ],
+    "text": "Judgement by filing a notice of appeal and petition of appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863,
+      9.831948280334473,
+      10.115617752075195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.46,
+      686.06,
+      517.83,
+      699.52
+    ],
+    "text": "The Plaintiff Appellants (hereinafter c311ed thE' Plaintiffs) state that on a perusal of the said",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.540802955627441,
+      9.547446250915527,
+      9.57865047454834,
+      9.800000190734863,
+      9.974349021911621,
+      10.115617752075195
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.45,
+      700.82,
+      518.06,
+      714.29
+    ],
+    "text": "Judgement it is apparent that the LE'arned Trial Judge had failed to analyse the evidence led",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.342365264892578,
+      9.776371002197266,
+      9.800000190734863,
+      9.974349021911621,
+      10.036788940429688,
+      10.199026107788086
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      470.32,
+      737.19,
+      518.89,
+      750.65
+    ],
+    "text": "Page 3 of 9",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.233899116516113,
+      9.600000381469727,
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.21,
+      53.08,
+      519.99,
+      66.68
+    ],
+    "text": "in this case in relation to the issues fr.lnled at the commencement of the trial and had also",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.737109184265137,
+      9.816295623779297,
+      9.899999618530273,
+      9.93125057220459,
+      9.975610733032227,
+      10.08786678314209,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.02,
+      68.18,
+      220.86,
+      81.79
+    ],
+    "text": "failed to answer the issues.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      10.08786678314209
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.62,
+      98.08,
+      520.73,
+      111.68
+    ],
+    "text": "The Plaintiffs state that the Court erred in holding that the 3,d Defendant has prescribed to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.244338035583496,
+      9.744122505187988,
+      9.892497062683105,
+      9.899999618530273,
+      10.02510929107666,
+      10.08786678314209
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.63,
+      113.19,
+      520.45,
+      141.56
+    ],
+    "text": "the right of the road in Plan X and the Northern Boundary of this imaginary lot is the Ela. They further state that to prescrihe to a definite distinctive area, it must be shown that, the party",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.389908790588379,
+      9.628732681274414,
+      9.771414756774902,
+      9.790746688842773,
+      9.899999618530273,
+      9.903348922729492,
+      9.95549488067627,
+      9.962949752807617,
+      10.02510929107666,
+      10.08786678314209,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.21,
+      143.08,
+      519.41,
+      156.68
+    ],
+    "text": "prescribing has possessed same undisturbed and uninterrupted but the bottom line is, an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.603818893432617,
+      9.732431411743164,
+      9.744122505187988,
+      9.899999618530273,
+      9.93125057220459,
+      9.954201698303223
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.63,
+      158.19,
+      520.69,
+      201.68
+    ],
+    "text": "area which is distinct and definite. There is no evidence, to the effect that this area was possessed by the 3,d Defendant. There is no proof of commencing date of prescription and as to how he possessed it. The Learned District Court Judge has stated that it was possessed but",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.244338035583496,
+      9.389908790588379,
+      9.450861930847168,
+      9.67893123626709,
+      9.744122505187988,
+      9.863231658935547,
+      9.892497062683105,
+      9.899999618530273,
+      9.953654289245605,
+      10.02510929107666,
+      10.08786678314209,
+      10.167096138000488,
+      10.250929832458496,
+      10.3684663772583
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.21,
+      203.18,
+      517.18,
+      216.79
+    ],
+    "text": "had not analysed or evaluated and given cogent reasons for holding with the 3,d Defendant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      9.90859603881836,
+      9.920827865600586,
+      10.037001609802246,
+      10.047204971313477
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.13,
+      229.11,
+      519.62,
+      242.71
+    ],
+    "text": "It is also submitted that even though the 3,d Defendant has not proven the undisturbed and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.244338035583496,
+      9.389908790588379,
+      9.744122505187988,
+      9.899999618530273,
+      9.93125057220459,
+      10.02510929107666,
+      10.044051170349121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.63,
+      244.6,
+      520.46,
+      272.95
+    ],
+    "text": "uninterrupted possession the Learned District Judge decided to transfer the prescriptive title to him. The Plaintiffs also state that according to the evidence led, the 3,d Defendant's",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.244338035583496,
+      9.624773979187012,
+      9.892497062683105,
+      9.899999618530273,
+      10.02510929107666,
+      10.08786678314209
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.85,
+      274.46,
+      519.93,
+      288.07
+    ],
+    "text": "possession is not undisturbed and uninterrupted possession. Therefore, he cannot claim the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.812361717224121,
+      9.899999618530273,
+      10.044051170349121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.85,
+      289.59,
+      521.6,
+      303.2
+    ],
+    "text": "property rights through prescription. It is further submitted that, even though the identity of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.389908790588379,
+      9.899999618530273,
+      9.93125057220459,
+      9.962949752807617,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.58,
+      304.72,
+      520.62,
+      333.07
+    ],
+    "text": "the corpus and its shares have been clearly proven and established by oral and documentary evidence the Learned District Judge has divided and given the shares of the land incorrectly.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.744122505187988,
+      9.899999618530273,
+      9.93125057220459,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.85,
+      343.58,
+      520.73,
+      371.96
+    ],
+    "text": "It is trite law that the duty imposed on the Judge in a partition case is a sacred one. The burden of seeking and getting evidence before Court. in the course of investigation of title to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.389908790588379,
+      9.816295623779297,
+      9.82854175567627,
+      9.899999618530273,
+      9.99945068359375,
+      10.02510929107666,
+      10.084088325500488,
+      10.08786678314209,
+      10.167096138000488,
+      10.305639266967773
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.27,
+      373.47,
+      520.54,
+      401.84
+    ],
+    "text": "the land sought to be partitioned by parties before Court, prior to deciding what share shou ld go to which party is more the duty of the Judge than the contesting parties. The authorities",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.389908790588379,
+      9.771414756774902,
+      9.816295623779297,
+      9.899999618530273,
+      9.931151390075684,
+      9.93125057220459,
+      10.08786678314209,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.85,
+      403.36,
+      520.49,
+      431.71
+    ],
+    "text": "proclaim that it is the duty of the Trial Judge in a Partition action to investigate title of the parties before he decides what share should be allocated' to which party of the case before",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.389908790588379,
+      9.737109184265137,
+      9.771414756774902,
+      9.812361717224121,
+      9.816295623779297,
+      9.899999618530273,
+      9.93125057220459,
+      9.971789360046387,
+      9.972037315368652,
+      10.02510929107666,
+      10.08786678314209,
+      10.167096138000488,
+      10.250929832458496
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.85,
+      433.59,
+      116.88,
+      447.19
+    ],
+    "text": "him.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.26,
+      460.59,
+      520.21,
+      474.19
+    ],
+    "text": "The Plaintiffs emphasize that the Learned Trial Judge in the present action has failed to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.744122505187988,
+      9.899999618530273,
+      9.92636489868164,
+      9.93125057220459
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.58,
+      475.71,
+      520.01,
+      489.31
+    ],
+    "text": "analyse the oral and documentary evidence led in this case and has failed to answer the issues",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.737109184265137,
+      9.744122505187988,
+      9.899999618530273,
+      10.08786678314209
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.57,
+      490.82,
+      520.69,
+      519.19
+    ],
+    "text": "raised by parties in the above styled action, and on this ground alone the said judgement cannot be sustained. The Plaintiffs therefore urge that since the Judgement given in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.771414756774902,
+      9.893397331237793,
+      9.899999618530273,
+      9.92636489868164
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.58,
+      520.7,
+      520.26,
+      534.31
+    ],
+    "text": "above styled action is completely contrary to the principles of law and specifically to Section",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.389908790588379,
+      9.899999618530273,
+      10.08786678314209,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.58,
+      535.82,
+      520.8,
+      564.19
+    ],
+    "text": "187 of the Civil Procedure Code, the impugned Judgement of the Learned District Judge delivered on 24.09.1999 in the above action shou ld be set aside and direct that the correct",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.771414756774902,
+      9.816295623779297,
+      9.893397331237793,
+      9.899999618530273,
+      10.02510929107666,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.58,
+      565.7,
+      520.47,
+      579.31
+    ],
+    "text": "shares of the corpus be allotted to parties on the title deed submitted at the trial by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.771414756774902,
+      9.899999618530273,
+      9.93125057220459,
+      9.99945068359375,
+      10.08786678314209,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.82,
+      580.83,
+      520.61,
+      594.43
+    ],
+    "text": "Plaintiff Appellant and direct that the 3,d Defendant has not entitled to claim prescriptive title",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.392280578613281,
+      9.733804702758789,
+      9.744122505187988,
+      9.899999618530273,
+      10.006972312927246,
+      10.02510929107666,
+      10.044051170349121,
+      10.08786678314209
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.63,
+      595.95,
+      199.23,
+      609.55
+    ],
+    "text": "to any portion of land.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.26,
+      625.47,
+      520.47,
+      639.07
+    ],
+    "text": "The 3,d and 5th Defendant Respondents state that they established prescriptive title in the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      9.244338035583496,
+      9.899999618530273,
+      9.9117431640625,
+      9.99945068359375,
+      10.02510929107666
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.63,
+      640.26,
+      521.6,
+      698.47
+    ],
+    "text": "following basis. The 3,d and 5th Defendant Respondents state that Kiri Ukku, the mother of the 3,d Defendant was one of the original owners of the property, which the Plaintiff admitted in evidence. Kiri Ukku and her sisters, admittedly, transferred their interests to Peter Appu by deed 14731.The position taken up by the 3,d Defendant is that they remained in possession",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      9.244338035583496,
+      9.389908790588379,
+      9.863231658935547,
+      9.892497062683105,
+      9.899999618530273,
+      9.93125057220459,
+      9.934489250183105,
+      10.004349708557129,
+      10.02510929107666,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.59,
+      699.98,
+      520.32,
+      728.36
+    ],
+    "text": "even after the transfer and that their possession had never been disturbed. No evidence was adduced to refute Defendants' position. As further proof of their long and undisturbed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.389012336730957,
+      9.899999618530273,
+      9.914289474487305,
+      9.93125057220459,
+      9.953654289245605,
+      10.004349708557129,
+      10.018787384033203,
+      10.02510929107666,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      472.12,
+      738.01,
+      520.16,
+      749.96
+    ],
+    "text": "Page 4 of 9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.699999809265137,
+      8.940865516662598
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.93,
+      48.21,
+      520.57,
+      66.68
+    ],
+    "text": "possession, the 3 ,d and 5tn Defendants laid claim to 100 rubber and 40 areca nut trees",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      9.899999618530273,
+      9.949782371520996
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.66,
+      68.55,
+      520.29,
+      82.15
+    ],
+    "text": "amongst other trees they had planted. This claim was recorded by the surveyor. In his",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.793679237365723,
+      9.863231658935547,
+      9.88383674621582,
+      9.899999618530273,
+      9.9117431640625,
+      10.004498481750488
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.3,
+      83.67,
+      521.48,
+      112.03
+    ],
+    "text": "evidence the surveyor did not give any proof that the Defenl1ants' claim had been challenged . Additional proof of their long occupilticon were the wells that the Defendants had constructed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      9.92636489868164,
+      9.93125057220459,
+      9.953654289245605,
+      10.004349708557129,
+      10.044051170349121,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.31,
+      113.54,
+      227.9,
+      127.15
+    ],
+    "text": "on the portion they claimed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.98,
+      135.87,
+      519.84,
+      149.47
+    ],
+    "text": "Therefore, I believe that the Learned District Judge has correctly concluded that the 3 ,d and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.199999809265137,
+      9.493660926818848,
+      9.744122505187988,
+      9.865640640258789,
+      9.899999618530273,
+      9.92636489868164,
+      10.02510929107666
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      95.28,
+      150.65,
+      419.6,
+      164.95
+    ],
+    "text": "5th Defendants have established their prescriptive title on the basis of;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.199999809265137,
+      9.861725807189941,
+      9.893397331237793,
+      9.899999618530273,
+      9.920628547668457,
+      9.93125057220459,
+      9.99945068359375
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.02,
+      182.0,
+      520.55,
+      196.01
+    ],
+    "text": "i. The surveyor's evidence that although he has not given a separate lot number,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.744122505187988,
+      9.763249397277832,
+      9.812361717224121,
+      9.899999618530273,
+      9.95549488067627,
+      10.02510929107666,
+      10.044051170349121
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      145.75,
+      197.42,
+      521.6,
+      211.03
+    ],
+    "text": "there is on the ground on the basis of the boundaries, a clearly defined lot east of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.389908790588379,
+      9.595362663269043,
+      9.899999618530273,
+      9.95549488067627,
+      10.167096138000488,
+      10.3684663772583
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121.13,
+      212.55,
+      520.82,
+      240.56
+    ],
+    "text": "the road; ii. The claims of the 3 ,d and 5th Defendants to the plantations which have been duly",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      9.899999618530273,
+      10.08786678314209,
+      10.167096138000488,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      118.6,
+      242.43,
+      520.39,
+      270.88
+    ],
+    "text": "noted by the surveyor; iii. The evidence of the other Defendants of the 3 ,d and 5th Defendants long continued",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      9.863231658935547,
+      9.892497062683105,
+      9.899999618530273,
+      10.004498481750488,
+      10.167096138000488,
+      10.199999809265137,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146.33,
+      272.67,
+      200.44,
+      286.27
+    ],
+    "text": "possession;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.98,
+      298.25,
+      240.91,
+      312.56
+    ],
+    "text": "The 6th Defendant submits that",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      9.892497062683105,
+      9.899999618530273,
+      9.92636489868164,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.15,
+      321.64,
+      478.89,
+      335.24
+    ],
+    "text": "a) Aforesaid judgment is being contradicted to Law and evidence adduced.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.389908790588379,
+      9.492826461791992,
+      9.836445808410645,
+      9.899999618530273,
+      9.919530868530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.42,
+      351.52,
+      367.11,
+      365.12
+    ],
+    "text": "b) Corpus has been Identified in wrongful manner.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.541197776794434,
+      9.865188598632812,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.14,
+      380.7,
+      520.75,
+      394.63
+    ],
+    "text": "c) Even though the 3,d and 5th Defendants have not been proved an uninterrupted",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.97029447555542,
+      9.539381980895996,
+      9.758893966674805,
+      9.899999618530273,
+      9.920827865600586,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146.07,
+      396.52,
+      520.83,
+      424.87
+    ],
+    "text": "and undisturbed possession. They have been granted property through prescription. This is contrary to prescription Law, 3,d Defendant has accepted the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.97029447555542,
+      9.389908790588379,
+      9.744122505187988,
+      9.875870704650879,
+      9.899999618530273,
+      10.08786678314209
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146.02,
+      426.75,
+      361.82,
+      440.35
+    ],
+    "text": "Co-owner's rights in the pedigree of the Plaint.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.15,
+      452.67,
+      521.21,
+      481.03
+    ],
+    "text": "d) There is a legal wrong, even though parties have established their ownership, they have not been granted their correct property rights.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.67893123626709,
+      9.765739440917969,
+      9.899999618530273,
+      10.004349708557129,
+      10.044051170349121
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      128.78,
+      492.27,
+      521.82,
+      505.87
+    ],
+    "text": "e) Learned District Judge has failed to properly evaluate and assess the evidence of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.705183029174805,
+      9.717976570129395,
+      9.865188598632812,
+      9.899999618530273,
+      9.961708068847656,
+      10.08786678314209
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146.06,
+      507.75,
+      196.41,
+      521.35
+    ],
+    "text": "all parties.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      111.54,
+      536.57,
+      520.62,
+      550.87
+    ],
+    "text": "Therefore 6th Defendant allege, to reverse the wrongful Judgment of District Court",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      9.899999618530273,
+      9.93125057220459,
+      10.08786678314209,
+      10.100000381469727,
+      10.3684663772583
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.2,
+      552.39,
+      520.64,
+      595.88
+    ],
+    "text": "according to the aforesaid Legal and factual submissions and grant 1/9th share of 10 Acres 3 Roots and 25.6 Perches land to the 6th Defendant. Since he has been passed away, this should be granted to his son Ajith Kumara the 6th Substituted Defendant Respondent.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      9.744122505187988,
+      9.771414756774902,
+      9.85921573638916,
+      9.88383674621582,
+      9.899999618530273,
+      9.93125057220459,
+      10.08786678314209,
+      10.114035606384277,
+      10.167096138000488,
+      10.399999618530273,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.14,
+      604.25,
+      341.51,
+      619.1
+    ],
+    "text": "The 6th Defendant states in examination in chief;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.199999809265137,
+      9.816295623779297,
+      9.899999618530273,
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146.01,
+      626.02,
+      294.64,
+      643.06
+    ],
+    "text": "9 \",<il,,,,,,;, @ '1)e.J@@ \"lSl<il?",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.300099849700928,
+      7.545863151550293,
+      8.847525596618652,
+      10.399999618530273,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      146.06,
+      650.03,
+      520.07,
+      679.18
+    ],
+    "text": "C 8c@c \"1l\"'C \"'W\"lSl @\"\"GW,15l 8c@c \"1!@C D15lZ5l, \"12Sl\",,6 10 1, 2Sl 11 2Sl \"D6, \"1!15J '1)W 9<il,~\"'",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.054701328277588,
+      6.172784328460693,
+      8.142289161682129,
+      8.144906997680664,
+      8.160343170166016,
+      8.641701698303223,
+      8.699769973754883,
+      8.7174654006958,
+      9.465625762939453,
+      9.530120849609375,
+      9.675067901611328,
+      9.681586265563965,
+      10.0,
+      10.003458976745605,
+      10.348877906799316,
+      10.399999618530273,
+      10.92861557006836,
+      10.929519653320312,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.98,
+      685.97,
+      521.35,
+      699.92
+    ],
+    "text": "The 6th Defendant further states that through the perusal of evidence it is Crystal clear that",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      9.67893123626709,
+      9.892497062683105,
+      9.899999618530273,
+      9.92636489868164,
+      10.018787384033203,
+      10.02510929107666,
+      10.250929832458496,
+      10.3684663772583,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      94.99,
+      700.91,
+      520.92,
+      715.05
+    ],
+    "text": "the corpus is about Hi to 11 Acres. 3 Roots and 25.6 Perches. Portion of land has been granted",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.389908790588379,
+      9.744122505187988,
+      9.899999618530273,
+      10.08786678314209,
+      10.167096138000488,
+      10.399999618530273,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      472.84,
+      737.08,
+      521.5,
+      750.68
+    ],
+    "text": "Page 5 of 9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.280891418457031,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.91,
+      53.56,
+      520.04,
+      82.57
+    ],
+    "text": "to 3rd Defendant from Learned District Court Judge is massively excessive than his correct property rights. This is a big defect of that Judgment",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.900100231170654,
+      9.484282493591309,
+      9.983174324035645,
+      10.100000381469727,
+      10.125866889953613,
+      10.189255714416504,
+      10.269281387329102
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.54,
+      91.36,
+      519.13,
+      135.5
+    ],
+    "text": "The 6th Defendant states that according to Prescriptive title constitutes proof of the undisturbed and uninterrupted possession by a Defendant in any action. Section 3 of Prescription Ordinance No 22 of 1871 is as follows;",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.942320823669434,
+      9.484282493591309,
+      9.54584789276123,
+      9.613114356994629,
+      9.892621040344238,
+      9.914955139160156,
+      9.991922378540039,
+      10.018117904663086,
+      10.100000381469727,
+      10.125866889953613,
+      10.189255714416504,
+      10.269281387329102,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      127.68,
+      144.0,
+      519.51,
+      188.06
+    ],
+    "text": "3. Proof of the undisturbed and uninterrupted possession by a Defendant in any action, or by those under whom he claims, of lands or immovable property, by a title adverse to or independent of that of the claimant or Plaintiff in such action (that is to",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.183134078979492,
+      9.910981178283691,
+      9.962362289428711,
+      10.079980850219727,
+      10.086140632629395,
+      10.100000381469727,
+      10.148185729980469,
+      10.269281387329102,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      127.33,
+      189.3,
+      520.52,
+      352.93
+    ],
+    "text": "say, a possession unaccompanied by payment of rent or produce, or performance of service or duty, or by any other act by the possessor, from which an acknowledgment of a right existing in another person would fairly and naturally be inferred) for ten years previous to the bringing of such action, shall entitle the Defendant to a decree in his favour with costs. And in like manner, when any Plaintiff shall bring his action, or any third party shall intervene in any action for the purpose of being quieted in his possession of lands or other immovable property, or to prevent encroachment or usurpation thereof, or to establish his claim in any other manner to such land or other property, proof of such undisturbed and uninterrupted possession as herein before explained, by such Plaintiff or intervenient, or by those under whom he claims, shall entitle such Plaintiff or intervenient to a decree in his favour with costs:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.257184982299805,
+      9.54584789276123,
+      9.83024787902832,
+      9.869623184204102,
+      9.897775650024414,
+      9.910981178283691,
+      9.914955139160156,
+      9.92452621459961,
+      9.962362289428711,
+      9.983174324035645,
+      9.999702453613281,
+      10.033933639526367,
+      10.044346809387207,
+      10.079980850219727,
+      10.100000381469727,
+      10.102149963378906,
+      10.105049133300781,
+      10.127363204956055,
+      10.137879371643066,
+      10.148185729980469,
+      10.189255714416504,
+      10.269281387329102,
+      10.472674369812012
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      127.33,
+      361.74,
+      520.41,
+      405.49
+    ],
+    "text": "Provided that the said period of ten years shall only begin to run against parties claiming estates in remainder or reversion from the time when the parties so claiming acquired a right of possession to the property in dispute.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.906700134277344,
+      10.100000381469727,
+      10.125866889953613,
+      10.148185729980469,
+      10.189255714416504,
+      10.269281387329102
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.17,
+      414.21,
+      518.52,
+      443.29
+    ],
+    "text": "The 6th Defendant emphasize that in this case the 3rd Defendant's possession has been disturbed and interrupted in various situations.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.900100231170654,
+      7.156004905700684,
+      9.842056274414062,
+      9.927324295043945,
+      10.100000381469727,
+      10.125866889953613,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.1,
+      455.6,
+      518.26,
+      506.66
+    ],
+    "text": "Establishing the property rights of 3rd Defendant's following evidence can be considered. 9: 3 B 4 'f~D e\"25l'\",,g q;>Ole25l' @d'\"\",.rl6 \"ld'l5)O lSle@\"\" e\"\",O\", 'I5),0",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.6308488845825195,
+      6.900100231170654,
+      9.426742553710938,
+      9.691801071166992,
+      9.879697799682617,
+      10.100000381469727,
+      10.11775016784668,
+      10.324690818786621,
+      10.399999618530273,
+      10.800000190734863,
+      15.411616325378418
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.12,
+      509.54,
+      255.04,
+      523.94
+    ],
+    "text": "\"\" lSl c.o \"\" \"\" 1 \"'1 ?",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.300099849700928,
+      7.835934638977051,
+      7.965686321258545,
+      8.711020469665527,
+      10.735004425048828,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.25,
+      527.18,
+      200.3,
+      541.58
+    ],
+    "text": "C wI).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.465056419372559,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.25,
+      570.38,
+      200.3,
+      584.78
+    ],
+    "text": "C wI).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.465056419372559,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.24,
+      592.7,
+      332.28,
+      607.11
+    ],
+    "text": "9 '15)&1 q;>eC25l'e25l' 'f\"\",,,,6 \"\"'C,,\"~?",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.23545503616333,
+      8.162030220031738,
+      10.023053169250488,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.25,
+      613.22,
+      200.3,
+      627.62
+    ],
+    "text": "C wI).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.465056419372559,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.24,
+      629.51,
+      501.56,
+      663.62
+    ],
+    "text": "9 e:l 'f\"\",,,,6 \"\"'c q;>0l 'f@J@, B\"\"\"\",, q;>\"l61 eDc' lSl@c.o\"\" e \"\",O\", '15), '15), q;>e C25l' e25l'?",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.480189323425293,
+      8.577164649963379,
+      8.684773445129395,
+      9.154553413391113,
+      9.190640449523926,
+      9.340075492858887,
+      9.754439353942871,
+      10.012110710144043,
+      10.245569229125977,
+      10.800000190734863,
+      11.63752555847168,
+      11.653291702270508,
+      14.655241966247559
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.25,
+      669.74,
+      200.3,
+      684.14
+    ],
+    "text": "C wI).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.465056419372559,
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.24,
+      691.69,
+      490.08,
+      720.67
+    ],
+    "text": "9 'f' B~&C' lSl\"\",,,,, '15)9,(:) 'f8lSlc.o,,\" \"\"1 @25l'~? wdgD 'f~D '15)&1 8 g CD 25l'\"\" D,.:;?",
+    "fonts": [
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.537181854248047,
+      5.672468662261963,
+      6.6308488845825195,
+      7.94950008392334,
+      8.000404357910156,
+      8.077420234680176,
+      8.99525260925293,
+      9.572491645812988,
+      9.599536895751953,
+      10.39417552947998,
+      10.798150062561035,
+      10.800000190734863,
+      13.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      471.05,
+      737.58,
+      519.86,
+      751.46
+    ],
+    "text": "Page 6 of 9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.399999618530273,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      145.66,
+      49.96,
+      196.9,
+      67.55
+    ],
+    "text": "c : iiJFJ",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.887687683105469,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.64,
+      74.22,
+      519.92,
+      89.0
+    ],
+    "text": "From this evidence the 6th Defendant states that the 3 ,d Defendant should be given",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.293096542358398,
+      7.300099849700928,
+      9.771414756774902,
+      9.899999618530273,
+      10.02510929107666
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.09,
+      90.51,
+      520.34,
+      118.88
+    ],
+    "text": "very smaller portion of land that he had been actually granted from the District Court Judgement.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.812361717224121,
+      9.899999618530273,
+      10.02510929107666,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.1,
+      126.78,
+      520.13,
+      141.2
+    ],
+    "text": "The 3 ,d and 5 th Defendants submitted that the submissions of the 6th Defendant dated",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.293096542358398,
+      7.300099849700928,
+      9.892497062683105,
+      9.899999618530273,
+      9.92636489868164,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.61,
+      142.62,
+      520.11,
+      156.32
+    ],
+    "text": "11th March 2019, should be dismissed at the very outset. While purportedly the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.844267845153809,
+      9.771414756774902,
+      9.899999618530273,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.43,
+      157.83,
+      520.11,
+      171.44
+    ],
+    "text": "submissions of the 6th Defendant, they are almost entirely written from the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      9.949974060058594,
+      9.957731246948242,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.43,
+      172.95,
+      519.83,
+      201.32
+    ],
+    "text": "standpoint of the Plaintiff, who has filed his own submissions. There is no reference whatsoever to the 6th Defendant nor his claims.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.293096542358398,
+      9.389908790588379,
+      9.865188598632812,
+      9.88383674621582,
+      9.899999618530273,
+      9.93125057220459,
+      9.936980247497559,
+      10.08786678314209,
+      10.3684663772583
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      127.74,
+      209.58,
+      518.92,
+      224.0
+    ],
+    "text": "There was no dispute or conflict of interests between the 6th Defendant and the 3 ,d",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.267125606536865,
+      7.300099849700928,
+      9.899999618530273,
+      9.93125057220459,
+      10.047204971313477,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.33,
+      224.7,
+      520.1,
+      253.88
+    ],
+    "text": "and 5th Defendants at any stage. The submissions, however, for some inexplicable reason seek to embroil the 3 ,d and 5th Defendants with the 6th Defendants.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.293096542358398,
+      7.300099849700928,
+      9.892497062683105,
+      9.899999618530273,
+      9.90859603881836,
+      9.93125057220459,
+      10.037001609802246,
+      10.08786678314209,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.1,
+      269.34,
+      519.84,
+      284.12
+    ],
+    "text": "The 3,d and 5th Defendants further state that the 6th Defendant's submissions",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.293096542358398,
+      7.300099849700928,
+      7.462738513946533,
+      9.892497062683105,
+      9.899999618530273,
+      9.925965309143066,
+      10.02510929107666,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.16,
+      284.79,
+      520.13,
+      328.81
+    ],
+    "text": "repeatedly state that in accepting 3 ,d and 5th Defendants' prescriptive title, the share Plaintiff is entitled to, has been reduced, whereas in his evidence the 6th Defendant was strongly supportive of 3 ,d and 5th Defendants claims of undisturbed and",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.267125606536865,
+      7.293096542358398,
+      7.300099849700928,
+      9.389908790588379,
+      9.865188598632812,
+      9.88383674621582,
+      9.899999618530273,
+      9.93125057220459,
+      10.02510929107666,
+      10.167096138000488,
+      10.699999809265137,
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.34,
+      330.26,
+      251.12,
+      343.87
+    ],
+    "text": "uninterrupted possession.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.25,
+      359.34,
+      519.52,
+      373.75
+    ],
+    "text": "It is also stated that the 3 ,d and 5th Defendants sought to restrict the corpus to 3 Acres",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.293096542358398,
+      7.300099849700928,
+      9.389908790588379,
+      9.899999618530273,
+      9.93125057220459,
+      10.02510929107666,
+      10.08786678314209,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.16,
+      374.96,
+      520.23,
+      388.87
+    ],
+    "text": "when in fact it was the Plaintiff who at the Preliminary Survey, submitted Plan No. 854",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.790746688842773,
+      9.816295623779297,
+      9.899999618530273,
+      9.93125057220459,
+      9.983497619628906,
+      10.250929832458496,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.06,
+      390.4,
+      519.64,
+      418.75
+    ],
+    "text": "depicting a portion of land 3 Acres in extent. Therefore these submissions which display so much confusion and even incoherence, merit no consideration.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.624773979187012,
+      9.816295623779297,
+      9.899999618530273,
+      9.936732292175293,
+      10.100000381469727,
+      10.167096138000488
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      111.11,
+      428.91,
+      519.57,
+      442.51
+    ],
+    "text": "Subsequent to a thorough analysis of the facts of the case, it is pertinent to note that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.67893123626709,
+      9.864234924316406,
+      9.899999618530273,
+      9.92636489868164,
+      9.93125057220459,
+      10.08786678314209,
+      10.167096138000488,
+      10.250929832458496
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      111.14,
+      444.03,
+      190.49,
+      457.63
+    ],
+    "text": "applicable law is;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.810394287109375,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      130.84,
+      458.28,
+      336.79,
+      487.15
+    ],
+    "text": "i. Section 3 of the Prescription Ordinance ii. Section 25 of the Partition Act",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.618599891662598,
+      9.899999618530273,
+      9.93125057220459,
+      10.167096138000488,
+      10.399999618530273,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.33,
+      488.93,
+      340.05,
+      502.63
+    ],
+    "text": "iii. Section 187 of the Civi l Procedure code.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.760162353515625,
+      9.899999618530273,
+      9.93125057220459,
+      10.280928611755371,
+      10.3684663772583
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      110.76,
+      513.56,
+      519.67,
+      542.23
+    ],
+    "text": "Section 3 of the Prescription Ordinance requires proof of undisturbed, uninterrupted possession by a title adverse or independent of the claimant or Plaintiff.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.899999618530273,
+      9.953654289245605,
+      9.99945068359375,
+      10.047204971313477,
+      10.167096138000488,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      110.78,
+      549.15,
+      519.42,
+      577.51
+    ],
+    "text": "In the context of the present case it was particularly important that the Learned Judge, determine whether the 3 ,d and 5 th Defendants had established title adverse to Peter Appu",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.061500549316406,
+      7.300099849700928,
+      9.793679237365723,
+      9.82854175567627,
+      9.899999618530273,
+      9.921576499938965,
+      9.94867992401123,
+      10.02510929107666,
+      10.08786678314209,
+      10.167096138000488,
+      10.250929832458496
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      110.78,
+      579.02,
+      519.7,
+      622.15
+    ],
+    "text": "and his successors, if any, because of their claim that their predecessors and successors in title continued to remain in occupation and possession even after they had transferred their interests to him.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.816295623779297,
+      9.899999618530273,
+      9.914289474487305,
+      9.920628547668457,
+      10.004349708557129,
+      10.02510929107666,
+      10.08786678314209,
+      10.101009368896484,
+      10.250929832458496,
+      10.3684663772583
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      110.46,
+      631.23,
+      519.79,
+      674.36
+    ],
+    "text": "The components of title adverse have been defined as \"what began in a subordinate capacity can be turned into \"adverse possession by an overt act or series of acts indicative of a challenge to the owner's title.\" (G . L. Peiris Law of property' page 112)",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.216127395629883,
+      9.241585731506348,
+      9.450861930847168,
+      9.5,
+      9.732431411743164,
+      9.771414756774902,
+      9.816295623779297,
+      9.836445808410645,
+      9.89995002746582,
+      9.899999618530273,
+      9.962850570678711,
+      9.99945068359375,
+      10.000490188598633,
+      10.08786678314209,
+      10.167096138000488,
+      10.3684663772583
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      110.97,
+      684.05,
+      519.4,
+      697.75
+    ],
+    "text": "In Ango Hamy vs APDOO, Morgan's Digest 281, it was held that where the mortgage",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.245247840881348,
+      9.643476486206055,
+      9.793679237365723,
+      9.899999618530273,
+      10.02510929107666,
+      10.199999809265137,
+      10.250929832458496
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      110.79,
+      699.27,
+      519.06,
+      712.87
+    ],
+    "text": "stipulated that the property had to be redeemed within a given time and redemption was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.771414756774902,
+      9.899999618530273,
+      9.914189338684082,
+      10.02510929107666,
+      10.08786678314209
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      471.41,
+      737.08,
+      520.06,
+      750.68
+    ],
+    "text": "Page 7 of 9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.399999618530273,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.7,
+      53.22,
+      517.26,
+      82.22
+    ],
+    "text": "not effected within the stipulated per iod, the mortgagees' possession became adverse from the date of the expiration of that period.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.203843116760254,
+      10.097800254821777,
+      10.100000381469727,
+      10.125866889953613,
+      10.144999504089355,
+      10.269281387329102
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.8,
+      92.46,
+      516.63,
+      121.45
+    ],
+    "text": "In Alwis vs Perera 21 NLR 321, the view was expressed that a vendor who, after a sale, remains in possession, should be considered as possessing adversely to the purchaser.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.425797462463379,
+      9.543625831604004,
+      9.54584789276123,
+      9.893692970275879,
+      9.910981178283691,
+      10.009847640991211,
+      10.011663436889648,
+      10.033632278442383,
+      10.05605411529541,
+      10.100000381469727,
+      10.125866889953613
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.61,
+      129.9,
+      518.98,
+      188.42
+    ],
+    "text": "In a slightly different context but still apposite even in the present action Lyall Grant J comments in Hamidu Lebbe vs Garkitha 27 NLR 33 it depends on the circumstances of each case whether it is reasonable to presume an ouster from long continued exclusive possession.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.484282493591309,
+      9.527685165405273,
+      9.532772064208984,
+      9.543625831604004,
+      9.70128059387207,
+      9.83024787902832,
+      9.834973335266113,
+      9.842877388000488,
+      9.892110824584961,
+      9.914955139160156,
+      10.009847640991211,
+      10.019831657409668,
+      10.044346809387207,
+      10.081233024597168,
+      10.100000381469727,
+      10.189255714416504,
+      10.269281387329102,
+      10.353957176208496
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.31,
+      204.41,
+      517.9,
+      293.17
+    ],
+    "text": "It was decided in the case of Warnakula V. Ramani Jayawardena 1 Sri .L.R 206, where the Court of Appeal Observed that the Learned District Judge had failed to consider the totality of the evidence led on behalf of the Plaintiff-Appellant and had held that, \"bare answers to issues without reasons are not compliance with the requirements of Section 187 of the Civil Procedure Code. The evidence given to each issue must be reviewed or examined. The Judge must evaluate and consider the totality of the evidence.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.203843116760254,
+      9.264944076538086,
+      9.552247047424316,
+      9.861740112304688,
+      9.869623184204102,
+      9.914955139160156,
+      9.927324295043945,
+      9.965353012084961,
+      9.991922378540039,
+      9.991972923278809,
+      10.011663436889648,
+      10.019328117370605,
+      10.06448745727539,
+      10.070457458496094,
+      10.079980850219727,
+      10.081233024597168,
+      10.08639144897461,
+      10.100000381469727,
+      10.102149963378906,
+      10.125866889953613,
+      10.143855094909668,
+      10.148185729980469,
+      10.189255714416504,
+      10.269281387329102
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.24,
+      304.38,
+      517.14,
+      378.5
+    ],
+    "text": "In the Case of Horagalage Sopinona V. K. R. Pitipanaaracchige Corne lis and Others (S.C Appeal No. 49/2003) His Lordship Marsoof J. had clearly stated that, \"The Judge must evaluate and consider the totality of the evidence, giving a short summary of the evidence of the parties and witnesses and starting the reasons for preference to accept the evidence of one party as opposed to that of the other.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.812944412231445,
+      9.452133178710938,
+      9.472826957702637,
+      9.54584789276123,
+      9.616212844848633,
+      9.85917854309082,
+      9.881077766418457,
+      9.892110824584961,
+      9.92996883392334,
+      10.079980850219727,
+      10.100000381469727,
+      10.125866889953613,
+      10.137879371643066,
+      10.189255714416504,
+      10.199999809265137,
+      10.269281387329102,
+      10.472674369812012
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      107.94,
+      388.37,
+      517.72,
+      432.13
+    ],
+    "text": "The Learned District Judge has evaluated the evidence in the light of these principles and arrived at the firm conclusion that the 3,d and 5th Defendants have provided adequate proof of prescriptive title on the following grounds:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.828230857849121,
+      8.842463493347168,
+      9.410731315612793,
+      9.842056274414062,
+      9.914955139160156,
+      10.079980850219727,
+      10.08639144897461,
+      10.100000381469727,
+      10.125866889953613,
+      10.127363204956055,
+      10.269281387329102,
+      10.472674369812012
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      116.1,
+      439.13,
+      516.24,
+      456.62
+    ],
+    "text": "(i) the evidence of the other Defendants (the 6th and 7th ) that the 3R1 and 5th",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.578438758850098,
+      9.703154563903809,
+      10.069604873657227,
+      10.079980850219727,
+      10.100000381469727,
+      10.105049133300781,
+      10.125866889953613,
+      10.269281387329102
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      113.23,
+      458.21,
+      517.48,
+      501.97
+    ],
+    "text": "Defendants had been in possession of the section to the South East and had planted rubber apart from other trees (ii) their clear ownership of 100 rubber trees 50 years old, in itself proof of their long",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.07815933227539,
+      9.70128059387207,
+      9.837437629699707,
+      9.909045219421387,
+      9.914955139160156,
+      10.00994873046875,
+      10.019328117370605,
+      10.079980850219727,
+      10.100000381469727,
+      10.104899406433105,
+      10.189255714416504,
+      10.269281387329102,
+      10.472674369812012,
+      10.556532859802246
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      110.7,
+      503.21,
+      517.42,
+      576.5
+    ],
+    "text": "possession (iii) the Well which they constructed in the South Eastern section and which they owned (iv) the evidence of the surveyor that only in the South Eastern section is there a block with clearly defined boundaries \"a cardinal feature of prescription\" exclusive",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.07815933227539,
+      9.484282493591309,
+      9.547276496887207,
+      9.704767227172852,
+      9.837437629699707,
+      9.847699165344238,
+      10.05605411529541,
+      10.079980850219727,
+      10.100000381469727,
+      10.102149963378906,
+      10.269281387329102
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      142.1,
+      578.09,
+      405.38,
+      591.97
+    ],
+    "text": "occupation of a block independent of all other claimants.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.257184982299805,
+      9.86660385131836,
+      10.100000381469727,
+      10.105049133300781,
+      10.269281387329102
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      107.93,
+      596.81,
+      517.19,
+      629.41
+    ],
+    "text": "The Learned District Judge had also to decide the conflicting claims of the 2nd Defendant to the South Eastern section and concluded that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.1642484664917,
+      10.019328117370605,
+      10.100000381469727,
+      10.125866889953613,
+      10.189255714416504,
+      10.269281387329102
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.74,
+      635.33,
+      518.36,
+      682.69
+    ],
+    "text": "(i) the 2nd Defendant was entitled to that ~ortion of the Southern section west of the road which formed the western boundary of the section possessed by the 3,d and 5th Defendants.",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      6.4900617599487305,
+      8.1642484664917,
+      8.547890663146973,
+      8.578438758850098,
+      9.532772064208984,
+      9.70128059387207,
+      9.985045433044434,
+      10.005659103393555,
+      10.044346809387207,
+      10.079980850219727,
+      10.100000381469727,
+      10.189255714416504,
+      10.269281387329102
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      113.22,
+      693.66,
+      517.55,
+      722.3
+    ],
+    "text": "(ii) the Plaintiff occupied and possessed the southern section, the second Defendant was entitled to, by leave and license of the second Defendant.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.837437629699707,
+      9.86153507232666,
+      9.910981178283691,
+      9.962362289428711,
+      10.019126892089844,
+      10.033933639526367,
+      10.044346809387207,
+      10.079980850219727,
+      10.100000381469727,
+      10.269281387329102
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      468.88,
+      736.86,
+      517.7,
+      750.74
+    ],
+    "text": "Page 8 of 9",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.37416934967041,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      116.73,
+      48.44,
+      523.7,
+      62.31
+    ],
+    "text": "In the ca~e of Cynthia De Alwls Vs. Marjorie De Alwis and two others, 1997,3 SLR 113, it",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.0052008628845215,
+      8.916833877563477,
+      9.145713806152344,
+      9.4823579788208,
+      9.69424819946289,
+      9.699999809265137,
+      9.768061637878418,
+      9.9808349609375,
+      10.263199806213379,
+      10.399999618530273,
+      10.726572036743164
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      116.28,
+      64.09,
+      524.33,
+      77.42
+    ],
+    "text": "was held that, \"A District Judge trying a partition action is under a sacred duty to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.294577598571777,
+      9.699999809265137,
+      9.77684497833252,
+      9.870550155639648,
+      9.98544979095459
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.73,
+      79.21,
+      523.25,
+      92.54
+    ],
+    "text": "investigate into title on all material that is forthcoming at the commencement of the trial.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.999452590942383,
+      9.699999809265137,
+      9.709794998168945,
+      9.719430923461914,
+      9.72232437133789,
+      9.766273498535156,
+      9.79642105102539,
+      9.825586318969727,
+      10.063874244689941
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.56,
+      93.96,
+      523.98,
+      122.05
+    ],
+    "text": "In the exercise of this sacred duty to investigate title, a Trial Judge cannot be found fault with for being too careful in his investigation. He has every right even to call for evidence",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.520386695861816,
+      9.645195007324219,
+      9.672209739685059,
+      9.69424819946289,
+      9.699999809265137,
+      9.709794998168945,
+      9.782052993774414,
+      9.796123504638672,
+      9.900086402893066,
+      9.98544979095459,
+      10.063874244689941
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.82,
+      123.48,
+      306.95,
+      136.81
+    ],
+    "text": "after the parties have closed their cases.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137,
+      9.709794998168945,
+      9.813633918762207,
+      9.81990909576416
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      116.01,
+      152.84,
+      523.61,
+      166.71
+    ],
+    "text": "In Faleel Vs. Argeen and Others 2004, 1 SLR 48, it was held that \"It is possible for the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.916833877563477,
+      9.294577598571777,
+      9.447976112365723,
+      9.69424819946289,
+      9.699999809265137,
+      9.796123504638672,
+      9.825586318969727,
+      10.146856307983398,
+      10.164813041687012,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      116.09,
+      168.12,
+      523.03,
+      181.45
+    ],
+    "text": "parties to a partition action to compromise their disputes provided that the Court has",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.523900985717773,
+      9.699999809265137,
+      9.709794998168945,
+      9.713440895080566,
+      9.783689498901367,
+      9.81990909576416,
+      9.92332935333252,
+      9.98544979095459
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.73,
+      182.89,
+      495.82,
+      196.22
+    ],
+    "text": "investigated the title of each party and satisfied itself as to their respective rights.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.165895462036133,
+      9.699999809265137,
+      9.700399398803711,
+      9.79642105102539,
+      9.902780532836914,
+      9.98544979095459,
+      10.063874244689941
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.14,
+      212.77,
+      523.2,
+      226.1
+    ],
+    "text": "Thus it is clear that the Learned District Judge has in fact investigated the title as required",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.999452590942383,
+      9.354911804199219,
+      9.645195007324219,
+      9.699999809265137,
+      9.709794998168945,
+      9.825586318969727,
+      10.146856307983398,
+      10.418909072875977
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.1,
+      227.11,
+      523.78,
+      255.63
+    ],
+    "text": "by section 25 of the Partition Act, applied the principles relating to prescription in terms of the Prescription Ordinance and given reasons in conformity with section 187 of the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.699999809265137,
+      9.709794998168945,
+      9.773123741149902,
+      9.900086402893066,
+      9.98544979095459,
+      10.063874244689941,
+      10.263199806213379,
+      10.300000190734863,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.06,
+      257.4,
+      214.32,
+      270.73
+    ],
+    "text": "Civil Procedure Code.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.29,
+      286.92,
+      523.51,
+      300.25
+    ],
+    "text": "I considered the submissions of counsel, carefully and I am of the view that there is no",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.294577598571777,
+      9.699999809265137,
+      9.709794998168945,
+      9.721426010131836,
+      9.731498718261719,
+      9.860570907592773,
+      9.92332935333252,
+      10.263199806213379
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.37,
+      302.04,
+      208.17,
+      315.37
+    ],
+    "text": "merit in this appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137,
+      9.835848808288574
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      114.93,
+      328.32,
+      522.55,
+      341.65
+    ],
+    "text": "I therefore uphold the Judgment of the Learned District Court Judge and the appeal is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.294577598571777,
+      9.699999809265137,
+      9.709794998168945,
+      9.72641372680664,
+      10.063874244689941
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.01,
+      343.08,
+      247.12,
+      356.41
+    ],
+    "text": "hereby dismissed with costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137,
+      9.807998657226562
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      368.57,
+      425.17,
+      504.99,
+      438.5
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137,
+      9.733491897583008,
+      9.949588775634766,
+      10.063874244689941,
+      10.263199806213379
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.13,
+      447.12,
+      178.84,
+      460.45
+    ],
+    "text": "Janak De Silva, J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.634076118469238,
+      9.699999809265137,
+      9.782846450805664
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      267.57,
+      510.85,
+      303.96,
+      524.18
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      368.94,
+      574.06,
+      504.91,
+      588.49
+    ],
+    "text": "JTIClge of tnet:O\\lrt't1f Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.924065589904785,
+      9.699999809265137,
+      9.860570907592773,
+      10.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      475.37,
+      729.73,
+      522.61,
+      743.06
+    ],
+    "text": "Page 9 of 9",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.02512264251709,
+      9.100000381469727,
+      9.699999809265137
+    ]
+  }
+]

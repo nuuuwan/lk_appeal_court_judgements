@@ -1,0 +1,5271 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      122.78,
+      71.97,
+      493.94,
+      88.33
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      96.59,
+      446.8,
+      112.95
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      178.8,
+      430.63,
+      192.8
+    ],
+    "text": "J.H.M.L.S. Jayaweera,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      199.92,
+      403.51,
+      213.92
+    ],
+    "text": "No.98, Indurana,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      221.04,
+      362.95,
+      235.04
+    ],
+    "text": "Waharaka,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      242.16,
+      380.71,
+      256.16
+    ],
+    "text": "Ruwanawella.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      263.31,
+      355.27,
+      277.31
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.22,
+      324.51,
+      304.61,
+      338.49
+    ],
+    "text": "CASE NO: CA/WRIT/88/2015",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      385.59,
+      317.57,
+      399.59
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      280.01,
+      446.81,
+      428.11,
+      460.81
+    ],
+    "text": "1. Air Marshal Gagana",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      280.01,
+      467.93,
+      396.67,
+      481.93
+    ],
+    "text": "Bulathsinghala,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      489.05,
+      378.79,
+      503.05
+    ],
+    "text": "Commander,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.97,
+      510.17,
+      420.91,
+      524.17
+    ],
+    "text": "Sri Lanka Air Force,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.25,
+      531.29,
+      376.87,
+      545.29
+    ],
+    "text": "Colombo 02.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.81,
+      552.41,
+      458.11,
+      566.41
+    ],
+    "text": "2. Air Vice Marshal Welikala,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.81,
+      573.53,
+      460.99,
+      587.53
+    ],
+    "text": "Director of Administration,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.81,
+      594.68,
+      421.39,
+      608.68
+    ],
+    "text": "Sri Lanka Air Force,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      249.89,
+      615.8,
+      377.59,
+      629.8
+    ],
+    "text": "Colombo 02.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.97,
+      636.92,
+      454.75,
+      650.92
+    ],
+    "text": "3. Wing Commodore A.D.M.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.81,
+      658.04,
+      358.27,
+      672.04
+    ],
+    "text": "Koralage,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.81,
+      679.16,
+      421.39,
+      693.16
+    ],
+    "text": "Sri Lanka Air Force,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      249.89,
+      700.39,
+      377.59,
+      714.4
+    ],
+    "text": "Colombo 02.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.97,
+      102.24,
+      429.55,
+      116.24
+    ],
+    "text": "4. Air Commodore Payo,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.81,
+      123.36,
+      428.35,
+      137.36
+    ],
+    "text": "Commanding Officer,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.81,
+      144.48,
+      425.23,
+      158.48
+    ],
+    "text": "Sri Lanka Air Force,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.81,
+      165.6,
+      387.31,
+      179.6
+    ],
+    "text": "Headquarters,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.89,
+      186.72,
+      377.59,
+      200.72
+    ],
+    "text": "Colombo 02.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.81,
+      207.96,
+      379.15,
+      221.96
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      271.35,
+      406.15,
+      285.35
+    ],
+    "text": "Before: Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      292.47,
+      363.43,
+      306.47
+    ],
+    "text": "Arjuna Obeyesekere, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      319.59,
+      482.98,
+      333.59
+    ],
+    "text": "Counsel: Jagath Abeynayake and Sarangi Sandamali",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.25,
+      340.71,
+      329.33,
+      354.71
+    ],
+    "text": "for the Petitioner.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      361.83,
+      446.71,
+      375.83
+    ],
+    "text": "Manohara Jayasinghe, S.S.C., for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.25,
+      382.95,
+      306.53,
+      396.95
+    ],
+    "text": "Respondents.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      410.07,
+      294.29,
+      424.07
+    ],
+    "text": "Argued on: 25.08.2020",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      437.21,
+      294.29,
+      451.21
+    ],
+    "text": "Decided on: 07.10.2020",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      503.45,
+      298.13,
+      517.45
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      536.57,
+      500.74,
+      550.57
+    ],
+    "text": "The Petitioner was a warrant officer of the Sri Lanka Air Force at",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      557.81,
+      500.69,
+      571.81
+    ],
+    "text": "the time relevant to this application. The Petitioner admits that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      578.93,
+      500.54,
+      592.93
+    ],
+    "text": "in 1994 he was convicted for the offence of being absent from",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      600.08,
+      500.73,
+      614.08
+    ],
+    "text": "work for 95 days without official leave. He was punished for this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      621.2,
+      500.74,
+      635.2
+    ],
+    "text": "offence with detention for 28 days and forfeiture of pay for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      642.32,
+      500.71,
+      656.32
+    ],
+    "text": "said period. In addition, he was issued the strongly-worded",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      663.44,
+      500.7,
+      677.44
+    ],
+    "text": "warning letter R2 to inform him that if he committed another",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      684.55,
+      500.64,
+      698.56
+    ],
+    "text": "offence, he would be definitely subjected to one of four",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.22,
+      705.67,
+      500.73,
+      719.68
+    ],
+    "text": "punishments, which included dismissal from service. As seen",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      102.24,
+      500.69,
+      116.24
+    ],
+    "text": "on the face of it, the Petitioner signified his agreement to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      123.36,
+      500.7,
+      137.36
+    ],
+    "text": "contents of R2 by placing his signature to it. R2 is an official",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      144.48,
+      500.74,
+      158.48
+    ],
+    "text": "letter issued by the Commanding Officer. The Petitioner does",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      165.6,
+      500.65,
+      179.6
+    ],
+    "text": "not deny R2. Thereafter, in 2014, whilst he was serving in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      186.72,
+      500.74,
+      200.72
+    ],
+    "text": "supply department of the Air Force Base, Katunayaka, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      207.96,
+      500.69,
+      221.96
+    ],
+    "text": "Petitioner committed theft of approximately 1,453 brass screw",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      229.08,
+      500.74,
+      243.08
+    ],
+    "text": "nails, which were Air Force property. The Petitioner admits he",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      250.23,
+      500.74,
+      264.23
+    ],
+    "text": "was charged with two offences in this regard and, upon him",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      271.35,
+      500.63,
+      285.35
+    ],
+    "text": "pleading guilty, he was punished with reprimand and severe",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      292.47,
+      500.74,
+      306.47
+    ],
+    "text": "reprimand. Soon thereafter, as reflected in P1 and P2, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      313.59,
+      500.74,
+      327.59
+    ],
+    "text": "Petitioner was discharged from service under the clause His",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      334.71,
+      500.63,
+      348.71
+    ],
+    "text": "services being no longer required by the Commander of the Air",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      355.83,
+      500.59,
+      369.83
+    ],
+    "text": "Force in terms of item (xiii) (a) of Table B of the Fifth Schedule",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      376.95,
+      500.74,
+      390.95
+    ],
+    "text": "read with Regulation 126(1) made in terms of section 155 of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      398.07,
+      500.71,
+      412.07
+    ],
+    "text": "Air Force Act and published in Gazette No.10,665 dated",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      419.19,
+      193.94,
+      433.19
+    ],
+    "text": "23.04.1954.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.22,
+      452.33,
+      302.93,
+      466.33
+    ],
+    "text": "The said item reads as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.62,
+      114.72,
+      177.05,
+      138.08
+    ],
+    "text": "Cause of Discharge",
+    "fonts": [
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      223.85,
+      114.72,
+      492.01,
+      126.32
+    ],
+    "text": "Competent officer to Special instructions",
+    "fonts": [
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184.46,
+      138.96,
+      240.53,
+      162.8
+    ],
+    "text": "Authorize discharge",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      253.73,
+      138.96,
+      309.32,
+      162.32
+    ],
+    "text": "Carryout discharge",
+    "fonts": [
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      318.05,
+      138.96,
+      374.11,
+      162.8
+    ],
+    "text": "Confirm discharge",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.62,
+      174.84,
+      173.85,
+      233.43
+    ],
+    "text": "(xiii)(a) His services being no longer required",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      184.46,
+      174.84,
+      245.75,
+      210.44
+    ],
+    "text": "Commander of the Air Force",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      253.73,
+      172.92,
+      368.99,
+      198.68
+    ],
+    "text": "O.C. Officer i/c Records",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      9.960000038146973,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      381.79,
+      174.84,
+      498.5,
+      562.16
+    ],
+    "text": "Applies only to an airman who cannot be discharged under any other item. The application for discharge will be made on special form, on which full particulars of the case will be recorded, and to which the conduct sheets will be attached. If the airman is undergoing detention, the decision of the competent authority to authorize discharge will be reserved until the airman has completed the greater part of his sentence. The authorising officer will decide whether or not the airman is to lose his gratuity under the Air Force regulations relating to Pensions and Gratuities. The decision will be stated on the attestation paper or on the record of service paper.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      9.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      592.97,
+      500.67,
+      606.97
+    ],
+    "text": "The Petitioner filed this application seeking to quash by a writ of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      614.12,
+      500.69,
+      628.12
+    ],
+    "text": "certiorari the decision of the Commander of the Sri Lanka Air",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      635.24,
+      500.74,
+      649.24
+    ],
+    "text": "Force to discharge him from service under the item His services",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      656.36,
+      500.74,
+      670.36
+    ],
+    "text": "being no longer required. The pivotal argument of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      677.48,
+      500.74,
+      691.48
+    ],
+    "text": "Petitioner is that since he had been punished in relation to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.22,
+      698.59,
+      500.67,
+      712.6
+    ],
+    "text": "offence of theft by reprimand and severe reprimand, which are",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      102.24,
+      500.67,
+      116.24
+    ],
+    "text": "on the scale of punishments specified under the Air Force Act,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      123.36,
+      500.7,
+      137.36
+    ],
+    "text": "he cannot be punished twice over by discharge from service",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      144.48,
+      500.64,
+      158.48
+    ],
+    "text": "under services no longer required in violation of the doctrine of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      165.6,
+      224.21,
+      179.6
+    ],
+    "text": "double jeopardy.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      198.72,
+      500.74,
+      212.72
+    ],
+    "text": "This important issue comes up before the writ Court quite often",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      219.96,
+      500.7,
+      233.96
+    ],
+    "text": "and, I must say, the law on this point is unsettled, as there are",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      241.08,
+      469.54,
+      255.08
+    ],
+    "text": "conflicting Judgments of the superior Courts in this regard.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      274.23,
+      500.45,
+      288.29
+    ],
+    "text": "In the Supreme Court case of Air Marshal G.D. Perera v. K.H.M.S.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      295.35,
+      500.74,
+      309.41
+    ],
+    "text": "Bandara (SC Appeal 104/2008, SC Minutes of 29.09.2014), an",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      316.47,
+      500.74,
+      330.47
+    ],
+    "text": "officer cadet of the Sri Lanka Air Force was tried summarily and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      337.59,
+      500.7,
+      351.59
+    ],
+    "text": "found guilty of entering an abandoned married-quarters of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      358.71,
+      500.69,
+      372.71
+    ],
+    "text": "Air Force without due authority and committing criminal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      379.83,
+      500.7,
+      393.83
+    ],
+    "text": "trespass. Punishment of detention for 14-days for the former",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      400.95,
+      500.74,
+      414.95
+    ],
+    "text": "offence and 30-days for the latter was imposed. Later, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      422.09,
+      500.74,
+      436.09
+    ],
+    "text": "officer was exonerated on the latter charge and punishment for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      443.21,
+      500.7,
+      457.21
+    ],
+    "text": "the former only was carried out. The officer served the sentence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      464.45,
+      500.74,
+      478.45
+    ],
+    "text": "and reported for duty only to learn that he had been discharged",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      485.57,
+      475.78,
+      499.57
+    ],
+    "text": "from service under the clause services no longer required.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      518.69,
+      500.69,
+      532.69
+    ],
+    "text": "The Court of Appeal quashed this decision of discharge by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      539.81,
+      504.58,
+      553.81
+    ],
+    "text": "certiorari and, on appeal, the Supreme Court affirmed it.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.22,
+      560.93,
+      492.82,
+      574.99
+    ],
+    "text": "Wanasundare J. on behalf of the Supreme Court inter alia held:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      594.05,
+      500.26,
+      608.11
+    ],
+    "text": "Furthermore, the appellants have not explained as to what",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      615.2,
+      500.5,
+      629.26
+    ],
+    "text": "caused the Respondent to be punished and discharged",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      636.32,
+      503.99,
+      650.38
+    ],
+    "text": "from service. He was punished at the end of the inquiry.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      657.44,
+      500.46,
+      671.5
+    ],
+    "text": "After he completed the detention period, he was ordered to",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      678.56,
+      500.43,
+      692.62
+    ],
+    "text": "be discharged. This is equal to a second sentencing which",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.22,
+      699.67,
+      500.18,
+      713.74
+    ],
+    "text": "is not allowed in law. No person can be punished twice",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      102.24,
+      500.49,
+      116.3
+    ],
+    "text": "over. I hold that the discharge of the 1st Respondent was",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.22,
+      123.36,
+      216.77,
+      137.42
+    ],
+    "text": "ultra vires.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      156.48,
+      500.69,
+      170.48
+    ],
+    "text": "This Judgment is often quoted to say the Commander has no",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      177.6,
+      500.74,
+      191.6
+    ],
+    "text": "authority to discharge a serviceman under the clause services",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      198.72,
+      500.74,
+      212.72
+    ],
+    "text": "no longer required if a punishment for the same offence had",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      219.96,
+      500.66,
+      233.96
+    ],
+    "text": "already been given, as it is against the doctrine of double",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      241.08,
+      180.74,
+      255.08
+    ],
+    "text": "jeopardy.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      274.23,
+      500.74,
+      288.23
+    ],
+    "text": "However, there are decisions handed down by this Court which",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      295.35,
+      500.43,
+      309.41
+    ],
+    "text": "have taken the opposite view. For instance, in Mangala",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      316.47,
+      500.18,
+      330.53
+    ],
+    "text": "Pushpakumara v. Air Chief Marshal Roshan Gunathilake",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      337.59,
+      500.73,
+      351.65
+    ],
+    "text": "(CA/WRIT/448/2009, CA Minutes of 28.03.2012), Anil",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      358.71,
+      500.71,
+      372.71
+    ],
+    "text": "Gunaratne J. held that such discharge under the clause",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      379.83,
+      504.58,
+      393.83
+    ],
+    "text": "services no longer required is not made as a punishment.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      400.95,
+      500.42,
+      415.01
+    ],
+    "text": "Explaining this further, in Dissanayake v. D.C.J. Weerakoon, Air",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      422.09,
+      500.74,
+      436.15
+    ],
+    "text": "Commodore (CA Minutes of 11.09.2017), Dehideniya J. held that",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      443.33,
+      500.66,
+      457.33
+    ],
+    "text": "such discharge is not a punishment but only an administrative",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      464.45,
+      500.69,
+      478.45
+    ],
+    "text": "step. According to this line of decisions, after the initial",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      485.57,
+      500.69,
+      499.57
+    ],
+    "text": "punishment, discharging the serviceman under the clause",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      506.69,
+      500.66,
+      520.69
+    ],
+    "text": "services no longer required does not amount to violation of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      527.81,
+      496.9,
+      541.81
+    ],
+    "text": "doctrine of double jeopardy. Against the aforesaid last-",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      548.93,
+      500.74,
+      562.93
+    ],
+    "text": "mentioned Judgment of this Court, there was an appeal to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      570.05,
+      500.4,
+      584.11
+    ],
+    "text": "Supreme Court. The Supreme Court in Madushanka v. D.J.C.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      591.17,
+      500.74,
+      605.23
+    ],
+    "text": "Weerakoon (SC/SPL/LA/234/2017, SC Minutes of 05.09.2019)",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      612.32,
+      500.74,
+      626.32
+    ],
+    "text": "refused special leave to appeal. When special leave is refused,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      633.44,
+      500.74,
+      647.44
+    ],
+    "text": "as no reasons are given, this Court does not have the benefit of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      654.56,
+      500.7,
+      668.56
+    ],
+    "text": "understanding the reasoning behind the refusal. Learned Senior",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      675.8,
+      500.59,
+      689.8
+    ],
+    "text": "State Counsel appearing for the Commander of the Air Force in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      115.22,
+      696.91,
+      500.74,
+      710.92
+    ],
+    "text": "the instant application was the Counsel for the Commander in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "7",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      102.24,
+      504.57,
+      116.24
+    ],
+    "text": "the said Supreme Court case (where special leave was refused).",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      123.36,
+      500.69,
+      137.36
+    ],
+    "text": "Now there are two apparently conflicting Supreme Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      144.48,
+      500.7,
+      158.48
+    ],
+    "text": "decisions handed down by Benches constituting a numerically",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      165.6,
+      283.25,
+      179.6
+    ],
+    "text": "equal number of Justices.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      198.72,
+      500.69,
+      212.72
+    ],
+    "text": "Mr. Manohara Jayasinghe, learned Senior State Counsel for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      219.96,
+      500.74,
+      233.96
+    ],
+    "text": "Commander of the Air Force, in his own inimitable style, argued",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      241.08,
+      500.69,
+      255.08
+    ],
+    "text": "the point eloquently. He makes a distinction between",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      262.23,
+      500.71,
+      276.23
+    ],
+    "text": "punishment meted out soon after conviction and subsequent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      283.35,
+      500.74,
+      297.35
+    ],
+    "text": "discharge under the clause services no longer required. He",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      304.47,
+      500.73,
+      318.47
+    ],
+    "text": "contends that the latter is made by the Commander in selected",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      325.59,
+      500.7,
+      339.59
+    ],
+    "text": "cases upon having taken stock of all antecedents, including the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      346.71,
+      500.69,
+      360.71
+    ],
+    "text": "past history of the convict, for the greater benefit of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      367.83,
+      500.74,
+      381.83
+    ],
+    "text": "institution and particularly for the maintenance of discipline",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      388.95,
+      500.69,
+      402.95
+    ],
+    "text": "among servicemen. Learned Senior State Counsel argues that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      410.07,
+      500.67,
+      424.07
+    ],
+    "text": "discharge under services no longer required is not a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      431.21,
+      500.74,
+      445.21
+    ],
+    "text": "punishment but an administrative decision and therefore the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      452.33,
+      500.73,
+      466.33
+    ],
+    "text": "same cannot be challenged by application of the doctrine of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      473.45,
+      500.33,
+      487.51
+    ],
+    "text": "double jeopardy. He contends this seemingly unfettered power",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      494.69,
+      500.46,
+      508.75
+    ],
+    "text": "in the Air Force Commander is limited by the principles of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      515.81,
+      500.48,
+      529.87
+    ],
+    "text": "Administrative Law which requires that all such decisions be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      536.93,
+      463.03,
+      550.99
+    ],
+    "text": "made reasonably. I am inclined to accept this argument.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      570.05,
+      500.49,
+      584.11
+    ],
+    "text": "It may be relevant to note that item (xiii) (a) inter alia states: The",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      591.17,
+      500.42,
+      605.23
+    ],
+    "text": "application for discharge will be made on special form, on which",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      612.32,
+      500.41,
+      626.38
+    ],
+    "text": "full particulars of the case will be recorded, and to which the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      633.44,
+      500.74,
+      647.5
+    ],
+    "text": "conduct sheets will be attached. This makes it clear that the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      654.56,
+      500.64,
+      668.56
+    ],
+    "text": "said item is not meant to be used as a punishment for any",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      675.68,
+      500.74,
+      689.68
+    ],
+    "text": "specific offence committed under the Air Force Act but, rather,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.22,
+      696.91,
+      500.74,
+      710.92
+    ],
+    "text": "serves as an administrative measure to be exercised by the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "8",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      102.24,
+      500.7,
+      116.24
+    ],
+    "text": "Commander, at his discretion, upon taking into consideration",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      123.36,
+      504.58,
+      137.36
+    ],
+    "text": "the overall conduct and circumstances of the airman concerned.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      144.48,
+      500.71,
+      158.48
+    ],
+    "text": "Hence, the argument that discharge under the clause services",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      165.6,
+      500.65,
+      179.6
+    ],
+    "text": "no longer required amounts to punishing twice over for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      186.72,
+      500.64,
+      200.72
+    ],
+    "text": "same offence in violation of the doctrine of double jeopardy",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      207.96,
+      500.69,
+      221.96
+    ],
+    "text": "cannot be readily accepted. Such discharge is not a punishment",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      229.08,
+      500.65,
+      243.14
+    ],
+    "text": "per se but largely an administrative decision for the greater",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      250.23,
+      500.69,
+      264.23
+    ],
+    "text": "benefit of the institution, which can only be challenged on the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      271.35,
+      500.64,
+      285.35
+    ],
+    "text": "same grounds any other administrative decision can be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      292.47,
+      500.74,
+      306.47
+    ],
+    "text": "challenged under judicial review. If the presence of any airman",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      313.59,
+      500.7,
+      327.59
+    ],
+    "text": "is inimical to maintain the discipline and good order of the Air",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      334.71,
+      500.69,
+      348.71
+    ],
+    "text": "Force, the Commander of the Air Force, as the head of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      355.83,
+      500.67,
+      369.83
+    ],
+    "text": "institution, shall have the power to discharge such airman from",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      376.95,
+      500.74,
+      390.95
+    ],
+    "text": "service. It is no secret that discretion is inherent in power as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      398.07,
+      500.67,
+      412.07
+    ],
+    "text": "opposed to duty. It is true in this instance as well. But there is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      419.19,
+      500.71,
+      433.19
+    ],
+    "text": "no unfettered, untrammeled or unreviewable administrative",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      440.33,
+      500.7,
+      454.33
+    ],
+    "text": "discretion in modern administrative law. Discretion is subject to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      461.57,
+      214.61,
+      475.57
+    ],
+    "text": "judicial review.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      494.69,
+      500.74,
+      508.69
+    ],
+    "text": "Learned Senior State Counsel further says the earlier quotation",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      515.81,
+      500.45,
+      529.87
+    ],
+    "text": "of Justice Wanasundara in Air Marshal G.D. Perera v. K.H.M.S.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      536.93,
+      500.7,
+      550.99
+    ],
+    "text": "Bandara is obiter dicta, as the applicability of the doctrine of",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      558.05,
+      500.7,
+      572.05
+    ],
+    "text": "double jeopardy was never raised as a question of law before the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      579.17,
+      500.74,
+      593.17
+    ],
+    "text": "Supreme Court, but in the latter case where special leave to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      600.32,
+      500.74,
+      614.32
+    ],
+    "text": "appeal against the Judgment of the Court of Appeal was refused,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      621.44,
+      500.69,
+      635.44
+    ],
+    "text": "the principle question of law the Supreme Court was called upon",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      642.56,
+      500.74,
+      656.56
+    ],
+    "text": "to answer was the application of the doctrine of double jeopardy",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      663.68,
+      504.57,
+      677.68
+    ],
+    "text": "in the context of discharge under services no longer required.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      684.79,
+      500.71,
+      698.8
+    ],
+    "text": "Learned Senior State Counsels argument is that the Supreme",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.22,
+      706.03,
+      500.7,
+      720.1
+    ],
+    "text": "Court in Air Marshal G.D. Perera v. K.H.M.S. Bandara decided",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      302.33,
+      47.98,
+      313.61,
+      61.98
+    ],
+    "text": "9",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      102.24,
+      500.74,
+      116.24
+    ],
+    "text": "the matter on the ground of proportionality of the punishment,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      123.36,
+      500.74,
+      137.36
+    ],
+    "text": "not on the doctrine of double jeopardy. I accept the submission",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      144.48,
+      500.71,
+      158.48
+    ],
+    "text": "of learned Senior State Counsel that intimation to the doctrine of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      165.6,
+      500.5,
+      179.66
+    ],
+    "text": "double jeopardy in the said Supreme Court Judgment is obiter",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      186.84,
+      336.07,
+      200.9
+    ],
+    "text": "dicta and not part of ratio decidendi.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      219.96,
+      500.74,
+      233.96
+    ],
+    "text": "I may further add, with the utmost respect, the said portion of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      241.08,
+      500.49,
+      255.14
+    ],
+    "text": "the Judgment After he completed the detention period he was",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      262.23,
+      500.38,
+      276.29
+    ],
+    "text": "ordered to be discharged [under clause service no longer",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      283.35,
+      500.5,
+      297.41
+    ],
+    "text": "required]. This is equal to a second sentencing which is not",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      304.47,
+      500.74,
+      318.53
+    ],
+    "text": "allowed in law does not represent the correct position of the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      325.59,
+      247.73,
+      339.59
+    ],
+    "text": "law. Let me explain.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      358.71,
+      500.74,
+      372.71
+    ],
+    "text": "It is common ground that by the said item (xiii) (a), the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      379.83,
+      500.69,
+      393.83
+    ],
+    "text": "Commander of the Air Force is given the authority to discharge",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      401.07,
+      500.67,
+      415.07
+    ],
+    "text": "an airman under the clause His services being no longer",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      422.21,
+      500.69,
+      436.21
+    ],
+    "text": "required. The same item elaborates the power conferred on the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      443.33,
+      325.97,
+      457.33
+    ],
+    "text": "Commander in the following terms:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      476.45,
+      500.23,
+      490.51
+    ],
+    "text": "Applies only to an airman who cannot be discharged under",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      497.57,
+      500.45,
+      511.63
+    ],
+    "text": "any other itemIf the airman is undergoing detention, the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      518.69,
+      500.31,
+      532.75
+    ],
+    "text": "decision of the competent officer to authorize discharge will",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      539.81,
+      500.5,
+      553.87
+    ],
+    "text": "be reserved until the airman has completed the greater part",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.22,
+      560.93,
+      244.13,
+      574.99
+    ],
+    "text": "of his sentence.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      594.05,
+      500.62,
+      608.05
+    ],
+    "text": "Detention is a punishment on the scale of punishments in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      615.2,
+      500.66,
+      629.2
+    ],
+    "text": "Air Force Act. From the above excerpt, it is clear that an airman",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      636.32,
+      500.69,
+      650.32
+    ],
+    "text": "who has already been convicted and sentenced can be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      657.44,
+      500.74,
+      671.44
+    ],
+    "text": "discharged under services no longer required, as it says such",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      678.56,
+      500.73,
+      692.56
+    ],
+    "text": "discharge under services no longer required shall be given",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.22,
+      699.67,
+      500.35,
+      713.74
+    ],
+    "text": "effect to after the airman has completed the greater part of his",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      298.61,
+      47.98,
+      317.33,
+      61.98
+    ],
+    "text": "10",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      102.24,
+      500.69,
+      116.3
+    ],
+    "text": "sentence. This means, the item itself recognises punishment",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      123.36,
+      256.13,
+      137.36
+    ],
+    "text": "followed by discharge.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      156.48,
+      500.43,
+      170.54
+    ],
+    "text": "This item says it Applies only to an airman who cannot be",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      177.72,
+      500.74,
+      191.78
+    ],
+    "text": "discharged under any other item of Table B of the Fifth",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      198.84,
+      500.7,
+      212.84
+    ],
+    "text": "Schedule. In the instant case, the Petitioner does not say that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      219.96,
+      502.18,
+      233.96
+    ],
+    "text": "he could have been discharged under any other item of Table B.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      253.11,
+      500.74,
+      267.11
+    ],
+    "text": "Although it was not specifically raised, let me add this for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      274.23,
+      504.54,
+      288.23
+    ],
+    "text": "completeness. The Petitioner in this case was a warrant officer.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      295.35,
+      500.74,
+      309.35
+    ],
+    "text": "Item (xiii) (a) says it applies only to an airman. According to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      316.47,
+      500.74,
+      330.47
+    ],
+    "text": "section 161 of the Air Force Act, which is the interpretation",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      337.59,
+      377.59,
+      351.59
+    ],
+    "text": "section, airman includes a warrant officer.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      370.71,
+      500.42,
+      384.77
+    ],
+    "text": "airman does not include an officer as defined by this Act,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      391.83,
+      500.18,
+      405.89
+    ],
+    "text": "but, subject to the special provisions in this Act contained in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      412.95,
+      500.5,
+      427.01
+    ],
+    "text": "relation to warrant officers and non-commissioned officers,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      434.09,
+      500.42,
+      448.15
+    ],
+    "text": "does include a warrant officer and a non-commissioned",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      151.22,
+      455.33,
+      193.46,
+      469.39
+    ],
+    "text": "officer.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      488.45,
+      500.74,
+      502.45
+    ],
+    "text": "In the items enumerated in Table B, that the word airman",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      509.57,
+      500.74,
+      523.57
+    ],
+    "text": "includes a warrant officer (unless otherwise specified) is made",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      530.69,
+      500.74,
+      544.69
+    ],
+    "text": "clear by looking at the item after item (xiii) (a), i.e. item (xiii) (b),",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      551.81,
+      500.5,
+      565.87
+    ],
+    "text": "which under Special Instructions says Applies only to an",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      572.93,
+      392.95,
+      586.99
+    ],
+    "text": "airman (other than a warrant officer, Class I).",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      606.08,
+      500.74,
+      620.08
+    ],
+    "text": "Conferment of authority in the Commanders of the Forces to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      627.2,
+      500.74,
+      641.2
+    ],
+    "text": "dismiss incorrigible recalcitrant servicemen is essential in order",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      648.32,
+      500.69,
+      662.38
+    ],
+    "text": "to inter alia maintain discipline in the Forces. Regulation 2 of",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      669.56,
+      500.67,
+      683.56
+    ],
+    "text": "the Army Discipline Regulations, 1950, found in Subsidiary",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.22,
+      690.67,
+      500.5,
+      704.74
+    ],
+    "text": "Legislation of Ceylon (1956), Vol. VI, Chapter 356, says The",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      298.61,
+      47.98,
+      317.33,
+      61.98
+    ],
+    "text": "11",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      102.24,
+      500.32,
+      116.3
+    ],
+    "text": "Commander of the Army shall be vested with general",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      123.36,
+      500.73,
+      137.42
+    ],
+    "text": "responsibility for discipline in the army. Unlike in most other",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      144.48,
+      500.66,
+      158.48
+    ],
+    "text": "institutions, if there is no discipline among the members of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      165.6,
+      500.65,
+      179.6
+    ],
+    "text": "Armed Forces and also the Police Force, those institutions",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      186.84,
+      500.69,
+      200.84
+    ],
+    "text": "cannot function effectively and responsibly. The fundamental",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      207.96,
+      500.69,
+      221.96
+    ],
+    "text": "responsibility of the Armed Forces and the Police is to protect",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      229.08,
+      500.74,
+      243.08
+    ],
+    "text": "the nation from internal and external enemies, and actively",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      250.23,
+      500.69,
+      264.23
+    ],
+    "text": "participate in maintaining law and order. If there is no",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      271.35,
+      298.13,
+      285.35
+    ],
+    "text": "discipline, there is no military.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      304.47,
+      448.63,
+      318.47
+    ],
+    "text": "Article 15(8) of the Constitution recognises this concept:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      337.59,
+      500.43,
+      351.65
+    ],
+    "text": "The exercise and operation of the fundamental rights",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      358.71,
+      500.5,
+      372.77
+    ],
+    "text": "declared and recognized by Articles 12(1), 13 and 14 shall,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      379.83,
+      500.24,
+      393.89
+    ],
+    "text": "in their application to the members of the Armed Forces,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      400.95,
+      500.46,
+      415.01
+    ],
+    "text": "Police Force and other Forces charged with the maintenance",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      422.09,
+      500.43,
+      436.15
+    ],
+    "text": "of public order, be subject to such restrictions as may be",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      443.21,
+      500.46,
+      457.27
+    ],
+    "text": "prescribed by law in the interests of the proper discharge of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      151.22,
+      464.33,
+      495.7,
+      478.39
+    ],
+    "text": "their duties and the maintenance of discipline among them.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      497.57,
+      500.66,
+      511.57
+    ],
+    "text": "Article 12(1) primarily deals with the right to equality; Article 13",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      518.69,
+      500.71,
+      532.69
+    ],
+    "text": "with freedom from arbitrary arrest, detention and punishment;",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      539.81,
+      500.74,
+      553.81
+    ],
+    "text": "and Article 14 with freedom of speech, assembly, association,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      560.93,
+      277.97,
+      574.93
+    ],
+    "text": "occupation and movement.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      594.05,
+      500.74,
+      608.05
+    ],
+    "text": "As I have already stated, this power conferred by law is not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      615.2,
+      500.71,
+      629.2
+    ],
+    "text": "unfettered. The Commander shall exercise this power reasonably",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      636.32,
+      500.74,
+      650.32
+    ],
+    "text": "and not arbitrarily. How seemingly untrammeled discretion shall",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      657.44,
+      500.7,
+      671.44
+    ],
+    "text": "be exercised is summed up by Lord Wrenbury in the celebrated",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      678.56,
+      500.29,
+      692.62
+    ],
+    "text": "House of Lords decision in Roberts v. Hopwood [1925] AC 578 at",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.22,
+      699.67,
+      288.29,
+      713.74
+    ],
+    "text": "613 in the following manner:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      298.61,
+      47.98,
+      317.33,
+      61.98
+    ],
+    "text": "12",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      102.24,
+      500.43,
+      116.3
+    ],
+    "text": "A person in whom is vested a discretion must exercise his",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      123.36,
+      500.42,
+      137.42
+    ],
+    "text": "discretion upon reasonable grounds. A discretion does not",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      144.48,
+      500.48,
+      158.54
+    ],
+    "text": "empower a man to do what he likes merely because he is",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      165.6,
+      500.42,
+      179.66
+    ],
+    "text": "minded to do so he must in the exercise of his discretion",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      186.72,
+      500.42,
+      200.78
+    ],
+    "text": "do not what he likes but what he ought. In other words, he",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      207.96,
+      500.43,
+      222.02
+    ],
+    "text": "must, by the use of his reason, ascertain and follow the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      151.22,
+      229.08,
+      463.27,
+      243.14
+    ],
+    "text": "course which reason directs. He must act reasonably.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      262.23,
+      500.71,
+      276.23
+    ],
+    "text": "Failure to act in accordance with the principles of administrative",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      283.35,
+      500.69,
+      297.35
+    ],
+    "text": "law will result in the impugned decision being liable to be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      304.47,
+      427.03,
+      318.47
+    ],
+    "text": "quashed by a properly constituted writ application.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      337.59,
+      500.7,
+      351.59
+    ],
+    "text": "In the facts and circumstances of this case, I cannot bring",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      358.71,
+      500.7,
+      372.71
+    ],
+    "text": "myself to conclude that the decision of the Commander of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      379.83,
+      500.74,
+      393.83
+    ],
+    "text": "Air Force to discharge the Petitioner under the clause services",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      400.95,
+      460.87,
+      414.95
+    ],
+    "text": "no longer required is patently unreasonable or perverse.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      434.09,
+      500.74,
+      448.09
+    ],
+    "text": "There is no further burden on me to delve into the grounds of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      455.21,
+      500.7,
+      469.21
+    ],
+    "text": "judicial review, as the petitioner in this case challenges the order",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      476.33,
+      500.74,
+      490.33
+    ],
+    "text": "of his discharge under the clause services no longer required",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      497.45,
+      500.74,
+      511.45
+    ],
+    "text": "on the ground of violation of the doctrine of double jeopardy. I",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      518.57,
+      408.07,
+      532.57
+    ],
+    "text": "think I have adequately dealt with that ground.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      551.81,
+      500.69,
+      565.81
+    ],
+    "text": "Although it was not drawn to my attention, I must confess that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      572.93,
+      500.74,
+      586.93
+    ],
+    "text": "the application of item (xiii) (a) in two of my earlier Judgments,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      594.05,
+      500.43,
+      608.11
+    ],
+    "text": "namely, Weerathilake v. Commander, Sri Lanka Air Force,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      615.2,
+      500.42,
+      629.26
+    ],
+    "text": "(CA/WRIT/107/2016, CA Minutes of 05.03.2019) and Wasantha",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      636.32,
+      500.34,
+      650.38
+    ],
+    "text": "Kumara v. Commander, Sri Lanka Air Force,",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      657.44,
+      500.71,
+      671.5
+    ],
+    "text": "(CA/WRIT/171/2015, CA Minutes of 01.07.2020) is erroneous.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      678.56,
+      500.74,
+      692.56
+    ],
+    "text": "Let me repeat what H.N.G. Fernando J. (later C.J.) said when",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      115.22,
+      699.67,
+      500.42,
+      713.74
+    ],
+    "text": "confronted with a similar situation in Peiris v. Chairman, Village",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      298.61,
+      47.98,
+      317.33,
+      61.98
+    ],
+    "text": "13",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      102.24,
+      500.74,
+      116.3
+    ],
+    "text": "Committee of Medasiya Pattu Matale (1960) 62 NLR 546 at 547:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      123.36,
+      500.4,
+      137.42
+    ],
+    "text": "While it is disappointing to realize that my judgment was",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      144.48,
+      500.4,
+      158.54
+    ],
+    "text": "erroneous, I welcome the opportunity now given me to employ the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      165.72,
+      500.47,
+      179.78
+    ],
+    "text": "language of Baron Bramwell in a similar situation: The matter",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      186.84,
+      500.43,
+      200.9
+    ],
+    "text": "does not appear to me now as it appears to have appeared to me",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      207.96,
+      500.74,
+      222.02
+    ],
+    "text": "before. This has been quoted by many Judges in the past,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      229.08,
+      500.29,
+      243.14
+    ],
+    "text": "including Wimalachandra J. in Palitha v. Monetary Board of the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      250.23,
+      500.42,
+      264.29
+    ],
+    "text": "Central Bank of Sri Lanka [2012] 1 Sri LR 199 and Bank of",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      271.35,
+      500.74,
+      285.41
+    ],
+    "text": "Ceylon v. Warnakulasuriya [2007] 1 Sri LR 33, to accept",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      292.47,
+      500.7,
+      306.47
+    ],
+    "text": "unintentional errors. Similar acknowledgement is made by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      313.59,
+      500.31,
+      327.65
+    ],
+    "text": "Mark Fernando J. in State Distilleries Corporation v. Rupasinghe",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      334.83,
+      283.01,
+      348.89
+    ],
+    "text": "[1994] 2 Sri LR 394 at 404.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      367.95,
+      470.5,
+      381.95
+    ],
+    "text": "I dismiss the application of the Petitioner but without costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      328.85,
+      467.33,
+      500.74,
+      481.33
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      509.57,
+      255.41,
+      523.57
+    ],
+    "text": "Arjuna Obeyesekere, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      115.22,
+      530.69,
+      162.02,
+      544.69
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      328.85,
+      563.81,
+      500.74,
+      577.81
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]

@@ -1,0 +1,4646 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      111.17,
+      116.09,
+      489.44,
+      132.57
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.878029823303223,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      74.02,
+      316.62,
+      220.31,
+      348.84
+    ],
+    "text": "CA Writ Application No: 784/2008",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      11.929113388061523,
+      11.948500633239746,
+      12.089982986450195,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.98,
+      144.89,
+      379.99,
+      161.37
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      255.55,
+      187.73,
+      421.99,
+      253.15
+    ],
+    "text": "Preethie Kumdinie Abeyesekera, No. 137/B7, 3'd Lane, Salgas Mawatha, Mattegoda Polgasowita.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.03577995300293,
+      12.179327011108398,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.67,
+      268.38,
+      375.6,
+      284.12
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.7,
+      298.81,
+      337.63,
+      317.48
+    ],
+    "text": "V.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.533825874328613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.16,
+      322.58,
+      386.72,
+      338.66
+    ],
+    "text": "l. Hon. Gamini Thilaksiri",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.207589149475098
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.45,
+      337.48,
+      516.86,
+      410.82
+    ],
+    "text": "Minister of Sports, Youth Affaires, Women Affaires, Housing and Constructions - Western Provincial Council No. 204, Denzil Kobbekaduwa Mawatha, Battaramulla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      255.89,
+      423.89,
+      434.02,
+      439.64
+    ],
+    "text": "2. Homagama Pradeshiya Sabhawa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.586926460266113,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.7,
+      437.92,
+      409.74,
+      468.07
+    ],
+    "text": "Pradeshiya Sabhawa Office, Homagama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.18,
+      481.12,
+      447.72,
+      554.1
+    ],
+    "text": "3. AJ. Karunaratne Divisional Secretary Divisional Secretariat - Homagama Court Road, Homagama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.739696502685547,
+      11.800000190734863,
+      12.320663452148438
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.79,
+      567.17,
+      413.46,
+      626.1
+    ],
+    "text": "4. J.A.S. Jayasuriya Regional Engineer's Office Court Road, Homagama.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.557100296020508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.53,
+      639.16,
+      423.78,
+      654.91
+    ],
+    "text": "5. Urban Development Authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.447020530700684,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.9,
+      653.57,
+      341.95,
+      683.35
+    ],
+    "text": "\"Sethsiripaya\" Battaramulla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      261.94,
+      696.04,
+      379.37,
+      711.79
+    ],
+    "text": "6. Victor Samaraweera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.634692192077637,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      274.0,
+      710.09,
+      504.01,
+      754.27
+    ],
+    "text": "Chief Secretary - Western Provincial Council No. 32, Sir Marcus Fernando Mawatha, Srawasthi Mandhiraya",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.45,
+      346.18,
+      136.78,
+      362.11
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.75,
+      416.03,
+      146.24,
+      431.96
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.500199317932129
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.85,
+      540.22,
+      234.04,
+      556.15
+    ],
+    "text": "WRITTEN SUBMISSIONS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5,
+      11.516437530517578
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.45,
+      562.9,
+      144.79,
+      578.83
+    ],
+    "text": "FILED ON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.07,
+      667.82,
+      179.37,
+      683.9
+    ],
+    "text": "JUDGMENT ON",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.766411781311035,
+      11.828939437866211
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273.48,
+      86.66,
+      339.7,
+      103.2
+    ],
+    "text": "Colombo 07.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.259302139282227
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255.84,
+      116.08,
+      383.12,
+      131.83
+    ],
+    "text": "7. Nishendra Gunarathne",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.634692192077637,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.72,
+      129.49,
+      444.55,
+      160.26
+    ],
+    "text": "137/B5, 3'd Lane, Salgas Mawatha, Mattegoda.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.892775535583496,
+      12.034616470336914,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      256.12,
+      173.32,
+      447.84,
+      189.07
+    ],
+    "text": "8. Thananthara Withanage Wimalasiri",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.454646110534668,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.71,
+      186.74,
+      441.77,
+      217.87
+    ],
+    "text": "137113, 3'd Lane, Salgas Mawatha, Mattegoda.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.892775535583496,
+      12.077404022216797
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255.83,
+      230.93,
+      420.62,
+      246.68
+    ],
+    "text": "9. Kaludeera Saman Rvindra Lal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.637227058410645,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.71,
+      244.34,
+      441.77,
+      275.48
+    ],
+    "text": "137115, 3'd Lane, Salgas Mawatha, Mattegoda.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.892775535583496,
+      12.077404022216797
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.31,
+      288.53,
+      390.32,
+      304.27
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.09,
+      346.25,
+      470.34,
+      362.47
+    ],
+    "text": "K. PRIY ANTRA FERNANDO, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5,
+      11.524024963378906,
+      11.655695915222168
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.98,
+      369.65,
+      467.46,
+      385.87
+    ],
+    "text": "SAMPATR B. ABAYAKOON, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5,
+      11.550389289855957,
+      11.567998886108398
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.14,
+      415.61,
+      489.33,
+      431.36
+    ],
+    "text": "Anoma Goonathilake for the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.72,
+      437.82,
+      504.23,
+      454.39
+    ],
+    "text": "Edward Ahangama for the 2nd Respondent.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.2970991134643555,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.01,
+      460.69,
+      516.27,
+      492.71
+    ],
+    "text": "Wikum De Abrew, SDSG for the 1st, 3'd, 4'h, 5'h and 6'h Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.938807487487793,
+      11.523200035095215,
+      11.6499662399292,
+      11.800000190734863,
+      11.82140064239502,
+      11.920114517211914,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.04,
+      499.57,
+      516.51,
+      531.79
+    ],
+    "text": "C. Wanigapura for the 7'h, 8'h, and 9'h Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.346442222595215,
+      11.473702430725098,
+      11.650019645690918,
+      11.764496803283691,
+      11.800000190734863,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      285.71,
+      561.85,
+      432.1,
+      578.39
+    ],
+    "text": "01.02.2021 by the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      285.42,
+      589.94,
+      516.49,
+      622.51
+    ],
+    "text": "03.02.2021 by the 1st, 3'd, 4'h, 5'h and 6'h Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.938807487487793,
+      11.472134590148926,
+      11.523200035095215,
+      11.800000190734863,
+      11.813392639160156,
+      11.82140064239502,
+      11.892775535583496,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.99,
+      667.69,
+      341.39,
+      684.23
+    ],
+    "text": "03.03.2021",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      509.32,
+      766.99,
+      517.83,
+      781.01
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.17,
+      86.57,
+      265.22,
+      103.05
+    ],
+    "text": "K. PRIY ANTHA FERNANDO, J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.306792259216309,
+      11.699999809265137,
+      11.718634605407715,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50.22,
+      122.46,
+      516.37,
+      147.01
+    ],
+    "text": "o I. The petitioner filed this application against the respondents seeking to quash by writs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      18.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.4,
+      145.46,
+      516.46,
+      166.69
+    ],
+    "text": "of certiorari the approval granted and the decision taken by the I st and/or 2nd and/or 3'd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.549281120300293,
+      11.502741813659668,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.4,
+      172.46,
+      516.78,
+      187.93
+    ],
+    "text": "andlor 4th respondents or anyone or more of them, which decision is contained in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.753623008728027,
+      11.359864234924316,
+      11.503297805786133,
+      11.600000381469727,
+      12.013577461242676,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.78,
+      189.02,
+      515.74,
+      210.22
+    ],
+    "text": "letter dated 18th September 2008 marked PIO for the construction on lot No. B 10",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.504472732543945,
+      11.232891082763672,
+      11.535543441772461,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.77,
+      215.66,
+      515.96,
+      231.22
+    ],
+    "text": "depicted in survey plan No. 2391 /A dated II th April 1986 made by S.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.504472732543945,
+      11.420156478881836,
+      11.503297805786133,
+      11.600000381469727,
+      11.702942848205566,
+      12.130419731140137,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.84,
+      231.87,
+      515.29,
+      253.1
+    ],
+    "text": "Wickramasinghe Licensed Surveyor marked as PI(b), and to compel the 5th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.202677726745605,
+      11.600000381469727,
+      11.746426582336426
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.86,
+      258.87,
+      517.57,
+      274.34
+    ],
+    "text": "respondent by way of a writ of mandamus to demolish the construction made on Lot",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.47,
+      280.45,
+      516.74,
+      295.93
+    ],
+    "text": "B I O. The parties agreed that the judgment could be delivered on Written Submissions",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.021675109863281,
+      11.600000381469727,
+      11.607547760009766,
+      11.629313468933105
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.75,
+      302.41,
+      181.09,
+      317.89
+    ],
+    "text": "filed by the parties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50.64,
+      345.26,
+      517.01,
+      360.73
+    ],
+    "text": "02. House and Property Traders Ltd., a property developer had blocked out the land called",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.64,
+      361.1,
+      516.32,
+      382.34
+    ],
+    "text": "Mattegodawatte on two survey plans bearing No. 2251 dated 13 th December 1985",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.202677726745605,
+      11.232891082763672,
+      11.600000381469727,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.1,
+      388.47,
+      517.46,
+      404.03
+    ],
+    "text": "(PI (a and No. 2391 /A dated II th April 1986 (PI (b, both made by S",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.202677726745605,
+      11.096158027648926,
+      11.600000381469727,
+      11.60159969329834,
+      11.784236907958984,
+      11.954628944396973,
+      12.22785472869873,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.56,
+      410.06,
+      514.92,
+      425.53
+    ],
+    "text": "Wickramasinghe Licensed Surveyor. It is an undisputed fact that when the above sub-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.13,
+      431.66,
+      516.59,
+      447.13
+    ],
+    "text": "division was approved by the Colombo Development Council, lot No. B I 0 of plan No.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.17,
+      453.25,
+      517.38,
+      468.73
+    ],
+    "text": "2391A was reserved for community and recreation uses in terms of regulation 22(1)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.503297805786133,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.23,
+      474.87,
+      155.2,
+      490.34
+    ],
+    "text": "marked as P3.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51.0,
+      517.69,
+      471.0,
+      533.17
+    ],
+    "text": "03. On approving the above plan, the Authorized Officer recorded the following;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      231.71,
+      560.94,
+      387.98,
+      574.55
+    ],
+    "text": "8> ,.,DB \"\"Cso go,.,. 8>. ~. 6/86/1",
+    "fonts": [
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.600391864776611,
+      8.36181640625,
+      8.774662017822266,
+      9.399999618530273,
+      9.488978385925293,
+      10.199999809265137,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.33,
+      578.47,
+      507.54,
+      597.68
+    ],
+    "text": "'f0\"'. 2391 /<1 ~6\"., 8~~~ \"'~\"',,; \"'CJD 11.04.86 'f0\"'. 8>. 1 BD 8>. 9 ~,.r!lJ 8> ,.,DB eo, c,e&",
+    "fonts": [
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.984670639038086,
+      5.1356329917907715,
+      5.339696407318115,
+      6.754300117492676,
+      7.030093669891357,
+      8.244977951049805,
+      8.36181640625,
+      8.54169750213623,
+      8.895709037780762,
+      9.339899063110352,
+      9.399999618530273,
+      9.480905532836914,
+      9.800000190734863,
+      9.825006484985352,
+      9.91196060180664,
+      10.052253723144531,
+      10.199999809265137,
+      10.481082916259766,
+      10.838464736938477
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.69,
+      598.07,
+      173.89,
+      611.14
+    ],
+    "text": "'f'!.l'\" ,.,6~ .",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.9904026985168457,
+      5.829439163208008,
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51.36,
+      653.79,
+      516.87,
+      675.02
+    ],
+    "text": "04. The petitioner submits that on or about 31 st August 2008, with the approval of the 2nd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      9.549281120300293,
+      11.224419593811035,
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.94,
+      680.79,
+      520.0,
+      696.26
+    ],
+    "text": "respondent, and with funds allocated by the I st respondent, under the supervision of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      11.151114463806152,
+      11.600000381469727,
+      11.848831176757812
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.93,
+      701.66,
+      517.83,
+      717.13
+    ],
+    "text": "the 4th respondent, the 3'd respondent wrongfully and unlawfully commenced",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.589430809020996,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.83,
+      723.27,
+      480.9,
+      738.83
+    ],
+    "text": "constructing a non-residential building in the lot B lOin the above plan 239 1/ A.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.250432968139648,
+      11.404095649719238,
+      11.503297805786133,
+      11.600000381469727,
+      11.734075546264648,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      510.73,
+      766.2,
+      518.08,
+      779.27
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50.28,
+      108.99,
+      517.15,
+      124.6
+    ],
+    "text": "05. While admitting the construction of the building in lot No. B 10, the respondents deny",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.281204223632812,
+      11.552773475646973,
+      11.699999809265137,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.49,
+      130.6,
+      516.21,
+      146.21
+    ],
+    "text": "the allegation made by the petitioner that the above construction is wrongful and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.88,
+      152.04,
+      516.41,
+      167.98
+    ],
+    "text": "unlawful. It is the contention of the respondents that the property referred to in plans",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.408723831176758,
+      11.552773475646973,
+      11.699999809265137,
+      12.02018928527832,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.47,
+      173.79,
+      516.56,
+      189.4
+    ],
+    "text": "PI(a) and PI(b) were sold by House and Property Trades Ltd. at public auction and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.705299377441406,
+      11.796948432922363
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.49,
+      195.4,
+      516.95,
+      211.01
+    ],
+    "text": "the block out plan was approved by the Colombo Development Council (CDC)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.35,
+      216.41,
+      515.88,
+      232.9
+    ],
+    "text": "subject to the reservation of block B I 0 for public purposes. It is submitted that due to",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.408723831176758,
+      11.690596580505371,
+      11.699999809265137,
+      12.225677490234375,
+      12.500140190124512
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.49,
+      238.6,
+      517.1,
+      254.21
+    ],
+    "text": "the need of a community hall for the welfare of the community, on the request of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.5,
+      259.14,
+      516.24,
+      276.08
+    ],
+    "text": "members of the public of the 3'd lane of Salgas Mawatha, they have taken steps to",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.690596580505371,
+      11.699999809265137,
+      12.03577995300293,
+      12.100000381469727,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.53,
+      280.6,
+      516.85,
+      298.05
+    ],
+    "text": "build the community hall which is the subject matter. It is further submitted by the 7th",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.435310363769531,
+      11.310015678405762,
+      11.408723831176758,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.67,
+      301.42,
+      517.11,
+      319.01
+    ],
+    "text": "8th and 9th respondents that the building in question was constructed by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.6900248527526855,
+      7.94221305847168,
+      11.552773475646973,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.51,
+      323.02,
+      517.35,
+      340.24
+    ],
+    "text": "respondents due to the public demand made through the 7th 8th 9th respondents' society",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.94221305847168,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.75,
+      346.23,
+      516.83,
+      361.84
+    ],
+    "text": "and that any technical mistakes of non-compliance of regulations can be cured on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.89,
+      368.19,
+      158.66,
+      383.8
+    ],
+    "text": "public interest.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50.28,
+      410.45,
+      518.53,
+      426.94
+    ],
+    "text": "06. It is pertinent to note that the land 'Mattegodawatte' had been a private property. It",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.104442596435547,
+      11.699999809265137,
+      12.02018928527832,
+      12.100000381469727,
+      12.225677490234375
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.5,
+      432.63,
+      516.21,
+      448.24
+    ],
+    "text": "was not owned by the State or the Urban Development Authority (UDA). House and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.47,
+      454.23,
+      513.83,
+      469.84
+    ],
+    "text": "Property Trades Ltd. (The Developer) had got the necessary approval for the sub-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.76,
+      475.84,
+      127.93,
+      491.45
+    ],
+    "text": "division.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50.28,
+      519.03,
+      519.41,
+      534.64
+    ],
+    "text": "07. Regulations made by the Minister in terms of Section 8 of the UDA Law No. 41 of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.143726348876953,
+      11.552773475646973,
+      11.699999809265137,
+      11.741525650024414,
+      12.103201866149902,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.55,
+      540.28,
+      516.79,
+      555.89
+    ],
+    "text": "1978, which was published in gazette No. 392/9 dated 10.03.1986, among other things",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.552773475646973,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.9,
+      561.87,
+      369.4,
+      577.48
+    ],
+    "text": "provide for sub-division of land. Regulation 22 provides;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.83,
+      605.89,
+      517.11,
+      620.67
+    ],
+    "text": "22(1) Where the parcel of land or site to be sub-divided exceeds 1.0 hectare, an area",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.073972702026367,
+      12.100000381469727,
+      13.34726619720459
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.76,
+      627.49,
+      517.93,
+      642.27
+    ],
+    "text": "of not less than ten percentum of the land or site, excluding streets shall be reserved",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.100000381469727,
+      13.143458366394043,
+      13.34726619720459
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.99,
+      649.08,
+      384.89,
+      663.86
+    ],
+    "text": "for community and recreation uses in appropriate locations.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.008000373840332,
+      12.100000381469727,
+      12.158557891845703
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.84,
+      691.56,
+      482.58,
+      706.34
+    ],
+    "text": "22(2) Such reserved space shall be vested with the Authority free of all charges.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.100000381469727,
+      13.34726619720459
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      509.36,
+      766.74,
+      517.09,
+      780.48
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      50.28,
+      87.4,
+      516.34,
+      103.01
+    ],
+    "text": "08. As provided in the above Regulation 22, when approving the sub-division of the land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.552773475646973,
+      11.699999809265137,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.28,
+      108.99,
+      516.02,
+      124.6
+    ],
+    "text": "Matlegodawatte, as a condition precedent the CDC has reserved Lot B 1 0 for",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.41,
+      130.23,
+      516.21,
+      145.84
+    ],
+    "text": "community and recreation uses. Therefore, it is obvious that all persons including the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.576750755310059,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.55,
+      151.84,
+      517.12,
+      167.45
+    ],
+    "text": "petitioner who bought the blocks from the land Mattegodawatte from the Developer",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.5,
+      173.43,
+      517.31,
+      189.04
+    ],
+    "text": "have proportionately paid for that space (B I 0). Hence, it is clear that Lot B lOis",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.576750755310059,
+      11.699999809265137,
+      12.238507270812988
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.5,
+      195.04,
+      516.37,
+      210.65
+    ],
+    "text": "reserved for community and recreation of the allottees of the sub-division plan, not for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.48,
+      216.63,
+      177.13,
+      232.23
+    ],
+    "text": "the general public.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      50.28,
+      259.84,
+      516.47,
+      275.45
+    ],
+    "text": "09. Once the sub-division is approved, the reserved place BIO is vested with the UDA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.408723831176758,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.39,
+      281.28,
+      516.26,
+      297.22
+    ],
+    "text": "free of all charges in terms of Regulation 21 (2). It is for the UDA or the local",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.16491413116455,
+      11.408723831176758,
+      11.69962215423584,
+      11.699999809265137,
+      12.103201866149902,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.4,
+      303.04,
+      516.92,
+      318.65
+    ],
+    "text": "authority to maintain the reserved space for community recreation for allottees of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.690596580505371,
+      11.699999809265137,
+      12.103201866149902
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.71,
+      324.63,
+      519.05,
+      340.24
+    ],
+    "text": "sub-division who are taxpayers to such local authority. In the above premise, I am of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.676526069641113,
+      11.699999809265137,
+      12.103201866149902
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.49,
+      346.23,
+      516.85,
+      361.84
+    ],
+    "text": "the considered view that the respondents have no legal right to grant approval to build",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.78,
+      367.47,
+      517.36,
+      383.08
+    ],
+    "text": "or to build a community hall in lot BIO for the use of the residents of3'd Lane, Salgas",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.0,
+      12.103201866149902,
+      12.451936721801758
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.64,
+      389.08,
+      491.04,
+      404.69
+    ],
+    "text": "Mawatha, other than that for the use by the allottees of the plans PI(a) and PI(b).",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.868979454040527,
+      12.0,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51.43,
+      430.44,
+      517.76,
+      447.89
+    ],
+    "text": "10. Learned Counsel for the 1st 3'd 41h 51h and 61h respondents submitted that the petitioner",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.738856315612793,
+      7.773554801940918,
+      7.800099849700928,
+      11.552216529846191,
+      11.695249557495117,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.15,
+      453.72,
+      517.46,
+      469.66
+    ],
+    "text": "is guilty of lashes. It is submitted that the government funds have been utilized and the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.408723831176758,
+      11.699999809265137,
+      12.303296089172363,
+      12.332474708557129
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.89,
+      475.47,
+      517.09,
+      491.08
+    ],
+    "text": "building has almost been completed except for cementing the floor and plastering the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.84,
+      497.43,
+      114.61,
+      513.04
+    ],
+    "text": "walls.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52.47,
+      540.28,
+      517.29,
+      555.92
+    ],
+    "text": "II. In the case of Seneviratne V. Tissa Dias Bal/daral/ayake and aI/other /1992J 2 SLR",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.7564115524292,
+      11.699999809265137,
+      11.959228515625,
+      12.300000190734863,
+      12.303296089172363,
+      12.33066177368164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.73,
+      561.13,
+      282.43,
+      577.67
+    ],
+    "text": "341 at page 351, the Court commented;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      85.86,
+      601.84,
+      518.32,
+      621.06
+    ],
+    "text": "'If a person were negligent for a long and unreasonable time, the law refosed",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0,
+      12.015490531921387,
+      14.199999809265137,
+      15.241691589355469
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.8,
+      626.86,
+      517.16,
+      641.51
+    ],
+    "text": "afterwards to lend him any assistance to enforce his rights; the law both to punish his",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      84.17,
+      648.46,
+      517.05,
+      663.11
+    ],
+    "text": "neglect, nam leges vigilantiblls, non dormientibus, subveniuntn and for other reasons",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      83.8,
+      670.06,
+      440.69,
+      684.71
+    ],
+    "text": "refoses to assist those who sleep over their rights and are not vigilant. '",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      510.33,
+      766.11,
+      518.5,
+      780.65
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.899999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.09,
+      107.23,
+      516.89,
+      124.17
+    ],
+    "text": "12. In the case of Biso Menika V. Cyril de Alwis afl(l Others (1982/1 Sri LR 368, the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.134810447692871,
+      11.580864906311035,
+      11.800000190734863,
+      12.135781288146973,
+      12.199999809265137,
+      12.355762481689453,
+      12.607687950134277,
+      12.699999809265137,
+      12.719635009765625
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.3,
+      129.77,
+      188.02,
+      145.51
+    ],
+    "text": "Supreme Court held:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.8,
+      173.44,
+      515.94,
+      188.33
+    ],
+    "text": "\"When the Court has examined the record and is satisfied the Order complained of is",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.960549354553223,
+      12.199999809265137,
+      13.197657585144043
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.1,
+      195.03,
+      516.51,
+      209.92
+    ],
+    "text": "manifestly erroneous or without jurisdiction the Court would be loathe to allow the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.968351364135742,
+      12.186943054199219,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.1,
+      216.63,
+      520.34,
+      231.53
+    ],
+    "text": "mischief of the Order to continue and reject the application simply on the ground of",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.19589900970459,
+      12.199999809265137,
+      13.197657585144043,
+      13.40230655670166
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.1,
+      238.23,
+      515.98,
+      253.12
+    ],
+    "text": "delay, unless there are very extraordinary reasons to justifY such rejection. Where the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.968351364135742,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.08,
+      259.82,
+      516.95,
+      274.72
+    ],
+    "text": "authority concerned has been acting altogether without basic jurisdiction, the Court",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.46,
+      281.79,
+      515.91,
+      296.69
+    ],
+    "text": "may grant relief in spite of the delay unless the conduct of the party shows that he has",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.057518005371094,
+      12.15908145904541,
+      12.199999809265137,
+      12.215290069580078,
+      13.197657585144043,
+      13.40230655670166
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.08,
+      303.03,
+      515.98,
+      317.92
+    ],
+    "text": "approbated the usurpation of jurisdiction. In any such event, the explanation of the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.956366539001465,
+      12.199999809265137,
+      13.40230655670166
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.45,
+      324.62,
+      312.93,
+      339.52
+    ],
+    "text": "delay should be considered sympathetically. \"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.07,
+      367.01,
+      516.07,
+      382.76
+    ],
+    "text": "13. The petitioner in submitting the sequence of events, in paragraph 10 of his petition has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.60204029083252,
+      11.741454124450684,
+      11.745122909545898,
+      11.800000190734863,
+      12.154815673828125,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.35,
+      388.61,
+      517.27,
+      404.36
+    ],
+    "text": "stated that this alleged unlawful construction commenced on or about 31 \" August",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.320768356323242,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.45,
+      404.45,
+      517.02,
+      425.59
+    ],
+    "text": "2008. I\" 3'd 4th 5th and 6th respondents in paragraph 8 of their statement of objections",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.586057662963867,
+      9.881071090698242,
+      10.845930099487305,
+      11.601479530334473,
+      11.60204029083252,
+      11.732154846191406,
+      11.800000190734863,
+      11.927956581115723,
+      12.154815673828125,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.77,
+      431.45,
+      517.63,
+      447.2
+    ],
+    "text": "dated 17th December 2008, have admitted the contents of paragraph 10 of the petition,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.049215316772461,
+      11.537223815917969,
+      11.800000190734863,
+      12.154815673828125,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.76,
+      453.04,
+      445.59,
+      468.79
+    ],
+    "text": "other than the contention that the construction is wrongful and unlawful.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.45,
+      490.48,
+      516.58,
+      511.99
+    ],
+    "text": "14. The petitioner has written the letter marked as PS on 9th September 2008 to the I\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.586057662963867,
+      11.137343406677246,
+      11.580864906311035,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.86,
+      517.84,
+      516.78,
+      533.59
+    ],
+    "text": "respondent objecting to the above construction. The petitioner also has written letters",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.86,
+      533.68,
+      516.9,
+      555.2
+    ],
+    "text": "marked P6 to the 6th respondent with copies to the 2nd and 5th respondents and P7 to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.399162292480469,
+      9.586057662963867,
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.85,
+      555.29,
+      516.53,
+      576.79
+    ],
+    "text": "the 6th respondent with copies to the 2nd and 5th respondents objecting to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.586057662963867,
+      9.631250381469727,
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.76,
+      577.24,
+      517.51,
+      598.39
+    ],
+    "text": "construction, and the acceptance of the above letters is not denied. On 18th September",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.586057662963867,
+      11.329313278198242,
+      11.457375526428223,
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.81,
+      604.24,
+      517.54,
+      619.99
+    ],
+    "text": "2008, the 3'd respondent sent the letter marked PIO stating, among other things, that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.770813941955566,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.84,
+      620.08,
+      517.21,
+      641.23
+    ],
+    "text": "the approval was granted by the 2nd respondent for the construction. The respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.631250381469727,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.86,
+      647.09,
+      517.3,
+      662.83
+    ],
+    "text": "have continued with the construction work. The petitioner filed the instant application",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.76,
+      662.57,
+      517.44,
+      684.07
+    ],
+    "text": "on 26th September 2008. Hence, the submission by the respondents that the petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.586057662963867,
+      11.79794979095459,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.51,
+      689.57,
+      239.0,
+      705.32
+    ],
+    "text": "is guilty of lashes is untenable.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.457375526428223,
+      11.755014419555664,
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      509.65,
+      766.48,
+      517.99,
+      780.22
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.4,
+      86.67,
+      515.96,
+      102.28
+    ],
+    "text": "IS. I bear in mind that even if the claim is made promptly, a Court may still refuse a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199076652526855,
+      11.408723831176758,
+      11.552773475646973,
+      11.699999809265137,
+      11.996736526489258
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.14,
+      108.28,
+      515.95,
+      123.89
+    ],
+    "text": "remedy if it considers that granting a remedy would be likely to cause substantial",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.996736526489258
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.15,
+      129.51,
+      516.54,
+      145.12
+    ],
+    "text": "hardship to, or substantially prejudice the rights of any person. [ see no such hardship",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.04,
+      149.65,
+      518.24,
+      166.72
+    ],
+    "text": "or prejudice to the 7th gth or 9th respondents who intervened or to other respondents, if",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.2993245124816895,
+      7.8423357009887695,
+      7.847157955169678,
+      11.699999809265137,
+      11.996736526489258
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.13,
+      172.72,
+      435.96,
+      188.33
+    ],
+    "text": "the relief sought by the petitioner to issue writs of certiorari is granted.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.732355117797852,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.09,
+      214.87,
+      516.2,
+      231.53
+    ],
+    "text": "16. On behalf of the 2nd respondent, it is submitted that the petitioner has acted with an",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.346909046173096,
+      11.408723831176758,
+      11.531689643859863,
+      11.576750755310059,
+      11.699999809265137,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.52,
+      237.51,
+      518.69,
+      253.12
+    ],
+    "text": "ulterior motive. In that, it is submitted that the petitioner has constructed the eaves of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.408723831176758,
+      11.699999809265137,
+      12.103201866149902
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.13,
+      259.11,
+      516.38,
+      274.72
+    ],
+    "text": "the upstair building on the common land and her rain water has been diverted to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.690596580505371,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.05,
+      280.72,
+      516.45,
+      296.33
+    ],
+    "text": "common land. Windows of her upstair building open to the common land and a gate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.06,
+      302.16,
+      515.77,
+      318.1
+    ],
+    "text": "opens to the common land. It is submitted that the petitioner has violated the UDA",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.45656681060791,
+      11.690596580505371,
+      11.699999809265137,
+      12.02018928527832
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.52,
+      323.91,
+      142.78,
+      339.52
+    ],
+    "text": "regulations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.45,
+      365.36,
+      516.75,
+      382.36
+    ],
+    "text": "17. If the petitioner has violated the UDA regulations, the 2nd respondent and or the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.346909046173096,
+      11.318944931030273,
+      11.699999809265137,
+      12.253602027893066
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.5,
+      388.72,
+      516.49,
+      404.33
+    ],
+    "text": "relevant local authorities may be entitled to take necessary steps to prevent such action",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.690596580505371,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.41,
+      410.31,
+      515.87,
+      425.92
+    ],
+    "text": "or take legal action against the petitioner. That does not permit, nor is it an excuse for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.66058349609375,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.13,
+      431.91,
+      516.2,
+      447.52
+    ],
+    "text": "the respondents to act illegally or in excess of authority. It is pertinent to note that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.408723831176758,
+      11.552773475646973,
+      11.699999809265137,
+      11.70779800415039,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.77,
+      451.33,
+      516.42,
+      468.76
+    ],
+    "text": "letter 2R3 sent to the 2nd respondent by the 3rd respondent to take necessary action",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.361095905303955,
+      7.7631120681762695,
+      11.690596580505371,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.4,
+      474.75,
+      516.89,
+      490.36
+    ],
+    "text": "against the petitioner has been sent about five and a half years after the instant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      11.782310485839844
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.39,
+      496.0,
+      516.38,
+      511.61
+    ],
+    "text": "application was filed by the petitioner. That shows the lackadaisical approach of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.819357872009277,
+      11.699999809265137,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.45,
+      516.34,
+      519.18,
+      533.2
+    ],
+    "text": "2nd and 3rd respondents on their duties, and their intentions, not the ulterior motives of",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.445478916168213,
+      7.447010040283203,
+      11.699999809265137,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.13,
+      539.19,
+      516.66,
+      554.8
+    ],
+    "text": "the petitioner. That further shows that although the block B lOis vested with the UDA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.690596580505371,
+      11.699999809265137,
+      11.948217391967773
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.78,
+      560.79,
+      517.03,
+      576.4
+    ],
+    "text": "in terms of Regulation 22(2), the UDA has failed to maintain it for the benefit of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.552773475646973,
+      11.576750755310059,
+      11.690596580505371,
+      11.699999809265137,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.4,
+      582.4,
+      517.18,
+      598.01
+    ],
+    "text": "allottees of the lots in plans PI(a) and PI(b) including the petitioner, for their",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.552773475646973,
+      11.699999809265137,
+      11.796948432922363,
+      11.868979454040527,
+      12.103201866149902
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.41,
+      603.99,
+      363.1,
+      619.6
+    ],
+    "text": "community and recreation purposes as it is reserved for.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.408723831176758,
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.07,
+      645.36,
+      516.58,
+      662.62
+    ],
+    "text": "18. It is submitted on behalf of the 15t 3rd 4th 5th and the 6th respondents that the Town and",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.2993245124816895,
+      7.538720607757568,
+      7.7631120681762695,
+      7.800099849700928,
+      7.937047481536865,
+      11.408723831176758,
+      11.695249557495117,
+      11.699999809265137,
+      11.704449653625488,
+      12.02018928527832,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.41,
+      668.43,
+      516.83,
+      684.04
+    ],
+    "text": "Country Planning Amendment Act No. 49 of 2000 amended section 8 of the UDA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.699999809265137,
+      12.103201866149902,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.45,
+      689.53,
+      517.07,
+      705.47
+    ],
+    "text": "Law No 41 of 1978. It is submitted that as per that amendment the legislature has",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.942904472351074,
+      11.699999809265137,
+      11.76815128326416,
+      12.303296089172363,
+      12.332474708557129
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.75,
+      710.91,
+      499.89,
+      726.52
+    ],
+    "text": "excluded the government projects from the operation of the regulations marked P3.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.577003479003906,
+      11.699999809265137,
+      12.303296089172363
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      509.28,
+      765.51,
+      517.38,
+      779.91
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      277.29,
+      30.48,
+      282.74,
+      54.76
+    ],
+    "text": "I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.800099849700928,
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      52.18,
+      86.56,
+      517.16,
+      102.31
+    ],
+    "text": "19. As I have already concluded in paragraph 08 of this judgment, the lot B lOis reserved",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.414193153381348,
+      11.800000190734863,
+      11.99916934967041,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.11,
+      108.17,
+      516.89,
+      123.92
+    ],
+    "text": "for the community and recreation of the allottees of plans PI (a) and PI (b) and not for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      11.940414428710938,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.21,
+      128.53,
+      517.29,
+      145.66
+    ],
+    "text": "the general public including the residents of the 3rd Lane, Salgas Mawatha. It is not",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.500100135803223,
+      11.457375526428223,
+      11.800000190734863,
+      12.0,
+      12.02018928527832,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.22,
+      151.37,
+      516.88,
+      167.12
+    ],
+    "text": "necessary for me to consider the issue of approval from the local authority for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.49,
+      172.61,
+      516.78,
+      188.36
+    ],
+    "text": "impugned construction. However, for the completeness of my judgment I will address",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.22,
+      194.21,
+      173.0,
+      209.95
+    ],
+    "text": "that issue as well.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.69,
+      236.69,
+      517.18,
+      253.3
+    ],
+    "text": "20. It is to be noted that the 2nd respondent failed to appear in Court even after notices",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      11.457375526428223,
+      11.60204029083252,
+      11.740449905395508,
+      11.800000190734863,
+      12.02018928527832
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.22,
+      259.01,
+      516.38,
+      274.75
+    ],
+    "text": "were sent repeatedly. As per the journal entries dated 04.10.2019 onwards, on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.25,
+      280.62,
+      516.78,
+      296.36
+    ],
+    "text": "18.12.2019 the learned Senior Deputy Solicitor General has informed Court that he",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.21,
+      302.56,
+      517.25,
+      318.31
+    ],
+    "text": "had no instructions other than the documents filed and has moved time to obtain",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.5,
+      323.8,
+      517.58,
+      339.55
+    ],
+    "text": "instructions as to whether a building application along with the plan has been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.06,
+      344.17,
+      517.94,
+      361.15
+    ],
+    "text": "submitted. That was in spite of the fact that PI 0 had been sent by the 3rd respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.500100135803223,
+      11.60204029083252,
+      11.800000190734863,
+      11.940414428710938,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.21,
+      365.93,
+      517.97,
+      382.76
+    ],
+    "text": "that the construction has been approved by the 2nd respondent. Only after issuing",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.22,
+      387.54,
+      517.94,
+      404.35
+    ],
+    "text": "notice again through the Fiscal, District Court Homagama, the 2nd respondent",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.12,
+      410.2,
+      518.29,
+      425.95
+    ],
+    "text": "appeared and moved to file objections on 22.07.2020, after a lapse of about 12 years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.537223815917969,
+      11.800000190734863,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.55,
+      431.8,
+      517.2,
+      447.55
+    ],
+    "text": "However, in both the objections and in the written submissions filed on their behalf,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.60204029083252,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.19,
+      452.33,
+      517.45,
+      469.15
+    ],
+    "text": "the 2nd respondent omitted to mention the document PIO. The 2nd respondent has not",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.072267055511475,
+      7.199999809265137,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.1,
+      474.64,
+      480.13,
+      490.39
+    ],
+    "text": "even mentioned paragraph 19 of the petition that referred to the document PIO.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.741454124450684,
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.05,
+      516.61,
+      517.26,
+      533.6
+    ],
+    "text": "21. As submitted by the learned SDSG for the 1st 3rd to 6th respondents, by the Town and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.500100135803223,
+      11.786792755126953,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.14,
+      539.08,
+      516.76,
+      554.83
+    ],
+    "text": "Country Planning Amendment Act No 49 of 2000 Section 8 of the UDA Act has been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.12,
+      560.68,
+      471.54,
+      576.43
+    ],
+    "text": "amended. Section 8(P) of the UDA Act before the amendment was to read as;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.99,
+      611.57,
+      516.38,
+      627.14
+    ],
+    "text": "'p) to approve, co-ordinate, regulate, control or prohibit, or any development activity,",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.193156242370605,
+      11.869844436645508,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.12,
+      634.06,
+      391.49,
+      648.71
+    ],
+    "text": "of any government agency or any other person in such areas;",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.958277702331543,
+      12.0,
+      13.089033126831055
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      509.93,
+      766.07,
+      517.88,
+      780.21
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.3,
+      86.92,
+      244.51,
+      102.67
+    ],
+    "text": "Substituted section 8p provides;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.8,
+      116.92,
+      516.89,
+      131.81
+    ],
+    "text": "\"to co-ordinate regulate or control any development scheme or project or any",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.46,
+      137.26,
+      336.54,
+      153.54
+    ],
+    "text": "development activity of any person in such areas \".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.304752349853516,
+      12.057518005371094,
+      12.199999809265137,
+      13.40230655670166
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      50.33,
+      196.01,
+      516.64,
+      211.76
+    ],
+    "text": "22. It is the contention of the learned SDSG, that as the words 'Government agency' have",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.352931022644043,
+      11.457375526428223,
+      11.800000190734863,
+      12.553445816040039
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.89,
+      217.6,
+      516.71,
+      233.35
+    ],
+    "text": "been deleted, in terms of section 3 of the Interpretation Ordinance, the intention of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.60204029083252,
+      11.800000190734863,
+      12.154815673828125,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.14,
+      239.21,
+      516.48,
+      254.96
+    ],
+    "text": "legislature was to exclude government projects from the operation of the Regulations",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.553445816040039
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.85,
+      261.16,
+      141.27,
+      276.91
+    ],
+    "text": "marked P3.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      50.33,
+      304.01,
+      516.79,
+      319.76
+    ],
+    "text": "23. I am unable to accept the above contention of the learned SDSG. Although the words",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.726320266723633,
+      11.740449905395508,
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.46,
+      325.6,
+      516.88,
+      341.35
+    ],
+    "text": "'Government Agency' have been deleted, the words 'development activity of any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.9,
+      347.21,
+      518.12,
+      362.95
+    ],
+    "text": "person' remain. This has widened or expanded the scope by including the words 'any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.92,
+      368.82,
+      126.62,
+      384.56
+    ],
+    "text": "person' .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      50.7,
+      411.29,
+      517.34,
+      427.68
+    ],
+    "text": "24. On the 'Rule of Exclusion', Interpretation of Statutes by N. S. Bindra 7th edition at",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.083694458007812,
+      11.600000381469727,
+      11.661942481994629,
+      11.800000190734863,
+      11.82562255859375,
+      11.903942108154297,
+      12.154815673828125,
+      12.553445816040039
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.89,
+      433.25,
+      164.9,
+      449.0
+    ],
+    "text": "page 485 states;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.52,
+      484.23,
+      521.06,
+      499.73
+    ],
+    "text": "\"This is merely an auxiliary rule of construction adopted for the purpose of",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.19749927520752,
+      12.199999809265137,
+      13.197657585144043
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.8,
+      506.43,
+      518.06,
+      521.32
+    ],
+    "text": "ascertaining the intention of the law-giver. It may be applied only when in the natural",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.03432559967041,
+      12.057518005371094,
+      12.186943054199219,
+      12.199999809265137,
+      13.40230655670166
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.8,
+      527.42,
+      516.55,
+      542.92
+    ],
+    "text": "association of ideas the contrast between what is provided and what is left out leads to",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.968351364135742,
+      12.199999809265137,
+      13.197657585144043
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.8,
+      549.63,
+      518.16,
+      564.52
+    ],
+    "text": "an inference that the latter was intended to be left out. It may accordingly be held",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.968351364135742,
+      12.123761177062988,
+      12.13452434539795,
+      12.186943054199219,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.09,
+      565.92,
+      500.64,
+      587.32
+    ],
+    "text": "inapplicable if there exists a plausible reason for not including what is left out . ... \"",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.739300727844238,
+      12.199999809265137,
+      15.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      51.05,
+      628.36,
+      516.89,
+      644.11
+    ],
+    "text": "25. Government agencies are not expressly excluded by the amendment and therefore the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.23,
+      649.96,
+      517.25,
+      665.71
+    ],
+    "text": "words 'any person' should include government agencies as well. If the intention of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.057246208190918,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.5,
+      671.22,
+      517.86,
+      686.96
+    ],
+    "text": "legislature was to exclude government agencies from getting approval for their",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.24,
+      692.8,
+      517.01,
+      708.55
+    ],
+    "text": "projects, the legislature could have expressly excluded such agencies. Sections 8J (1)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.388008117675781,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.48,
+      714.06,
+      517.62,
+      729.8
+    ],
+    "text": "and (2) remain unchanged which includes Government agencies. Hence the argument",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      510.01,
+      766.82,
+      517.43,
+      780.02
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.6,
+      86.92,
+      516.53,
+      102.67
+    ],
+    "text": "of the learned SDSG that the Government projects are excluded from the operation of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.33,
+      108.53,
+      283.19,
+      124.28
+    ],
+    "text": "the Regulations marked P3 is untenable.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      48.17,
+      151.36,
+      514.44,
+      167.11
+    ],
+    "text": "26. As submitted on behalf of the petitioner, in terms of Regulation 16(1), no site or lot",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.786792755126953,
+      11.800000190734863,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.62,
+      172.97,
+      515.14,
+      188.71
+    ],
+    "text": "abutting a street less than 9 meters in width shall be used for non-residential use or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.25,
+      194.56,
+      514.49,
+      210.31
+    ],
+    "text": "construction of any bui Iding for such use except as provided under Regulation 16 (2)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.329313278198242,
+      11.800000190734863,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.22,
+      216.17,
+      513.94,
+      231.92
+    ],
+    "text": "(b). Regulation 16(2)(b) does not apply to this instance. Road access to lot BIO is 12",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.329313278198242,
+      11.740449905395508,
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.59,
+      237.77,
+      516.89,
+      253.52
+    ],
+    "text": "feet in width which is much less than the 9 meters situated between lots B6 and B7 of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.60204029083252,
+      11.755014419555664,
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.74,
+      258.19,
+      514.2,
+      274.75
+    ],
+    "text": "plan PI(b). That access road is only to access lot BIO. Hence, the 2nd defendant could",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.2970991134643555,
+      11.457375526428223,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.34,
+      280.61,
+      515.21,
+      296.36
+    ],
+    "text": "not have legally given approval to construct a non-residential building in lot B 10. For",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.580864906311035,
+      11.60204029083252,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.33,
+      302.2,
+      516.76,
+      317.95
+    ],
+    "text": "the reasons stated above, I conclude that the petitioner is entitled to get the relief",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.755014419555664,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.73,
+      323.81,
+      318.57,
+      339.56
+    ],
+    "text": "prayed in paragraphs (c) and (d) of the petition.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.60204029083252,
+      11.699421882629395,
+      11.800000190734863,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      48.16,
+      367.0,
+      514.01,
+      382.75
+    ],
+    "text": "27. Now I will tum to consider the writ of mandamus prayed by the petitioner to direct the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.56,
+      386.95,
+      513.64,
+      404.35
+    ],
+    "text": "5th respondent to demolish the unlawful construction made in lot B 10, in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.594541072845459,
+      11.347004890441895,
+      11.580864906311035,
+      11.60204029083252,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.24,
+      408.92,
+      513.6,
+      425.95
+    ],
+    "text": "contravention of the UDA regulations. It is submitted on behalf of the l SI 3rd to 6th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.843597888946533,
+      7.900100231170654,
+      8.519148826599121,
+      11.494341850280762,
+      11.740449905395508,
+      11.800000190734863,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.34,
+      431.81,
+      515.23,
+      447.56
+    ],
+    "text": "respondents that the community hall is almost complete and in the event that the Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.457375526428223,
+      11.60204029083252,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.35,
+      453.41,
+      514.13,
+      469.16
+    ],
+    "text": "made an order to demolish the building, the residents in the area would suffer and also",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.60204029083252,
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.98,
+      474.64,
+      257.94,
+      490.39
+    ],
+    "text": "it would be waste of public money.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.626118659973145,
+      11.800000190734863,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      48.17,
+      517.84,
+      515.07,
+      533.59
+    ],
+    "text": "28. There cannot be any issue of suffering by the residents in the area, as I have",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.732154846191406,
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.34,
+      539.44,
+      514.9,
+      555.19
+    ],
+    "text": "mentioned before, that lot No. B lOis reserved for community and recreation for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.097158432006836
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.24,
+      561.04,
+      514.72,
+      576.79
+    ],
+    "text": "allottees of Plans PI (a) and PI (b), and not to the public. On the submission of waste",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863,
+      11.940414428710938,
+      12.154815673828125,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.6,
+      582.64,
+      514.55,
+      598.39
+    ],
+    "text": "of public money, I wish to state that it is the respondents who were involved in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.457375526428223,
+      11.60204029083252,
+      11.626118659973145,
+      11.740449905395508,
+      11.800000190734863,
+      12.154815673828125
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.98,
+      603.88,
+      514.49,
+      619.63
+    ],
+    "text": "illegal construction in contravention of the regulations, and it is the respondents who",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.60204029083252,
+      11.755014419555664,
+      11.800000190734863,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.23,
+      625.48,
+      514.84,
+      641.23
+    ],
+    "text": "are responsible for such waste of public funds, if any. The respondents have continued",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.047945022583008,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.34,
+      647.09,
+      487.11,
+      662.84
+    ],
+    "text": "with the construction work even after the objections were made by the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      48.17,
+      689.56,
+      514.08,
+      705.31
+    ],
+    "text": "29. However, as public money has been utilized for the construction, I do not proceed to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.740449905395508,
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      81.98,
+      711.17,
+      514.11,
+      726.92
+    ],
+    "text": "issue the writ of mandamus as prayed by the petitioner to demolish the construction.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.355762481689453
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      502.96,
+      766.49,
+      515.46,
+      780.23
+    ],
+    "text": "10",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.26,
+      86.71,
+      514.84,
+      102.72
+    ],
+    "text": "The construction may be utilized for the purpose of community and recreation of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.257389068603516,
+      12.459983825683594
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.59,
+      107.96,
+      258.14,
+      123.97
+    ],
+    "text": "allottees of plans PI (a) and PI (b).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      12.041179656982422,
+      12.257389068603516
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      48.1,
+      151.15,
+      516.53,
+      167.16
+    ],
+    "text": "30. The petitioner is granted the relief as prayed in paragraphs (c) and (d) of the prayer of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.951552391052246,
+      11.95456314086914,
+      12.0,
+      12.257389068603516
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.33,
+      172.76,
+      348.64,
+      188.77
+    ],
+    "text": "the petition. Relief sought in paragraph (e) is refused.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.55406379699707,
+      11.69994831085205,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.34,
+      201.91,
+      313.05,
+      217.92
+    ],
+    "text": "Application of the petitioner is partly allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.854214668273926,
+      12.0,
+      12.459983825683594
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      253.05,
+      294.3,
+      468.85,
+      310.78
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.18,
+      352.61,
+      258.66,
+      369.09
+    ],
+    "text": "SAMPATH B. ABAYAKOON, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.37835693359375,
+      11.5,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      149.32,
+      381.56,
+      188.81,
+      397.57
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      252.69,
+      440.82,
+      468.85,
+      457.3
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      502.58,
+      767.28,
+      514.21,
+      780.47
+    ],
+    "text": "II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.934978485107422
+    ]
+  }
+]
