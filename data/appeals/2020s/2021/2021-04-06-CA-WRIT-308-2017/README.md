@@ -1,0 +1,185 @@
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST
+
+REPUBLIC OF SRI LANKA
+
+C.A.WRIT APPLICATION NO.308/2017 In the matter of an application for Mandamus in the nature of Writs of Certiorari and Prohibition under and in terms of Article 140 of the Constitution of the Socialist Republic of Sri Lanka. Dr. Tariq Kuraishy, Elk Plain, Black Pool, Nuwara Eliya.
+
+PETITIONER - Vs. -
+
+1. M.N. Ranasinghe,
+
+Controller General of Immigration and Emigration, Department of Immigration and Emigration, Suhur upaya Sri Subhuthipura Road, Battaramulla. 1A. R.M.P.S.B.Rathnayake,
+
+Controller General of Immigration and Emigration and Commissioner for Registration of Persons of Indian Origin, Department of Immigration and Emigration Suhurupaya, Sri Subhuthipura Road, Battaramulla.
+
+1(A) ADDED RESPONDENT 2. W.M.M.B. Weerasekare,
+
+Controller (Visa and Border Control),
+
+Page 2 of 12
+
+Department of Immigration and Emigration, Suhurupaya, Sri Subhuthipura Road, Battaramulla. 2A. M.L.D.Niroshana, Controller (Visa and Border Control), Department of Immigration and Emigration, Suhurupaya, Sri Subhuthipura Road, Battaramulla. 2(A) ADDED RESPONDENT 3. M.L.D.Niroshana,
+
+Assistant Controller (Legal), Department of Immigration and Emigration, Suhurupaya, Sri Subhuthipura Road, Battaramulla.
+
+3A. B.G.G. Milinda Assistant Controller (Legal), Department of Immigration and Emigration, Suhurupaya, Sri Subhuthipura Road, Battaramulla. 3(A) ADDED RESPONDENT
+
+Before: N. Bandula Karunarathna J.
+
+& R. Gurusinghe J.
+
+Page 3 of 12
+
+Counsel: Sanjeewa Jayawardane, PC with Lakmini Warusawithana for the Petitioner instructed by S. Wijewardana.
+
+Nayomi Kahawita SC for the Respondent.
+
+Written Submissions: By the Petitioner on 15.06.2020.
+
+By the Respondent on 15.08.2019.
+
+Further Written Submissions of the Respondents on
+
+15.06.2020.
+
+Argued on: 05/12/2019 and 25/02/2021
+
+Judgment on: 26/03/2021.
+
+N. Bandula Karunarathna J.
+
+The Petitioner has invoked the jurisdiction of this court , by his Petition dated 26th September 2009, challenging inter alia the decision of the 2nd and the 1st Respondent, to cancel the Resident Visa and extension thereof, granted to the Petitioner, communicated by the purported letter dated 14/09/2017, issued by the 2nd Respondent. The Petitioner states that;
+
+a) prior to the issuance of the said purported letter of cancellation dated
+
+14/09/2017, the Petitioner was not served with any notice calling for explanation and any show cause notice; b) no inquiry was conducted, at any point, with the participation of the Petitioner
+
+prior to the issuance of the said purported cancellation by the 2nd Respondent, and therefore, there has been a most patently, and ex facie, illegal and unlawful and in gross violation, of the most trite and fundamental principles of Natural Justice and more specifically, the safeguard of the legal principles , of Audi Alteram Partem, which is indispensable, non-derivable , inalienable and indivisible right and safeguard , and failure to comply with the same, renders all such decisions coram non judice.
+
+Page 4 of 12
+
+c) by abruptly, and precipitously cancelling the Petitioners Resident Visa and the
+
+extension thereof, which was originally granted till 18/10/2017, these Respondents, most specifically the 2nd Respondent, have violated the established the principles of Administration Law, including, Reasonableness, Fairness and Proportionality and also Due Process. d) At paragraph 9 of the Statement of objections dated 08/11/2018, filed by the
+
+Respondents, it has been perfunctorily contending that they have followed the relevant Immigration and Emigration regulation to cancel the granted visa and thereafter annexes a copy of the regulation of the Immigration and Emigration marked as R4. e) It is significant to observe that, in this regard what has been annexed along with
+
+the Statement of Objections, is a one page spurious document, without any indication from where that page has been taken from or the main regulation in which this page appears. During the course of hearing of this Application, this issue was raised, and Your Lordships were pleased to note that R4 filed before Your Lordships Court was only one page. f) Thus, serious doubt arises on the applicability and relevancy of the said one page
+
+R4, in as much as, one cannot connect on which context the clauses 20 to 24 have been promulgated. In these circumstances, Your Lordships Court should not and will not rely on the provisions contained in R4. In these circumstances, the Petitioner states that there has been a serious procedural impropriety and a violation of the entrenched principles of fairness and reasonableness. Without prejudice to the foregoing, it was further submitted by the Petitioner that, P14 does not reflect any legitimate or justifiable reason or excuse for the said purported impugned decision of the 2nd and the 1st Respondent to cancel the Petitioners Resident Visa extension thereof, and the purported reason given therein, effectively amounts to no reasons at all and clearly amounts to an error on the face of the record.
+
+The Petitioner states in the purported letter, dated 14/09/2017, issued by the 2nd Respondent, it is inter alia stated that the Magistrate Court case No.77882 had been purportedly set aside. However, at the point of obtaining the Petitioners resident visa, the Petitioners Attorney-at-Law had issued a letter confirming that MC Case No.72882/2017 has been laid by in the Magistrate Court of Nuwara Eliya. (vide letter
+
+Page 5 of 12
+
+produced marked P-13) The said position of the Petitioners Attorney-at-Law is further confirmed by the case record.
+
+The Petitioner further states that there is a blatant discrepancy in the case number referred by the Petitioners Attorney-at-Law, i.e. 72882/2017 and the case number referred to by the 2nd Respondent in the said purported letter, i.e., 77882 and it is only MC case No.72882/2017, which has been laid by. The Petitioner argues that although the said purported letter cancelling his resident visa is dated 14/07/2017, the Petitioner was in receipt of the said purported letter only on 20/09/2017 and in the said purported letter it is stated therein, that the Petitioner is required to leave the country on or before 22/09/2017, which is only 2 days from the receipt of the purported letter, Therefore, purported decision of the 2nd and the 1st Respondent, is seeking with mala fides and extraneous consideration, and therefore, the same does not and indeed cannot, withstand objective scrutiny and moreover, these machinations have been put in place, in order to isolate, marginalize and discriminate Petitioner.
+
+The petitioner states that the petitioner is duly granted an extension of his resident visa until 07/08/2018, on private sector category. The Petitioner states that the 2nd Respondent being duly satisfied of the compelling material that was submitted before him, duly and validly granted the Petitioner an extension of his Resident Visa for a period of 15 months until 07/08/2018.Most significantly, the said extension of the Petitioners resident Visa was granted, on the basis of Private sector category and thereby the 1st and 2nd Respondents and their servants and agents, categorically recognized and acknowledged that the Petitioner and his wife are carrying out a lawful business in Sri Lanka and given the prevailing serious medical condition of the Petitioner, he requires sufficient time to settle all the outstanding matters in Sri Lanka.
+
+The Petitioner further states that the extension granted to the petitioners resident visa, was most abruptly and unilaterally revoked without any form of a hearing. However, to the utmost shock of the Petitioner, prior to the expiration of the said time period of approximately 14 months (i.e., 07/08/2018), on or around 16/08/2017, the Petitioner received a telephone call from an officer of the Department of Immigration and Emigration and was purportedly informed that the Department has revoked his visa and that he is required to be present at the Department of Immigration and Emigration on 17/08/2017 at 9.00a.m. in order to attend to the same.
+
+Thereafter, the Petitioner was informed by the 2nd Respondent that he is revoking the original extension of visa granted by him, till 07/08/2018 and that he will only grant the Petitioner, visa for a period of two months only. Furthermore, at this point it was revealed that although the Petitioner was duly granted an extension of his Resident Visa till
+
+Page 6 of 12
+
+07/08/2018, based on Private Sector category, however, on the Visa endorsement, an officer of the Department of Immigration and Emigration had carried forward the original Visa Numbers, BOI/17/175/000001, based on which Resident Visa was previously issued on account of the Agreements with the Board of Investment.
+
+Further it is the contention of the Petitioner, that he is in no way responsible for the same and that the Petitioner should not suffer and be prejudiced, in view of the purported actions of the 1st and the 2nd Respondents and their servants and agents. Thus, the Petitioner states that it is clearly evident, that it is in order to conceal their own mistake the Petitioners Resident Visa, which was originally extended until 07/08/2018, was most abruptly, precipitously, arbitrarily, unfairly, capriciously and vexatious revoked, without a due and a proper hearing or explanations being called for as contemplated in law.
+
+As opposed to the aforesaid submissions of the Petitioner, it is the contention of the Respondents that the Petitioner applied for an extension of the Residence Visa under the Category of a pending court case. The case, which was pending in the Magistrates Court of Nuwara-Eliya, was a legal action filed against the Petitioner by the Divisional Secretary of Nuwara-Eliya, on the allegation of obstruction to carry out official duties.
+
+The Respondents state that the visa extension for the temporary Residence Visa was facilitated by the Controller of Immigration to enable the Petitioner to appear before the Magistrates Court for the said case, and this was addressing a request made by the Petitioner from the Controller of Immigration. The Petitioner was also requested to keep the Controller of Immigration updated as to the progress of the said case since the extension of the Residence Visa was intrinsically entwined and contingent upon the outcome of the said court case.
+
+The Respondents further state that the said case was informed by the Head of the Police Headquarters of Nuwara-Eliya District to be laid by without fixing it for another date. As a matter of fact, to date, the Magistrates Court of Nuwara-Eliya had not called the said case since an order was made to lay by. Therefore, the primary purpose for which the extension of the Residence Visa was granted had been ceased and thus a decision embodied in P14 & R3 was taken by the Controller of Immigration to cancel the Visa. Thereafter, the Minister by acting under section 28(2) (b) could direct the removal of such subject whose visa or endorsement had been cancelled by the Controller as in the instant case.
+
+The Respondents argue that the Controller of Immigration has no legal obligation to wait till the expiry date of the said Residence Visa without resorting to revoke the Residence Visa. This is because, especially in view of the fact that the purpose for which the extension was granted to the Petitioner was revealed to be no more and had ceased to be. Furthermore, the Respondents state that the facts and circumstances of this case do
+
+Page 7 of 12
+
+not engender any legitimate requirement to given an audience to the Petitioner prior to the cancellation of the Visa and the notification of the said cancellation by P14 and R3 are self-explanatory when one takes into account the Category under which the visa extension was granted to the Petitioner.
+
+In any event, the Respondents further state that the instant Writ Application as whole is futile at present, since the original expiry date of the visa extension namely 18-10-2017 had also been long expired. The decision of the Controller of Immigration communicated by P14 and R3 was not a decision corem no judice. On the contrary the said decision of the Controller of Immigration was a lawful decision made in the due exercise of a statutory power which has a discretionary element which render the relief prayed for by the Petitioner redundant within the realm of a prerogative Writ.
+
+Subsequent to a thorough analysis of the facts of the case, it could be observed that the Residence Visa under reference was issued to the Petitioner for a period of two months which was to lapse on 18-10-2017. The Petitioner was specifically requested by the Respondents to keep them updated as to the progress of the said case which the Petitioner had defaulted in compliance.
+
+It is pertinent to note that the category under which the said Residence Visa was applied for and granted was a pending court case in the Magistrates Court in order to facilitate the Petitioners presence for the same. The proceedings of this case had been marked as P15.Thereafter, the Petitioner had applied for an extension of the said Residence Visa on the basis that the said court case is still pending in the Magistrates Court of Nuwara-Eliya and his presence for the same was required. The aforesaid case had been filed against the Petitioner by the Police on a complaint made by the Divisional Secretary of Nuwara-Eliya on account of a dispute ensuing between the Petitioner and the Public Officer whereby the Petitioner was allegedly to have obstructed the Public Officer in the discharge their respective duties involving the survey of land. However, the aforesaid dispute as more fully shown by the proceedings of the said Magistrates Court case had been resolved and the relevant surveying had been carried out by the Superintendent of Surveys and the Divisional Secretary without any objection by the Petitioner. (Vide proceeding dated 06-04-2017 of the P15.)
+
+Therefore, I believe that it was in this context that the case had been concluded, by the Police and that was duly notified to the Controller of Immigration and Emigration. This factor was taken into consideration by the Respondent when issuance of the letter not extending the Residence Visa beyond 18-10-2017. The said letter impugned in the Writ case has been marked as P14 and R3. Furthermore, the Police at presently had taken steps to terminate the proceedings of the aforesaid Magistrates Court case on 05-03-2020 (vide: Note issued by the Officer-in-Charge of Nuwara-Eliya Police Station on 03-03-2020 marked as X).
+
+Page 8 of 12
+
+On behalf of the Petitioner the main argument put forward was that a hearing should have been given to the Petitioner prior to the decision embodied in P14 and R3 was taken and since such hearing not accorded the letter marked P14 and R3 was unreasonable arbitrary and ultra vires.
+
+During the course of the oral Submission on behalf of the Petitioner, the Learned Counsel relied on a case bearing No.959-1999 (Writ) and decided on 01-12-2003.
+
+While expressing unreserved agreement with the views expressed by His Lordship Justice Sripavan (as he then was) the factual matrix of the said case can be distinguished from the facts of the instant Writ Application concerning the Petition. In the instant Writ Application, the Petitioner had applied for the residence Visa under a specific category and which was, as submitted, so to make himself available in a pending court case in the Magistrates Court (MC) of Nuwara-Eliya. However, the dispute that brought about the said case was resolved and the activity of surveying that the Petitioner had objected initially was also carried out without any demur on the part of the Petitioner, and the proceedings of the MC case were laid by as a result by the Police.
+
+Thus, I believe that the Petitioner could not take up the position that he had entertained a legitimate expectation that he would have been granted the requisite extension because at the point of time the letter P14 and R3 was issued to him, he himself knew very well, that there was no live and pending case against him in the Magistrates Court of Nuwara-Eliya as such there was no plausible reason to given a hearing to the Petitioner as the documents made available to the Respondent by the Police revealed the necessary details sufficiently and adequately to enable the Respondent to issue a response to the Petitioners Residence Visa extension in the form of P14 and R3.
+
+On the other hand, the facts of the aforesaid writ case bearing No.959-1999 that the Petitioners relied on was hinged upon a letter received by the Controller of Immigration and Emigration from the Department of State Intelligence to the effect that the Petitioners marriage was a sham and that it was a marriage contracted for convenience. The finding of the Court of Appeal in that case was that the Petitioner, should have been given an opportunity before the cancellation of the Residence Visa to provide a explanation to the contents on the said letter which had been solely relied upon by the Controller of Immigration and Emigration to arrive at the decision to cancel the Petitioners Residence Visa. This can be true and should have been done in the contract of the factual matrix of the said case as the contents of the particular letter should have been evaluated on the basis of a perusal of the contract of marriage of the Petitioner and the Petitioners explanation to the allegation.
+
+Page 9 of 12
+
+However, the facts of the instant Writ Application were more straight forward and based on the notification by the Police who had instituted the said action against the Petitioner in the Magistrates Court.
+
+It is also pertinent to note that if the Police by letter marked as R2 had informed the Controller of Immigration and Emigration that the court case had been laid by and the Petitioners further participation was not necessary and if that can also be substantiated by a perusal of the proceeding dated 03-04-2016 of P15, such piece of information would suffice to make the decision embodied on P14 and R3.
+
+In the case of Mendis v Land Reform Commission and others SC Appeal No.90/2009, SC Minutes 12-02-2016, the Supreme Court commenting on the discretionary nature of the Writ Jurisdiction as observed as follows:
+
+Even such grounds to issue a Writ of Certiorari and Mandamus could be established court has also to consider whether the Petitioners are disentitled to the relief prayed for even if the grounds of issuing a Writ are satisfied due to the discretionary nature of the remedy. It is common ground that courts are reluctant and had on numerous occasions refused to issue prerogative Writs if it could be established that the Petitioners are guilty of or disentitled to the remedy based on (a) Laches or undue delay (b) willful suppression or misrepresentation of materials facts (c) acquiescence (d) grave public and administrative inconvenience (e) futility (f) availability of alternative remedy (g) locus standi
+
+In any event, does the Controller of Immigrations and Emigrations exercise a discretion and discretionary power when making a decision to cancel a Visa issued to a Foreign National.
+
+It could be seen that under the provisions of the Immigrations and Emigrations Act the Controller of Immigrations and Emigrations have the sole discretion in matters of issuing visas and of considering any application for extension of Visa. This has been upheld in the case of Laud v Attorney and Another (1995 2 SLR 89) which went on to comment that an act and function discharged on the exercise of a discretionary power does not entail any party to entertain a legitimate or reasonable expectation as a matter of legal right in each and every instance.
+
+The aforesaid discretionary power exercised by the Controller of Immigrations and Emigrations has been upheld in the case of Ramasmy v. A.F.G. Moregoda 3 NLR 115, where the Supreme Court had held thus,
+
+a Writ of Mandamus will not be granted when it appears that it shall be a condition of every visa that the prescribed authority may in his absolute discretion cancel such visa. The Respondent is thus enabled to render
+
+Page 10 of 12
+
+ineffective any mandate requiring to issue a visa for he has the power to cancel it as soon as it has been issued
+
+In the above case of Sethu Ramasmy even though the Supreme Court came to a finding that the Deportation Order made by the Minister under section 31 of the Immigration and Emigration Act, could cease to be in operative on one of the exceptional grounds stipulated in regulation 12, and one such ground was where the Minister had directed that a visa be granted and issued to the person subject to Deportation Order, in spite of such finding in favor of the Petitioner
+
+In Sethu Ramasmys case, the Supreme Court had held that where a discretionary element was existent in the power exercised by the Controller to issue a visa and to revoke the same thereafter, any such decision made by the Controller in the exercise of such discretionary power falls outside the pale of judicial review of the Courts. In the instant case the Controller of Immigration and Emigration had taken into consideration the contents of R2, had revoked the Residence Visa granted to the Petitioner.
+
+The Petitioner is estopped by law to seek to canvas such a decision made by the Controller of Immigration in the exercise of his discretion power by way of a Writ Application. Furthermore, apart from Sethu Ramasmys case it is trite law that no Writ of Mandamus shall be sought in a Writ Application when the power exercised by the statutory functionary as in the case of the Controller of Immigration and Emigration, is discretionary.
+
+In the case of Urban Development Authority v. Minister of Lands and 5 others (2009 B.L.R. at P252 the Supreme Court had observed by reference to Administrative Law (Ninth Edition) by Wade and Forsyth as follows:
+
+.the issue is a Writ of mandamus issue is not that of an abuse of discretion, but whether the public authority failed to discharge a duty owed to the applicant. The position is emphasized in a subsequent section at page 620 which reads as follows:
+
+Obligator duties must be distinguished from discretionary powers. With the latter Mandamus has nothing to do.
+
+Therefore, the question arises whether in any event, a Foreign National has a legitimate or reasonable expectation for a hearing before the Controller or Authorized officer at each and every time before a decision in a case concerned with a Visa has been made? In this respect, as to what factors determine whether a pre-hearing is required or otherwise, in any given case involving a decision of issuance of a Visa to a foreign national, reference has been at page 96 in the aforesaid judgment of Laud v Attorney General and another (Supra) to an English case pronounced by Lord Denning which holds as follows:
+
+Page 11 of 12
+
+He has no right to enter this country except by leave, and if he is given leave to come for a limited period he has no right to stay for a day longer than the permitted time. If his permit is revoked before the time limit expires, he ought to I think to be given an opportunity of making representations; for he would have a legitimate expectation of being allowed to stay for the permitted time. Except in such a case, a foreign alien has no right- and I could add, no legitimate expectation-of being allowed to stay
+
+However, having regard to the factual circumstances of the instant Writ Application, the Petitioner had been informed by letter P14 as to why the Residence Visa issued and granted to him had been cancelled or revoked prior to the expiry date. The contents of P14 and R3 which are reiterated to be self-explanatory having regard to the Category under which the extension of the Residence Visa was granted to the Petitioner. It is not disputed by the Petitioner that the sole purpose for which he obtained the extension on the temporary Residence Visa was as a means of facilitation to appear before the Magistrates Court of Nuwara-Eliya in the case bearing No.77882/17.
+
+When the said case had been revealed and informed to be laid by the Learned Magistrate without fixing any further date for calling of the said case, further continuation and remaining on the island for the Petitioner till end of the expiry does not arise thereafter. Even at the point of time this case was supported before the Court of Appeal and at the point of time the stay order was issued and even at present the above case which was laid by, by the Magistrates Court of Nuwara-Eliya had not been called. Thereby, the Petitioners adamant insistence for further continuation on the island is submitted to be without any merit.
+
+It is seen that a reasonable expectation for an audience or a pre-hearing to be accorded to a foreign national depends on the facts and circumstances of each individual case. In the instant case, it is the attendant facts do not vindicate such a pre-hearing should be accorded to the Petitioner prior to the decision taken by the Controller to cancel the Residence Visa by P14 and R3 as the sole purpose for which the extension was granted had ceased to be necessitated with the court case being laid by, by the Magistrates Court of Nuwara-Eliya.
+
+Hence it could be concluded that when reasonably and logically evaluating the attendant facts of this case, there is no absolute necessity to accord a hearing to the Petitioner, and even if assumed without conceding that such a hearing were to be accorded to the Petitioner, there was no room for a decision differently to that as reflected in P14 and R3 had been reached by the Respondent consequent upon such hearing. However, in the context of the factual matrix of the case bearing No.959-1999 that the Petitioner was relying on as his defense, that was in fact, room and opportunity for the Controller of Immigration and Emigration to have arrived at a different decision to that of the
+
+Page 12 of 12
+
+impugned, had a hearing being given to the Petitioner to provide an explanation to the allegation and an opportunity for the perusal of the contract of marriage of the Petitioner.
+
+In any event, further continuation of this Writ Application is a futility since the Petitioners Residence Visa extension originally granted to him had expired on 18-10-2017 and that any continued stay in Sri Lanka had been facilitated due to the stay order issued in this case.
+
+In the circumstances, I hereby dismiss the application of the Petitioner with cost.
+
+Judge of the Court of Appeal
+
+R. Gurusinghe J.
+
+I agree.
+
+Judge of the Court of Appeal

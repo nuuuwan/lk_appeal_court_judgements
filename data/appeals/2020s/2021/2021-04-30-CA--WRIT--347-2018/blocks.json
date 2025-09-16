@@ -1,0 +1,4201 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      70.08,
+      745.29,
+      528.0,
+      771.48
+    ],
+    "text": "1",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.08,
+      105.83,
+      518.25,
+      137.9
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.28,
+      139.19,
+      528.51,
+      221.18
+    ],
+    "text": "In the matter of an application for mandates in the nature of Writs of Certiorari, Prohibition and Mandamus under and in terms of Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.28,
+      222.59,
+      283.17,
+      254.66
+    ],
+    "text": "CA (Writ) Application No: 347/2018",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.28,
+      255.83,
+      408.55,
+      304.58
+    ],
+    "text": "K.V. Gamini Dayarathna, Endurapotha, Dewalagama.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.28,
+      305.99,
+      328.53,
+      337.94
+    ],
+    "text": "PETITIONER",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.28,
+      339.23,
+      444.95,
+      421.34
+    ],
+    "text": "Vs. 1. P.B. Wickremarathna, Senior D.I.G (Administration).",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.28,
+      422.63,
+      497.49,
+      471.26
+    ],
+    "text": "2. W.J.M. Senarathna, Director Legal (SP) Police Legal Division.",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.28,
+      472.67,
+      439.91,
+      537.98
+    ],
+    "text": "3. M.M.S. Lakshaman Bandara, Headquarters Inspector, H.Q.I Office, Gamapha.",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.28,
+      539.27,
+      459.77,
+      604.7
+    ],
+    "text": "4. Muditha Pussalla, Senior Superintendent of Police, SSP Office, Gampaha.",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      263.28,
+      605.87,
+      462.54,
+      704.66
+    ],
+    "text": "5. Pujitha Jayasundara, The Inspector General of Police. 1st, 2nd and 5th Respondents at Police Headquarters, Colombo 1.",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      745.29,
+      528.0,
+      771.48
+    ],
+    "text": "2",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.28,
+      105.83,
+      459.75,
+      154.58
+    ],
+    "text": "6. Hon. Attorney General, Attorney Generals Department, Colombo 12.",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.28,
+      155.87,
+      343.77,
+      187.94
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      189.23,
+      467.61,
+      270.26
+    ],
+    "text": "Before: Arjuna Obeyesekere, J / President of the Court of Appeal Counsel: S.N. Vijit Singh for the Petitioners",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      271.19,
+      501.0,
+      448.82
+    ],
+    "text": "Ms. Nayomi Kahawita, Senior State Counsel for the Respondents Argued on: 31st July 2020 Written Tendered on behalf of the Petitioner on 25th September 2020 Submissions: Tendered on behalf of the Respondents on 13th October 2020 Delivered on: 30th April 2021",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      452.63,
+      226.29,
+      468.02
+    ],
+    "text": "Arjuna Obeyesekere, J., P/CA",
+    "fonts": [
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      472.07,
+      528.38,
+      504.02
+    ],
+    "text": "The Petitioner had joined the Police Department on 17th April 1989 as a Police Constable",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      506.3,
+      528.41,
+      523.34
+    ],
+    "text": "Driver. By letter dated 14th February 2009 marked D, the Petitioner had been",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      525.5,
+      528.43,
+      542.66
+    ],
+    "text": "interdicted from service with effect from 10th February 2009 for having brought",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      546.59,
+      528.4,
+      561.98
+    ],
+    "text": "disrepute to the Police Department by contracting a second marriage while a valid first",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      565.91,
+      201.85,
+      581.3
+    ],
+    "text": "marriage was subsisting.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      604.43,
+      528.43,
+      619.82
+    ],
+    "text": "Case No. 49798 had been instituted against the Petitioner in the Magistrates Court of",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      623.87,
+      528.49,
+      639.26
+    ],
+    "text": "Warakapola with regard to the above incident on a charge of contracting a second",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      641.42,
+      528.4,
+      658.58
+    ],
+    "text": "marriage while the first marriage was subsisting. On 13th July 2010, the Petitioner had",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      662.39,
+      528.4,
+      677.78
+    ],
+    "text": "pleaded guilty to the said charge. However, taking into consideration inter alia the fact",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      681.71,
+      528.36,
+      697.1
+    ],
+    "text": "that (a) the second marriage between the Petitioner and the complainant had been",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      701.03,
+      528.45,
+      716.42
+    ],
+    "text": "annulled, (b) the Petitioner had transferred a house belonging to him to the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      720.35,
+      528.44,
+      735.74
+    ],
+    "text": "complainant, (c) the child of the complainant and the Petitioner is being maintained by",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      745.29,
+      528.0,
+      771.48
+    ],
+    "text": "3",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      105.83,
+      528.52,
+      121.22
+    ],
+    "text": "the Petitioner, and (d) the Petitioner would lose his job at the Police Department if he is",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      125.15,
+      528.44,
+      140.54
+    ],
+    "text": "convicted, the learned Magistrate had acted in terms of Section 306 of the Code of",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      144.47,
+      528.48,
+      159.86
+    ],
+    "text": "Criminal Procedure Code Act No. 15 of 1979, as amended, and discharged the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      162.02,
+      134.34,
+      179.18
+    ],
+    "text": "Petitioner.1",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      200.78,
+      528.39,
+      217.82
+    ],
+    "text": "On 14th October 2009, the Petitioner while being under interdiction for the above",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      221.75,
+      528.52,
+      237.14
+    ],
+    "text": "incident, dressed in a Police uniform had posed off as an Officer attached to the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      240.95,
+      528.46,
+      256.34
+    ],
+    "text": "Gampaha Police Station and extorted money from a person engaged in the sale of illicit",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      260.27,
+      528.41,
+      275.66
+    ],
+    "text": "liquor. The Petitioner had been apprehended by the villagers and had been handed over",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      279.71,
+      528.44,
+      295.1
+    ],
+    "text": "to the Police. Although action had been filed in the Magistrates Court of Attanagalle for",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      298.91,
+      528.51,
+      314.3
+    ],
+    "text": "having committed an offence punishable under Section 189 of the Penal Code, the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      316.46,
+      528.38,
+      333.62
+    ],
+    "text": "Petitioner had been acquitted on 7th October 2014 pursuant to the withdrawal of the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      335.9,
+      234.21,
+      352.94
+    ],
+    "text": "complaint by the complainant.2",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      376.19,
+      528.41,
+      391.58
+    ],
+    "text": "The Police Department had commenced a preliminary investigation into the conduct of",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      395.51,
+      528.36,
+      410.9
+    ],
+    "text": "the Petitioner relating to the above two incidents. The Petitioner had thereafter been",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      414.83,
+      528.48,
+      430.22
+    ],
+    "text": "issued a charge sheet and a disciplinary inquiry had been held against the Petitioner. At",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      434.03,
+      528.4,
+      449.42
+    ],
+    "text": "the end of the said inquiry, the Petitioner had been found guilty of all three charges. In",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      451.58,
+      528.48,
+      468.74
+    ],
+    "text": "his disciplinary order dated 12th January 2014 marked F, the Inspector General of Police",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      472.79,
+      223.46,
+      488.18
+    ],
+    "text": "had inter alia held as follows:",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      97.68,
+      507.47,
+      530.75,
+      584.63
+    ],
+    "text": "jeX ;ykus l, fmd,sia ks<Odrsfhl+ ;ud i;+j we;s ishu rPfha foam, wdmiq Ndr fkdfouska fmd,sia ks<Odrsfhl+ fia fmks isgsuska idudkH uy Pk;dj w;rg f.dia fus whqrska lghq;+ lsrSu ;+,ska Tn lr we;s jskh lvlsrsu uq fmd,sia fomdra;+fuska;=ju wmlsra;shg ,la lrkakls. tfukau Tn jeks wfhl+ ;joqrg;a fiajfha ;nd .eksu iuia: rdPH fiajhgu ydksodhl jk w;r th wfkl+;a ks<Odrskag jeroS mqrajdoraYhlao imhkq",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F5"
+    ],
+    "sizes": [
+      11.213250160217285,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      587.75,
+      528.48,
+      634.7
+    ],
+    "text": ",efns The Inspector General of Police had thereafter informed the Petitioner that he agrees",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F5"
+    ],
+    "sizes": [
+      11.213250160217285,
+      11.680425643920898,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      638.63,
+      528.52,
+      654.02
+    ],
+    "text": "with the findings of the Inquiry Officer and that the services of the Petitioner were being",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      656.18,
+      316.45,
+      673.22
+    ],
+    "text": "terminated with effect from 14th October 2009.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      699.57,
+      483.29,
+      736.4
+    ],
+    "text": "1 Vide proceedings of 13th July 2010 in Magistrates Court of Warakapola Case No. 49798 marked C. 2 Vide proceedings of 7th October 2014 in Magistrates Court of Attanagalle Case No. 68401 marked F2.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      6.307439804077148,
+      9.69480037689209,
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      745.29,
+      528.0,
+      771.48
+    ],
+    "text": "4",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      105.83,
+      528.52,
+      121.22
+    ],
+    "text": "Aggrieved by the decision of the Inspector General of Police to terminate his services,",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      125.15,
+      528.47,
+      140.54
+    ],
+    "text": "the Petitioner had lodged an appeal against the said decision with the Public Service",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      142.82,
+      528.4,
+      159.86
+    ],
+    "text": "Commission. By letter dated 27th April 2015 marked K, the Public Service Commission",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      163.79,
+      528.5,
+      179.18
+    ],
+    "text": "had informed the Petitioner that there does not exist sufficient grounds to reinstate the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      183.11,
+      332.65,
+      198.5
+    ],
+    "text": "Petitioner and that his appeal had been dismissed.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      221.75,
+      528.43,
+      237.14
+    ],
+    "text": "Even though the Petitioner had filed an appeal against the above decision of the Public",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      240.95,
+      528.45,
+      256.34
+    ],
+    "text": "Service Commission to the Administrative Appeals Tribunal, the said appeal had been",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      260.27,
+      528.44,
+      275.66
+    ],
+    "text": "rejected by the Administrative Appeals Tribunal for having been filed out of time vide",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      277.94,
+      528.5,
+      295.1
+    ],
+    "text": "order of the Administrative Appeals Tribunal contained in letter dated 28th September",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      298.91,
+      528.42,
+      314.3
+    ],
+    "text": "2015 marked L. The Petitioner had thereafter filed an appeal with the National Police",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      318.23,
+      528.45,
+      333.62
+    ],
+    "text": "Commission. This appeal too had been rejected on the basis that the Public Service",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      335.9,
+      528.43,
+      352.94
+    ],
+    "text": "Commission had already arrived at a decision in this regard vide letter dated 20th July",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      356.87,
+      528.35,
+      372.26
+    ],
+    "text": "2018 marked N. It is admitted that the Petitioner did not invoke and has not invoked",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      376.19,
+      528.51,
+      391.58
+    ],
+    "text": "the writ jurisdiction of this Court in respect of the Order of the Administrative Appeals",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      395.51,
+      298.0,
+      410.9
+    ],
+    "text": "Tribunal or the National Police Commission.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      434.03,
+      528.4,
+      449.42
+    ],
+    "text": "It is admitted by the Petitioner that while in service, Government Quarters had been",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      453.35,
+      528.38,
+      468.74
+    ],
+    "text": "provided to him and that he was occupying the said quarters at the time he was placed",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      472.79,
+      528.37,
+      488.18
+    ],
+    "text": "under interdiction. It is further admitted that the Petitioner continued to occupy the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      491.99,
+      528.46,
+      507.38
+    ],
+    "text": "said quarters during the period that he was under interdiction. Pursuant to his services",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      509.54,
+      528.49,
+      526.7
+    ],
+    "text": "being terminated, the Police Department, by letter dated 4th December 2014 marked G",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      528.98,
+      528.45,
+      546.02
+    ],
+    "text": "had requested the Petitioner to hand over the said quarters on or before 11th February",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      549.95,
+      528.52,
+      565.34
+    ],
+    "text": "2015. The Petitioner has complied with this request and handed over the said quarters",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      567.5,
+      322.57,
+      584.54
+    ],
+    "text": "to the Police Department on 10th February 2015.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      606.14,
+      528.45,
+      623.3
+    ],
+    "text": "By a letter of demand dated 22nd October 2018 marked J, the Attorney General had",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      627.11,
+      528.49,
+      642.5
+    ],
+    "text": "demanded from the Petitioner the payment of a sum of Rs. 699,179.14 being the rental",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      644.66,
+      528.42,
+      661.82
+    ],
+    "text": "said to be due on the said quarters for the period 14th October 2009 10th February",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      665.75,
+      528.45,
+      681.14
+    ],
+    "text": "2015. It has been stated further in the said letter of demand that action will be",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.08,
+      685.07,
+      528.44,
+      700.46
+    ],
+    "text": "instituted in the District Court unless the said sum of money is paid within 30 days.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      745.29,
+      528.0,
+      771.48
+    ],
+    "text": "5",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      104.18,
+      528.41,
+      121.22
+    ],
+    "text": "Aggrieved by the said demand, the Petitioner filed this application on 8th November",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      125.15,
+      195.35,
+      140.54
+    ],
+    "text": "2018, seeking inter alia:",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      144.47,
+      528.5,
+      175.34
+    ],
+    "text": "(i) A Writ of Certiorari to quash the decision of the 1st 5th Respondents to charge a",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97.68,
+      179.27,
+      289.77,
+      194.66
+    ],
+    "text": "sum of Rs. 699,179.14 as rental; and",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      198.47,
+      528.45,
+      229.46
+    ],
+    "text": "(ii) A Writ of Certiorari to quash the decision of the Attorney General to institute legal",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97.68,
+      233.27,
+      135.62,
+      248.66
+    ],
+    "text": "action.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      252.59,
+      528.4,
+      283.46
+    ],
+    "text": "In addition to the above relief arising from the rental due on the quarters assigned to",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      287.39,
+      356.91,
+      302.78
+    ],
+    "text": "him, the Petitioner had also sought the following relief:",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      306.59,
+      528.41,
+      337.46
+    ],
+    "text": "a) A Writ of Certiorari to quash that part of the punishment which is severable from",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F3",
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97.68,
+      341.39,
+      528.51,
+      356.78
+    ],
+    "text": "the other as so far as it relates to the date of dismissal vide paragraph (d) of the",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97.68,
+      360.71,
+      137.32,
+      376.1
+    ],
+    "text": "prayer;",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      380.03,
+      528.39,
+      410.9
+    ],
+    "text": "b) A Writ of Certiorari to quash the order of dismissal of the Petitioner with",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F3",
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97.68,
+      414.83,
+      381.24,
+      430.22
+    ],
+    "text": "retrospective effect vide paragraph (e) of the prayer;",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      434.03,
+      528.5,
+      464.9
+    ],
+    "text": "c) A Writ of Mandamus directing the 1st 5th Respondents to pay half months salary",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F3"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97.68,
+      467.18,
+      528.44,
+      484.22
+    ],
+    "text": "to the Petitioner from the date of interdiction (10th February 2009) until he was",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97.68,
+      486.38,
+      528.46,
+      503.54
+    ],
+    "text": "informed of his dismissal on 12th January 2014 vide paragraphs (f) and (g) of the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      97.68,
+      507.47,
+      140.13,
+      522.86
+    ],
+    "text": "prayer.",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      546.11,
+      528.38,
+      561.5
+    ],
+    "text": "The relief sought by the Petitioner is two-fold. First, he is agitating the effective date of",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      565.31,
+      528.45,
+      580.7
+    ],
+    "text": "the punishment imposed on him by the Inspector General of Police, which decision has",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      584.75,
+      528.47,
+      600.14
+    ],
+    "text": "been confirmed by the Public Service Commission and endorsed by the National Police",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      604.07,
+      528.49,
+      619.46
+    ],
+    "text": "Commission. The second is that the Petitioner is challenging the decision of the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      623.27,
+      528.41,
+      638.66
+    ],
+    "text": "Respondents to demand the payment of the rent due for occupying the Government",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      642.59,
+      122.75,
+      657.98
+    ],
+    "text": "quarters.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      681.23,
+      528.44,
+      696.62
+    ],
+    "text": "I shall first deal with the relief relating to the punishment imposed on the Petitioner,",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      700.55,
+      528.41,
+      715.94
+    ],
+    "text": "which is referred to in paragraphs (a) (c) above, as it is clear to me that the intention",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      719.87,
+      528.43,
+      735.26
+    ],
+    "text": "of the Petitioner is to mount a fresh challenge to the aforementioned disciplinary order",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      745.29,
+      528.0,
+      771.48
+    ],
+    "text": "6",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      105.83,
+      528.34,
+      121.22
+    ],
+    "text": "and the decision to terminate his services, in the guise of challenging the date of",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      125.15,
+      272.31,
+      140.54
+    ],
+    "text": "termination and the letter of demand.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      163.79,
+      528.46,
+      179.18
+    ],
+    "text": "It is admitted that the Petitioner exercised his right of appeal against the order of",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      183.11,
+      528.49,
+      198.5
+    ],
+    "text": "dismissal issued by the Inspector General of Police. It is further admitted that the Public",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      202.43,
+      528.5,
+      217.82
+    ],
+    "text": "Service Commission has rejected his appeal. By the relief set out in paragraphs (a) (c)",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      221.75,
+      528.41,
+      237.14
+    ],
+    "text": "above, the Petitioner is effectively seeking to set aside a decision of the Public Service",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      240.95,
+      490.66,
+      256.34
+    ],
+    "text": "Commission. The first question that I must consider is whether that can be done.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      279.71,
+      528.46,
+      295.1
+    ],
+    "text": "The answer to that question is found in Article 61A of the Constitution, which reads as",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      298.91,
+      113.34,
+      314.3
+    ],
+    "text": "follows:",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.68,
+      333.71,
+      528.48,
+      349.1
+    ],
+    "text": "\"Subject to the provisions of paragraphs (1), (2), (3), (4) and (5) of Article 126, no",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.68,
+      353.03,
+      528.52,
+      368.42
+    ],
+    "text": "court or tribunal shall have power or jurisdiction to inquire into, or pronounce upon",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.68,
+      372.23,
+      528.49,
+      387.62
+    ],
+    "text": "or in any manner call in question any order or decision made by the Commission, a",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.68,
+      391.55,
+      528.53,
+      406.94
+    ],
+    "text": "Committee, or any public officer, in pursuance of any power or duty conferred or",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.68,
+      410.99,
+      528.51,
+      426.38
+    ],
+    "text": "imposed on such Commission, or delegated to a Committee or public officer, under",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      97.68,
+      430.19,
+      293.52,
+      445.58
+    ],
+    "text": "this Chapter or under any other law.\"",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      468.83,
+      528.48,
+      484.22
+    ],
+    "text": "Article 61A therefore acts as a Constitutional ouster of the Writ Jurisdiction of this Court",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      488.15,
+      528.45,
+      503.54
+    ],
+    "text": "in respect of decisions of the Public Service Commission, a Committee, or any public",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      507.47,
+      525.37,
+      522.86
+    ],
+    "text": "officer. Article 61A was later amended by the inclusion of Article 59 prior to Article 126.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      546.11,
+      528.48,
+      561.5
+    ],
+    "text": "In terms of Article 59 of the Constitution, there shall be an Administrative Appeals",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      565.31,
+      528.47,
+      580.7
+    ],
+    "text": "Tribunal appointed by the Judicial Service Commission, which shall have the power to",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      582.98,
+      507.21,
+      600.14
+    ],
+    "text": "alter, vary or rescind any order or decision made by the Public Service Commission.3",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      623.27,
+      528.44,
+      638.66
+    ],
+    "text": "The Administrative Appeals Tribunal Act No. 4 of 2002 (the Act) was thereafter enacted",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      642.59,
+      87.18,
+      657.98
+    ],
+    "text": "to:",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      661.91,
+      449.39,
+      692.78
+    ],
+    "text": "(a) provide for the constitution of the Administrative Appeals Tribunal;",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.08,
+      699.57,
+      527.83,
+      736.4
+    ],
+    "text": "3 Article 155L which provided for an appeal against a decision of the National Police Commission to the Administrative Appeals Tribunal has been repealed by the 20th Amendment to the Constitution.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      6.307439804077148,
+      9.69480037689209,
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      745.29,
+      528.0,
+      771.48
+    ],
+    "text": "7",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      105.83,
+      528.44,
+      136.7
+    ],
+    "text": "(b) specify the powers of the Administrative Appeals Tribunal and the procedure to be",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.68,
+      140.63,
+      472.15,
+      156.02
+    ],
+    "text": "adhered to by the Administrative Appeals Tribunal in respect of appeals.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      179.27,
+      249.43,
+      194.66
+    ],
+    "text": "In terms of Section 3(a) of the Act:",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.68,
+      214.07,
+      528.51,
+      229.46
+    ],
+    "text": "The Tribunal shall have the power to hear and determine any appeal preferred to",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.68,
+      233.27,
+      528.37,
+      248.66
+    ],
+    "text": "it from any order or decision made by the Public Service Commission in the exercise",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.68,
+      252.59,
+      371.43,
+      267.98
+    ],
+    "text": "of its powers under Chapter IX of the Constitution....",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      291.23,
+      528.42,
+      306.62
+    ],
+    "text": "Thus, while any public officer aggrieved by a decision of the Public Service Commission",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      310.55,
+      528.4,
+      325.94
+    ],
+    "text": "or a committee or public officer to whom the powers of the Public Service Commission",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      329.87,
+      528.47,
+      345.26
+    ],
+    "text": "have been delegated, could challenge such decision, either by way of a fundamental",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      349.19,
+      528.48,
+      364.58
+    ],
+    "text": "rights application in terms of Article 126 of the Constitution, or by preferring an appeal",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      368.39,
+      528.43,
+      383.78
+    ],
+    "text": "to the Administrative Appeals Tribunal in terms of Article 59, Article 61A has shut out",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      387.71,
+      528.38,
+      403.1
+    ],
+    "text": "the writ jurisdiction of the Court of Appeal to review decisions of the Public Service",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      407.15,
+      138.8,
+      422.54
+    ],
+    "text": "Commission.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      443.9,
+      528.47,
+      461.06
+    ],
+    "text": "In Ratnasiri and Others v. Ellawala and Others,4 which is one the first cases decided",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      464.99,
+      528.47,
+      480.38
+    ],
+    "text": "after the introduction of Article 61A, Saleem Marsoof, P.C., J/ President of the Court of",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      484.31,
+      278.21,
+      499.7
+    ],
+    "text": "Appeal (as he then was) held as follows:",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.68,
+      518.99,
+      528.41,
+      534.38
+    ],
+    "text": "The Seventeenth Amendment to the Constitution has also introduced several other",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.68,
+      538.43,
+      528.45,
+      553.82
+    ],
+    "text": "features which seek to enhance the independence of the public service while",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.68,
+      557.63,
+      528.4,
+      573.02
+    ],
+    "text": "providing greater security of tenure for the public officers. Firstly, the appointment,",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.68,
+      576.95,
+      528.51,
+      592.34
+    ],
+    "text": "promotion, transfer, disciplinary control and dismissal of public officers other than",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.68,
+      596.27,
+      528.46,
+      611.66
+    ],
+    "text": "Heads of Departments, have been taken out of the Cabinet of Ministers and vested",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.68,
+      615.59,
+      528.47,
+      630.98
+    ],
+    "text": "in the Public Service Commission. Secondly, while the Cabinet of Ministers is vested",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.68,
+      634.91,
+      528.47,
+      650.3
+    ],
+    "text": "with the power of appointment and disciplinary control of Heads of Department, it",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.68,
+      654.23,
+      528.5,
+      669.62
+    ],
+    "text": "also has the power of formulating policies concerning the public service. Thirdly,",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.68,
+      673.55,
+      528.45,
+      688.94
+    ],
+    "text": "the Public Service Commission, which is bound to conduct its affairs in accordance",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      97.68,
+      692.75,
+      528.51,
+      708.14
+    ],
+    "text": "with the policy laid down by the Cabinet of Ministers, is answerable to Parliament",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      711.33,
+      212.67,
+      736.4
+    ],
+    "text": "4 [2004] 2 Sri L.R. 180 at page 190.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      6.307439804077148,
+      9.69480037689209,
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.08,
+      745.29,
+      528.0,
+      771.48
+    ],
+    "text": "8",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      105.83,
+      528.41,
+      121.22
+    ],
+    "text": "in regard to the exercise and discharge of its powers and functions. Fourthly, the",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      125.15,
+      528.41,
+      140.54
+    ],
+    "text": "Seventeenth Amendment provides for the appointment of the members of the",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      144.47,
+      528.41,
+      159.86
+    ],
+    "text": "Public Service Commission on the recommendation of the Constitutional Council",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      163.79,
+      528.46,
+      179.18
+    ],
+    "text": "established under the said Amendment. Fifthly, while the Public Service",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      183.11,
+      528.46,
+      198.5
+    ],
+    "text": "Commission is empowered to delegate to a Committee or a public officer its powers",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      202.43,
+      528.52,
+      217.82
+    ],
+    "text": "of appointment, promotion, transfer, disciplinary control and dismissal of specified",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      221.75,
+      528.45,
+      237.14
+    ],
+    "text": "categories of public officers, it is expressly provided that any public officer",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      240.95,
+      528.42,
+      256.34
+    ],
+    "text": "aggrieved by an order made by any such Committee or public officer may appeal",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      260.27,
+      528.51,
+      275.66
+    ],
+    "text": "first to the Public Service Commission and from there to the Administrative Appeals",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      279.71,
+      528.46,
+      295.1
+    ],
+    "text": "Tribunal which is appointed by the Judicial Service Commission. All this is in",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      298.91,
+      528.51,
+      314.3
+    ],
+    "text": "addition to the beneficial jurisdiction created by Article 126 of the Constitution",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      318.23,
+      528.48,
+      333.62
+    ],
+    "text": "which is expressly retained by Article 61A of the Constitution. These are the many",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      337.55,
+      380.2,
+      352.94
+    ],
+    "text": "pillars on which the edifice of the Public Service rests.",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      376.19,
+      528.43,
+      391.58
+    ],
+    "text": "\"In view of the elaborate scheme put in place by the Seventeenth Amendment to",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      395.51,
+      528.53,
+      410.9
+    ],
+    "text": "the Constitution to resolve all matters relating to the public service, this Court",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      414.83,
+      528.4,
+      430.22
+    ],
+    "text": "would be extremely reluctant to exercise any supervisory jurisdiction in the sphere",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      434.03,
+      528.41,
+      449.42
+    ],
+    "text": "of the public service. I have no difficulty in agreeing with the submission made by",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      453.35,
+      528.45,
+      468.74
+    ],
+    "text": "the learned State Counsel that this Court has to apply the preclusive clause",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      472.79,
+      528.43,
+      488.18
+    ],
+    "text": "contained in Article 61A of the Constitution in such a manner as to ensure that the",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      491.99,
+      528.39,
+      507.38
+    ],
+    "text": "elaborate scheme formulated by the Seventeenth Amendment is given effect to the",
+    "fonts": [
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      97.68,
+      511.31,
+      178.36,
+      526.7
+    ],
+    "text": "fullest extent.\"",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F4"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.08,
+      549.95,
+      528.45,
+      565.34
+    ],
+    "text": "In Hewa Pedige Ranasingha and Others vs Secretary Ministry of Agricultural",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.08,
+      567.5,
+      528.41,
+      584.54
+    ],
+    "text": "Development and Others,5 the petitioners had challenged the manner in which a",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.08,
+      588.59,
+      528.43,
+      603.98
+    ],
+    "text": "competitive examination to select Agricultural Instructors had been conducted by the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.08,
+      607.91,
+      528.47,
+      623.3
+    ],
+    "text": "Secretary, Ministry of Agricultural Development in terms of the powers delegated by the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.08,
+      627.11,
+      528.41,
+      642.5
+    ],
+    "text": "Public Service Commission. Sisira De Abrew, J upheld the argument of the Respondents",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.08,
+      646.43,
+      528.46,
+      661.82
+    ],
+    "text": "that in view of the provisions of Article 61A of the Constitution, the Court of Appeal has",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.08,
+      665.75,
+      528.5,
+      681.14
+    ],
+    "text": "no jurisdiction to inquire into the conducting of the examination, and that the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.08,
+      711.33,
+      276.24,
+      736.4
+    ],
+    "text": "5 SC Appeal 177/2013; SC Minutes of 18th July 2018.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      6.307439804077148,
+      9.69480037689209,
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      745.29,
+      528.0,
+      771.48
+    ],
+    "text": "9",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      105.83,
+      528.52,
+      121.22
+    ],
+    "text": "petitioners could not have invoked the jurisdiction of the Court of Appeal to quash the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      125.15,
+      234.28,
+      140.54
+    ],
+    "text": "results of the said examination.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      144.47,
+      528.45,
+      175.34
+    ],
+    "text": "Thus, I am of the view that the Petitioner cannot challenge the decision of the Public",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      179.27,
+      528.48,
+      194.66
+    ],
+    "text": "Service Commission in this application. Even though the Petitioner has appealed the said",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      198.47,
+      528.44,
+      213.86
+    ],
+    "text": "decision to the Administrative Appeals Tribunal, the Petitioner is not seeking to quash",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      217.91,
+      528.44,
+      233.3
+    ],
+    "text": "the findings of the Administrative Appeals Tribunal in this application. In these",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      237.11,
+      528.42,
+      252.5
+    ],
+    "text": "circumstances, I of the view that the Petitioner is not entitled to the relief sought in",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      256.43,
+      516.05,
+      271.82
+    ],
+    "text": "paragraphs (d) (g) of the prayer to the petition relating to his dismissal from service.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      295.07,
+      528.44,
+      310.46
+    ],
+    "text": "I shall now consider the relief sought by the Petitioner arising from the letter of demand",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      314.39,
+      528.5,
+      329.78
+    ],
+    "text": "sent by the Attorney General. Although the Petitioner states that the Police Department",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      333.71,
+      528.42,
+      349.1
+    ],
+    "text": "did not request him to hand over the Government quarters at the time of his",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      353.03,
+      528.41,
+      368.42
+    ],
+    "text": "interdiction, it is admitted by the Petitioner that he continued to occupy the said",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      372.23,
+      528.47,
+      387.62
+    ],
+    "text": "premises, until he was requested to hand over the quarters after his dismissal. It is",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      391.55,
+      528.41,
+      406.94
+    ],
+    "text": "further admitted that the Petitioner was not paid his salary during the period of his",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      409.22,
+      528.41,
+      426.38
+    ],
+    "text": "interdiction,6 and that the Police Department could not have therefore deducted the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      430.19,
+      528.41,
+      445.58
+    ],
+    "text": "rent payable on the said quarters. The Police Department is entitled to claim the rent",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      449.51,
+      528.41,
+      464.9
+    ],
+    "text": "payable for the period that the Petitioner occupied the said quarters and has advised its",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      468.83,
+      528.38,
+      484.22
+    ],
+    "text": "Attorney-at-Law, the Attorney General, to demand the payment of the said sum of",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      488.15,
+      528.47,
+      503.54
+    ],
+    "text": "money. The letter of demand is certainly not a decision of the Attorney General and is",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      507.47,
+      445.58,
+      522.86
+    ],
+    "text": "only a reflection of the instructions that he has received from the client.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      546.11,
+      528.51,
+      561.5
+    ],
+    "text": "A letter of demand is the first step that is taken when a party wishes to initiate an action",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      565.31,
+      528.47,
+      580.7
+    ],
+    "text": "to recover monies due and owing to such party. A demand is a demand and remains so.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      584.75,
+      528.49,
+      600.14
+    ],
+    "text": "It cannot be categorised as a decision affecting the rights of the person to whom it is",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      604.07,
+      528.41,
+      619.46
+    ],
+    "text": "addressed, unlike for example a certificate issued for the recovery of the contributions",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      623.27,
+      528.49,
+      638.66
+    ],
+    "text": "that an employer ought to have made under the Employees Provident Fund. Therefore,",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      642.59,
+      528.48,
+      657.98
+    ],
+    "text": "a prerequisite for a Writ of Certiorari to issue i.e. a decision which affects the rights of",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      661.91,
+      327.0,
+      677.3
+    ],
+    "text": "an individual - is not found in a letter of demand.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.08,
+      687.69,
+      527.83,
+      736.4
+    ],
+    "text": "6 Vide paragraph 31:11 of Chapter XLVIII of the Establishments Code a public officer shall not be paid his emoluments during the period of interdiction of he is interdicted as a result of legal proceedings being instituted for a criminal offence.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      6.307439804077148,
+      9.69480037689209,
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      745.29,
+      528.05,
+      771.48
+    ],
+    "text": "10",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      125.15,
+      528.46,
+      140.54
+    ],
+    "text": "While the Petitioner admits that rent is payable, if the Petitioner was of the view that",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      144.47,
+      528.42,
+      159.86
+    ],
+    "text": "the sum of money demanded is excessive or that the calculation is not correct, all what",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      163.79,
+      528.4,
+      179.18
+    ],
+    "text": "the Petitioner ought to have done was to have replied the said letter of demand setting",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      183.11,
+      528.42,
+      198.5
+    ],
+    "text": "out his position and thereby resisted the claim. Having not replied the letter of demand,",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      202.43,
+      528.46,
+      217.82
+    ],
+    "text": "the Petitioner filed this application challenging the said letter of demand, which as I",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      221.75,
+      528.37,
+      237.14
+    ],
+    "text": "have already described is an attempt to launch a collateral attack on the order of",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      240.95,
+      122.48,
+      256.34
+    ],
+    "text": "dismissal.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      279.71,
+      528.42,
+      295.1
+    ],
+    "text": "Be that as it may, and in the absence of the Petitioner complying with the said demand,",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      298.91,
+      528.51,
+      314.3
+    ],
+    "text": "in January 2019, the Attorney General instituted Case No. 10117/M in the District Court",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      318.23,
+      528.52,
+      333.62
+    ],
+    "text": "of Kegalle, seeking to recover the monies that had been claimed as rental in the said",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      337.55,
+      528.47,
+      352.94
+    ],
+    "text": "letter of demand. It is open to the Petitioner to file an answer denying the claim, and",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      356.87,
+      528.44,
+      372.26
+    ],
+    "text": "raise the necessary issues before the District Court. Having heard the evidence, the Hon.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      376.19,
+      528.46,
+      391.58
+    ],
+    "text": "District Judge can decide the issues raised by the parties. That is what must be done and",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      395.51,
+      528.5,
+      410.9
+    ],
+    "text": "that is the most efficacious remedy that is available to the Petitioner in respect of the",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      414.83,
+      528.44,
+      430.22
+    ],
+    "text": "letter of demand sent by the Attorney General. What the Petitioner is attempting to do",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      434.03,
+      528.45,
+      449.42
+    ],
+    "text": "is to use the Writ jurisdiction of this Court to resist a money recovery action. To my",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      453.35,
+      493.8,
+      468.74
+    ],
+    "text": "mind, the conduct of the Petitioner amounts to abusing the process of this Court.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      491.99,
+      528.52,
+      507.38
+    ],
+    "text": "Furthermore, the Supreme Court as well as this Court have consistently taken the view",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      511.31,
+      528.51,
+      526.7
+    ],
+    "text": "that this Court will not exercise its writ jurisdiction, which is discretionary in nature,",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      530.63,
+      528.45,
+      546.02
+    ],
+    "text": "where there exists an effective alternative remedy and especially where an explanation",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      548.18,
+      528.45,
+      565.34
+    ],
+    "text": "has not been offered as to why that equally effective remedy has not been resorted to.7",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      569.15,
+      528.45,
+      584.54
+    ],
+    "text": "I am of the view that the remedy available to the Petitioner of defending his position in",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      588.59,
+      528.39,
+      603.98
+    ],
+    "text": "the District Court is not only a more effective and satisfactory alternative remedy but a",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      607.91,
+      528.45,
+      623.3
+    ],
+    "text": "remedy which is the most convenient and beneficial to the Petitioner and which will",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      627.11,
+      528.43,
+      642.5
+    ],
+    "text": "provide the Petitioner with the best opportunity of averting the alleged injustice that",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      646.43,
+      528.44,
+      661.82
+    ],
+    "text": "the Petitioner is claiming. The Petitioner has not only failed to avail himself of this",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      664.1,
+      528.45,
+      681.14
+    ],
+    "text": "remedy but has not explained why he did not do so.8 For all of the above reasons, I am",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      8.29312515258789,
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.08,
+      687.69,
+      459.98,
+      736.4
+    ],
+    "text": "7 See the judgment of this Court in Thajudeen v Sri Lanka Tea Board and another (1981) 2 SLR 471. 8 See the judgment of this Court in Halwan and Others v. Kaleelul Rahuman (2000) 3 SLR 50.",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F6"
+    ],
+    "sizes": [
+      6.307439804077148,
+      9.69480037689209,
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70.08,
+      745.29,
+      528.05,
+      771.48
+    ],
+    "text": "11",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      10.746000289916992
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70.08,
+      105.83,
+      528.42,
+      121.22
+    ],
+    "text": "of the view that the Petitioner is not entitled to the Writ of Certiorari to quash the letter",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70.08,
+      125.15,
+      134.85,
+      140.54
+    ],
+    "text": "of demand.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70.08,
+      163.79,
+      528.47,
+      179.18
+    ],
+    "text": "In the above circumstances, I do not see any legal basis to issue the Writs of Certiorari",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      70.08,
+      183.11,
+      517.07,
+      198.5
+    ],
+    "text": "and Mandamus prayed for by the Petitioner. This application is accordingly dismissed.",
+    "fonts": [
+      "CIDFont+F1"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      290.88,
+      279.71,
+      463.41,
+      295.1
+    ],
+    "text": "President of the Court of Appeal",
+    "fonts": [
+      "CIDFont+F1",
+      "CIDFont+F2"
+    ],
+    "sizes": [
+      12.614849090576172
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+1
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF
+
+SRI LANKA
+
+In the matter of an appeal under and in terms of Section 33(1) of the Code of Criminal Procedure Act No. 15 of 1979 read with Article 138 of the Constitution of the Democratic Socialist Republic of Sri Lanka The Democratic Socialist Republic of Sri Lanka
+
+Complainant
+
+V.
+
+Kurukuralalge Sarath Kumara
+
+Acccused
+
+AND NOW BETWEEN
+
+Kurukuralalge Sarath Kumara
+
+Accused-Appellant
+
+V.
+
+Hon. Attorney General, Attorney Generals Department, Colombo 12.
+
+Complainant - Respondent
+
+BEFORE : K. PRIYANTHA FERNANDO, J
+
+SAMPATH B. ABAYAKOON, J
+
+COUNSEL : Duminda De Alwis with Charuni De Alwis for the Accused - Appellant
+
+Court of Appeal Case No. CA/HCC/248/2019 High Court of Ratnapura Case No. HCR 320/2006
+
+2
+
+Lakmali Karunannayake DSG for the Complainant - Respondent.
+
+ARGUED ON : 08.03.2021
+
+WRITTEN SUBMISSIONS
+
+FILED ON : 17.07.2020 by the Accused - Appellant.
+
+05.03.2021 by the Complainant-Respondent.
+
+JUDGMENT ON : 29.04.2021
+
+K. PRIYANTHA FERNANDO, J.
+
+1. The accused appellant (hereinafter referred to as the appellant) was indicted in the High Court of Ratnapura for one count of Murder punishable in terms of section 296 of the Penal Code. After the trial, the appellant was convicted as charged and was sentenced to death. Being aggrieved by the above conviction and the consequential sentence, the appellant preferred the instant appeal. 2. The only ground of appeal pursued by the learned counsel for the appellant was that the learned High Court Judge erred in law by his failure to follow section 11 of the Judicature Act No.2 of 1978. It is the submission of the learned counsel that, at the conclusion of the case in the High Court, the learned State Counsel attempted to rectify the error. In terms of section 11(3) of the Judicature Act, the jury option should have been offered to the appellant at the commencement of the trial and therefore, such irregularity cannot be rectified at a later stage, the learned counsel submitted. 3. Learned Deputy Solicitor General appearing for the respondent conceded that the jury option had not been given to the appellant at the commencement of the trial in the High court. Inviting the attention of the Court to the proceedings in the High Court dated 26.03.2019, learned DSG submitted that when it was brought to the notice of the High Court Judge that the jury option had not been given to the accused, it was rectified with the consent of the defence counsel. The defence counsel has accepted that the rectification was done, and therefore, the argument of the learned counsel for the appellant is baseless, the learned DSG submitted. 4. Section 161 of the Code of Criminal Procedure Act No. 15 of 1979 reads:
+
+3
+
+Subject to the provisions of this Code or any other law, all prosecutions on indictment instituted in the High Court shall be tried by a Judge of that Court: Provided that in any case where at least one of the offences falls within the list of offences set out in the Second Schedule to the Judicature Act, No. 2 of 1978, trial shall be by a jury, before a Judge, if and only if the accused elects to be tried by a jury. 5. Section 296 of the Penal Code, which contains the offence the appellant was indicted for in the High Court, is included in the second schedule to the Judicature Act as an offence that falls within the list of offences that should be tried by the jury before a judge if the accused elects to be tried by the jury. 6. Section 195 of the Code of Criminal Procedure Act provides for the duties of a High Court Judge upon receipt of indictment. Section 195 (ee) If the indictment relates to an offence triable by a jury, inquire from the accused whether or not he elects to be tried by a jury. 7. In case of The Attorney General V. Segulebbe Latheef and Another [2008] 1 Sri LR page 225, the Supreme Court referring to the amendment to section 161 of the Code of Criminal Procedure Act and the amendment to section 11 of the Judicature Act, held; This amendment necessitated an introduction of a further amendment i.e. section 195 (ee) imposing a duty on the trial Judge to inquire from the accused at the time of serving of the indictment whether or not the accused elects to be tried by a jury. This is in recognition of the basic right of an accused to be tried by his peers. It is left to the discretion of the accused to decide as to who should try him. 8. Therefore, the law as it stands now is that where an accused is indicted for an offence that falls within the list of offences included in the second schedule of the Judicature Act, the trial Judge has an obligation to inquire from him whether he is to be tried by a jury. Non-observance of this procedure is an illegality and not a mere irregularity. 9. In the instant case, after the conclusion of the evidence for the prosecution and defence, and before the commencement of the addresses of the counsel, the learned State Counsel has brought to the notice of the learned High Court Judge that the jury option had not been given to the accused. At that stage, the learned counsel for the defence has submitted to Court on behalf of the accused that the accused has no objection for the accused to be tried without a jury and
+
+4
+
+that it can be taken as jury option was given to the accused at the commencement of the trial. Thereafter the trial proceeded. 10. It is recorded in the proceedings in the High Court on 26.03.2019 as follows; 2006.08.16 , . . 11. A similar situation was discussed in case of Palitha V. The Attorney General Bar Association Law Reports 2011 (2) B. L. R 422. It was held that failure to offer the option of a trial by jury renders the trial a nullity, but once it is offered even at a later stage and if the defence consents or waives the right of a jury option then such situation does not amount to an absolute nullity. 12. In the case of Dharmasena V. State [1994] 1 Sri LR 212, it was held that it is competent for the counsel to convey the wish of the accused on his election of jury or non-jury trial, to Court. 13. In the instant case, when it was brought to the notice of the learned High Court Judge that jury option had not been given, the accused has clearly consented to proceed with the trial as if jury option was rightly given. Therefore, the appellant is now at the appeal stage estopped from stating that jury option was not given to him. I find that no prejudice has been caused to the appellant, as the appellant has expressly waived his right. Hence, the ground of appeal fails. Appeal is dismissed.
+
+JUDGE OF THE COURT OF APPEAL
+
+SAMPATH B. ABAYAKOON, J
+
+I agree.
+
+JUDGE OF THE COURT OF APPEAL
