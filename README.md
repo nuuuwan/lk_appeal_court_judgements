@@ -10,11 +10,7 @@ A collection of Appeals documents.
 | Date Range | 2012-04-23 to 2025-09-11 |
 | Number of Docs | 9,416 |
 | Number of Docs with PDFs | 8,771 |
-<<<<<<< HEAD
-| Dataset Size | 8.8GB |
-=======
 | Dataset Size | 10.4GB |
->>>>>>> abb31d5d6 (various)
 
 ## Document Metadata Example
 
