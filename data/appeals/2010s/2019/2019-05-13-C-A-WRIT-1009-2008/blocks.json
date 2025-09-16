@@ -1,0 +1,5339 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      101.5,
+      104.51,
+      509.7,
+      117.56
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.269453048706055,
+      9.462425231933594,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      66.58,
+      354.1,
+      213.26,
+      367.15
+    ],
+    "text": "Case No: CA(Writ) 1009/2008",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5,
+      9.601556777954102,
+      9.746891975402832,
+      9.910530090332031
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.36,
+      133.17,
+      528.96,
+      147.32
+    ],
+    "text": "In the matter of an application for a Writ of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.154726028442383,
+      10.275520324707031,
+      10.300000190734863,
+      10.342462539672852,
+      10.393921852111816,
+      10.414117813110352,
+      10.42558479309082,
+      10.439356803894043,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.42,
+      154.76,
+      528.23,
+      168.91
+    ],
+    "text": "Mandamus in terms of Article 140 of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.272713661193848,
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.01,
+      176.36,
+      378.89,
+      190.51
+    ],
+    "text": "Constitution.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.4,
+      205.89,
+      472.86,
+      220.04
+    ],
+    "text": "Hemantha Chamindra Ovitigama",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.4,
+      235.41,
+      414.05,
+      249.56
+    ],
+    "text": "No.177, Kalapaluwa,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.4,
+      264.68,
+      364.99,
+      278.83
+    ],
+    "text": "Rajagiriya.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      316.79,
+      353.86,
+      333.17,
+      366.91
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.55,
+      382.53,
+      445.47,
+      396.68
+    ],
+    "text": "1. Inspector General of Police",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.41,
+      403.89,
+      420.98,
+      418.04
+    ],
+    "text": "Department of Police,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.41,
+      425.71,
+      416.15,
+      439.87
+    ],
+    "text": "Police Headquarters,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.01,
+      447.23,
+      376.45,
+      461.47
+    ],
+    "text": "Colombo Ol.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.56,
+      468.68,
+      382.4,
+      482.83
+    ],
+    "text": "2. The Secretary",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.954298973083496,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.42,
+      490.28,
+      413.21,
+      504.43
+    ],
+    "text": "Ministry of Defence,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.42,
+      511.65,
+      421.86,
+      525.8
+    ],
+    "text": "Baladaksha Mawatha,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.01,
+      533.24,
+      376.3,
+      547.39
+    ],
+    "text": "Colombo 03.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      477.37,
+      294.83,
+      528.13,
+      307.88
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.819090843200684
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.52,
+      554.84,
+      524.38,
+      568.99
+    ],
+    "text": "3. The Commissioner General of Examinations",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.964123725891113,
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.4,
+      576.21,
+      456.77,
+      590.36
+    ],
+    "text": "Department of Examinations,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.42,
+      597.8,
+      380.81,
+      611.95
+    ],
+    "text": "Battaramulla.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.37,
+      619.4,
+      430.88,
+      633.55
+    ],
+    "text": "4. Justice Priyantha Perera",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.912251472473145,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.01,
+      641.0,
+      361.84,
+      655.15
+    ],
+    "text": "Chairman",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.29,
+      662.36,
+      439.13,
+      676.51
+    ],
+    "text": "5. Gunapala Wickremaratne",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.954453468322754,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.41,
+      683.72,
+      358.61,
+      697.87
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.356494903564453
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      269.8,
+      747.58,
+      325.91,
+      760.49
+    ],
+    "text": "Page 1 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.184581756591797,
+      9.399999618530273,
+      9.706890106201172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.5,
+      105.8,
+      409.58,
+      119.95
+    ],
+    "text": "6. Prof. M.S. Mookiah",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.956367492675781,
+      10.27942943572998,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.37,
+      127.16,
+      359.57,
+      141.31
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.356494903564453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.46,
+      148.53,
+      400.54,
+      162.68
+    ],
+    "text": "7. Srima Wijeyratne",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.37,
+      170.12,
+      359.31,
+      184.27
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.325618743896484
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.25,
+      191.48,
+      445.04,
+      205.63
+    ],
+    "text": "8. Prof. Mendis Rohanadeera",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.960246086120605,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.13,
+      213.33,
+      359.33,
+      227.48
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.356494903564453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.25,
+      234.68,
+      401.73,
+      248.83
+    ],
+    "text": "9. Dr. Bernard Soyza",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.962159156799316,
+      10.16329288482666,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.13,
+      256.53,
+      359.33,
+      270.68
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.356494903564453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.51,
+      277.88,
+      436.64,
+      292.03
+    ],
+    "text": "10. Palitha M. Kumarasinghe",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.13,
+      299.72,
+      359.33,
+      313.87
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.356494903564453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.22,
+      320.57,
+      429.39,
+      335.24
+    ],
+    "text": "11. Prof. Dayasiri Fernando",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.13,
+      342.68,
+      359.33,
+      356.83
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.356494903564453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.46,
+      363.54,
+      413.4,
+      378.21
+    ],
+    "text": "12. W.P.S. Jayawardene",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.197135925292969,
+      10.300000190734863,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.13,
+      385.88,
+      359.33,
+      400.03
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.356494903564453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.65,
+      407.24,
+      492.66,
+      421.39
+    ],
+    "text": "All of the Public Service Commission,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.13,
+      429.07,
+      427.12,
+      443.23
+    ],
+    "text": "No.48, Vauxhall Street,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.73,
+      450.17,
+      377.0,
+      464.84
+    ],
+    "text": "Colombo 02.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863,
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.09,
+      472.05,
+      401.28,
+      486.2
+    ],
+    "text": "4A Sathya Hettige PC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.29202938079834,
+      10.28278636932373,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.73,
+      493.65,
+      362.83,
+      507.8
+    ],
+    "text": "Chairman",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.0,
+      515.01,
+      417.48,
+      529.16
+    ],
+    "text": "SA S.c. Mannapperuma",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.874564170837402,
+      10.29634952545166,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.13,
+      536.61,
+      359.33,
+      550.76
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.356494903564453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.25,
+      558.21,
+      413.63,
+      572.36
+    ],
+    "text": "6A Ananda Seneviratne",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.209653854370117,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.13,
+      579.8,
+      359.33,
+      593.95
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.356494903564453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.22,
+      601.4,
+      386.39,
+      615.55
+    ],
+    "text": "7A N.H. Pathirana",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.722246170043945,
+      10.222861289978027,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.13,
+      623.01,
+      359.07,
+      637.16
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.325618743896484
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.24,
+      644.36,
+      401.51,
+      658.51
+    ],
+    "text": "8A S. Thillanadarajah",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.212276458740234,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.13,
+      665.72,
+      359.33,
+      679.87
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.356494903564453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.0,
+      686.84,
+      414.7,
+      700.99
+    ],
+    "text": "9A A. Mohamed Nahiya",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.894362449645996,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.13,
+      708.2,
+      359.33,
+      722.35
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.356494903564453
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.51,
+      748.29,
+      326.18,
+      762.44
+    ],
+    "text": "Page 2 of 11",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.67264461517334,
+      9.997200012207031,
+      10.0,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.77,
+      105.06,
+      407.47,
+      118.94
+    ],
+    "text": "lOA Kanthi Wijethunga",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.69,
+      126.65,
+      357.89,
+      140.53
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.255454063415527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.4,
+      148.25,
+      392.03,
+      162.13
+    ],
+    "text": "11A Sunil S. Sirisena",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.24807071685791,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.69,
+      170.09,
+      357.89,
+      183.97
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.255454063415527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.4,
+      191.45,
+      440.91,
+      205.33
+    ],
+    "text": "12ADr. 10M. Soysa Gunasekera",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.20910930633545,
+      10.064136505126953,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.45,
+      213.3,
+      357.65,
+      227.18
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.255454063415527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.21,
+      234.65,
+      498.3,
+      248.53
+    ],
+    "text": "All new members of the Public Service",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.12007999420166,
+      10.232925415039062,
+      10.472674369812012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.29,
+      256.25,
+      373.43,
+      270.13
+    ],
+    "text": "Commission",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.45,
+      277.86,
+      421.01,
+      291.74
+    ],
+    "text": "No.177, Nawala Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.45,
+      299.46,
+      378.04,
+      313.33
+    ],
+    "text": "Narahenpita,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.05,
+      321.06,
+      375.3,
+      334.94
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.41,
+      342.42,
+      437.4,
+      356.3
+    ],
+    "text": "4B Dharmasena Dissanayake",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.872282981872559,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.05,
+      364.26,
+      360.93,
+      378.14
+    ],
+    "text": "Chairman",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.32,
+      385.86,
+      408.58,
+      399.74
+    ],
+    "text": "5B Salam Abdul Wahid",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.900275230407715,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.45,
+      407.45,
+      357.39,
+      421.33
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.224878311157227
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.58,
+      428.82,
+      428.75,
+      442.7
+    ],
+    "text": "6B Shirantha Wijayathilaka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.79566478729248,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.21,
+      450.65,
+      357.41,
+      464.53
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.255454063415527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.31,
+      472.01,
+      412.73,
+      485.89
+    ],
+    "text": "7B Prathap Ramanujam",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.91434383392334,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.21,
+      493.61,
+      357.41,
+      507.49
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.255454063415527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.33,
+      514.98,
+      395.08,
+      528.86
+    ],
+    "text": "8B V Jegarasingham",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.90410041809082,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.21,
+      536.57,
+      357.41,
+      550.45
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.255454063415527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.32,
+      558.17,
+      426.64,
+      572.05
+    ],
+    "text": "9B Santi Nihal Seneviratne",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.905375480651855,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.21,
+      579.54,
+      357.41,
+      593.42
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.255454063415527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.05,
+      601.13,
+      366.79,
+      615.01
+    ],
+    "text": "lOB S Ranugge",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.21,
+      622.97,
+      357.41,
+      636.85
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.255454063415527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      293.92,
+      644.57,
+      371.6,
+      658.45
+    ],
+    "text": "11B D.L Mendis",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.21,
+      665.69,
+      357.41,
+      679.57
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.255454063415527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      293.92,
+      687.05,
+      403.79,
+      700.93
+    ],
+    "text": "12B Sarath Jayathilaka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.21,
+      708.41,
+      357.41,
+      722.29
+    ],
+    "text": "Member",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.255454063415527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      268.59,
+      748.78,
+      324.47,
+      761.69
+    ],
+    "text": "Page 3 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.240394592285156,
+      9.399999618530273,
+      9.706890106201172
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.49,
+      104.85,
+      497.49,
+      119.0
+    ],
+    "text": "All new members of the Public Service",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.81,
+      126.21,
+      372.89,
+      140.36
+    ],
+    "text": "Commission",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.97,
+      147.8,
+      421.4,
+      161.95
+    ],
+    "text": "No.177, Nawala Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199812889099121,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.97,
+      169.41,
+      377.53,
+      183.56
+    ],
+    "text": "Narahenpita,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.57,
+      187.25,
+      374.79,
+      206.21
+    ],
+    "text": "Colombo as.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      12.232303619384766
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      295.35,
+      212.36,
+      407.85,
+      226.51
+    ],
+    "text": "13. Neville Piyadagama",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.81,
+      234.2,
+      360.63,
+      248.36
+    ],
+    "text": "Chairman",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      295.11,
+      255.8,
+      442.14,
+      269.95
+    ],
+    "text": "14. Chandradasa Nanayakkara",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      295.11,
+      277.64,
+      414.72,
+      291.8
+    ],
+    "text": "15. Ven. Elle Gunawansa",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.19849967956543,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      295.11,
+      299.01,
+      441.6,
+      313.16
+    ],
+    "text": "16. Charmaine Madurasinghe",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      295.11,
+      320.36,
+      390.91,
+      334.51
+    ],
+    "text": "17. M.M.M Majood",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.434422492980957
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      295.11,
+      341.96,
+      373.61,
+      356.11
+    ],
+    "text": "18. R Sivaraman",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      295.11,
+      363.56,
+      395.51,
+      377.71
+    ],
+    "text": "19. Nihal Jayamanna",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.49,
+      385.16,
+      480.69,
+      399.31
+    ],
+    "text": "All members of the National Police",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.57,
+      406.77,
+      372.65,
+      420.92
+    ],
+    "text": "Commission",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.96,
+      428.36,
+      430.01,
+      442.51
+    ],
+    "text": "Rotunda Tower, Level 3,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.12353801727295,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.97,
+      449.96,
+      408.63,
+      464.11
+    ],
+    "text": "No.109, Galle Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.287442207336426,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.57,
+      471.8,
+      374.73,
+      485.95
+    ],
+    "text": "Colombo 03.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.67,
+      493.16,
+      420.35,
+      507.31
+    ],
+    "text": "13A Senaka Walgampitiya",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.273064613342285,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.57,
+      514.52,
+      360.67,
+      528.67
+    ],
+    "text": "Chairman",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.67,
+      536.12,
+      417.32,
+      550.27
+    ],
+    "text": "14A Ven. Elle Gunawansa",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.277875900268555,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.8,
+      557.49,
+      385.96,
+      571.64
+    ],
+    "text": "lSA 0 Dissanayake",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.502018928527832
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.68,
+      578.84,
+      441.6,
+      592.99
+    ],
+    "text": "16A Charmaine Madurasinghe",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.67,
+      600.44,
+      376.49,
+      614.59
+    ],
+    "text": "17A R Sivaraman",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.67,
+      622.04,
+      402.27,
+      636.19
+    ],
+    "text": "18A M.M.M Mawjood",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.309795379638672
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.67,
+      643.64,
+      409.63,
+      657.79
+    ],
+    "text": "19A Newton Gunaratne",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.49,
+      665.01,
+      480.69,
+      679.16
+    ],
+    "text": "All members of the National Police",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.57,
+      686.36,
+      372.65,
+      700.51
+    ],
+    "text": "Commission",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.98,
+      707.73,
+      453.41,
+      721.88
+    ],
+    "text": "Block No.9, BMICH Premises,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      268.36,
+      747.57,
+      324.33,
+      761.72
+    ],
+    "text": "Page 4 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.899999618530273,
+      10.1214017868042,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      314.9,
+      105.3,
+      430.53,
+      119.18
+    ],
+    "text": "Bauddhaloka Mawatha,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      314.49,
+      126.89,
+      377.83,
+      140.77
+    ],
+    "text": "Colombo 07.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      295.36,
+      148.49,
+      397.71,
+      162.37
+    ],
+    "text": "13B Prof. Siri Hettige",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      314.25,
+      169.86,
+      362.13,
+      183.74
+    ],
+    "text": "Chairman",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      295.12,
+      191.22,
+      399.51,
+      205.1
+    ],
+    "text": "14B P.H Manathunga",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.577905654907227,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      295.13,
+      212.82,
+      419.49,
+      226.69
+    ],
+    "text": "15B Savithree Wijesekara",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      295.14,
+      234.43,
+      386.99,
+      248.31
+    ],
+    "text": "16B Y.L.M Zawahir",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      295.14,
+      256.03,
+      401.09,
+      269.91
+    ],
+    "text": "17B Anton Jeyanadan",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      294.89,
+      277.61,
+      383.38,
+      291.49
+    ],
+    "text": "1BB Thilak Kollure",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.902570724487305,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      294.88,
+      299.22,
+      384.83,
+      313.1
+    ],
+    "text": "19B Frank De Silva",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.830710411071777,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      313.45,
+      320.81,
+      481.94,
+      334.69
+    ],
+    "text": "All members of the National Police",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.15266227722168,
+      10.472674369812012
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      313.53,
+      342.42,
+      373.67,
+      356.29
+    ],
+    "text": "Commission",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      313.94,
+      364.02,
+      454.45,
+      377.9
+    ],
+    "text": "Block No.9, BMICH Premises,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      313.7,
+      385.62,
+      429.58,
+      399.5
+    ],
+    "text": "Bauddhaloka Mawatha,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.121177673339844
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      313.29,
+      406.97,
+      375.54,
+      420.85
+    ],
+    "text": "Colombo 07.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      295.85,
+      428.57,
+      413.35,
+      442.45
+    ],
+    "text": "20. Nimal P Punchihewa",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      312.97,
+      450.41,
+      415.51,
+      464.29
+    ],
+    "text": "Additional Secretary,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      313.44,
+      471.78,
+      446.19,
+      485.66
+    ],
+    "text": "Human Rights Commission,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      313.45,
+      493.13,
+      409.66,
+      507.01
+    ],
+    "text": "No.36, Kinsey Road,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      313.05,
+      514.46,
+      374.57,
+      528.61
+    ],
+    "text": "Colombo OB.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.36777400970459,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      268.11,
+      748.29,
+      323.99,
+      761.2
+    ],
+    "text": "Page 5 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.240394592285156,
+      9.399999618530273,
+      9.706890106201172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      454.84,
+      537.27,
+      519.61,
+      550.35
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.82,
+      104.36,
+      180.03,
+      118.51
+    ],
+    "text": "Before: Janak De Silva J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.927566528320312,
+      10.282599449157715,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.65,
+      133.65,
+      107.84,
+      147.8
+    ],
+    "text": "Counsel:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.06,
+      163.17,
+      408.78,
+      177.32
+    ],
+    "text": "M.A. Sumanthiran P.c. with E. Tegal and Shanthi Silva for the Petitioner",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.08736801147461,
+      10.25861644744873,
+      10.300000190734863,
+      10.450550079345703,
+      10.518287658691406
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.43,
+      192.44,
+      295.78,
+      206.59
+    ],
+    "text": "Suranga Wimalasena S.S.c. for the Respondents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.22583293914795,
+      10.300000190734863,
+      10.61013126373291
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.29,
+      221.97,
+      234.27,
+      236.12
+    ],
+    "text": "Written Submissions tendered on:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.354455947875977,
+      10.459514617919922
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.81,
+      251.24,
+      186.1,
+      265.39
+    ],
+    "text": "Petitioner on 18.12.2018",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.263786315917969,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.56,
+      280.76,
+      200.31,
+      294.91
+    ],
+    "text": "Respondents on 06.12.2018",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.09,
+      310.04,
+      176.52,
+      324.19
+    ],
+    "text": "Argued on: 05.03.2019",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.57,
+      339.56,
+      181.54,
+      353.71
+    ],
+    "text": "Decided on: 10.05.2019",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.76,
+      369.09,
+      143.48,
+      383.24
+    ],
+    "text": "Janak De Silva J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.514930725097656,
+      10.132285118103027,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.77,
+      398.33,
+      525.92,
+      412.75
+    ],
+    "text": "The Petitioner has sought a writ of mandamus compelling the 4th to 19th Respondents to promote",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.587047100067139,
+      10.184502601623535,
+      10.2755708694458,
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043,
+      10.49338436126709,
+      10.578534126281738
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.79,
+      419.28,
+      524.9,
+      434.48
+    ],
+    "text": "the Petitioner to the rank of Assistant Superintendent of Police with effect from pt January 2003.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.324769973754883,
+      10.388867378234863,
+      10.414117813110352,
+      10.57585620880127,
+      10.627105712890625,
+      10.710567474365234,
+      11.9927396774292
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.77,
+      441.05,
+      525.82,
+      455.71
+    ],
+    "text": "The 4th to 19th Respondents are members of the Public Service Commission (PSC) and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.509210109710693,
+      9.695352554321289,
+      10.2755708694458,
+      10.300000190734863,
+      10.49338436126709,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.33,
+      463.16,
+      232.49,
+      477.31
+    ],
+    "text": "National Police Commission (NPC).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.072896003723145,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.53,
+      492.68,
+      526.32,
+      506.83
+    ],
+    "text": "The learned Senior State Counsel has raised a preliminary objection namely whether in view of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.184502601623535,
+      10.272713661193848,
+      10.2755708694458,
+      10.300000190734863,
+      10.351122856140137,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.55,
+      514.28,
+      525.9,
+      528.43
+    ],
+    "text": "the provisions of Articles 61A and 155C of the Constitution this Court has the jurisdiction to grant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.184502601623535,
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043,
+      10.49338436126709,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.55,
+      535.65,
+      526.32,
+      549.8
+    ],
+    "text": "the relief prayed for by the Petitioner. Parties agreed that this matter can be disposed by way of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.201428413391113,
+      10.24510383605957,
+      10.256959915161133,
+      10.300000190734863,
+      10.333745002746582,
+      10.393921852111816,
+      10.439356803894043,
+      10.456954002380371,
+      10.518287658691406
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.84,
+      556.76,
+      277.36,
+      570.91
+    ],
+    "text": "written submissions already filed by parties.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.33523941040039
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.53,
+      586.01,
+      525.79,
+      600.43
+    ],
+    "text": "The wordings in Articles 61A and 155C of the Constitution changed with the 19th Amendment to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.199999809265137,
+      10.2755708694458,
+      10.300000190734863,
+      10.333745002746582,
+      10.450550079345703,
+      10.49338436126709,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.55,
+      608.13,
+      524.59,
+      622.28
+    ],
+    "text": "the Constitution and therefore the question arises whether the preliminary objection must be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.201428413391113,
+      10.300000190734863,
+      10.333745002746582,
+      10.340570449829102,
+      10.351122856140137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.74,
+      629.72,
+      524.46,
+      643.87
+    ],
+    "text": "decided on the provisions as they stand now or as they stood when this application was made in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.575413703918457,
+      9.830814361572266,
+      10.272713661193848,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.75,
+      651.32,
+      525.68,
+      665.47
+    ],
+    "text": "2008. The Petitioner submits that the relevant provisions are as it stood in 2008 whereas the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.272713661193848,
+      10.2755708694458,
+      10.300000190734863,
+      10.333745002746582,
+      10.52210521697998,
+      11.021574974060059
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.89,
+      672.44,
+      423.43,
+      686.59
+    ],
+    "text": "learned Senior State Counsel has quoted the provisions as they stand now.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.264989852905273,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      266.68,
+      746.85,
+      322.34,
+      761.0
+    ],
+    "text": "Page 6 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.899999618530273,
+      9.997200012207031,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.93,
+      105.08,
+      529.06,
+      119.23
+    ],
+    "text": "The general principle is that the rights of the parties must be determined as at the date of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.830814361572266,
+      9.968826293945312,
+      10.201428413391113,
+      10.2755708694458,
+      10.300000190734863,
+      10.439356803894043,
+      10.456954002380371,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.52,
+      126.44,
+      525.84,
+      140.59
+    ],
+    "text": "institution of proceedings or action. [Ponnammah v. Arumugam (8 N.L.R. 223 at 226), Silva v.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.298896789550781,
+      9.476058959960938,
+      9.738547325134277,
+      10.199999809265137,
+      10.216536521911621,
+      10.24138355255127,
+      10.300000190734863,
+      10.507657051086426,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.1,
+      148.05,
+      528.64,
+      162.2
+    ],
+    "text": "Nona Hamine (10 N.L.R. 44), Ponnamma v. Weerasuriya (11 N.L.R. 217), Silva v. Fernando et al",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.298896789550781,
+      9.476058959960938,
+      9.738547325134277,
+      10.116668701171875,
+      10.199999809265137,
+      10.300000190734863,
+      10.311935424804688,
+      10.397635459899902
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.3,
+      169.64,
+      525.77,
+      183.79
+    ],
+    "text": "(15 N.L.R. 499), Jamal Mohideen & Co. v. Meera Saibo et al (22 N.L.R. 268 at 272), Shariff et al v.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.118348121643066,
+      9.688841819763184,
+      10.06972599029541,
+      10.1633939743042,
+      10.199999809265137,
+      10.21493911743164,
+      10.231925010681152,
+      10.259923934936523,
+      10.300000190734863,
+      10.311935424804688,
+      10.533546447753906
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.11,
+      191.25,
+      527.98,
+      205.4
+    ],
+    "text": "Marikkar et al (27 N.L.R. 349), Eminona v. Mohideen (32 N.L.R. 145), De Silva et al v. Goonetilleke",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.476058959960938,
+      10.088187217712402,
+      10.11768627166748,
+      10.169169425964355,
+      10.199999809265137,
+      10.210494041442871,
+      10.259923934936523,
+      10.300000190734863,
+      10.311935424804688,
+      10.397635459899902
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.08,
+      212.84,
+      526.96,
+      226.99
+    ],
+    "text": "et al (32 N.L.R. 217), De Silva v. Edirisuriya (41 N.L.R. 457), Lenorahamy v. Abraham (43 N.L.R. 68),",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.298896789550781,
+      9.476058959960938,
+      9.663322448730469,
+      10.065889358520508,
+      10.06972599029541,
+      10.088187217712402,
+      10.199999809265137,
+      10.259923934936523,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.11,
+      233.93,
+      527.86,
+      248.6
+    ],
+    "text": "Kader Mohideen & Co. Ltd., v. Gany ( 60 N.L.R. 16), Abayadeera and 162 others v. Dr. Stanley",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.476058959960938,
+      9.688841819763184,
+      10.108640670776367,
+      10.116668701171875,
+      10.199999809265137,
+      10.255249977111816,
+      10.282835960388184,
+      10.300000190734863,
+      11.073504447937012
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.58,
+      256.05,
+      527.19,
+      270.2
+    ],
+    "text": "Wijesundera, Vice Chancellor, University of Colombo and another (1983) 2 Sri. L. R. 267), Talagune",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      8.986555099487305,
+      9.046927452087402,
+      10.199999809265137,
+      10.236634254455566,
+      10.254047393798828,
+      10.255249977111816,
+      10.300000190734863,
+      11.041350364685059
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.04,
+      277.64,
+      528.54,
+      291.79
+    ],
+    "text": "v. De Livera (1997) 1 Sri. L. R. 253, Kalamazoo Industries Ltd. and others v. Minister of Labour and",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.164510726928711,
+      9.191668510437012,
+      9.298896789550781,
+      9.988813400268555,
+      10.199999809265137,
+      10.248584747314453,
+      10.300000190734863,
+      11.041350364685059
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.34,
+      299.25,
+      528.07,
+      313.4
+    ],
+    "text": "Vocational Training and others (1998) 1 Sri. L. R. 235, Lalwani v. Indian Overseas Bank (1998) 3",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      8.986555099487305,
+      9.046927452087402,
+      9.298896789550781,
+      10.199999809265137,
+      10.254047393798828,
+      10.300000190734863,
+      10.323403358459473
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.87,
+      320.84,
+      527.44,
+      334.99
+    ],
+    "text": "Sri. L. R. 197, Jayaratne v. Jayaratne and another (2002) 3 Sri. L. R. 331, Sithy Makeena and others",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      8.986555099487305,
+      9.046927452087402,
+      9.476058959960938,
+      10.165268898010254,
+      10.199999809265137,
+      10.236634254455566,
+      10.254047393798828,
+      10.255249977111816,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.0,
+      342.21,
+      284.42,
+      356.36
+    ],
+    "text": "v. Kuraisha and others (2006) 2 Sri. L. R. 341].",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.164510726928711,
+      9.191668510437012,
+      10.199999809265137,
+      10.254047393798828,
+      10.255249977111816,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.24,
+      371.72,
+      527.75,
+      385.87
+    ],
+    "text": "However, it is not an immutable principle and courts have recognized certain exceptions to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.1607084274292,
+      10.300000190734863,
+      10.316237449645996,
+      10.36916732788086,
+      10.571520805358887,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.67,
+      393.08,
+      126.92,
+      407.23
+    ],
+    "text": "general rule.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.06,
+      422.61,
+      528.48,
+      436.76
+    ],
+    "text": "In Sabapathipil/ai et al v. Vaithialingam (40 N.L.R. 107) it was held that a trustee whose term of",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.230188369750977,
+      9.298896789550781,
+      10.1633939743042,
+      10.199999809265137,
+      10.300000190734863,
+      10.30514907836914,
+      10.311935424804688,
+      10.397635459899902,
+      10.439356803894043,
+      10.52210521697998,
+      10.798869132995605
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.9,
+      444.21,
+      527.51,
+      458.36
+    ],
+    "text": "office expired during the pendency of an action brought by him, is not entitled to continue the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.968826293945312,
+      10.1607084274292,
+      10.300000190734863,
+      10.414117813110352,
+      10.451091766357422,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.65,
+      465.05,
+      527.02,
+      479.72
+    ],
+    "text": "action. Similar approach was taken in Appusinno v. Balasuriya (16 N.L.R. 385) by Ennis J. when",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.298896789550781,
+      10.199999809265137,
+      10.209905624389648,
+      10.270458221435547,
+      10.300000190734863,
+      10.311929702758789
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.05,
+      487.16,
+      527.06,
+      501.31
+    ],
+    "text": "he held that the Buddhist Temporalities Ordinance gave no power to appoint a provisional",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.12709903717041,
+      10.300000190734863,
+      10.333745002746582,
+      10.39139461517334,
+      10.49338436126709
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.47,
+      508.77,
+      527.71,
+      522.92
+    ],
+    "text": "trustee when the office became vacant by expiration of time, that the plaintiff had no status to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.346395492553711,
+      10.414117813110352,
+      10.456954002380371,
+      10.49338436126709,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.64,
+      530.36,
+      527.45,
+      544.51
+    ],
+    "text": "continue the action the moment he ceased to be trustee and that the principle that a case must",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.148130416870117,
+      10.300000190734863,
+      10.333745002746582,
+      10.392534255981445,
+      10.456954002380371,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.81,
+      551.72,
+      470.98,
+      565.87
+    ],
+    "text": "be decided as at the time of the institution of the suit cannot be applied to this case.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.19809627532959,
+      10.201428413391113,
+      10.300000190734863,
+      10.315488815307617,
+      10.333745002746582,
+      10.467439651489258,
+      10.57585620880127,
+      10.627105712890625,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.06,
+      581.25,
+      527.32,
+      595.4
+    ],
+    "text": "In Thangavadivel v. Inthiravathy (53 N.L.R. 369) where proceedings by way of summary",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.080101013183594,
+      9.298896789550781,
+      10.116668701171875,
+      10.199999809265137,
+      10.210294723510742,
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.8,
+      602.84,
+      527.07,
+      616.99
+    ],
+    "text": "procedure under section 10 of the Jaffna Matrimonial Rights and Inheritance Ordinance were",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.8,
+      624.2,
+      527.57,
+      638.35
+    ],
+    "text": "instituted by a wife against her husband for the return of certain jewelry, but while the inquiry",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.338129997253418,
+      10.518287658691406,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.52,
+      645.8,
+      526.92,
+      659.95
+    ],
+    "text": "was proceeding, a decree absolute was entered in a divorce case dissolving the marriage between",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.209098815917969,
+      10.287993431091309,
+      10.300000190734863,
+      10.333745002746582
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.23,
+      666.91,
+      527.25,
+      681.07
+    ],
+    "text": "the spouses, it was held that the plaintiff, having ceased to be the wife of the defendant during",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.326865196228027,
+      10.333745002746582,
+      10.456954002380371,
+      10.571520805358887,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.23,
+      688.29,
+      527.36,
+      702.44
+    ],
+    "text": "the pendency of the inquiry, lost her status to continue the proceedings and the general rule that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.325418472290039,
+      10.333745002746582,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.23,
+      709.89,
+      527.51,
+      724.04
+    ],
+    "text": "the claims of the litigants are to be ascertained as at the commencement of the action would not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.300000190734863,
+      10.333745002746582,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      268.84,
+      747.8,
+      324.98,
+      761.95
+    ],
+    "text": "Page 7 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.85,
+      104.84,
+      525.99,
+      118.99
+    ],
+    "text": "be applicable in such a case. In Mariam Nurban Hussain Teyabally v. Hon. R. Premadasa and two",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.344368934631348,
+      10.084853172302246,
+      10.154726028442383,
+      10.252189636230469,
+      10.300000190734863,
+      10.310344696044922,
+      10.312492370605469
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.41,
+      126.45,
+      525.37,
+      140.6
+    ],
+    "text": "others [S.c. No. 69/92, S.C.M. 05.11.1993] G.P.S. De Silva c.J. held (at page 5) that the general",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.025030136108398,
+      10.03042221069336,
+      10.213839530944824,
+      10.25344467163086,
+      10.262030601501465,
+      10.300000190734863,
+      10.456954002380371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.6,
+      148.04,
+      525.46,
+      162.19
+    ],
+    "text": "principle of law that the right of parties are determined as at the date of action has no application",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.184502601623535,
+      10.300000190734863,
+      10.333745002746582,
+      10.414117813110352,
+      10.439356803894043,
+      10.57585620880127,
+      10.586854934692383
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.36,
+      169.4,
+      524.31,
+      183.55
+    ],
+    "text": "in the statutory context. In Master Divers (Pvt) Ltd. v. Karunaratne and others [CA (PHC) APN",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.344368934631348,
+      9.855718612670898,
+      9.978327751159668,
+      10.038890838623047,
+      10.300000190734863,
+      10.305398941040039,
+      10.347291946411133
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.47,
+      191.01,
+      525.35,
+      205.16
+    ],
+    "text": "140/2012, C.A.M. 09.08.2018]1 held that when entering judgment in a foreign currency the rupee",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.272713661193848,
+      10.300000190734863,
+      10.456954002380371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.05,
+      212.61,
+      525.3,
+      226.76
+    ],
+    "text": "value at the exchange rate prevailing at the date of payment together with legal interest should",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.32761287689209,
+      10.333745002746582,
+      10.388867378234863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.21,
+      233.96,
+      524.68,
+      248.11
+    ],
+    "text": "also be entered therein. Furthermore, I have also held in Abeywickrema and others v. Mayor,",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.344368934631348,
+      10.084853172302246,
+      10.300000190734863,
+      10.305398941040039
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.19,
+      255.81,
+      525.83,
+      269.96
+    ],
+    "text": "Badulla Municipal Council and others [CA(PHC) 111/2011; C.A.M. 22.02.2019] that where the",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.125980377197266,
+      10.300000190734863,
+      10.305398941040039,
+      10.456954002380371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.36,
+      277.16,
+      525.33,
+      291.31
+    ],
+    "text": "rights of the parties have changed as a result of legal proceedings, the general principle has no",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.184502601623535,
+      10.300000190734863,
+      10.333745002746582,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      63.97,
+      298.76,
+      121.29,
+      312.91
+    ],
+    "text": "application.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.28,
+      328.04,
+      525.2,
+      342.19
+    ],
+    "text": "In the instant case the exceptions do not apply and therefore I agree with the learned Presidents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.154726028442383,
+      10.209098815917969,
+      10.300000190734863,
+      10.36916732788086,
+      10.388867378234863,
+      10.414117813110352
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.16,
+      349.65,
+      525.77,
+      363.8
+    ],
+    "text": "Counsel that the provisions this Court must consider in its deliberation of the preliminary",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043,
+      10.456954002380371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      63.97,
+      371.25,
+      452.19,
+      385.4
+    ],
+    "text": "objection is the relevant provisions as they stood in 2008 which reads as follows:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      9.775232315063477,
+      9.830814361572266,
+      10.300000190734863,
+      10.333745002746582
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.98,
+      400.99,
+      525.09,
+      415.15
+    ],
+    "text": "\"61A. Subject to the provisions of paragraphs (1), (2), (3), (4) and (5) of Article 126, no",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.279580116271973,
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.52,
+      422.37,
+      524.46,
+      436.52
+    ],
+    "text": "court or tribunal shall have power or jurisdiction to inquire into, or pronounce upon or in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.272713661193848,
+      10.300000190734863,
+      10.378748893737793,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.53,
+      443.96,
+      525.02,
+      458.11
+    ],
+    "text": "any manner call in question any order or decision made by the Commission, a Committee,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.378748893737793,
+      10.414117813110352
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.54,
+      465.32,
+      524.38,
+      479.47
+    ],
+    "text": "or any public officer, in pursuance of any power or duty conferred or imposed on such",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.263786315917969,
+      10.285189628601074,
+      10.300000190734863,
+      10.378748893737793,
+      10.439356803894043,
+      10.507657051086426
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.49,
+      486.93,
+      525.57,
+      501.08
+    ],
+    "text": "Commission, or delegated to a Committee or public officer, under this Chapter or under",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.378748893737793,
+      10.49338436126709
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.53,
+      508.04,
+      174.43,
+      522.19
+    ],
+    "text": "any other law.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.37572193145752
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.74,
+      537.56,
+      524.07,
+      551.71
+    ],
+    "text": "\"155C(1) Subject to the jurisdiction conferred on the Supreme Court under paragraph (1)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.171954154968262,
+      10.300000190734863,
+      10.333745002746582,
+      10.75911808013916
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.3,
+      559.16,
+      525.16,
+      573.31
+    ],
+    "text": "of Article 126, no court or tribunal shall have the power or jurisdiction to inquire into, or",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.334193229675293,
+      10.378748893737793,
+      10.507657051086426,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.68,
+      580.76,
+      524.99,
+      594.91
+    ],
+    "text": "pronounce upon or in any manner call in question any order or decision made by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.272713661193848,
+      10.300000190734863,
+      10.307297706604004,
+      10.378748893737793,
+      10.507657051086426
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.49,
+      602.36,
+      524.69,
+      616.51
+    ],
+    "text": "Commission or a Committee, in pursuance of any power or duty, conferred or imposed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.272713661193848,
+      10.300000190734863,
+      10.378748893737793,
+      10.507657051086426,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.29,
+      623.96,
+      481.32,
+      638.11
+    ],
+    "text": "on such Commission or Committee under this Chapter or under any other law.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.32711410522461,
+      10.378748893737793,
+      10.507657051086426
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      266.43,
+      746.85,
+      322.31,
+      761.0
+    ],
+    "text": "Page 8 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.399999618530273,
+      9.67264461517334,
+      10.300000190734863,
+      10.30109977722168
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.31,
+      104.89,
+      213.14,
+      119.28
+    ],
+    "text": "Article 61A of the Constitution",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.628804206848145
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      64.05,
+      134.13,
+      525.2,
+      148.28
+    ],
+    "text": "In Atapattu v. People's Bank [(1997) 1 SrLL.R. 208] the Supreme Court held that the jurisdiction",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.298896789550781,
+      9.989572525024414,
+      10.143104553222656,
+      10.199999809265137,
+      10.269513130187988,
+      10.300000190734863,
+      10.456954002380371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.74,
+      155.72,
+      525.93,
+      169.87
+    ],
+    "text": "of the Court of Appeal set out in Article 140 of the Constitution can only be ousted by a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.439356803894043,
+      10.462271690368652,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.72,
+      177.08,
+      486.31,
+      191.23
+    ],
+    "text": "constitutional provision. Article 61A of the Constitution is an example of such an ouster.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.1607084274292,
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.29,
+      206.84,
+      524.59,
+      220.99
+    ],
+    "text": "The learned President's Counsel for the Petitioner submits that ouster clauses ought to be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.201428413391113,
+      10.2755708694458,
+      10.300000190734863,
+      10.456954002380371,
+      10.49338436126709,
+      10.518287658691406
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.88,
+      228.2,
+      524.9,
+      242.35
+    ],
+    "text": "restrictively approached particularly in situations where it is alleged that fundamental rights have",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.272713661193848,
+      10.300000190734863,
+      10.456954002380371,
+      10.571520805358887
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.88,
+      250.03,
+      525.64,
+      264.19
+    ],
+    "text": "been infringed and relief is sought to protect a fundamental right as is the case in the instant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      9.968826293945312,
+      10.209098815917969,
+      10.300000190734863,
+      10.333745002746582,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.89,
+      271.4,
+      524.68,
+      285.55
+    ],
+    "text": "matter. He has cited several local and foreign judgments in support of his contention and in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.070646286010742,
+      10.184502601623535,
+      10.272713661193848,
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.88,
+      292.76,
+      524.69,
+      306.91
+    ],
+    "text": "particular Anthony Leroy Austin v. The Attorney General of Barbados (No. 2161 of 2003) and",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.298896789550781,
+      10.061306953430176,
+      10.199999809265137,
+      10.253857612609863,
+      10.269513130187988,
+      10.300000190734863,
+      10.439356803894043,
+      10.912186622619629
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.47,
+      314.37,
+      509.73,
+      328.52
+    ],
+    "text": "Public Service United Nurses Union v. Minister of Public Administration [(1988) 1 SrLL.R. 229].",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.298896789550781,
+      10.104341506958008,
+      10.199999809265137,
+      10.248584747314453,
+      10.300000190734863,
+      11.041350364685059
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.29,
+      343.88,
+      525.08,
+      358.03
+    ],
+    "text": "The approach this Court should take to the constitutional ouster in Article 61A of the Constitution",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.2755708694458,
+      10.300000190734863,
+      10.333745002746582,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.6,
+      365.48,
+      524.74,
+      379.63
+    ],
+    "text": "was dealt with in great detail by Marsoof J. in Ratnasiri and others v. Ellawala and others [(2004)",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.298896789550781,
+      10.199999809265137,
+      10.255249977111816,
+      10.287993431091309,
+      10.300000190734863,
+      10.388867378234863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.75,
+      387.09,
+      238.46,
+      401.24
+    ],
+    "text": "2 SrLL.R. 180 at 190] where he held:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.026313781738281,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.5,
+      416.37,
+      525.11,
+      430.52
+    ],
+    "text": "\"In view of the elaborate scheme put in place by the Seventeenth Amendment to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.49338436126709,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.25,
+      437.72,
+      524.35,
+      451.87
+    ],
+    "text": "Constitution to resolve all matters relating to the public service, this Court would be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.201428413391113,
+      10.300000190734863,
+      10.49338436126709,
+      10.75911808013916
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.29,
+      459.32,
+      525.15,
+      473.47
+    ],
+    "text": "extremely reluctant to exercise any supervisory jurisdiction in the sphere of the public",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.333745002746582,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.31,
+      480.93,
+      524.45,
+      495.08
+    ],
+    "text": "service ... 1 have no difficulty in agreeing ... that this Court must apply the preclusive clause",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.600000381469727,
+      9.711751937866211,
+      10.300000190734863,
+      10.456954002380371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.29,
+      502.53,
+      525.11,
+      516.68
+    ],
+    "text": "contained in Article 61A of the Constitution in such a manner as to ensure that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.300000190734863,
+      10.456954002380371,
+      10.49338436126709,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      98.05,
+      524.12,
+      524.99,
+      538.27
+    ],
+    "text": "elaborate scheme formulated by the Seventeenth Amendment is given effect to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.968826293945312,
+      10.300000190734863,
+      10.333745002746582,
+      10.49338436126709
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.9,
+      545.48,
+      170.55,
+      559.63
+    ],
+    "text": "fullest extent.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.83,
+      574.76,
+      524.44,
+      588.91
+    ],
+    "text": "Furthermore, the ouster clause in Article 61A of the Constitution does not insulate the PSC from",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.289368629455566,
+      10.300000190734863,
+      10.333745002746582,
+      10.36916732788086,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.49,
+      596.36,
+      524.83,
+      610.51
+    ],
+    "text": "all forms of judicial supervision as the fundamental rights jurisdiction vested in the Supreme",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.300000190734863,
+      10.414117813110352,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.45,
+      617.72,
+      524.71,
+      631.87
+    ],
+    "text": "Court by Article 126 of the Constitution is preserved in all its vigour and any party whose",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.968826293945312,
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.1,
+      639.32,
+      525.25,
+      653.47
+    ],
+    "text": "fundamental rights are infringed or is in imminent danger of infringement has recourse to that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.184502601623535,
+      10.300000190734863,
+      10.318683624267578,
+      10.378748893737793,
+      10.39139461517334,
+      10.49338436126709,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      63.03,
+      660.93,
+      121.84,
+      675.08
+    ],
+    "text": "jurisdiction.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      266.43,
+      747.09,
+      322.52,
+      761.24
+    ],
+    "text": "Page 9 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.67264461517334,
+      10.300000190734863,
+      10.30109977722168
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.49,
+      103.89,
+      526.51,
+      118.04
+    ],
+    "text": "The learned President's Counsel further submits that the scope of the ouster clause is limited to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.201883316040039,
+      10.300000190734863,
+      10.333745002746582,
+      10.406697273254395,
+      10.456954002380371,
+      10.49338436126709,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.27,
+      125.48,
+      526.31,
+      139.63
+    ],
+    "text": "the preclusion of an evaluation of merits of the decision and not to the preclusion of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.044583320617676,
+      10.300000190734863,
+      10.333745002746582,
+      10.451091766357422,
+      10.57585620880127,
+      10.627105712890625,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.23,
+      146.85,
+      526.52,
+      161.0
+    ],
+    "text": "jurisdiction of this Court to review whether the decision is arbitrary, violates natural justice",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.300000190734863,
+      10.333745002746582,
+      10.351122856140137,
+      10.439356803894043,
+      10.49338436126709
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.45,
+      168.21,
+      525.55,
+      182.36
+    ],
+    "text": "and/or violates constitutional principles. I am unable to accept this position as doing so would be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      10.065889358520508,
+      10.201428413391113,
+      10.290745735168457,
+      10.300000190734863,
+      10.325518608093262,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.45,
+      189.8,
+      526.47,
+      203.95
+    ],
+    "text": "a frontal attack on a clear and precise constitutional ouster of the jurisdiction of this Court. A",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863,
+      10.439356803894043,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.44,
+      211.41,
+      525.94,
+      225.56
+    ],
+    "text": "court cannot do indirectly what it is prohibited from doing directly [Bandaranaike v. Weeraratne",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.300000190734863,
+      10.324769973754883,
+      10.358136177062988,
+      10.798869132995605
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.43,
+      232.76,
+      245.32,
+      246.91
+    ],
+    "text": "and Others (1981) 1 SrLL.R. 10 at 16].",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.181771278381348,
+      10.300000190734863,
+      10.315488815307617
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.76,
+      262.29,
+      525.81,
+      276.44
+    ],
+    "text": "I hold that the writ of mandamus sought by the Petitioner against the members of the PSC cannot",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.357420921325684,
+      10.300000190734863,
+      10.333745002746582,
+      10.39139461517334,
+      10.57585620880127,
+      10.647005081176758
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.61,
+      284.12,
+      335.75,
+      298.27
+    ],
+    "text": "be maintained in view of Article 61A of the Constitution.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.201428413391113,
+      10.300000190734863,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.03,
+      313.11,
+      234.79,
+      327.74
+    ],
+    "text": "Article 155C (1) of the Constitution",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-Oblique",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.401846885681152,
+      10.800000190734863,
+      11.600205421447754
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.01,
+      342.68,
+      525.4,
+      356.83
+    ],
+    "text": "The wording in Article 155C (1) of the Constitution closely follows the wording in Article 61A and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.2755708694458,
+      10.300000190734863,
+      10.333745002746582,
+      10.414117813110352,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.36,
+      364.28,
+      526.57,
+      378.43
+    ],
+    "text": "hence the application of Article 61A and its ambit as dealt in Ratnasiri and others v. Ellawala and",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.350594520568848,
+      9.703953742980957,
+      10.300000190734863,
+      10.305398941040039,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.17,
+      385.89,
+      526.12,
+      400.04
+    ],
+    "text": "others (supra) is instructive in the application of Article 155C (1) of the Constitution to the instant",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.968826293945312,
+      10.300000190734863,
+      10.333745002746582,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.36,
+      407.49,
+      101.58,
+      421.64
+    ],
+    "text": "matter.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.53,
+      436.76,
+      526.21,
+      450.91
+    ],
+    "text": "In this context it is important to consider Article 155G(1)(a) of the Constitution which states that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.968826293945312,
+      9.989572525024414,
+      10.300000190734863,
+      10.333745002746582,
+      10.373189926147461,
+      10.39139461517334,
+      10.57585620880127,
+      10.75911808013916,
+      10.798869132995605
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.03,
+      458.37,
+      524.93,
+      472.52
+    ],
+    "text": "the appointment and promotion of police officers other than the Inspector General of Police is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.775232315063477,
+      10.300000190734863,
+      10.32711410522461,
+      10.333745002746582,
+      10.335738182067871,
+      10.57585620880127,
+      10.710567474365234
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.05,
+      479.72,
+      525.83,
+      493.87
+    ],
+    "text": "vested in the NPC. The Petitioner has sought a writ of mandamus compelling members of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.922585487365723,
+      10.184502601623535,
+      10.272713661193848,
+      10.300000190734863,
+      10.30109977722168,
+      10.439356803894043,
+      10.509617805480957
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.35,
+      501.32,
+      525.16,
+      515.47
+    ],
+    "text": "NPC to promote the Petitioner to the rank of Assistant Superintendent of Police with effect from",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.7738618850708,
+      10.300000190734863,
+      10.326865196228027,
+      10.333745002746582,
+      10.49338436126709,
+      10.57585620880127,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.23,
+      521.95,
+      525.32,
+      537.08
+    ],
+    "text": "1st January 2003. I hold that this Court is precluded from granting such relief in view of Article",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.800099849700928,
+      9.775232315063477,
+      10.300000190734863,
+      10.324769973754883,
+      10.439356803894043,
+      10.456954002380371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      64.23,
+      544.28,
+      201.87,
+      558.43
+    ],
+    "text": "155C (1) of the Constitution.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.279580116271973,
+      10.28343677520752,
+      10.300000190734863,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      63.53,
+      573.81,
+      526.03,
+      587.96
+    ],
+    "text": "The Petitioner has in the written submissions alternatively moved Court to refer this matter to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.184502601623535,
+      10.2755708694458,
+      10.300000190734863,
+      10.315488815307617,
+      10.333745002746582,
+      10.445374488830566,
+      10.49338436126709,
+      10.627105712890625
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      63.55,
+      595.4,
+      525.52,
+      609.55
+    ],
+    "text": "the Supreme Court as per Article 126(3) of the Constitution as an infringement of the Petitioner's",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.703953742980957,
+      9.830814361572266,
+      10.1607084274292,
+      10.300000190734863,
+      10.333745002746582,
+      10.439356803894043,
+      10.57585620880127
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      63.58,
+      616.76,
+      416.48,
+      630.91
+    ],
+    "text": "fundamental rights under Article 126(2) of the Constitution has occurred.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.10332202911377,
+      10.300000190734863,
+      10.439356803894043
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      264.27,
+      746.66,
+      325.8,
+      760.64
+    ],
+    "text": "Page 10 of 11",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.14156436920166,
+      9.199999809265137,
+      9.603070259094238,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      65.0,
+      104.26,
+      525.38,
+      118.55
+    ],
+    "text": "In Shanthi Chandrasekaram v. O.B. Wijethunga and Others [(1992) 2 Sri. L. R. 293 at 297]",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.208890914916992,
+      9.344368934631348,
+      9.975177764892578,
+      10.203901290893555,
+      10.300000190734863,
+      10.30965805053711,
+      10.392147064208984,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      65.03,
+      125.21,
+      157.33,
+      139.9
+    ],
+    "text": "Fernando J. stated:",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.311929702758789,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.68,
+      155.38,
+      526.74,
+      169.15
+    ],
+    "text": "\"Article 126(1) confers sole and exclusive jurisdiction in respect of infringements of",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.889792442321777,
+      10.0,
+      10.070650100708008
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.09,
+      176.98,
+      525.8,
+      190.75
+    ],
+    "text": "fundamental rights, and Article 126(2) prescribes how that jurisdiction may be invoked.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.12,
+      198.82,
+      526.0,
+      212.59
+    ],
+    "text": "Article 126(3) is not an extension of or exception to those provisions; if a person who",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.429634094238281,
+      9.973163604736328,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.26,
+      220.41,
+      525.57,
+      234.18
+    ],
+    "text": "alleges that his fundamental rights have been violated fails to comply with them, he",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.77241039276123,
+      9.95429515838623,
+      10.0,
+      10.046541213989258
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.24,
+      241.77,
+      525.26,
+      255.54
+    ],
+    "text": "cannot smuggle that question into a writ application in which relief is claimed on",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.259751319885254,
+      9.889792442321777,
+      9.955852508544922,
+      10.0,
+      10.050422668457031,
+      10.106879234313965
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.24,
+      262.65,
+      526.65,
+      276.94
+    ],
+    "text": "different facts and grounds, and thereby seek a decision from this Court. On the other",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.0,
+      10.108772277832031,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.4,
+      284.5,
+      525.24,
+      298.79
+    ],
+    "text": "hand, there could be transactions or situations in which, on virtually the same facts and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.366645812988281,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.03,
+      306.09,
+      526.52,
+      320.38
+    ],
+    "text": "grounds, a person appears entitled to claim relief from the Court of Appeal through a writ",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.560511589050293,
+      10.627071380615234,
+      10.678568840026855
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.25,
+      327.7,
+      525.61,
+      341.99
+    ],
+    "text": "application under Article 140 or 141, and from this Court by a fundamental rights",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.24,
+      349.29,
+      524.83,
+      363.58
+    ],
+    "text": "application under Article 126. Since those provisions do not permit the joinder of such",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.27403736114502,
+      10.399999618530273,
+      10.408446311950684,
+      10.489911079406738,
+      10.501702308654785
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.24,
+      370.65,
+      526.3,
+      384.94
+    ],
+    "text": "claims, the aggrieved party would have to institute two different proceedings, in two",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.322460174560547,
+      10.399999618530273,
+      10.54419994354248,
+      10.58814811706543,
+      10.659414291381836
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.26,
+      392.26,
+      525.18,
+      406.55
+    ],
+    "text": "different courts, in respect of virtually identical \"causes of action\" arising from the same",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.627071380615234
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.6,
+      414.1,
+      524.89,
+      428.39
+    ],
+    "text": "transaction, unless there is express provision permitting joinder. The prevention, in such",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.822569847106934,
+      10.395598411560059,
+      10.398799896240234,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      99.0,
+      435.45,
+      526.9,
+      449.74
+    ],
+    "text": "circumstances, of a multiplicity of suits (with their known concomitants) is the object of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.822569847106934,
+      10.399999618530273,
+      10.479248046875,
+      10.627071380615234
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.89,
+      457.05,
+      262.04,
+      471.34
+    ],
+    "text": "Article 126(3}.\" (emphasis added)",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      64.27,
+      478.65,
+      282.93,
+      492.94
+    ],
+    "text": "I refuse the said application of the Petitioner.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.398149490356445,
+      10.399999618530273,
+      10.627071380615234
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      63.77,
+      507.93,
+      525.44,
+      522.22
+    ],
+    "text": "The preliminary objections raised on behalf of the Respondents are upheld and the application",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.325281143188477,
+      10.399999618530273,
+      10.762434005737305
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      64.22,
+      529.29,
+      165.98,
+      543.58
+    ],
+    "text": "dismissed with costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.439176559448242
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      346.51,
+      647.61,
+      488.13,
+      661.38
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.933881759643555,
+      10.0,
+      10.070650100708008
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      264.52,
+      748.05,
+      326.15,
+      760.97
+    ],
+    "text": "Page 11 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.184581756591797,
+      9.399999618530273,
+      9.57109260559082
+    ]
+  }
+]
