@@ -1,0 +1,3259 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      82.72,
+      102.08,
+      511.13,
+      120.92
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      206.21,
+      121.16,
+      386.92,
+      140.0
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      87.91,
+      303.11,
+      207.96,
+      338.94
+    ],
+    "text": "C.A.Application No: CN04/2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.0,
+      13.665593147277832
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      87.59,
+      350.62,
+      244.69,
+      367.96
+    ],
+    "text": "High Court ofTrincomalee",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.0,
+      13.104728698730469
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      87.7,
+      380.14,
+      267.53,
+      397.48
+    ],
+    "text": "Case No: HCEP/2142/2003 (T)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.732309341430664,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      269.06,
+      787.07,
+      326.73,
+      800.26
+    ],
+    "text": "Page 1 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.560519218444824,
+      9.600000381469727,
+      10.01186466217041
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      343.71,
+      178.55,
+      529.16,
+      252.04
+    ],
+    "text": "In the matter of an Appeal made in terms of Section 331 of the Code of Criminal Procedure Act No. 15 of 1979.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.534672737121582,
+      13.0,
+      13.13301944732666,
+      13.780094146728516,
+      13.975592613220215
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      343.03,
+      292.67,
+      518.19,
+      328.72
+    ],
+    "text": "Democratic Socialist Republic of Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.00584888458252,
+      13.975592613220215
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      446.61,
+      339.99,
+      529.24,
+      358.42
+    ],
+    "text": "Complainant",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      343.05,
+      369.34,
+      364.58,
+      386.68
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.11,
+      398.14,
+      488.12,
+      415.48
+    ],
+    "text": "1. Selwam Lingarathnam",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.357366561889648,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      341.92,
+      426.59,
+      513.43,
+      443.93
+    ],
+    "text": "2. Thangarasa Sivakantharasa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.96455192565918,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      476.25,
+      455.55,
+      527.8,
+      473.98
+    ],
+    "text": "Acussed",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.01,
+      513.19,
+      485.7,
+      532.03
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      337.57,
+      570.59,
+      495.06,
+      587.93
+    ],
+    "text": "Thangarasa Sivakantharasa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      337.26,
+      598.88,
+      525.16,
+      635.44
+    ],
+    "text": "Presently in remand at Welikada Prison, Colombo.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      411.45,
+      646.7,
+      527.9,
+      665.13
+    ],
+    "text": "Accused Appellant",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      337.29,
+      675.34,
+      359.36,
+      692.68
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.85,
+      703.78,
+      463.88,
+      721.12
+    ],
+    "text": "The Attorney General",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.098923683166504
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      452.81,
+      732.03,
+      527.93,
+      750.46
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.98,
+      78.05,
+      133.1,
+      95.93
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.9,
+      130.6,
+      143.84,
+      148.48
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.29,
+      236.08,
+      161.88,
+      253.96
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.42667293548584
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.95,
+      271.0,
+      233.62,
+      288.88
+    ],
+    "text": "WRITTEN SUBMISSIONS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.54,
+      376.49,
+      164.47,
+      394.37
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.54818058013916
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.95,
+      451.63,
+      262.41,
+      470.47
+    ],
+    "text": "K.K. WICKREMASINGHE, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.300000190734863,
+      13.199999809265137,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.34,
+      77.61,
+      441.73,
+      112.84
+    ],
+    "text": "K. K. Wickremasinghe, J. K. Priyantha Fernando, 1.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.841302871704102,
+      13.345840454101562,
+      13.399999618530273,
+      14.168798446655273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.0,
+      129.88,
+      533.41,
+      183.39
+    ],
+    "text": "AAL K.S. Ratnavale with AAL Suranga Bandara and G. Ranitha for the Accused-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.338006973266602,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.98,
+      200.44,
+      496.52,
+      218.32
+    ],
+    "text": "H.I. Pieris DSG for the Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.438794136047363
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.32,
+      235.72,
+      359.83,
+      253.6
+    ],
+    "text": "26.08.2019",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.62,
+      270.64,
+      533.97,
+      359.08
+    ],
+    "text": "Final written submissions for the Accused-Appellant - On 05.11.2019 Final written submissions for the Respondent- On 30.09.2019 and further written submissions were not filed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.1854829788208,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      292.54,
+      376.49,
+      359.23,
+      394.37
+    ],
+    "text": "07.07.2020",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.4,
+      504.64,
+      531.06,
+      522.52
+    ],
+    "text": "The Accused-Appellant (hereinafter referred to as the Appellant) has filed this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.73,
+      529.12,
+      531.66,
+      547.0
+    ],
+    "text": "appeal seeking to set aside the conviction of murder and the sentence of death",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.53,
+      553.24,
+      530.64,
+      571.12
+    ],
+    "text": "penalty imposed on him by the Learned High Court Judge of Trincomalee in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.145227432250977,
+      13.399999618530273,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.75,
+      577.72,
+      250.1,
+      595.6
+    ],
+    "text": "case No. HCEP12142/2003(T).",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.639765739440918,
+      12.658458709716797,
+      13.100000381469727,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.04,
+      626.32,
+      531.06,
+      644.2
+    ],
+    "text": "The Accused-Appellant has been charged with the 1 st Accused on six charges",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.0,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.37,
+      650.8,
+      530.52,
+      668.68
+    ],
+    "text": "for the alleged offence of committing murder of six fishermen in Muthur, in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.76,
+      674.56,
+      530.69,
+      692.44
+    ],
+    "text": "year 1990. The 1 st Accused died pending the trial and the Appellant was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.167643547058105,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.03,
+      699.04,
+      530.9,
+      716.92
+    ],
+    "text": "convicted and sentenced to death by the High Court of Trincomalee. He has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.41,
+      723.16,
+      433.26,
+      741.04
+    ],
+    "text": "made this appeal against the aforesaid conviction and sentence.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273.03,
+      791.5,
+      331.11,
+      804.55
+    ],
+    "text": "Page 2 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.428278923034668,
+      9.5,
+      10.156842231750488
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.05,
+      80.21,
+      530.24,
+      135.53
+    ],
+    "text": "A preliminary objection was taken up by the.appellant that the accused had been indicted on a repealed Regulation and therefore the indictment is not in accordance with law.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.138039588928223,
+      13.199999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.59,
+      154.71,
+      529.63,
+      210.4
+    ],
+    "text": "The accused-appellant was charged on an indictment dated 2l.06.1996 and the Emergency Regulations dated 20.06.1989 on which he was charged had been rescinded by Regulations promulgate on 17.06.1993.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.65,
+      229.59,
+      529.6,
+      285.29
+    ],
+    "text": "Since the appellant was charged under Regulation 24(1) of the Emergency Regulations No. 1 of 1989, published under Gazette Extra Ordinary dated 2006.1989, I wish to draw the attention to the relevant regulation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.27007007598877,
+      13.399999618530273,
+      13.99048900604248,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.94,
+      304.47,
+      528.77,
+      341.45
+    ],
+    "text": "Regulation 24 (1) (b) of the Emergency Regulations No.1 of 1989 states as follows:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.99048900604248,
+      14.223967552185059
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.41,
+      361.63,
+      205.33,
+      378.48
+    ],
+    "text": "\"24(1) Any person who",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.91,
+      379.36,
+      529.82,
+      435.01
+    ],
+    "text": "(b) causes or attempts to cause death or injury to any other person with fire or any combustible matter or any explosive or corrosive substance or with any missile, weapon or instrument of any description",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.748855590820312,
+      13.800000190734863,
+      15.295830726623535
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.26,
+      455.23,
+      529.46,
+      472.08
+    ],
+    "text": "Shall be guilty of an offence and, notwithstanding anything in the Penal Code or",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.601725578308105,
+      13.720571517944336,
+      13.79854965209961,
+      13.800000190734863,
+      15.295830726623535
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.48,
+      473.95,
+      528.58,
+      509.52
+    ],
+    "text": "in these regulations shall, on conviction thereof before the High Court, be liable to suffer death or imprisonment of either description for life.\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.601725578308105,
+      13.748855590820312,
+      13.79854965209961,
+      13.800000190734863,
+      13.830915451049805,
+      15.295830726623535
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.01,
+      529.12,
+      528.92,
+      584.09
+    ],
+    "text": "In support of his argument the learned counsel has cited the case of Attorney General V. Francis (47 NLR 467). The case quoting Craie in his treatise on Statute Law (3rd Edition) at page 342, states as follows",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.173673629760742,
+      13.199999809265137,
+      13.230714797973633,
+      13.395599365234375,
+      13.399999618530273,
+      13.4640474319458,
+      13.99048900604248,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.12,
+      604.63,
+      529.4,
+      714.37
+    ],
+    "text": "\"As a general rule, and unless it contains some special provision to the contrary, after a temporary Act has expired no proceedings can be taken upon it, and it ceases to have any further effect. Therefore, offences committed against temporary Acts must be prosecuted and punished before the Act expires, and as soon as the Act expires, any proceedings which are being taken against a person will ipso facto terminate\"",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.800171852111816,
+      13.714886665344238,
+      13.748855590820312,
+      13.800000190734863,
+      13.80055046081543,
+      14.404845237731934
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      269.79,
+      793.92,
+      327.09,
+      807.11
+    ],
+    "text": "Page 3 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.477771759033203,
+      9.600000381469727,
+      10.01186466217041
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.48,
+      79.45,
+      446.77,
+      98.0
+    ],
+    "text": "It is noteworthy to draw the attention to the chronology of events.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.235721588134766,
+      13.600000381469727,
+      13.953532218933105,
+      14.094510078430176
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.38,
+      117.07,
+      531.19,
+      210.09
+    ],
+    "text": "The alleged date of the offence was 07.08.1990. Date of indictment IS 21.06.1996. Charges were based on the Emergency Regulation No.1 of 1989, published under Gazette Extra Ordinary dated 2006.1989. The said Regulation was rescinded in terms of Regulation No.57 published in Gazette Extra Ordinary 771/16 of 17.06.1993.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.399999618530273,
+      13.446433067321777,
+      13.459322929382324,
+      13.495196342468262,
+      13.600000381469727,
+      13.891721725463867,
+      14.086160659790039,
+      14.094510078430176,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73.77,
+      229.03,
+      530.53,
+      266.27
+    ],
+    "text": "As per the case Peter Fernando V. Abeysingbe (57 NLR 262) it had been held that:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.371785163879395,
+      13.527606964111328,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.09,
+      286.68,
+      531.25,
+      321.88
+    ],
+    "text": "\"When a penal statute is superseded by another statute a person cannot be prosecuted under the repealing statute for an offence which was committed",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.195720672607422,
+      13.5,
+      13.52268123626709,
+      13.679704666137695
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.76,
+      324.11,
+      529.9,
+      396.75
+    ],
+    "text": "when the repealed statute was in force. It is, however, open to the prosecution, by virtue of Section 6(3)(b) of the Interpretation Ordinance, to charge the offender under the relevant provisions of the earlier statute notwithstanding its subsequent repeal. \"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.038616180419922,
+      13.353555679321289,
+      13.453068733215332,
+      13.478683471679688,
+      13.5,
+      14.928293228149414
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.6,
+      434.96,
+      445.09,
+      453.1
+    ],
+    "text": "The section 6(3) of the Interpretation Ordinance states as follows:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.440767288208008,
+      13.600000381469727,
+      14.094510078430176
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.1,
+      472.4,
+      528.75,
+      527.43
+    ],
+    "text": "\"3) Whenever any written law repeals either in whole or part aformer written law, such repeal shall not, in the absence of any express provision to that effect, affect or be deemed to have affected-",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.353555679321289,
+      13.453068733215332,
+      13.5,
+      13.600000381469727,
+      13.690160751342773,
+      13.720253944396973,
+      15.128658294677734
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.61,
+      530.04,
+      515.12,
+      564.87
+    ],
+    "text": "(a) the past operation of or anything duly done or suffered under the repealed written law ;",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.245857238769531,
+      13.5,
+      15.128658294677734
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      180.26,
+      577.19,
+      498.28,
+      612.4
+    ],
+    "text": "(b) any offence committed, any right, liberty, or penalty acquired or incurred under the repealed written law ;",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.245857238769531,
+      13.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      179.91,
+      624.71,
+      523.3,
+      697.57
+    ],
+    "text": "(c) any action, proceeding, or thing pending or incompleted when the repealing written law comes into operation, but every such action, proceeding, or thing may be carried on and completed as if there had been no such repeal\"",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.255892753601074,
+      13.5,
+      13.537397384643555,
+      13.605636596679688,
+      13.683996200561523,
+      17.12017822265625
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.25,
+      725.84,
+      528.69,
+      743.98
+    ],
+    "text": "As the date of offence was on 07.08.1990 and the Emergency Regulations were",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.094510078430176
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.08,
+      746.04,
+      512.82,
+      762.65
+    ],
+    "text": "pv;ctinn 1\"111\"';\"0 tht;lt nPM\"H u,rhi f\"h u r-:::.c \";:IFt-PT\" 'If) ()h. 1 O~O <::Inri hpfAT\"P 17 ();; 10Q1. .... ~ ............. \"O --.. ........ 0 ~ ..... -. r-.... ..... -.................. ........ - ..... _ .. -\"'.\"\"\"\" ................ --... ... -..... -~ ....... -..... . 'oJ ... ... .., ....... .",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "HiddenHorzOCR",
+      "Times-Bold",
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.5000998973846436,
+      2.694093704223633,
+      2.717129945755005,
+      2.777005434036255,
+      3.100827932357788,
+      3.3063857555389404,
+      3.434285879135132,
+      3.6219849586486816,
+      4.791416168212891,
+      5.965567588806152,
+      5.974010467529297,
+      6.045180797576904,
+      6.109142780303955,
+      6.199999809265137,
+      6.313240051269531,
+      6.500100135803223,
+      6.621631145477295,
+      6.636565208435059,
+      6.779783725738525,
+      6.820923805236816,
+      6.837332725524902,
+      7.055346965789795,
+      7.301453590393066,
+      7.5774006843566895,
+      7.599999904632568,
+      7.75274133682251,
+      7.802511215209961,
+      7.870872974395752,
+      7.8927483558654785,
+      8.340888023376465,
+      8.446242332458496,
+      8.478961944580078,
+      8.548099517822266,
+      8.607710838317871,
+      8.699999809265137,
+      8.708895683288574,
+      8.797602653503418,
+      8.928213119506836,
+      9.080859184265137,
+      9.199999809265137,
+      9.316693305969238,
+      9.348481178283691,
+      9.385520935058594,
+      9.455726623535156,
+      9.550601959228516,
+      9.576951026916504,
+      9.591838836669922,
+      9.690885543823242,
+      10.0,
+      11.108840942382812,
+      12.6018648147583
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      270.51,
+      793.19,
+      327.81,
+      806.38
+    ],
+    "text": "Page 4 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.477771759033203,
+      9.600000381469727,
+      10.01186466217041
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.74,
+      79.12,
+      530.33,
+      134.44
+    ],
+    "text": "Hence it is evident that the law which was Jelevant when the offence had been committed under Regulation 24 (1) of the Emergency Regulations and thereby it is apparent that the preliminary objection taken by the appellant should reject.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.835979461669922,
+      13.138039588928223,
+      13.399999618530273,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.71,
+      163.99,
+      530.26,
+      201.92
+    ],
+    "text": "Following grounds of appeal were urged by the Counsel for the Appellant in his written su bmissions:-",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.178518295288086,
+      13.600000381469727,
+      13.903807640075684
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91.35,
+      211.97,
+      529.98,
+      248.19
+    ],
+    "text": "1) Lack of sufficient proof on the fact that deaths actually occurred. 2) The purported eye witness presented to court lacks credibility and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.388744354248047,
+      13.399999618530273,
+      13.42043399810791,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      91.26,
+      249.05,
+      529.56,
+      285.64
+    ],
+    "text": "reliability . 3) Clandestine role played by sub-inspectors of police; namely Kingsly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.66,
+      286.49,
+      479.22,
+      379.6
+    ],
+    "text": "Fernando and Baithullah 4) Identification parade held two years after the alleged incident. 5) Questionable role played by S.I. Baithullah 6) Identifcation Parade flawed by the Participation of S.I Baithullah 7) S.I. Baithullah's dismal career record.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.61,
+      417.52,
+      528.79,
+      435.4
+    ],
+    "text": "1) I wish to consider the 1 st ground of appeal mentioned in the written",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      13.145227432250977,
+      13.399999618530273,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.85,
+      436.6,
+      528.3,
+      491.57
+    ],
+    "text": "submission on behalf of the Appellant. The Appellant states that there is no sufficient proof as to prove that the deaths actually occurred due to following reasons;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.27007007598877,
+      13.399999618530273,
+      13.496452331542969,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.86,
+      511.13,
+      531.09,
+      547.73
+    ],
+    "text": "a) None of the bodies were ever recovered. b) No cause of death could be ascertained eg: whether caused by of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.089143753051758,
+      13.357983589172363,
+      13.399999618530273,
+      13.78919792175293,
+      13.99048900604248
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.5,
+      548.57,
+      511.5,
+      603.53
+    ],
+    "text": "firearms, gunshots etc. or fatal blows/assault. c) Non availability of post mortem reports to confirm the cause of deaths. d) No credible evidence to establish deaths.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.4918851852417,
+      13.99048900604248,
+      14.188972473144531
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.16,
+      623.08,
+      527.4,
+      659.68
+    ],
+    "text": "The Learned High Court Judge has addressed this fact in his Judgement as follows:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.341571807861328,
+      13.395599365234375,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.67,
+      678.89,
+      529.42,
+      696.77
+    ],
+    "text": "\" \"11:3 ~D:i ~25)J e!~~d' ~e;1msf qoO:>W<.:l25i 1990 ElZ5lElJ~~D~ 6~c) 25) .. ~co25)il36",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.431899547576904,
+      6.76194429397583,
+      7.342607498168945,
+      7.4390997886657715,
+      7.499760150909424,
+      7.776888847351074,
+      7.7963714599609375,
+      9.224772453308105,
+      10.208784103393555,
+      10.284082412719727,
+      10.651101112365723,
+      13.199999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.28,
+      699.47,
+      526.48,
+      715.13
+    ],
+    "text": "oe:J~zs:f 8~~ \"1lZSl. 619 Z5lJC~d'~ q~JC g~<CJ:l~d' o .. El6:l ~6zsfZ5l ZSlzs:fEl<.:l",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      6.77980899810791,
+      7.2288126945495605,
+      7.405147552490234,
+      7.486374855041504,
+      8.303505897521973,
+      8.729594230651855,
+      9.275547981262207,
+      9.846269607543945,
+      10.149853706359863,
+      10.679800033569336,
+      10.955015182495117,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.28,
+      717.1,
+      528.54,
+      732.77
+    ],
+    "text": "~ .. C:6'lc'CC) cozs:f ~C) qoO:>W<.:l 8~~ d'dJ25)<.:lC) CfftCOJd' ~oJ88<.:lC) o8zsf6",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      7.134270191192627,
+      7.244927406311035,
+      8.572291374206543,
+      9.458589553833008,
+      9.569008827209473,
+      9.846269607543945,
+      10.526374816894531,
+      10.614272117614746,
+      11.399999618530273,
+      12.106742858886719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.81,
+      733.65,
+      529.11,
+      751.72
+    ],
+    "text": "o .. El .. zs:f~C) 9~9 ElJZSlJEl66<.:lzsf ~25)J~<.:l. d ~td'!5J~El25i C 8drdr CfftcoJel co .. ~I9zsf,",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Italic"
+    ],
+    "sizes": [
+      6.2552266120910645,
+      6.521417617797852,
+      6.580544948577881,
+      6.9274516105651855,
+      8.640056610107422,
+      8.866025924682617,
+      9.472259521484375,
+      9.754490852355957,
+      9.846269607543945,
+      9.98098373413086,
+      10.04723834991455,
+      10.284082412719727,
+      10.293888092041016,
+      11.399999618530273,
+      11.664921760559082,
+      14.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.92,
+      753.47,
+      530.51,
+      769.13
+    ],
+    "text": "~~J<.:lJ CO .. ~~255, ~66 oB2:lf6 oEl2:iJ'w ~~El~)5 W~ZSlJ ~Z5l~J co .. ~I9zsf q~dzsfJ",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      6.446237087249756,
+      7.163977146148682,
+      7.347639083862305,
+      7.364618301391602,
+      7.404107093811035,
+      7.482524394989014,
+      7.627264976501465,
+      7.926750659942627,
+      9.685115814208984,
+      9.846269607543945,
+      9.898412704467773,
+      10.284082412719727,
+      11.23348331451416,
+      11.820012092590332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      269.79,
+      793.3,
+      327.51,
+      806.35
+    ],
+    "text": "Page 5 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.428278923034668,
+      9.5,
+      9.959583282470703
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.42,
+      79.33,
+      533.11,
+      96.94
+    ],
+    "text": "1:5lC G2l131!Jl1:5l. ~~~2l1z:;i 8~tl G2l13ltl .1:5l36~3V 1:5) 8el38J oli!l&81:5l36",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.127707004547119,
+      7.523980617523193,
+      7.5600666999816895,
+      10.154006004333496,
+      10.325889587402344,
+      10.507437705993652,
+      11.199999809265137,
+      11.200400352478027,
+      12.822502136230469
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.77,
+      99.01,
+      536.55,
+      115.09
+    ],
+    "text": "03~(5;)VGd e:m:liQ '1'o1:5l 2 ~3z:;iQ G\\i!l~ 91:5l3(5;) 1:5l6 'i'ltl 06~ 'i'ltl 06~ 9<(S)C8~",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.830540657043457,
+      7.426894664764404,
+      7.737971782684326,
+      8.38504695892334,
+      8.519213676452637,
+      8.589913368225098,
+      9.05270767211914,
+      9.961244583129883,
+      10.0028715133667,
+      10.564044952392578,
+      11.199999809265137,
+      11.648951530456543,
+      11.699999809265137,
+      11.750710487365723
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      77.41,
+      115.69,
+      425.26,
+      133.3
+    ],
+    "text": "6~~c) 0151 ~Bz:;i 8~ tl 2l1ltl @vC) 25)(s)2l1~ 1:5lC G2l131!Jl1:5l.\"",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.398585796356201,
+      7.10297155380249,
+      7.948641300201416,
+      8.442801475524902,
+      10.47685432434082,
+      10.60251235961914,
+      10.63394546508789,
+      11.17411994934082,
+      11.199999809265137,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76.92,
+      153.13,
+      532.97,
+      189.81
+    ],
+    "text": "Thus, it is evident that with the existing circumstances at the time of the offence committed, it could not have been possible to carry out investigations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.0423583984375,
+      13.199999809265137,
+      13.885690689086914
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76.64,
+      208.9,
+      440.83,
+      227.87
+    ],
+    "text": "Further, in King V. Ebert Silva (50 NLR 457), it was held that,",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      111.9,
+      247.8,
+      536.74,
+      320.43
+    ],
+    "text": "\"The caution that a man should never be convicted of murder or manslaughter on circumstantial evidence alone unless the body of the deceased person has been found need not, however, be followed when very strong circumstantial evidence of death can be given.\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.5,
+      13.636460304260254,
+      14.725157737731934,
+      14.928293228149414
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      75.46,
+      340.7,
+      531.8,
+      395.74
+    ],
+    "text": "Therefore, it cannot be concluded that there had been no crime taken place merely on the fact that no recovery of bodies or on the ground of non-availability of post mortem reports to confirm the cause of deaths.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.885690689086914,
+      14.082686424255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      93.15,
+      432.64,
+      531.72,
+      563.5
+    ],
+    "text": "2) The 2nd ground of appeal is that the eye witness who was presented to the court was lacking credibility and reliability. The witness has stated that he and Lafeer escaped from the place. But, Lafeer had reached the village on the same day whereas the eyewitness Jamaldeen had reached only after 05 days. Furthermore, the Appellant has submitted that the only eye witness Jamaldeen has not convincingly proved that he was in the jungle for five days only by drinking water.",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.044207572937012,
+      12.899999618530273,
+      13.03962516784668,
+      13.086713790893555,
+      13.170065879821777,
+      13.17066764831543,
+      13.199999809265137,
+      13.885690689086914
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      74.01,
+      583.33,
+      531.21,
+      657.09
+    ],
+    "text": "The Learned High Court Judge has stated that the Appellant has not been able to mark any contradiction in the testimony of the witness. The eyewitness Iamaldeen has stated that he saw the deceased being brutally assaulted by the accused and the others, and they were buried in the pits that were dug by them.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      14.082686424255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73.34,
+      676.56,
+      530.39,
+      712.18
+    ],
+    "text": "The Learned High Court Judge has made the following observation in this regard.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.87,
+      734.49,
+      531.67,
+      749.43
+    ],
+    "text": "\" ol@&8 03~(5;)V~ Gv't]GV~ 1:5lle;V3 'i'ltl G31!J~ d3c'~~ 2l1ltl ~3z:;i~1:5l~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.94509220123291,
+      7.311248302459717,
+      7.784974098205566,
+      8.670049667358398,
+      8.762398719787598,
+      10.691349983215332,
+      11.199999809265137,
+      11.648951530456543,
+      12.591240882873535
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73.25,
+      750.44,
+      531.35,
+      768.87
+    ],
+    "text": "8c.:lld ~3z:i~1:5l~G~2:\\l GtJ. iil[lGa5 ~J2:l1'~c.:l aJe; G1!J~C) ~~1:5) 03C5(5;)V~ Gv't]Gvm",
+    "fonts": [
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.816061496734619,
+      6.251029968261719,
+      6.692587852478027,
+      6.925346374511719,
+      7.394320487976074,
+      11.199999809265137,
+      11.531858444213867,
+      11.737993240356445,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      271.95,
+      792.94,
+      329.67,
+      805.99
+    ],
+    "text": "Page 6 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5,
+      9.959583282470703
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73.44,
+      79.77,
+      532.62,
+      95.91
+    ],
+    "text": "et~zsl' U 1tl!5). ~Jzsi~@d 100\"\"C) @C~J<5'l ~o~~o\"\"zsi Cl!\\l~ 2:il0 <5'll!5). ~Jzsi@d",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.613696098327637,
+      7.184300422668457,
+      7.404107093811035,
+      7.80301570892334,
+      7.825405597686768,
+      7.881102561950684,
+      10.64542007446289,
+      11.374128341674805,
+      11.526561737060547,
+      11.617947578430176,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73.1,
+      97.75,
+      478.15,
+      116.08
+    ],
+    "text": "1tli63 ~llOlO lOlBzsi ctB2:ilO6;@d etlWJ<5'l\"\"C) @\"\"J 2!ilBC) et~zsl' U 1tl!5).\"",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.679503917694092,
+      7.285065174102783,
+      9.852279663085938,
+      10.050353050231934,
+      10.817536354064941,
+      11.137194633483887,
+      11.170769691467285,
+      11.880305290222168,
+      12.043819427490234,
+      12.100000381469727,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.3,
+      133.63,
+      529.0,
+      151.9
+    ],
+    "text": "It has been stated in the written submission on behalf of the Appellant, dated",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.226473808288574,
+      13.600000381469727,
+      14.000452995300293,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.25,
+      152.36,
+      528.85,
+      207.57
+    ],
+    "text": "05.11.2019, that the eye witness lamaldeen has made contradictions in the testimonies. In an earlier testimony he has stated that he spent 5 days in the jungle and later as follows:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.368123054504395,
+      13.495196342468262,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.21,
+      227.23,
+      527.13,
+      245.37
+    ],
+    "text": "9: !5)JC) ~lzs-J' @ et\"\" 6<5'l\\!) !5)J 2!ilDlJ 40-50 2:ilc:lc:l8\"\"zsi ~100 ~Zl\"i<5'lJ 2!il\"\"CJ",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.430782318115234,
+      5.643021583557129,
+      7.769309997558594,
+      11.043254852294922,
+      11.231587409973145,
+      11.321346282958984,
+      11.346914291381836,
+      11.560576438903809,
+      11.57041072845459,
+      11.653875350952148,
+      11.708827018737793,
+      13.331692695617676,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.37,
+      247.53,
+      237.2,
+      263.67
+    ],
+    "text": "@J2:ilzsi~ 8~ ~@d 'fIZl\"i ~9l ?",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.722774505615234,
+      7.969002723693848,
+      8.4120512008667,
+      9.332266807556152,
+      10.569334030151367,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.18,
+      271.81,
+      527.32,
+      292.96
+    ],
+    "text": "c: 4 @~@<5'll!\\lC) ~100 @~<5'l C~l al ll8<5'lJ. CSC) ~9l s etl883 @lCJ 838@d.",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.343563556671143,
+      6.594709873199463,
+      7.540754318237305,
+      7.71280574798584,
+      7.825405597686768,
+      9.566269874572754,
+      11.824462890625,
+      11.88427734375,
+      12.099349975585938,
+      12.100000381469727,
+      12.699999809265137,
+      13.32290267944336,
+      15.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      292.4,
+      529.38,
+      310.54
+    ],
+    "text": "~cl@cl C) 883\"\" <tJlJ. 'fIzs-J'~9l CJ8~ ~1O ~DlJ. o~ 3.00 C) ~6; @())~0C)",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.085570812225342,
+      6.873148441314697,
+      6.999269485473633,
+      7.482524394989014,
+      7.560064315795898,
+      8.623165130615234,
+      9.06814193725586,
+      9.852279663085938,
+      11.078971862792969,
+      11.6110200881958,
+      12.078831672668457,
+      12.100000381469727,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      315.36,
+      127.84,
+      328.41
+    ],
+    "text": "~l<!l&\"\"J.",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      7.279765605926514
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.86,
+      341.86,
+      305.6,
+      358.0
+    ],
+    "text": "9 : !5)J 2!ilDl !5)J 2:illCllc) ~~lJ 2!il\"\"CJ.?",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.377872943878174,
+      11.014290809631348,
+      11.22970199584961,
+      11.264290809631348,
+      11.321346282958984,
+      11.766658782958984,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.47,
+      369.58,
+      137.78,
+      385.72
+    ],
+    "text": "C: 6 @1O8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.420256614685059,
+      12.100000381469727,
+      13.886078834533691
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.15,
+      427.53,
+      528.49,
+      443.67
+    ],
+    "text": "C : CJ8~ \"\"<5'l !5)~ 6; et\"\" !5)8 ~b@lZl\"i <tJ@D ~@~zs-J' 8<5'lCJ 'fIZl\"i~9l (j)~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.472751617431641,
+      6.598985195159912,
+      7.070912837982178,
+      7.253868579864502,
+      7.748581409454346,
+      8.67747688293457,
+      10.527982711791992,
+      11.24940299987793,
+      11.653875350952148,
+      12.02038860321045,
+      12.055116653442383,
+      12.100000381469727,
+      13.58591365814209
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.92,
+      445.53,
+      156.64,
+      461.67
+    ],
+    "text": "@~J~8\"\"C) a)\"\"J",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.00685977935791,
+      11.950932502746582
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.46,
+      480.68,
+      433.16,
+      498.82
+    ],
+    "text": "In the same cross examination the witness has stated as follows:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.334814071655273,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.66,
+      575.35,
+      527.51,
+      630.57
+    ],
+    "text": "Hence it is clear that there is no material contradiction to his earlier testimony, as he stated that he spent 5 days in the jungle. Thereby, eye witness lamaldeen's evidence is credible and trustworthy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.235721588134766,
+      13.368734359741211,
+      13.440767288208008,
+      13.533185958862305,
+      13.537958145141602,
+      13.569165229797363,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.32,
+      649.87,
+      527.14,
+      742.18
+    ],
+    "text": "3) I wish to consider the balance grounds of appeal 3, 5 and 7 together. The Appellant states that the 3'd ground of appeal is the clandestine role played by sub inspectors of police, namely Kingsly Fernando and Baithulla. He has further stated that S.I Kingsley Fernando and S.I Baithullah of Trincomalee police conducted an illegal investigation and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.235721588134766,
+      13.388253211975098,
+      13.582538604736328,
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      104.66,
+      760.76,
+      526.46,
+      778.9
+    ],
+    "text": "investigation. And thereby the appellant has come to the conclusion that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.368734359741211,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      267.99,
+      792.22,
+      326.07,
+      805.27
+    ],
+    "text": "Page 7 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.428278923034668,
+      9.5,
+      10.156842231750488
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      109.06,
+      78.56,
+      529.88,
+      115.42
+    ],
+    "text": "S.I Kingsly Fernando and S.I Baithulla of Trincomalee police was acting with a mala fide ulterior motive.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.094510078430176
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.29,
+      133.09,
+      529.7,
+      209.02
+    ],
+    "text": "The 5th ground is the questionable role played by S.I Baithullah. He has stated that both the accused were known to him from small days and it states that S.I Baithulla had a personal interest and an ulterior motive in implicating both the accused.",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.253799438476562,
+      12.5,
+      12.931416511535645,
+      13.495196342468262,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.86,
+      227.95,
+      528.95,
+      377.5
+    ],
+    "text": "The 7th ground is S.I Baithulla's dismal career record. It has been stated that S.I Baithullah gave evidence in High Court on 19.07.2000 and he was not been serving in the police department by that time. Furthermore, it has been stated that misconduct, dishonesty and in-disciplinary conduct, including acting without authority, may have been the reason for Baithulla's disgraceful dismissal. Hence the Appellant has come to a conclusion that Baithulla's evidence and his mode of investigation are tainted and malicious and therefore ought not to be taken into consideration in arriving at a decision in this case.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      13.235721588134766,
+      13.392568588256836,
+      13.495196342468262,
+      13.569165229797363,
+      13.600000381469727,
+      13.761195182800293,
+      13.783379554748535,
+      14.094510078430176
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.82,
+      396.43,
+      528.69,
+      470.73
+    ],
+    "text": "On the contrary, the appellant has not made any complaint to a higher authority about any misconduct or illegality taken place during the investigations. Hence it is not fair to raise the objections now, as to the roles played by the Sub Inspectors and investigations.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.238494873046875,
+      13.533185958862305,
+      13.582538604736328,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      88.82,
+      488.53,
+      274.76,
+      508.2
+    ],
+    "text": "4) 4th and 6th grounds of appeal:-",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.206768989562988,
+      8.926786422729492,
+      13.399999618530273,
+      13.600000381469727,
+      14.094510078430176
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.3,
+      527.84,
+      528.04,
+      620.5
+    ],
+    "text": "The Appellant states that the identification parade was held on 22.09.1992, almost after 2 years of the incident and hence it has raised many questions and casted a doubt as to whether it was legal to accept an identification after that long interval of two years. Furthermore it has been stated by the Appellant that S.L Baithullah has made an undue influence to the identification parade.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.238494873046875,
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.71,
+      639.43,
+      485.05,
+      657.57
+    ],
+    "text": "The written submissions on behalf of the Appellant has stated as follows:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.094510078430176
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      68.87,
+      677.56,
+      528.13,
+      749.9
+    ],
+    "text": "\" .... SI Baithulla is the highest ranking police officer present in the parade. In this scenario, Sf Baithulla who earlier arrested the accused himself, had every opportunity of directing, misdirecting and or influencing the course of justice. He had every opportunity of secretly pointing to the witnesses the exact spot",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.221611976623535,
+      13.399999618530273,
+      13.407896995544434,
+      13.487166404724121,
+      14.87290096282959,
+      15.587026596069336,
+      16.277618408203125
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      269.07,
+      792.83,
+      326.73,
+      806.02
+    ],
+    "text": "Page 8 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.394245147705078,
+      9.600000381469727,
+      10.01186466217041
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.82,
+      81.58,
+      531.53,
+      116.65
+    ],
+    "text": "where the Accused was standing in. He cannot be said to be a disinterested police officer assisting a//- important identification parade. \"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.814665794372559,
+      13.304006576538086,
+      13.399999618530273,
+      13.458024024963379
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.7,
+      136.15,
+      303.28,
+      154.29
+    ],
+    "text": "In the brief it has been stated as follows;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.24,
+      177.7,
+      527.95,
+      193.84
+    ],
+    "text": "\"@@@ 25)~@e:l 1992.07.23 l25) ~25) olZ5.flJ 'tlI5J Ol@&C@C 1 lZ5l",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.292388916015625,
+      6.586729049682617,
+      10.378894805908203,
+      10.728694915771484,
+      11.228355407714844,
+      11.385664939880371,
+      11.992673873901367,
+      12.100000381469727,
+      12.211139678955078,
+      12.350800514221191
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.45,
+      196.05,
+      531.84,
+      212.19
+    ],
+    "text": "OJ2:ifQ2:il~ l25) (Q@)@ CJB~ WJ 2l25) OJ2:ifijj2:il~ l25) @&!w@)@~ o@C~25\"J'",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.107985496520996,
+      6.597378253936768,
+      6.949751853942871,
+      8.001501083374023,
+      8.462015151977539,
+      10.17889404296875,
+      10.728694915771484,
+      10.86998176574707,
+      11.39341926574707
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.34,
+      214.78,
+      530.11,
+      230.92
+    ],
+    "text": "eJ825\"J' 1 lZ5l 5Z5.f15J2:il~ Wl;Z5lJ (S)l~@ o@)Q)25\"J'w@~25\"J' WJ 1992.09.22 lZ5l ~Z5l",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.2042059898376465,
+      6.343640327453613,
+      6.510005474090576,
+      7.3249831199646,
+      10.482139587402344,
+      10.58443546295166,
+      10.765848159790039,
+      10.86998176574707,
+      11.199167251586914,
+      12.100000381469727,
+      12.284001350402832
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.98,
+      233.14,
+      529.19,
+      249.28
+    ],
+    "text": "olZ5.flJ 'tlI5J @o6 oe;w25\"J' Ol@&C@C 1 lZ5l WJ 2l25) OJ2:ifQ2:il~l25\"J' 5825\"J'",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.146176815032959,
+      10.58443546295166,
+      10.86998176574707,
+      11.189005851745605,
+      11.279265403747559,
+      11.362739562988281,
+      11.39341926574707,
+      11.992673873901367,
+      12.100000381469727,
+      12.418118476867676
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.01,
+      251.49,
+      531.94,
+      267.63
+    ],
+    "text": "2@lm 5Z5.f15J2:il~ Wl;25)J (S)l~@~ @o@6cJ8@E:l oC)w25\"i, @@tdd~)JZ5.f~@J 'tl~~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.10944128036499,
+      7.219277858734131,
+      7.47909688949585,
+      7.5047712326049805,
+      11.29941463470459,
+      11.447930335998535,
+      11.733809471130371,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      109.0,
+      269.85,
+      528.96,
+      285.99
+    ],
+    "text": "q@25)z:s;lZ5.f OJ2:ifijj2:il~l25\"J' 2:ille;5@~25\"J' @2SlJ6l, El@ Wl;Z5lJ (S)l~@~ @o@6cJ8",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.732669353485107,
+      6.200717449188232,
+      7.29580020904541,
+      10.320439338684082,
+      10.780448913574219,
+      11.135347366333008,
+      11.380616188049316,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.98,
+      288.58,
+      530.82,
+      304.72
+    ],
+    "text": "oC)w25\"i wB~J2:ilJ6l oll~1i] Q)lc) 5Z5.f15J~ 8gCSJI~@ mOJ, El~ qo6JW Z5l~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.240108013153076,
+      6.74470329284668,
+      6.9295196533203125,
+      6.959845542907715,
+      7.188093662261963,
+      7.761003494262695,
+      11.325834274291992,
+      11.367636680603027,
+      12.100000381469727,
+      12.130012512207031
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.61,
+      306.58,
+      528.57,
+      322.72
+    ],
+    "text": "eJWJ25) 0 0S!1w@d' 420 lZ5l l(S)25\"J'I5J~ ~c)@Z5.f 8g(S)l~@2:if l(Q@~25\"J' oC)w25\"J'",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.568860054016113,
+      6.188004493713379,
+      6.4273552894592285,
+      6.932596683502197,
+      10.58443546295166,
+      10.935461044311523,
+      10.954090118408203,
+      11.1537504196167,
+      12.100000381469727,
+      12.406956672668457
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.66,
+      325.65,
+      243.51,
+      341.79
+    ],
+    "text": "2:il625) @CO <YCCJ 8<3@.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.098012924194336,
+      11.719673156738281,
+      11.744786262512207,
+      12.058830261230469
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.59,
+      344.01,
+      528.06,
+      360.15
+    ],
+    "text": "5Z5.f15J@d' ~z5l~ @W2SlJ c3C) eJ@6Jw~ @25)JOJC3. iil~@o1 El2:il~Z5.fl~ 0a32Sll",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.186251640319824,
+      7.007225513458252,
+      7.788092613220215,
+      7.971322059631348,
+      10.034568786621094,
+      10.635754585266113,
+      10.82228946685791,
+      10.990096092224121,
+      11.397189140319824
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.32,
+      362.73,
+      350.29,
+      378.87
+    ],
+    "text": "<yW2Sl oB~ El@ 8g(S)l~@ oC)w25\"i 2:il6Z5l C~\"",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.733819961547852,
+      8.20936393737793,
+      8.277491569519043,
+      10.112225532531738,
+      10.780448913574219,
+      10.928874969482422,
+      11.367636680603027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.81,
+      411.56,
+      528.7,
+      522.93
+    ],
+    "text": "Hence it is clear that the Appellant had already accepted the procedure followed in the identification parade when the trial was proceeding and now raising an objection in the mode of a ground of appeal in relation to the legality of the identification parade (as per proceedings dated 20.10.1999 at Page 175 of the Appeal Brief). The Appellant cannot introduce a new position at the appeal stage.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.397883415222168,
+      13.235721588134766,
+      13.242963790893555,
+      13.495196342468262,
+      13.600000381469727,
+      14.094510078430176,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.24,
+      533.59,
+      529.48,
+      626.61
+    ],
+    "text": "The Learned Counsel for the Appellant had referred to Roshan V. AG 2011 1 SLR 364 and Herath Mudiyanselage Pushpa Kumara alias 'Pushpe' V. AG CA 27312014 in his written submission, as well as in the argument made before this Court. Both cases illustrate the requirements that are needed to be adhered with when conducting an identification parade.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.410479545593262,
+      13.420855522155762,
+      13.440767288208008,
+      13.600000381469727,
+      13.638712882995605,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.52,
+      637.27,
+      316.22,
+      656.26
+    ],
+    "text": "It was held in Roshan V. AG (supra) that;",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.420855522155762,
+      13.600000381469727,
+      13.692694664001465,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.35,
+      661.28,
+      530.06,
+      720.38
+    ],
+    "text": "\"The identification parade, if it is to be of value, must be held at the earliest opportunity, so that the impression of the witness remains fresh in his mind and he does not have the chance of comparing notes with others.\"",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.146757125854492,
+      13.399999618530273,
+      13.487166404724121,
+      13.519516944885254,
+      14.87290096282959,
+      15.072522163391113,
+      17.376544952392578
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      269.79,
+      794.03,
+      327.87,
+      807.08
+    ],
+    "text": "Page 9 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.428278923034668,
+      9.5,
+      9.959583282470703
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.73,
+      79.24,
+      530.43,
+      134.39
+    ],
+    "text": "The same thing was quoted by L.U.Jayasllriya J. in his Judgement Herath Mudiyanselage Pushpa Kumara alias 'Pushpe' V. AG (supra), which the Learned Counsel has referred in this case.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.89,
+      145.57,
+      530.78,
+      331.67
+    ],
+    "text": "We should not forget the fact that both these above mentioned cases dealt with incidents that occurred when the normal conditions of the country were prevailing, and in the instant case, we have to consider the emergency situation that had been declared and the fact that Emergency Regulations were in force at the time of this incident taken place. Therefore, I see no reason to adhere to the aforementioned Judgments as situation of the country was of a totally different situation. Under such circumstances, the proceedings of the Courts were not properly functioning. Therefore even dock identifications were allowed. In the instant case, there is cogent evidence to say that witness was very sure about identifying the accused appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.046760559082031,
+      13.199999809265137,
+      13.885690689086914,
+      14.082686424255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.29,
+      342.76,
+      529.71,
+      397.9
+    ],
+    "text": "In the case of Dayananda Lokugalappaththi and Eight Others V. The State (The Ambilipitiya Abduction and Murder Case) (2003) 3 SLR 362 it was held that:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.913674354553223,
+      13.076443672180176,
+      13.199999809265137,
+      13.399999618530273,
+      13.605666160583496,
+      13.885690689086914
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.57,
+      408.52,
+      530.18,
+      464.21
+    ],
+    "text": "\" ..... . Law relating to identification does not shut out evidence of dock identifications. The trial Judge must examine clearly the circumstance under which the identifications by the witness came to be made ....",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.304006576538086,
+      13.399999618530273,
+      13.418787002563477,
+      13.8544921875,
+      14.87290096282959
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.48,
+      474.77,
+      530.04,
+      548.8
+    ],
+    "text": "... ... Section 134 - Evidence Ordinance postulates the evidence shall be evaluated and weighed and not counted. If the trial Judge is satisfied with the testimonial trustworthiness of a witness even though he is the sole witness relied upon by the prosecution the trial Judge will act upon such evidence .... \"",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.223831176757812,
+      12.399999618530273,
+      12.64471435546875,
+      13.199999809265137,
+      13.399999618530273,
+      13.487166404724121,
+      13.561279296875,
+      15.072522163391113,
+      18.54511260986328
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.81,
+      559.93,
+      528.81,
+      597.12
+    ],
+    "text": "Thus in the instant case, the circumstances under which the identification by the witness do not raise any doubt as to the validity of the proceedings of the",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.344284057617188,
+      13.885690689086914,
+      14.082686424255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.89,
+      597.38,
+      193.06,
+      614.99
+    ],
+    "text": "identification parade.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.38,
+      626.17,
+      528.99,
+      755.03
+    ],
+    "text": "Further, in the instant case, the witness had a considerable time to see the Accused at the crime scene, and it was not a fleeting glace. The witness had seen the accused for a considerable period of time from the instance where the accused and two others had got into the boat which the witness was in with seven others, dragging the boat to the coast line by the accused and two others, plucking young coconuts, digging canals and until the witness was fainted. It is under the broad day light that the witness has seen the accused. Therefore, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.03962516784668,
+      13.199999809265137,
+      13.5,
+      13.885690689086914
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      267.28,
+      792.92,
+      329.89,
+      806.49
+    ],
+    "text": "Page 10 of 11",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.899999618530273,
+      9.237921714782715,
+      9.800000190734863,
+      9.902463912963867
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77.0,
+      77.84,
+      533.75,
+      114.33
+    ],
+    "text": "witness cannot be doubtful about the identity of the accused even though after two years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.094510078430176
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.48,
+      125.71,
+      533.32,
+      162.93
+    ],
+    "text": "In the case of The Attorney General v. Joseph Aloysius and Others (1992) 2 SLR 264, it was held that:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75.51,
+      174.28,
+      533.37,
+      284.78
+    ],
+    "text": "\"Where an objection is taken to evidence of identification that is otherwise relevant and admissible, the Court has to consider not only whether there is a breach of what is generally observed as the proper procedure but also the extent to which such breach has impaired the fairness of the proceedings. Such evidence of identification may be excluded only if the Court finds that its admiss ion would have an adverse effect on the fairness of the proceedings. \"",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.146757125854492,
+      13.304006576538086,
+      13.399999618530273,
+      13.599071502685547,
+      14.87290096282959,
+      15.072522163391113,
+      17.376544952392578
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      75.21,
+      295.64,
+      532.09,
+      350.85
+    ],
+    "text": "Thus, considering the above case and other reasons illustrated above, I am of the view that identification parade was properly held and no prejudice caused to the Appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.368734359741211,
+      13.600000381469727,
+      14.094510078430176
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74.45,
+      361.87,
+      531.37,
+      436.17
+    ],
+    "text": "In the above premise, the Learned High Court Judge was correct in coming to the conclusion that the prosecution has proved its case beyond reasonable doubt. Hence, I affirm the conviction and the sentence imposed on the appellant, by the Learned High Court Judge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.229297637939453,
+      13.368734359741211,
+      13.495196342468262,
+      13.582538604736328,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      74.41,
+      446.83,
+      257.44,
+      464.98
+    ],
+    "text": "The appeal is hereby dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.533185958862305,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      317.79,
+      532.51,
+      547.19,
+      550.65
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.58273983001709,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      73.15,
+      611.55,
+      233.56,
+      630.21
+    ],
+    "text": "K. Priyantha Fernando, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.98,
+      643.75,
+      117.16,
+      661.89
+    ],
+    "text": "I agree,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      308.8,
+      691.63,
+      538.99,
+      709.78
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      269.07,
+      793.26,
+      333.0,
+      805.9
+    ],
+    "text": "Page 11 of 11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.199999809265137,
+      9.290752410888672,
+      9.801065444946289
+    ]
+  }
+]

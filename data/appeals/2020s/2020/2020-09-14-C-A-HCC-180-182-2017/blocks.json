@@ -1,0 +1,5725 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      105.02,
+      102.94,
+      499.75,
+      120.28
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.014442443847656,
+      13.266125679016113
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      218.46,
+      127.42,
+      385.54,
+      144.76
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      71.86,
+      389.87,
+      247.98,
+      407.21
+    ],
+    "text": "C.A.No. HCC No.180-18Y2017",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.0,
+      13.051946640014648
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      71.94,
+      412.91,
+      251.77,
+      430.25
+    ],
+    "text": "H.C. Gampaha No. HC 85/1999",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.184786796569824,
+      13.237529754638672
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.87,
+      177.22,
+      532.19,
+      194.42
+    ],
+    "text": "In the matter of an Appeal against an order",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.977815628051758,
+      13.048297882080078,
+      13.082409858703613,
+      13.22832202911377
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.19,
+      200.97,
+      532.15,
+      218.17
+    ],
+    "text": "of the High Court under Section 331(1) of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.016820907592773,
+      13.121842384338379,
+      13.137660026550293
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.92,
+      224.38,
+      532.33,
+      241.59
+    ],
+    "text": "the Code of Criminal Procedure Act No.lS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.902298927307129,
+      12.959064483642578,
+      12.966329574584961,
+      13.289422035217285
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.83,
+      248.14,
+      531.44,
+      265.34
+    ],
+    "text": "of 1979 read with Article 138(1) of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.90369987487793,
+      12.91878604888916,
+      13.099359512329102
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.47,
+      271.9,
+      531.84,
+      289.11
+    ],
+    "text": "Constitution of the Democratic Socialist",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.53,
+      295.66,
+      532.25,
+      312.87
+    ],
+    "text": "Republic of Sri Lanka and the High Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.933156967163086,
+      13.049532890319824,
+      13.145071983337402
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.83,
+      319.42,
+      531.69,
+      336.62
+    ],
+    "text": "of the Provinces (Special Provisions) Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.65,
+      342.8,
+      368.33,
+      360.01
+    ],
+    "text": "No. 19 of 1990.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      246.83,
+      482.49,
+      498.93,
+      499.69
+    ],
+    "text": "01. Kollure Appuhamilage Ajith Kumara",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.820655822753906,
+      12.899999618530273,
+      12.976224899291992,
+      12.993560791015625
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      246.83,
+      506.25,
+      510.64,
+      523.45
+    ],
+    "text": "04. Mananna Devage Saman Premachandra",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.820655822753906,
+      12.899999618530273,
+      12.960060119628906,
+      12.962746620178223,
+      13.063760757446289
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      246.83,
+      530.38,
+      393.29,
+      547.58
+    ],
+    "text": "05. Palitha Abeysekera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.745473861694336,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      211.52,
+      717.94,
+      267.91,
+      731.66
+    ],
+    "text": "***********",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      411.09,
+      553.66,
+      531.06,
+      571.0
+    ],
+    "text": "Accused-Appellants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.13,
+      576.7,
+      338.12,
+      594.04
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      281.82,
+      600.21,
+      414.23,
+      617.41
+    ],
+    "text": "Hon. Attorney General",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.20567798614502
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.21,
+      624.34,
+      463.9,
+      641.55
+    ],
+    "text": "Attorney General's Department",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.022319793701172
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      281.75,
+      655.65,
+      362.22,
+      672.85
+    ],
+    "text": "Colombo 12 .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.94,
+      686.51,
+      508.74,
+      703.85
+    ],
+    "text": "Complainant- Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.135643005371094,
+      13.154531478881836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.58,
+      128.71,
+      124.54,
+      145.79
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.51,
+      202.88,
+      137.48,
+      219.96
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.25,
+      344.35,
+      156.19,
+      361.43
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.241389274597168
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.22,
+      369.19,
+      159.87,
+      386.27
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800450325012207,
+      13.359089851379395
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214.89,
+      124.29,
+      380.76,
+      146.97
+    ],
+    "text": "ACHALA WENGAPPULI, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.810795783996582,
+      14.686476707458496
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211.62,
+      149.77,
+      367.15,
+      171.65
+    ],
+    "text": "DEVIKA ABEYRATNE, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.821532249450684,
+      16.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211.23,
+      202.88,
+      500.82,
+      220.01
+    ],
+    "text": "Indika Mallawarachchi with K. Kugaraja for the 1 st",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.199999809265137,
+      12.800000190734863,
+      12.820533752441406,
+      12.85547924041748,
+      13.04848861694336
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211.18,
+      228.07,
+      376.1,
+      245.15
+    ],
+    "text": "and 4th Accused-Appellants.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.800000190734863,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211.14,
+      252.91,
+      518.68,
+      286.91
+    ],
+    "text": "Neranjan Jayasinghe with Anusha Ratnayake for the 5th Accused-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.800000190734863,
+      12.817288398742676,
+      12.820533752441406,
+      12.95629596710205,
+      13.002056121826172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.9,
+      295.03,
+      423.63,
+      312.11
+    ],
+    "text": "Riyaz Bary S.s.e. for the respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.815191268920898,
+      12.820533752441406,
+      12.976385116577148
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.88,
+      344.35,
+      317.23,
+      361.43
+    ],
+    "text": "13th February 2020",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.800000190734863,
+      12.885614395141602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.52,
+      369.19,
+      335.11,
+      386.27
+    ],
+    "text": "11 th September, 2020",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      210.8,
+      394.66,
+      292.06,
+      408.38
+    ],
+    "text": "****************",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.89,
+      417.56,
+      235.77,
+      436.77
+    ],
+    "text": "ACHALA WENGAPPULI, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.857034683227539
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.37,
+      460.99,
+      529.84,
+      478.07
+    ],
+    "text": "This is an appeal, lodged by the 1st, 4th and 5th accused-appellants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.800000190734863,
+      12.8014497756958,
+      12.820533752441406,
+      12.997624397277832,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.13,
+      484.75,
+      529.65,
+      501.83
+    ],
+    "text": "(hereinafter referred to as the 1 st, 4th and 5th Appellants respectively) against their",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      8.558847427368164,
+      12.800000190734863,
+      13.208385467529297
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.43,
+      508.52,
+      210.44,
+      525.6
+    ],
+    "text": "conviction and sentence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.978652954101562
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.39,
+      540.19,
+      528.4,
+      557.27
+    ],
+    "text": "In the indictment presented by the Hon. Attorney General, 1st to 5th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.800000190734863,
+      12.8014497756958,
+      12.820533752441406,
+      12.826373100280762,
+      12.842230796813965,
+      12.865532875061035,
+      12.956196784973145
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.43,
+      564.31,
+      529.94,
+      581.39
+    ],
+    "text": "accused were charged under 11 counts, which included being members of an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.813093185424805,
+      12.82218074798584,
+      12.838991165161133,
+      12.883030891418457,
+      12.955357551574707,
+      12.997624397277832,
+      13.15755558013916
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.56,
+      588.08,
+      529.83,
+      605.16
+    ],
+    "text": "unlawful assembly, causing hurt, murder, mischief by fire to two dwelling",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.813093185424805,
+      12.825923919677734,
+      12.87806224822998,
+      12.97327709197998,
+      13.121122360229492
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.54,
+      611.83,
+      529.21,
+      628.91
+    ],
+    "text": "houses, robbery without being a member of the said unlawful assembly and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.82218074798584,
+      12.836897850036621,
+      12.859113693237305,
+      12.947352409362793,
+      12.978652954101562,
+      13.010125160217285
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.43,
+      635.23,
+      529.34,
+      652.31
+    ],
+    "text": "causing hurt, murder, mischief, robbery with common intention. All five accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.955900192260742,
+      12.95629596710205,
+      12.967307090759277
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.42,
+      658.99,
+      234.73,
+      676.07
+    ],
+    "text": "elected a trial without a jury.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.849554061889648,
+      13.06290054321289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.01,
+      690.67,
+      530.04,
+      707.75
+    ],
+    "text": "The prosecution led evidence of several lay witnesses who are immediate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.85941219329834,
+      12.868019104003906,
+      13.130093574523926
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.42,
+      714.08,
+      529.7,
+      744.14
+    ],
+    "text": "family members of the deceased and also one of his neighbours. At the close of 2",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.699999809265137,
+      12.800000190734863,
+      12.813093185424805,
+      12.820533752441406,
+      12.901646614074707,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.69,
+      103.15,
+      530.77,
+      120.23
+    ],
+    "text": "the prosecution case, when the trial Court ruled that all the accused had a case to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.872047424316406,
+      12.965678215026855,
+      13.06353759765625,
+      13.070883750915527,
+      13.096320152282715
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.87,
+      127.27,
+      325.71,
+      144.35
+    ],
+    "text": "answer they made statements from the dock.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.909928321838379,
+      13.101987838745117
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.81,
+      158.59,
+      530.37,
+      175.67
+    ],
+    "text": "The High Court of Gampaha convicted the 1st 4th and 5th accused for",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.800000190734863,
+      12.820533752441406,
+      12.995820999145508,
+      12.998855590820312,
+      13.049125671386719,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.87,
+      182.35,
+      531.4,
+      199.43
+    ],
+    "text": "committing murder of Hettiarachichige Sugath Nishantha Perera on 23.09.1994 with",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.873563766479492,
+      12.95629596710205,
+      13.0410795211792,
+      13.064908981323242,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.87,
+      206.12,
+      531.48,
+      223.2
+    ],
+    "text": "common intention and also for causing mischief to property with common",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.828667640686035,
+      12.91954231262207,
+      12.95629596710205,
+      12.967207908630371,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.89,
+      229.88,
+      531.53,
+      246.96
+    ],
+    "text": "intention, under the count Nos. 7 and 8 with its judgment pronounced on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.922712326049805,
+      12.924544334411621,
+      13.035041809082031,
+      13.0410795211792,
+      13.04848861694336,
+      13.094023704528809,
+      13.15755558013916
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.87,
+      253.63,
+      530.78,
+      270.71
+    ],
+    "text": "02.05.2017. The 1st, 4th and 5th Appellants were sentenced to death. Other accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      8.729031562805176,
+      12.800000190734863,
+      12.81214427947998,
+      12.86985969543457,
+      12.899215698242188,
+      12.930782318115234,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.62,
+      277.03,
+      248.22,
+      294.11
+    ],
+    "text": "were acquitted from all counts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.801700592041016,
+      12.86985969543457,
+      12.876471519470215
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.19,
+      308.71,
+      529.76,
+      325.84
+    ],
+    "text": "In challenging the validity of their conviction, learned Counsel for the 1st",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.800000190734863,
+      12.81439208984375,
+      12.821083068847656,
+      12.822089195251465
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.5,
+      332.48,
+      531.14,
+      349.56
+    ],
+    "text": "and 4th Appellants at the hearing of their appeal had raised following grounds of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.800000190734863,
+      12.853487968444824,
+      12.906060218811035,
+      12.917312622070312,
+      13.094023704528809,
+      13.177629470825195,
+      13.269392967224121
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.51,
+      356.24,
+      115.23,
+      373.31
+    ],
+    "text": "appeal;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.43,
+      387.91,
+      529.7,
+      404.99
+    ],
+    "text": "a. the trial Court erred on critical issues of fact causing severe prejudice to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.828667640686035,
+      12.850799560546875,
+      13.0410795211792,
+      13.070883750915527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124.18,
+      411.68,
+      209.05,
+      428.76
+    ],
+    "text": "the appellants,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.21,
+      435.43,
+      530.31,
+      452.51
+    ],
+    "text": "b. the conviction entered by the trial Court for the offence of murder is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.779383659362793,
+      12.800000190734863,
+      12.820533752441406,
+      12.83006477355957,
+      12.97327709197998,
+      13.064908981323242,
+      13.070883750915527
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.71,
+      459.19,
+      208.93,
+      476.26
+    ],
+    "text": "clearly flawed,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.08,
+      482.96,
+      530.44,
+      500.04
+    ],
+    "text": "c. no reliance could be placed on the inconsistent, erratic, unreliable",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.316155433654785,
+      12.800000190734863,
+      12.806398391723633,
+      12.820533752441406,
+      12.934146881103516,
+      13.0410795211792
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.81,
+      506.71,
+      411.61,
+      523.79
+    ],
+    "text": "multiple dying declarations made by the deceased.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.8014497756958,
+      12.818885803222656,
+      12.820533752441406,
+      12.9630126953125,
+      13.101987838745117
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.77,
+      538.4,
+      530.39,
+      555.48
+    ],
+    "text": "Learned Counsel for the 5th Appellant, whilst associating himself with the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.800000190734863,
+      12.820533752441406,
+      12.821782112121582,
+      12.829615592956543,
+      12.833256721496582,
+      12.95629596710205
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.15,
+      562.15,
+      530.78,
+      579.23
+    ],
+    "text": "above grounds of appeal, had, in addition, raised the following grounds of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.859561920166016,
+      12.868616104125977,
+      12.968096733093262,
+      13.018632888793945,
+      13.057117462158203
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.15,
+      586.27,
+      114.64,
+      603.34
+    ],
+    "text": "appeal;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.07,
+      617.95,
+      530.59,
+      635.03
+    ],
+    "text": "a. the trial Court failed to consider the prosecution evidence which",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.799349784851074,
+      12.800000190734863,
+      12.815041542053223,
+      12.820533752441406,
+      12.998855590820312
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.73,
+      641.72,
+      395.72,
+      658.8
+    ],
+    "text": "indicate the absence of intention to cause injury,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.85,
+      665.11,
+      530.39,
+      682.19
+    ],
+    "text": "b. the trial Court had erroneously rejected the dock statements of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.801249504089355,
+      12.806049346923828,
+      12.998855590820312,
+      13.06353759765625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.81,
+      688.87,
+      509.21,
+      705.95
+    ],
+    "text": "Appellants upon a comparison made with the prosecution evidence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.868865013122559,
+      13.025562286376953,
+      13.04848861694336,
+      13.096124649047852
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      521.88,
+      730.24,
+      529.46,
+      743.72
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.91,
+      103.15,
+      532.38,
+      120.23
+    ],
+    "text": "In view of the several grounds of appeal raised by the three Appellants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.8014497756958,
+      12.820533752441406,
+      12.826373100280762,
+      12.868616104125977,
+      12.870009422302246,
+      12.916321754455566,
+      12.968096733093262
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.94,
+      126.91,
+      532.2,
+      143.99
+    ],
+    "text": "and for its proper appreciation in the correct perspective, a brief account of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.81104564666748,
+      12.815441131591797,
+      12.837644577026367,
+      12.978652954101562,
+      13.029541969299316
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.95,
+      150.68,
+      532.58,
+      167.76
+    ],
+    "text": "evidence that had been presented before the trial Court is helpful at this stage of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.884173393249512,
+      12.884719848632812,
+      12.965678215026855,
+      12.998855590820312,
+      13.06353759765625,
+      13.269392967224121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      73.06,
+      174.44,
+      154.02,
+      191.52
+    ],
+    "text": "the judgment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.871649742126465
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.53,
+      206.12,
+      532.19,
+      223.2
+    ],
+    "text": "The two houses that were set on fire were occupied by the members of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.813093185424805,
+      12.820533752441406,
+      12.830513954162598,
+      12.857172966003418,
+      12.868368148803711,
+      12.86985969543457,
+      12.9378080368042,
+      12.937956809997559,
+      12.955357551574707,
+      12.97327709197998
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.96,
+      229.51,
+      532.46,
+      246.59
+    ],
+    "text": "deceased's family and were standing on the same property. The deceased was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.932019233703613,
+      12.946413040161133,
+      12.947697639465332,
+      12.955357551574707,
+      13.0410795211792,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.69,
+      253.63,
+      532.36,
+      270.71
+    ],
+    "text": "married and had two young children. He was unemployed at the time of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.844672203063965,
+      12.855778694152832,
+      12.937956809997559,
+      12.945374488830566,
+      12.946413040161133,
+      13.006484985351562,
+      13.03857707977295,
+      13.06353759765625,
+      13.094023704528809,
+      13.124341011047363
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.61,
+      277.03,
+      532.09,
+      294.13
+    ],
+    "text": "incident while his brother Ajith Kumara operated a boutique store adjacent to one",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.811144828796387,
+      12.847960472106934,
+      12.860058784484863,
+      12.919492721557617,
+      13.140844345092773,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.61,
+      300.8,
+      530.2,
+      317.9
+    ],
+    "text": "of the houses. The deceased lived in one of the houses with his sisters Suranji,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.830513954162598,
+      12.837644577026367,
+      12.901646614074707,
+      13.04848861694336,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.48,
+      324.55,
+      524.49,
+      341.65
+    ],
+    "text": "Nilanthi and Priyanganie while Ajith Kumara lived in the other with their parents.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.811144828796387,
+      12.820533752441406,
+      12.837644577026367,
+      12.929841041564941,
+      13.094023704528809,
+      13.140082359313965,
+      13.199347496032715,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.17,
+      355.61,
+      529.92,
+      373.49
+    ],
+    "text": "The prosecution called the mother of the deceased Chandrani, , Priyanganie,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.954023361206055,
+      13.317596435546875,
+      13.378732681274414,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.56,
+      379.99,
+      531.72,
+      397.09
+    ],
+    "text": "Ajith Kumara and one of their immediate neighbours, Upa/i as the witnesses who",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.898323059082031,
+      12.935582160949707,
+      13.094023704528809,
+      13.198433876037598,
+      13.199347496032715,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.17,
+      403.75,
+      531.81,
+      420.83
+    ],
+    "text": "saw the incident by which the two houses were burnt and the deceased had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.8014497756958,
+      12.820533752441406,
+      12.825923919677734,
+      12.883030891418457,
+      12.91978931427002,
+      12.955357551574707,
+      12.956196784973145,
+      13.06353759765625,
+      13.094023704528809,
+      13.12516975402832
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.18,
+      427.15,
+      531.82,
+      444.23
+    ],
+    "text": "suffered his burn injuries, resulted in his death 13 days later. Two sisters of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.899215698242188,
+      12.967602729797363,
+      13.057117462158203,
+      13.233654022216797
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.22,
+      450.91,
+      531.36,
+      468.01
+    ],
+    "text": "deceased Suranji and Ni/anthi have committed suicide before the trial and their",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.8245267868042,
+      12.866079330444336,
+      12.978652954101562,
+      13.094023704528809,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.23,
+      475.03,
+      443.16,
+      492.11
+    ],
+    "text": "depositions were led under Section 33 of the Evidence Ordinance.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.955357551574707,
+      13.086640357971191
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106.8,
+      506.71,
+      530.76,
+      523.79
+    ],
+    "text": "The incident took place in the evening of 23.09.1994 after 7.00 p.m.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.67786693572998,
+      12.800000190734863,
+      12.837644577026367
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.46,
+      530.48,
+      531.9,
+      547.58
+    ],
+    "text": "Priyangani was in the house where the deceased was when it was set on fire. He",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.830214500427246,
+      12.837644577026367,
+      12.87895679473877,
+      12.9378080368042,
+      12.946413040161133,
+      12.953133583068848,
+      13.0410795211792,
+      13.096320152282715,
+      13.124341011047363,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.98,
+      554.24,
+      531.51,
+      571.32
+    ],
+    "text": "was drunk and was sleeping in one of the rooms. She heard a commotion in front",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.861104011535645,
+      12.901646614074707,
+      12.946413040161133,
+      12.957777976989746,
+      13.057117462158203,
+      13.094023704528809,
+      13.10013198852539
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.24,
+      577.99,
+      531.14,
+      595.07
+    ],
+    "text": "of the house and when she peeped through the main door, saw the front part of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.87895679473877,
+      12.949131965637207,
+      12.965727806091309,
+      13.034796714782715,
+      13.094023704528809,
+      13.096320152282715,
+      13.136964797973633,
+      13.19442367553711
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.97,
+      602.11,
+      532.03,
+      619.19
+    ],
+    "text": "the house was already on fire. She sawall five accused there. She claimed that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.857172966003418,
+      12.868368148803711,
+      12.87895679473877,
+      13.0410795211792,
+      13.053882598876953,
+      13.513371467590332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.97,
+      625.87,
+      531.38,
+      642.95
+    ],
+    "text": "the 4 th Appellant had a white can in his hand while the 5th Appellant was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      8.715486526489258,
+      12.800000190734863,
+      12.811144828796387,
+      12.820533752441406,
+      12.837644577026367,
+      12.838642120361328,
+      12.880000114440918,
+      12.885415077209473,
+      12.946413040161133,
+      13.032341003417969,
+      13.06353759765625
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.87,
+      649.63,
+      530.36,
+      666.71
+    ],
+    "text": "carrying a television set. The 1st accused is the brother-in-law of the deceased.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      12.800000190734863,
+      12.956196784973145
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.93,
+      673.03,
+      531.66,
+      690.11
+    ],
+    "text": "Later she said the 1st accused also had a can and saw the 4th Appellant throwing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      9.348946571350098,
+      12.800000190734863,
+      12.836897850036621,
+      12.838642120361328,
+      12.859910011291504,
+      12.907299995422363,
+      12.91978931427002,
+      12.925088882446289,
+      12.948439598083496,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.62,
+      696.44,
+      532.09,
+      713.52
+    ],
+    "text": "what he had in his can to the house. Thereafter the 3rd accused and 4th Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      12.800000190734863,
+      12.820533752441406,
+      12.838642120361328,
+      12.907299995422363,
+      12.95056438446045,
+      13.057117462158203,
+      13.094023704528809,
+      13.121561050415039,
+      13.177629470825195
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      522.68,
+      729.67,
+      530.41,
+      743.41
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.62,
+      103.51,
+      531.06,
+      120.59
+    ],
+    "text": "had entered her house and shouted at them to run out since the house was set on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.868368148803711,
+      12.87895679473877,
+      12.942258834838867,
+      12.946413040161133,
+      12.958320617675781,
+      12.978652954101562,
+      13.028411865234375,
+      13.03857707977295,
+      13.06353759765625,
+      13.161836624145508,
+      13.178844451904297
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.5,
+      127.27,
+      530.78,
+      144.35
+    ],
+    "text": "fire (G3.1D t5\\Q)Q)) ~@QCl O~Q~). The witness tried to wake up her brother but since",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.47909688949585,
+      7.642509937286377,
+      8.871293067932129,
+      10.593764305114746,
+      12.800000190734863,
+      12.860058784484863,
+      12.948834419250488,
+      12.958320617675781,
+      13.10975170135498,
+      13.253081321716309
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.97,
+      151.03,
+      324.09,
+      168.11
+    ],
+    "text": "the fire was raging she had run out to safety.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.886359214782715,
+      12.925088882446289,
+      12.946413040161133,
+      13.06353759765625,
+      13.161836624145508,
+      13.300273895263672
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.96,
+      182.35,
+      530.75,
+      199.43
+    ],
+    "text": "She took shelter in a nearby house and after the Police had visited the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.833556175231934,
+      12.837644577026367,
+      12.949525833129883,
+      13.06353759765625,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.46,
+      206.12,
+      530.74,
+      223.2
+    ],
+    "text": "scene, she saw the deceased who had crawled back to their land calling their",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.886308670043945,
+      12.997772216796875,
+      13.028854370117188,
+      13.033226013183594,
+      13.06353759765625
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.62,
+      229.88,
+      530.72,
+      246.96
+    ],
+    "text": "mother. The deceased told them that he was taken to an abandoned house and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.805048942565918,
+      12.807997703552246,
+      12.857172966003418,
+      12.862447738647461,
+      12.946413040161133,
+      12.997624397277832,
+      12.99880599975586,
+      13.094023704528809,
+      13.129167556762695
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.26,
+      253.63,
+      530.95,
+      270.71
+    ],
+    "text": "was set on fire. The witness saw the deceased had burnt almost all of his skin",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.850749969482422,
+      12.9378080368042,
+      12.946413040161133,
+      13.028854370117188,
+      13.0410795211792,
+      13.06353759765625,
+      13.12516975402832
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.5,
+      277.39,
+      501.61,
+      294.47
+    ],
+    "text": "exposing pink skin. The Police helped them to rush the deceased to hospital.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.834952354431152,
+      12.945720672607422,
+      12.968293190002441,
+      13.0335693359375
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.66,
+      308.71,
+      531.22,
+      325.92
+    ],
+    "text": "Chandrani also claim to have seen the deceased crawling back but",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.842927932739258,
+      12.847113609313965,
+      13.10975170135498,
+      13.486130714416504
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.15,
+      332.48,
+      529.34,
+      349.56
+    ],
+    "text": "according to her what the deceased said was it was his friends who did this to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.939985275268555,
+      12.958320617675781,
+      13.033226013183594,
+      13.053882598876953,
+      13.106871604919434,
+      13.13214111328125,
+      13.205429077148438
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.26,
+      356.24,
+      530.67,
+      373.32
+    ],
+    "text": "him and thereafter mentioned all five names of the accused. She admits that she",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.868616104125977,
+      12.877763748168945,
+      12.912405967712402,
+      12.944287300109863,
+      12.947747230529785,
+      12.965678215026855,
+      12.978652954101562
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.52,
+      379.99,
+      434.71,
+      397.07
+    ],
+    "text": "did not see any of the Appellants near their houses that evening.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.830513954162598,
+      12.847312927246094,
+      12.959555625915527,
+      12.965678215026855,
+      12.978652954101562,
+      13.079646110534668
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.07,
+      411.68,
+      529.94,
+      428.89
+    ],
+    "text": "One of the deceased's sister Suranji said that she retired for the night by",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.836897850036621,
+      12.877763748168945,
+      12.90650749206543,
+      12.939985275268555,
+      12.965678215026855,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.13,
+      435.43,
+      531.17,
+      452.51
+    ],
+    "text": "9.00 p.m. and woke up after hearing a sound and found out that the house is on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.817987442016602,
+      12.85174560546875,
+      12.87895679473877,
+      12.943100929260254,
+      12.956196784973145,
+      13.0410795211792,
+      13.073282241821289,
+      13.094023704528809,
+      13.135746955871582,
+      13.161836624145508,
+      13.208385467529297,
+      13.253081321716309
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.14,
+      459.19,
+      530.59,
+      476.27
+    ],
+    "text": "fire. She ran out and hid herself near a breadfruit tree. She saw the 1st Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      12.800000190734863,
+      12.820533752441406,
+      12.863940238952637,
+      12.893707275390625,
+      12.941370010375977,
+      13.028854370117188,
+      13.082531929016113,
+      13.094023704528809,
+      13.290212631225586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.09,
+      482.96,
+      530.0,
+      500.04
+    ],
+    "text": "splashing some liquid to the fire from a can, while the 5th Appellant used a torch",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.806197643280029,
+      12.800000190734863,
+      12.811144828796387,
+      12.820533752441406,
+      12.838642120361328,
+      12.940083503723145
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.25,
+      506.71,
+      530.86,
+      523.79
+    ],
+    "text": "to light the rear part of her house up. The deceased was still inside the house but",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.802849769592285,
+      12.807997703552246,
+      12.820533752441406,
+      12.828119277954102,
+      12.852293014526367,
+      12.87895679473877,
+      12.946413040161133,
+      13.10975170135498,
+      13.19442367553711
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.9,
+      530.48,
+      530.22,
+      547.69
+    ],
+    "text": "no one took him out. According to Nilanthi, all five accused came that evening",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.840187072753906,
+      12.934146881103516,
+      12.944287300109863,
+      12.965678215026855,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.78,
+      554.2,
+      531.88,
+      571.93
+    ],
+    "text": "and they chased the women out of the house saying that not to stay back and if",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.81124496459961,
+      12.815540313720703,
+      12.820533752441406,
+      12.836897850036621,
+      12.857172966003418,
+      12.949525833129883,
+      13.032145500183105,
+      13.052412033081055,
+      13.094023704528809,
+      13.207270622253418,
+      13.845359802246094
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.25,
+      578.35,
+      530.75,
+      595.43
+    ],
+    "text": "they did they too would be put to the fire. No one came to their rescue and when",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.840187072753906,
+      12.901646614074707,
+      12.977716445922852,
+      13.04829216003418,
+      13.077149391174316,
+      13.094023704528809,
+      13.096320152282715,
+      13.486870765686035
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.74,
+      602.11,
+      484.08,
+      619.19
+    ],
+    "text": "someone splashed some liquid, the rear part of the house also caught fire.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.844074249267578,
+      12.852790832519531,
+      12.87895679473877,
+      12.926525115966797,
+      12.99393081665039,
+      13.19442367553711
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.73,
+      633.8,
+      530.03,
+      651.01
+    ],
+    "text": "Their immediate neighbour UpaZi, heard some shouting from the direction",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.530122756958008,
+      12.800000190734863,
+      12.846515655517578,
+      12.85941219329834,
+      12.91235637664795,
+      12.94423770904541,
+      13.031211853027344
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.8,
+      657.19,
+      529.82,
+      674.27
+    ],
+    "text": "of his neighbour's house. When he came out, saw the two houses were already",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.825923919677734,
+      12.830513954162598,
+      12.870207786560059,
+      12.920186042785645,
+      12.94636344909668,
+      12.95056438446045,
+      12.955357551574707,
+      13.028854370117188
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.15,
+      680.59,
+      529.51,
+      697.67
+    ],
+    "text": "on fire. After a while he saw the deceased rolling down from the roof of his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.811144828796387,
+      12.820533752441406,
+      12.868368148803711,
+      12.876471519470215,
+      13.028854370117188,
+      13.099838256835938
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      521.5,
+      729.57,
+      529.3,
+      743.44
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.98,
+      103.51,
+      532.21,
+      120.59
+    ],
+    "text": "house and fell outside. He also saw the 1st and 5th Appellants near the burning",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      12.800000190734863,
+      12.807997703552246,
+      12.820533752441406,
+      12.825325012207031,
+      12.863940238952637,
+      12.91978931427002,
+      12.962913513183594,
+      13.094023704528809,
+      13.124341011047363
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.98,
+      127.27,
+      323.03,
+      144.35
+    ],
+    "text": "houses but did not attribute any act to them.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.977716445922852,
+      12.978652954101562,
+      13.207270622253418,
+      13.237667083740234
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.47,
+      158.59,
+      531.44,
+      175.8
+    ],
+    "text": "IP Ranbanda of Ragama Police recorded the first information about this",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.814043045043945,
+      12.820533752441406,
+      12.974313735961914,
+      13.400157928466797,
+      13.515313148498535
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.89,
+      182.35,
+      530.31,
+      199.56
+    ],
+    "text": "incident on 24.09.1994 from Chandrani. He received message from Ragama",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.124341011047363,
+      13.211583137512207,
+      13.341224670410156,
+      13.534852981567383
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.58,
+      206.12,
+      531.31,
+      223.2
+    ],
+    "text": "Hospital and visited the deceased who was being treated at that hospital. He was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.838092803955078,
+      12.946413040161133,
+      12.978652954101562,
+      13.033226013183594,
+      13.03857707977295,
+      13.073282241821289,
+      13.124341011047363
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.46,
+      229.51,
+      531.01,
+      246.72
+    ],
+    "text": "screaming in pain but had said in a short statement\" Ajith, Rajah, Shelton\" had",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.836897850036621,
+      12.940923690795898,
+      12.948439598083496,
+      12.975940704345703,
+      13.057117462158203,
+      13.06353759765625,
+      13.181280136108398,
+      13.237667083740234,
+      13.343174934387207,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.51,
+      253.63,
+      210.63,
+      270.71
+    ],
+    "text": "caused his burn injuries.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.81124496459961,
+      13.145147323608398
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.5,
+      284.95,
+      531.16,
+      302.03
+    ],
+    "text": "Medical evidence revealed that the deceased had suffered burn injuries",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.965678215026855,
+      13.056038856506348,
+      13.06353759765625
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.52,
+      308.71,
+      531.4,
+      325.79
+    ],
+    "text": "over 48% of his body and at the time of medical examination these injuries were",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.682005882263184,
+      12.800000190734863,
+      12.812893867492676,
+      12.955357551574707,
+      12.956196784973145,
+      13.041374206542969,
+      13.094023704528809,
+      13.269392967224121
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.51,
+      332.48,
+      530.71,
+      349.56
+    ],
+    "text": "already infected. The death of the deceased was due to septicaemia following",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.899215698242188,
+      13.053882598876953,
+      13.199515342712402
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.3,
+      356.24,
+      148.71,
+      373.32
+    ],
+    "text": "bum injuries.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.421463012695312
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.5,
+      387.55,
+      531.04,
+      404.63
+    ],
+    "text": "With the above summary of evidence for the prosecution, this Court now",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.998855590820312,
+      13.023449897766113,
+      13.029099464416504
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.61,
+      411.31,
+      347.04,
+      428.39
+    ],
+    "text": "turns to consider the grounds of appeal in detail.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.868616104125977,
+      12.873290061950684,
+      12.916321754455566,
+      12.968096733093262
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.14,
+      442.99,
+      529.33,
+      460.07
+    ],
+    "text": "Relying on the prosecution evidence, learned Counsel for the 1st and 4th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      12.800000190734863,
+      12.820533752441406,
+      12.821083068847656,
+      12.82732105255127,
+      13.0410795211792,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.61,
+      466.75,
+      531.53,
+      483.83
+    ],
+    "text": "Appellants contended that the conviction for murder entered by the trial Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.8014497756958,
+      12.83006477355957,
+      12.857172966003418,
+      12.899959564208984,
+      12.956196784973145,
+      12.998855590820312,
+      13.121122360229492
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.26,
+      490.52,
+      530.7,
+      507.6
+    ],
+    "text": "was on the basis of the fourth limb of Section 294 of the Penal Code. After",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.809796333312988,
+      12.820533752441406,
+      12.838092803955078,
+      12.868616104125977,
+      13.211583137512207
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.15,
+      514.27,
+      530.0,
+      531.35
+    ],
+    "text": "concluding that the three Appellants are responsible for setting the house on fire",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.800300598144531,
+      12.81214427947998,
+      12.820533752441406,
+      12.868019104003906,
+      12.87895679473877,
+      12.965678215026855,
+      13.0410795211792
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.25,
+      538.03,
+      532.78,
+      555.13
+    ],
+    "text": "while the deceased was still inside, the trial Court arrived at that conclusion. It",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.857172966003418,
+      12.865631103515625,
+      12.910770416259766,
+      12.946413040161133,
+      12.998855590820312,
+      13.03857707977295,
+      13.507131576538086
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.17,
+      561.8,
+      530.85,
+      578.88
+    ],
+    "text": "is her contention that the said conclusion is an erroneous one since there is clear",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.800300598144531,
+      12.820533752441406,
+      12.828119277954102,
+      12.836897850036621,
+      12.856375694274902,
+      12.965678215026855,
+      13.176949501037598
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.14,
+      585.55,
+      530.86,
+      602.63
+    ],
+    "text": "evidence that the deceased escaped from the burning house alive and according",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.949525833129883,
+      12.978652954101562,
+      13.015092849731445,
+      13.073282241821289
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.26,
+      609.67,
+      531.06,
+      626.75
+    ],
+    "text": "to the prosecution witnesses the deceased himself said that he was set on fire at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.836897850036621,
+      12.9378080368042,
+      12.946413040161133,
+      12.965678215026855,
+      13.03857707977295,
+      13.0410795211792
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.14,
+      633.44,
+      531.49,
+      650.52
+    ],
+    "text": "an abandoned house at a different location. Thus, she contends that the bum",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.87895679473877,
+      12.891274452209473,
+      12.925088882446289,
+      12.961185455322266,
+      12.965678215026855,
+      12.997624397277832,
+      13.03857707977295,
+      13.513087272644043
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.17,
+      656.83,
+      530.29,
+      673.91
+    ],
+    "text": "injuries sustained by the deceased were not due to the fact that the house he had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.864934921264648,
+      12.87895679473877,
+      12.948439598083496,
+      12.955357551574707,
+      12.965678215026855,
+      12.97327709197998,
+      13.079646110534668,
+      13.085222244262695
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.1,
+      680.59,
+      410.62,
+      697.67
+    ],
+    "text": "slept in was set on fire but due to a totally separate incident.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.807598114013672,
+      13.0410795211792,
+      13.053882598876953,
+      13.057117462158203,
+      13.199515342712402,
+      13.237667083740234
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      522.23,
+      729.51,
+      529.8,
+      742.99
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107.17,
+      103.15,
+      531.48,
+      120.23
+    ],
+    "text": "There is merit in this contention by the 1st and 4th Appellants. Witnesses",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      8.729031562805176,
+      12.800000190734863,
+      12.8014497756958,
+      12.810296058654785,
+      12.837644577026367,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.45,
+      126.91,
+      531.47,
+      143.99
+    ],
+    "text": "Priyanganie, Chandrani and Upali confirm that the deceased escaped from the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.800000190734863,
+      12.820533752441406,
+      12.965678215026855,
+      12.978652954101562
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.37,
+      150.32,
+      531.76,
+      167.4
+    ],
+    "text": "burning house alive. Nilanthi saw, when she re-entered the burnt house with",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.800000190734863,
+      12.820533752441406,
+      12.87895679473877,
+      12.91057300567627,
+      12.925088882446289,
+      12.949525833129883,
+      12.95629596710205,
+      13.096320152282715,
+      13.12516975402832
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.3,
+      174.07,
+      531.37,
+      191.15
+    ],
+    "text": "Police, that her brother had stacked two chairs on top of each other and had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.825923919677734,
+      12.831011772155762,
+      12.860058784484863,
+      12.946313858032227,
+      12.948439598083496,
+      12.958320617675781,
+      12.965678215026855,
+      13.06353759765625,
+      13.094023704528809,
+      13.211583137512207
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.22,
+      198.19,
+      531.7,
+      215.27
+    ],
+    "text": "escaped through the roof of the burning house. She was specific that he had no",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.87895679473877,
+      12.934146881103516,
+      12.946413040161133,
+      12.949131965637207,
+      12.95056438446045,
+      12.962913513183594,
+      12.965678215026855,
+      13.06353759765625
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      221.59,
+      263.81,
+      238.67
+    ],
+    "text": "bum injuries at that point of time.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.965678215026855,
+      12.973474502563477,
+      13.03857707977295,
+      13.513087272644043
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      107.98,
+      253.27,
+      531.73,
+      270.35
+    ],
+    "text": "Upali saw the deceased rolling down the roof and fall outside the house.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.800000190734863,
+      12.807997703552246,
+      12.825325012207031,
+      13.028854370117188,
+      13.094023704528809,
+      13.174083709716797
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.3,
+      276.68,
+      531.92,
+      293.76
+    ],
+    "text": "Both Priyanganie and Chandrani attribute bum injuries of the deceased to the act",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.800000190734863,
+      12.820533752441406,
+      12.842479705810547,
+      13.094023704528809,
+      13.513087272644043
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.24,
+      300.44,
+      531.4,
+      317.52
+    ],
+    "text": "of setting him on fire at the abandoned house, based on his statement made after",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.824926376342773,
+      12.912654876708984,
+      12.944287300109863,
+      12.961185455322266,
+      13.025562286376953,
+      13.03857707977295,
+      13.0410795211792
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.34,
+      324.19,
+      530.94,
+      341.27
+    ],
+    "text": "he crawled back into their garden. There is no evidence that the deceased had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.83230972290039,
+      12.934146881103516,
+      12.965678215026855
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.82,
+      347.96,
+      531.29,
+      365.04
+    ],
+    "text": "suffered life threatening bum injuries when he escaped from the burning house",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.807997703552246,
+      12.820533752441406,
+      12.855978012084961,
+      12.95056438446045,
+      12.962913513183594,
+      13.096320152282715,
+      13.421463012695312
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.86,
+      371.71,
+      530.74,
+      388.79
+    ],
+    "text": "and Nilanthi negates any such inference. When the deceased had emerged from",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.800000190734863,
+      12.839190483093262,
+      12.862248420715332,
+      12.932909965515137,
+      13.016518592834473,
+      13.06353759765625,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.99,
+      395.48,
+      375.75,
+      412.56
+    ],
+    "text": "hiding, Chandrani saw most of his skin had peeled off.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.800000190734863,
+      12.848856925964355,
+      12.949131965637207,
+      13.06353759765625,
+      13.136964797973633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.82,
+      426.8,
+      530.91,
+      443.88
+    ],
+    "text": "Therefore, the basis on which the trial Court found the three appellants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.800300598144531,
+      12.820533752441406,
+      12.883030891418457,
+      12.888246536254883,
+      13.0410795211792,
+      13.070883750915527
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.89,
+      450.55,
+      531.75,
+      467.63
+    ],
+    "text": "guilty to the offence of murder had no evidentiary support and ought to be set",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.80629825592041,
+      12.806398391723633,
+      12.934146881103516,
+      13.06353759765625,
+      13.065006256103516,
+      13.121122360229492,
+      13.157896041870117,
+      13.208385467529297
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.87,
+      474.68,
+      107.65,
+      491.75
+    ],
+    "text": "aside.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.47,
+      505.99,
+      530.89,
+      523.07
+    ],
+    "text": "In view of the above finding, the other aspect of the 1st and 4th Appellants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.800000190734863,
+      12.820533752441406,
+      12.84980297088623,
+      13.031604766845703,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.98,
+      530.12,
+      530.8,
+      547.2
+    ],
+    "text": "have highlighted over the unreliability of the multiple dying declarations",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.818885803222656,
+      12.820533752441406,
+      12.823179244995117,
+      12.890778541564941
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.51,
+      553.87,
+      422.55,
+      570.95
+    ],
+    "text": "attributed to the deceased should be considered by this Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.8014497756958,
+      12.806398391723633,
+      12.85567855834961,
+      12.998855590820312
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      106.31,
+      585.55,
+      530.94,
+      602.63
+    ],
+    "text": "Since the deceased did not sustain injuries due to the act of the Appellants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.833307266235352,
+      12.869759559631348,
+      12.977716445922852,
+      13.079646110534668,
+      13.085222244262695
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.89,
+      609.31,
+      530.69,
+      626.39
+    ],
+    "text": "in setting his house on fire, the only remaining basis to impute criminal liability",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.831860542297363,
+      12.87895679473877,
+      12.981513023376465,
+      13.0410795211792
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.51,
+      633.08,
+      530.75,
+      650.16
+    ],
+    "text": "on them for his death should be based on the dying declaration made by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.8014497756958,
+      12.806398391723633,
+      12.824926376342773,
+      12.862447738647461,
+      12.937362670898438,
+      12.9630126953125,
+      12.974855422973633,
+      13.025562286376953,
+      13.0410795211792
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.88,
+      656.48,
+      530.56,
+      673.56
+    ],
+    "text": "deceased. The trial Court did not base its conviction on the dying declarations as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.9630126953125,
+      12.977716445922852,
+      12.998855590820312,
+      13.079646110534668,
+      13.211583137512207
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.53,
+      680.23,
+      530.93,
+      697.31
+    ],
+    "text": "it found the Appellants guilty on the fourth limb of Section 294 of the Penal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.809796333312988,
+      12.817987442016602,
+      12.820533752441406,
+      12.830214500427246,
+      12.837545394897461,
+      13.0410795211792
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      522.26,
+      729.47,
+      529.61,
+      742.54
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.23,
+      102.27,
+      531.37,
+      119.72
+    ],
+    "text": "Code. In the circumstances, this Court will have to consider the truthfulness and",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.866079330444336,
+      12.978652954101562,
+      12.998855590820312,
+      13.082199096679688
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.34,
+      126.56,
+      513.75,
+      143.64
+    ],
+    "text": "reliability of the multiple dying declarations that re-attributed to the deceased.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.818885803222656,
+      12.820533752441406,
+      12.857172966003418,
+      12.890778541564941
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      106.86,
+      157.88,
+      531.86,
+      174.96
+    ],
+    "text": "Before this Court ventures to consider the truthfulness and reliability of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.867223739624023,
+      13.070883750915527,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.24,
+      181.63,
+      531.34,
+      198.73
+    ],
+    "text": "dying declaration, it is relevant to consider the applicable legal considerations",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.890778541564941,
+      13.409175872802734
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.33,
+      205.39,
+      310.64,
+      222.47
+    ],
+    "text": "that are laid down by the superior Courts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.857172966003418,
+      12.868019104003906,
+      12.90010929107666,
+      12.97327709197998,
+      13.099838256835938
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      106.81,
+      236.71,
+      530.96,
+      253.92
+    ],
+    "text": "The Supreme Court in Sheela Sinharage v Attorney General (1985) 1 Sri",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.837644577026367,
+      12.998855590820312,
+      12.999741554260254,
+      13.399999618530273,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.93,
+      260.48,
+      530.65,
+      277.58
+    ],
+    "text": "L.R. 1, reiterated the \"necessity for the ipsissima verba used by a deceased in a dying",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.800000190734863,
+      12.820533752441406,
+      12.932287216186523,
+      12.988068580627441,
+      13.038679122924805,
+      13.152615547180176,
+      13.395648956298828,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.93,
+      284.24,
+      530.46,
+      301.45
+    ],
+    "text": "declaration\". This Court in Ranasinghe v Attorney General (2007) 1 Sri L.R. 218",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.800000190734863,
+      12.837644577026367,
+      13.070883750915527,
+      13.313772201538086,
+      13.399999618530273,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.81,
+      307.63,
+      135.99,
+      324.7
+    ],
+    "text": "stated that;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      142.3,
+      338.33,
+      492.01,
+      356.21
+    ],
+    "text": "\" ... the trial Judge or the jury as the case may be must be satisfied",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.11681079864502,
+      12.339158058166504,
+      12.41402530670166,
+      12.655624389648438,
+      12.726999282836914,
+      12.824700355529785,
+      12.912481307983398,
+      12.988068580627441,
+      13.33313274383545,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      141.74,
+      362.73,
+      490.75,
+      379.09
+    ],
+    "text": "beyond reasonable doubt on the following matters. (a) Whether the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.344368934631348,
+      12.781632423400879,
+      12.824700355529785,
+      12.988068580627441,
+      13.067166328430176,
+      13.323984146118164,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      141.41,
+      385.77,
+      491.84,
+      402.13
+    ],
+    "text": "deceased, in fact, made such a statement. (b) Whether the statement",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.79796314239502,
+      12.824700355529785,
+      12.857728004455566,
+      13.130234718322754,
+      13.152615547180176,
+      13.196504592895508,
+      13.3893461227417,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      141.78,
+      408.82,
+      490.82,
+      425.18
+    ],
+    "text": "made by the deceased was true and accurate. (c) Whether the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.492307662963867,
+      12.824700355529785,
+      12.932287216186523,
+      12.988068580627441,
+      13.025979995727539,
+      13.039962768554688,
+      13.208734512329102,
+      13.309041023254395,
+      13.395648956298828,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      141.52,
+      431.86,
+      491.57,
+      448.22
+    ],
+    "text": "statement made by the deceased person could be accepted beyond",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.339158058166504,
+      12.986520767211914,
+      12.988068580627441,
+      13.039962768554688,
+      13.143342018127441,
+      13.191122055053711,
+      13.209444999694824,
+      13.31950855255127,
+      13.323984146118164,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      141.77,
+      454.89,
+      490.97,
+      471.25
+    ],
+    "text": "reasonable doubt. (d) Whether the evidence of the witness who",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.519469261169434,
+      12.824700355529785,
+      13.02232837677002,
+      13.153023719787598,
+      13.234883308410645,
+      13.324134826660156,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      142.04,
+      477.93,
+      491.21,
+      494.29
+    ],
+    "text": "testifies about the dying declaration could be accepted beyond",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.11681079864502,
+      12.824700355529785,
+      13.143342018127441,
+      13.229109764099121,
+      13.23159122467041,
+      13.296802520751953,
+      13.323984146118164,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      141.77,
+      499.38,
+      490.6,
+      517.53
+    ],
+    "text": "reasonable doubt. (e) Whether witness is telling the truth. (j)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.307243347167969,
+      12.69148063659668,
+      12.824700355529785,
+      13.02232837677002,
+      13.087199211120605,
+      13.234883308410645,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      141.36,
+      524.37,
+      490.82,
+      540.73
+    ],
+    "text": "Whether the deceased was able to speak at the time the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.5431547164917,
+      12.735157012939453,
+      12.986520767211914,
+      12.988068580627441,
+      13.032562255859375,
+      13.150629043579102,
+      13.328509330749512,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      141.03,
+      547.42,
+      301.15,
+      563.78
+    ],
+    "text": "alleged declaration was made.\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.113282203674316,
+      13.150629043579102,
+      13.229109764099121,
+      13.377731323242188
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      106.53,
+      577.99,
+      530.39,
+      595.07
+    ],
+    "text": "As the learned Counsel for the 1st and 4th Appellants contended, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      8.779635429382324,
+      12.800000190734863,
+      12.820533752441406,
+      12.978652954101562
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.5,
+      601.75,
+      530.06,
+      618.83
+    ],
+    "text": "evidence reveal that there are multiple dying declarations that are attributed to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.813592910766602,
+      12.818885803222656,
+      12.868019104003906,
+      12.9630126953125,
+      12.965678215026855
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.6,
+      625.51,
+      148.39,
+      642.58
+    ],
+    "text": "the deceased.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      106.14,
+      656.83,
+      529.89,
+      673.91
+    ],
+    "text": "Mother of the deceased said the deceased told her \" @~ Q)~@C)) tDOg",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.665943145751953,
+      8.248690605163574,
+      10.600000381469727,
+      12.800000190734863,
+      12.836897850036621,
+      12.958320617675781
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.0,
+      680.59,
+      530.39,
+      697.69
+    ],
+    "text": "qoo)@~\" and said all five names of the accused. Priyangani who also saw the",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.536756992340088,
+      12.800000190734863,
+      12.836897850036621,
+      12.882831573486328,
+      12.91978931427002,
+      13.033226013183594,
+      13.094023704528809,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.52,
+      703.99,
+      529.39,
+      721.07
+    ],
+    "text": "deceased at the same time said what the deceased told them was \")C) qO.ro",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.58012580871582,
+      11.789894104003906,
+      12.800000190734863,
+      12.80364990234375,
+      12.820533752441406,
+      12.836897850036621,
+      12.932019233703613,
+      12.945720672607422,
+      12.946413040161133,
+      13.205429077148438
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      521.81,
+      728.63,
+      529.76,
+      742.77
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.6,
+      102.44,
+      530.39,
+      119.52
+    ],
+    "text": "3\\63ro 3\\6\\ OIQlQ)l\". Nilanthi added that \" lOS (3))cg@ (3)6\\63cg@ q1.3oCl gClCl@",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.839289665222168,
+      10.267422676086426,
+      10.311570167541504,
+      10.314310073852539,
+      10.606840133666992,
+      10.764880180358887,
+      11.041738510131836,
+      11.300000190734863,
+      12.399999618530273,
+      12.800000190734863,
+      12.965678215026855,
+      13.175250053405762
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.72,
+      126.56,
+      530.92,
+      143.64
+    ],
+    "text": "OClOClJcgCl~Oo\\ qlroo!!))\". The deceased himself mentioned three names only but did",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.7363715171813965,
+      11.009465217590332,
+      12.800000190734863,
+      12.819784164428711,
+      12.847312927246094,
+      12.877763748168945,
+      12.882831573486328,
+      13.237667083740234
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.98,
+      150.32,
+      275.23,
+      167.4
+    ],
+    "text": "not attribute any act to any of them.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.862248420715332,
+      12.950811386108398,
+      12.978652954101562
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.87,
+      181.63,
+      531.1,
+      198.71
+    ],
+    "text": "When these somewhat inconsistent declarations that are attributed to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.85567855834961,
+      12.868019104003906,
+      12.875825881958008,
+      12.965678215026855,
+      13.020992279052734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.88,
+      205.39,
+      530.05,
+      222.47
+    ],
+    "text": "deceased, this Court finds that none of the witnesses' evidence in relation to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.837644577026367,
+      12.945572853088379,
+      12.965678215026855,
+      12.998855590820312
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.96,
+      229.15,
+      531.06,
+      246.23
+    ],
+    "text": "multiple dying declarations could be accepted as truthful and reliable. The Police",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.806398391723633,
+      12.806848526000977,
+      12.850051879882812,
+      12.890778541564941,
+      12.978652954101562
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.88,
+      252.56,
+      530.12,
+      269.64
+    ],
+    "text": "officer merely stated that the deceased said\" qc:l~ o~o~ q8o\\, 0)0), <wcgoro Oo!!)",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.439945697784424,
+      7.366878509521484,
+      9.339295387268066,
+      10.017523765563965,
+      11.300000190734863,
+      12.800000190734863,
+      12.814092636108398,
+      13.073282241821289,
+      13.755720138549805
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.23,
+      276.68,
+      530.83,
+      293.76
+    ],
+    "text": "qo ClSro 3\\6\\ 0lQ) ClJCl)~ Ol@ \" . The dying declaration made by the deceased",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.088261604309082,
+      8.0,
+      10.730077743530273,
+      11.000531196594238,
+      11.300000190734863,
+      12.000770568847656,
+      12.800000190734863,
+      12.8014497756958,
+      12.9630126953125,
+      13.025562286376953
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.62,
+      300.01,
+      531.28,
+      317.32
+    ],
+    "text": "himself is bereft of any detail. It is not clear whether his mentioning of three",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.800300598144531,
+      12.848359107971191,
+      12.862248420715332,
+      13.007075309753418,
+      13.079646110534668,
+      13.480392456054688
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.26,
+      323.83,
+      530.76,
+      340.91
+    ],
+    "text": "names in relation to the incident of setting fire to his house or to the incident his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.837644577026367,
+      12.837843894958496,
+      12.87895679473877,
+      12.882831573486328,
+      13.074555397033691
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.61,
+      347.59,
+      530.9,
+      364.67
+    ],
+    "text": "mother and sister had attributed to him during which he claims to have",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.815041542053223,
+      12.85567855834961,
+      12.896039962768555,
+      12.944287300109863,
+      12.978652954101562,
+      13.06353759765625,
+      13.089134216308594
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.45,
+      371.35,
+      343.18,
+      388.43
+    ],
+    "text": "sustained burn injuries at the abandoned house.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.99880599975586,
+      13.03857707977295,
+      13.145147323608398
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.47,
+      402.68,
+      531.14,
+      419.76
+    ],
+    "text": "In view of the above considerations, this Court is of the view that none of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.826373100280762,
+      12.860158920288086,
+      12.870009422302246,
+      12.965678215026855,
+      13.070883750915527
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.62,
+      426.8,
+      531.13,
+      443.88
+    ],
+    "text": "these dying declarations satisfy the tests that had been enunciated by the judicial",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.884173393249512,
+      12.890778541564941,
+      12.965678215026855,
+      12.97327709197998,
+      13.06353759765625
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.3,
+      450.55,
+      529.69,
+      467.63
+    ],
+    "text": "precedents and should be rejected as unreliable, leaving no evidentiary basis to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.806848526000977,
+      12.819086074829102,
+      12.934146881103516,
+      12.998855590820312,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.1,
+      474.31,
+      530.76,
+      491.39
+    ],
+    "text": "sustain a conviction for murder. The contention of the Learned Counsel for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.821782112121582,
+      12.833307266235352,
+      12.955900192260742
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.11,
+      498.08,
+      530.73,
+      515.16
+    ],
+    "text": "5th Appellant that the evidence of the prosecution witness that the Appellant had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.800000190734863,
+      12.820533752441406,
+      12.82732105255127,
+      12.838642120361328,
+      12.857172966003418,
+      12.965678215026855,
+      13.06353759765625
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.15,
+      521.83,
+      529.34,
+      538.91
+    ],
+    "text": "chased the occupants away after setting fire to the house negates any intention to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.87895679473877,
+      12.967849731445312,
+      12.978652954101562
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.78,
+      545.59,
+      330.22,
+      562.67
+    ],
+    "text": "cause harm to them is relevant in this context.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.837644577026367,
+      12.862447738647461,
+      13.027970314025879
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.09,
+      577.27,
+      531.11,
+      594.35
+    ],
+    "text": "The three Appellants were also found guilty of causing mischief, the count",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.81214427947998,
+      12.817987442016602,
+      12.820533752441406,
+      12.828667640686035,
+      12.924544334411621,
+      12.955357551574707
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.98,
+      601.03,
+      530.76,
+      618.11
+    ],
+    "text": "No. 8 of the indictment, under Section 410 of the Penal Code with common",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.915974617004395,
+      12.91954231262207,
+      12.95629596710205,
+      13.15755558013916
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.17,
+      624.8,
+      530.6,
+      641.88
+    ],
+    "text": "intention. This Court finds the said conviction is based on the available evidence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.824926376342773,
+      12.998855590820312,
+      13.0410795211792
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.78,
+      648.55,
+      530.37,
+      665.63
+    ],
+    "text": "and is therefore justified. The 5th Appellant's contention that the trial Court had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.800000190734863,
+      12.830015182495117,
+      12.841134071350098,
+      12.965678215026855,
+      12.998855590820312,
+      13.06353759765625,
+      13.208385467529297
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.78,
+      672.31,
+      530.78,
+      689.39
+    ],
+    "text": "failed to consider the prosecution evidence which indicate the absence of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.82732105255127,
+      12.883030891418457
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.17,
+      695.72,
+      530.39,
+      712.8
+    ],
+    "text": "intention to cause injury to anyone might not have direct reference to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.866079330444336,
+      12.908491134643555,
+      12.953479766845703,
+      13.079646110534668
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      521.89,
+      729.79,
+      529.65,
+      742.57
+    ],
+    "text": "9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.86,
+      102.8,
+      530.95,
+      119.88
+    ],
+    "text": "elements of the offence of mischief. The evidence is that the intruders claimed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.893856048583984,
+      12.965678215026855
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.97,
+      126.56,
+      531.69,
+      143.64
+    ],
+    "text": "that they set fire and shouted that the inmates to leave the burning house. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.807997703552246,
+      12.820533752441406,
+      12.88953685760498,
+      12.9378080368042,
+      12.965678215026855,
+      13.015092849731445,
+      13.073282241821289,
+      13.208385467529297
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.62,
+      150.32,
+      531.82,
+      167.4
+    ],
+    "text": "requisite intention to cause damage and destruction to property is clearly evident",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.804348945617676,
+      12.883726119995117,
+      13.013126373291016,
+      13.014798164367676,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.5,
+      174.07,
+      276.62,
+      191.15
+    ],
+    "text": "from the testimony of the witnesses.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      106.45,
+      205.39,
+      531.09,
+      222.47
+    ],
+    "text": "The other contention of the 5th Appellant; that the trial Court had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.800000190734863,
+      12.820533752441406,
+      12.857172966003418,
+      12.92642593383789,
+      12.929841041564941,
+      13.06353759765625
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.5,
+      229.15,
+      531.38,
+      246.23
+    ],
+    "text": "erroneously rejected his dock statement upon a comparison with the prosecution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.903977394104004,
+      12.912654876708984,
+      12.95629596710205,
+      13.177726745605469
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.5,
+      252.91,
+      531.67,
+      269.99
+    ],
+    "text": "evidence, is apparently based on the statement in which the trial Court states that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.837644577026367,
+      12.857172966003418,
+      12.92642593383789,
+      12.934295654296875,
+      12.950663566589355,
+      12.955060958862305,
+      13.0410795211792
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.45,
+      277.72,
+      532.93,
+      291.2
+    ],
+    "text": "\" ... 016.I~@~ ~~Bool B ql6\\ ~(5)Cl <;(01~ G:))01~ (';)le6\\~@O (3)l~S~ 5 Cl~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.127645492553711,
+      6.314662456512451,
+      6.402981758117676,
+      6.641707420349121,
+      6.868466854095459,
+      6.949751853942871,
+      7.568606853485107,
+      7.751953125,
+      10.100000381469727,
+      10.865817070007324
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      296.79,
+      531.95,
+      310.27
+    ],
+    "text": "~oI6\\ClOlGS ~ gClJ31Cl ~ (,;)ClllCl~ ClJO QiClol, i!J~ Gl.1i\\ CllQlO Cl@~ (';)SQi~aB",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.878851890563965,
+      5.96999979019165,
+      6.3894362449646,
+      6.735050201416016,
+      6.814755916595459,
+      7.776888847351074,
+      7.948641300201416,
+      9.182639122009277,
+      9.847647666931152,
+      9.979532241821289,
+      10.002479553222656,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.89,
+      315.01,
+      533.43,
+      329.71
+    ],
+    "text": "ql6\\ QiClol o~ ClB. S q.:!)Cl .1i\\Clo ~ClO Gl.1i\\ Cll\"'O 1 (';)(5) 5 ~oI6\\Cl~Cl~",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.138424396514893,
+      7.385180950164795,
+      8.313898086547852,
+      8.812429428100586,
+      9.182639122009277,
+      9.680383682250977,
+      9.741642951965332,
+      9.814618110656738,
+      9.819865226745605,
+      10.037104606628418,
+      10.100000381469727,
+      10.699999809265137,
+      10.766602516174316
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.0,
+      334.96,
+      531.73,
+      348.44
+    ],
+    "text": "Cl@~ (';)SQi~a B ql6\\ QiClO 01(5)1~@ (,;)JoS~ Gl~ 016.I~@ (,;)JaJotl!l (';)lClCl~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.584433555603027,
+      5.96999979019165,
+      6.23545503616333,
+      6.458784580230713,
+      7.171882629394531,
+      7.529999732971191,
+      7.776888847351074,
+      9.2595853805542,
+      10.100000381469727,
+      10.766602516174316
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.91,
+      353.35,
+      356.07,
+      368.74
+    ],
+    "text": "ClJOCl i!Jog ClO ql6\\ QiClO (';)z~O 001 Cl \".",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.812804698944092,
+      7.636812210083008,
+      8.951557159423828,
+      9.419259071350098,
+      9.740191459655762,
+      9.845288276672363,
+      10.100000381469727,
+      10.160120964050293,
+      10.293987274169922,
+      10.766602516174316,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      106.11,
+      382.15,
+      530.75,
+      399.23
+    ],
+    "text": "In his statement from the dock, the 5th Appellant stated in relation to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.800000190734863,
+      12.820533752441406,
+      12.826373100280762,
+      12.838642120361328,
+      12.884322166442871,
+      12.955060958862305,
+      13.057117462158203
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.17,
+      405.91,
+      530.76,
+      422.99
+    ],
+    "text": "incident that he heard that his name transpired as the person who set fire to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.806848526000977,
+      12.842031478881836,
+      12.95056438446045,
+      12.964691162109375,
+      12.965678215026855,
+      13.022318840026855,
+      13.031211853027344,
+      13.033226013183594
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.26,
+      429.68,
+      353.54,
+      446.76
+    ],
+    "text": "houses and therefore he went there to investigate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.800300598144531,
+      13.094023704528809,
+      13.121561050415039
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      105.74,
+      461.35,
+      530.59,
+      478.43
+    ],
+    "text": "The position that he went near the burning house merely to see what was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.838092803955078,
+      12.87895679473877,
+      12.95056438446045,
+      12.956196784973145,
+      12.959555625915527,
+      13.015092849731445,
+      13.073282241821289,
+      13.121561050415039,
+      13.205429077148438
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.17,
+      485.12,
+      529.12,
+      502.2
+    ],
+    "text": "going on had not been put to any of the prosecution witnesses by the 5th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.800000190734863,
+      12.820533752441406,
+      12.97327709197998,
+      12.978652954101562,
+      13.0410795211792,
+      13.06353759765625,
+      13.079646110534668,
+      13.36143684387207
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.61,
+      508.87,
+      530.99,
+      525.95
+    ],
+    "text": "Appellant and was advanced for the first time in his statement from the dock. In",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.826373100280762,
+      12.837644577026367,
+      12.912654876708984,
+      12.923455238342285,
+      12.946413040161133,
+      13.208385467529297
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.15,
+      532.99,
+      531.13,
+      550.07
+    ],
+    "text": "applying probability test, it is noted that his conduct of visiting the burning",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.830214500427246,
+      12.868616104125977,
+      12.875377655029297,
+      12.934444427490234,
+      12.953479766845703,
+      12.962913513183594,
+      12.965678215026855
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.26,
+      556.4,
+      530.38,
+      573.48
+    ],
+    "text": "houses as admitted by the 5th Appellant, especially when he is accused of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.800000190734863,
+      12.97327709197998,
+      12.97342586517334,
+      13.096320152282715
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.1,
+      580.51,
+      292.71,
+      597.59
+    ],
+    "text": "said crime, is highly an improbable act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.176949501037598
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      105.73,
+      612.19,
+      531.1,
+      629.27
+    ],
+    "text": "The highlighted portion of the judgment is in relation to the said conduct",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.836897850036621,
+      12.837644577026367,
+      12.882583618164062,
+      12.913050651550293,
+      13.077835083007812
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.16,
+      635.95,
+      531.17,
+      653.03
+    ],
+    "text": "of the 5th Appellant and the impression that the wording used by the trial Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.800000190734863,
+      12.820533752441406,
+      12.824776649475098,
+      12.880000114440918,
+      12.940083503723145,
+      12.965678215026855,
+      12.97327709197998,
+      12.998855590820312,
+      13.046771049499512,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.79,
+      659.35,
+      530.29,
+      676.43
+    ],
+    "text": "creates in the mind of the reader that it had compared the two versions side by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.8014497756958,
+      12.820533752441406,
+      12.830214500427246,
+      12.892217636108398,
+      12.934889793395996,
+      12.937956809997559,
+      12.965678215026855,
+      13.026643753051758,
+      13.057117462158203,
+      13.177629470825195
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.1,
+      683.11,
+      531.09,
+      700.19
+    ],
+    "text": "side in determining to reject is a result of its manner of presentation and not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.832059860229492,
+      12.839190483093262,
+      13.006287574768066,
+      13.057117462158203,
+      13.079646110534668,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.9,
+      706.88,
+      285.08,
+      723.96
+    ],
+    "text": "necessarily due to such a comparison.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.839190483093262,
+      13.199515342712402
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      516.6,
+      728.8,
+      530.51,
+      742.28
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.19975757598877
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.53,
+      103.51,
+      531.47,
+      120.59
+    ],
+    "text": "Therefore, this Court is not convinced that the trial Court had in fact",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.837644577026367,
+      12.948439598083496,
+      12.998855590820312,
+      13.073282241821289,
+      13.079646110534668
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.23,
+      127.63,
+      532.1,
+      144.71
+    ],
+    "text": "compared the two versions of events and of the view that it was merely rejecting",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.825923919677734,
+      12.830214500427246,
+      12.857172966003418,
+      12.870009422302246,
+      12.893112182617188,
+      12.946413040161133,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.69,
+      151.39,
+      531.37,
+      168.47
+    ],
+    "text": "the 5th Appellant's position that he was there at the scene only as an observer, by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.800000190734863,
+      12.819784164428711,
+      12.820533752441406,
+      12.841134071350098,
+      12.857172966003418,
+      12.95056438446045,
+      13.03857707977295,
+      13.053882598876953,
+      13.176949501037598
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.23,
+      175.15,
+      236.6,
+      192.23
+    ],
+    "text": "applying the probability test.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.921968460083008
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.19,
+      206.48,
+      531.73,
+      223.56
+    ],
+    "text": "In the circumstances, this Court partly allows the appeals of the 1st, 4th and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      8.729031562805176,
+      12.800000190734863,
+      12.820533752441406,
+      12.826373100280762,
+      12.90492057800293,
+      12.910621643066406,
+      12.978652954101562,
+      12.998855590820312
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.18,
+      230.24,
+      531.83,
+      247.32
+    ],
+    "text": "5th Appellants by setting aside their conviction for the offence of murder and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.800000190734863,
+      12.8014497756958,
+      12.820533752441406,
+      12.825873374938965,
+      13.094023704528809,
+      13.121122360229492
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.18,
+      254.0,
+      531.14,
+      271.08
+    ],
+    "text": "sentence of death. Their conviction for the offence of mischief is accordingly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.974855422973633
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.24,
+      277.39,
+      531.49,
+      294.47
+    ],
+    "text": "affirmed. The three Appellants are sentenced by this Court for 2 years of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.81214427947998,
+      12.868019104003906,
+      12.97327709197998,
+      13.070883750915527
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.25,
+      301.15,
+      531.4,
+      318.23
+    ],
+    "text": "imprisonment, being the maximum punishment with which they can be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.82218074798584,
+      12.879205703735352,
+      12.883030891418457,
+      12.907299995422363,
+      12.983238220214844,
+      13.04848861694336,
+      13.062704086303711
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      324.91,
+      531.78,
+      341.99
+    ],
+    "text": "punished. In view of the fact that they were incarcerated since their conviction on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.826373100280762,
+      12.837644577026367,
+      12.868368148803711,
+      12.870009422302246,
+      12.955357551574707,
+      12.965678215026855
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71.87,
+      348.68,
+      531.47,
+      365.76
+    ],
+    "text": "02.05.2017, this Court accordingly imposes a fine of Rs, 100,000.00 on each of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.998855590820312,
+      13.0410795211792
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.34,
+      372.43,
+      531.96,
+      389.51
+    ],
+    "text": "Appellants and in default six months of imprisonment. In the event the default",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.80055046081543,
+      12.803400039672852,
+      12.820533752441406,
+      12.826373100280762,
+      12.837644577026367,
+      12.891672134399414,
+      12.928801536560059,
+      12.978652954101562
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71.82,
+      396.19,
+      514.82,
+      413.27
+    ],
+    "text": "sentence is to be implemented, it should run consecutive to the other sentence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.806398391723633,
+      12.820533752441406,
+      12.822330474853516,
+      12.937362670898438,
+      13.178844451904297
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      308.44,
+      480.84,
+      530.37,
+      498.31
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.114941596984863,
+      13.166729927062988
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      71.94,
+      511.81,
+      224.54,
+      546.11
+    ],
+    "text": "DEVIKA ABEYRATNE, I. I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      308.08,
+      591.72,
+      530.38,
+      609.19
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.166729927062988
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      517.32,
+      730.03,
+      529.79,
+      743.77
+    ],
+    "text": "11",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  }
+]

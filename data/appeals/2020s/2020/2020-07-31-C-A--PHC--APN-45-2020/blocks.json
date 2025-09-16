@@ -1,0 +1,685 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      105.05,
+      85.33,
+      506.32,
+      102.51
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.296971321105957,
+      12.399999618530273,
+      12.43734359741211,
+      12.560115814208984
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.66,
+      108.36,
+      393.98,
+      125.54
+    ],
+    "text": "REPUBLICE OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.433854103088379
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.95,
+      291.58,
+      285.06,
+      308.79
+    ],
+    "text": "Case No: CA/PHC (APN) 45/2020",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.199999809265137,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      91.38,
+      313.97,
+      274.02,
+      330.76
+    ],
+    "text": "HC (Colombo) No: HC/634/2019",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.13379192352295,
+      12.199999809265137,
+      12.276283264160156,
+      12.343873023986816,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.28,
+      739.73,
+      307.26,
+      752.13
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.59,
+      154.19,
+      518.89,
+      170.47
+    ],
+    "text": "In the matter of an application for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.962331771850586
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.62,
+      177.22,
+      521.6,
+      193.5
+    ],
+    "text": "Revision under and in terms of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.962331771850586
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.3,
+      200.27,
+      521.6,
+      216.55
+    ],
+    "text": "Article 138 of the Constitution of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.962331771850586,
+      13.157292366027832
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.65,
+      222.95,
+      519.37,
+      239.23
+    ],
+    "text": "the Democratic Socialist Republic",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.55,
+      245.98,
+      397.35,
+      262.26
+    ],
+    "text": "of Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.962331771850586
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.3,
+      337.43,
+      449.48,
+      353.71
+    ],
+    "text": "Ananda Samarasekara",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.26,
+      360.1,
+      461.18,
+      376.38
+    ],
+    "text": "41, Gnaratana Mawatha,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.61,
+      383.5,
+      389.86,
+      399.78
+    ],
+    "text": "Pepiliyana.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.3,
+      429.12,
+      438.89,
+      446.3
+    ],
+    "text": "Accused-Petitioner",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.29,
+      474.94,
+      348.0,
+      491.22
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.27,
+      520.67,
+      455.32,
+      536.94
+    ],
+    "text": "Hon. Attorney General,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.94,
+      543.7,
+      501.2,
+      559.99
+    ],
+    "text": "Attorney General's Department,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.224026679992676
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.83,
+      566.38,
+      398.79,
+      582.66
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.82,
+      612.36,
+      476.83,
+      629.54
+    ],
+    "text": "Complainant-Respondent",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.57,
+      69.75,
+      145.81,
+      87.06
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.49,
+      138.51,
+      156.09,
+      155.82
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.0,
+      230.23,
+      175.94,
+      247.0
+    ],
+    "text": "DECIDED ON",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.253133773803711,
+      12.341381072998047
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      225.29,
+      69.75,
+      483.94,
+      87.06
+    ],
+    "text": "HON. JUSTICE K.K. WICKREMASINGHE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224.93,
+      92.78,
+      462.29,
+      110.09
+    ],
+    "text": "HON. JUSTICE DEVIKA ABEYRATNE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224.89,
+      138.39,
+      516.82,
+      155.07
+    ],
+    "text": "Thishya Weragoda with Thamila Perera for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224.62,
+      161.42,
+      331.51,
+      178.1
+    ],
+    "text": "Accused-Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224.87,
+      184.46,
+      421.4,
+      201.14
+    ],
+    "text": "Chathuri Wijesuriya, SC for the AG.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224.92,
+      230.19,
+      286.86,
+      246.86
+    ],
+    "text": "29.07.2020",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.21,
+      276.02,
+      351.08,
+      293.33
+    ],
+    "text": "HON. JUSTICE K.K. WICKREMASINGHE,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.17,
+      321.98,
+      516.18,
+      338.66
+    ],
+    "text": "The Learned Counsel informs Court that the Petitioner is not among living and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.09865665435791,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.24,
+      344.66,
+      470.35,
+      361.34
+    ],
+    "text": "therefore, the Learned Counsel is withdrawing this revision application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.397429466247559,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.89,
+      381.03,
+      302.85,
+      397.7
+    ],
+    "text": "Accordingly, the withdrawal is allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.397429466247559,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.86,
+      417.03,
+      516.63,
+      433.7
+    ],
+    "text": "Further he informs Court that he will be providing a true copy of the death",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.120737075805664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.81,
+      440.08,
+      227.96,
+      456.75
+    ],
+    "text": "certificate to the Registry.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.81,
+      476.08,
+      190.15,
+      492.75
+    ],
+    "text": "The case is abated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.397429466247559,
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.36,
+      544.94,
+      514.1,
+      562.25
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.85,
+      590.46,
+      269.46,
+      608.05
+    ],
+    "text": "Ron. Justice Devika Abeyratne.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      122.31,
+      613.59,
+      163.85,
+      630.26
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.01,
+      682.1,
+      513.74,
+      699.41
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.73,
+      721.9,
+      115.73,
+      735.91
+    ],
+    "text": "SMRI-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.367412567138672
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298.74,
+      740.28,
+      306.09,
+      753.35
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  }
+]

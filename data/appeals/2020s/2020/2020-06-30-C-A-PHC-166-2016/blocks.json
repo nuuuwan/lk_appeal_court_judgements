@@ -1,0 +1,2043 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      74.82,
+      91.93,
+      526.86,
+      108.0
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.387351036071777,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.18,
+      112.92,
+      335.47,
+      128.12
+    ],
+    "text": "SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.462578773498535,
+      11.585736274719238
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.47,
+      243.3,
+      219.69,
+      278.21
+    ],
+    "text": "Court of Appeal Case No. CA PHC 166/2016",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      13.5,
+      13.852595329284668
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.56,
+      291.9,
+      236.1,
+      326.79
+    ],
+    "text": "High Court of Kandy HC Case No. Rev. 123116",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.5,
+      14.054847717285156
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.56,
+      340.51,
+      230.13,
+      376.83
+    ],
+    "text": "Magistrate Court of Kandy Case No. 14240/16",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      13.5,
+      13.852595329284668
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      253.68,
+      147.48,
+      344.13,
+      194.71
+    ],
+    "text": "Officer in Charge, Police Station, Kandy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.4,
+      195.35,
+      391.55,
+      210.55
+    ],
+    "text": "Complainant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.11,
+      224.79,
+      340.11,
+      244.85
+    ],
+    "text": "v.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.399726867675781
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      253.49,
+      248.99,
+      491.12,
+      278.24
+    ],
+    "text": "Sangakkara Mudiyanselage Salinda Sangakkara, No.54, Pilapitiya,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.11,
+      276.72,
+      341.87,
+      291.92
+    ],
+    "text": "Kiribathkumbura.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.5,
+      318.46,
+      369.96,
+      333.67
+    ],
+    "text": "Accused",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.02,
+      353.38,
+      346.17,
+      368.59
+    ],
+    "text": "AND BETWEEN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.2,
+      388.3,
+      491.5,
+      431.23
+    ],
+    "text": "Sangakkara Mudiyanselage Salinda Sangakkara, No.54, Pilapitiya, Kiribathkumbura.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.5,
+      443.75,
+      425.26,
+      458.96
+    ],
+    "text": "Accused- Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.83,
+      473.19,
+      340.83,
+      493.25
+    ],
+    "text": "v.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.399726867675781
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      255.25,
+      497.75,
+      356.73,
+      512.95
+    ],
+    "text": "1. Officer in Charge,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.713531494140625,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.36,
+      513.6,
+      339.6,
+      544.99
+    ],
+    "text": "Police Station, Kandy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.45,
+      559.67,
+      425.64,
+      606.91
+    ],
+    "text": "2. Hon. Attorney General, Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.38288688659668,
+      11.38884449005127,
+      11.399999618530273,
+      11.748716354370117
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.12,
+      621.59,
+      461.1,
+      636.79
+    ],
+    "text": "Complainant- Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.5,
+      662.99,
+      375.75,
+      678.2
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.2,
+      697.2,
+      491.83,
+      726.08
+    ],
+    "text": "Sangakkara Mudiyanselage Salinda Sangakkara, No.54, Pilapitiya,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      254.82,
+      724.92,
+      342.58,
+      740.13
+    ],
+    "text": "Kiribathkumbura.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.21,
+      752.28,
+      480.59,
+      767.49
+    ],
+    "text": "Accused- Petitioner- Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      522.41,
+      781.56,
+      530.5,
+      794.89
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.37,
+      279.13,
+      124.49,
+      295.2
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.31,
+      348.24,
+      133.65,
+      364.31
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.42,
+      387.02,
+      148.18,
+      402.5
+    ],
+    "text": "ARGUED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.41,
+      433.2,
+      219.76,
+      462.61
+    ],
+    "text": "WRITTEN SUBMISSIONS FILED ON",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.670387268066406
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.01,
+      489.98,
+      166.02,
+      505.45
+    ],
+    "text": "JUDGMENT ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.670387268066406,
+      11.738572120666504
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.2,
+      539.92,
+      250.22,
+      556.19
+    ],
+    "text": "K. PRIY ANTHA FERNANDO, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.0,
+      11.130875587463379,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      326.83,
+      65.99,
+      340.35,
+      85.64
+    ],
+    "text": "v.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.003118515014648
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255.16,
+      110.9,
+      357.76,
+      126.37
+    ],
+    "text": "I. Officer in Charge,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267.79,
+      126.75,
+      340.55,
+      158.42
+    ],
+    "text": "Police Station, Kandy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      254.1,
+      174.62,
+      384.34,
+      190.09
+    ],
+    "text": "2. Hon. Attorney General,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.224213600158691,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267.72,
+      190.46,
+      426.45,
+      222.14
+    ],
+    "text": "Attorney General's Department, Colombo 12.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.48230266571045,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      326.47,
+      236.54,
+      452.12,
+      252.01
+    ],
+    "text": "Respondent-Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.5,
+      278.57,
+      444.78,
+      294.83
+    ],
+    "text": "ACHALA WENGAPPULI, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.5,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.81,
+      301.81,
+      465.6,
+      317.88
+    ],
+    "text": "K. PRIYANTHA FERNANDO, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.0,
+      11.258369445800781,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.47,
+      347.42,
+      507.36,
+      362.89
+    ],
+    "text": "Panchali Witharana SC for the Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.76,
+      386.67,
+      347.74,
+      402.14
+    ],
+    "text": "09.06.2020",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.65,
+      446.42,
+      445.9,
+      461.89
+    ],
+    "text": "20.05.2020 by the Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      290.74,
+      489.62,
+      347.51,
+      505.09
+    ],
+    "text": "30.06.2020",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.68,
+      587.89,
+      529.53,
+      603.37
+    ],
+    "text": "01. The Accused-Petitioner-Appellant (hereinafter referred to as Appellant) has preferred this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.98,
+      608.42,
+      529.82,
+      623.89
+    ],
+    "text": "appeal against the order of the learned High Court Judge of Kandy dated 01.12.2016",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.01,
+      629.3,
+      530.03,
+      644.77
+    ],
+    "text": "dismissing the revision application filed against the order of cancellation of his driving",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.38,
+      650.18,
+      378.28,
+      665.65
+    ],
+    "text": "licence by the learned Magistrate of Kandy dated 07.11.2016.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      56.04,
+      691.58,
+      529.26,
+      707.05
+    ],
+    "text": "02. After paying the relevant brief fees for the appeal, upon receiving notice by this Court, on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.516398429870605,
+      11.549239158630371,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.41,
+      712.47,
+      529.61,
+      727.94
+    ],
+    "text": "21.01.2020 the Appellant appeared, and learned counsel for the Appellant moved for time to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.37,
+      732.99,
+      529.6,
+      748.46
+    ],
+    "text": "collect the brief. However, thereafter, the Appellant failed to appear or to take steps to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.49,
+      753.87,
+      530.84,
+      769.34
+    ],
+    "text": "pursue the appeal. Thus, as the Appellant opted not to attend the Court, nor retain counsel,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      522.66,
+      781.51,
+      530.39,
+      795.25
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.64,
+      69.51,
+      531.65,
+      84.98
+    ],
+    "text": "Court decided to proceed to consider the merits of the appeal, in terms of section 349(3) of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.503297805786133,
+      11.600000381469727,
+      12.051368713378906,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.37,
+      90.75,
+      257.09,
+      106.22
+    ],
+    "text": "the Code of Criminal Procedure Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.32,
+      142.59,
+      529.02,
+      158.06
+    ],
+    "text": "03. I have carefully considered the proceedings in the Magistrate's Court, the order of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.503297805786133,
+      11.549239158630371,
+      11.600000381469727,
+      11.848831176757812
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.66,
+      163.09,
+      529.08,
+      178.57
+    ],
+    "text": "learned Magistrate, the proceedings in the High Court including the judgment of the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.503297805786133,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.72,
+      183.98,
+      528.87,
+      199.45
+    ],
+    "text": "High Court Judge, petition of appeal by the Appellant and the written submissions fi led by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.604153633117676,
+      11.45119571685791,
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.09,
+      204.86,
+      300.35,
+      220.33
+    ],
+    "text": "the learned State Counsel for the Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.73,
+      255.21,
+      144.93,
+      271.0
+    ],
+    "text": "Facts in brief",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.170591354370117,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.68,
+      297.39,
+      529.46,
+      312.86
+    ],
+    "text": "04. The Appellant was charged in the Magistrate's Court of Kandy for an offence punishable",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.503297805786133,
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.12,
+      318.61,
+      528.76,
+      334.09
+    ],
+    "text": "under section 216 to be read with sections 214(l)a and 151(I)A of the Motor Traffic Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.232891082763672,
+      11.600000381469727,
+      12.078481674194336,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.09,
+      339.51,
+      532.01,
+      354.98
+    ],
+    "text": "After conviction upon pleading guilty to the charge, the learned Magistrate imposed a fine of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.39544677734375,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.07,
+      360.39,
+      529.38,
+      375.86
+    ],
+    "text": "Rs. 7,5001- and ordered cancellation of the Appellant's driving licence. Being aggrieved by",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.998634338378906,
+      11.151114463806152,
+      11.494369506835938,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.74,
+      381.25,
+      529.92,
+      396.73
+    ],
+    "text": "the above order of cancellation of the driving licence by the learned Magistrate, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.73,
+      402.14,
+      529.26,
+      417.61
+    ],
+    "text": "Appellant moved in revision before the High Court of Kandy. The learned High Court Judge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.503297805786133,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.01,
+      422.67,
+      529.55,
+      438.14
+    ],
+    "text": "dismissed the revision application upon hearing the parties. The instant appeal is against the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.95,
+      443.54,
+      289.21,
+      459.01
+    ],
+    "text": "said order of the learned High Court Judge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.68,
+      485.3,
+      529.29,
+      500.77
+    ],
+    "text": "05. In his petition of appeal, the Appellant had submitted that the learned High Court Judge has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.544818878173828,
+      11.549239158630371,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.99,
+      505.92,
+      529.6,
+      521.86
+    ],
+    "text": "failed to appreciate the necessity of applying legal principles of sentencing. It is further",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.02018928527832,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.96,
+      527.07,
+      529.37,
+      542.54
+    ],
+    "text": "submitted that the learned Magistrate has failed to take into consideration the fact that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.09,
+      547.95,
+      530.23,
+      563.42
+    ],
+    "text": "Appellant did not use the three-wheeler for carriage of persons for a fee, and the other",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.1,
+      568.81,
+      529.37,
+      584.29
+    ],
+    "text": "mitigatory circumstances. However, according to the prayer in the petition of appeal, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.503297805786133,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.0,
+      589.71,
+      480.8,
+      605.18
+    ],
+    "text": "only relief prayed for is to set aside the order of cancellation of the driving licence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.68,
+      631.46,
+      447.74,
+      646.93
+    ],
+    "text": "06. The applicable sections in the Motor Traffic Act as amended are as follows;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.151114463806152,
+      11.503297805786133,
+      11.526668548583984,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      146.42,
+      659.9,
+      529.9,
+      675.37
+    ],
+    "text": "lSI (I). No person shall drive a molor vehicle on a highway ajier he has",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      11.700068473815918,
+      11.806835174560547,
+      11.808196067810059,
+      11.855315208435059,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      191.07,
+      681.31,
+      342.12,
+      695.84
+    ],
+    "text": "consumed alcohol or any drug.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.844319343566895,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      182.02,
+      709.23,
+      529.97,
+      724.7
+    ],
+    "text": "(lA). No person shall drive any omnibus or any other motor vehicle",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.639383316040039,
+      11.808196067810059,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214.05,
+      730.64,
+      530.48,
+      745.17
+    ],
+    "text": "intended for the carriage of persons for fee or reward on a",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.855315208435059,
+      11.899999618530273,
+      13.034381866455078
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214.14,
+      751.52,
+      469.62,
+      766.05
+    ],
+    "text": "highway ajier he has consumed alcohol or any drug.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      522.6,
+      782.27,
+      530.55,
+      796.41
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.65,
+      69.15,
+      529.9,
+      84.62
+    ],
+    "text": "216(A). Any person who is guilty of the offence of contravening the provisions",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727,
+      11.5,
+      11.600000381469727,
+      11.899999618530273,
+      13.034381866455078
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190.32,
+      89.34,
+      530.18,
+      105.21
+    ],
+    "text": "of subsection (lA) of section 151 shall, on conviction after summary",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.77893352508545,
+      11.899999618530273,
+      13.034381866455078,
+      13.23649787902832
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190.29,
+      111.43,
+      529.13,
+      125.97
+    ],
+    "text": "trial before a Magistrate, be liable to a fine not less than four",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.820282936096191,
+      11.833866119384766,
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190.29,
+      132.32,
+      530.57,
+      146.85
+    ],
+    "text": "thousand rupees and not exceeding seven thousand five hundred",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190.34,
+      153.55,
+      529.32,
+      168.09
+    ],
+    "text": "rupees and to imprisonment of either description for a term not",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.820282936096191,
+      11.899999618530273,
+      13.034381866455078
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190.69,
+      174.43,
+      515.68,
+      188.97
+    ],
+    "text": "exceeding six months and to the cancellation of his driving licence.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      11.571413040161133,
+      11.899999618530273,
+      13.034381866455078
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.32,
+      201.65,
+      528.81,
+      218.46
+    ],
+    "text": "07. Hence, it is clear that the sentence imposed on the Appellant by the learned Magistrate is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.359864234924316,
+      11.600000381469727,
+      12.198348045349121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.06,
+      223.22,
+      273.54,
+      238.69
+    ],
+    "text": "well within the powers of a Magistrate.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.32,
+      264.98,
+      528.91,
+      280.45
+    ],
+    "text": "08. Appellate Court will not interfere into a sentence passed by a lower Court unless it is illegal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.161096572875977,
+      11.359864234924316,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.97,
+      285.86,
+      528.82,
+      301.39
+    ],
+    "text": "or wrong in principle. It is mandatory for the Magistrate to cancel the driving licence when",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.359864234924316,
+      11.444698333740234,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.95,
+      306.75,
+      506.54,
+      322.22
+    ],
+    "text": "an Accused is convicted for an offence in terms of section ISI(1A) as submitted above.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.503297805786133,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.32,
+      348.51,
+      526.01,
+      363.98
+    ],
+    "text": "09. The Appellant urged that there was no document to prove that the Appellant used the three-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.39544677734375,
+      11.523749351501465,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.08,
+      369.39,
+      529.38,
+      384.86
+    ],
+    "text": "wheeler to convey passengers for a fee. However, the Appellant has already pleaded guilty",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.08,
+      390.61,
+      529.08,
+      406.09
+    ],
+    "text": "to the charge under section lSI (I A). Particulars of the offence as mentioned in the charge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.96,
+      411.14,
+      458.59,
+      426.61
+    ],
+    "text": "also covers the same, so that the Appellant could have understood the charge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.14,
+      452.9,
+      528.89,
+      468.37
+    ],
+    "text": "10. Drunken driving has become prevalent and it further aggravates when the vehicle is used to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.317049026489258,
+      11.527172088623047,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.06,
+      473.79,
+      528.89,
+      489.26
+    ],
+    "text": "transport passengers. Such driver who is drunk risks the lives of the passengers as well. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.34,
+      494.29,
+      529.01,
+      509.77
+    ],
+    "text": "legislature has considered the seriousness of the offence, therefore, made it mandatory for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.527172088623047,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.69,
+      515.18,
+      529.39,
+      530.65
+    ],
+    "text": "the Court to cancel the driving licence for the offence of drunken driving when the vehicle",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.39544677734375,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.98,
+      536.07,
+      289.98,
+      551.54
+    ],
+    "text": "is used for carriage of passengers for a fee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.43,
+      577.82,
+      528.5,
+      593.29
+    ],
+    "text": "II. Hence, the grounds urged by the Appellant are without merit and the appeal should be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.408418655395508,
+      11.600000381469727,
+      11.908010482788086
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.97,
+      598.71,
+      134.03,
+      614.18
+    ],
+    "text": "dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.14,
+      640.82,
+      529.07,
+      656.29
+    ],
+    "text": "12. It is pertinent to note that upon conviction of an Accused for an offence under section",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.256308555603027,
+      11.317049026489258,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.8,
+      661.35,
+      531.52,
+      676.82
+    ],
+    "text": "151 (lA), it is also mandatory for the Magistrate to impose a sentence of imprisonment of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.948822975158691,
+      11.527172088623047,
+      11.600000381469727,
+      11.639383316040039,
+      11.848831176757812,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.6,
+      681.86,
+      529.23,
+      697.33
+    ],
+    "text": "either description for a term not exceeding six months, apart from the prescribed fine and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.7,
+      702.39,
+      528.8,
+      717.92
+    ],
+    "text": "the cancellation of the driving licence. It has escaped the mind of the learned Magistrate as",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.122227668762207,
+      11.525360107421875,
+      11.600000381469727,
+      12.051368713378906,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.06,
+      723.26,
+      529.32,
+      738.73
+    ],
+    "text": "well as the learned High Court Judge who heard the revision application. Therefore, acting",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.525360107421875,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.98,
+      743.79,
+      529.06,
+      759.26
+    ],
+    "text": "in terms the powers vested in this Court by section 328 of the Code of Criminal Procedure",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.250432968139648,
+      11.45119571685791,
+      11.503297805786133,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      521.24,
+      782.22,
+      528.97,
+      795.96
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.7,
+      69.51,
+      529.2,
+      84.98
+    ],
+    "text": "Act, in addition to the fine imposed and the cancellation of the driving licence by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.45119571685791,
+      11.503297805786133,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.98,
+      90.39,
+      528.81,
+      105.86
+    ],
+    "text": "learned Magistrate, I sentence the Appellant to 6 months simple imprisonment. Taking into",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.99,
+      110.89,
+      528.92,
+      126.37
+    ],
+    "text": "consideration that there is no record of previous convictions reported, and the early guilty",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.359864234924316,
+      11.600000381469727,
+      12.250557899475098
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.1,
+      131.78,
+      473.41,
+      147.25
+    ],
+    "text": "plea, I order the sentence of 6 months imprisonment to be suspended for 5 years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.64,
+      181.46,
+      435.79,
+      196.93
+    ],
+    "text": "Subject to the above increase of the sentence, appeal is dismissed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.359864234924316,
+      11.600000381469727,
+      12.051368713378906
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      253.78,
+      284.17,
+      463.75,
+      300.24
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.69,
+      341.4,
+      226.2,
+      357.47
+    ],
+    "text": "ACHALA WENGAPPULI, J",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.0,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.28,
+      370.46,
+      182.62,
+      385.93
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      253.77,
+      428.88,
+      463.75,
+      444.96
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      521.14,
+      782.84,
+      528.94,
+      796.71
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  }
+]

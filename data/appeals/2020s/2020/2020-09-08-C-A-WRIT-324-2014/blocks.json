@@ -1,0 +1,4502 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      105.03,
+      102.84,
+      500.08,
+      120.31
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.153640747070312
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      218.1,
+      120.48,
+      385.92,
+      137.96
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.166729927062988
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      89.14,
+      264.84,
+      299.74,
+      282.31
+    ],
+    "text": "C.A.(Writ)Application No. 324/2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.99,
+      156.12,
+      514.7,
+      246.32
+    ],
+    "text": "In the matter of an Application for Writs of Certiorari and Mandamus. in terms of Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.11758804321289,
+      13.330471992492676,
+      13.482446670532227,
+      13.511330604553223,
+      13.608724594116211
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.45,
+      301.2,
+      456.24,
+      373.4
+    ],
+    "text": "Aluthge Don Premarathna, Janasawiya Road, Pahalawelgama, Bulathsinhala.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.13006591796875
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      264.83,
+      373.56,
+      501.63,
+      499.76
+    ],
+    "text": "Petitioner Vs. 01. Commissioner General of Land, Land Commissioner General's Department. No.07, Gregory's Road, Colombo 07.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.761116981506348,
+      12.919658660888672,
+      13.100000381469727,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      264.47,
+      518.64,
+      495.5,
+      645.92
+    ],
+    "text": "02. Provincial Land Commissioner,(Westem Province) Department of Provincial Land Commissioner, Maligawatte Secretariat, 3rd Floor, Colombo 10.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      12.919658660888672,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      264.11,
+      664.8,
+      393.62,
+      682.27
+    ],
+    "text": "03. S.K. Senadheera",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.919658660888672,
+      13.031571388244629,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      299.46,
+      682.8,
+      469.04,
+      735.92
+    ],
+    "text": "Divisional Secretariat, Bulathsinhala. (Substituted Jrd Respondent)",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.53928279876709,
+      13.100000381469727,
+      13.165387153625488
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.51,
+      103.05,
+      475.89,
+      174.98
+    ],
+    "text": "04. District Secretary/Government Agent, Kaluthara, District Secretariat, Kaluthara.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.820655822753906,
+      12.899999618530273,
+      13.028707504272461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.51,
+      194.14,
+      497.0,
+      229.69
+    ],
+    "text": "05. Kamburuwala Kankanamge Bempi Singho",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.820655822753906,
+      12.899999618530273,
+      12.902349472045898,
+      12.997382164001465
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.86,
+      230.85,
+      379.47,
+      266.05
+    ],
+    "text": "Mapawila, Bulathsinhala.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.51,
+      285.22,
+      477.94,
+      338.78
+    ],
+    "text": "06. Hon. Attorney General, Attorney General's Department Colombo 12.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.820655822753906,
+      12.899999618530273,
+      13.022319793701172
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      437.34,
+      356.16,
+      509.62,
+      372.23
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      225.21,
+      389.38,
+      291.15,
+      401.98
+    ],
+    "text": "**************",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.73,
+      423.32,
+      134.12,
+      438.2
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.81,
+      462.08,
+      150.77,
+      479.95
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.21,
+      557.13,
+      245.74,
+      575.0
+    ],
+    "text": "WRITTEN SUBMISSIONS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.49,
+      580.1,
+      184.99,
+      597.71
+    ],
+    "text": "TENDERED ON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.446694374084473
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.91,
+      652.17,
+      172.12,
+      670.04
+    ],
+    "text": "DECICEDON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.26,
+      419.1,
+      414.0,
+      438.93
+    ],
+    "text": "ACHALA WENGAPPULI, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.614797592163086
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.22,
+      461.61,
+      499.21,
+      478.81
+    ],
+    "text": "Pathum Wickramaratne for the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.127542495727539
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.24,
+      485.37,
+      507.83,
+      502.58
+    ],
+    "text": "Vikum de Abrew S.D.5.G. for the 1st to 4th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      8.678133010864258,
+      12.899999618530273,
+      13.21446704864502
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.14,
+      509.14,
+      380.69,
+      526.34
+    ],
+    "text": "and 6th Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      12.899999618530273,
+      13.145071983337402
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.22,
+      533.25,
+      495.87,
+      550.46
+    ],
+    "text": "Manori Pathirana for the 5th Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      12.899999618530273,
+      12.945569038391113
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.19,
+      580.06,
+      431.13,
+      597.27
+    ],
+    "text": "21.12.2018 (by the Petitioner)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.681856155395508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.19,
+      604.17,
+      503.55,
+      621.37
+    ],
+    "text": "10.01.2019 (by the 1st and 3rd Respondents",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      12.899999618530273,
+      13.145071983337402,
+      13.561299324035645
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      331.06,
+      627.93,
+      467.43,
+      645.13
+    ],
+    "text": "and the 5th Respondent)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      12.899999618530273,
+      13.145071983337402
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      260.14,
+      651.69,
+      325.21,
+      668.89
+    ],
+    "text": "0409.2020",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.021924018859863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      225.31,
+      699.38,
+      292.35,
+      716.18
+    ],
+    "text": "*************",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      501.42,
+      730.88,
+      508.54,
+      743.55
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      25.21,
+      12.53,
+      64.19,
+      53.96
+    ],
+    "text": ", ,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.300000190734863,
+      15.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.7,
+      100.14,
+      256.32,
+      118.74
+    ],
+    "text": "ACHALA WENGAPPULI, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.20425033569336,
+      12.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125.17,
+      147.43,
+      515.24,
+      164.51
+    ],
+    "text": "The Petitioner, with his amended petition addressed to this Court,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.863393783569336,
+      12.927515029907227,
+      12.998855590820312,
+      13.006927490234375
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.61,
+      171.55,
+      515.52,
+      188.63
+    ],
+    "text": "invokes its jurisdiction conferred under Article 140 of the Constitution,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      13.086640357971191
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.18,
+      195.32,
+      514.55,
+      212.4
+    ],
+    "text": "seeking primarily a Writ of Certiorari in order to quash a permit (P2)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.837644577026367,
+      12.841034889221191,
+      12.92741584777832,
+      12.965678215026855,
+      12.971896171569824
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.61,
+      219.08,
+      515.02,
+      236.16
+    ],
+    "text": "issued to 5th Respondent, in respect of an allotment of State land depicted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.800000190734863,
+      12.803950309753418,
+      12.997772216796875,
+      13.176949501037598
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.23,
+      242.84,
+      516.05,
+      259.92
+    ],
+    "text": "as lot No. 34 in the preliminary plan No. 253 by the Surveyor General on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.778031349182129,
+      12.800000190734863,
+      12.806848526000977,
+      12.820533752441406,
+      12.821382522583008,
+      12.829815864562988,
+      12.837644577026367,
+      12.97327709197998,
+      13.0410795211792,
+      13.070981979370117
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.23,
+      266.59,
+      515.63,
+      283.67
+    ],
+    "text": "03.09.2013. He also seeks issuance of a Writ of Mandamus compelling the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.025022506713867,
+      13.124341011047363
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.91,
+      290.35,
+      515.06,
+      307.43
+    ],
+    "text": "1st to 4th Respondents to conduct an inquiry to consider his application for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.800000190734863,
+      12.823179244995117,
+      12.986047744750977,
+      12.997624397277832
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.22,
+      314.11,
+      466.16,
+      331.19
+    ],
+    "text": "a permit in respect of lot Nos. 34, 35, 38, 39 and 40 of the said plan.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.81708812713623,
+      12.836897850036621,
+      12.978652954101562,
+      13.034109115600586,
+      13.057117462158203
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124.5,
+      345.43,
+      515.66,
+      362.53
+    ],
+    "text": "It is stated by the Petitioner that he is in possession of a \"portion\" of",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.8014497756958,
+      12.814092636108398,
+      12.837644577026367,
+      12.909977912902832,
+      12.95056438446045,
+      12.965678215026855,
+      13.507131576538086
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.97,
+      369.2,
+      515.59,
+      386.28
+    ],
+    "text": "the said lot No. 34 since 1957, which is situated adjacent to his private",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.803449630737305,
+      12.820533752441406,
+      12.853289604187012,
+      12.883030891418457
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      392.95,
+      514.18,
+      410.03
+    ],
+    "text": "property. Having improved the said portion of land by cultivating tea,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.8014497756958,
+      12.820533752441406,
+      12.85677433013916,
+      12.90184497833252,
+      12.927019119262695,
+      12.939985275268555,
+      13.019025802612305
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.98,
+      416.71,
+      515.44,
+      433.79
+    ],
+    "text": "rubber and coconut, the Petitioner claims that he has fulfilled the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.885215759277344,
+      12.95056438446045,
+      12.953282356262207,
+      12.965678215026855,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.98,
+      440.48,
+      515.08,
+      457.56
+    ],
+    "text": "requirements to qualify himself for the issuance of a permit under the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.801050186157227,
+      12.820533752441406,
+      13.015337944030762,
+      13.034109115600586
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.57,
+      464.6,
+      513.28,
+      481.68
+    ],
+    "text": "Land Development Ordinance, in relation to the said lot. However, the 5th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      12.800000190734863,
+      12.808797836303711,
+      12.820533752441406,
+      12.834802627563477,
+      12.836897850036621,
+      12.875030517578125
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.58,
+      485.48,
+      515.09,
+      505.43
+    ],
+    "text": "Respondent was issued with a permit to the said lot by the 3rd Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.014056205749512,
+      12.800000190734863,
+      12.8014497756958,
+      12.820533752441406,
+      12.836897850036621,
+      12.84631633758545,
+      12.880547523498535,
+      12.880993843078613,
+      12.95629596710205,
+      13.034109115600586,
+      13.053882598876953
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.85,
+      512.11,
+      514.55,
+      529.19
+    ],
+    "text": "(P2), who had thereupon erected a barbed wire fence, inclusive of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.847212791442871,
+      12.86672592163086,
+      12.948439598083496,
+      12.954023361206055,
+      13.130093574523926
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.66,
+      535.87,
+      455.34,
+      552.95
+    ],
+    "text": "portion that had been developed by the Petitioner and his father.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.85677433013916,
+      12.884074211120605,
+      12.884173393249512,
+      12.965678215026855,
+      12.97327709197998,
+      12.978652954101562,
+      13.06353759765625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124.9,
+      567.92,
+      514.04,
+      585.0
+    ],
+    "text": "A complaint was lodged with the Police by the Petitioner over this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.857271194458008,
+      12.901745796203613,
+      12.9171142578125,
+      12.946413040161133,
+      13.04848861694336
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.4,
+      591.67,
+      514.46,
+      608.75
+    ],
+    "text": "\"illegal demarcation of boundaries\" by the 5th Respondent. He also",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      12.800000190734863,
+      12.801349639892578,
+      12.872941970825195,
+      12.97327709197998,
+      12.977666854858398
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.15,
+      615.43,
+      513.98,
+      632.51
+    ],
+    "text": "complained this incident to the Grama Niladhari of the area, who informed",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.800000190734863,
+      12.800899505615234,
+      12.820533752441406,
+      13.033226013183594
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.61,
+      636.32,
+      514.72,
+      656.63
+    ],
+    "text": "the 3rd Respondent that the Petitioner had requested for a permit for the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.014056205749512,
+      12.800000190734863,
+      12.820533752441406,
+      12.82901668548584,
+      12.95007038116455,
+      12.965678215026855,
+      12.971896171569824,
+      13.06353759765625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.52,
+      662.96,
+      514.25,
+      680.04
+    ],
+    "text": "developed portion of the said land since he had developed the said land. A",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.804299354553223,
+      12.820533752441406,
+      12.836897850036621,
+      12.868616104125977,
+      12.884074211120605,
+      12.90184497833252,
+      12.913050651550293,
+      13.06353759765625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.78,
+      686.71,
+      514.72,
+      703.79
+    ],
+    "text": "formal application was then submitted to the Grama Niladhari, requesting",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.800000190734863,
+      12.80115032196045,
+      12.820533752441406,
+      12.838092803955078,
+      12.857221603393555,
+      12.907498359680176
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.61,
+      710.12,
+      512.34,
+      727.2
+    ],
+    "text": "the 2nd Respondent that the Petitioner be granted a permit. The 1st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      11.849833488464355,
+      12.800000190734863,
+      12.806398391723633,
+      12.857172966003418,
+      12.91557788848877,
+      12.927316665649414
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      505.68,
+      729.16,
+      513.26,
+      742.64
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      20.96,
+      38.03,
+      27.35,
+      53.83
+    ],
+    "text": ",",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.98,
+      100.53,
+      511.09,
+      120.26
+    ],
+    "text": "Respondent had thereupon directed the 3rd Respondent to \"take",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.05699634552002,
+      12.899999618530273,
+      12.981343269348145,
+      13.004526138305664,
+      13.11446762084961
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.91,
+      126.81,
+      510.79,
+      144.01
+    ],
+    "text": "appropriate action\" in respect of Petitioner's application, who later",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91878604888916,
+      12.952592849731445,
+      13.084036827087402
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.93,
+      150.57,
+      510.13,
+      167.78
+    ],
+    "text": "informed him that the said portion of land could not be given since it had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.90014934539795,
+      12.90689754486084,
+      12.990432739257812,
+      12.994751930236816,
+      12.998920440673828,
+      13.016226768493652,
+      13.048445701599121,
+      13.130638122558594
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.55,
+      174.33,
+      320.19,
+      191.53
+    ],
+    "text": "already been given to the 5th Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.899999618530273,
+      12.934403419494629
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.54,
+      206.01,
+      508.86,
+      223.22
+    ],
+    "text": "His reporting of the erection of a boundary fence by the 5th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.899999618530273,
+      13.052003860473633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.62,
+      229.77,
+      510.2,
+      246.97
+    ],
+    "text": "Respondent had resulted in stalling the erection of a boundary fence and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.052003860473633,
+      13.11446762084961,
+      13.145071983337402
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.54,
+      253.53,
+      509.89,
+      270.73
+    ],
+    "text": "an inquiry was initiated as to who possessed the disputed portion of land,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.952144622802734,
+      12.963393211364746,
+      12.969810485839844,
+      12.996885299682617,
+      13.048297882080078,
+      13.084036827087402
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.3,
+      276.94,
+      259.98,
+      294.15
+    ],
+    "text": "which is yet to reach a finality.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.13,
+      308.97,
+      510.65,
+      326.18
+    ],
+    "text": "The 5th Respondent instituted action before the District Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.899999618530273,
+      12.965930938720703,
+      13.049532890319824
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.14,
+      332.37,
+      509.12,
+      349.57
+    ],
+    "text": "seeking a deceleration of his entitlement to possess the said land and to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.952144622802734,
+      13.145071983337402
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.19,
+      356.14,
+      510.19,
+      373.35
+    ],
+    "text": "eject the Petitioner therefrom and the matter is still pending before the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.017068862915039,
+      13.06252670288086,
+      13.145071983337402
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.83,
+      379.89,
+      123.37,
+      397.09
+    ],
+    "text": "Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.5,
+      411.58,
+      509.22,
+      428.81
+    ],
+    "text": "In these circumstances, the Petitioner alleges that the issuance of a",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.016226768493652,
+      13.027253150939941
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.98,
+      435.33,
+      509.38,
+      452.53
+    ],
+    "text": "permit to the 5th Respondent in respect of the said land is illegal,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.899999618530273,
+      12.931212425231934,
+      12.952144622802734,
+      13.022468566894531
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.97,
+      459.1,
+      244.14,
+      476.31
+    ],
+    "text": "unreasonable and arbitrary.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.145071983337402
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.77,
+      490.77,
+      509.53,
+      507.97
+    ],
+    "text": "The 5th Respondent resisted the Petitioner's application on the basis",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.899999618530273,
+      12.931212425231934,
+      13.09192180633545
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      85.29,
+      511.65,
+      507.47,
+      532.09
+    ],
+    "text": "that he was issued a permit on 08.07.2013 (in addition to P2), by the 3rd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.05699634552002,
+      12.745473861694336,
+      12.899999618530273,
+      12.90729808807373,
+      12.926722526550293,
+      12.996885299682617,
+      13.022468566894531,
+      13.09192180633545
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.9,
+      538.65,
+      509.27,
+      555.85
+    ],
+    "text": "Respondent in respect of lot No. 34 depicted in plan No. PP 253, with an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.913542747497559,
+      13.108022689819336,
+      13.121940612792969
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.82,
+      562.42,
+      380.48,
+      579.62
+    ],
+    "text": "endorsement by the 2nd Respondent, marked as 5R2.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.756903648376465,
+      12.899999618530273,
+      12.991922378540039,
+      13.002046585083008
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.82,
+      594.1,
+      508.86,
+      611.31
+    ],
+    "text": "Refuting the claim of the Petitioner that he was in possession of a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91878604888916,
+      12.996885299682617,
+      13.001053810119629,
+      13.016226768493652
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.98,
+      617.85,
+      509.34,
+      635.05
+    ],
+    "text": "portion of Lot No. 34, the 5th Respondent asserts that when the land was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.899999618530273,
+      12.931212425231934,
+      13.016226768493652,
+      13.147377967834473
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.78,
+      641.97,
+      509.47,
+      659.17
+    ],
+    "text": "surveyed for the tracing No. Q)~/@@d>/I/2011, on 30.01.2011 (SRI), the",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.8687615394592285,
+      12.899999618530273,
+      12.903549194335938,
+      13.09192180633545
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.35,
+      666.1,
+      508.83,
+      683.31
+    ],
+    "text": "Surveyor had recorded that the said lot is occupied by the 5th Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.899999618530273,
+      12.998920440673828,
+      13.016226768493652
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.54,
+      689.49,
+      509.67,
+      706.69
+    ],
+    "text": "He further asserts that case No. 4029/L was instituted by him, before the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.959064483642578,
+      12.965533256530762,
+      12.996885299682617,
+      13.016226768493652,
+      13.175507545471191
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      500.72,
+      730.55,
+      508.07,
+      743.62
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.58,
+      103.0,
+      514.45,
+      119.81
+    ],
+    "text": "District Court of Matugama, in seeking a declaration of his title to the said",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.600000381469727,
+      12.633056640625,
+      12.719979286193848,
+      12.736955642700195,
+      12.737994194030762,
+      12.767733573913574,
+      12.968365669250488
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.53,
+      126.76,
+      327.82,
+      143.57
+    ],
+    "text": "land and to evict the Petitioner therefrom.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.800652503967285,
+      12.991323471069336
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.46,
+      158.44,
+      513.22,
+      175.25
+    ],
+    "text": "The 1st to 3rd Respondents, in their objections stated that the 5th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      8.5,
+      12.600000381469727,
+      12.640685081481934,
+      12.71358871459961,
+      12.719979286193848,
+      12.736955642700195,
+      12.863985061645508
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.58,
+      182.21,
+      514.86,
+      199.02
+    ],
+    "text": "Respondent made a written request for a permit in respect of Lot No. 34 on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.68779468536377,
+      12.745559692382812,
+      12.751242637634277,
+      12.767437934875488,
+      12.767783164978027,
+      12.79828929901123,
+      12.87015438079834,
+      12.923399925231934,
+      12.954707145690918
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.56,
+      205.97,
+      513.22,
+      222.78
+    ],
+    "text": "22.05.2006. Upon recommendation of the 3rd Respondent, the 5th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      8.733055114746094,
+      12.600000381469727,
+      12.655876159667969,
+      12.719979286193848,
+      12.767733573913574,
+      12.7774019241333,
+      12.912524223327637
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.58,
+      229.36,
+      514.49,
+      246.17
+    ],
+    "text": "Respondent had granted a permit under Section 19(2) of the Land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.719979286193848,
+      12.745559692382812,
+      12.771927833557129,
+      12.789525032043457,
+      12.931879043579102,
+      12.961076736450195,
+      13.054357528686523
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.58,
+      253.12,
+      515.11,
+      269.93
+    ],
+    "text": "Development Ordinance, (marked as 3R4) in favour of the 5th Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      12.600000381469727,
+      12.678753852844238,
+      12.697969436645508,
+      12.719979286193848,
+      12.731316566467285,
+      12.743730545043945,
+      12.779964447021484,
+      12.954707145690918
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.51,
+      276.88,
+      361.67,
+      293.69
+    ],
+    "text": "on 08.07.2013, as directed by the 1st Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      12.600000381469727,
+      12.625575065612793,
+      12.655876159667969,
+      12.719979286193848,
+      12.767437934875488
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.11,
+      308.56,
+      514.29,
+      325.37
+    ],
+    "text": "In their respective objections, the Respondents have collectively",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.602899551391602,
+      12.719979286193848,
+      12.722603797912598,
+      12.7257719039917,
+      12.852274894714355
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.09,
+      332.32,
+      385.84,
+      349.13
+    ],
+    "text": "sought the dismissal of the petition of the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.608147621154785,
+      12.636746406555176,
+      12.719979286193848,
+      12.72042465209961,
+      12.835891723632812
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.73,
+      363.64,
+      512.87,
+      380.45
+    ],
+    "text": "The Petitioner, in his counter affidavit, claims that the 5th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      12.600000381469727,
+      12.636746406555176,
+      12.679052352905273,
+      12.728049278259277,
+      12.736955642700195,
+      12.863985061645508
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.86,
+      387.41,
+      513.91,
+      404.22
+    ],
+    "text": "Respondent was only shown boundaries in January 2011, referring to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.705756187438965,
+      12.71923542022705,
+      12.736955642700195,
+      12.779964447021484,
+      12.789278030395508,
+      12.844870567321777,
+      12.950427055358887
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.94,
+      411.16,
+      484.84,
+      427.97
+    ],
+    "text": "plan 5R1 and reiterated his position as stated in the amended petition.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.668862342834473,
+      12.706400871276855,
+      12.71358871459961,
+      12.719979286193848,
+      12.736955642700195,
+      12.779175758361816,
+      12.94994068145752,
+      12.991323471069336
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.79,
+      442.85,
+      513.9,
+      459.66
+    ],
+    "text": "When the Petitioner's application was taken up for hearing, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.652889251708984,
+      12.69439697265625,
+      12.704615592956543,
+      12.84482192993164,
+      12.951497077941895,
+      13.149134635925293
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.94,
+      466.6,
+      513.68,
+      483.41
+    ],
+    "text": "parties invited this Court to pronounce its judgment on the written",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.657320022583008,
+      12.694197654724121,
+      12.767437934875488,
+      12.857077598571777,
+      12.896902084350586,
+      12.975261688232422
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.74,
+      490.36,
+      320.66,
+      507.17
+    ],
+    "text": "submissions they have already tendered.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.642578125,
+      12.64487075805664,
+      12.66080379486084,
+      12.712249755859375,
+      12.852274894714355
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      123.37,
+      522.04,
+      513.76,
+      538.85
+    ],
+    "text": "The Petitioner, in his submissions contended that he was made",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.636746406555176,
+      12.669260025024414,
+      12.711605072021484,
+      12.736955642700195,
+      12.759194374084473,
+      12.844870567321777,
+      12.847175598144531,
+      12.970746040344238
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.43,
+      546.16,
+      512.69,
+      562.97
+    ],
+    "text": "aware of the issuance of the permit to the 5th Respondent (referring to P2),",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.198450088500977,
+      12.600000381469727,
+      12.719979286193848,
+      12.779964447021484,
+      12.804539680480957,
+      12.931879043579102
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.44,
+      569.92,
+      513.28,
+      586.73
+    ],
+    "text": "only when the boundaries were shown to him on 20. 01.2011, when in fact",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.625374794006348,
+      12.736955642700195,
+      12.789278030395508,
+      12.842761993408203,
+      12.853745460510254,
+      12.917792320251465,
+      12.93879508972168,
+      12.950427055358887,
+      12.993602752685547
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.89,
+      593.68,
+      512.52,
+      610.49
+    ],
+    "text": "there was a direction by the 3rd Respondent to the Grama Niladhari not to",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.532288551330566,
+      12.300000190734863,
+      12.600000381469727,
+      12.602999687194824,
+      12.701045036315918,
+      12.719979286193848,
+      12.779964447021484,
+      12.844870567321777,
+      12.977058410644531
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.22,
+      617.45,
+      514.14,
+      634.26
+    ],
+    "text": "proceed with the demarcation of boundaries on the said land, in view of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.633056640625,
+      12.648706436157227,
+      12.65955924987793,
+      12.683672904968262,
+      12.719979286193848,
+      12.733790397644043,
+      12.767733573913574,
+      12.789278030395508,
+      12.854676246643066,
+      12.93879508972168
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.53,
+      641.56,
+      513.04,
+      658.45
+    ],
+    "text": "the pending inquiry into the Petitioner's complaint. It is therefore stated",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.643574714660645,
+      12.652889251708984,
+      12.71418285369873,
+      12.719979286193848,
+      12.959667205810547,
+      13.507131576538086
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.53,
+      664.96,
+      513.17,
+      681.77
+    ],
+    "text": "that since it was the Petitioner who developed the land, he is entitled to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      12.648706436157227,
+      12.719979286193848,
+      12.729583740234375,
+      12.743483543395996,
+      12.756330490112305,
+      12.844870567321777,
+      12.931002616882324,
+      13.026192665100098
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.22,
+      688.72,
+      286.43,
+      705.53
+    ],
+    "text": "permit and not the 5th Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      12.600000381469727,
+      12.655876159667969,
+      12.719979286193848,
+      12.849235534667969,
+      12.87015438079834,
+      12.991323471069336
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      504.61,
+      730.99,
+      512.28,
+      743.63
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      120.13,
+      99.91,
+      510.93,
+      119.88
+    ],
+    "text": "The 1st to 3rd Respondents contended that the Petitioner is not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.829949378967285,
+      11.014056205749512,
+      12.800000190734863,
+      12.820533752441406,
+      12.855180740356445,
+      12.899959564208984,
+      12.965678215026855,
+      13.079646110534668
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.82,
+      126.56,
+      510.54,
+      143.64
+    ],
+    "text": "entitled to any relief in seeking a prerogative Writ, as the facts are at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.828568458557129,
+      12.862248420715332,
+      12.868019104003906,
+      13.03857707977295,
+      13.057117462158203
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.57,
+      150.32,
+      509.84,
+      167.45
+    ],
+    "text": "variance in relation to the claim of possession between the Petitioner and",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.866826057434082,
+      12.93298053741455,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.93,
+      174.07,
+      510.11,
+      191.15
+    ],
+    "text": "the 5th Respondent. They also contend that the application of the Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.461335182189941,
+      12.800000190734863,
+      12.820533752441406,
+      12.882583618164062,
+      12.956196784973145,
+      12.965678215026855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.85,
+      197.83,
+      509.78,
+      214.91
+    ],
+    "text": "is futile as a permit had already been granted to the 5th Respondent and he",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      12.800000190734863,
+      12.820533752441406,
+      12.868368148803711,
+      12.880993843078613,
+      12.884173393249512,
+      12.909382820129395,
+      12.927316665649414,
+      12.948439598083496,
+      12.95056438446045,
+      12.978652954101562
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.42,
+      221.59,
+      509.67,
+      238.67
+    ],
+    "text": "seeks to nullify a permit that had been issued earlier to the one marked as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.806848526000977,
+      12.884173393249512,
+      12.951552391052246,
+      12.956196784973145,
+      12.965678215026855,
+      13.034109115600586,
+      13.177629470825195
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.42,
+      245.35,
+      508.89,
+      262.43
+    ],
+    "text": "5R2, on which the 5th Respondent claims his rights over the disputed land.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.247115135192871,
+      12.800000190734863,
+      12.820533752441406,
+      12.823179244995117,
+      12.880993843078613,
+      12.883030891418457,
+      12.967207908630371,
+      13.211583137512207
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.2,
+      269.06,
+      509.78,
+      286.37
+    ],
+    "text": "It is also the submission of the 5th Respondent that the Petitioner never was",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      12.800000190734863,
+      12.808097839355469,
+      12.820533752441406,
+      12.868616104125977,
+      12.880993843078613,
+      12.946413040161133,
+      13.073282241821289,
+      13.480392456054688
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.49,
+      292.88,
+      509.76,
+      309.96
+    ],
+    "text": "in possession of the said portion of State land and the documentation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.836897850036621,
+      12.837644577026367,
+      12.852143287658691,
+      12.913050651550293,
+      12.997772216796875,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.11,
+      316.27,
+      509.15,
+      333.35
+    ],
+    "text": "clearly establish that the former was in possession long before the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.802550315856934,
+      12.965678215026855,
+      13.053882598876953,
+      13.057117462158203
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.18,
+      340.03,
+      306.57,
+      357.11
+    ],
+    "text": "Petitioner first disputed his possession.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.919443130493164
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      119.07,
+      369.19,
+      508.71,
+      388.79
+    ],
+    "text": "In view of the submissions of the 1st to 3rd Respondents, it is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      11.014056205749512,
+      12.800000190734863,
+      12.812094688415527,
+      12.826373100280762,
+      12.868616104125977
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.11,
+      395.48,
+      509.39,
+      412.56
+    ],
+    "text": "appropriate to consider their claim that the application of the Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.868616104125977,
+      12.902291297912598,
+      12.965678215026855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.69,
+      419.24,
+      314.54,
+      436.32
+    ],
+    "text": "should be refused on the basis of futility.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.806398391723633,
+      12.937362670898438,
+      13.0410795211792
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      118.68,
+      450.91,
+      509.32,
+      468.04
+    ],
+    "text": "The Petitioner, in his prayer to the amended petition, seeks the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.715604782104492,
+      12.800000190734863,
+      12.820533752441406,
+      12.97243881225586,
+      13.052313804626465
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.77,
+      474.68,
+      509.97,
+      491.76
+    ],
+    "text": "issuance of Writ of Certiorari to quash the permit marked P2. The permit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.896535873413086,
+      13.034109115600586,
+      13.035975456237793,
+      13.096026420593262
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.85,
+      498.43,
+      507.22,
+      515.51
+    ],
+    "text": "marked as P2 had been issued in favour of the 5th Respondent by the 4th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      8.247115135192871,
+      12.800000190734863,
+      12.820533752441406,
+      12.841482162475586,
+      12.868616104125977,
+      12.880993843078613,
+      12.884173393249512,
+      12.896535873413086,
+      12.956196784973145,
+      12.97327709197998,
+      13.057117462158203,
+      13.06353759765625
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.46,
+      522.19,
+      337.17,
+      539.27
+    ],
+    "text": "Respondent on behalf of the 2nd Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.849833488464355,
+      12.800000190734863,
+      12.820533752441406,
+      12.880993843078613,
+      13.0410795211792
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      118.71,
+      554.24,
+      508.42,
+      571.32
+    ],
+    "text": "In paragraphs 32(d) and (e) of the petition, the Petitioner describes",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.7522611618042,
+      12.800000190734863,
+      13.00156307220459,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.49,
+      577.99,
+      508.83,
+      595.07
+    ],
+    "text": "the said permit as a permit that had been issued under the Statute No.7 of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.806848526000977,
+      12.820533752441406,
+      12.857072830200195,
+      12.884173393249512,
+      12.965678215026855,
+      13.034109115600586,
+      13.177629470825195,
+      13.228139877319336
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.44,
+      602.11,
+      508.1,
+      619.32
+    ],
+    "text": "2002, is \"null and void and no force or effect in law\" since State lands had to",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.91285228729248,
+      13.06353759765625,
+      13.144165992736816,
+      13.299006462097168,
+      13.343240737915039,
+      13.347480773925781,
+      13.482446670532227,
+      13.562811851501465,
+      13.572575569152832,
+      13.614603996276855,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.38,
+      625.87,
+      508.26,
+      642.95
+    ],
+    "text": "alienated according to Article 33(d) of the Constitution and written law",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.851546287536621,
+      12.868616104125977,
+      12.909283638000488,
+      13.094023704528809
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      83.41,
+      649.63,
+      208.45,
+      666.71
+    ],
+    "text": "governing the matter.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.807897567749023,
+      12.820533752441406,
+      12.902787208557129
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      499.55,
+      730.29,
+      507.35,
+      744.16
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123.37,
+      102.69,
+      513.8,
+      119.89
+    ],
+    "text": "Thus, the Petitioner's application to this Court seeking a Writ of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.049532890319824
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88.07,
+      126.46,
+      511.94,
+      143.67
+    ],
+    "text": "Certiorari to quash the permit marked P2, that had been issued by the 4th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.007796287536621,
+      12.899999618530273,
+      12.907197952270508,
+      12.94681453704834,
+      13.016226768493652,
+      13.022468566894531,
+      13.086797714233398,
+      13.11446762084961
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88.14,
+      150.22,
+      160.68,
+      167.42
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      123.01,
+      181.54,
+      512.65,
+      198.75
+    ],
+    "text": "The Sth Respondent, in his objections relied on a permit that had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.826863288879395,
+      12.899999618530273,
+      12.998920440673828,
+      13.016226768493652,
+      13.08492374420166,
+      13.09192180633545
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88.21,
+      205.66,
+      513.36,
+      222.86
+    ],
+    "text": "been issued under Section 19(2) of the Land Development Ordinance in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.914341926574707,
+      12.940885543823242,
+      12.955779075622559,
+      13.208852767944336
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88.18,
+      229.42,
+      513.43,
+      246.63
+    ],
+    "text": "respect of the disputed land, namely Lot No. 34 in support of his position.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.06553840637207,
+      13.155421257019043
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88.18,
+      253.17,
+      513.89,
+      270.37
+    ],
+    "text": "A copy of the said permit is annexed to the objections as SR2. Said permit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.990432739257812,
+      13.022468566894531,
+      13.08492374420166
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88.17,
+      273.69,
+      513.44,
+      293.77
+    ],
+    "text": "too had been issued by the 4th Respondent on 08.07.2013 upon approval of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.630879402160645,
+      12.899999618530273,
+      12.934403419494629,
+      12.965930938720703,
+      12.974038124084473,
+      13.023855209350586,
+      13.09192180633545,
+      13.11446762084961,
+      13.22910213470459
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88.17,
+      297.46,
+      362.12,
+      317.54
+    ],
+    "text": "the 1st Respondent by his letter dated 10.02.2009.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.931212425231934,
+      12.949504852294922,
+      13.023855209350586
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.52,
+      332.01,
+      512.58,
+      349.21
+    ],
+    "text": "Strangely, the Petitioner, in his counter affidavit did not make any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.912393569946289,
+      12.921581268310547,
+      12.933606147766113,
+      13.028311729431152,
+      13.130638122558594
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.82,
+      355.41,
+      511.56,
+      372.61
+    ],
+    "text": "reference to SR2, although he responded to the plan marked by the Sth",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.826863288879395,
+      12.834734916687012,
+      12.899999618530273,
+      12.998424530029297,
+      13.001053810119629,
+      13.018901824951172,
+      13.026529312133789,
+      13.056994438171387
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.78,
+      379.53,
+      394.8,
+      396.73
+    ],
+    "text": "Respondent as SRI, nor did claim any relief against it.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.912393569946289,
+      13.028311729431152,
+      13.120859146118164
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.28,
+      407.97,
+      511.56,
+      427.71
+    ],
+    "text": "The contention of the 1st to 3rd Respondents is that the Sth",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.142189979553223,
+      11.075414657592773,
+      11.826863288879395,
+      12.899999618530273,
+      12.90729808807373
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.78,
+      434.61,
+      512.5,
+      451.81
+    ],
+    "text": "Respondent was duly alienated with the rights over the disputed land (lot",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.967473030090332,
+      12.996885299682617,
+      13.018802642822266,
+      13.048445701599121,
+      13.06553840637207,
+      13.099359512329102
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.89,
+      458.38,
+      512.88,
+      475.59
+    ],
+    "text": "No. 34) upon the issuance of permit marked SR2. They relied on a circular",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.002046585083008,
+      13.022468566894531,
+      13.09192180633545,
+      13.147181510925293
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88.05,
+      479.25,
+      512.72,
+      499.7
+    ],
+    "text": "(3R3) issued by the 1st Respondent that if a permit had been issued under",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.827796936035156,
+      12.899999618530273,
+      12.931212425231934,
+      12.934403419494629,
+      13.016226768493652,
+      13.022468566894531,
+      13.023855209350586,
+      13.11446762084961,
+      13.137660026550293
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.81,
+      505.89,
+      513.0,
+      523.09
+    ],
+    "text": "the Land Development Statute No.7 of 2002 of the Western Province, it",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91878604888916,
+      12.925224304199219,
+      12.940885543823242
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.29,
+      530.01,
+      512.33,
+      547.21
+    ],
+    "text": "should be endorsed as the approval granted under Section 20A of the Land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.927270889282227,
+      12.940885543823242,
+      12.977715492248535,
+      12.985665321350098,
+      12.987800598144531,
+      13.208852767944336
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.42,
+      553.78,
+      512.29,
+      570.98
+    ],
+    "text": "Development Ordinance. In relation to SR2 permit, this requirement had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.972893714904785,
+      12.998920440673828
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.49,
+      577.53,
+      511.47,
+      594.73
+    ],
+    "text": "been fulfilled. Therefore, the Sth Respondent's rights in relation to Lot No.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.826863288879395,
+      12.899999618530273,
+      12.928468704223633
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.33,
+      601.65,
+      511.85,
+      618.86
+    ],
+    "text": "34, originate from the said permit and, not from the permit P2, which had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.933257102966309,
+      12.93490219116211,
+      13.022468566894531,
+      13.08492374420166,
+      13.130638122558594
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.49,
+      625.42,
+      437.09,
+      642.63
+    ],
+    "text": "been challenged by the Petitioner and issued under a Statute.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.023855209350586,
+      13.137660026550293,
+      13.259880065917969
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      122.28,
+      656.72,
+      512.36,
+      673.93
+    ],
+    "text": "This leaves the validity of permit SR2 unchallenged by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.022468566894531,
+      13.023855209350586
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.42,
+      680.49,
+      512.02,
+      697.7
+    ],
+    "text": "Petitioner, who had restricted his challenge only to the validity of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.084036827087402,
+      13.11446762084961
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.5,
+      704.26,
+      512.75,
+      721.55
+    ],
+    "text": "permit P2. The resultant position is that even if this Court were to grant",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.890596389770508,
+      12.899999618530273,
+      12.90729808807373,
+      12.92003345489502,
+      12.966926574707031,
+      12.967672348022461,
+      13.022468566894531,
+      13.043550491333008,
+      13.121842384338379,
+      13.574387550354004
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      503.9,
+      729.84,
+      511.25,
+      742.91
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.02,
+      101.97,
+      510.42,
+      119.17
+    ],
+    "text": "relief to the Petitioner as he had prayed for, the 51h Respondent is still",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.800099849700928,
+      12.890596389770508,
+      12.899999618530273,
+      12.931212425231934,
+      12.998920440673828,
+      13.006708145141602,
+      13.017068862915039
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.06,
+      125.74,
+      510.31,
+      143.09
+    ],
+    "text": "possessed of a valid permit (5R2) in respect of the said disputed land.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.32034683227539,
+      12.899999618530273,
+      13.017762184143066,
+      13.022468566894531,
+      13.108022689819336
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.93,
+      149.5,
+      510.44,
+      166.71
+    ],
+    "text": "There is no prayer in the petition seeking to quash the permit marked",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.984572410583496,
+      13.0230131149292,
+      13.08492374420166,
+      13.086797714233398
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.9,
+      173.29,
+      111.66,
+      190.6
+    ],
+    "text": "5R2.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.009566307067871
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.49,
+      204.94,
+      510.56,
+      222.14
+    ],
+    "text": "The identical factual situation arose for this Court to consider the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.049532890319824
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.56,
+      228.32,
+      510.74,
+      245.53
+    ],
+    "text": "question of futility in an application for a prerogative Writ. In the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.318524360656738,
+      12.899999618530273,
+      13.22832202911377
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.27,
+      252.1,
+      512.93,
+      269.3
+    ],
+    "text": "judgment of Okanda Finance (Pvt) Ltd. v Director, Department of",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.91878604888916,
+      13.04271125793457,
+      13.399999618530273,
+      14.045979499816895
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.66,
+      275.33,
+      509.08,
+      293.21
+    ],
+    "text": "Supervision of Non-Bank Financial Institutions & Others (2004) 3 Sri L.R.",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.899999618530273,
+      13.209596633911133,
+      13.399999618530273,
+      14.257183074951172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.52,
+      299.62,
+      500.29,
+      316.82
+    ],
+    "text": "60, this Court refused relief on the ground of futility, upon the basis that;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.837247848510742,
+      12.899999618530273,
+      13.049532890319824,
+      13.09192180633545,
+      13.135598182678223,
+      13.310518264770508,
+      13.379440307617188
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      156.41,
+      331.39,
+      463.31,
+      348.24
+    ],
+    "text": "\"The only issue for this court is whether the notices dated",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.800000190734863,
+      13.180495262145996,
+      13.331497192382812,
+      13.460576057434082,
+      13.519397735595703,
+      13.536739349365234,
+      13.546114921569824,
+      13.711113929748535,
+      13.73670482635498,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.46,
+      352.05,
+      462.42,
+      370.92
+    ],
+    "text": "25th September 2002 (P14) and 27th September 2002 (P1S)",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.357805252075195,
+      12.184454917907715,
+      12.886041641235352,
+      12.899999618530273,
+      13.258111000061035,
+      13.352184295654297,
+      13.508726119995117,
+      13.601573944091797
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.35,
+      375.45,
+      463.1,
+      394.33
+    ],
+    "text": "issued by the 1st respondent ought to be quashed on the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.893561363220215,
+      12.72899055480957,
+      12.743617057800293,
+      13.17211627960205,
+      13.180495262145996,
+      13.386556625366211,
+      13.500499725341797,
+      13.663373947143555,
+      13.768915176391602,
+      13.787444114685059,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.79,
+      400.16,
+      463.1,
+      417.01
+    ],
+    "text": "basis that for the reasons urged by Okanda Finance the",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.156968116760254,
+      13.180495262145996,
+      13.286288261413574,
+      13.303363800048828,
+      13.4384126663208,
+      13.594114303588867,
+      13.612678527832031,
+      13.635570526123047,
+      13.676799774169922
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.99,
+      421.52,
+      462.77,
+      440.41
+    ],
+    "text": "1st respondent was not entitled to call for the information",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.72899055480957,
+      12.899999618530273,
+      13.014547348022461,
+      13.180495262145996,
+      13.345464706420898,
+      13.460576057434082,
+      13.619215965270996,
+      13.702253341674805,
+      13.724191665649414,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.07,
+      446.6,
+      463.71,
+      463.45
+    ],
+    "text": "and documents set out in the third paragraph of the letter",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      13.0147066116333,
+      13.180495262145996,
+      13.381195068359375,
+      13.511126518249512,
+      13.610346794128418,
+      13.611461639404297,
+      13.676749229431152,
+      13.71881103515625,
+      13.800000190734863,
+      13.815391540527344
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.45,
+      467.61,
+      463.31,
+      486.12
+    ],
+    "text": "dated 12t/, September 2002 (P6) sent by the 1st respondent",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.893561363220215,
+      12.62415599822998,
+      12.899999618530273,
+      13.084712982177734,
+      13.180495262145996,
+      13.331497192382812,
+      13.555229187011719,
+      13.594114303588867,
+      13.619215965270996,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.42,
+      492.67,
+      461.9,
+      509.52
+    ],
+    "text": "calling for certain documents and information. However,",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.460576057434082,
+      13.463650703430176,
+      13.482446670532227,
+      13.529397010803223,
+      13.603044509887695,
+      13.676749229431152,
+      13.718207359313965
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      156.09,
+      516.07,
+      462.92,
+      532.92
+    ],
+    "text": "this would appear to be an exercise in futility as Okanda",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.521970748901367,
+      12.72899055480957,
+      12.829095840454102,
+      12.894277572631836,
+      13.208681106567383,
+      13.380730628967285,
+      13.4384126663208,
+      13.470772743225098,
+      13.719162940979004,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.98,
+      538.12,
+      462.52,
+      556.0
+    ],
+    "text": "Finance cannot impugn P6 without a prayer for",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.242749214172363,
+      13.322324752807617,
+      13.460576057434082,
+      13.483214378356934,
+      13.654027938842773,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.73,
+      562.16,
+      463.45,
+      579.01
+    ],
+    "text": "the quashing of the order contained in the letter marked",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      13.0147066116333,
+      13.180495262145996,
+      13.356059074401855,
+      13.441699028015137,
+      13.611968994140625,
+      13.663222312927246,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      155.62,
+      584.83,
+      181.08,
+      601.68
+    ],
+    "text": "P6.\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.63182544708252
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      119.77,
+      616.06,
+      509.75,
+      633.26
+    ],
+    "text": "Thus, as the 151 to 3rd Respondents contend, this Court is of the view",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.821856498718262,
+      8.899999618530273,
+      12.899999618530273,
+      12.920184135437012,
+      13.121842384338379
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.29,
+      639.81,
+      509.84,
+      657.01
+    ],
+    "text": "that issuance of a Writ of Certiorari to quash the permit P2, in these",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.90729808807373,
+      12.945320129394531,
+      13.022468566894531
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.84,
+      663.57,
+      318.57,
+      680.78
+    ],
+    "text": "circumstances, would be a futile exercise.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.062328338623047
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      501.3,
+      729.16,
+      508.87,
+      742.64
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      119.75,
+      102.8,
+      509.52,
+      119.88
+    ],
+    "text": "On the other hand, the illegality which tainted the validity of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.929841041564941,
+      12.950663566589355,
+      12.953875541687012,
+      13.02340030670166
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.62,
+      126.91,
+      509.8,
+      143.99
+    ],
+    "text": "permit P2 (as contended by the Petitioner), was cured subsequently with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.8014497756958,
+      12.820533752441406,
+      12.825474739074707,
+      12.852741241455078,
+      12.939688682556152,
+      12.946413040161133,
+      12.95629596710205,
+      12.971896171569824
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.93,
+      150.32,
+      508.74,
+      167.4
+    ],
+    "text": "the issuance of permit 5R2, with the endorsement under Section 20A,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.95629596710205,
+      12.973326683044434,
+      13.034109115600586,
+      13.086640357971191
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.58,
+      174.07,
+      509.6,
+      191.17
+    ],
+    "text": "which made it deemed that the said permit had been issued under Section",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.815041542053223,
+      12.820533752441406,
+      12.836897850036621,
+      12.857172966003418,
+      12.906904220581055,
+      12.948736190795898,
+      13.086640357971191,
+      13.096026420593262,
+      13.177629470825195,
+      13.409175872802734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.14,
+      197.83,
+      241.56,
+      214.91
+    ],
+    "text": "19(2) of the said Ordinance.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.939985275268555
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      119.45,
+      229.51,
+      509.35,
+      246.59
+    ],
+    "text": "Even on the merits of the application, there are other reasons which",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.800300598144531,
+      12.815041542053223,
+      12.820533752441406,
+      12.84980297088623,
+      12.868019104003906,
+      12.868616104125977,
+      13.211583137512207
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.57,
+      253.27,
+      509.08,
+      270.35
+    ],
+    "text": "made the Petitioner is not entitled to any relief. One such reason could be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.824776649475098,
+      12.90650749206543,
+      12.930583953857422,
+      12.978652954101562,
+      13.025562286376953,
+      13.079646110534668
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.46,
+      276.68,
+      508.46,
+      293.76
+    ],
+    "text": "attributed to the availability of an equally effective alternative remedy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.997624397277832
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.13,
+      300.44,
+      509.44,
+      317.52
+    ],
+    "text": "This is due to an admission the Petitioner had made in his letter P5, where",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.837644577026367,
+      12.925039291381836,
+      12.953133583068848,
+      13.025562286376953,
+      13.085222244262695,
+      13.176949501037598,
+      13.177629470825195
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.49,
+      324.19,
+      509.38,
+      341.27
+    ],
+    "text": "it is stated that he had unwittingly cultivated the disputed portion of State",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.820533752441406,
+      12.830214500427246,
+      12.8506498336792,
+      12.868616104125977,
+      12.913050651550293,
+      12.919443130493164,
+      12.95056438446045,
+      12.965678215026855,
+      13.06353759765625
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.49,
+      347.96,
+      508.46,
+      365.04
+    ],
+    "text": "land, situated adjacent to his private land. He requests the authorities to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.800950050354004,
+      12.820533752441406,
+      12.862000465393066,
+      13.124341011047363
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.26,
+      371.71,
+      509.54,
+      388.79
+    ],
+    "text": "prevent the 5th Respondent from erecting a fence separating that portion of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.800000190734863,
+      12.876969337463379,
+      12.913050651550293,
+      12.91557788848877,
+      12.9160737991333,
+      12.965678215026855
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.13,
+      395.48,
+      115.05,
+      412.56
+    ],
+    "text": "land.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      118.71,
+      427.15,
+      509.42,
+      444.23
+    ],
+    "text": "It is noted from the number of letters written by the Petitioner, that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.8014497756958,
+      12.815690994262695,
+      12.820533752441406,
+      12.879701614379883,
+      12.909283638000488,
+      12.965678215026855,
+      13.052705764770508
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.22,
+      450.91,
+      507.74,
+      467.99
+    ],
+    "text": "he sought to regularize the encroachment only from May 2009. The 1st to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.319377899169922,
+      12.800000190734863,
+      12.820533752441406,
+      12.85757064819336,
+      12.937362670898438
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.73,
+      471.43,
+      508.3,
+      491.76
+    ],
+    "text": "3rd Respondents have annexed the request of the 3rd Respondent addressed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.014056205749512,
+      12.800000190734863,
+      12.818037033081055,
+      12.820533752441406,
+      12.866079330444336,
+      12.880993843078613,
+      12.886308670043945,
+      12.955455780029297
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.21,
+      498.43,
+      507.99,
+      515.56
+    ],
+    "text": "to the 2nd Respondent marked as 3R2. In this request dated 24.10.2007, it is",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.849833488464355,
+      12.67786693572998,
+      12.800000190734863,
+      12.806848526000977,
+      12.820533752441406,
+      12.822089195251465,
+      12.830214500427246,
+      12.843276977539062,
+      12.896535873413086,
+      12.899215698242188,
+      12.91557788848877
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.7,
+      519.31,
+      508.26,
+      539.63
+    ],
+    "text": "stated by the 3rd Respondent that the Lot No. 34 is a vacant lot, remained",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.014056205749512,
+      12.800000190734863,
+      12.814092636108398,
+      12.819584846496582,
+      12.820533752441406,
+      12.840934753417969,
+      12.857172966003418,
+      12.8687162399292,
+      12.91557788848877,
+      12.97327709197998
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.88,
+      543.43,
+      508.99,
+      563.39
+    ],
+    "text": "unoccupied, even after a Land Kachcheri was held. The 3rd Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.014056205749512,
+      12.800000190734863,
+      12.827770233154297,
+      12.880993843078613,
+      12.890628814697266,
+      12.946413040161133
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.86,
+      570.08,
+      508.83,
+      587.16
+    ],
+    "text": "had recommended the 5th Respondent's application for a permit in respect",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.800000190734863,
+      12.837644577026367,
+      12.847561836242676,
+      12.859063148498535,
+      12.948439598083496,
+      13.034109115600586
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.77,
+      593.83,
+      508.43,
+      610.91
+    ],
+    "text": "of the said land on 05.06.1995, more than fourteen years before the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.804348945617676,
+      12.820533752441406,
+      12.867720603942871,
+      12.90184497833252,
+      12.952788352966309,
+      13.211583137512207
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.46,
+      617.95,
+      456.74,
+      635.03
+    ],
+    "text": "Petitioner even raised his claim of any development activity on it.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.827770233154297,
+      12.862248420715332,
+      12.929198265075684,
+      13.211583137512207
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      118.37,
+      649.63,
+      507.89,
+      666.71
+    ],
+    "text": "Even if there is any development that had been made by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.800300598144531,
+      12.897627830505371,
+      12.965678215026855,
+      12.97327709197998,
+      12.978652954101562,
+      13.06353759765625,
+      13.101987838745117
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.46,
+      673.03,
+      507.74,
+      690.11
+    ],
+    "text": "Petitioner, his interest over it is remedied by his own cross claim made to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.823179244995117,
+      12.863691329956055,
+      12.97327709197998,
+      13.025562286376953,
+      13.090747833251953
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      83.84,
+      696.44,
+      507.87,
+      713.65
+    ],
+    "text": "the Matugama District Court case No. L/4029 in seeking compensation for",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.825474739074707,
+      12.908886909484863,
+      12.998855590820312,
+      13.057117462158203,
+      13.661252975463867
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      499.57,
+      729.88,
+      507.14,
+      743.36
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.21,
+      103.77,
+      509.92,
+      120.97
+    ],
+    "text": "improvement of the disputed portion of land, if the District Court holds",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91878604888916,
+      12.95498275756836,
+      12.963393211364746,
+      13.017762184143066,
+      13.049532890319824
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.94,
+      127.53,
+      401.02,
+      144.73
+    ],
+    "text": "with the 5th Respondent, who instituted the said action.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.899999618530273,
+      13.006807327270508,
+      13.084036827087402
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      120.12,
+      159.21,
+      508.78,
+      176.42
+    ],
+    "text": "Therefore, this Court is of the view that the Petitioner failed to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91878604888916,
+      12.920184135437012,
+      13.016226768493652,
+      13.049532890319824
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.84,
+      182.97,
+      509.84,
+      200.18
+    ],
+    "text": "challenge the illegality or procedural impropriety in the issuance of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.904499053955078,
+      12.91878604888916,
+      12.92203140258789
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.98,
+      206.73,
+      510.21,
+      223.93
+    ],
+    "text": "permit 5R2 by the 1st to 3rd Respondents and the issuance of a Writ of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      8.481950759887695,
+      12.899999618530273,
+      13.022468566894531,
+      13.145071983337402
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.84,
+      230.5,
+      390.34,
+      247.71
+    ],
+    "text": "Certiorari to quash the permit 5R2 is a futile exercise ..",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.955255508422852,
+      12.899999618530273,
+      13.08492374420166,
+      13.086797714233398
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      119.77,
+      262.18,
+      509.34,
+      279.38
+    ],
+    "text": "The petition of the Petitioner is accordingly dismissed with costs,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.006807327270508
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      84.82,
+      285.94,
+      379.98,
+      303.15
+    ],
+    "text": "fixed at Rs. 25,000.00, payable to the 5th Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      12.87492561340332,
+      12.899999618530273,
+      13.089409828186035
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      286.53,
+      348.85,
+      509.41,
+      366.03
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      496.81,
+      730.85,
+      510.06,
+      744.46
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  }
+]

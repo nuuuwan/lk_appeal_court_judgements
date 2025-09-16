@@ -1,0 +1,4548 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      122.89,
+      72.09,
+      493.86,
+      88.43
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      13.920000076293945
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      170.06,
+      96.81,
+      446.67,
+      113.15
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      13.920000076293945
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.2,
+      170.62,
+      444.7,
+      184.7
+    ],
+    "text": "Ceylon Electricity Board,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.2,
+      191.74,
+      341.03,
+      205.82
+    ],
+    "text": "No.50,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.2,
+      212.86,
+      423.35,
+      226.94
+    ],
+    "text": "Sir Chittampalam A.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.2,
+      233.98,
+      415.17,
+      248.06
+    ],
+    "text": "Gardiner Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.2,
+      255.1,
+      379.91,
+      269.18
+    ],
+    "text": "P.O. Box 540,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.2,
+      276.22,
+      372.96,
+      290.3
+    ],
+    "text": "Colombo 02.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.2,
+      297.34,
+      355.2,
+      311.42
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.2,
+      351.58,
+      304.57,
+      365.66
+    ],
+    "text": "CASE NO: CA/WRIT/16/2016",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.2,
+      405.82,
+      317.52,
+      419.9
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.85,
+      460.06,
+      420.91,
+      474.14
+    ],
+    "text": "1. M.D.C. Amaratunga,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.85,
+      481.18,
+      497.23,
+      495.26
+    ],
+    "text": "Commissioner General of Labour,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.85,
+      502.3,
+      413.0,
+      516.38
+    ],
+    "text": "Labour Secretariat,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.85,
+      523.42,
+      373.63,
+      537.5
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.2,
+      544.54,
+      373.82,
+      558.62
+    ],
+    "text": "2. T. Piyasoma,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.7,
+      565.66,
+      341.56,
+      579.74
+    ],
+    "text": "No.77,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.7,
+      587.02,
+      402.96,
+      601.1
+    ],
+    "text": "Pannipitiya Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.7,
+      608.14,
+      381.16,
+      622.22
+    ],
+    "text": "Battaramulla.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.7,
+      629.26,
+      393.17,
+      643.34
+    ],
+    "text": "3. P. Thilakaratne,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.7,
+      650.38,
+      397.72,
+      664.46
+    ],
+    "text": "Internal Auditor,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.28,
+      47.98,
+      313.56,
+      62.06
+    ],
+    "text": "2",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.2,
+      102.22,
+      443.24,
+      116.3
+    ],
+    "text": "Ceylon Electricity Board,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.2,
+      123.34,
+      463.88,
+      137.42
+    ],
+    "text": "No.50, Sir Chittampalam A.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.2,
+      144.46,
+      415.17,
+      158.54
+    ],
+    "text": "Gardiner Mawatha,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.2,
+      165.58,
+      379.91,
+      179.66
+    ],
+    "text": "P.O. Box 540,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.2,
+      186.7,
+      372.96,
+      200.78
+    ],
+    "text": "Colombo 02.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271.15,
+      207.82,
+      418.97,
+      221.9
+    ],
+    "text": "4. W.D.J. Seneviratna,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.7,
+      228.94,
+      411.88,
+      243.02
+    ],
+    "text": "Minister of Labour,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.7,
+      250.06,
+      412.85,
+      264.14
+    ],
+    "text": "Labour Secretariat,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.7,
+      271.18,
+      373.48,
+      285.26
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.2,
+      292.3,
+      436.23,
+      306.38
+    ],
+    "text": "4A. Dinesh Gunawardana,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.7,
+      313.42,
+      482.43,
+      327.5
+    ],
+    "text": "Minister of Skills Development,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.7,
+      334.54,
+      494.92,
+      348.62
+    ],
+    "text": "Employment & Labour Relations,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.7,
+      355.9,
+      358.76,
+      369.98
+    ],
+    "text": "2nd Floor,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.7,
+      377.02,
+      412.32,
+      391.1
+    ],
+    "text": "Labour Secretariat,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.7,
+      398.14,
+      373.48,
+      412.22
+    ],
+    "text": "Colombo 05.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.7,
+      419.26,
+      375.18,
+      433.34
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.2,
+      482.62,
+      406.08,
+      496.7
+    ],
+    "text": "Before: Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.2,
+      503.74,
+      363.36,
+      517.82
+    ],
+    "text": "Arjuna Obeyesekere, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.2,
+      530.86,
+      481.43,
+      544.94
+    ],
+    "text": "Counsel: Pasindu Silva with Chamari Hatharasinghe",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.2,
+      551.98,
+      329.27,
+      566.06
+    ],
+    "text": "for the Petitioner.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.2,
+      573.1,
+      483.59,
+      587.18
+    ],
+    "text": "Avanthi Weerakoon, S.C., for the 1st and 4A",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.2,
+      594.22,
+      306.49,
+      608.3
+    ],
+    "text": "Respondents.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.2,
+      615.34,
+      453.58,
+      629.42
+    ],
+    "text": "Manohara De Silva, P.C., with Hirosha",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.2,
+      636.46,
+      438.57,
+      650.54
+    ],
+    "text": "Munasinghe for the 3rd Respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.2,
+      663.58,
+      294.25,
+      677.66
+    ],
+    "text": "Argued on: 23.06.2020",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.2,
+      690.7,
+      294.25,
+      704.78
+    ],
+    "text": "Decided on: 21.07.2020",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      302.28,
+      47.98,
+      313.56,
+      62.06
+    ],
+    "text": "3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      102.22,
+      298.08,
+      116.3
+    ],
+    "text": "Mahinda Samayawardhena, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      135.34,
+      500.64,
+      149.42
+    ],
+    "text": "The 3rd Respondent employee joined the Petitioner, the Ceylon",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      156.46,
+      500.64,
+      170.54
+    ],
+    "text": "Electricity Board, on 14.07.1977 as a Clerk and was thereafter",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      177.58,
+      500.64,
+      191.66
+    ],
+    "text": "appointed as an Internal Audit Assistant (salary scale K5) on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      198.7,
+      500.64,
+      212.78
+    ],
+    "text": "05.06.1994. From 05.06.1994, the 3rd Respondent had not been",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      219.82,
+      500.64,
+      233.9
+    ],
+    "text": "promoted for twenty years. In 2004, he complained of this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      240.94,
+      500.64,
+      255.02
+    ],
+    "text": "matter to the Ombudsman1 and also to the Political",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      262.06,
+      500.64,
+      276.14
+    ],
+    "text": "Victimisation Committee.2 The Political Victimisation Committee",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      283.18,
+      500.64,
+      297.26
+    ],
+    "text": "held an inquiry into the matter and made a recommendation",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      304.3,
+      500.64,
+      318.38
+    ],
+    "text": "that the 3rd Respondent be promoted to the post of Internal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      325.42,
+      500.64,
+      339.5
+    ],
+    "text": "Auditor (salary scale K4) with effect from 01.10.2004.3 This",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      346.54,
+      500.64,
+      360.62
+    ],
+    "text": "recommendation was approved by the Cabinet of Ministers and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      367.9,
+      502.28,
+      381.98
+    ],
+    "text": "the Ceylon Electricity Board gave effect to the Cabinet decision.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      401.02,
+      500.64,
+      415.1
+    ],
+    "text": "Thereafter, in 2006, the 3rd Respondent reagitated the matter",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      422.14,
+      500.64,
+      436.22
+    ],
+    "text": "and urged the 1st Respondent Commissioner General of Labour",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      443.26,
+      500.64,
+      457.34
+    ],
+    "text": "to give effect to the said promotion from 05.06.1990, claiming he",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      464.38,
+      500.64,
+      478.46
+    ],
+    "text": "was entitled to be promoted to the post of Internal Auditor after",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      485.5,
+      500.64,
+      499.58
+    ],
+    "text": "six years of service in his previous position of Internal Audit",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      506.62,
+      182.4,
+      520.7
+    ],
+    "text": "Assistant.4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      539.74,
+      500.64,
+      553.82
+    ],
+    "text": "The Commissioner General of Labour held an inquiry into this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      560.86,
+      500.64,
+      574.94
+    ],
+    "text": "complaint and a settlement was reached between the employer",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      581.98,
+      489.11,
+      596.06
+    ],
+    "text": "and employee to backdate the said promotion to 31.05.1999.5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.2,
+      661.06,
+      256.7,
+      719.94
+    ],
+    "text": "1 Vide page 486 of X1. 2 Vide page 493 of X1. 3 Vide page 501 of X1. 4 Vide page 37 of X1. 5 Vide pages 9 and 39 of X1.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      6.480000019073486,
+      10.079999923706055
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302.28,
+      47.98,
+      313.56,
+      62.06
+    ],
+    "text": "4",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      102.22,
+      500.64,
+      116.3
+    ],
+    "text": "However, the Ceylon Electricity Board later resiled from this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      123.34,
+      500.64,
+      137.42
+    ],
+    "text": "settlement, stating to the Commissioner General of Labour that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      144.46,
+      500.64,
+      158.54
+    ],
+    "text": "such an agreement is tantamount to overriding the Cabinet",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      165.58,
+      312.48,
+      179.66
+    ],
+    "text": "decision, which cannot be done.6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      198.7,
+      500.64,
+      212.78
+    ],
+    "text": "It is in this context the 4th Respondent Minister, by virtue of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      219.82,
+      500.64,
+      233.9
+    ],
+    "text": "section 4(1) of the Industrial Disputes Act, referred this dispute",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      240.94,
+      213.11,
+      255.02
+    ],
+    "text": "for arbitration.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      274.06,
+      500.64,
+      288.14
+    ],
+    "text": "At the arbitration proceedings, the Ceylon Electricity Board had",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      295.18,
+      500.64,
+      309.26
+    ],
+    "text": "taken up a preliminary objection that, in light of the Cabinet",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      316.3,
+      500.64,
+      330.38
+    ],
+    "text": "decision, the Arbitrator lacks jurisdiction to inquire into the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      337.42,
+      500.64,
+      351.5
+    ],
+    "text": "matter. But the Arbitrator overruled the said objection and,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      358.54,
+      500.64,
+      372.62
+    ],
+    "text": "having proceeded with the inquiry, made the impugned decision",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      379.9,
+      500.64,
+      393.98
+    ],
+    "text": "dated 29.06.2015 backdating the said promotion to 05.06.1990,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      401.02,
+      500.64,
+      415.1
+    ],
+    "text": "on the basis the 3rd Respondent should have been promoted to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      422.14,
+      500.64,
+      436.22
+    ],
+    "text": "the post of Internal Auditor after exactly six years of service as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      443.26,
+      500.64,
+      457.34
+    ],
+    "text": "Internal Audit Assistant. However, even according to the 3rd",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      464.38,
+      500.41,
+      478.46
+    ],
+    "text": "Respondent, in terms of the relevant circulars, internal audit",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      485.5,
+      500.41,
+      499.58
+    ],
+    "text": "assistant (K5) should be promoted to the post of internal audit",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      506.62,
+      500.4,
+      520.7
+    ],
+    "text": "(K4) after 6-year service, after an exam and interview held by the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      527.74,
+      181.43,
+      541.82
+    ],
+    "text": "Petitioner.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      560.86,
+      500.64,
+      574.94
+    ],
+    "text": "It is against this decision of the Arbitrator that the Petitioner has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      581.98,
+      478.3,
+      596.06
+    ],
+    "text": "come before this Court seeking it to be quashed by certiorari.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      615.1,
+      500.64,
+      629.18
+    ],
+    "text": "The pivotal argument of the Petitioner is the Minister could not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      636.22,
+      500.64,
+      650.3
+    ],
+    "text": "have referred the dispute for arbitration nor could the Arbitrator",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      657.34,
+      500.64,
+      671.42
+    ],
+    "text": "have decided the matter because such a reference and/or",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      678.46,
+      500.64,
+      692.54
+    ],
+    "text": "decision is in sharp conflict with the said Cabinet decision made",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      115.2,
+      708.1,
+      220.3,
+      719.94
+    ],
+    "text": "6 Vide page 42 of X1.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      6.480000019073486,
+      10.079999923706055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      302.28,
+      47.98,
+      313.56,
+      62.06
+    ],
+    "text": "5",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      102.22,
+      504.48,
+      116.3
+    ],
+    "text": "on the recommendation of the Political Victimisation Committee.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      123.34,
+      500.64,
+      137.42
+    ],
+    "text": "It is not the position of the 3rd Respondent that although the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      144.46,
+      500.64,
+      158.54
+    ],
+    "text": "dispute is the same, the Arbitrator could revisit the matter and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      165.58,
+      500.4,
+      179.66
+    ],
+    "text": "make an order. Rather, the 3rd Respondents contention is the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      186.7,
+      500.4,
+      200.78
+    ],
+    "text": "application to the Political Victimisation Committee was made",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      207.82,
+      500.4,
+      221.9
+    ],
+    "text": "purely due to the 3rd Respondent being subject to political",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      228.94,
+      500.4,
+      243.02
+    ],
+    "text": "victimisation and the application made to the Commissioner",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      250.06,
+      500.4,
+      264.14
+    ],
+    "text": "General of Labour and later referred to Arbitration was purely",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      271.18,
+      500.64,
+      285.26
+    ],
+    "text": "based on Petitioners failure to implement relevant circulars, and",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      292.3,
+      500.64,
+      306.38
+    ],
+    "text": "therefore there is no conflict between the two grievances. In the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      313.42,
+      467.98,
+      327.5
+    ],
+    "text": "facts and circumstances of this case, I am unable to agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      346.54,
+      500.64,
+      360.62
+    ],
+    "text": "In fact, although the 3rd Respondent complained to the Political",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      367.9,
+      500.64,
+      381.98
+    ],
+    "text": "Victimisation Committee, his complaint makes no mention of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      389.02,
+      500.64,
+      403.1
+    ],
+    "text": "political victimisation. Rather, the said complaint pertains to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      410.14,
+      500.64,
+      424.22
+    ],
+    "text": "grave injustice caused to him due to the inefficiency of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      431.26,
+      500.64,
+      445.34
+    ],
+    "text": "management of the Ceylon Electricity Board, which compelled",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      452.38,
+      500.64,
+      466.46
+    ],
+    "text": "him to stagnate in the post of Internal Audit Assistant (salary",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      473.5,
+      500.64,
+      487.58
+    ],
+    "text": "scale K5) for twenty long years. The said complaint refers to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      494.62,
+      500.64,
+      508.7
+    ],
+    "text": "non-implementation of the relevant circulars as well. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      515.74,
+      500.64,
+      529.82
+    ],
+    "text": "argument of the 3rd Respondent that the complaint made to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      536.86,
+      500.64,
+      550.94
+    ],
+    "text": "Arbitrator was different from the complaint made to the Political",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      557.98,
+      425.02,
+      572.06
+    ],
+    "text": "Victimisation Committee is therefore unsustainable.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      591.1,
+      500.64,
+      605.18
+    ],
+    "text": "Let me quote in full the complaint of the 3rd Respondent sent to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      612.22,
+      487.89,
+      626.3
+    ],
+    "text": "the Political Victimisation Committee for better understanding.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      302.28,
+      47.98,
+      313.56,
+      62.06
+    ],
+    "text": "6",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      101.74,
+      404.57,
+      115.97
+    ],
+    "text": "! 0 23 6",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      134.86,
+      500.64,
+      149.09
+    ],
+    "text": "1984 89 05 : ! < >? 3",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      156.22,
+      500.64,
+      170.45
+    ],
+    "text": "B CDE 20B <G B",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      177.58,
+      309.86,
+      191.81
+    ],
+    "text": "HIJ 2B 6 .",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      210.7,
+      500.64,
+      224.93
+    ],
+    "text": "! 2 B.5 MN O > !",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      232.06,
+      500.64,
+      246.29
+    ],
+    "text": "QRB 2 UU B.4 MN OV",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      253.18,
+      500.64,
+      267.41
+    ],
+    "text": "! 9X < Y. 2 23 Z[ \\",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      274.54,
+      500.64,
+      288.77
+    ],
+    "text": "< ^N_ `U 75% B aZU 15% cU !",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      295.9,
+      500.64,
+      310.13
+    ],
+    "text": "dU 10% c 6 9h 0iR. j>",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      317.02,
+      500.64,
+      331.25
+    ],
+    "text": "3 B cU ! >2 IE . 9",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      338.38,
+      424.8,
+      352.61
+    ],
+    "text": "! k Il n .",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      371.02,
+      500.64,
+      385.25
+    ],
+    "text": "o 2 23 pq 9r>",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      392.14,
+      500.64,
+      406.37
+    ],
+    "text": "DGM/Policy/HRM (P)/GS (2)/4/71 2002.10.29 :",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      412.54,
+      500.64,
+      426.77
+    ],
+    "text": "tu \\ cU ! dU c 23",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      433.9,
+      500.64,
+      448.13
+    ],
+    "text": ": w< . j> tu 9r> 2",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      455.02,
+      439.34,
+      469.25
+    ],
+    "text": "B 2 > cU ! > > .",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      487.66,
+      500.64,
+      501.89
+    ],
+    "text": "x tu \\ c 23 636 CDE",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      508.78,
+      500.64,
+      523.01
+    ],
+    "text": "12 ! V ^Dy 0 U 3j",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      529.42,
+      500.64,
+      543.65
+    ],
+    "text": "XBB dU 23 6 IE w< U C>",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      550.54,
+      500.64,
+      564.77
+    ],
+    "text": "! CDE 19 B ^ 0 3j",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      571.9,
+      500.64,
+      586.13
+    ],
+    "text": "XB > CV . 3 \\ > B",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      593.02,
+      500.64,
+      607.25
+    ],
+    "text": "IE2 . j> o> cU _ r B 3j",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      614.38,
+      342.74,
+      628.61
+    ],
+    "text": "XB 23 6 .",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      647.5,
+      500.64,
+      661.73
+    ],
+    "text": "x tu \\ !B >?V 3 CDE 12",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      668.86,
+      500.64,
+      683.09
+    ],
+    "text": "3 23 EUU 3 1996 G",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.2,
+      690.22,
+      449.84,
+      704.45
+    ],
+    "text": "I B.4 MN V ! 9X < } w<.",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      302.28,
+      47.98,
+      313.56,
+      62.06
+    ],
+    "text": "7",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.2,
+      102.46,
+      500.64,
+      116.69
+    ],
+    "text": "U 23 Z[ \\ B.4 QRV I B.3 QR",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.2,
+      123.82,
+      500.64,
+      138.05
+    ],
+    "text": "HX c 6 B.4 QRV CDE 4",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.2,
+      144.94,
+      500.64,
+      159.17
+    ],
+    "text": "~X HU : w<Y. \\ B.4 QRV",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.2,
+      166.3,
+      500.64,
+      180.53
+    ],
+    "text": "23 Z[ ~> ?V 3 2000 G6 B.3",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.2,
+      187.66,
+      326.1,
+      201.89
+    ],
+    "text": "QRV 23 } w< .",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.2,
+      220.78,
+      500.64,
+      235.01
+    ],
+    "text": "3 \\ <G (B.5) CDE 20 B",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.2,
+      241.42,
+      500.64,
+      255.65
+    ],
+    "text": "2 > 3 B 2B 6U > B",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.2,
+      262.54,
+      210.82,
+      276.77
+    ],
+    "text": "IE .",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.2,
+      295.18,
+      500.64,
+      309.41
+    ],
+    "text": "D IE2 0 > HX",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      151.2,
+      316.3,
+      425.02,
+      330.53
+    ],
+    "text": "B.3 QR DU uh.7",
+    "fonts": [
+      "BookmanOldStyle",
+      "IskoolaPota"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      349.42,
+      500.64,
+      363.5
+    ],
+    "text": "It may be relevant to note that in his complaint to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      370.54,
+      500.64,
+      384.62
+    ],
+    "text": "Commissioner General of Labour,8 which was made after the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      391.66,
+      500.64,
+      405.74
+    ],
+    "text": "Cabinet decision, the 3rd Respondent does not say other",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      412.78,
+      500.64,
+      426.86
+    ],
+    "text": "employees of his service, i.e. the Internal Audit Assistant service,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      433.9,
+      500.64,
+      447.98
+    ],
+    "text": "were promoted upon six years of service. Rather, he says",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      455.02,
+      500.64,
+      469.1
+    ],
+    "text": "employees in parallel services were promoted upon six years of",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      476.14,
+      500.64,
+      490.22
+    ],
+    "text": "service. In the said complaint, the 3rd Respondent admits a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      497.26,
+      500.64,
+      511.34
+    ],
+    "text": "promotion scheme for the Internal Audit Assistant service was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      518.38,
+      395.99,
+      532.46
+    ],
+    "text": "first introduced by circular dated 31.05.1999.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      551.5,
+      500.64,
+      565.58
+    ],
+    "text": "In the award sought to be quashed, the Arbitrator has referred",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      572.62,
+      500.64,
+      586.7
+    ],
+    "text": "to the promotions of three other officers of the Ceylon Electricity",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      593.74,
+      500.64,
+      607.82
+    ],
+    "text": "Board having been backdated, upon the recommendations of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      614.86,
+      500.64,
+      628.94
+    ],
+    "text": "Human Rights Commission, beyond the Cabinet decision.9 The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      635.98,
+      500.64,
+      650.06
+    ],
+    "text": "Arbitrator places great weight on this matter in rejecting the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      115.2,
+      684.58,
+      376.49,
+      719.94
+    ],
+    "text": "7 Vide page 493 of X1. 8 Vide page 37 of X1. 9 Vide pages 8-9 of the arbitration award marked P2.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      6.480000019073486,
+      10.079999923706055
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      302.28,
+      47.98,
+      313.56,
+      62.06
+    ],
+    "text": "8",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      102.22,
+      500.64,
+      116.3
+    ],
+    "text": "argument of the Ceylon Electricity Board that to backdate the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      123.34,
+      500.64,
+      137.42
+    ],
+    "text": "promotion of the 3rd Respondent would effectively override the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      144.46,
+      500.64,
+      158.54
+    ],
+    "text": "Cabinet decision. The 3rd Respondent also takes this point to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      165.58,
+      500.4,
+      179.66
+    ],
+    "text": "the forefront and emphasises: (The Petitioners) Ceylon",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      186.7,
+      500.4,
+      200.78
+    ],
+    "text": "Electricity Boards position that they have no power to backdate",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      207.82,
+      500.4,
+      221.9
+    ],
+    "text": "the applicant beyond the date which the Political Committee",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      228.94,
+      500.4,
+      243.02
+    ],
+    "text": "Report recommended which has been approved by the cabinet",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      250.06,
+      500.4,
+      264.14
+    ],
+    "text": "cannot sustain inasmuch as the Board has acted contrary to the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      271.18,
+      500.4,
+      285.26
+    ],
+    "text": "said stand in a different manner with regard to other officers and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      292.3,
+      485.02,
+      306.38
+    ],
+    "text": "no explanation has been given with regard to such promotions.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      325.42,
+      500.64,
+      339.5
+    ],
+    "text": "With regard to the said promotions of the other three officers,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      346.54,
+      504.48,
+      360.62
+    ],
+    "text": "the Arbitrator refers to the documents marked R23-R26.10",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      367.9,
+      500.64,
+      381.98
+    ],
+    "text": "However when I read these documents, it is clear the Arbitrator",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      389.02,
+      500.64,
+      403.1
+    ],
+    "text": "has manifestly misconstrued them. The recommendation of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      410.14,
+      500.64,
+      424.22
+    ],
+    "text": "Human Rights Commission in respect of the said three officers is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      431.26,
+      179.99,
+      445.34
+    ],
+    "text": "as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.2,
+      464.38,
+      500.4,
+      478.46
+    ],
+    "text": "The said [political victimisation] committee explored their",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.2,
+      485.5,
+      500.4,
+      499.58
+    ],
+    "text": "grievances and recommended very clearly that the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.2,
+      506.62,
+      500.4,
+      520.7
+    ],
+    "text": "appointments of the complainant and others in the same",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.2,
+      527.74,
+      500.39,
+      541.82
+    ],
+    "text": "batch be backdated to 02.05.1995 the date on which they",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.2,
+      548.86,
+      350.38,
+      562.94
+    ],
+    "text": "would complete the six years. (P1)",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.2,
+      581.98,
+      500.4,
+      596.06
+    ],
+    "text": "But the management of the CEB amended the said",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.2,
+      603.1,
+      481.67,
+      617.18
+    ],
+    "text": "recommendation and implemented from 01.04.1998. (P2)",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.2,
+      636.22,
+      500.4,
+      650.3
+    ],
+    "text": "By considering the foregoing the Human Rights Commission",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.2,
+      657.34,
+      500.39,
+      671.42
+    ],
+    "text": "observes that the Respondent Board treated the employees",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      151.2,
+      678.46,
+      500.4,
+      692.54
+    ],
+    "text": "in the two batches differently and thereby created an",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      115.2,
+      708.1,
+      258.39,
+      719.94
+    ],
+    "text": "10 Vide pages 530-541 of X1.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      6.480000019073486,
+      10.079999923706055
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      302.28,
+      47.98,
+      313.56,
+      62.06
+    ],
+    "text": "9",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.2,
+      102.22,
+      500.4,
+      116.3
+    ],
+    "text": "anomaly among the said employees and the said anomaly",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.2,
+      123.34,
+      500.39,
+      137.42
+    ],
+    "text": "had violated the fundamental rights of equal protection of",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.2,
+      144.46,
+      500.4,
+      158.54
+    ],
+    "text": "law guaranteed under Article 12(1) of the Constitution. In",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.2,
+      165.58,
+      500.39,
+      179.66
+    ],
+    "text": "the circumstances, the Human Rights Commission",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.2,
+      186.7,
+      500.4,
+      200.78
+    ],
+    "text": "recommends that the complainants appointment which",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.2,
+      207.82,
+      500.4,
+      221.9
+    ],
+    "text": "carries the salary scale of K4 be backdated to be effective",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      151.2,
+      228.94,
+      462.47,
+      243.02
+    ],
+    "text": "from 02.05.1995 and adjust the salary accordingly.11",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      262.06,
+      500.65,
+      276.14
+    ],
+    "text": "It appears, contrary to what the Arbitrator states, the Human",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      283.18,
+      500.64,
+      297.26
+    ],
+    "text": "Rights Commission recommended that the Ceylon Electricity",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      304.3,
+      500.64,
+      318.38
+    ],
+    "text": "Board implement the Cabinet decision without varying it. In",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      325.42,
+      500.64,
+      339.5
+    ],
+    "text": "other words, the Human Rights Commission recommended",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      346.54,
+      500.64,
+      360.62
+    ],
+    "text": "backdating the relevant promotions strictly in line with the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      367.9,
+      500.64,
+      381.98
+    ],
+    "text": "Cabinet decision made on the recommendations of the Political",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      389.02,
+      500.64,
+      403.1
+    ],
+    "text": "Victimisation Committee. The Ceylon Electricity Board enforced",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      410.14,
+      500.64,
+      424.22
+    ],
+    "text": "the said recommendations of the Human Rights Commission",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      431.26,
+      500.64,
+      445.34
+    ],
+    "text": "and the promotions of the three officers were backdated",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      452.38,
+      500.64,
+      466.46
+    ],
+    "text": "accordingly. This misconstruction of the Human Rights",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      473.5,
+      500.64,
+      487.58
+    ],
+    "text": "Commission recommendations with regard to the said three",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      494.62,
+      500.64,
+      508.7
+    ],
+    "text": "officers has largely influenced the Arbitrator to hold against the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      515.74,
+      395.74,
+      529.82
+    ],
+    "text": "Ceylon Electricity Board in the instant dispute.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      548.86,
+      500.64,
+      562.94
+    ],
+    "text": "The above quoted recommendation of the Human Rights",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      569.98,
+      500.64,
+      584.06
+    ],
+    "text": "Commission further highlights that the Political Victimisation",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      591.1,
+      500.64,
+      605.18
+    ],
+    "text": "Committee made recommendations based on the unique facts",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      612.22,
+      500.64,
+      626.3
+    ],
+    "text": "and circumstances of each individual case. This is clear from",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      633.34,
+      500.64,
+      647.42
+    ],
+    "text": "the report of the Political Victimisation Committee found in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      654.46,
+      500.65,
+      668.54
+    ],
+    "text": "record.12 In respect of the other three employees, who were not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      115.2,
+      696.34,
+      253.19,
+      719.94
+    ],
+    "text": "11 Vide page 534. 12 Vide page 500-517 of X1.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      6.480000019073486,
+      10.079999923706055
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      298.56,
+      47.98,
+      317.28,
+      62.06
+    ],
+    "text": "10",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      102.22,
+      500.64,
+      116.3
+    ],
+    "text": "in the same service as the 3rd Respondent (i.e. the three",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      123.34,
+      500.64,
+      137.42
+    ],
+    "text": "employees highlighted by the Arbitrator and the 3rd Respondent),",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      144.46,
+      500.64,
+      158.54
+    ],
+    "text": "the Political Victimisation Committee recommended they be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      165.58,
+      500.64,
+      179.66
+    ],
+    "text": "promoted upon completion of six years of service. The Political",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      186.7,
+      500.64,
+      200.78
+    ],
+    "text": "Victimisation Committee did not make the same",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      207.82,
+      500.63,
+      221.9
+    ],
+    "text": "recommendation in respect of the 3rd Respondent, perhaps for",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      228.94,
+      500.64,
+      243.02
+    ],
+    "text": "different reasons. This Court is not mandated to look into that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      250.06,
+      161.75,
+      264.14
+    ],
+    "text": "matter.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      283.18,
+      500.64,
+      297.26
+    ],
+    "text": "In light of the Cabinet decision already made in respect of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      304.3,
+      500.64,
+      318.38
+    ],
+    "text": "effective date of promotion of the 3rd Respondent, the Minister",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      325.42,
+      500.64,
+      339.5
+    ],
+    "text": "could not have referred the matter for arbitration and the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      346.54,
+      500.64,
+      360.62
+    ],
+    "text": "Arbitrator could not have backdated the said promotion, thereby",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      367.9,
+      313.18,
+      381.98
+    ],
+    "text": "overriding the Cabinet decision.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      401.02,
+      477.92,
+      415.1
+    ],
+    "text": "The 3rd Respondent has taken up two preliminary objections.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      434.14,
+      500.64,
+      448.22
+    ],
+    "text": "The 1st preliminary objection is the former Minister who referred",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      7.919999599456787,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      455.26,
+      500.64,
+      469.34
+    ],
+    "text": "the dispute for arbitration has not been cited by name and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      476.38,
+      500.64,
+      490.46
+    ],
+    "text": "instead the present Minister has been made a party, and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      497.5,
+      500.4,
+      511.58
+    ],
+    "text": "therefore the application of the Petitioner shall be dismissed in",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      518.62,
+      500.64,
+      532.7
+    ],
+    "text": "limine. The Minister was performing an official act; he cannot be",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      539.74,
+      500.64,
+      553.82
+    ],
+    "text": "held personally liable for such an act and therefore naming his",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      560.86,
+      500.63,
+      574.94
+    ],
+    "text": "successor is sufficient compliance in terms of the Court of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      581.98,
+      500.64,
+      596.06
+    ],
+    "text": "Appeal Rules. In any event, the relief sought is certiorari",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      603.1,
+      500.64,
+      617.18
+    ],
+    "text": "quashing the reference for arbitration by the Minister;",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      624.22,
+      277.44,
+      638.3
+    ],
+    "text": "mandamus is not sought.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      657.34,
+      500.4,
+      671.42
+    ],
+    "text": "The second preliminary objection is Petition of Appeal has not",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      678.46,
+      500.4,
+      692.54
+    ],
+    "text": "been filed by the Attorney-at-Law on record; therefore no valid",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      115.2,
+      699.58,
+      500.64,
+      713.66
+    ],
+    "text": "Petition of Appeal is before Court. There is no Petition of Appeal",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      298.56,
+      47.98,
+      317.28,
+      62.06
+    ],
+    "text": "11",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.2,
+      102.22,
+      500.64,
+      116.3
+    ],
+    "text": "in the instant case. This is a writ application. The names of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.2,
+      123.34,
+      500.64,
+      137.42
+    ],
+    "text": "several Attorneys-at-Law appear on the proxy and it has been",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.2,
+      144.46,
+      500.64,
+      158.54
+    ],
+    "text": "signed by one of them. This is sufficient compliance. In any",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.2,
+      165.58,
+      382.06,
+      179.66
+    ],
+    "text": "event, such a defect of the proxy is curable.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.2,
+      198.7,
+      380.86,
+      212.78
+    ],
+    "text": "I overrule the above preliminary objections.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.2,
+      231.82,
+      500.64,
+      245.9
+    ],
+    "text": "I quash the reference for arbitration by the Minister in P1(a) and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.2,
+      252.94,
+      500.64,
+      267.02
+    ],
+    "text": "the award of the Arbitrator marked P2 and P3 by way of a writ of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.2,
+      274.06,
+      426.45,
+      288.14
+    ],
+    "text": "certiorari, on the basis that both acts are ultra vires.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.2,
+      307.18,
+      500.64,
+      321.26
+    ],
+    "text": "The reliefs as prayed for in paragraphs (b) and (c) of the prayer",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.2,
+      328.3,
+      500.64,
+      342.38
+    ],
+    "text": "to the petition dated 14.01.2016 are granted. The application of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.2,
+      349.42,
+      369.58,
+      363.5
+    ],
+    "text": "the Petitioner is allowed but without costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      328.81,
+      449.02,
+      500.64,
+      463.1
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.2,
+      491.26,
+      255.36,
+      505.34
+    ],
+    "text": "Arjuna Obeyesekere, J.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      115.2,
+      512.38,
+      161.99,
+      526.46
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      328.81,
+      545.5,
+      500.64,
+      559.58
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
