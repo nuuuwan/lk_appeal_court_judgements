@@ -1,0 +1,1941 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      134.16,
+      104.52,
+      470.07,
+      121.04
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.505407333374023,
+      11.629324913024902,
+      11.633657455444336,
+      11.698153495788574,
+      11.707894325256348,
+      11.850923538208008,
+      11.973020553588867,
+      11.98033332824707
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      232.56,
+      121.32,
+      371.77,
+      137.84
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.333542823791504,
+      11.41073226928711,
+      11.572588920593262,
+      11.696820259094238
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      71.15,
+      188.59,
+      284.33,
+      205.22
+    ],
+    "text": "e.A./MC./RV Application No. 26/2016",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.6,
+      154.74,
+      532.72,
+      188.17
+    ],
+    "text": "In the matter of an application under article 138 of the constitution.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.860733985900879,
+      11.972175598144531,
+      12.100000381469727,
+      12.124725341796875,
+      12.161643028259277,
+      12.449016571044922
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      71.15,
+      205.15,
+      532.69,
+      356.18
+    ],
+    "text": "M.e. Gangodawila 61140, 67480, 55459, 58964,58965,56252,55794,65204, 62667,57799,90586. M.e. Kaduwela 7068, 6587 M.e. Attangalla. 67177, 67178 Godakuru Pathirennahelage Wimalaratne Pathirana. Prisoner No. Q 16098 Welikada Prison,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.060184478759766,
+      12.100000381469727,
+      12.103750228881836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.67,
+      356.34,
+      424.41,
+      372.97
+    ],
+    "text": "Baseline Road, Colombo.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.954830169677734,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      351.35,
+      390.78,
+      476.46,
+      423.62
+    ],
+    "text": "Petitioner. Vs.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.600000381469727,
+      11.650760650634766
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.5,
+      440.34,
+      460.11,
+      456.97
+    ],
+    "text": "1. The Hon. Attorney General,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.49,
+      457.14,
+      483.7,
+      473.77
+    ],
+    "text": "Attorney General's Department,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.15,
+      473.94,
+      433.45,
+      490.57
+    ],
+    "text": "Hultsdorf, Colombo 12.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.34,
+      507.3,
+      514.44,
+      523.93
+    ],
+    "text": "2. The Commissioner General of Prisons",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.787053108215332,
+      12.100000381469727,
+      12.449016571044922
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.54,
+      523.86,
+      426.75,
+      574.34
+    ],
+    "text": "Prisons Headquarters, Baseline Road, Colombo 9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.954830169677734,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      283.06,
+      591.31,
+      415.34,
+      607.94
+    ],
+    "text": "3. The Superintendent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.7986478805542,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.44,
+      607.86,
+      396.3,
+      624.49
+    ],
+    "text": "Welikada Prison,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.3,
+      624.9,
+      383.84,
+      658.09
+    ],
+    "text": "Baseline Road, Colombo 9.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.796339988708496,
+      12.003314018249512,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      400.31,
+      675.18,
+      479.93,
+      691.15
+    ],
+    "text": "Respondents.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.81,
+      72.58,
+      113.38,
+      89.62
+    ],
+    "text": "Before:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.18,
+      124.42,
+      120.07,
+      141.46
+    ],
+    "text": "Counsel:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141.13,
+      72.54,
+      280.79,
+      106.91
+    ],
+    "text": "A.H.M.D. Nawaz, J. E.A.G.R. Amarasekara, J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.1748046875,
+      12.38796615600586,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.9,
+      35.31,
+      308.4,
+      48.65
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      141.62,
+      124.42,
+      434.79,
+      158.74
+    ],
+    "text": "K. Tiranagama with s. Ekanayaka for the Petitioner. Nayomi Wickeramasekara SSC for the Respondent.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.24159049987793,
+      11.300943374633789,
+      11.490386962890625,
+      12.399999618530273,
+      12.43714427947998,
+      12.605300903320312,
+      12.697676658630371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.33,
+      176.26,
+      207.84,
+      193.3
+    ],
+    "text": "Decided on: 18.05.2018",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.56,
+      210.54,
+      208.79,
+      227.62
+    ],
+    "text": "E.A.G.R. Amarasekara, J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.107756614685059,
+      12.38796615600586,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.99,
+      262.42,
+      541.35,
+      331.06
+    ],
+    "text": "On 17.01.2018 parties were allowed to file written submission with regard to this application and accordingly both the counsel for the Petitioner and the Respondents have filed their written submission on 20.02.2018 and 26.03.2018 respectively.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.05273723602295,
+      12.399999618530273,
+      12.43430233001709,
+      12.496027946472168,
+      12.499202728271484,
+      12.605300903320312,
+      12.773136138916016
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.24,
+      348.59,
+      541.58,
+      554.74
+    ],
+    "text": "Though the Petitioner has referred to a direction of the Supreme Court in SC (FR) App. No. 34/ 15 - 41/15 in paragraph 1e of his petition and marked the decision of SC (FR) Appln.No 34/2015 as P1, this court observes that these proceedings were commenced with the filing of an application dated 15.09.2016 and not by forwarding of the papers of the Supreme Court case to this court by the registrar of the Supreme Court as directed by the said order. The petitioner in P1 is one Loku Vithanage Rathnapala who is not the petitioner in this case. Hence this court cannot find any direct link with the order and directions given in P1 with this application. There is no material placed before this court to show that other Supreme Court cases referred to in paragraph 1e of the petition has any direct link to this case. Thus, it is the duty of the petitioner to place the material documents before this court to substantiate his case.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.120373725891113,
+      11.551789283752441,
+      11.706242561340332,
+      11.718047142028809,
+      11.816155433654785,
+      11.841261863708496,
+      11.853507995605469,
+      11.943445205688477,
+      11.96408748626709,
+      12.22192096710205,
+      12.235660552978516,
+      12.254597663879395,
+      12.273504257202148,
+      12.287439346313477,
+      12.322507858276367,
+      12.347187042236328,
+      12.376426696777344,
+      12.385841369628906,
+      12.399999618530273,
+      12.413542747497559,
+      12.417786598205566,
+      12.43669605255127,
+      12.43714427947998,
+      12.496027946472168,
+      12.499202728271484,
+      12.568603515625,
+      12.738675117492676,
+      12.757399559020996,
+      12.773136138916016,
+      12.798060417175293,
+      12.87346076965332,
+      12.905496597290039,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.84,
+      572.26,
+      540.98,
+      623.62
+    ],
+    "text": "The petitioner has filed this application praying inter alia to revise certain jail sentences referred to in the application which were imposed on the petitioner by the Magistrate's courts of Gangodawila (Nugegoda), Kaduwela and Attanagalla.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.273504257202148,
+      12.399999618530273,
+      12.417488098144531,
+      12.43669605255127,
+      12.773136138916016,
+      12.87346076965332,
+      12.905496597290039
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.26,
+      638.39,
+      542.2,
+      674.74
+    ],
+    "text": "o.~ Details of the relevant convictions and sentences per the warrants of commitment annexed to the application are givenbelow; '\" A",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Italic"
+    ],
+    "sizes": [
+      3.800100088119507,
+      4.739686012268066,
+      12.399999618530273,
+      12.405899047851562,
+      12.43669605255127,
+      12.602397918701172,
+      12.773136138916016,
+      13.006850242614746
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      298.44,
+      68.62,
+      306.32,
+      82.63
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.43,
+      121.86,
+      508.94,
+      358.57
+    ],
+    "text": "Case No. Offence/Count Date of Sentence. conviction/sentence M.e. Nugegoda 31.01. 2011/14.05 .2012 61140 Count (1) cheating Count (2) Criminal 2 Years' R. I Misappropriation M.e. Nugegoda 25.03.2011/14.05.2012 67480 Count (1) cheating 2 yea rs' R.I. Count (2) Criminal Misappropriation M.e. Nugegoda 30.05.2011/14.05.2012 55459 Count (1) cheating 1 Year's R.I. Count (2) Criminal Misappropriation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.712553977966309,
+      11.439312934875488,
+      11.528346061706543,
+      11.655069351196289,
+      11.993027687072754,
+      12.100000381469727,
+      12.716780662536621
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.4,
+      409.86,
+      508.7,
+      561.61
+    ],
+    "text": "Case No. Offence/Count Date of Sentence. conviction/sentence M.e. Nugegoda 11.06.2012/23.07.2012 58964 Count (1) cheating 2 Years' R. I Count (2) Criminal Misappropriation M.e. Nugegoda 11.06.2012/23.07.2012 58965 Count (1) cheating 2 Years' R.I. Count (2) Criminal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.566815376281738,
+      11.528346061706543,
+      11.655069351196289,
+      12.034372329711914,
+      12.100000381469727,
+      12.716780662536621
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.4,
+      561.79,
+      501.52,
+      746.65
+    ],
+    "text": "Misappropriation M.e. Nugegoda 11.06.2012/23.07.2012 56252 Count (1) cheating 2 Years' R. I Count (2) Criminal Misappropriation M.e. Nugegoda 11.06.2012/23.07.2012 55794 Count (1) cheating 2 Years' R. I Count (2) Criminal Misappropriation M.e. Nugegoda 11.06.2012/23.07.2012 65204 Count (2) cheating 2 Years' R. I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.566815376281738,
+      10.712553977966309,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      297.56,
+      68.83,
+      305.29,
+      82.57
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75.92,
+      105.07,
+      503.12,
+      291.99
+    ],
+    "text": "Count (1) Criminal Misappropriation M.e. Nugegoda Count (1) cheating 11.06.2012/20.08.2012 62667 Count (2) Criminal 1 Year's R. I Misappropriation M.e.Nugegoda Count (1) cheating 23.07.2012/20.08.2012 1 Year's R.I. 57799 M.e. Nugegoda 06.08.2012/14.09.2012 90586 Count (1) cheating 2 Years' R.I. Count (2) Criminal Misappropriation -----------------",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.712553977966309,
+      11.439312934875488,
+      11.528346061706543,
+      12.100000381469727,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75.47,
+      325.87,
+      527.56,
+      728.9
+    ],
+    "text": "Case No. Offence/Count Date of Sentence. conviction/sentence M.e. Kaduwela 06.06.2012/02.08.2012 7068 Count (1) cheating 1 Year's R.I. Rs.1500 fine, 1 Month 5.1 in default of payment Count (2) Criminal 1 Year's R.I. Misappropriation Rs.1500 fine, 1 Month 5.1 in default of payment M.e. Kaduwela 07.06.2012/02.08.2012 6587 Count (1) cheating 1 Year's R.I, Rs. 1500 fine, 1 Month 5.1 in default of payment Count (2) Criminal 1 Year's R.I. Rs. Misappropriation 1500 fine, 1 Month 5.1 in default of payment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.334524154663086,
+      10.868534088134766,
+      10.96347427368164,
+      11.439312934875488,
+      11.655069351196289,
+      11.791363716125488,
+      12.026326179504395,
+      12.100000381469727,
+      12.146112442016602,
+      12.186789512634277,
+      12.312975883483887,
+      12.449016571044922,
+      12.583635330200195
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      98.24,
+      121.62,
+      275.2,
+      138.49
+    ],
+    "text": "Case No. Offence/Count",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.59835147857666,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75.71,
+      155.7,
+      229.57,
+      222.98
+    ],
+    "text": "M.e. Attanagalla 67177 Count Criminal of Trust",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.716780662536621
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      180.06,
+      256.74,
+      232.84,
+      289.93
+    ],
+    "text": "Count Cheating",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75.71,
+      357.79,
+      229.3,
+      425.29
+    ],
+    "text": "M.e. Attanagalla 67178 Count Criminal of Trust",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.716780662536621
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      179.82,
+      458.58,
+      234.25,
+      492.01
+    ],
+    "text": "Count (2) Cheating",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.69,
+      542.58,
+      242.08,
+      576.01
+    ],
+    "text": "*R. 1- Rigorous Imprisonment *5. 1- Simple Imprisonment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.966766357421875,
+      12.100000381469727,
+      13.059553146362305,
+      13.18950080871582
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      241.42,
+      172.5,
+      281.75,
+      205.92
+    ],
+    "text": "(1) Breach",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      264.75,
+      256.5,
+      281.45,
+      273.13
+    ],
+    "text": "(2)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.034372329711914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      241.42,
+      374.35,
+      281.53,
+      408.0
+    ],
+    "text": "(1) Breach",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      297.24,
+      69.01,
+      305.33,
+      82.34
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      290.25,
+      121.86,
+      425.65,
+      172.56
+    ],
+    "text": "Date of conviction/sentence 09.07.2012/08.08.2012",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727,
+      12.583635330200195
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      289.76,
+      357.79,
+      423.38,
+      374.42
+    ],
+    "text": "09.07.2012/08.08.2012",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      450.32,
+      121.87,
+      507.25,
+      138.49
+    ],
+    "text": "Sentence.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      431.64,
+      172.75,
+      527.56,
+      239.78
+    ],
+    "text": "Rs.1500 fine, 3 months' 5.1 in default of Payment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.48508358001709,
+      12.026326179504395,
+      12.100000381469727,
+      12.449016571044922
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      431.61,
+      273.3,
+      524.49,
+      289.93
+    ],
+    "text": "9 months' 5.1.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.825531005859375,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      431.64,
+      290.11,
+      527.56,
+      357.13
+    ],
+    "text": "Rs. 1500 fine, 3 months' 5.1 in default of Payment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.377495765686035,
+      10.96347427368164,
+      12.026326179504395,
+      12.100000381469727,
+      12.449016571044922
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      431.64,
+      374.35,
+      527.56,
+      441.85
+    ],
+    "text": "Rs. 1500 fine, 3 months' 5.1 in default of payment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.377495765686035,
+      10.96347427368164,
+      12.026326179504395,
+      12.100000381469727,
+      12.449016571044922
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      431.61,
+      458.35,
+      527.47,
+      541.93
+    ],
+    "text": "9 months 5.1 Rs. 1500 fine, 3 months' 5.1. in default of payment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.48508358001709,
+      10.825531005859375,
+      10.868534088134766,
+      12.026326179504395,
+      12.100000381469727,
+      12.312975883483887
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.52,
+      592.98,
+      532.36,
+      709.68
+    ],
+    "text": "This court observes that certain details given in paragraph 6,7,9 and 10 of the petition do not tally with the details in respective warrants of commitment marked with the application and some of the copies of warrants of commitment are not properly photocopied to contain the full contents. The above table was prepared using the copies of warrants of commitments marked P2A, P2B, P2C, P3A, P3B, P3C, P3D, P3E, P3F, P3G, P3H, P5A, P5B, P6A, P6B and the aforesaid paragraphs of the petition.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.455960273742676,
+      11.489130020141602,
+      11.516742706298828,
+      11.587965965270996,
+      11.630126953125,
+      11.674985885620117,
+      11.697144508361816,
+      11.73623275756836,
+      11.778786659240723,
+      11.797211647033691,
+      11.857877731323242,
+      11.874855041503906,
+      11.918234825134277,
+      12.026326179504395,
+      12.100000381469727,
+      12.100099563598633,
+      12.112993240356445,
+      12.133354187011719,
+      12.18043327331543,
+      12.224212646484375,
+      12.350800514221191,
+      12.35197639465332,
+      12.449016571044922,
+      12.583635330200195,
+      12.716780662536621
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      297.47,
+      68.7,
+      305.12,
+      82.31
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.02,
+      104.58,
+      533.8,
+      188.41
+    ],
+    "text": "In his petition, the petitioner starts to state his case from paragraph 4 onwards and up to paragraph 4 he has stated certain matters in general but in paragraph 11 of the petition, the petitioner states that the aforesaid sentences imposed by the magistrates' courts of Kaduwela and Attanagalla are partly illegal for the following reasons:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.860733985900879,
+      11.890689849853516,
+      11.963530540466309,
+      11.992825508117676,
+      12.011375427246094,
+      12.026326179504395,
+      12.070513725280762,
+      12.100000381469727,
+      12.115091323852539,
+      12.117387771606445,
+      12.216984748840332,
+      12.22579574584961,
+      12.285626411437988,
+      12.35197639465332,
+      12.360006332397461,
+      12.449016571044922,
+      12.583635330200195
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.48,
+      205.38,
+      533.47,
+      272.41
+    ],
+    "text": "a) In each of the said cases the learned Magistrate have convicted and sentenced the Petitioner under 2 counts: - Cheating and Criminal Breach of Trust or Criminal Misappropriation. In respect of each count, sentences of imprisonment and fine/default sentences have been imposed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.677421569824219,
+      11.860733985900879,
+      11.908586502075195,
+      12.070765495300293,
+      12.100000381469727,
+      12.109946250915527,
+      12.124725341796875,
+      12.193737030029297,
+      12.312975883483887,
+      12.449016571044922,
+      12.716780662536621
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.86,
+      289.63,
+      531.81,
+      339.62
+    ],
+    "text": "b) As laid down in a number of cases in Sri Lanka by the Supreme Court and this court, it is settled law that a person cannot be legally convicted and sentences for Cheating and Criminal Breach of Trust or Criminal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.549737930297852,
+      11.606277465820312,
+      11.886415481567383,
+      11.908586502075195,
+      11.93330192565918,
+      11.975914001464844,
+      12.020136833190918,
+      12.070765495300293,
+      12.100000381469727,
+      12.126172065734863,
+      12.267440795898438,
+      12.285626411437988,
+      12.414512634277344,
+      12.449016571044922,
+      12.583635330200195
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      104.74,
+      339.54,
+      532.06,
+      423.37
+    ],
+    "text": "Misappropriation in respect of the same subject matter. The accused can be convicted only of one offence: - either Cheating or Criminal Breach of Trust or Criminal Misappropriation. Of the two sentences of imprisonment and fine imposed in respect of the two counts, the conviction and sentence imposed in respect of one count is illegal and have no validity in law.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.411194801330566,
+      11.786745071411133,
+      11.941715240478516,
+      12.026326179504395,
+      12.100000381469727,
+      12.311992645263672,
+      12.312975883483887,
+      12.322798728942871,
+      12.383381843566895,
+      12.449016571044922,
+      12.583635330200195
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.48,
+      441.54,
+      531.61,
+      508.81
+    ],
+    "text": "c) For the same reason, of the two fines imposed on each count, only one sentence of fine is legal and others are illegal and have no validity in law. Therefore, default sentence of imprisonment in such cases is illegal and has no validity in Law.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.391188621520996,
+      11.411194801330566,
+      11.606277465820312,
+      11.800749778747559,
+      11.85328483581543,
+      11.958118438720703,
+      12.009410858154297,
+      12.026326179504395,
+      12.091397285461426,
+      12.100000381469727,
+      12.311992645263672,
+      12.449016571044922,
+      12.583635330200195
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.02,
+      525.54,
+      533.8,
+      742.34
+    ],
+    "text": "Other than some proceedings in Nugegoda Magistrate's court case No. 58964, 56252 and 57789 (P4A, P4B and P4C) the petitioner has filed only the warrants of commitment relating to aforesaid cases to substantiate his case. Signing of a warrant of commitment by a judge is a ministerial act. In fact, what are expected to be revised by this application are the sentencing orders in the aforementioned cases. The petitioner neither has tendered relevant sentencing orders with the application {Other than in cases No. 58964{P4A) and 57799{P4C)} nor the charge sheets of any of the cases to see whether the counts referred to in a given marked warrant of commitment are related to the same subject matter or different subject matters. It should be noted that sections 174, 175, 176 and 180 Of Criminal Procedure Code allow joinder of charges under certain circumstances. For example, section 174 allows the prosecutor to join 3 charges of the same kind committed within one year. When the charge sheets and/or sentencing orders are",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.411194801330566,
+      11.601532936096191,
+      11.609353065490723,
+      11.630126953125,
+      11.786745071411133,
+      11.860733985900879,
+      11.871594429016113,
+      11.882393836975098,
+      11.885244369506836,
+      11.890689849853516,
+      11.908586502075195,
+      11.95705509185791,
+      11.958118438720703,
+      11.963530540466309,
+      12.011375427246094,
+      12.020136833190918,
+      12.026326179504395,
+      12.060184478759766,
+      12.090346336364746,
+      12.100000381469727,
+      12.100099563598633,
+      12.111993789672852,
+      12.117387771606445,
+      12.12327766418457,
+      12.124725341796875,
+      12.13145923614502,
+      12.133503913879395,
+      12.161643028259277,
+      12.168356895446777,
+      12.174023628234863,
+      12.214359283447266,
+      12.216984748840332,
+      12.244141578674316,
+      12.285626411437988,
+      12.322798728942871,
+      12.35197639465332,
+      12.449016571044922,
+      12.583635330200195
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      297.25,
+      69.06,
+      304.98,
+      82.8
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.52,
+      104.97,
+      532.75,
+      457.25
+    ],
+    "text": "not available this court cannot segregate the different counts described in a warrant of commitment to see whether they belong to the same subject matter and to the same incident or to a different subject matters or different incidents. For example, they may belong to same kind of offenses committed within the course of one year. Therefore, the different offenses described in a given marked warrant of commitment may not be from alternative charges in a charge sheet. Therefore, the petitioner has not tendered to this court the most relevant documents with regard to the cases he has referred to in his petition, namely the charge sheets and the sentencing orders except the sentencing orders he has submitted in cases No. 58964 (P4A) and No. 57799(P4C). He has not submitted for perusal of this court any of the charge sheets related to any of the cases he has referred to in his application. Though the petitioner has marked certain proceedings belonging to case No. 56252 (P4B) it does not contain the sentencing order. Therefore, when there are two counts described in a warrant of commitment marked in this application the petitioner has not placed before this court sufficient material to decide whether they belong to the same subject matter and/or same incident or they belong to separate incidents or separate subject matters. On the other hand, each of P3A and P3C warrants of commitment describes two counts under \"particulars of offences\" but the proceedings related to them and the proceedings related to P3G, namely P4A, P4B and P4C clearly show that the learned Magistrate had released the accused from the 2nd count in those",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.936245918273926,
+      11.56787395477295,
+      11.678086280822754,
+      11.710844039916992,
+      11.82111644744873,
+      11.849411964416504,
+      11.858315467834473,
+      11.884931564331055,
+      11.88724136352539,
+      11.906776428222656,
+      11.907800674438477,
+      11.931392669677734,
+      11.934255599975586,
+      11.93972396850586,
+      11.95310115814209,
+      11.985158920288086,
+      12.007430076599121,
+      12.012864112854004,
+      12.053216934204102,
+      12.075919151306152,
+      12.087178230285645,
+      12.093737602233887,
+      12.109917640686035,
+      12.120288848876953,
+      12.1205415725708,
+      12.164447784423828,
+      12.186842918395996,
+      12.193697929382324,
+      12.199999809265137,
+      12.203848838806152,
+      12.204448699951172,
+      12.230661392211914,
+      12.244020462036133,
+      12.253880500793457,
+      12.267364501953125,
+      12.270496368408203,
+      12.274621963500977,
+      12.313026428222656,
+      12.363750457763672,
+      12.402912139892578,
+      12.434447288513184,
+      12.465705871582031,
+      12.50035285949707,
+      12.536995887756348,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.94,
+      457.27,
+      533.08,
+      608.2
+    ],
+    "text": "relevant cases. The situation may be the same with regard to warrants of commitment marked P2A, P2B, P2C, P3B, P3D, P3E, P3F and P3H since the descriptions under the \"nature of sentence\" in them do not refer to multiple counts. P5A, P5B, P6A and P6B warrants of commitment under the cage \"nature of sentence\" describe separate sentences imposed on count 1 & 2 described in the cage named \"particulars of offences\" but as said before the petitioner has failed in submitting necessary material that is necessary to decide whether those 2 counts included in each of the said warrants of commitment belong to the same subject matter or same event of incidents.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.36432933807373,
+      11.458250999450684,
+      11.503042221069336,
+      11.536507606506348,
+      11.564234733581543,
+      11.636537551879883,
+      11.678086280822754,
+      11.784628868103027,
+      11.845860481262207,
+      11.864640235900879,
+      11.88724136352539,
+      11.902164459228516,
+      11.931392669677734,
+      11.95310115814209,
+      11.9561128616333,
+      11.965954780578613,
+      11.967382431030273,
+      12.015707969665527,
+      12.14095687866211,
+      12.199999809265137,
+      12.204448699951172,
+      12.212443351745605,
+      12.230661392211914,
+      12.244020462036133,
+      12.267364501953125,
+      12.336288452148438,
+      12.363750457763672,
+      12.402912139892578,
+      12.5,
+      12.50035285949707,
+      12.635526657104492,
+      12.769220352172852
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.52,
+      624.8,
+      532.53,
+      708.04
+    ],
+    "text": "The petitioner in paragraph 13 of his petition states that the case records of these cases are not available as he was convicted in 2012. If the case records are not available it is useless to issue notices to produce the record. On the other hand, the delay on the part of the petitioner in filing this application would have caused the difficulty in getting the necessary documents to be produced in this court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.49275016784668,
+      11.654138565063477,
+      11.858315467834473,
+      11.902164459228516,
+      11.907800674438477,
+      11.93972396850586,
+      11.95310115814209,
+      12.075919151306152,
+      12.10387134552002,
+      12.120288848876953,
+      12.12275505065918,
+      12.150750160217285,
+      12.164447784423828,
+      12.164498329162598,
+      12.199999809265137,
+      12.218535423278809,
+      12.230661392211914,
+      12.267364501953125,
+      12.270496368408203,
+      12.313026428222656,
+      12.363750457763672,
+      12.402912139892578,
+      12.465705871582031,
+      12.50035285949707,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      298.37,
+      69.34,
+      306.24,
+      83.35
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      71.05,
+      105.19,
+      533.53,
+      138.53
+    ],
+    "text": "As per the section 14 of the Criminal Procedure Code a magistrate is competent to impose any of the following sentences;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.458250999450684,
+      11.485316276550293,
+      12.158529281616211,
+      12.199999809265137,
+      12.267364501953125,
+      12.50035285949707,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      88.44,
+      155.36,
+      503.3,
+      172.12
+    ],
+    "text": "a) Imprisonment of either description for a term not exceeding two years",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.72557544708252,
+      12.199999809265137,
+      12.230661392211914,
+      12.318028450012207,
+      12.362764358520508,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      88.82,
+      188.97,
+      413.14,
+      205.73
+    ],
+    "text": "b) Fine not exceeding one thousand five hundred rupees.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.935431480407715,
+      12.097418785095215,
+      12.199999809265137,
+      12.313026428222656
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      88.2,
+      223.99,
+      460.13,
+      240.76
+    ],
+    "text": "c) Any lawful sentence combining any of the sentences aforesaid.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.438162803649902,
+      12.199999809265137,
+      12.50035285949707
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.91,
+      257.61,
+      532.78,
+      307.73
+    ],
+    "text": "It should be also noted aforesaid section does not repeal the provisions of any enactment in force whereby special provisions of punishment are given. Section 16 (1) of the Criminal Procedure Code state as follows;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.49275016784668,
+      11.95310115814209,
+      12.08399772644043,
+      12.158529281616211,
+      12.164498329162598,
+      12.199999809265137,
+      12.218535423278809,
+      12.313026428222656,
+      12.50035285949707,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      105.3,
+      341.37,
+      533.05,
+      542.45
+    ],
+    "text": "fI When a person is convicted at one trial of any two or more distinct offences the court may, subject to section 301, s~ntence him for such offences to the several punishment prescribed therefor which such court is competent to inflict; such punishments when consisting of imprisonments to commence, unless the court orders them or any of them to run concurrently, the one after the expiration of other in such order as the court may direct, even where the aggregate punishment for several offences is in excess of the punishment which the court is competent to inflict on convictions of one single offence: Provided that if the case is tried by a Magistrate's Court the aggregate punishment shall not exceed twice the amount of punishment which such court in the exercise of its ordinary jurisdiction is competent to inflict.\"",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      5.738101005554199,
+      7.798153400421143,
+      11.458250999450684,
+      11.6197509765625,
+      11.654138565063477,
+      12.001129150390625,
+      12.072029113769531,
+      12.075919151306152,
+      12.080413818359375,
+      12.165752410888672,
+      12.199999809265137,
+      12.230661392211914,
+      12.242674827575684,
+      12.244020462036133,
+      12.253880500793457,
+      12.267364501953125,
+      12.318028450012207,
+      12.336288452148438,
+      12.402912139892578,
+      12.434447288513184,
+      12.50035285949707,
+      12.536995887756348,
+      12.635526657104492,
+      12.69443130493164
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.68,
+      576.09,
+      534.04,
+      692.91
+    ],
+    "text": "When aforesaid two sections are read together it is clear that a magistrate's court in its normal jurisdiction can impose 2 years imprisonment and/or a fine of Rs.1500/- for an offence and when several offences are tried together at a one trial it can impose an aggregate of 4 years' imprisonment and fine of Rs.3000/-. Sections 15(3) and (4) provide for imprisonment in default of payment of fines. Such imprisonments in default of fines may be imposed in addition to the substantive sentences.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.458250999450684,
+      11.861298561096191,
+      11.910771369934082,
+      11.990959167480469,
+      12.02154541015625,
+      12.069704055786133,
+      12.075919151306152,
+      12.191396713256836,
+      12.199999809265137,
+      12.255622863769531,
+      12.270496368408203,
+      12.318028450012207,
+      12.402912139892578,
+      12.465705871582031,
+      12.50035285949707,
+      12.505719184875488,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      298.44,
+      69.1,
+      306.32,
+      83.11
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      71.14,
+      104.97,
+      532.98,
+      155.32
+    ],
+    "text": "In that backdrop when the court look at the warrants of commitments marked P2A, P2B. P2C, P3A, P3B, P3C, P3D, P3E, P3F, P3G, P3H, P5A, P5B, P6Aand P6B this court cannot find any illegality, irregularity or impropriety.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.564234733581543,
+      11.571670532226562,
+      11.607513427734375,
+      11.624946594238281,
+      11.6612548828125,
+      11.723130226135254,
+      11.743093490600586,
+      11.784628868103027,
+      11.82735824584961,
+      11.845860481262207,
+      11.864640235900879,
+      11.906776428222656,
+      11.923824310302734,
+      11.967382431030273,
+      12.198699951171875,
+      12.199999809265137,
+      12.244020462036133,
+      12.270496368408203,
+      12.769220352172852
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.9,
+      172.17,
+      533.14,
+      289.49
+    ],
+    "text": "It seems that the petitioner wants to allege that on the same day sentences have been imposed in several cases exceeding the limits contemplated in the aforesaid sections. Each case number mentioned in each of the warrants of commitment refers to a single trial. If more than one case was taken within one day against the petitioner they had to be considered as separate trials. The limit or the aggregate punishment referred to in aforesaid section 16 applies only when the accused is convicted at one trial.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.458250999450684,
+      11.49275016784668,
+      11.774478912353516,
+      11.902164459228516,
+      11.93972396850586,
+      12.001129150390625,
+      12.007430076599121,
+      12.069704055786133,
+      12.075919151306152,
+      12.164498329162598,
+      12.17692756652832,
+      12.17742919921875,
+      12.199999809265137,
+      12.244020462036133,
+      12.267364501953125,
+      12.270496368408203,
+      12.336288452148438,
+      12.402912139892578,
+      12.434840202331543,
+      12.50035285949707
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.69,
+      306.31,
+      534.28,
+      507.88
+    ],
+    "text": "It seems the petitioner in general alleges that without using the wide discretion given in section 303(13) the learned magistrates have mechanically enforced the suspended sentences. The petitioner has not placed before this court sufficient material to show that relevant learned magistrates have enforced suspended sentences mechanically. The petitioner should have marked with this petition the relevant proceedings before the learned magistrates. He should have shown this court the facts that were available to the learned magistrates to act differently. On the other hand, it is clear from the application itself that the petitioner had many cases which were committed in different times. Therefore, I do not think that the learned magistrate should have considered leniently. Furthermore, there is no material placed before this court to show that some of these warrants of commitment are to enforce suspended sentence.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.458250999450684,
+      11.654138565063477,
+      11.7607421875,
+      11.82111644744873,
+      11.907800674438477,
+      11.931392669677734,
+      12.075919151306152,
+      12.17692756652832,
+      12.186842918395996,
+      12.199999809265137,
+      12.204349517822266,
+      12.212443351745605,
+      12.230661392211914,
+      12.270496368408203,
+      12.336288452148438,
+      12.3367338180542,
+      12.401732444763184,
+      12.402912139892578,
+      12.50035285949707,
+      12.635526657104492,
+      12.919154167175293
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.48,
+      524.24,
+      532.89,
+      607.96
+    ],
+    "text": "The petitioner alleges that sentences in Gangodawila M.e. Cases No. 58964, 56252, and 57799 should run concurrently but the prison authorities enforce them consecutively against the order of the learned Magistrate. Other than the mere statement in P3G without reference to other sentences or case numbers stating that sentences should run concurrently, there is no material to show that the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.458250999450684,
+      11.600363731384277,
+      11.854507446289062,
+      12.001129150390625,
+      12.029812812805176,
+      12.075919151306152,
+      12.109917640686035,
+      12.196999549865723,
+      12.199999809265137,
+      12.204349517822266,
+      12.20514965057373,
+      12.244020462036133,
+      12.267364501953125,
+      12.370951652526855,
+      12.401732444763184,
+      12.402912139892578,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.79,
+      608.01,
+      533.48,
+      658.36
+    ],
+    "text": "learned magistrate intended to impose aforesaid sentences to run concurrently. On the other hand, this court observes that the date of sentence mentioned in p warrant of commitment marked 3G differs from the date of sentences in the other",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.900100231170654,
+      11.654504776000977,
+      11.858315467834473,
+      12.075919151306152,
+      12.199999809265137,
+      12.20514965057373,
+      12.224225997924805,
+      12.336288452148438,
+      12.402912139892578,
+      12.50035285949707,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      70.5,
+      655.75,
+      533.05,
+      741.4
+    ],
+    "text": ",.. -1 two warrants of commitment in cases No. 56252 and 58964 (P3C and P3A). Furthermore, this court observes that as per section 300 of the Criminal Procedure Code when a person actually undergoing imprisonment is sentenced to imprisonment such imprisonment shall commence at the expiration of the imprisonment to which he has been previously sentenced. See Sandage Sumindra",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.491459846496582,
+      4.719886302947998,
+      11.199999809265137,
+      11.458250999450684,
+      11.49275016784668,
+      11.738885879516602,
+      11.805522918701172,
+      11.884058952331543,
+      11.957693099975586,
+      12.003162384033203,
+      12.012864112854004,
+      12.05139446258545,
+      12.075919151306152,
+      12.193697929382324,
+      12.196999549865723,
+      12.199999809265137,
+      12.224225997924805,
+      12.267364501953125,
+      12.336288452148438,
+      12.362764358520508,
+      12.402912139892578,
+      12.50035285949707,
+      12.635526657104492
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      294.82,
+      68.13,
+      307.81,
+      83.07
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.105450630187988
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      69.99,
+      105.07,
+      532.06,
+      138.49
+    ],
+    "text": "Jayanthi Vs Hon. Attorney General CA 251- 267/2012 (H C Vavuniya No. 1839/04) decided on 03.07.2015.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.610811233520508,
+      11.652837753295898,
+      11.794904708862305,
+      12.060184478759766,
+      12.100000381469727,
+      12.353788375854492
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.45,
+      155.47,
+      531.74,
+      188.66
+    ],
+    "text": "For the forgoing reason this court does not wish to use its discretion to revise sentences contained in the warrants to commitment marked with this application.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.964694023132324,
+      12.090346336364746,
+      12.100000381469727,
+      12.124725341796875,
+      12.133354187011719,
+      12.1622896194458,
+      12.18043327331543,
+      12.216984748840332,
+      12.35197639465332
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.99,
+      205.62,
+      267.9,
+      222.25
+    ],
+    "text": "Hence the application is dismissed.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.411194801330566,
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.25,
+      307.42,
+      206.72,
+      324.76
+    ],
+    "text": "E.A.G.A. Amarasekera, J",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.918437957763672,
+      12.100000381469727,
+      13.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.95,
+      386.34,
+      113.47,
+      402.97
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.100000381469727
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.81,
+      490.27,
+      176.85,
+      506.89
+    ],
+    "text": "A.H.M.D. Nawaz, J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.800000190734863,
+      12.100000381469727
+    ]
+  }
+]

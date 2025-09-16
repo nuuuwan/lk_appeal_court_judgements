@@ -1,0 +1,2826 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      96.88,
+      110.36,
+      520.24,
+      130.16
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.803478240966797,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      218.81,
+      130.51,
+      400.08,
+      149.35
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.93,
+      184.04,
+      416.33,
+      203.25
+    ],
+    "text": "Andrew Emmanuel,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.399999618530273,
+      14.40514850616455
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.89,
+      211.63,
+      412.83,
+      230.84
+    ],
+    "text": "Murugan Kovilady,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.399999618530273,
+      14.45250415802002
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.12,
+      239.48,
+      365.54,
+      258.69
+    ],
+    "text": "Linganagar,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.07,
+      267.07,
+      371.21,
+      286.28
+    ],
+    "text": "Trincomalee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      359.69,
+      294.43,
+      494.31,
+      313.64
+    ],
+    "text": "Defendant-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      78.56,
+      322.64,
+      234.56,
+      342.55
+    ],
+    "text": "C.A.Appeal N 0.429/99 (F)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.909996032714844,
+      14.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      78.67,
+      350.83,
+      292.38,
+      369.67
+    ],
+    "text": "D.C. Trincomalee Case No. 568/96",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.718781471252441
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      79.36,
+      543.08,
+      136.44,
+      561.92
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      79.52,
+      593.95,
+      151.43,
+      612.78
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.41,
+      377.35,
+      311.05,
+      395.49
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.42,
+      404.12,
+      419.28,
+      423.33
+    ],
+    "text": "Sellathurai Y ogarasa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.85,
+      431.72,
+      413.79,
+      450.93
+    ],
+    "text": "Murugan Kovilady,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.399999618530273,
+      14.45250415802002
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.08,
+      459.31,
+      366.5,
+      478.52
+    ],
+    "text": "Linganagar,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.03,
+      486.67,
+      372.17,
+      505.88
+    ],
+    "text": "Trincomalee.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.89,
+      513.31,
+      491.95,
+      532.52
+    ],
+    "text": "Plaintiff-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.48,
+      538.95,
+      348.21,
+      562.22
+    ],
+    "text": "M.M.A.GAFOOR, J.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.395299911499023,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.49,
+      592.03,
+      493.05,
+      611.24
+    ],
+    "text": "Rudana Zahir for the Defendant-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.49,
+      617.71,
+      494.01,
+      636.92
+    ],
+    "text": "Hiran de Alwis for the Plaintiff-Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.399999618530273,
+      14.408247947692871
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      79.17,
+      644.35,
+      254.39,
+      663.19
+    ],
+    "text": "WRITTEN SUBMISSIONS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.634257316589355
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      79.78,
+      667.87,
+      287.98,
+      687.92
+    ],
+    "text": "TENDERED ON: 19-02-2018",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.71109676361084,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.33,
+      718.76,
+      318.31,
+      738.45
+    ],
+    "text": "DECIDED ON 11th July,2018",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.862519264221191,
+      14.399999618530273,
+      14.77784252166748
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      530.09,
+      67.57,
+      538.18,
+      80.9
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      527.7,
+      68.43,
+      535.2,
+      81.77
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.24,
+      109.18,
+      203.15,
+      131.48
+    ],
+    "text": "M.M.A.GAFOOR, T.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.994900703430176,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.34,
+      177.04,
+      536.45,
+      195.98
+    ],
+    "text": "In this case, the learned District Judge of Trincomalee has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.286238670349121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.94,
+      202.95,
+      537.25,
+      221.9
+    ],
+    "text": "delivered the order on 29.04.1999 in favour of the Plaintiff-Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.203700065612793,
+      14.33525562286377,
+      14.554768562316895
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.39,
+      228.89,
+      536.85,
+      247.83
+    ],
+    "text": "(hereinafter sometimes referred to as the \"Plaintiff'). Being aggrieved by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.81,
+      254.56,
+      536.63,
+      273.51
+    ],
+    "text": "the said order the Defendant-Appellant (hereinafter sometimes referred to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.28320598602295
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.92,
+      280.48,
+      306.93,
+      299.43
+    ],
+    "text": "as the \"Defendant\") filed this appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.81,
+      347.43,
+      536.74,
+      366.38
+    ],
+    "text": "The Plaintiff-Respondent states that the questioned land is a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.125957489013672,
+      14.199999809265137,
+      14.322917938232422
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.82,
+      373.13,
+      536.5,
+      392.07
+    ],
+    "text": "State Land situated in Linganagar, 2 miles away from Trincomalee. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.20050048828125,
+      14.256288528442383,
+      14.496553421020508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.25,
+      398.8,
+      537.67,
+      417.74
+    ],
+    "text": "Plaintiff-Respondent cleared the said land and built a cottage and lived in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.203700065612793,
+      14.281367301940918,
+      14.46080493927002
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.04,
+      424.72,
+      537.62,
+      443.66
+    ],
+    "text": "there since 1987. The Plaintiff testified that he was granted a permit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.231315612792969,
+      14.25793170928955,
+      14.322917938232422,
+      14.373687744140625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.09,
+      450.63,
+      536.97,
+      469.58
+    ],
+    "text": "bearing No.TG/LN/244D/05 to occupy the said land of the State by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.34555435180664,
+      14.388154029846191
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.54,
+      475.66,
+      536.59,
+      495.13
+    ],
+    "text": "Assistant Land Commissioner of Trincomalee. It was issued on 03.08.1989",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.220834732055664,
+      14.373687744140625,
+      14.440610885620117,
+      14.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.17,
+      501.53,
+      537.21,
+      520.47
+    ],
+    "text": "and marked as Pl. Due to the violence/unrest in Trincomalee in 1990 the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.233060836791992,
+      14.237750053405762,
+      14.350848197937012,
+      14.46080493927002,
+      14.69632625579834
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.25,
+      526.97,
+      536.43,
+      545.92
+    ],
+    "text": "Plaintiff fled to India and returned to Sri Lanka on 21st March, 1995. To",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.511885643005371,
+      13.946945190429688,
+      14.12831974029541,
+      14.199999809265137,
+      14.2112455368042,
+      14.383711814880371,
+      14.440610885620117
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.34,
+      552.64,
+      537.46,
+      571.58
+    ],
+    "text": "prove that he was in India as a refugee, he produced the Camp Leaving",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.25793170928955,
+      14.311412811279297,
+      14.322917938232422,
+      14.350848197937012,
+      14.373687744140625,
+      14.378231048583984,
+      14.400533676147461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.41,
+      578.08,
+      537.54,
+      597.03
+    ],
+    "text": "Certificate which was issued by the Government Agent, marked as P2 (at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.251058578491211,
+      14.288226127624512,
+      14.318306922912598,
+      14.373687744140625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.34,
+      603.75,
+      536.73,
+      622.75
+    ],
+    "text": "page 94 and 95 of the original brief). In his evidence it was revealed that,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.99141788482666,
+      14.199999809265137,
+      14.2035493850708,
+      14.373687744140625,
+      14.46080493927002,
+      15.141636848449707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.64,
+      629.43,
+      537.45,
+      648.38
+    ],
+    "text": "after returning to Sri Lanka, he went to his land and he identified that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.216889381408691,
+      14.25793170928955,
+      14.34223747253418,
+      14.46080493927002
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.66,
+      654.88,
+      537.72,
+      673.83
+    ],
+    "text": "cottage erected by him was not there. Instead of that there was a Olai leaf",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.322917938232422,
+      14.349710464477539,
+      14.365534782409668,
+      14.37126636505127,
+      14.373687744140625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.66,
+      680.32,
+      537.88,
+      699.26
+    ],
+    "text": "cottage and the Defendant was living there. The Plaintiff was debarred",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.301636695861816,
+      14.383711814880371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.41,
+      705.76,
+      537.9,
+      724.71
+    ],
+    "text": "from entering to the said land by the Defendant. Therefore, the Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.216889381408691,
+      14.365534782409668
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      526.43,
+      67.34,
+      534.53,
+      81.74
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.04,
+      110.56,
+      534.56,
+      129.5
+    ],
+    "text": "lodged a complaint to the police on 19.04.1995 (marked as P4 at pg.98 of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.198750495910645,
+      14.199999809265137,
+      14.372255325317383,
+      14.440610885620117
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.88,
+      135.76,
+      134.8,
+      154.7
+    ],
+    "text": "the brief).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.64,
+      203.68,
+      535.34,
+      222.62
+    ],
+    "text": "Thereafter, the Plaintiff instituted an action in the District",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.350848197937012,
+      14.55027961730957
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.76,
+      229.35,
+      535.43,
+      248.3
+    ],
+    "text": "Court of Trincomalee bearing case No.568/96 on 09th January 1996 seeking",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.022871017456055,
+      14.09561538696289,
+      14.199999809265137,
+      14.440610885620117
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.01,
+      255.29,
+      535.37,
+      274.23
+    ],
+    "text": "a declaration that the plaintiff is entitled to possess the questioned land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.322917938232422
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.01,
+      280.97,
+      535.18,
+      299.91
+    ],
+    "text": "and an order against the defendant for ejection from the said land and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.228171348571777,
+      14.28320598602295,
+      14.383711814880371,
+      14.43052864074707
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.02,
+      306.64,
+      535.04,
+      325.58
+    ],
+    "text": "damages assessed at the rate of Rs.200/= per mensum from 1995 till the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.401273727416992,
+      14.471259117126465,
+      14.527620315551758
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.84,
+      332.55,
+      393.16,
+      351.5
+    ],
+    "text": "Plaintiff be placed in the possession of the said land.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.350848197937012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.22,
+      399.75,
+      535.36,
+      418.7
+    ],
+    "text": "According to the Defendant, the permit holder of the said land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.259325981140137,
+      14.262810707092285
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.09,
+      425.21,
+      535.85,
+      444.15
+    ],
+    "text": "IS his mother namely, Micheal Agnes. The case for the Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.603699684143066,
+      14.199999809265137,
+      14.2035493850708,
+      14.240142822265625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.02,
+      450.88,
+      535.02,
+      469.82
+    ],
+    "text": "commenced with the evidence of his mother. Micheal Agnes (mother of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.405118942260742
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.09,
+      476.55,
+      535.64,
+      495.5
+    ],
+    "text": "the defendant) testified that she obtained a permit marked as Dl (at page",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.250360488891602,
+      14.262810707092285,
+      14.354954719543457,
+      14.982064247131348
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      73.67,
+      502.25,
+      535.77,
+      521.19
+    ],
+    "text": "102 of the brief) on 31st December 1971 and lived in the said land with her",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.66408634185791,
+      13.95055866241455,
+      14.199999809265137,
+      14.219286918640137,
+      14.34555435180664,
+      14.350848197937012,
+      14.384501457214355,
+      14.440610885620117,
+      14.537537574768066
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.2,
+      527.92,
+      536.83,
+      546.86
+    ],
+    "text": "son. She further stated that during the unrest period her family stayed in",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.80024242401123,
+      14.199999809265137,
+      14.229569435119629,
+      14.233809471130371,
+      14.271321296691895,
+      14.380552291870117
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.09,
+      553.36,
+      368.72,
+      572.3
+    ],
+    "text": "Palaiyuttu Church in 1986 or 1987 and returned.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.203700065612793,
+      14.291255950927734,
+      14.383711814880371
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      109.08,
+      620.08,
+      535.76,
+      639.03
+    ],
+    "text": "The Court has to examine the validity of the questioned permits of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.286833763122559
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.35,
+      645.04,
+      171.4,
+      663.98
+    ],
+    "text": "\"Pl\" and \"Dl\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.383711814880371,
+      14.639595985412598,
+      14.725622177124023
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      112.49,
+      678.88,
+      535.83,
+      697.82
+    ],
+    "text": "Referring to the document marked as \"PI\", the Land Officer stated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.219836235046387,
+      14.24467945098877,
+      14.275449752807617,
+      14.579917907714844
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      74.28,
+      704.33,
+      535.49,
+      723.27
+    ],
+    "text": "in his evidence that he could not trace the questioned permit but he has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.250360488891602,
+      14.262810707092285,
+      14.350848197937012,
+      14.378231048583984,
+      14.435891151428223,
+      14.640371322631836
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      522.2,
+      67.14,
+      529.93,
+      80.88
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.1,
+      110.33,
+      531.26,
+      129.27
+    ],
+    "text": "brought the ledger. After comparison between the permit and the ledger,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.304713249206543,
+      14.306153297424316
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.82,
+      136.0,
+      530.98,
+      154.94
+    ],
+    "text": "witness confirmed that there are ledger entries pertaining to II PI\" . The",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.950695037841797,
+      14.199999809265137,
+      14.234258651733398,
+      14.250360488891602,
+      14.394270896911621
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.82,
+      162.16,
+      532.15,
+      181.1
+    ],
+    "text": "number of he said permit is TG/LM/244D/05. The name of the permit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.229069709777832,
+      14.300345420837402,
+      14.304713249206543,
+      14.34481143951416,
+      14.378231048583984,
+      14.423885345458984
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.06,
+      187.83,
+      531.99,
+      206.78
+    ],
+    "text": "holder referred to as Sellathurai Yoganathan (Plaintiff). The date of grant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.217538833618164
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.96,
+      213.77,
+      531.45,
+      232.71
+    ],
+    "text": "is 3rd March 1989. Witness also testified that there is no remarks in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600000381469727,
+      14.199999809265137,
+      14.203700065612793,
+      14.250360488891602,
+      14.435399055480957
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.2,
+      239.44,
+      531.59,
+      258.39
+    ],
+    "text": "ledger whether the permit is valid or not, but he says that it was a valid",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.229220390319824,
+      14.244629859924316,
+      14.262810707092285,
+      14.306004524230957,
+      14.322917938232422,
+      14.333324432373047,
+      14.555011749267578
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.34,
+      265.12,
+      530.88,
+      284.07
+    ],
+    "text": "permit for a year. Witness further stated that an annual permit issued to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.294882774353027,
+      14.346494674682617,
+      14.43052864074707
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.18,
+      291.04,
+      531.7,
+      310.12
+    ],
+    "text": "one who is displaced due to riots will not be cancelled. But if the annual",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.361629486083984,
+      14.435891151428223,
+      14.451129913330078,
+      15.094806671142578
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.1,
+      316.72,
+      532.15,
+      335.66
+    ],
+    "text": "permit is not renewed after one year it will be expired automatically. At",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.220784187316895,
+      14.298954963684082,
+      14.299203872680664,
+      14.435891151428223,
+      14.550603866577148
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.34,
+      342.63,
+      320.27,
+      361.58
+    ],
+    "text": "page 11 of the brief he states as follows :-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.729039192199707,
+      14.082564353942871,
+      14.199999809265137,
+      14.2035493850708,
+      14.25793170928955
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.22,
+      376.24,
+      531.82,
+      395.32
+    ],
+    "text": "Q: When a person displaced due to riots, if trespassed by another",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.199999809265137,
+      14.20259952545166,
+      14.35797119140625,
+      14.365534782409668,
+      14.37403392791748,
+      15.094806671142578
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.42,
+      401.92,
+      531.12,
+      420.86
+    ],
+    "text": "person will you consider the fact that he was displaced due to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.218637466430664,
+      14.250360488891602,
+      14.314488410949707,
+      14.325891494750977,
+      14.373687744140625,
+      14.378231048583984
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.38,
+      427.61,
+      177.42,
+      446.55
+    ],
+    "text": "riots?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.57,
+      460.96,
+      531.83,
+      479.9
+    ],
+    "text": "A: Yes, we have got instructions regarding it, we will not cancel",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.858647346496582,
+      14.199999809265137,
+      14.349710464477539,
+      14.530797004699707
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.67,
+      486.64,
+      225.94,
+      505.58
+    ],
+    "text": "such permits.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.33584976196289
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.57,
+      519.77,
+      531.93,
+      538.71
+    ],
+    "text": "According to the permit, the land is situated in Nadarajan Street,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.213593482971191,
+      14.350848197937012
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.96,
+      545.2,
+      533.06,
+      564.14
+    ],
+    "text": "Linganagar. This is a 20 perch extent land. The boundaries are not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.946945190429688,
+      14.199999809265137,
+      14.212394714355469,
+      14.263010025024414
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.77,
+      571.13,
+      532.82,
+      590.07
+    ],
+    "text": "mentioned in the permit. Boundaries should have marked in the permit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.239994049072266,
+      14.294336318969727,
+      14.350848197937012,
+      14.354954719543457,
+      14.496553421020508
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.82,
+      596.8,
+      533.16,
+      615.74
+    ],
+    "text": "but did not. He also stated that he cannot say, for which land the permit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.25793170928955,
+      14.288226127624512,
+      14.292696952819824,
+      14.322917938232422,
+      14.409455299377441,
+      14.469149589538574,
+      14.473711967468262,
+      14.966085433959961
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.02,
+      622.47,
+      532.41,
+      641.42
+    ],
+    "text": "was issued. The permit was issued by Deed Officer Thangarasen. A",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.229220390319824,
+      14.251058578491211,
+      14.262810707092285
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.02,
+      647.68,
+      532.41,
+      666.63
+    ],
+    "text": "rubber stamp is placed on the permit \"PI\" and the permit has not renewed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.262810707092285,
+      14.26962947845459,
+      14.325841903686523,
+      14.383711814880371,
+      14.388103485107422,
+      14.435891151428223,
+      14.440610885620117,
+      14.625669479370117
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.32,
+      673.12,
+      532.64,
+      692.07
+    ],
+    "text": "since 1989. According to the Plaintiff that the Land Officer showed him the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.250360488891602,
+      14.309676170349121
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      521.85,
+      65.52,
+      529.88,
+      79.8
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.62,
+      109.12,
+      530.74,
+      128.06
+    ],
+    "text": "boundaries of the said land after the permission was granted. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.281367301940918,
+      14.294336318969727,
+      14.373687744140625
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.62,
+      134.56,
+      231.47,
+      153.51
+    ],
+    "text": "boundaries are as follows:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.57,
+      168.42,
+      134.31,
+      187.36
+    ],
+    "text": "East-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.71,
+      202.26,
+      145.76,
+      221.2
+    ],
+    "text": "North-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.36,
+      236.08,
+      139.53,
+      255.02
+    ],
+    "text": "West-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.14,
+      269.69,
+      144.49,
+      288.63
+    ],
+    "text": "South-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175.13,
+      168.64,
+      244.11,
+      187.59
+    ],
+    "text": "Kalimuthy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175.17,
+      202.5,
+      250.04,
+      221.44
+    ],
+    "text": "Velayuthan",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      175.18,
+      236.08,
+      244.66,
+      255.02
+    ],
+    "text": "was a road",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.301636695861816
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      174.94,
+      269.69,
+      250.64,
+      288.63
+    ],
+    "text": "was a road.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.301636695861816
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.56,
+      303.27,
+      531.39,
+      322.22
+    ],
+    "text": "Referring to document marked as \"Dl\", Land Officer stated that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.207747459411621,
+      14.219836235046387,
+      14.220834732055664,
+      14.691783905029297
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.04,
+      328.73,
+      531.36,
+      347.67
+    ],
+    "text": "\"Dl\"is an annual permit. He also stated that this is an alternate land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.212493896484375,
+      14.322917938232422,
+      14.375614166259766,
+      14.452259063720703,
+      14.55027961730957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.82,
+      354.64,
+      530.92,
+      373.59
+    ],
+    "text": "which was given for an encroacher of Plantain Point. That permit was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.229220390319824,
+      14.250261306762695,
+      14.43052864074707
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.96,
+      380.33,
+      531.23,
+      399.27
+    ],
+    "text": "issued by the District Land Officer and it was issued on 9th November",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.306548118591309,
+      14.199999809265137,
+      14.2035493850708,
+      14.251058578491211,
+      14.301636695861816,
+      14.440610885620117,
+      14.46080493927002,
+      15.036604881286621
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.83,
+      406.24,
+      530.97,
+      425.19
+    ],
+    "text": "1971 and that permit has no number. There is no rubber stamp on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.20954704284668,
+      14.222931861877441,
+      14.236104011535645,
+      14.262810707092285,
+      14.306153297424316,
+      14.322223663330078,
+      14.322917938232422,
+      14.435399055480957
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.11,
+      431.91,
+      292.16,
+      450.86
+    ],
+    "text": "permit \"Dl\". At page 18, it is stated,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.231964111328125,
+      14.244629859924316,
+      14.263209342956543,
+      14.58717155456543
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.98,
+      465.28,
+      482.85,
+      484.22
+    ],
+    "text": "Q: By comparing \"PI\" and \"Dl\" can you tell which permit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.130680084228516,
+      14.199999809265137,
+      14.242935180664062,
+      14.304713249206543,
+      14.383711814880371,
+      14.388894081115723,
+      14.625669479370117,
+      14.691783905029297
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.26,
+      498.64,
+      411.87,
+      517.58
+    ],
+    "text": "clearly indicates where the land is situated?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.216889381408691,
+      14.245626449584961
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.33,
+      531.38,
+      494.25,
+      551.12
+    ],
+    "text": "A: In \"PI\" it has been clearly mentioned as Nadarajan Street.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.858647346496582,
+      14.199999809265137,
+      14.20624828338623,
+      14.213593482971191,
+      14.550603866577148,
+      14.689705848693848,
+      14.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.24,
+      565.36,
+      531.69,
+      584.3
+    ],
+    "text": "The Land Officer testified that there was a fire took place in the Land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.220834732055664,
+      14.229220390319824,
+      14.250360488891602,
+      14.350848197937012
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.49,
+      590.8,
+      532.27,
+      609.75
+    ],
+    "text": "Registry in 1979 and several documents were burnt. He further added that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.375614166259766,
+      14.383711814880371,
+      14.415071487426758,
+      14.496553421020508
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.59,
+      616.73,
+      532.27,
+      635.67
+    ],
+    "text": "before issuing a permit they collect information from those who are living",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.262810707092285,
+      14.426739692687988
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.68,
+      642.41,
+      532.52,
+      661.35
+    ],
+    "text": "in the nieghbourhood. According to the Defendant, the boundaries of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.203700065612793,
+      14.294336318969727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.68,
+      667.6,
+      182.24,
+      686.54
+    ],
+    "text": "land is as follows:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.54,
+      700.73,
+      221.1,
+      720.15
+    ],
+    "text": "West-Joseph",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      103.66,
+      111.53,
+      144.0,
+      130.47
+    ],
+    "text": "South-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      104.21,
+      145.35,
+      145.51,
+      164.29
+    ],
+    "text": "North-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174.8,
+      111.53,
+      214.2,
+      130.47
+    ],
+    "text": "a lane",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      174.93,
+      145.36,
+      241.18,
+      164.3
+    ],
+    "text": "main road",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.266096115112305,
+      14.268882751464844
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      104.09,
+      178.97,
+      274.0,
+      197.91
+    ],
+    "text": "His land is 10 feet from sea.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.216889381408691
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      521.39,
+      68.48,
+      529.19,
+      82.35
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      104.04,
+      246.41,
+      530.6,
+      265.35
+    ],
+    "text": "The next point is whether the Defendant has a right to possess the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.230866432189941,
+      14.262462615966797,
+      14.272067070007324
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.39,
+      272.32,
+      529.92,
+      291.27
+    ],
+    "text": "said land. According to the evidence of the Defendant, he has failed to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.25793170928955
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.37,
+      298.0,
+      530.38,
+      316.94
+    ],
+    "text": "prove that he and his family lived in the questioned land since 1971. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.281367301940918,
+      14.350848197937012,
+      14.378231048583984,
+      14.383711814880371,
+      14.395060539245605
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.24,
+      323.91,
+      531.09,
+      342.86
+    ],
+    "text": "identity card of the Defendant indicates a different address. The Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.23,
+      349.6,
+      529.54,
+      368.55
+    ],
+    "text": "obtained his identity card in 1972 and his address was mentioned as No.5,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.203700065612793,
+      14.221234321594238,
+      14.445379257202148,
+      14.46080493927002
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.46,
+      375.28,
+      530.99,
+      394.22
+    ],
+    "text": "Orr's Hill, Trincomalee.(at page 33 of the brief). The Defendant stated that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.20414924621582
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.34,
+      400.95,
+      529.64,
+      419.9
+    ],
+    "text": "his voters card used to come to Linganagar but, his voting place is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.239195823669434,
+      14.306649208068848
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.47,
+      426.63,
+      410.77,
+      445.58
+    ],
+    "text": "Trincomalee Town. He has failed to submit it to Court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.375614166259766
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      104.29,
+      493.6,
+      530.57,
+      512.55
+    ],
+    "text": "The credibility of the evidence of the mother of the Defendant (the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.279029846191406
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.61,
+      519.05,
+      531.75,
+      538.0
+    ],
+    "text": "permit holder of Dl) has failed, because she contradicted her own",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.21658992767334,
+      14.293293952941895,
+      14.556084632873535
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.69,
+      544.73,
+      530.36,
+      563.67
+    ],
+    "text": "evidence. At page 23 witness stated that a neighbour named Manohara is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.075504302978516,
+      14.199999809265137,
+      14.219586372375488,
+      14.231964111328125,
+      14.250360488891602,
+      14.263209342956543,
+      14.358663558959961
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.56,
+      570.17,
+      531.58,
+      589.12
+    ],
+    "text": "the elder brother of Soori ( Plaintiff) and they lived next to her land. But at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.202399253845215,
+      14.215141296386719,
+      14.235555648803711,
+      14.358070373535156,
+      14.383711814880371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.62,
+      595.84,
+      531.11,
+      614.78
+    ],
+    "text": "page 27 she denied that and stated, she does not know whether they have",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.250360488891602,
+      14.306004524230957,
+      14.306153297424316,
+      14.386524200439453,
+      14.521608352661133
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.93,
+      621.28,
+      529.84,
+      640.23
+    ],
+    "text": "a relationship or not. Witness also stated that she signed the permit \"Dl/1",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      14.199999809265137,
+      14.2035493850708,
+      14.250360488891602,
+      14.262810707092285,
+      14.265349388122559,
+      14.470474243164062
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.62,
+      646.96,
+      531.14,
+      665.9
+    ],
+    "text": "but when it was shown to her at the trial, she stated that she couldn't see",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.217339515686035,
+      14.244629859924316,
+      14.271321296691895,
+      14.301636695861816,
+      14.336196899414062,
+      14.372255325317383,
+      14.395060539245605,
+      14.421226501464844,
+      14.555011749267578
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.04,
+      672.4,
+      532.16,
+      691.35
+    ],
+    "text": "the document due to weak eye site. Witness stated that she couldn't",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.219836235046387,
+      14.28842544555664,
+      14.322917938232422,
+      14.37403392791748
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.93,
+      697.84,
+      531.69,
+      716.79
+    ],
+    "text": "explain the boundaries of the land and her evidence indicates that she",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.271321296691895,
+      14.383711814880371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      524.05,
+      70.74,
+      531.78,
+      84.48
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.86,
+      113.2,
+      532.86,
+      132.14
+    ],
+    "text": "doesn't know about her neighbours. According to the aforementioned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.273111343383789,
+      14.286288261413574,
+      14.358070373535156
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.37,
+      138.87,
+      532.51,
+      157.82
+    ],
+    "text": "evidence Court is of the opinion, that the witness is not a credible witness",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.250360488891602,
+      14.335354804992676,
+      14.521608352661133
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.13,
+      164.32,
+      321.31,
+      183.26
+    ],
+    "text": "and it is unsafe to act upon her evidence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.244629859924316,
+      14.358070373535156,
+      14.383711814880371,
+      14.576216697692871
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.77,
+      232.01,
+      532.39,
+      250.95
+    ],
+    "text": "Having considered the evidence of the Defendant and the mother of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.230168342590332,
+      14.46080493927002
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.75,
+      257.92,
+      532.09,
+      276.87
+    ],
+    "text": "the Defendant, Court is also of the view, that they have failed to prove,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.245277404785156,
+      14.286833763122559,
+      14.322917938232422
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.51,
+      283.6,
+      533.58,
+      302.54
+    ],
+    "text": "they hold a valid permit to possess the said land and that they occupied in",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.946296691894531,
+      14.199999809265137,
+      14.216889381408691,
+      14.346494674682617,
+      14.395060539245605,
+      14.537537574768066
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.52,
+      308.57,
+      226.56,
+      327.51
+    ],
+    "text": "the said land since 1971.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.34555435180664
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.01,
+      376.95,
+      531.81,
+      395.9
+    ],
+    "text": "Therefore, I see no reason to interfere with the judgment of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.2035493850708,
+      14.322223663330078,
+      14.347731590270996,
+      14.405118942260742
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.21,
+      402.4,
+      532.34,
+      421.35
+    ],
+    "text": "learned District Judge. For the foregoing reasons, I dismiss the appeal with",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137,
+      14.219286918640137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.18,
+      427.12,
+      105.44,
+      446.06
+    ],
+    "text": "costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      296.8,
+      495.52,
+      531.39,
+      514.46
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.18,
+      526.84,
+      91.38,
+      549.78
+    ],
+    "text": "***",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.2560977935791
+    ]
+  }
+]

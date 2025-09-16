@@ -1,0 +1,795 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      120.15,
+      72.02,
+      495.74,
+      88.75
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRAIC SOCIALIST",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.274999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      225.27,
+      88.54,
+      389.87,
+      105.27
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      14.274999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.1,
+      105.04,
+      360.81,
+      194.83
+    ],
+    "text": "Court of Appeal Case No : CA HC/271-271A/2014",
+    "fonts": [
+      "Cambria",
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.274999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.1,
+      202.55,
+      447.94,
+      216.61
+    ],
+    "text": "Bogahawaththage",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.1,
+      223.57,
+      439.49,
+      237.63
+    ],
+    "text": "Narada Fernando",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      11.25,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      265.6,
+      471.97,
+      279.66
+    ],
+    "text": "Accused - Appellant",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      328.68,
+      378.84,
+      342.74
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      412.71,
+      488.33,
+      425.9
+    ],
+    "text": "The Hon. Attorney General",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      11.25
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      432.23,
+      510.11,
+      445.42
+    ],
+    "text": "Attorney General's Department",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      11.25
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      450.98,
+      419.23,
+      464.17
+    ],
+    "text": "Colombo 12",
+    "fonts": [
+      "Cambria"
+    ],
+    "sizes": [
+      11.25
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.45,
+      492.33,
+      435.16,
+      506.39
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Cambria,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      25.1,
+      21.44,
+      51.12,
+      85.74
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      46.79999923706055
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298.21,
+      45.39,
+      305.71,
+      58.73
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.11,
+      108.57,
+      492.44,
+      126.01
+    ],
+    "text": "C.A 271-271N2014 H.C. Colombo Case No: HC B 1721/2007",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.092612266540527,
+      13.27308177947998
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.66,
+      165.69,
+      358.26,
+      183.34
+    ],
+    "text": "Before Deepali Wijesundera,J. &",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211.89,
+      194.25,
+      339.34,
+      211.45
+    ],
+    "text": "Achala Wengappuli,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.78,
+      251.37,
+      455.25,
+      268.58
+    ],
+    "text": "Counsel Ranjan Mendis with Ashoka C. Kandambi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.22,
+      280.17,
+      385.66,
+      297.38
+    ],
+    "text": "for the 2nd accused-appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      213.31,
+      308.98,
+      456.13,
+      326.19
+    ],
+    "text": "Wasantha Perera SSC. For the respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.82,
+      365.62,
+      128.7,
+      382.83
+    ],
+    "text": "Argued &",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.02,
+      394.17,
+      280.67,
+      411.37
+    ],
+    "text": "Decided on 03.0S.2018",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.98,
+      451.29,
+      204.47,
+      468.49
+    ],
+    "text": "Deepali Wijesundera,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.93,
+      506.46,
+      545.9,
+      525.62
+    ],
+    "text": "2nd Accused-Appellant has been convicted in the High Court of Colombo",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.415777206420898,
+      12.899999618530273,
+      12.903749465942383,
+      13.261533737182617
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.72,
+      534.34,
+      545.54,
+      558.5
+    ],
+    "text": "under Section 19(b) read with 2S(2) of the Bribery Act for the 1st charge and he",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.84222412109375,
+      12.899999618530273,
+      12.93355655670166,
+      13.0,
+      13.261533737182617
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.17,
+      571.49,
+      546.09,
+      590.9
+    ],
+    "text": "has been convicted to three years Rigorous Imprisonment. For the 2nd,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.542306900024414,
+      8.600000381469727,
+      12.899999618530273,
+      12.972197532653809
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.05,
+      599.13,
+      547.26,
+      622.82
+    ],
+    "text": "3rd 4th Sth 6th 7th & 8th h T , , , , c arges he has been charged and convicted under Section",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.0,
+      8.161609649658203,
+      10.022911071777344,
+      11.844465255737305,
+      11.879972457885742,
+      11.899999618530273,
+      12.000542640686035,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.62,
+      637.05,
+      546.52,
+      654.25
+    ],
+    "text": "2S(2) and 19 C of the Bribery Act and he has been ordered to pay a fine of Rs:",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.0,
+      13.261533737182617
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.02,
+      668.73,
+      548.11,
+      685.94
+    ],
+    "text": "five Thousand and the default term of six months. This appeal is from the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.396158218383789
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.27,
+      700.64,
+      216.3,
+      717.85
+    ],
+    "text": "conviction and sentence.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      273.28,
+      43.09,
+      281.37,
+      56.42
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      40.73,
+      78.95,
+      515.31,
+      96.29
+    ],
+    "text": "Learned counsel for the appellant moves that since they are not canvassing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41.13,
+      110.63,
+      516.4,
+      127.97
+    ],
+    "text": "conviction, the sentence be varied. Learned DSG. is appearing for the respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      42.14,
+      142.31,
+      516.17,
+      159.65
+    ],
+    "text": "informs Court that they have no objections to the appellant's counsel's application",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.068270683288574
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      42.35,
+      174.71,
+      296.91,
+      192.05
+    ],
+    "text": "and the suspended sentence being imposed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      43.07,
+      216.95,
+      517.01,
+      234.3
+    ],
+    "text": "Considering the submissions of both parties, we vary the sentence and affirm the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.312835693359375
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      43.31,
+      247.26,
+      517.62,
+      266.44
+    ],
+    "text": "conviction. The conviction for the 2nd charge will remain as it is. The sentence for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.415777206420898,
+      13.0,
+      13.025923728942871
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44.13,
+      278.19,
+      518.6,
+      299.62
+    ],
+    "text": "the ih to 09th chargers are reduced to six months Rigorous Imprisonment for",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.599999904632568,
+      12.989545822143555,
+      13.0,
+      15.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44.03,
+      314.14,
+      285.4,
+      331.48
+    ],
+    "text": "each charge and suspended for five years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.2696533203125
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45.36,
+      356.38,
+      468.73,
+      373.72
+    ],
+    "text": "Subject to the above variation the sentence and the conviction is affirmed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.989545822143555,
+      13.0,
+      13.2076416015625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45.54,
+      398.14,
+      521.2,
+      415.48
+    ],
+    "text": "Registrar is directed to convey this order to the Registrar of the High Court of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.989545822143555,
+      13.0,
+      13.312835693359375,
+      13.447981834411621
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45.7,
+      430.54,
+      103.93,
+      447.88
+    ],
+    "text": "Colombo.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      226.96,
+      472.54,
+      458.15,
+      489.88
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.112859725952148,
+      13.116378784179688,
+      13.131584167480469,
+      13.134553909301758,
+      13.155470848083496
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47.01,
+      514.78,
+      174.17,
+      532.12
+    ],
+    "text": "Achala Wengappuli,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.9,
+      557.75,
+      128.71,
+      575.09
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.64,
+      600.7,
+      459.83,
+      618.04
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.077369689941406,
+      13.098228454589844,
+      13.116378784179688,
+      13.134553909301758,
+      13.155470848083496
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48.65,
+      642.46,
+      77.09,
+      659.8
+    ],
+    "text": "Jrnr/-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  }
+]

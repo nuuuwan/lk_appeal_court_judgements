@@ -1,0 +1,981 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      93.52,
+      64.63,
+      520.35,
+      85.54
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALSIT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.39132022857666,
+      14.497426986694336,
+      14.620847702026367,
+      14.765188217163086,
+      14.77301025390625,
+      14.801959037780762,
+      14.844843864440918,
+      14.885881423950195,
+      14.942680358886719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      215.92,
+      83.89,
+      396.49,
+      105.47
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.672601699829102,
+      14.733245849609375,
+      14.897238731384277,
+      15.366096496582031
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.78,
+      179.95,
+      122.02,
+      198.22
+    ],
+    "text": "CA 269/2012",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.381983757019043,
+      13.427142143249512
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.62,
+      210.66,
+      230.17,
+      228.94
+    ],
+    "text": "HC Matara Case No: 147/2009A",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.46204662322998
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      305.49,
+      337.99,
+      325.87,
+      360.4
+    ],
+    "text": "VS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.32324504852295
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.9,
+      466.95,
+      261.61,
+      484.69
+    ],
+    "text": "BEFORE: M. M. A. Gaffoor, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.295949935913086,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.94,
+      496.47,
+      280.32,
+      514.21
+    ],
+    "text": "K.K. Wickremasinghe J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.18,
+      145.58,
+      534.28,
+      240.85
+    ],
+    "text": "In the matter of an appeal against the Judgment/Order of the High Court under the provisions of the Code of Criminal Procedure Act No. 15 of 1979.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      14.135930061340332,
+      14.167176246643066,
+      14.266203880310059
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.23,
+      281.9,
+      502.79,
+      299.65
+    ],
+    "text": "Shantha Kithsiri Liyanarachchi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      432.68,
+      310.7,
+      543.77,
+      328.44
+    ],
+    "text": "Accused-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      327.56,
+      370.71,
+      541.43,
+      438.13
+    ],
+    "text": "Attorney General Attorney General's Department Colombo 12. Complainant -Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.06,
+      525.68,
+      445.97,
+      543.82
+    ],
+    "text": "COUNSEL: Dr. Ranjit Fernando AAL for the Accused-Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      145.92,
+      555.03,
+      414.87,
+      572.77
+    ],
+    "text": "SDSG R. Abeysuriya for the Attorney General.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.95,
+      584.59,
+      227.36,
+      602.86
+    ],
+    "text": "ARGUED ON: 04/08/2016",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.355425834655762
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.15,
+      613.86,
+      449.91,
+      632.29
+    ],
+    "text": "WRITTEN SUBMISSION OF THE APELLANT ON: 05/03/2015",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.4847412109375
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.39,
+      644.07,
+      453.67,
+      661.81
+    ],
+    "text": "WRITTEN SUBMISSION OF THE RESPONDENT NOT FILED.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.44570255279541
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.14,
+      672.2,
+      230.48,
+      690.47
+    ],
+    "text": "DECIDED ON: 07/03/2018",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.329422950744629
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.91,
+      744.38,
+      314.42,
+      761.69
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      595.79,
+      280.47,
+      600.59,
+      319.62
+    ],
+    "text": "fIt",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.300000190734863,
+      15.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      597.17,
+      342.33,
+      599.26,
+      352.63
+    ],
+    "text": "!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.500100135803223
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      597.52,
+      422.53,
+      600.77,
+      438.61
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.2,
+      69.92,
+      351.02,
+      90.83
+    ],
+    "text": "JUDGEMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      14.887556076049805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.06,
+      100.88,
+      205.58,
+      122.28
+    ],
+    "text": "K.K. Wickremasinghe J. <,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.314984321594238,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.24,
+      131.12,
+      533.77,
+      226.53
+    ],
+    "text": "The Accused-Appellant (hereinafter referred to as 'Appellant') in this Appeal had been indicted in the High Court of Matara for committing the murder of Sunil Amarasekara on the 12th of March 2007 at Hakmana, an offence punishable under Section 296 of the Penal Code. The Learned High Court Judge convicted the appellant and imposed a death sentence on him passed on 19th November 2012.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.31258773803711,
+      12.852190971374512,
+      13.600000381469727,
+      14.161460876464844,
+      14.294468879699707,
+      14.426204681396484
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.72,
+      238.15,
+      534.05,
+      333.09
+    ],
+    "text": "The appellant, on the day of the incident, had an altercation with the deceased and had exchanged blows which eventually led to the stabbing the deceased by the appellant 10 times and out of which, 8 stab injuries in the chest area, at the premises of Don Andrias (Prosecution Witness No.1), who was the uncle of the accused, around 8 pm.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.514179229736328,
+      13.600000381469727,
+      14.161460876464844,
+      14.294468879699707,
+      14.426204681396484
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.04,
+      344.47,
+      538.29,
+      420.21
+    ],
+    "text": "According to the evidence of Sam an Pushpakumara (Prosecution Witness No.3), a boutique owner, the appellant had come by his boutique around 5:30pm fully intoxicated and had an altercation with the deceased. A similar altercation had also taken place around 12:30pm that same afternoon where both the parties had been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.02,
+      421.28,
+      168.09,
+      439.42
+    ],
+    "text": "ruBy intoxicated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.324151992797852,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.52,
+      450.79,
+      512.2,
+      507.83
+    ],
+    "text": "According to the evidence of Aruna Shantha (Prosecution Witness No.2), the deceased and the appellant had an altercation around 3pm in a drunken fit and threatening to kill the deceased before 6pm.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.67,
+      518.97,
+      540.72,
+      614.37
+    ],
+    "text": "The defence pleaded grave and sudden provocation. The appellant, in his dock statement, stated that the deceased was an illicit liquor dealer and the appellant had several altercations with the deceased during the day and the deceased has used obscene language on the appellant and had hit him with a club and fled. The appellant states that he was unaware of what happened after the final altercation.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.92,
+      625.27,
+      540.68,
+      719.01
+    ],
+    "text": "The Learned Trial Judge, after considering the arguments, held the appellant guilty since the required Actus Reus and Mens Rea were established. The motive was also established by the previous incidents and the subsequent conduct of the appellant, as he had fallen asleep near a tree behind the house after the stabbing and had not reported the incident to the police. The qefence of grave and sudden",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.60509967803955,
+      14.161460876464844,
+      14.294468879699707
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.04,
+      749.78,
+      312.94,
+      767.39
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.19,
+      694.88,
+      71.38,
+      732.8
+    ],
+    "text": ", ..",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.800100088119507,
+      18.088157653808594
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.1,
+      68.47,
+      526.41,
+      106.66
+    ],
+    "text": "provocation was rejected on the ground that the previous altercations were in the afternoon, 2-3 hours prior; therefore, it was not sudden.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.308696746826172
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.96,
+      117.67,
+      543.06,
+      193.41
+    ],
+    "text": "The Learned\"Counsel for the appellant submitted that the Learned Trial Judge had erred in law by not considering the principles relating to application of grave and sudden provocation or cumulative provocation and prayed for relief of a nature of a lesser culpability. -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.60509967803955,
+      14.161460876464844,
+      14.294468879699707,
+      14.426204681396484
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.44,
+      205.51,
+      407.11,
+      223.65
+    ],
+    "text": "The following cases are submitted by the Learned Counsel:",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      13.60509967803955
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.72,
+      234.43,
+      539.66,
+      445.65
+    ],
+    "text": "1. Re Kiri2oris[ 48 NLR 407] and Re Piyasena [57 NLR 226] where it was held that even mere abuse can amount to provocation. 2. Re Muttubanda [56 NLR 217]. Re Appubamy[ 53 NLR 313] and Re Jamse[ 53 NLR 401]where it was held that the test should be an objective one taking into consideration the social habits, background and lifestyle of the parties involved. 3. Samitbamby Vs Queen [75 NLR 4[9 where it was held that an offender could be deprived of his power of self-control by GSP ... even though there was an interval of time between the provocation and the killing ... ifthe evidence indicates that during the intervening period the accused could have continued to suffer under loss of self-control.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.171706199645996,
+      13.311835289001465,
+      13.345366477966309,
+      13.600000381469727,
+      13.633459091186523,
+      13.784202575683594,
+      13.829415321350098,
+      14.161460876464844,
+      14.294468879699707,
+      14.36616039276123,
+      14.381688117980957,
+      14.399999618530273,
+      14.42033576965332,
+      14.426204681396484,
+      14.537626266479492
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.73,
+      464.84,
+      542.7,
+      580.29
+    ],
+    "text": "However with regard to the case of Samitbamby V Queen [75 NLR 49] the accused has stabbed the victim only once. Whereas in the instant case the accused has stabbed the deceased 10 times out of which 8 has been to the chest area. Although the defense of sudden provocation has been raised in both these cases, the facts of the instant case are of grave nature. Therefore this case cannot be cited in the instant case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727,
+      14.027238845825195,
+      14.161460876464844,
+      14.239957809448242,
+      14.294468879699707,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.1,
+      600.07,
+      540.52,
+      695.01
+    ],
+    "text": "Considering the facts submitted by both counsel the Leamed High Court Judge imposed the death sentence to the Accused Appellant on 19th November 2012. The learned counsel for the Accused Appellant is seeking relief by this court to consider tq~ nature of a lesser culpability by the (lccl}~\"ecl a.npellant who has been inc:lserated for over two and half years since the dete of conviction.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.512667655944824,
+      7.72121000289917,
+      9.359967231750488,
+      13.600000381469727,
+      13.650605201721191,
+      14.027238845825195,
+      14.239957809448242,
+      14.294468879699707,
+      14.835738182067871
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      304.4,
+      747.61,
+      314.3,
+      765.22
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.57,
+      65.77,
+      538.84,
+      161.45
+    ],
+    "text": "Considering the facts of the case the accused appellant had inflicted 8 injuries to the chest of the deceased. It demonstrates the murderous intension of the appellant. Further there,were few altercations prior to the main incident. Also the accused appellant came to the place of incident after consuming liquor and armed with a knife. Therefore it was not an incident taken place as a result of provocation by the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.227221488952637,
+      13.293418884277344,
+      13.29426383972168,
+      13.325799942016602,
+      13.819416999816895,
+      13.95164966583252,
+      14.082686424255371,
+      14.212470054626465,
+      14.641098976135254
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.67,
+      160.89,
+      425.55,
+      181.44
+    ],
+    "text": "diseased, as suggested by the learned counsel for the appellant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.248112678527832,
+      14.97920036315918
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.45,
+      193.21,
+      528.34,
+      229.79
+    ],
+    "text": "Thus there is no reason to interfere well considered findings of the Learned High Court Judge.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.293418884277344,
+      13.95164966583252
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.69,
+      242.18,
+      387.4,
+      259.79
+    ],
+    "text": "Therefore, the appeal is hereby dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      313.6,
+      360.98,
+      543.13,
+      378.59
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.213343620300293,
+      13.265786170959473
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.11,
+      419.3,
+      196.34,
+      439.04
+    ],
+    "text": "1\\1. M. A. Gaffoor, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.442357063293457,
+      13.199999809265137,
+      13.218886375427246,
+      13.321342468261719,
+      14.977684020996094
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      71.43,
+      450.02,
+      114.95,
+      467.63
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      314.08,
+      539.77,
+      543.84,
+      557.38
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.213343620300293,
+      13.265786170959473
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302.83,
+      746.95,
+      312.35,
+      763.89
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      596.21,
+      166.35,
+      601.11,
+      179.81
+    ],
+    "text": "i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      596.32,
+      196.81,
+      601.94,
+      234.49
+    ],
+    "text": "I Ij ,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.800099849700928,
+      9.0,
+      10.5,
+      20.20009994506836
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      596.48,
+      233.03,
+      600.54,
+      276.73
+    ],
+    "text": "~ \\If",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      2.939387798309326,
+      10.5,
+      11.600000381469727,
+      14.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      596.2,
+      295.67,
+      602.98,
+      374.65
+    ],
+    "text": "!,!II; IIi",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.699999809265137,
+      6.0,
+      8.100000381469727,
+      9.100000381469727,
+      9.399999618530273,
+      10.5,
+      12.699999809265137,
+      15.300000190734863,
+      24.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      596.26,
+      382.66,
+      605.16,
+      459.05
+    ],
+    "text": "IIi I1I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      10.699999809265137,
+      14.199999809265137,
+      14.600000381469727,
+      15.300000190734863,
+      17.799999237060547
+    ]
+  }
+]

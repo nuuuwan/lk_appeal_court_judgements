@@ -1,0 +1,2287 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      21.81,
+      701.75,
+      46.39,
+      781.47
+    ],
+    "text": "I 1 \\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      22.600000381469727,
+      44.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      25.54,
+      773.68,
+      28.43,
+      780.82
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      547.07,
+      34.56,
+      555.09,
+      48.84
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      136.71,
+      103.19,
+      536.03,
+      120.53
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.011894226074219,
+      13.02497673034668,
+      13.03121280670166,
+      13.075779914855957,
+      13.116378784179688,
+      13.134553909301758
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      251.22,
+      125.99,
+      421.56,
+      143.33
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.116378784179688
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      117.7,
+      328.31,
+      273.83,
+      345.65
+    ],
+    "text": "C.A. Contempt No. 07/2017",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.26,
+      157.09,
+      555.44,
+      239.16
+    ],
+    "text": "In the matter of an application for a ruling of Contempt of Court under Article 105(3) of the Constitution of the Democratic Socialist Republic of Sri Lanka.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.868643760681152,
+      13.00198745727539
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.39,
+      247.08,
+      459.56,
+      296.75
+    ],
+    "text": "Murugesu Thayabaran, No. 40, Lily Avenue, Colombo 06.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      472.02,
+      304.55,
+      530.23,
+      321.89
+    ],
+    "text": "Petitioner",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.73,
+      351.73,
+      355.35,
+      368.27
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.82,
+      374.77,
+      546.5,
+      478.92
+    ],
+    "text": "1. Chulananda Perera SLAS Officers Pool Ministry of Public Administration & Management, Independence Square, Colombo 07.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.580039024353027,
+      11.600000381469727,
+      12.399999618530273,
+      13.00198745727539
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.93,
+      496.21,
+      545.35,
+      582.6
+    ],
+    "text": "2. T.VV. Senanayake Former Deputy Director General of Customs (Ent) 49/2, Pangiriwatta Road, Nugegoda.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.470621109008789,
+      12.399999618530273,
+      12.868643760681152
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.58,
+      599.65,
+      506.09,
+      702.83
+    ],
+    "text": "3. Saman de Silva Former Director of Customs 778 D2, 1 st Lane, Asiri Uyana, Pelawatta, Battaramulla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      12.215476989746094,
+      12.399999618530273,
+      13.00198745727539
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.37,
+      333.6,
+      160.96,
+      350.78
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.3,
+      411.38,
+      168.68,
+      428.55
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      339.79,
+      72.58,
+      467.6,
+      88.86
+    ],
+    "text": "4. Heinz Adolf Reuter",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.102208137512207,
+      12.199999809265137,
+      12.369176864624023
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      357.54,
+      91.31,
+      542.83,
+      177.41
+    ],
+    "text": "The Chairmanl Managing Director Member Prestige Automobiles Pvt Ltd 234-238, Pannipitiya Road, Battaramulla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      340.16,
+      194.75,
+      459.0,
+      211.03
+    ],
+    "text": "5. Gihan Siribaddana",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.913331985473633,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      204.4,
+      333.94,
+      358.61,
+      350.22
+    ],
+    "text": "L.T.B. Dehideniya J, (PICA)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.5,
+      12.141660690307617,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.97,
+      356.97,
+      278.5,
+      373.73
+    ],
+    "text": "&",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.02,
+      379.66,
+      345.5,
+      397.0
+    ],
+    "text": "A.L. Shiran Gooneratne J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.322759628295898
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      357.49,
+      212.99,
+      538.94,
+      298.85
+    ],
+    "text": "Former General Manager Prestige Automobiles 231120, Ambalanwatta Road, Talangama North, Battaramulla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      448.5,
+      310.57,
+      522.0,
+      327.75
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.85,
+      411.47,
+      387.96,
+      427.75
+    ],
+    "text": "N. Kodituwakku for the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.29,
+      442.43,
+      535.23,
+      458.71
+    ],
+    "text": "Sanjeewa layawardana PC, with Rajeer Amaratunga for the 4th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.74,
+      465.23,
+      270.55,
+      481.51
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.78,
+      485.81,
+      434.46,
+      504.3
+    ],
+    "text": "Ashoka Niwunhella for the 2nd Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.542306900024414,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.49,
+      519.02,
+      278.01,
+      536.31
+    ],
+    "text": "Supported on : 2111112017",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.4,
+      549.85,
+      266.02,
+      567.03
+    ],
+    "text": "Decided on: 14/12/2017",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.399999618530273,
+      13.808639526367188
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.28,
+      588.57,
+      162.22,
+      607.54
+    ],
+    "text": "Order",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.18,
+      621.6,
+      271.82,
+      638.78
+    ],
+    "text": "A.L. Shiran Gooneratne J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      551.7,
+      35.52,
+      559.72,
+      49.8
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.14,
+      656.24,
+      559.08,
+      676.98
+    ],
+    "text": "By Petition dated 1 zth October 2017, the Petitioner inter alia, is seeking in",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.150197982788086,
+      12.199999809265137,
+      12.22856616973877,
+      12.274989128112793
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.16,
+      689.39,
+      559.23,
+      705.67
+    ],
+    "text": "the first instance to issue a rule nisi on the 4th Respondent, to show cause as to why",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      16.66,
+      189.51,
+      33.84,
+      292.45
+    ],
+    "text": "1 I j 1 I J 1 !",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      9.0,
+      10.100000381469727,
+      10.399999618530273,
+      12.0,
+      15.800000190734863,
+      17.0,
+      30.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      15.44,
+      287.29,
+      42.63,
+      381.34
+    ],
+    "text": "l i I ,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.599999904632568,
+      7.800099849700928,
+      11.5,
+      48.90010070800781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      15.26,
+      370.56,
+      37.77,
+      529.12
+    ],
+    "text": "~ I I I I ! !",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.9436025619506836,
+      7.800099849700928,
+      14.300000190734863,
+      17.0,
+      27.0,
+      38.20009994506836,
+      38.79999923706055
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      16.54,
+      521.98,
+      22.38,
+      542.17
+    ],
+    "text": ",1 , 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.535902261734009,
+      6.900100231170654,
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      12.98,
+      697.05,
+      50.79,
+      790.48
+    ],
+    "text": "J I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.300099849700928,
+      68.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      544.44,
+      35.98,
+      552.32,
+      49.99
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.21,
+      72.86,
+      552.34,
+      89.4
+    ],
+    "text": "the 4th Respondent should not be punished for committing the offence of contempt",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      12.399999618530273,
+      13.00198745727539
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.35,
+      103.81,
+      551.83,
+      120.35
+    ],
+    "text": "of court or in the alternative to, adopt such other procedure as the court may deem",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.868643760681152
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.82,
+      132.17,
+      541.53,
+      150.61
+    ],
+    "text": "fit, to deal with the 3rd Respondent in respect of the offence of contempt of court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.309566497802734,
+      12.399999618530273,
+      12.733903884887695,
+      13.00198745727539
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150.22,
+      172.94,
+      552.32,
+      189.48
+    ],
+    "text": "As alleged by the Petitioner, the said relief is based on \"deception of court\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.868643760681152
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.25,
+      203.42,
+      551.41,
+      219.96
+    ],
+    "text": "by the 4th Respondent with false statements of facts stated in case bearing No.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      12.399999618530273,
+      13.00198745727539
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.22,
+      234.49,
+      216.31,
+      250.49
+    ],
+    "text": "CAlWRl255/2017.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150.63,
+      272.53,
+      552.58,
+      289.07
+    ],
+    "text": "In paragraph 4 of the Petition, the Petitioner states that Application bearing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.00198745727539
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.3,
+      302.77,
+      552.35,
+      319.37
+    ],
+    "text": "No. CAl WRI 255/2017, \"filed by the 4th Respondent contained complete",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      12.399999618530273,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.82,
+      333.02,
+      552.18,
+      349.56
+    ],
+    "text": "falsehood to mislead the court and such false statements contained therein",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.58,
+      364.21,
+      552.26,
+      380.76
+    ],
+    "text": "amounts to a deliberate suppression of material facts\" presented to court by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.868643760681152
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.26,
+      394.69,
+      373.92,
+      411.29
+    ],
+    "text": "petitioner in case bearing No. CA/WRl21S120 15.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.554491996765137,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150.59,
+      433.33,
+      552.98,
+      449.87
+    ],
+    "text": "Case bearing No. CAlWRl215 2015, was filed by the same Petitioner, inter",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.59,
+      461.2,
+      551.97,
+      480.35
+    ],
+    "text": "alia, seeking a writ of Prohibition against the 3rd Respondent (Saman Silva,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.309566497802734,
+      12.399999618530273,
+      13.00198745727539
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.9,
+      494.05,
+      552.7,
+      510.6
+    ],
+    "text": "Deputy Director of Customs) prohibiting him from conducting the customs inquiry",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.00198745727539
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.6,
+      524.05,
+      555.19,
+      540.65
+    ],
+    "text": "CIB/INV 132/2013, and to compel the I st Respondent (Director General of",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      12.399999618530273,
+      12.868643760681152,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.83,
+      554.77,
+      551.9,
+      571.31
+    ],
+    "text": "Customs) to appoint an independent inquiring officer to conduct the said inquiry.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.62,
+      585.49,
+      552.26,
+      602.09
+    ],
+    "text": "The said writ application, 215/2015, is yet to be supported for notice on the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.249384880065918,
+      12.399999618530273,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.91,
+      615.73,
+      552.26,
+      632.28
+    ],
+    "text": "Respondents. The 4th Respondent to this application is Heinz Adolf Reuter,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      12.249384880065918,
+      12.399999618530273,
+      12.422828674316406
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.07,
+      646.21,
+      552.56,
+      662.75
+    ],
+    "text": "ChairmanlManaging Director, Mis Prestige Automobiles (pvt) Ltd. Presently there",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      115.1,
+      675.98,
+      552.71,
+      692.52
+    ],
+    "text": "is an application before court to amend the said Petition and the caption subject to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.249384880065918,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      114.7,
+      705.98,
+      432.3,
+      722.52
+    ],
+    "text": "the objections raised by the Respondents, for determination.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      532.52,
+      38.69,
+      540.17,
+      52.3
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.18,
+      74.8,
+      540.78,
+      91.61
+    ],
+    "text": "Petition bearing No. CA/255/2017, was filed by Mis Prestige Automobile",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102.34,
+      105.53,
+      542.95,
+      122.34
+    ],
+    "text": "(pvt) Ltd. Under Article 140 of the Constitution, invoking the Writ jurisdiction of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.571167945861816,
+      12.600000381469727,
+      12.972007751464844,
+      13.106422424316406
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102.21,
+      136.24,
+      539.81,
+      153.05
+    ],
+    "text": "this court to impugn the order in the customs inquiry bearing No.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102.22,
+      166.58,
+      203.28,
+      182.58
+    ],
+    "text": "CIB/INV/32/2013,",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102.15,
+      204.65,
+      373.69,
+      221.46
+    ],
+    "text": "In paragraph 35 to the Petition the Petitioner states,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.374939918518066,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.85,
+      242.93,
+      539.76,
+      260.81
+    ],
+    "text": "\"that the evidence presented in court in CAIWRl215120 17 dated 27th June",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.175253868103027,
+      12.520804405212402,
+      12.688867568969727,
+      12.800000190734863,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      137.95,
+      275.33,
+      540.67,
+      290.97
+    ],
+    "text": "2017, that are reproduced in this contempt petition clearly point to the fact",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.520804405212402,
+      12.595059394836426,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.09,
+      305.83,
+      540.15,
+      321.46
+    ],
+    "text": "that the sole objective of initiating the writ application No. Writl25512017",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.560407638549805,
+      12.800000190734863,
+      14.070314407348633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.08,
+      336.07,
+      388.43,
+      351.7
+    ],
+    "text": "is manifestly fraudulent with ulterior motives. \"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.652904510498047,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      137.74,
+      373.85,
+      539.54,
+      390.66
+    ],
+    "text": "At present the petitioner has filed papers to intervene in CA application No.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101.94,
+      404.09,
+      539.87,
+      420.9
+    ],
+    "text": "255/2017, which is pending determination, a fact, the 4th Respondent submits, has",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.573432922363281,
+      12.545331954956055,
+      12.600000381469727,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102.25,
+      434.8,
+      325.99,
+      451.61
+    ],
+    "text": "been suppressed to court by the petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.2,
+      472.96,
+      539.67,
+      489.78
+    ],
+    "text": "We note the written submissions filed by the 4th Respondent, where the 4th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      8.573432922363281,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101.94,
+      504.4,
+      540.55,
+      521.21
+    ],
+    "text": "Respondent has reproduced and answered each of the allegations contained in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.239473342895508
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      102.03,
+      534.4,
+      283.3,
+      551.21
+    ],
+    "text": "petition, inter alia, it is stated that,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.347776412963867,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.42,
+      572.74,
+      540.18,
+      589.78
+    ],
+    "text": "l. the 4th Respondent named III the contempt application IS not the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.573432922363281,
+      8.981529235839844,
+      9.100000381469727,
+      12.600000381469727,
+      13.024618148803711
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.49,
+      603.52,
+      324.29,
+      620.33
+    ],
+    "text": "petitioner in CA/Writ/255/20 17",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.109071731567383,
+      12.600000381469727,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.17,
+      634.0,
+      539.68,
+      650.81
+    ],
+    "text": "2. the facts and legal grounds upon which case bearing No.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.505697250366211,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.46,
+      664.24,
+      540.61,
+      681.05
+    ],
+    "text": "CA/Writ/255/20 17 was presented are matters necessarily to be decided",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.202427864074707,
+      12.600000381469727,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      156.58,
+      693.78,
+      511.2,
+      710.58
+    ],
+    "text": "at the hearing into that application which is pending determination.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      9.8,
+      216.13,
+      21.21,
+      265.75
+    ],
+    "text": "J I I 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      11.100000381469727,
+      14.800000190734863,
+      17.20009994506836
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      10.85,
+      346.29,
+      28.02,
+      422.71
+    ],
+    "text": "1 1 t ! I I ,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.500100135803223,
+      10.0,
+      11.100000381469727,
+      16.100000381469727,
+      16.799999237060547,
+      16.899999618530273,
+      33.599998474121094
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      10.92,
+      420.16,
+      35.27,
+      572.92
+    ],
+    "text": "j I 1 1 i J 1 i 1 j j",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.800099849700928,
+      6.199999809265137,
+      6.300099849700928,
+      8.199999809265137,
+      9.0,
+      11.699999809265137,
+      12.0,
+      15.899999618530273,
+      17.20009994506836,
+      18.600000381469727,
+      43.599998474121094
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      13.12,
+      602.73,
+      20.09,
+      624.68
+    ],
+    "text": ";\\ J 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.429718017578125,
+      7.900100231170654,
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      12.25,
+      622.79,
+      27.57,
+      718.22
+    ],
+    "text": "~ J I I 1 I",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.1982855796813965,
+      10.100000381469727,
+      17.20009994506836,
+      24.399999618530273,
+      25.399999618530273,
+      25.70009994506836
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      13.52,
+      725.17,
+      25.07,
+      756.91
+    ],
+    "text": "j",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      23.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      13.92,
+      759.29,
+      17.56,
+      768.5
+    ],
+    "text": "\\",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.900100231170654
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      15.33,
+      765.45,
+      22.34,
+      776.99
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      15.71,
+      775.19,
+      18.56,
+      787.55
+    ],
+    "text": "~ 1",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.0828559398651123,
+      3.800100088119507
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      534.09,
+      35.76,
+      542.11,
+      50.04
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.9,
+      72.85,
+      541.51,
+      89.39
+    ],
+    "text": "As pointed out earlier, the petitioner in Writ application No. 255/2017, is",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.249384880065918,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.34,
+      103.33,
+      544.28,
+      119.87
+    ],
+    "text": "MIS Prestige Automobiles (pvt) Ltd. Therefore the 4th Respondent (Heinz Adolf",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      12.350350379943848,
+      12.399999618530273,
+      12.422828674316406
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.1,
+      133.82,
+      542.17,
+      150.36
+    ],
+    "text": "Reuter) as an independent legal entity has not initiated the said writ application",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103.95,
+      164.29,
+      541.71,
+      180.83
+    ],
+    "text": "215/2017, nor has the 4th Respondent a party to the said proceedings. Accordingly,",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      12.199999809265137,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.13,
+      194.77,
+      541.27,
+      211.31
+    ],
+    "text": "there is no legal or factual basis where the court can issue a rule on the 4th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.1,
+      225.5,
+      541.93,
+      242.04
+    ],
+    "text": "Respondent to show cause as to \"why it should not be punished for committing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.28,
+      255.73,
+      541.58,
+      272.28
+    ],
+    "text": "offence of contempt of the court of appeal\". The alternate relief prayed for in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.1491117477417,
+      12.399999618530273,
+      13.00198745727539
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.22,
+      286.7,
+      541.22,
+      303.25
+    ],
+    "text": "said prayer calling to \"adopt some other procedure as the court may deem fit to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.365050315856934,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.28,
+      314.94,
+      541.27,
+      333.72
+    ],
+    "text": "deal with the 3rd Respondent in respect of the offence of contempt of court\" is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.358304023742676,
+      12.249384880065918,
+      12.399999618530273,
+      13.00198745727539,
+      13.133976936340332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.16,
+      347.41,
+      299.23,
+      363.95
+    ],
+    "text": "unfounded and misconceived in law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.66,
+      386.53,
+      541.11,
+      403.07
+    ],
+    "text": "At present this court has not arrived at a finding in Writ application No.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.411744117736816
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103.95,
+      416.77,
+      541.96,
+      433.31
+    ],
+    "text": "215/2017, which is yet to be supported for notice on the Respondents. However,",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.249384880065918,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103.9,
+      447.03,
+      542.2,
+      463.57
+    ],
+    "text": "the petitioner relies on the facts pleaded in the said case to demonstrate and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.31,
+      477.5,
+      541.75,
+      494.05
+    ],
+    "text": "establish the alleged ulterior motives and the fraudulent manifestation of the 4th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      12.399999618530273,
+      13.00198745727539
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.1,
+      487.54,
+      616.71,
+      529.73
+    ],
+    "text": "Respondent in initiating the writ application No. 255/2017. II",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.399999618530273,
+      13.0,
+      26.70009994506836
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.05,
+      546.85,
+      541.78,
+      563.39
+    ],
+    "text": "The law and facts contained in petition CA writ application No. 255/2017",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.27,
+      577.33,
+      542.41,
+      593.87
+    ],
+    "text": "are pending deliberation before this court on its merits. We are mindful that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.41,
+      607.58,
+      541.44,
+      624.12
+    ],
+    "text": "petitioner has made an application for intervention in the said Writ application No.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.19,
+      638.05,
+      545.11,
+      654.59
+    ],
+    "text": "255/2017, and that writ application No. 215/2017 is pending support of",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.249384880065918,
+      12.399999618530273,
+      12.868643760681152
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.51,
+      668.05,
+      542.22,
+      684.59
+    ],
+    "text": "application. A deliberate suppression or misrepresentation of facts as alleged by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.133976936340332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.37,
+      697.82,
+      545.44,
+      714.37
+    ],
+    "text": "the petitioner, or an interference or a perversion of the due administration of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.00198745727539,
+      13.133976936340332
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      4.16,
+      -8.78,
+      31.29,
+      82.42
+    ],
+    "text": "I I 1 ! ,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.800099849700928,
+      12.399999618530273,
+      15.5,
+      19.20009994506836,
+      48.79999923706055
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      21.99,
+      19.55,
+      539.81,
+      60.5
+    ],
+    "text": ". ' 6",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.300099849700928,
+      10.800000190734863,
+      29.799999237060547
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100.85,
+      72.76,
+      539.73,
+      89.43
+    ],
+    "text": "justice, are in the above circumstances, grounds of deliberation in the respective",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.186830520629883
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100.86,
+      103.47,
+      539.13,
+      120.15
+    ],
+    "text": "judicial review applications pending before this court. Therefore, we find that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.53,
+      133.96,
+      539.84,
+      150.63
+    ],
+    "text": "petitioners application for contempt of court in respect of matters pending",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.920429229736328,
+      13.186830520629883
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.65,
+      164.43,
+      247.29,
+      181.11
+    ],
+    "text": "determination is erroneous.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.49544906616211,
+      12.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      137.67,
+      203.31,
+      538.78,
+      219.99
+    ],
+    "text": "In the circumstances, we are of the VIew that this application is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.09865665435791,
+      12.223082542419434,
+      12.5,
+      13.054309844970703
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      101.73,
+      233.55,
+      542.8,
+      250.22
+    ],
+    "text": "misconceived in law and the petitioner has failed to disclose the perpetration of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.054309844970703
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.12,
+      262.56,
+      373.66,
+      280.46
+    ],
+    "text": "contempt of court by the 3rd or the 4th Respondents.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.161609649658203,
+      8.800000190734863,
+      12.5,
+      13.054309844970703
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      137.74,
+      302.91,
+      539.59,
+      319.59
+    ],
+    "text": "Accordingly, we refuse the issuance of notice on the Respondents and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      13.186830520629883
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.11,
+      333.39,
+      280.78,
+      350.07
+    ],
+    "text": "dismiss this application in limine.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.36628532409668,
+      12.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      284.09,
+      465.15,
+      497.39,
+      481.82
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      102.41,
+      496.6,
+      256.28,
+      513.27
+    ],
+    "text": "L.T.B. Dehideniya J, (PICA)",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.899999618530273,
+      12.49319839477539,
+      12.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      138.63,
+      527.79,
+      179.86,
+      544.46
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      261.3,
+      558.27,
+      503.92,
+      574.94
+    ],
+    "text": "PRESIDENT OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5
+    ]
+  }
+]

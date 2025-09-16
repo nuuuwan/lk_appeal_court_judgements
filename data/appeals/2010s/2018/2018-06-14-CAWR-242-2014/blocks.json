@@ -1,0 +1,2267 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      114.63,
+      69.61,
+      513.91,
+      87.22
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.216889381408691,
+      13.23520278930664,
+      13.294164657592773
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      228.42,
+      92.18,
+      399.19,
+      109.79
+    ],
+    "text": "REPUBLIC OF SRI LANKA.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.216889381408691
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      524.99,
+      33.6,
+      533.01,
+      47.88
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.13,
+      126.68,
+      535.36,
+      162.0
+    ],
+    "text": "In the matter of an Application for Writs of Mandamus under and in terms of Article",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.5,
+      12.800000190734863,
+      13.21003246307373,
+      13.344134330749512,
+      13.476948738098145
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.49,
+      163.15,
+      532.67,
+      198.23
+    ],
+    "text": "140 of the Constitution of the Democratic Socialist Republic of Sri Lanka.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.21003246307373,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      58.66,
+      375.38,
+      295.43,
+      392.99
+    ],
+    "text": "CA (Writ) Application No: 242/2014 Vs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.13996410369873,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.29,
+      211.15,
+      498.04,
+      228.23
+    ],
+    "text": "1. Kanthi Podimenike Godakumbura,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.966459274291992,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.17,
+      229.15,
+      454.45,
+      336.94
+    ],
+    "text": "26/2211, Vimukthi Lane, Anuradhapura. 2. Kumarasinghe Jayathilake Mudiyanselage Jayatissa, 26/22/3, Vimukthi Lane, Anuradhapura.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.428251266479492,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      421.14,
+      349.45,
+      514.06,
+      367.06
+    ],
+    "text": "PETITIONERS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      276.81,
+      400.75,
+      476.72,
+      435.11
+    ],
+    "text": "1. Anuradhapura Municipal Council, Anuradhapura.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.966459274291992,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      275.45,
+      452.83,
+      476.7,
+      504.72
+    ],
+    "text": "2. Municipal Commissioner, Anuradhapura Municipal Council, Anuradhapura.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.604557991027832,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      275.61,
+      522.2,
+      525.23,
+      608.39
+    ],
+    "text": "3. Land Commissioner General, Land Commissioner General's Department, \"Mihikatha Medura\", No. 1200/6, Rajamalwaththa Road, Battaramulla.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.592111587524414,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      275.23,
+      625.87,
+      431.29,
+      711.83
+    ],
+    "text": "4. Divisional Secretary, Nuwaragam Palatha East, Divisional Secretariat, Nuwaragam Palatha East, Anuradhapura.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.745484352111816,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.89,
+      173.22,
+      130.39,
+      190.81
+    ],
+    "text": "Before",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.06,
+      203.93,
+      138.35,
+      221.52
+    ],
+    "text": "Counsel",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.23,
+      321.05,
+      151.72,
+      338.64
+    ],
+    "text": "Argued on",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      273.43,
+      86.56,
+      435.89,
+      137.94
+    ],
+    "text": "5. Upali Dharmasiri Bandara, 26/22/2, Vimukthi Lane, Anuradhapura.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.289114952087402,
+      12.300000190734863,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      418.01,
+      148.98,
+      517.25,
+      166.57
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.74,
+      173.44,
+      316.55,
+      190.25
+    ],
+    "text": "A.L. Shiran Gooneratne J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.339098930358887,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172.21,
+      204.17,
+      338.77,
+      220.98
+    ],
+    "text": "T. Weragoda for the Petitioner.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172.01,
+      228.73,
+      485.41,
+      246.41
+    ],
+    "text": "Dharshana Kuruppu with T. Dissanayake for the 1 st and 2nd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.78,
+      252.41,
+      244.81,
+      269.22
+    ],
+    "text": "Respondents.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172.71,
+      281.0,
+      381.34,
+      299.7
+    ],
+    "text": "Isuru Somadasa for the 5th Respondent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.699999809265137,
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172.47,
+      321.33,
+      247.72,
+      338.23
+    ],
+    "text": ": 11/01/2018",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.45,
+      346.96,
+      449.81,
+      364.56
+    ],
+    "text": "Written Submissions of the Respondents filed on: 29/03/2018",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.600000381469727,
+      12.699999809265137,
+      13.034738540649414
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.72,
+      377.11,
+      245.03,
+      394.81
+    ],
+    "text": "Judgment on : 01/06/2018",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.98,
+      415.63,
+      252.5,
+      434.47
+    ],
+    "text": "A.L. Shiran Gooneratne J.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.699999809265137,
+      12.792661666870117,
+      12.802684783935547,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      521.7,
+      33.36,
+      529.72,
+      47.64
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125.65,
+      464.32,
+      528.45,
+      481.13
+    ],
+    "text": "The Petitioners, have invoked the jurisdiction of this court, to seek a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.371246337890625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.73,
+      494.32,
+      527.96,
+      511.13
+    ],
+    "text": "mandate in the nature of writ of mandamus to compel the Respondents to remove",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.106422424316406,
+      13.239473342895508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.65,
+      524.56,
+      527.55,
+      541.37
+    ],
+    "text": "all unauthorized obstructions in the proposed roadway on Vimukthi Mawatha,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.77,
+      555.04,
+      527.24,
+      571.85
+    ],
+    "text": "Stage II, Anuradhapura, and to compel the said Respondents to demarcate the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.32,
+      584.8,
+      527.25,
+      601.61
+    ],
+    "text": "proposed roadway marked \"H\" in plan No. AalNPE/2012/618-619, marked X6,",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.300000190734863,
+      12.600000381469727,
+      12.677809715270996
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      230.81,
+      598.39,
+      236.73,
+      608.01
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      7.099999904632568
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.13,
+      614.8,
+      527.02,
+      631.61
+    ],
+    "text": "(hereinafter sometimes referred to as the \"alternative plan\"). The Petitioner has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.14,
+      643.15,
+      527.07,
+      661.37
+    ],
+    "text": "also sought a mandate in the nature of writ of Mandamus to compel the 3rd and 4th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.299300193786621,
+      9.014948844909668,
+      12.600000381469727,
+      13.106422424316406,
+      13.239473342895508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.22,
+      674.56,
+      527.56,
+      691.37
+    ],
+    "text": "Respondents to hold a Land Kachcheri in terms of Section 20, of the Land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.106422424316406,
+      13.239473342895508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      89.22,
+      704.34,
+      223.64,
+      721.14
+    ],
+    "text": "Development Ordinance.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -0.14,
+      31.41,
+      21.6,
+      140.99
+    ],
+    "text": "j I I I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.5000998973846436,
+      14.0,
+      20.20009994506836,
+      34.099998474121094,
+      39.099998474121094
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      1.17,
+      131.25,
+      9.12,
+      162.28
+    ],
+    "text": "\" ! j 1 I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.7000999450683594,
+      4.500100135803223,
+      5.699999809265137,
+      9.800000190734863,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      0.95,
+      165.82,
+      7.35,
+      183.16
+    ],
+    "text": "j",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      520.67,
+      33.27,
+      528.77,
+      47.67
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126.37,
+      69.07,
+      528.04,
+      86.15
+    ],
+    "text": "The Petitioners submit that after receiving notice in terms of Section 42A,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.83,
+      97.76,
+      527.84,
+      116.63
+    ],
+    "text": "of the Municipal Councils Ordinance, several parties including the 5th Respondent,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.780427932739258,
+      12.800000190734863,
+      13.21003246307373
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.83,
+      129.55,
+      528.41,
+      146.63
+    ],
+    "text": "failed to demolish unauthorized structures obstructing the proposed roadway and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.2,
+      158.0,
+      528.37,
+      176.87
+    ],
+    "text": "the 18t andl or 2nd Respondents have failed to take necessary steps to have the said",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.778260231018066,
+      8.76723861694336,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.24,
+      190.04,
+      408.17,
+      207.12
+    ],
+    "text": "unauthorized structures demolished in terms of the said Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125.74,
+      226.41,
+      526.96,
+      245.28
+    ],
+    "text": "After several failed attempts by the Petitioners to resolve this issue, the 2nd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.641064643859863,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.94,
+      256.41,
+      526.96,
+      275.28
+    ],
+    "text": "Respondent by letter dated 20104/2012, marked X5(b), has notified the 2nd",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.641064643859863,
+      12.111557006835938,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.94,
+      288.43,
+      528.47,
+      305.51
+    ],
+    "text": "Petitioner that the matter would be resolved by an alternative plan, as proposed by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.7,
+      318.68,
+      528.2,
+      335.76
+    ],
+    "text": "the Urban Development Authority, (UDA). The said alternative plan drawn and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.79,
+      347.63,
+      526.87,
+      365.76
+    ],
+    "text": "proposed by the UDA has been approved by the planning committee of the 18t",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.778260231018066,
+      12.800000190734863,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.7,
+      377.12,
+      527.66,
+      396.23
+    ],
+    "text": "Respondent. By letter dated 10109/2013, marked X7(b), the 2nd Respondent has",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.76723861694336,
+      12.053632736206055,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.87,
+      409.4,
+      527.75,
+      426.47
+    ],
+    "text": "approved the said plan for implementation. As pleaded in paragraph 22, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.46,
+      437.61,
+      526.72,
+      456.48
+    ],
+    "text": "Petitioners through their Attorney-at - Law has made a demand from the 2nd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.641064643859863,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.46,
+      469.4,
+      527.95,
+      486.48
+    ],
+    "text": "Respondent by letters of demand marked XII and X12, to effectuate the said plan",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.344134330749512,
+      13.427660942077637
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.83,
+      499.64,
+      142.88,
+      516.71
+    ],
+    "text": "forthwith.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      125.43,
+      536.75,
+      527.04,
+      554.88
+    ],
+    "text": "However, it is observed that, the 18t Respondent by letter dated 10109/2013,",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.953067779541016,
+      11.957995414733887,
+      12.644505500793457,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.5,
+      567.8,
+      527.24,
+      584.88
+    ],
+    "text": "has informed the said Attorney -at-Law, that the Municipal Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.47,
+      598.04,
+      527.68,
+      615.11
+    ],
+    "text": "Anuradhapura would take appropriate steps to demolish the unauthorized",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.56,
+      628.27,
+      527.16,
+      645.34
+    ],
+    "text": "structures, once the Urban Development Authority submits the alternative plan.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.22,
+      656.65,
+      526.81,
+      675.11
+    ],
+    "text": "Presently, the alternative plan is with the planning committee, of the 1st",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      12.644505500793457,
+      12.800000190734863,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.22,
+      687.8,
+      254.51,
+      704.88
+    ],
+    "text": "Respondent, pending approval.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      -1.37,
+      -3.75,
+      25.76,
+      71.84
+    ],
+    "text": "I I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      16.299999237060547,
+      48.79999923706055
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      0.36,
+      81.26,
+      21.99,
+      180.26
+    ],
+    "text": "1 I I I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      14.0,
+      33.79999923706055,
+      38.90010070800781
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      520.76,
+      34.03,
+      528.49,
+      47.77
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.61,
+      69.7,
+      528.67,
+      85.98
+    ],
+    "text": "The Respondents raised a preliminary objection to this application, on the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.72,
+      99.47,
+      528.86,
+      115.75
+    ],
+    "text": "basis that the Petitioners have failed to add the necessary parties to this Petition",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.56,
+      129.23,
+      382.67,
+      145.51
+    ],
+    "text": "and therefore, the action should be dismissed in limine.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.201350212097168
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.41,
+      168.11,
+      529.88,
+      184.52
+    ],
+    "text": "In the case of Wijeratne Vs. Ven Dr. Paragoda Wimalawansa Thero and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.502840042114258,
+      13.087924003601074,
+      13.157292366027832,
+      13.170065879821777,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.13,
+      198.11,
+      528.54,
+      214.53
+    ],
+    "text": "others, (2011) 2 SLR 258, the Supreme Court considered the effect of necessary",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      13.027626991271973,
+      13.199999809265137,
+      13.354001998901367
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.78,
+      228.11,
+      361.97,
+      244.39
+    ],
+    "text": "parties to an application, where the court held, that;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      145.61,
+      267.32,
+      527.95,
+      283.07
+    ],
+    "text": "\"those who would be affected by the outcome of the writ application",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.80711555480957,
+      12.899999618530273,
+      14.26032543182373
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      143.32,
+      297.08,
+      399.36,
+      312.83
+    ],
+    "text": "should be made respondents to the application\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.80711555480957,
+      12.809432029724121,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      125.43,
+      334.9,
+      527.47,
+      351.18
+    ],
+    "text": "In paragraph 4, the petitioner admits that there were several disputes",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.53,
+      364.9,
+      527.62,
+      381.18
+    ],
+    "text": "between the residents of Vimukthi Mawatha, Stage II, Anuradhapura, in relation to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      13.027626991271973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.02,
+      395.16,
+      527.51,
+      411.43
+    ],
+    "text": "the road reservation and the unauthorized constructions on the said road",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.03,
+      423.91,
+      527.19,
+      442.26
+    ],
+    "text": "reservation. The 5th Respondent is one of the residents of Vimukthi Mawatha,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.900100231170654,
+      12.199999809265137,
+      13.027626991271973,
+      13.157292366027832,
+      13.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.3,
+      455.87,
+      527.69,
+      472.15
+    ],
+    "text": "Stage II. According to the pleadings of the Petitioner, it is observed that including",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      13.027626991271973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.77,
+      484.4,
+      527.36,
+      502.32
+    ],
+    "text": "the 5th Respondent there are several other residents who are obstructing the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.900100231170654,
+      12.199999809265137,
+      12.240083694458008,
+      12.307328224182129,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.68,
+      515.62,
+      526.36,
+      531.9
+    ],
+    "text": "demolition of the unauthorized structures on the proposed roadway. This is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      13.157292366027832
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.7,
+      545.38,
+      525.0,
+      561.66
+    ],
+    "text": "observed in the 3 rd paragraph of letter dated 31110/2013, written by the 3 rd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.658884048461914,
+      12.199999809265137,
+      12.896705627441406
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.5,
+      575.86,
+      526.53,
+      592.14
+    ],
+    "text": "Respondent to the 4th Respondent marked X8. Therefore, the relief sought by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.303296089172363,
+      12.199999809265137,
+      12.213092803955078,
+      12.314214706420898
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.5,
+      604.63,
+      529.36,
+      622.55
+    ],
+    "text": "Petitioners would not only affect the 5th Respondent, but several other residents of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.900100231170654,
+      12.199999809265137,
+      12.243023872375488,
+      12.800000190734863,
+      12.896705627441406
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.53,
+      636.34,
+      526.47,
+      652.62
+    ],
+    "text": "Vimukthi Mawatha, Stage II, who are not before Court. The Petitioner has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.47,
+      664.87,
+      526.19,
+      682.62
+    ],
+    "text": "identified only the 5th Respondent as a resident who was served with a notice in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.900100231170654,
+      12.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.05,
+      696.1,
+      526.06,
+      712.38
+    ],
+    "text": "terms of Section 42A, of the Municipal Councils Ordinance. Failure to identify all",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.199999809265137,
+      12.896705627441406,
+      13.027626991271973
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      -0.29,
+      32.1,
+      8.12,
+      77.22
+    ],
+    "text": "I I 1 1 i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.500100135803223,
+      7.500100135803223,
+      9.100000381469727,
+      10.100000381469727,
+      15.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      0.0,
+      111.16,
+      8.78,
+      132.87
+    ],
+    "text": "\\",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      0.87,
+      131.25,
+      10.26,
+      169.18
+    ],
+    "text": "j I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      18.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      519.93,
+      32.64,
+      527.95,
+      46.92
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.22,
+      68.5,
+      528.01,
+      85.7
+    ],
+    "text": "necessary parties, will not only leave the dispute unresolved but also create",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.73,
+      98.5,
+      361.97,
+      115.71
+    ],
+    "text": "multiple avenues of litigation from affected parties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.396158218383789
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125.46,
+      136.64,
+      527.56,
+      153.85
+    ],
+    "text": "However, it is important at this stage to consider whether, the Petitioners",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.890596389770508,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.73,
+      166.65,
+      527.59,
+      183.86
+    ],
+    "text": "have a legal right to compel the Respondents to clear all obstructions from the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.48,
+      196.89,
+      527.8,
+      214.1
+    ],
+    "text": "roadway, according to plan marked X6, in terms of the relevant statutory",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.396158218383789
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.54,
+      226.89,
+      148.82,
+      244.09
+    ],
+    "text": "provIsIOns.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.873672485351562
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125.43,
+      263.4,
+      528.0,
+      282.59
+    ],
+    "text": "It is an admitted fact that the Petitioners, the 5th Respondent and all other",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.879645347595215,
+      12.493907928466797,
+      12.899999618530273,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.05,
+      295.52,
+      527.78,
+      312.73
+    ],
+    "text": "parties in possession of allotments of land in Vimukthi Mawatha, occupy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.731195449829102,
+      12.897649765014648,
+      12.899999618530273,
+      13.396158218383789
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.15,
+      325.76,
+      527.27,
+      342.97
+    ],
+    "text": "allotments of land, unlawfully. As pleaded in paragraph 3 of the Petition,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.897649765014648,
+      12.899999618530273,
+      13.396158218383789
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.34,
+      354.43,
+      527.45,
+      372.98
+    ],
+    "text": "subsequent to an inquiry held by the 3rd Respondent in terms of the Land",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.299300193786621,
+      12.897649765014648,
+      12.899999618530273,
+      13.396158218383789
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.98,
+      385.77,
+      527.26,
+      402.98
+    ],
+    "text": "Development Ordinance No. 19 of 1935 (as amended), the Petitioner and several",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.624354362487793,
+      12.83282470703125,
+      12.899999618530273,
+      13.396158218383789
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.13,
+      416.02,
+      530.08,
+      433.23
+    ],
+    "text": "other parties have been considered to be given permits in terms of Section 19 of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.486369132995605,
+      12.899999618530273,
+      13.261533737182617,
+      13.396158218383789
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.77,
+      446.02,
+      527.49,
+      463.22
+    ],
+    "text": "the said Act. However, as of now, no permits under the said Act have been issued",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.708580017089844,
+      12.899999618530273,
+      13.396158218383789
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.78,
+      476.24,
+      530.16,
+      493.45
+    ],
+    "text": "to any of the parties. The Petitioners submit that, the disputes between residents of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.396158218383789
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.01,
+      506.49,
+      527.1,
+      523.69
+    ],
+    "text": "Vimukthi Mawatha regarding the road reservation and unauthorized constructions",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.79,
+      536.74,
+      527.42,
+      553.95
+    ],
+    "text": "have not been referred to a land Kachcheri under the Land Development",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.91,
+      565.64,
+      526.77,
+      583.92
+    ],
+    "text": "Ordinance. It is observed that, by this application the Petitioners are not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.890596389770508,
+      12.899999618530273,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.91,
+      596.72,
+      526.52,
+      613.93
+    ],
+    "text": "challenging the non-granting of the permits to the said lands nor have the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.261533737182617
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.74,
+      626.73,
+      526.71,
+      643.94
+    ],
+    "text": "Petitioners placed on record any supporting evidence for the Court to make any",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.69,
+      656.49,
+      496.01,
+      673.7
+    ],
+    "text": "direction to hold a Land Kachcheri to sought out the issue of land allotments.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.396158218383789
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      518.99,
+      32.73,
+      526.79,
+      46.6
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      124.93,
+      68.6,
+      526.88,
+      85.68
+    ],
+    "text": "The Petitioners are seeking to compel the relevant Authorities to remove",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.06,
+      98.6,
+      526.13,
+      115.68
+    ],
+    "text": "unauthorized obstructions in order to proceed with the proposed roadway.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.0,
+      128.84,
+      526.55,
+      145.92
+    ],
+    "text": "However, in the absence of a clear legal right to occupy the land allotments, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.98,
+      159.31,
+      526.33,
+      176.39
+    ],
+    "text": "Petitioner cannot compel the authorities to perform a specific statutory duty to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.68,
+      189.55,
+      311.83,
+      206.62
+    ],
+    "text": "demolish the said unauthorized structures.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      124.17,
+      226.99,
+      526.11,
+      244.18
+    ],
+    "text": "It is observed, that the Petitioners have no clear legal right to compel the 1 st",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      12.644505500793457,
+      12.800000190734863,
+      13.168815612792969
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.67,
+      255.93,
+      526.12,
+      274.56
+    ],
+    "text": "and 2nd Respondents, to remove unauthorized structures obstructing the roadway,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.513072967529297,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.87,
+      287.72,
+      526.02,
+      304.8
+    ],
+    "text": "since the Petitioners are not in lawful possession of the said allotments of land.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.44,
+      317.96,
+      529.36,
+      335.04
+    ],
+    "text": "Their rights, if any, would be decided upon the awarding of a permit, in terms of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.21003246307373,
+      13.28679370880127,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.53,
+      348.2,
+      526.67,
+      365.28
+    ],
+    "text": "the Land Development Ordinance. Therefore, there is no legal duty thrust upon the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.644505500793457,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.55,
+      377.12,
+      526.85,
+      395.51
+    ],
+    "text": "1 st and the 2nd Respondents to remove unauthorized obstructions on the proposed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.758151054382324,
+      8.76723861694336,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.29,
+      407.12,
+      526.7,
+      425.51
+    ],
+    "text": "roadway. However, the 1 st. and 2nd Respondents are directed to speedily resolve the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.880215167999268,
+      8.641064643859863,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.47,
+      438.68,
+      526.09,
+      455.76
+    ],
+    "text": "issue of demolition of the unauthorized structures in Vimukthi Mawatha, Stage II",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.21003246307373,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.43,
+      468.92,
+      204.65,
+      485.99
+    ],
+    "text": "according to the Law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      123.95,
+      507.07,
+      526.43,
+      524.26
+    ],
+    "text": "It is noted that in spite of the undertaking given to court, the Petitioners",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.644505500793457,
+      12.800000190734863,
+      12.96139144897461,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.32,
+      537.55,
+      448.09,
+      554.63
+    ],
+    "text": "have failed to file written submissions in support of this application.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.344134330749512
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      124.24,
+      575.71,
+      444.73,
+      592.79
+    ],
+    "text": "In the circumstances, the Petition is dismissed without costs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.644505500793457,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      269.7,
+      674.35,
+      483.71,
+      691.43
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.789496421813965,
+      12.800000190734863
+    ]
+  }
+]

@@ -1,0 +1,4416 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      120.83,
+      56.96,
+      524.34,
+      81.78
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      18.139448165893555,
+      18.241851806640625,
+      18.48293113708496,
+      18.491029739379883,
+      18.49897575378418,
+      18.600000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      96.0,
+      89.76,
+      552.46,
+      126.59
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA f&i ~--------------------------------------------------~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.480160713195801,
+      10.949183464050293,
+      16.399999618530273,
+      16.6529483795166
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      89.62,
+      247.48,
+      244.87,
+      265.36
+    ],
+    "text": "C.A. Case No. 664/1995 (F)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.376479148864746,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      89.7,
+      274.85,
+      264.24,
+      292.73
+    ],
+    "text": "D.C. Panadura Case No. 14078/P",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.028449058532715,
+      13.081925392150879,
+      13.345589637756348,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      268.46,
+      150.28,
+      541.65,
+      168.16
+    ],
+    "text": "1. Rupasinghe Irin Somawathie Karunarathne",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.398232460021973,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      268.73,
+      173.8,
+      521.28,
+      191.68
+    ],
+    "text": "2. Meegamuwage Samadara Karunarathne",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.896594047546387,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.94,
+      197.8,
+      531.6,
+      215.68
+    ],
+    "text": "Both of Galle Road, Pothupitiya, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.335644721984863,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.94,
+      221.09,
+      371.94,
+      238.97
+    ],
+    "text": "PLAINTIFFS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      267.73,
+      311.23,
+      277.09,
+      328.31
+    ],
+    "text": "1.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.352335929870605
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.0,
+      271.19,
+      323.4,
+      281.09
+    ],
+    "text": "~Vs~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      6.824192523956299
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.46,
+      311.33,
+      559.31,
+      346.24
+    ],
+    "text": "Migel Hewage Anula Kalyani Wijesinghe of Pothupitiya, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.335644721984863,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      268.0,
+      353.08,
+      559.25,
+      388.49
+    ],
+    "text": "2. Migel Hewage Chandrasoma Palitha Wijesinghe of Pothupitiya, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.896594047546387,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      268.18,
+      394.12,
+      552.79,
+      412.0
+    ],
+    "text": "3. Susew Hewage Siyaneris Fernando (deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.51031494140625,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      267.93,
+      417.89,
+      559.16,
+      453.76
+    ],
+    "text": "3A. Susew Hewal Rathna Kamala Sujatha Wickramasinghe of Pothupitiya, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.02397346496582,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      267.54,
+      459.17,
+      505.82,
+      477.05
+    ],
+    "text": "4. Thiramuni Aron Fernando (deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.388594627380371,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      267.54,
+      483.4,
+      557.63,
+      518.8
+    ],
+    "text": "4A. Thiramuni Ananda Premathialaka of Galle Road, Pothupitiya, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.335644721984863,
+      13.363248825073242,
+      13.396749496459961,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      267.18,
+      524.44,
+      558.9,
+      559.83
+    ],
+    "text": "5. Meegamuwage Ajith Nandalal Karunarathne (deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.220548629760742,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      267.13,
+      565.96,
+      557.9,
+      601.35
+    ],
+    "text": "SA. R.A. Jayasinghe of Galle Road, Pothupitiya, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.930163383483887,
+      13.303804397583008,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.95,
+      607.48,
+      429.5,
+      625.36
+    ],
+    "text": "5B. Iiyana Ralalage Indrani",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.911599159240723,
+      13.399999618530273,
+      13.509552001953125
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.86,
+      630.53,
+      402.62,
+      648.41
+    ],
+    "text": "No. 214, Galle Road,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.88916301727295,
+      13.028449058532715,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.75,
+      653.56,
+      424.17,
+      671.44
+    ],
+    "text": "Pothupitiya, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.96,
+      677.08,
+      558.26,
+      711.76
+    ],
+    "text": "6. J asenthu Hewage Piyadasa of Pothupitiya South, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.94968318939209,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      267.0,
+      717.89,
+      504.14,
+      735.77
+    ],
+    "text": "7. Jasenthua Hewage Piyasili (deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.398418426513672,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      266.98,
+      740.92,
+      555.53,
+      770.72
+    ],
+    "text": "7 A. A. Karanis of Samanpaya, Thalpitiya, Wadduwa. 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.100000381469727,
+      12.87537956237793,
+      13.335644721984863,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.59,
+      72.31,
+      505.51,
+      90.45
+    ],
+    "text": "S. Thiramuni Eliso Fernando (deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.45483684539795,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.57,
+      96.8,
+      558.48,
+      132.21
+    ],
+    "text": "SA. R. Sumanwathie of Pushparama Road, Pothupitiya North, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.937987327575684,
+      13.213096618652344,
+      13.434796333312988,
+      13.512418746948242,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.7,
+      138.55,
+      384.28,
+      156.69
+    ],
+    "text": "DEFENDANTS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.26,
+      177.92,
+      558.35,
+      213.81
+    ],
+    "text": "4A. Thiramuni Ananda Premathialaka of Galle Road, Pothupitiya, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.434796333312988,
+      13.462606430053711,
+      13.496355056762695,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.46,
+      218.95,
+      482.74,
+      237.09
+    ],
+    "text": "4A DEFENDANT ~APPELIANT",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.772319793701172,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      267.97,
+      259.28,
+      541.38,
+      277.42
+    ],
+    "text": "1. Rupasinghe lrin Somawathie Karunarathne",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.352335929870605,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.49,
+      283.04,
+      521.01,
+      301.18
+    ],
+    "text": "2. Meegamuwage Samadara Karunarathne",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.992481231689453,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.7,
+      306.31,
+      531.57,
+      324.45
+    ],
+    "text": "Both of Galle Road, Pothupitiya, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.434796333312988,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.0,
+      334.55,
+      469.75,
+      346.55
+    ],
+    "text": "PIAINTIFF~RESPONDENTS",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      8.757314682006836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.33,
+      375.19,
+      559.0,
+      410.86
+    ],
+    "text": "l. Migel Hewage Anula Kalyani Wijesinghe of Pothupitiya, Wadduwa.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      13.277681350708008,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.49,
+      416.23,
+      559.97,
+      452.15
+    ],
+    "text": "2. Migel Hewage Chandrasoma Palitha Wijesinghe (deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.810749053955078,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.48,
+      458.0,
+      498.1,
+      476.14
+    ],
+    "text": "2A. Jayantha Chandrakumara Wijesena",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.214949607849121,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.94,
+      481.51,
+      412.33,
+      499.66
+    ],
+    "text": "Methsiri Dayananda",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.49,
+      505.75,
+      559.35,
+      541.65
+    ],
+    "text": "2B. Both of Circular Road, Pothupitiya North, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.932415008544922,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.65,
+      546.56,
+      559.1,
+      582.93
+    ],
+    "text": "3A. Susew Hewal Rathna Kamala SUjatha Wickramasinghe (deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.120807647705078,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.65,
+      588.56,
+      502.21,
+      606.7
+    ],
+    "text": "3AI. Asoka Indukantha Wickramasinghe",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.364053726196289,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.64,
+      612.56,
+      525.96,
+      630.7
+    ],
+    "text": "3A2. Senaka Padmakumara Wickramasinghe",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.487736701965332,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.64,
+      635.83,
+      492.6,
+      653.97
+    ],
+    "text": "3A3.Saliya Nishantha Wickramasinghe",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      293.73,
+      658.87,
+      559.43,
+      694.07
+    ],
+    "text": "All of near the W alukarama Temple, Pothupitiya North, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.277681350708008,
+      13.397441864013672,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.33,
+      699.2,
+      559.1,
+      734.14
+    ],
+    "text": "SA. R.A. ] ayasinghe of Galle Road, Pothupitiya, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.026299476623535,
+      13.402718544006348,
+      13.590147018432617,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.34,
+      739.76,
+      430.98,
+      757.9
+    ],
+    "text": "SB. Dyana Ralalage Indrani",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.740116119384766,
+      13.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      321.31,
+      758.28,
+      328.06,
+      770.29
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.42,
+      374.45,
+      144.39,
+      392.33
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.58,
+      419.57,
+      155.98,
+      437.44
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.66,
+      524.68,
+      158.76,
+      542.56
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.459766387939453
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.69,
+      569.94,
+      202.29,
+      590.08
+    ],
+    "text": "A.H.M.D. Nawaz, J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.814661026000977,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.54,
+      72.76,
+      404.3,
+      90.64
+    ],
+    "text": "No. 214, Galle Road,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.88916301727295,
+      13.116143226623535,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.43,
+      96.76,
+      425.85,
+      114.63
+    ],
+    "text": "Pothupitiya, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      268.64,
+      120.76,
+      559.95,
+      155.68
+    ],
+    "text": "6. ] asenthu Hewage Piyadasa of Pothupitiya South, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.12834644317627,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      268.9,
+      162.29,
+      557.76,
+      180.17
+    ],
+    "text": "7 A. A. Karanis of Samanpaya, Thalpitiya, Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.87537956237793,
+      13.179688453674316,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      268.81,
+      186.05,
+      450.62,
+      203.93
+    ],
+    "text": "SA. R. Sumanwathie (deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.84250259399414,
+      13.115581512451172,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      268.81,
+      209.56,
+      509.91,
+      227.44
+    ],
+    "text": "SAL Rakina Hewage Ranjith Weerasinghe",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.949993133544922,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      268.8,
+      233.56,
+      420.09,
+      251.44
+    ],
+    "text": "SA2. Sudath Weerasinghe",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.114968299865723,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.18,
+      256.84,
+      558.46,
+      292.72
+    ],
+    "text": "Both of Kammanayawatta, Pushparama Road, Pothupitiya North,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.179688453674316,
+      13.358485221862793,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      293.71,
+      298.37,
+      356.72,
+      316.25
+    ],
+    "text": "Wadduwa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.18,
+      321.64,
+      478.37,
+      339.52
+    ],
+    "text": "DEFENDANT, RESPONDENTS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      293.97,
+      374.68,
+      407.1,
+      392.56
+    ],
+    "text": "A.H.M.D. Nawaz,J.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      293.25,
+      418.61,
+      551.43,
+      454.24
+    ],
+    "text": "Rohan Sahabandu, PC for 4A Defendant~ Appellant",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.805720806121826,
+      13.253802299499512,
+      13.357181549072266,
+      13.371469497680664,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.29,
+      460.36,
+      551.9,
+      496.0
+    ],
+    "text": "N.R.lv1. Daluwatta, PC for the Defendant~ Respondents",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.805720806121826,
+      12.700597763061523,
+      13.357181549072266,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      293.81,
+      524.92,
+      347.98,
+      542.8
+    ],
+    "text": "13.12.2017",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.843649864196777
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.6,
+      601.0,
+      559.86,
+      618.88
+    ],
+    "text": "The Plaintiffs have filed this action on 30.08.1974 in the District Court of Panadura to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.236957550048828,
+      13.335644721984863,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.46,
+      623.79,
+      559.05,
+      641.68
+    ],
+    "text": "have the land called the Southern portion of Ambagahawatte partitioned, which is",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.335644721984863,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.69,
+      647.32,
+      560.44,
+      665.23
+    ],
+    "text": "morefully described in the schedule to the plaint. After the plaint was filed, a",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.04788589477539,
+      13.310249328613281,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.6,
+      670.11,
+      559.26,
+      688.0
+    ],
+    "text": "commission had been issued and the Plan No.3035 dated 04.03.1975 prepared by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.284350395202637,
+      13.300026893615723,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.94,
+      692.21,
+      559.62,
+      710.09
+    ],
+    "text": "Surveyor W. Fernando and his report have been filed marked X and Xl. According to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.244648933410645,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.69,
+      714.77,
+      330.58,
+      732.65
+    ],
+    "text": "this Plan the extent of the corpus is 2 Roods.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.335644721984863,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      321.49,
+      758.63,
+      328.84,
+      771.7
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.21,
+      73.08,
+      557.66,
+      90.55
+    ],
+    "text": "The main contestant in the case is the 4th Defendant, who died after giving evidence in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.370064735412598,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.52,
+      96.37,
+      556.57,
+      113.84
+    ],
+    "text": "the case and in his place the 4A Defendant has been substituted. The position of the 4th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.370064735412598,
+      13.001832008361816,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.26,
+      119.89,
+      557.17,
+      137.48
+    ],
+    "text": "Defendant is that the corpus as shown in the said Plan No.3035 and described in the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.747909545898438,
+      12.961973190307617,
+      13.100000381469727,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.37,
+      143.15,
+      557.48,
+      160.63
+    ],
+    "text": "schedule to the plaint, constitutes not only the land called the Southern portion of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.101699829101562
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.28,
+      166.45,
+      557.17,
+      183.92
+    ],
+    "text": "Ambagahawatte sought to be partitioned, but also another land lying adjacent to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.100000381469727,
+      13.219108581542969
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.62,
+      189.24,
+      556.94,
+      206.72
+    ],
+    "text": "North of it, which is separately owned and possessed by the 4th Defendant, and his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.476250648498535,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.34,
+      212.51,
+      557.62,
+      229.99
+    ],
+    "text": "position is that this Northern portion should not be included into the corpus that is to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.990139961242676,
+      13.100000381469727,
+      13.101699829101562,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.33,
+      235.57,
+      169.8,
+      253.05
+    ],
+    "text": "be partitioned.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.46,
+      264.6,
+      557.15,
+      282.08
+    ],
+    "text": "In order to depict the two lands better, he too got a commission issued through the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.41,
+      288.13,
+      557.54,
+      305.6
+    ],
+    "text": "Court to the same surveyor, whose Plan No.3035A (4Dl) and the Report dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.71,
+      311.39,
+      557.59,
+      328.87
+    ],
+    "text": "2l.09.1977 (4DlA) (Page 203 &: 204 of the brief) are filed of record. This second plan",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.179733276367188,
+      13.0127592086792,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.46,
+      333.97,
+      557.63,
+      351.44
+    ],
+    "text": "divides the original corpus shown in the earlier Plan No.3035 into two blocks, marked",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.163695335388184
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.53,
+      357.01,
+      557.34,
+      374.48
+    ],
+    "text": "A and B separately. The extent of Lot A is 19.5 perches and Lot B is said to be 1 Rood",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.642719268798828,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.67,
+      380.28,
+      557.66,
+      397.76
+    ],
+    "text": "and 20.5 perches. According to Plan No.3035A only the total extent of Lots A and B is 2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.73,
+      403.32,
+      248.55,
+      420.79
+    ],
+    "text": "Roods, as stated in the plaint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.51,
+      432.37,
+      556.56,
+      449.85
+    ],
+    "text": "According to the 4th Defendant it is only Lot B in the second Plan No.3035A (4D1),",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.476250648498535,
+      13.030767440795898,
+      13.100000381469727,
+      13.285141944885254
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.54,
+      455.64,
+      557.64,
+      473.11
+    ],
+    "text": "which is referred to as the Southern Portion of Ambagahawatte, that constitutes the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.91,
+      478.69,
+      557.81,
+      496.17
+    ],
+    "text": "corpus sought to be partitioned and Lot A in the said Plan is said to be a distinct and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.87,
+      500.66,
+      557.6,
+      519.47
+    ],
+    "text": "separate land which is exclusively owned and possessed by him, and thus it should be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.484895706176758,
+      13.915696144104004
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.66,
+      524.76,
+      529.27,
+      542.23
+    ],
+    "text": "excluded from the corpus, and it is not part of the corpus sought to be partitioned.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.101699829101562,
+      13.285141944885254
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.94,
+      553.8,
+      558.1,
+      571.27
+    ],
+    "text": "It was also contested by the 4th Defendant that he was also entitled to some undivided",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.581541061401367,
+      13.100000381469727,
+      13.116739273071289,
+      13.243810653686523
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.01,
+      575.78,
+      557.67,
+      594.59
+    ],
+    "text": "rights in Lot B in Plan No.3035A, according to the pedigree filed by him along with his",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.871881484985352,
+      13.091748237609863,
+      13.100000381469727,
+      13.107248306274414,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.33,
+      599.88,
+      557.67,
+      617.35
+    ],
+    "text": "statement of claim and opposed to the pedigree set out by the Plaintiffs. The basis of his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.031320571899414,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.14,
+      622.92,
+      557.98,
+      640.39
+    ],
+    "text": "claim of undivided rights in Lot B was that his mother Podinona who was entitled to an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.82,
+      645.97,
+      558.21,
+      663.45
+    ],
+    "text": "undivided 1;2 share of this land by way of inheritance did marry another co~owner of",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.15647029876709,
+      9.290046691894531,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.25,
+      669.23,
+      558.35,
+      686.71
+    ],
+    "text": "this property called John Fernando and that on the death of his parents their undivided",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      89.03,
+      690.27,
+      468.85,
+      709.08
+    ],
+    "text": "rights did devolve on him and his brothers and sisters as their children.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      319.88,
+      758.45,
+      326.86,
+      770.85
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.33,
+      73.69,
+      556.08,
+      91.3
+    ],
+    "text": "According to the 4th Defendant the land mark separating the corpus sought to be",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.13,
+      96.98,
+      555.88,
+      114.58
+    ],
+    "text": "partitioned from his land is an old unused well. He stated in evidence that this well",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.3,
+      119.77,
+      556.17,
+      137.38
+    ],
+    "text": "which was 3 112 feet below the surface and covered with earth at the time of the",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.6759672164917,
+      13.199999809265137,
+      13.219684600830078,
+      13.240736961364746
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.13,
+      143.06,
+      556.34,
+      160.66
+    ],
+    "text": "preliminary survey, was cleared up and shown to the surveyor when he came to prepare",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.32,
+      166.33,
+      556.52,
+      183.94
+    ],
+    "text": "the second Plan No.3035A, and the Northern boundary of the land to be partitioned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.141571044921875,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.36,
+      189.62,
+      555.38,
+      207.23
+    ],
+    "text": "was shown by the 4th Defendant to be running just below the old unused well. (See",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.523778915405273,
+      12.7023344039917,
+      13.067788124084473,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.54,
+      212.89,
+      555.36,
+      230.5
+    ],
+    "text": "4D1), It is relevant to note that the Surveyor has shown this well in his Plan No.3035,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.018248558044434,
+      13.157230377197266,
+      13.199999809265137,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.14,
+      235.69,
+      556.22,
+      253.3
+    ],
+    "text": "but the 4th Defendant who was present at that time of the first survey was silent about",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.629470825195312,
+      13.199999809265137,
+      13.239689826965332,
+      13.442914962768555
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.59,
+      258.98,
+      556.53,
+      276.58
+    ],
+    "text": "this unused well and did not mention about it to the Surveyor on the preliminary",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.45,
+      282.26,
+      556.43,
+      299.87
+    ],
+    "text": "survey. He could have shown this well as constituting a boundary land mark between",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.165304183959961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.58,
+      303.73,
+      555.85,
+      323.8
+    ],
+    "text": "the corpus to be partitioned and the land on the Northern side claimed by him. This",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.675531387329102
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.47,
+      328.58,
+      556.08,
+      346.19
+    ],
+    "text": "clear land mark, too prominent a construction, though lying underground, cannot be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.21,
+      351.37,
+      504.32,
+      368.98
+    ],
+    "text": "forgotten by the 4th Defendant as this well separated his land from the corpus.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.523778915405273,
+      13.0113525390625,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.33,
+      378.71,
+      555.37,
+      397.79
+    ],
+    "text": "After the trial commenced on 15.08.1978, the evidence of the Surveyor, the 3rd and 4th",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.41718864440918,
+      12.9177827835083,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.54,
+      402.85,
+      556.84,
+      421.52
+    ],
+    "text": "Defendants was led by all parties and the learned District Judge delivered his judgment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.677946090698242
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.71,
+      426.49,
+      556.22,
+      444.1
+    ],
+    "text": "on 22.06.1979, according to which, the claim of the 4th Defendant was upheld. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.523778915405273,
+      12.600000381469727,
+      13.173673629760742,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.02,
+      450.02,
+      557.09,
+      467.63
+    ],
+    "text": "Plaintiffs appealed against this judgment to this Court and this Court by its judgment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.72,
+      473.05,
+      556.16,
+      490.66
+    ],
+    "text": "dated 19.12.1986, set aside the judgment of the learned District judge on several grounds",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.832483291625977,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.94,
+      495.25,
+      324.31,
+      513.92
+    ],
+    "text": "and ordered a re~trial on all matters in issue.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.904954433441162,
+      13.199999809265137,
+      13.677946090698242
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.49,
+      523.43,
+      556.29,
+      542.74
+    ],
+    "text": "Thereafter the Plaintiffs filed an amended Plaint. The 3rd Defendant who had given",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.93,
+      548.18,
+      556.11,
+      565.79
+    ],
+    "text": "evidence in the earlier trial had died and the 3A Defendant was substituted. The 3A",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.639760971069336,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.02,
+      571.21,
+      557.09,
+      588.82
+    ],
+    "text": "Defendant filed an amended Statement of Claim which was further amended and that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.06,
+      594.24,
+      556.77,
+      611.86
+    ],
+    "text": "the 4A Defendant also filed his amended Statement of Claim. On these amended",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.154520988464355,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.86,
+      617.3,
+      556.7,
+      634.91
+    ],
+    "text": "pleadings, the parties proceeded to trial on 31.05.1990. Issues were raised by the parties,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.894770622253418,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.23,
+      640.09,
+      556.34,
+      657.71
+    ],
+    "text": "Issues 1~3 by the Plaintiffs, 4~8 on behalf of 3A Defendant and 9~12 by the 4A Defendant.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.838947296142578,
+      7.295368671417236,
+      7.513188362121582,
+      12.748270988464355,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.24,
+      663.12,
+      556.84,
+      680.74
+    ],
+    "text": "Later on 27.02.1991, the issues raised by 3A Defendant and 4A Defendant were",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.748270988464355,
+      12.952275276184082,
+      13.154520988464355,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.3,
+      685.94,
+      555.6,
+      703.55
+    ],
+    "text": "withdrawn and new issues 4~6 were raised on behalf of 3A Defendant and issues 7 ~ 11,",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.819690704345703,
+      7.513188362121582,
+      11.213292121887207,
+      12.748270988464355,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      88.06,
+      708.49,
+      431.69,
+      726.1
+    ],
+    "text": "were raised on behalf of 4 A Defendant with permission of court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      319.07,
+      758.27,
+      326.35,
+      771.21
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      591.87,
+      631.27,
+      610.66,
+      736.85
+    ],
+    "text": "I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      19.799999237060547,
+      67.60009765625
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.29,
+      72.61,
+      555.58,
+      90.08
+    ],
+    "text": "The Plaintiff relied on their pedigree and the 4th Defendant reiterated the exclusion of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.581541061401367,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.58,
+      96.37,
+      554.91,
+      113.84
+    ],
+    "text": "Lot B in Plan No.3035A. At the trial the Plaintiffs did not give evidence but the 3A",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.591792106628418,
+      13.062847137451172,
+      13.100000381469727,
+      13.101699829101562,
+      13.305784225463867
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.58,
+      119.64,
+      555.44,
+      137.11
+    ],
+    "text": "Defendant was called to give evidence on their behalf. On 23.04.1991, applications were",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.958637237548828,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.38,
+      140.86,
+      555.4,
+      159.67
+    ],
+    "text": "made by Counsel for the 3rd ad 4th Defendants to adopt their respective evidence as they",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.370064735412598,
+      12.961973190307617,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.14,
+      165.49,
+      373.58,
+      182.96
+    ],
+    "text": "had died, and the applications were allowed by court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.78,
+      194.28,
+      555.15,
+      211.76
+    ],
+    "text": "It is to be noted in this case that the Plaintiffs and the 3A Defendant on the one side and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.69989013671875,
+      13.100000381469727,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.6,
+      217.8,
+      427.12,
+      235.28
+    ],
+    "text": "the 4A Defendant on the other, are at variance on three matters.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.03,
+      246.85,
+      295.74,
+      264.33
+    ],
+    "text": "(a) with regard to the corpus;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.107248306274414
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.04,
+      270.36,
+      363.88,
+      287.84
+    ],
+    "text": "(b) with regard to original ownership; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.169515609741211
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      120.81,
+      293.88,
+      364.07,
+      311.36
+    ],
+    "text": "(c) with regard to the devolution of rights.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.169515609741211
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.55,
+      322.43,
+      555.27,
+      339.91
+    ],
+    "text": "The Plaintiffs' claim is that their land is the Southern Portion of Amabagahawatte in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.51,
+      345.95,
+      555.64,
+      363.43
+    ],
+    "text": "extent 1 Rood 36 Perches, whereas the 4th Defendant's position is that the land shown",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.370064735412598,
+      12.751618385314941,
+      13.100000381469727,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.52,
+      369.01,
+      555.21,
+      386.49
+    ],
+    "text": "in Plan X is a portion of the Northern Portion of Ambagahawatte, which according to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.38,
+      392.62,
+      554.34,
+      411.04
+    ],
+    "text": "him is sometimes referred to as Northern half share of Ambagahawatte alias",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.928854942321777,
+      12.961973190307617,
+      13.100000381469727,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.82,
+      417.48,
+      168.52,
+      434.95
+    ],
+    "text": "Kosgahawatte.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.03,
+      446.52,
+      555.37,
+      463.99
+    ],
+    "text": "It must be noted that documentary evidence given in the case by deeds refer to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      13.100000381469727,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.99,
+      470.03,
+      555.07,
+      487.51
+    ],
+    "text": "corpus as a land in extent of 1 Rood 36 Perches, and some deeds give a lesser extent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.751618385314941,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.01,
+      492.59,
+      555.97,
+      510.07
+    ],
+    "text": "The Court has failed to look into the contradictory nature of the extent described in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.23,
+      515.64,
+      378.68,
+      533.11
+    ],
+    "text": "deeds produced and marked on behalf of the Plaintiffs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.85,
+      544.43,
+      556.46,
+      561.91
+    ],
+    "text": "According to the 4th Defendant, whose evidence was recorded before his death and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.476250648498535,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.44,
+      567.95,
+      556.29,
+      585.43
+    ],
+    "text": "adopted later, the land shown in Plan X includes a portion of the Northern half share of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.1,
+      592.19,
+      556.18,
+      609.82
+    ],
+    "text": "Ambagahawatte alias Kosgahawatte, and in order to show this he had taken a second",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.074930191040039,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.45,
+      615.96,
+      364.79,
+      633.43
+    ],
+    "text": "commission and secured the second Plan No.3035A.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.091748237609863,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.51,
+      644.28,
+      555.89,
+      661.75
+    ],
+    "text": "It must be noted that when the land was first surveyed by Surveyor R.W. Fernando,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.56,
+      667.55,
+      556.87,
+      685.03
+    ],
+    "text": "there was no distinct boundary that existed between the Northern and Southern",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.38,
+      689.88,
+      555.74,
+      707.35
+    ],
+    "text": "portions of Amabagahawatte. The dilapidated well was shown by the 4th Defendant as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.581541061401367,
+      12.961973190307617,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.94,
+      711.75,
+      556.86,
+      730.58
+    ],
+    "text": "a boundary only at the time of the second survey. If that be so, the question arises when",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.189444541931152,
+      14.476210594177246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.06,
+      735.01,
+      556.95,
+      752.48
+    ],
+    "text": "these two portions were actually separated and how the separated lots were possessed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      318.6,
+      757.68,
+      325.95,
+      770.75
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85.93,
+      72.6,
+      555.12,
+      90.07
+    ],
+    "text": "by the predecessors of the parties to this case as separate lots. The evidence of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.031320571899414,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85.93,
+      95.89,
+      554.78,
+      113.36
+    ],
+    "text": "parties on this material point has not been evaluated by the trial Judge. This is very",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.13,
+      119.4,
+      554.95,
+      136.88
+    ],
+    "text": "necessary to decide the exclusion of the Northern Portion from the corpus sought to be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85.93,
+      142.67,
+      325.74,
+      160.14
+    ],
+    "text": "partitioned, as claimed by the 4A Defendant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85.88,
+      171.46,
+      555.22,
+      188.95
+    ],
+    "text": "A clear finding of the Court is not available in the judgment of the trial Judge as to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.961973190307617,
+      13.100000381469727,
+      13.101699829101562
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      85.9,
+      194.53,
+      554.8,
+      212.01
+    ],
+    "text": "which portion of the land called Ambagahawatte, i.e., whether Lot A alone or Lot A and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.942502975463867,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.35,
+      217.32,
+      555.15,
+      234.8
+    ],
+    "text": "B together is to be partitioned. The evidence of 4th Defendant is that there was a barbed",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.871881484985352,
+      12.476250648498535,
+      13.100000381469727,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.37,
+      240.59,
+      554.69,
+      258.07
+    ],
+    "text": "wire fence separating the Northern portion from the Southern Portion, and his father",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.63,
+      264.11,
+      555.02,
+      281.59
+    ],
+    "text": "John removed it and shifted it to the North as he wanted to plant on a portion of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.961973190307617,
+      13.100000381469727,
+      13.285141944885254
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.52,
+      287.16,
+      555.11,
+      304.63
+    ],
+    "text": "corpus along with a portion of the land to the North. This evidence is not clearly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.101699829101562,
+      13.231490135192871
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.5,
+      310.43,
+      554.67,
+      327.91
+    ],
+    "text": "analyzed by the Court in coming to the conclusion that the issue raised by the 4A",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.001832008361816,
+      13.100000381469727,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.58,
+      333.49,
+      418.32,
+      350.96
+    ],
+    "text": "Defendant as to the exclusion claimed by him was not proved.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.961973190307617,
+      13.100000381469727,
+      13.101699829101562
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.53,
+      361.4,
+      554.72,
+      380.78
+    ],
+    "text": "This creates a doubt in the mind of any reasonable person. If the 4A Defendant's father",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.538277626037598,
+      13.100000381469727,
+      14.47472095489502
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.4,
+      385.56,
+      555.35,
+      403.04
+    ],
+    "text": "had shifted the barbed wire fence towards North would the owners of the Northern",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.3,
+      408.6,
+      320.63,
+      426.08
+    ],
+    "text": "land for the time being have permitted this?",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.4,
+      437.4,
+      555.6,
+      454.87
+    ],
+    "text": "A party may say anything as a witness to his advantage but in evaluation of that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.305784225463867
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.75,
+      460.67,
+      555.21,
+      478.15
+    ],
+    "text": "evidence the probabilities and the likelihood of the truth must be examined in the light",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.226786613464355
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.99,
+      483.95,
+      555.96,
+      501.43
+    ],
+    "text": "of the facts and circumstances. The Court has a bounden duty to discharge its duty in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.96,
+      507.23,
+      317.12,
+      524.71
+    ],
+    "text": "evaluating the evidence given by a witness.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.28,
+      535.79,
+      555.74,
+      553.27
+    ],
+    "text": "Having considered the evidence led in this case the learned District Judge has delivered",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.87,
+      558.83,
+      554.78,
+      576.31
+    ],
+    "text": "his judgment on 11.10.1995 answering the issues 7~11 raised by the 4A Defendant as",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.029993057250977,
+      12.486641883850098,
+      12.961973190307617,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.12,
+      585.35,
+      138.59,
+      597.95
+    ],
+    "text": "follows:~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      7.202689170837402
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.08,
+      611.4,
+      208.33,
+      629.11
+    ],
+    "text": "7. not proved",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.071690559387207,
+      13.100000381469727,
+      13.101699829101562
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.48,
+      631.57,
+      222.9,
+      649.04
+    ],
+    "text": "8. does not arise",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.594016075134277,
+      13.100000381469727,
+      13.101699829101562
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.55,
+      651.96,
+      208.33,
+      669.43
+    ],
+    "text": "9. not proved",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.261515617370605,
+      13.100000381469727,
+      13.101699829101562
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.04,
+      672.6,
+      222.9,
+      690.07
+    ],
+    "text": "10. does not arise",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.118878364562988,
+      13.100000381469727,
+      13.188749313354492
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      121.11,
+      692.28,
+      202.15,
+      709.75
+    ],
+    "text": "11. cannot be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.170737266540527,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.33,
+      715.33,
+      556.0,
+      732.81
+    ],
+    "text": "According to this judgment the learned trial Judge has held that the 4A Defendant has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.47,
+      737.88,
+      556.44,
+      755.36
+    ],
+    "text": "failed to prove that the Northern Portion shown in Plan No. 3035A is the Y2 share of the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.863934516906738,
+      12.881782531738281,
+      13.100000381469727,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      318.14,
+      757.97,
+      325.12,
+      770.37
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.05,
+      74.01,
+      555.36,
+      92.08
+    ],
+    "text": "land called Ambagahawatte alias Kosgahawatte and thereby rejected the claim of the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.031320571899414,
+      13.100000381469727,
+      13.348302841186523
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.34,
+      98.52,
+      555.07,
+      116.0
+    ],
+    "text": "4A Defendant for exclusion of that Northern Portion. But he has not given any reason",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.101699829101562,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.49,
+      121.56,
+      554.8,
+      139.03
+    ],
+    "text": "as to why he has rejected the exclusion that was sought. The learned District Judge has",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.75,
+      144.85,
+      554.57,
+      162.32
+    ],
+    "text": "just stated \"I examined the evidence given on behalf of the 4A Defendant\". He has also",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.842060089111328,
+      13.100000381469727,
+      13.110895156860352
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.45,
+      167.88,
+      554.33,
+      185.35
+    ],
+    "text": "said that since the 4A Defendant who claimed long prescriptive rights from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.001832008361816,
+      13.100000381469727,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.84,
+      190.93,
+      555.28,
+      208.41
+    ],
+    "text": "Meegamuwage Salaaman Fernando and Seeman Fernando has failed to prove his long",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.242969512939453
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.18,
+      214.19,
+      555.43,
+      231.67
+    ],
+    "text": "possession as stated in his amended statement of claim, he is not entitled to that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.101699829101562
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.18,
+      236.99,
+      132.03,
+      254.47
+    ],
+    "text": "portion.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.34,
+      266.28,
+      555.41,
+      283.76
+    ],
+    "text": "But the learned Judge decided to exclude the shop house and the soil under it as shown",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.961973190307617,
+      13.100000381469727,
+      13.285141944885254
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.26,
+      289.32,
+      428.52,
+      306.79
+    ],
+    "text": "as A in plan marked X from the corpus sought to be partitioned.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.04,
+      318.12,
+      554.86,
+      335.6
+    ],
+    "text": "This judgment on the whole is not a valid judgment giving definite reasons for its",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.02,
+      341.4,
+      554.77,
+      358.88
+    ],
+    "text": "findings. Other than giving a short summary of the oral and documentary evidence",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.28,
+      364.68,
+      554.42,
+      382.16
+    ],
+    "text": "given by the witnesses, the learned trial Judge has not given any tangible reasons for his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.51,
+      387.95,
+      407.59,
+      405.43
+    ],
+    "text": "conclusion to answer the issues raised by the 4A Defendant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.001832008361816,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.05,
+      416.75,
+      555.08,
+      434.23
+    ],
+    "text": "This is a partition action, in which the Court has a bounden duty to investigate the title",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.242969512939453
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.52,
+      439.8,
+      555.27,
+      457.27
+    ],
+    "text": "of the parties. This particular case, which had gone on appeal earlier, should have been",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.08,
+      462.85,
+      555.09,
+      480.33
+    ],
+    "text": "given utmost consideration by the trial Judge when he made his findings. 1 am therefore",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.5,
+      486.12,
+      554.9,
+      503.6
+    ],
+    "text": "of the view that the trial Judge has not gone into an exhaustive evaluation and analysis",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.5,
+      509.16,
+      498.69,
+      526.63
+    ],
+    "text": "of the evidence of the witnesses and the documents submitted by the parties.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.27,
+      537.95,
+      555.48,
+      555.43
+    ],
+    "text": "This is a peculiar partition action. The peculiarity is that while the earlier Judge had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.74,
+      561.01,
+      555.85,
+      578.49
+    ],
+    "text": "decided, on the oral and documentary evidence led in the case, to exclude the Northern",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.66,
+      584.28,
+      555.5,
+      601.75
+    ],
+    "text": "portion of the corpus, the subsequent Judge has denied exclusion. The Court of Appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.031320571899414,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.61,
+      607.33,
+      555.86,
+      624.81
+    ],
+    "text": "has in the earlier appeal had commented on the procedural defects in the judgment and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.97,
+      630.36,
+      555.68,
+      647.84
+    ],
+    "text": "decided to remit the case for re~trial and directed that due and proper steps must be",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.98478364944458,
+      13.100000381469727,
+      13.116739273071289
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.86,
+      653.15,
+      555.31,
+      670.63
+    ],
+    "text": "taken by Court to add the necessary parties as Defendants and grant them an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.961973190307617,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.97,
+      675.1,
+      555.73,
+      693.52
+    ],
+    "text": "opportunity to file answer if necessary. No decision was made by the Court of Appeal",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.019553184509277,
+      13.100000381469727,
+      14.222694396972656
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.98,
+      698.27,
+      177.16,
+      715.75
+    ],
+    "text": "about exclusion.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      317.35,
+      757.68,
+      324.7,
+      770.75
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      592.35,
+      608.65,
+      601.13,
+      641.52
+    ],
+    "text": "i t I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.599999904632568,
+      10.699999809265137,
+      15.300000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      592.86,
+      644.19,
+      601.17,
+      672.95
+    ],
+    "text": "f !",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      14.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      593.24,
+      667.79,
+      599.63,
+      683.59
+    ],
+    "text": "~ ,",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      4.129116058349609,
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.21,
+      73.45,
+      557.27,
+      91.06
+    ],
+    "text": "The present appeal is from the judgment of the subsequent Judge who has disallowed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.26,
+      96.74,
+      557.25,
+      114.35
+    ],
+    "text": "4A Defendant's claim for exclusion of the Northern portion. There is a defect in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.154520988464355,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      87.67,
+      120.26,
+      557.86,
+      137.87
+    ],
+    "text": "judgment as one surveys the decision of the trial Judge. He has not stated the reasons in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.165304183959961,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.07,
+      143.29,
+      557.15,
+      160.9
+    ],
+    "text": "his judgment on what ground or basis he has come to this decision. It is not the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.2,
+      166.82,
+      557.15,
+      184.43
+    ],
+    "text": "question whether the 4A Defendant's claim can be allowed or not allowed. But the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.051362991333008,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.44,
+      190.09,
+      557.33,
+      207.7
+    ],
+    "text": "question is when one Judge has granted exclusion and the other Judge refuses it, there",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.28,
+      212.89,
+      557.29,
+      230.5
+    ],
+    "text": "must be cogent evidence to arrive at this decision. This is necessary for a judgment to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.05,
+      236.41,
+      172.2,
+      254.02
+    ],
+    "text": "be legally valid.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.62,
+      265.69,
+      557.66,
+      283.3
+    ],
+    "text": "No doubt remanding the case back to the District Court for the second time to have a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.170867919921875,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.3,
+      288.98,
+      556.89,
+      306.58
+    ],
+    "text": "third trial (a trial de novo at that) should be discouraged. The Plaintiffs instituted this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.4,
+      312.01,
+      557.33,
+      329.62
+    ],
+    "text": "action on 30.08.1974, which is more than 4 decades ago. In this regard, the view",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.990487098693848,
+      13.173322677612305,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.18,
+      335.04,
+      555.68,
+      352.68
+    ],
+    "text": "expressed by Saleem Marsoof J. in his dissenting judgment, in Sopinona v.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.933991432189941,
+      13.04367446899414,
+      13.199999809265137,
+      13.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.42,
+      357.53,
+      556.16,
+      376.47
+    ],
+    "text": "Pitipanaarachchi and Two Others, 2010 (1) Sri LR. 87 is relevant to this case as well.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      12.593539237976074,
+      12.787814140319824,
+      13.071345329284668,
+      13.165304183959961,
+      13.199999809265137,
+      13.5,
+      13.639726638793945,
+      13.687005043029785
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.5,
+      383.05,
+      556.77,
+      400.78
+    ],
+    "text": "His Lordship said \"1 am also firmly of the opinion that, in any event, no useful purpose would be",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.56003189086914,
+      12.70215129852295,
+      12.714162826538086,
+      12.826416015625,
+      12.840523719787598,
+      12.848758697509766,
+      12.916768074035645,
+      12.917757034301758,
+      13.019097328186035,
+      13.064010620117188,
+      13.122359275817871,
+      13.129228591918945,
+      13.136959075927734,
+      13.140580177307129,
+      13.199999809265137,
+      13.385808944702148,
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.36,
+      408.89,
+      558.54,
+      426.22
+    ],
+    "text": "served by sending this case back to the original Court for trial de novo, as directed by the Court of",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.443115234375,
+      12.700082778930664,
+      12.731575012207031,
+      12.74857234954834,
+      12.805529594421387,
+      12.916768074035645,
+      12.931051254272461,
+      12.978842735290527,
+      12.980537414550781,
+      13.001032829284668,
+      13.093488693237305,
+      13.147979736328125,
+      13.153000831604004,
+      13.174467086791992,
+      13.282883644104004,
+      13.340327262878418,
+      13.399909973144531,
+      13.406160354614258,
+      14.08110237121582
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.26,
+      434.09,
+      556.23,
+      451.42
+    ],
+    "text": "Appeal. This would constitute a third trial of this case more than four decades since the matter was first",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.693876266479492,
+      12.74857234954834,
+      12.793326377868652,
+      12.891403198242188,
+      12.950309753417969,
+      13.030707359313965,
+      13.03157901763916,
+      13.08204174041748,
+      13.093488693237305,
+      13.119437217712402,
+      13.177107810974121,
+      13.281065940856934,
+      13.406160354614258,
+      13.425741195678711,
+      13.470986366271973,
+      13.542791366577148,
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.23,
+      458.9,
+      402.65,
+      476.63
+    ],
+    "text": "brought before the District Court\",See page 89 of the judgment.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.920337677001953,
+      13.008949279785156,
+      13.03157901763916,
+      13.199999809265137,
+      13.241125106811523,
+      13.622976303100586
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.75,
+      489.13,
+      557.76,
+      506.74
+    ],
+    "text": "Hence, I am strongly of the view that this case should be sent back only for the purpose",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.239689826965332
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.44,
+      512.42,
+      557.53,
+      530.02
+    ],
+    "text": "of perusing the evidence already led in this case and to decide the rights of parties and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.33,
+      535.46,
+      505.44,
+      553.07
+    ],
+    "text": "whether the exclusion claimed by the 4A Defendant should be allowed or not.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.154520988464355,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.72,
+      564.25,
+      557.34,
+      581.86
+    ],
+    "text": "I would therefore set aside the judgment of the trial Judge and remit the case back to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.53,
+      587.53,
+      557.85,
+      605.14
+    ],
+    "text": "the District Court of Panadura to pronounce the judgment on the material available, in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.53,
+      609.55,
+      558.22,
+      628.93
+    ],
+    "text": "which event parties may be permitted to make oral and if necessary written",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      14.589454650878906
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.85,
+      634.09,
+      557.87,
+      651.7
+    ],
+    "text": "submissions before the learned District Judge. It is my considered view that it is open",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.096343040466309,
+      13.199999809265137,
+      13.239689826965332,
+      13.536266326904297
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.77,
+      657.12,
+      557.99,
+      674.73
+    ],
+    "text": "to the new Judge to adopt the whole evidence already led in the case and pronounce the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      88.17,
+      679.27,
+      536.64,
+      697.27
+    ],
+    "text": "judgment if the parties consent to that procedure. In any event no costs are ordered.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.922292709350586,
+      13.199999809265137,
+      13.239689826965332,
+      14.280647277832031
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      335.92,
+      742.69,
+      555.74,
+      760.16
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.148509979248047,
+      13.166729927062988,
+      13.184974670410156
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      319.33,
+      761.04,
+      326.68,
+      774.11
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      594.4,
+      231.27,
+      602.95,
+      264.29
+    ],
+    "text": "! I I r l",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      4.199999809265137,
+      4.900100231170654,
+      5.500100135803223,
+      7.900100231170654,
+      14.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      593.96,
+      585.35,
+      607.23,
+      686.52
+    ],
+    "text": "iII",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.600000381469727,
+      38.40010070800781,
+      46.20009994506836
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      596.09,
+      679.61,
+      600.99,
+      696.42
+    ],
+    "text": "J",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      595.4,
+      706.68,
+      600.36,
+      746.51
+    ],
+    "text": "tt!l'",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.328943252563477,
+      12.0,
+      14.5,
+      14.699999809265137
+    ]
+  }
+]

@@ -1,0 +1,4200 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      2.34,
+      3.36,
+      13.16,
+      41.48
+    ],
+    "text": "t t",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      17.799999237060547,
+      20.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      3.33,
+      34.31,
+      9.9,
+      48.74
+    ],
+    "text": "\" ; ,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      2.7000999450683594,
+      5.300099849700928,
+      10.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      0.55,
+      68.76,
+      36.65,
+      225.84
+    ],
+    "text": "1 I I I J i",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273,
+      12.699999809265137,
+      13.800000190734863,
+      18.5,
+      57.90010070800781,
+      64.40010070800781
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      0.22,
+      325.21,
+      16.19,
+      395.27
+    ],
+    "text": "I i 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      21.299999237060547,
+      22.100000381469727,
+      25.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      40.64,
+      30.71,
+      49.7,
+      53.1
+    ],
+    "text": ",",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      16.299999237060547
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      123.2,
+      109.69,
+      498.42,
+      122.42
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      8.662480354309082,
+      8.799431800842285,
+      8.890595436096191,
+      8.899999618530273,
+      9.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.32,
+      159.17,
+      510.44,
+      172.91
+    ],
+    "text": "lb & 19a Suduhakuruge Magilin Nona of Elagalle",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5,
+      9.892971992492676,
+      10.0,
+      11.02551555633545
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      336.74,
+      184.9,
+      387.02,
+      197.95
+    ],
+    "text": "Undugoda.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      392.81,
+      211.22,
+      541.58,
+      223.45
+    ],
+    "text": "1b and 19a Defendant-Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.948915481567383,
+      9.057260513305664,
+      9.11602783203125,
+      9.246167182922363
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      79.32,
+      236.66,
+      303.07,
+      248.89
+    ],
+    "text": "CA Appeal No.552/99 (F) Vs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.793461799621582,
+      8.899999618530273,
+      8.981278419494629,
+      9.183096885681152
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      79.48,
+      261.86,
+      212.38,
+      274.09
+    ],
+    "text": "D.C.Kegalle Case No.18343/P",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.899999618530273,
+      9.136556625366211
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.09,
+      285.76,
+      460.31,
+      299.24
+    ],
+    "text": "1. Suduhakuruge Babanis (Deceased)",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.24,
+      311.39,
+      454.33,
+      324.44
+    ],
+    "text": "la. Suduhakuruge Simon (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5,
+      10.011006355285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.34,
+      335.4,
+      492.79,
+      350.8
+    ],
+    "text": "lb. Shelton Wijesinghe of Elagalle,Undugoda.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.637578964233398,
+      10.657208442687988,
+      10.698262214660645,
+      11.0,
+      11.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.88,
+      361.79,
+      443.75,
+      374.84
+    ],
+    "text": "2. Suduhakuruge Allis (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.40446949005127,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.84,
+      387.22,
+      521.21,
+      400.27
+    ],
+    "text": "2a. Suduhakuruge lIangaratne of Elagalle,Undugoda",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.384750366210938,
+      9.5,
+      9.75838565826416
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.85,
+      412.66,
+      455.08,
+      425.71
+    ],
+    "text": "3. Suduhakuruge Singha (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.25550365447998,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.85,
+      437.63,
+      461.78,
+      450.68
+    ],
+    "text": "3a. Suduhakuruge Sirineris (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.390266418457031,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.85,
+      463.79,
+      531.97,
+      476.84
+    ],
+    "text": "3b. Samarappuli Gedera Chandra Ranaseeli of Elagalle",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5,
+      9.75838565826416
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.42,
+      488.26,
+      358.7,
+      501.31
+    ],
+    "text": "Undugoda.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.45,
+      513.47,
+      461.53,
+      526.52
+    ],
+    "text": "4. Suduhakuruge Kirineris (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.45,
+      538.66,
+      533.21,
+      551.71
+    ],
+    "text": "4a. Suduhakuruge Mavurarathne of Elagalle,Undugoda",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.45413875579834,
+      9.5,
+      9.892971992492676
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.61,
+      563.87,
+      445.21,
+      576.92
+    ],
+    "text": "5. Suduhakuruge Elisa (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.2465181350708,
+      9.340612411499023,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.61,
+      589.3,
+      402.17,
+      602.35
+    ],
+    "text": "Sa. Suduhakuruge Simon",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.025078773498535,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.61,
+      614.5,
+      403.5,
+      627.55
+    ],
+    "text": "5b. Suduhakuruge Pabilis",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.61,
+      639.7,
+      401.67,
+      652.75
+    ],
+    "text": "5c. Suduhakuruge Albert",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.400832176208496,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.4,
+      664.66,
+      395.05,
+      677.71
+    ],
+    "text": "sd. Suduhakuruge Lilina",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.4,
+      689.38,
+      427.36,
+      702.43
+    ],
+    "text": "se. Suduhakuruge Somawathie",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.36,
+      714.11,
+      417.52,
+      727.16
+    ],
+    "text": "Sf. Suduhakuruge Selenchina",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.353571891784668,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.13,
+      758.91,
+      313.63,
+      772.25
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.57,
+      109.52,
+      430.22,
+      122.3
+    ],
+    "text": "5g. Suduhakuruge Saralawathie",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.285538673400879,
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.57,
+      135.2,
+      410.19,
+      147.98
+    ],
+    "text": "5h. Suduhakuruge Subsena",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.57,
+      160.16,
+      428.85,
+      172.94
+    ],
+    "text": "5i. Suduhakuruge lIangarathne",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.56,
+      185.35,
+      435.62,
+      198.13
+    ],
+    "text": "Sj. Suduhakuruge Dharmarathne",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.153343200683594,
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.33,
+      210.31,
+      464.55,
+      223.09
+    ],
+    "text": "5k. Suduhakuruge Pushpawathie ,All of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863,
+      9.78828239440918
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      289.7,
+      225.67,
+      375.61,
+      238.45
+    ],
+    "text": "Elagalle,Undugoda.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      429.87,
+      251.35,
+      539.5,
+      264.85
+    ],
+    "text": "Plaintiffs - Respondents",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.654165267944336,
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.94,
+      276.79,
+      439.73,
+      289.57
+    ],
+    "text": "1a. Suduhakuruge Kira (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.03,
+      302.23,
+      430.59,
+      315.01
+    ],
+    "text": "lb. Suduhakuruge Magilin Nona",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863,
+      10.203784942626953
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.92,
+      327.43,
+      392.27,
+      340.21
+    ],
+    "text": "2a. Suduhakuruge Sunil",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.285438537597656,
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.65,
+      352.88,
+      501.77,
+      365.66
+    ],
+    "text": "3a. Sunanda Siriwardena, of Elagalle, Undugoda.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.290946006774902,
+      9.300000190734863,
+      9.919656753540039
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.49,
+      378.31,
+      478.56,
+      391.09
+    ],
+    "text": "4. Gallath Ralalge Dharmasena Gunesekara",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.265636444091797,
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.66,
+      403.52,
+      447.72,
+      416.3
+    ],
+    "text": "5.Suduhakuruge Lami alias Sirisena",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.66,
+      428.71,
+      472.64,
+      441.49
+    ],
+    "text": "6. Gallath Ralalage Appuhamy (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.150447845458984,
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.42,
+      453.67,
+      436.82,
+      466.45
+    ],
+    "text": "6a. Gallath Ralalage Dingiri Banda",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.15,
+      479.36,
+      479.33,
+      492.14
+    ],
+    "text": "7. Gallath Ralalage Ukku Banda (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.39,
+      504.8,
+      464.2,
+      517.58
+    ],
+    "text": "7a. Parana Gallath Ralalage Gunesekera",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.18,
+      529.99,
+      431.23,
+      542.77
+    ],
+    "text": "8. Gallath Ralalage Dingiri Banda",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.154004096984863,
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.41,
+      554.95,
+      454.71,
+      567.73
+    ],
+    "text": "9. Parana Gallath Ralalage Appuhamy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.155781745910645,
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.22,
+      579.91,
+      464.1,
+      592.69
+    ],
+    "text": "10. Parana Gallath Ralalage Hethuhamy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863,
+      9.306497573852539
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      286.98,
+      606.07,
+      460.1,
+      618.85
+    ],
+    "text": "11. Parana Gallath Ralalage Mudiyanse",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.22,
+      630.79,
+      464.35,
+      643.57
+    ],
+    "text": "12. Parana Gallath Ralalage Heen Banda",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.22,
+      656.23,
+      470.83,
+      669.01
+    ],
+    "text": "13. Parana Gallath Ralalage Punchi Banda",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      287.22,
+      680.48,
+      498.27,
+      693.27
+    ],
+    "text": "14. Parana Gallath Ralalage Amarisa (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      286.99,
+      705.2,
+      454.51,
+      717.98
+    ],
+    "text": "14a. Parana Gallath Ralalage Piyadasa",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      286.98,
+      730.64,
+      440.28,
+      743.42
+    ],
+    "text": "15. Marasinghe Ralalage Kiribanda",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.4,
+      760.21,
+      314.49,
+      773.54
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -4.71,
+      -7.41,
+      17.36,
+      53.03
+    ],
+    "text": "I ,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      31.600000381469727,
+      39.70009994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      -4.42,
+      46.3,
+      28.02,
+      315.24
+    ],
+    "text": ", j I I I J I 1 l I 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.900100231170654,
+      9.300000190734863,
+      9.600000381469727,
+      10.5,
+      11.100000381469727,
+      15.300000190734863,
+      17.299999237060547,
+      18.20009994506836,
+      18.899999618530273,
+      25.70009994506836,
+      48.29999923706055,
+      55.29999923706055,
+      57.599998474121094
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      285.3,
+      109.52,
+      451.53,
+      122.3
+    ],
+    "text": "16. Suduhakuruge Jothiya (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      299.53,
+      134.71,
+      413.69,
+      147.49
+    ],
+    "text": "All of Elagalle, Undugoda.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863,
+      9.78828239440918
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      285.06,
+      160.64,
+      496.79,
+      173.42
+    ],
+    "text": "16a. Suduhakuruge Martin Alias Manawasinghe",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863,
+      9.43773078918457
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      297.0,
+      185.59,
+      500.87,
+      198.37
+    ],
+    "text": "Samaradivakara, of \"Fiscal Watta\",Waldeniya,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863,
+      9.78828239440918
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      297.4,
+      210.55,
+      332.74,
+      223.33
+    ],
+    "text": "Kegalle.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      282.42,
+      236.0,
+      441.21,
+      248.78
+    ],
+    "text": "17. Suduhakuruge Baiya (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      282.43,
+      261.21,
+      409.67,
+      273.98
+    ],
+    "text": "17a. Suduhakuruge Piyasena",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      282.44,
+      286.88,
+      457.99,
+      299.66
+    ],
+    "text": "18. Suduhakuruge Kirisanda (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      282.45,
+      312.32,
+      392.34,
+      325.1
+    ],
+    "text": "18a. Suduhakuruge Sima",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      282.18,
+      337.75,
+      434.73,
+      350.53
+    ],
+    "text": "19. Suduhakuruge Kira (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      282.16,
+      362.72,
+      510.0,
+      375.5
+    ],
+    "text": "20. Parana Gallath Ralalage Ukku Banda (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      282.16,
+      388.39,
+      478.67,
+      401.17
+    ],
+    "text": "20a. Parana Gallath Ralalage Premawardena",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      282.16,
+      413.6,
+      457.7,
+      426.38
+    ],
+    "text": "21. Parana Gallath Ralalage Tikiri Banda",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      282.16,
+      438.79,
+      450.43,
+      451.57
+    ],
+    "text": "22. Parana Gallath Ralalage Kiri Banda",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      281.92,
+      464.0,
+      455.48,
+      476.78
+    ],
+    "text": "23. Marasin Arachchilage Dingiri Banda",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      281.93,
+      488.95,
+      455.3,
+      501.73
+    ],
+    "text": "24. Parana Gallath Ralalage Mudiyanse",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      281.92,
+      515.11,
+      488.04,
+      527.89
+    ],
+    "text": "25. Parana Gallath Ralalage Dingiri Appuhamy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.52,
+      539.83,
+      351.87,
+      552.61
+    ],
+    "text": "(Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      281.69,
+      565.28,
+      502.17,
+      578.06
+    ],
+    "text": "2Sa. Parana Gallath Ralalage Punchi Mahathmaya",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.199254035949707,
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      281.68,
+      590.47,
+      494.91,
+      603.25
+    ],
+    "text": "26. Suduhakuruge Willam Singho, All of Elagalle,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863,
+      9.78828239440918
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.23,
+      615.68,
+      399.92,
+      628.46
+    ],
+    "text": "Undugoda (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      281.44,
+      641.59,
+      518.22,
+      654.37
+    ],
+    "text": "26a. Tennegedera Leelawathie of No.148,314 Colony,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863,
+      9.655119895935059
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      303.33,
+      666.31,
+      465.01,
+      679.09
+    ],
+    "text": "Weerapura,Thambala,Polionnaruwa",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      281.44,
+      690.79,
+      457.28,
+      703.57
+    ],
+    "text": "27. Suduhakuruge Kirisanda (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      281.44,
+      715.51,
+      450.82,
+      728.29
+    ],
+    "text": "27a. Suduhakuruge Sima ( Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.61,
+      761.04,
+      307.96,
+      774.11
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      597.14,
+      452.38,
+      602.31,
+      524.41
+    ],
+    "text": ",Ilt,i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.800099849700928,
+      7.599999904632568,
+      12.399999618530273,
+      13.399999618530273,
+      19.20009994506836,
+      23.299999237060547
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      597.57,
+      555.9,
+      600.68,
+      575.14
+    ],
+    "text": "i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      597.53,
+      579.35,
+      602.48,
+      596.24
+    ],
+    "text": "~J",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.979949712753296,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      597.75,
+      725.42,
+      603.6,
+      741.5
+    ],
+    "text": "J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.34,
+      362.73,
+      203.23,
+      377.81
+    ],
+    "text": "Before: M.M.A. Gaffoor J.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.00880241394043,
+      10.052721977233887,
+      10.399999618530273,
+      10.451601028442383
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      113.45,
+      395.67,
+      191.39,
+      409.27
+    ],
+    "text": "Janak De Silva J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.147231101989746,
+      9.833727836608887,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      289.36,
+      109.59,
+      490.0,
+      123.19
+    ],
+    "text": "27b. Suduhakuruge Dharmasinghe of Elagalle",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.865740776062012,
+      9.899999618530273,
+      10.099098205566406
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      311.53,
+      135.03,
+      361.15,
+      148.63
+    ],
+    "text": "Undugoda.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      289.36,
+      159.99,
+      503.34,
+      173.59
+    ],
+    "text": "28. Parana Gallath Ralalage Pinchi Appuhamy of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.729430198669434,
+      9.770047187805176,
+      9.784222602844238,
+      9.899999618530273,
+      9.961708068847656
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      306.73,
+      185.91,
+      451.59,
+      199.51
+    ],
+    "text": "Haloluwa,Hettimlia (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      289.36,
+      210.88,
+      471.69,
+      224.48
+    ],
+    "text": "28a. Parana Gallath Ralalage Heen Banda",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.726937294006348,
+      9.774656295776367,
+      9.778554916381836,
+      9.784222602844238,
+      9.810192108154297,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      289.36,
+      236.32,
+      452.04,
+      249.92
+    ],
+    "text": "29. Suduhakuruge Simon (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.770047187805176,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      289.36,
+      261.76,
+      468.15,
+      275.36
+    ],
+    "text": "29a. Suduhakuruge Piyadasa (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.774656295776367,
+      9.804691314697266,
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      289.36,
+      286.95,
+      517.82,
+      300.56
+    ],
+    "text": "29b. Hakurukatulandalage Ema Nona ,All of Elagalle",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.443106651306152,
+      9.82884407043457,
+      9.883987426757812,
+      9.899999618530273,
+      10.099098205566406
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      311.29,
+      312.4,
+      361.46,
+      326.0
+    ],
+    "text": "Undugoda.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      421.46,
+      337.59,
+      536.97,
+      351.2
+    ],
+    "text": "Defendants-Respondents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.41,
+      427.53,
+      391.79,
+      441.82
+    ],
+    "text": "Counsel: Sudarshani Coorey for lb and 19a Defendant-Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      9.931449890136719,
+      10.312026023864746,
+      10.399999618530273,
+      11.520089149475098
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.23,
+      453.69,
+      410.83,
+      467.98
+    ],
+    "text": "L. Amerasinghe for lb, 2b, 3b and 4a Plaintiffs-Respondents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.208890914916992,
+      9.8224458694458,
+      9.899999618530273,
+      10.312026023864746,
+      10.925215721130371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.29,
+      485.37,
+      246.47,
+      499.66
+    ],
+    "text": "Written Submissions tendered on:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.4045991897583,
+      10.475773811340332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.79,
+      517.11,
+      336.78,
+      530.71
+    ],
+    "text": "lb and 19a Defendant Appellant on 10th January 2018",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.9272236824035645,
+      9.899999618530273,
+      9.944948196411133,
+      9.99330997467041,
+      11.388456344604492
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.33,
+      542.67,
+      223.01,
+      558.46
+    ],
+    "text": "Argued on: 19th October 2017",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.399999618530273,
+      9.899999618530273,
+      9.904548645019531,
+      10.028663635253906,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.56,
+      574.97,
+      230.86,
+      589.66
+    ],
+    "text": "Decided on: 15th February 2018",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.199999809265137,
+      9.899999618530273,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75.76,
+      607.05,
+      156.14,
+      621.34
+    ],
+    "text": "Janak De Silva J.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.921911239624023,
+      10.181351661682129,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.26,
+      639.03,
+      537.87,
+      652.63
+    ],
+    "text": "This order pertains to an application made by the lb and 19a Defendant-Appellant (Appellant) for an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.615872383117676,
+      9.763052940368652,
+      9.802165985107422,
+      9.899999618530273,
+      9.955394744873047,
+      10.12948989868164,
+      10.154869079589844,
+      11.520089149475098
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.46,
+      661.83,
+      538.69,
+      675.43
+    ],
+    "text": "order of Court under section 81(9) of the Partition Law No. 21 of 1977 (Partition Law) to declare",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      9.919580459594727,
+      10.011175155639648,
+      10.05163860321045,
+      10.073381423950195,
+      10.287611961364746,
+      10.3684663772583,
+      10.50053596496582
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.27,
+      682.71,
+      538.44,
+      696.31
+    ],
+    "text": "that any orders or judgements made by this Court and any step, arguments or proceedings taken",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      9.902349472045898,
+      9.938624382019043,
+      10.017799377441406,
+      10.1876220703125,
+      10.301603317260742
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.61,
+      704.07,
+      539.32,
+      717.67
+    ],
+    "text": "before this Court will not be invalid due to non-appointment of a legal representative to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.899999618530273,
+      9.902349472045898,
+      9.926514625549316,
+      10.03078556060791,
+      10.06536865234375,
+      10.246148109436035,
+      10.3684663772583,
+      10.418710708618164
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.85,
+      725.43,
+      537.55,
+      739.03
+    ],
+    "text": "represent the estate of a deceased party or person in this appeal. In the alternative an order is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.389908790588379,
+      9.899999618530273,
+      9.973774909973145,
+      10.011175155639648,
+      10.05163860321045,
+      10.069597244262695,
+      10.131102561950684,
+      10.175224304199219,
+      10.50053596496582
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.8,
+      761.07,
+      311.3,
+      774.41
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      -5.92,
+      84.52,
+      21.16,
+      190.46
+    ],
+    "text": "I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      17.600000381469727,
+      40.599998474121094,
+      48.70009994506836
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      -5.72,
+      254.32,
+      17.41,
+      315.79
+    ],
+    "text": "1 I",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      17.399999618530273,
+      41.599998474121094
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      -4.27,
+      303.0,
+      9.07,
+      335.98
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      24.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.87,
+      110.38,
+      534.92,
+      124.81
+    ],
+    "text": "sought that any party who claims that a party in this matter has died should produce to this Court",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.282905578613281,
+      10.5,
+      10.532350540161133,
+      10.533696174621582,
+      10.594772338867188,
+      10.623770713806152
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.1,
+      132.22,
+      394.31,
+      146.65
+    ],
+    "text": "death certificates and other documents necessary for substitution.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.524820327758789,
+      10.619915962219238
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.65,
+      164.15,
+      534.75,
+      178.58
+    ],
+    "text": "The Appellant has in her affidavit sought to explain the background to this application. It is stated",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.364171028137207,
+      10.37485408782959,
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.43,
+      182.88,
+      534.66,
+      200.17
+    ],
+    "text": "that the 8th, 9th, 11th, 12th, 13th, 15th, 2Pt, 22 nd and 24th Defendants-Respondents (Defendants)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.022982120513916,
+      8.535872459411621,
+      8.704922676086426,
+      9.600000381469727,
+      9.602899551391602,
+      9.713924407958984,
+      9.84585189819336,
+      10.26461124420166,
+      10.465493202209473,
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.75,
+      207.83,
+      534.05,
+      222.26
+    ],
+    "text": "have passed away and that except for the 11th and 24th Defendants, who are one and the same,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727,
+      10.497349739074707,
+      10.5,
+      10.623770713806152,
+      10.712646484375
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.67,
+      229.66,
+      534.37,
+      244.09
+    ],
+    "text": "the Appellant is unaware of the whereabouts of the other deceased parties as their families had",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.925800323486328,
+      10.065145492553711,
+      10.489344596862793,
+      10.5,
+      10.540223121643066,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.0,
+      251.51,
+      535.5,
+      265.94
+    ],
+    "text": "left the village. Accordingly, the Appellant is unable to obtain the death certificates and other",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.869680404663086,
+      10.5,
+      10.514739990234375,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.85,
+      273.35,
+      418.38,
+      287.78
+    ],
+    "text": "documentation to effect substitution on behalf of the deceased parties.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.477476119995117,
+      10.5,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.92,
+      308.86,
+      534.93,
+      323.29
+    ],
+    "text": "In this context it is important to consider the provisions of section 81(9) of the Partition Law",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.252840995788574,
+      10.378547668457031,
+      10.5,
+      10.526466369628906,
+      10.678040504455566,
+      10.729785919189453,
+      10.814053535461426,
+      10.90320873260498
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.72,
+      331.43,
+      334.93,
+      345.86
+    ],
+    "text": "which is relied on by the Appellant. It reads as follows:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      9.869680404663086,
+      10.5,
+      10.595316886901855
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.66,
+      366.94,
+      535.1,
+      381.37
+    ],
+    "text": "\"Notwithstanding that a party or person has failed to file a memorandum under the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.20094108581543,
+      10.5,
+      10.557990074157715,
+      10.609182357788086,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.36,
+      388.78,
+      534.76,
+      403.21
+    ],
+    "text": "provisions of this section, and that there has been no appointment of a legal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.364171028137207,
+      10.5,
+      10.540223121643066,
+      10.557990074157715
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.6,
+      410.38,
+      535.34,
+      424.81
+    ],
+    "text": "representative to represent the estate of such deceased party or person, any judgment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.44545841217041,
+      10.5,
+      10.514739990234375,
+      10.609182357788086,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.22,
+      432.22,
+      535.31,
+      446.65
+    ],
+    "text": "or decree entered in the action or any order made, partition or sale effected or thing",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.609182357788086,
+      10.737807273864746
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.46,
+      454.3,
+      535.35,
+      468.73
+    ],
+    "text": "done in the action shall be deemed to be valid and effective and in conformity with the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.416366577148438,
+      10.5,
+      10.514739990234375,
+      10.594772338867188
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.36,
+      475.9,
+      534.78,
+      490.33
+    ],
+    "text": "provisions of this Law and shall bind the legal heirs and representatives of such deceased",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.44847297668457,
+      10.5,
+      10.678040504455566,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.61,
+      497.74,
+      535.69,
+      512.17
+    ],
+    "text": "party or person. Such failure to file a memorandum shall also not be a ground for",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.343077659606934,
+      10.416366577148438,
+      10.5,
+      10.526317596435547,
+      10.552070617675781,
+      10.609182357788086,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.36,
+      519.34,
+      327.12,
+      533.77
+    ],
+    "text": "invalidating the proceedings in such action.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.16,
+      569.1,
+      534.46,
+      584.12
+    ],
+    "text": "In Chandrasiri v. Abusali et all the Supreme Court held that section 81(9) of the Partition Law has",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.20094108581543,
+      10.252840995788574,
+      10.308197975158691,
+      10.5,
+      10.514739990234375,
+      10.557990074157715,
+      10.678040504455566,
+      11.266751289367676,
+      12.084919929504395,
+      12.179105758666992,
+      12.300000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.24,
+      587.99,
+      535.1,
+      605.29
+    ],
+    "text": "no retrospective operation. This partition action was filed on 10th July 1967. Hence the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.535872459411621,
+      9.621376037597656,
+      9.713924407958984,
+      10.470759391784668,
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.85,
+      612.7,
+      534.65,
+      627.13
+    ],
+    "text": "application made by the Appellant for an order of Court under section 81(9) of the Partition Law",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727,
+      10.258881568908691,
+      10.308197975158691,
+      10.5,
+      10.619915962219238,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.21,
+      634.78,
+      534.8,
+      649.21
+    ],
+    "text": "No. 21 of 1977 to declare that any orders or judgements made by this Court and any step,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.600000381469727,
+      9.732732772827148,
+      10.340792655944824,
+      10.5,
+      10.557990074157715,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.85,
+      656.38,
+      536.5,
+      670.81
+    ],
+    "text": "arguments or proceedings taken before this Court will not be invalid due to non-appointment of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.416366577148438,
+      10.5,
+      10.678040504455566,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.23,
+      740.99,
+      350.77,
+      752.81
+    ],
+    "text": "1 S.c.(HCCA)(LA) 172/2012 and 173/2012; S.c. Minutes of 19.11.2015",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.199999809265137,
+      8.600000381469727,
+      8.889333724975586
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      300.37,
+      762.19,
+      308.04,
+      774.83
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      -5.83,
+      78.88,
+      19.47,
+      214.57
+    ],
+    "text": "J I I I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.600000381469727,
+      15.300000190734863,
+      22.299999237060547,
+      44.20009994506836,
+      45.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      -5.9,
+      230.41,
+      20.79,
+      297.55
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      48.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      -5.16,
+      288.65,
+      16.47,
+      342.1
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      38.90010070800781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73.09,
+      110.04,
+      535.25,
+      124.61
+    ],
+    "text": "a legal representative to represent the estate of a deceased party or person in this appeal must",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727,
+      10.659582138061523,
+      10.865427017211914,
+      10.914679527282715
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73.24,
+      131.87,
+      236.37,
+      146.44
+    ],
+    "text": "be rejected on that ground alone.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.465850830078125,
+      10.600000381469727,
+      10.674240112304688
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73.19,
+      167.4,
+      501.53,
+      181.97
+    ],
+    "text": "However, there are other reasons as to why such an order cannot be made by this Court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.972953796386719,
+      10.189813613891602,
+      10.55595874786377,
+      10.581483840942383,
+      10.600000381469727,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.65,
+      202.93,
+      536.25,
+      217.49
+    ],
+    "text": "There are different statutory provisions which apply when a party dies during the pendency of a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73.24,
+      225.25,
+      535.12,
+      239.81
+    ],
+    "text": "partition action in the District Court or the appeal in the High Court/Court of Appeal/Supreme",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.593498229980469,
+      10.600000381469727,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73.29,
+      247.31,
+      103.96,
+      261.88
+    ],
+    "text": "Court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.82,
+      282.83,
+      381.06,
+      297.4
+    ],
+    "text": "Section 48(1) of the Partition Law as amended states as follows:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.844259262084961,
+      9.972953796386719,
+      10.427852630615234,
+      10.600000381469727,
+      10.865427017211914
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.38,
+      318.37,
+      535.38,
+      332.93
+    ],
+    "text": "\"Save as provided in subsection (5) of this section, the interlocutory decree",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.972953796386719,
+      10.593498229980469,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.41,
+      340.44,
+      535.12,
+      355.01
+    ],
+    "text": "entered under section 26 and the final decree of partition entered under section",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.545158386230469,
+      10.600000381469727,
+      10.865427017211914
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.4,
+      362.27,
+      535.39,
+      376.84
+    ],
+    "text": "36 shall, subject to the decision on any appeal which may be preferred therefrom,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.437454223632812,
+      10.465850830078125,
+      10.527250289916992,
+      10.600000381469727,
+      10.914679527282715
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.17,
+      383.89,
+      536.83,
+      398.45
+    ],
+    "text": "and in the case of an interlocutory decree, subject also to the provisions of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.189813613891602,
+      10.418190956115723,
+      10.600000381469727,
+      10.64510440826416,
+      10.865427017211914
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.43,
+      405.95,
+      535.38,
+      420.52
+    ],
+    "text": "subsection (4) of this section, be good and sufficient evidence of the title of any",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.465850830078125,
+      10.536258697509766,
+      10.600000381469727,
+      10.728768348693848,
+      10.865427017211914
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.31,
+      427.79,
+      534.77,
+      442.36
+    ],
+    "text": "person as to any right, share or interest awarded therein to him and be final and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.972953796386719,
+      10.348926544189453,
+      10.558568954467773,
+      10.600000381469727,
+      10.64510440826416,
+      10.659582138061523,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.16,
+      449.4,
+      535.78,
+      463.97
+    ],
+    "text": "conclusive for all purposes against all persons whomsoever, whatever right, title",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727,
+      10.763538360595703
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.42,
+      471.73,
+      535.33,
+      486.29
+    ],
+    "text": "or interest they have, or claim to have, to or in the land to which such decree",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.495080947875977,
+      10.593498229980469,
+      10.600000381469727,
+      10.64510440826416,
+      10.659582138061523,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.32,
+      493.33,
+      536.24,
+      507.89
+    ],
+    "text": "relates and notwithstanding any omission or defect of procedure or in the proof",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.593498229980469,
+      10.600000381469727,
+      10.659582138061523,
+      10.865427017211914
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.17,
+      515.16,
+      535.8,
+      529.73
+    ],
+    "text": "of title adduced before the court or the fact that all persons concerned are not",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727,
+      10.674240112304688,
+      10.865427017211914
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.56,
+      536.76,
+      534.97,
+      551.32
+    ],
+    "text": "parties to the partition action; and the right, share or interest awarded by any such",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.495080947875977,
+      10.600000381469727,
+      10.659582138061523,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.42,
+      558.6,
+      535.39,
+      573.17
+    ],
+    "text": "decree shall be free from all encumbrances whatsoever other than those specified",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.465850830078125,
+      10.594799041748047,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.29,
+      580.19,
+      215.52,
+      594.76
+    ],
+    "text": "in that decree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727,
+      10.674240112304688
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.48,
+      615.95,
+      536.27,
+      630.52
+    ],
+    "text": "In this subsection \"omission or defect of procedure\" includes an omission or",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.307618141174316,
+      10.466358184814453,
+      10.600000381469727,
+      10.659582138061523,
+      10.865427017211914
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.02,
+      637.79,
+      180.55,
+      652.36
+    ],
+    "text": "failure -",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      143.34,
+      673.31,
+      329.38,
+      687.88
+    ],
+    "text": "(a) to serve summons on any party; or",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.428208351135254,
+      10.600000381469727,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      300.59,
+      760.86,
+      308.24,
+      774.47
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      -4.99,
+      137.8,
+      17.97,
+      231.96
+    ],
+    "text": "I I 1",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.399999618530273,
+      15.899999618530273,
+      26.299999237060547,
+      41.29999923706055
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      -4.94,
+      247.54,
+      9.87,
+      319.78
+    ],
+    "text": "1 I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      18.20009994506836,
+      19.5,
+      19.600000381469727,
+      22.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.33,
+      109.22,
+      535.03,
+      123.92
+    ],
+    "text": "(b) to substitute the heirs or legal representatives of a party who dies pending the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.693347930908203,
+      10.699999809265137,
+      10.709745407104492,
+      10.779256820678711,
+      10.831491470336914
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.17,
+      131.77,
+      534.67,
+      146.48
+    ],
+    "text": "action or to appoint a person to represent the estate of the deceased party for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.709745407104492,
+      10.720580101013184,
+      10.831491470336914,
+      10.916558265686035
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.07,
+      152.65,
+      270.52,
+      167.36
+    ],
+    "text": "purposes of the action; or",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.709745407104492,
+      10.779256820678711
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142.86,
+      188.89,
+      534.4,
+      203.59
+    ],
+    "text": "(c) to appoint a guardian ad litem of a party who is a minor or a person of unsound",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.47314453125,
+      10.52242660522461,
+      10.699999809265137,
+      10.779256820678711,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142.83,
+      210.24,
+      177.77,
+      224.95
+    ],
+    "text": "mind.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.41,
+      246.73,
+      534.16,
+      261.43
+    ],
+    "text": "This section applies only to the District Court proceedings and has no application to the High",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.380375862121582,
+      10.5700101852417,
+      10.58503246307373,
+      10.699999809265137,
+      10.831491470336914,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.81,
+      268.48,
+      534.78,
+      283.51
+    ],
+    "text": "Court/Court of Appeal and the Supreme Court. 2 In Karunawathie v. Piyasena and others3 the",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.599999904632568,
+      7.800099849700928,
+      9.522397994995117,
+      10.181696891784668,
+      10.300000190734863,
+      10.305398941040039,
+      10.699999809265137,
+      10.779256820678711
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.58,
+      290.42,
+      535.64,
+      305.12
+    ],
+    "text": "Supreme Court held that when a party to a case had died during the pendency of that case, it",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.40544605255127,
+      10.44936466217041,
+      10.58877182006836,
+      10.699999809265137,
+      10.724471092224121,
+      10.7748384475708,
+      10.779256820678711
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.72,
+      312.25,
+      534.19,
+      326.95
+    ],
+    "text": "would not be possible for the Court to proceed with that matter without apPointing a legal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.51510238647461,
+      10.692347526550293,
+      10.699999809265137,
+      10.755704879760742,
+      10.814190864562988,
+      10.831491470336914
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.76,
+      334.01,
+      533.16,
+      348.79
+    ],
+    "text": "representative of the deceased in his place. That was a partition case. However, Chitrasiri J. in W.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.90388298034668,
+      10.311929702758789,
+      10.485857009887695,
+      10.5042085647583,
+      10.59165096282959,
+      10.643349647521973,
+      10.699999809265137,
+      10.779256820678711
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.66,
+      355.69,
+      534.39,
+      370.39
+    ],
+    "text": "Jane Nona v. D. Chalo Singho et al4 held that Karunawathie v. Piyasena and othersS was decided",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.300099849700928,
+      9.344368934631348,
+      9.522397994995117,
+      9.955643653869629,
+      10.300000190734863,
+      10.373885154724121,
+      10.448479652404785,
+      10.509323120117188,
+      10.557450294494629,
+      10.699999809265137,
+      10.724471092224121
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.28,
+      378.02,
+      534.71,
+      392.72
+    ],
+    "text": "per incuriam and that Section 48 of the Partition Law No. 21 of 1977 as amended by Act No. 17",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.019885063171387,
+      10.300000190734863,
+      10.405908584594727,
+      10.524053573608398,
+      10.56469440460205,
+      10.594781875610352,
+      10.67602252960205,
+      10.68789291381836,
+      10.699999809265137,
+      10.779256820678711,
+      10.790467262268066
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.62,
+      399.62,
+      534.35,
+      414.32
+    ],
+    "text": "of 1997 is drafted to ensure the final and conclusive nature of a decree in a partition action even",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.643349647521973,
+      10.699999809265137,
+      10.779256820678711,
+      10.831491470336914
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.74,
+      421.45,
+      462.97,
+      436.15
+    ],
+    "text": "if no substitution has been effected to represent a deceased party in such action.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.543861389160156,
+      10.605633735656738,
+      10.699999809265137,
+      11.006558418273926
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.34,
+      456.97,
+      533.95,
+      471.67
+    ],
+    "text": "Section 760A of the Civil Procedure Code, read with Article 169(2) of the Constitution, states as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.890584945678711,
+      10.581493377685547,
+      10.699999809265137,
+      10.916558265686035
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.46,
+      478.57,
+      111.42,
+      493.27
+    ],
+    "text": "follows:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.4,
+      704.08,
+      96.97,
+      715.42
+    ],
+    "text": "llbid.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.904142379760742
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      143.14,
+      514.81,
+      534.92,
+      529.51
+    ],
+    "text": "\"Where at any time after the lodging of an appeal in any civil action, proceeding",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.356124877929688,
+      10.643349647521973,
+      10.699999809265137,
+      10.779256820678711
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142.7,
+      536.66,
+      536.11,
+      551.36
+    ],
+    "text": "or matter, the record becomes defective by reason of the death or change of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.68789291381836,
+      10.699999809265137,
+      10.709745407104492,
+      10.916558265686035
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142.71,
+      558.5,
+      534.75,
+      573.2
+    ],
+    "text": "status of a party to the appeal, the Court of Appeal may in the manner provided",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.643349647521973,
+      10.699999809265137,
+      10.779256820678711
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142.59,
+      580.09,
+      534.9,
+      594.79
+    ],
+    "text": "in the rules made by the Supreme Court for that purpose, determine who, in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.643349647521973,
+      10.699999809265137,
+      10.720580101013184,
+      10.724471092224121
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142.46,
+      602.17,
+      534.43,
+      616.87
+    ],
+    "text": "opinion of the court, is the proper person to be substituted or entered on the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.51510238647461,
+      10.576790809631348,
+      10.699999809265137,
+      10.779256820678711
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      142.84,
+      624.25,
+      534.22,
+      638.96
+    ],
+    "text": "record in place of, or in addition to, the party who has died or undergone a change",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.462411880493164,
+      10.643349647521973,
+      10.669857025146484,
+      10.699999809265137,
+      10.709745407104492
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.41,
+      716.0,
+      159.12,
+      727.54
+    ],
+    "text": "3 (2011) 1 SrLL.R. 171",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.099999904632568,
+      8.31704044342041,
+      8.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.46,
+      727.87,
+      306.53,
+      740.51
+    ],
+    "text": "4 C.A. 499/98{F} & 499A/98(F}; C.A. Minutes of 25.07.2013",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.099999904632568,
+      8.242879867553711,
+      8.399999618530273,
+      8.481900215148926,
+      8.917508125305176,
+      9.199999809265137
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.4,
+      740.73,
+      159.0,
+      752.27
+    ],
+    "text": "5 (2011) 1 SrLL.R. 171",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.199999809265137,
+      8.278419494628906,
+      8.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      299.89,
+      760.82,
+      307.39,
+      774.16
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      594.51,
+      485.02,
+      602.95,
+      585.09
+    ],
+    "text": "I [ , ! I t II ! ,, I {",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.199999809265137,
+      5.599999904632568,
+      7.599999904632568,
+      9.800000190734863,
+      10.199999809265137,
+      10.399999618530273,
+      12.0,
+      12.399999618530273,
+      13.100000381469727,
+      14.300000190734863,
+      14.600000381469727,
+      15.899999618530273,
+      16.299999237060547
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      -10.11,
+      73.54,
+      19.19,
+      229.83
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      18.799999237060547,
+      48.79999923706055,
+      52.70009994506836
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139.57,
+      112.09,
+      531.12,
+      126.79
+    ],
+    "text": "of status, and the name of such person shall thereupon be deemed to be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.51510238647461,
+      10.605633735656738,
+      10.631278991699219,
+      10.699999809265137,
+      10.916558265686035
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      139.59,
+      133.93,
+      365.63,
+      148.63
+    ],
+    "text": "substituted or entered of record as aforesaid.\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.890584945678711,
+      10.699999809265137,
+      10.709745407104492,
+      10.916558265686035
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.59,
+      170.18,
+      531.4,
+      184.88
+    ],
+    "text": "Hence where a party to an appeal in a partition case dies after the lodging of an appeal,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.343304634094238,
+      10.356124877929688,
+      10.47314453125,
+      10.636058807373047,
+      10.699999809265137,
+      10.779256820678711,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.27,
+      191.77,
+      532.02,
+      206.47
+    ],
+    "text": "substitution is regulated by Section 760A of the Civil Procedure Code read with Rule 38 of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.463639259338379,
+      10.486571311950684,
+      10.611080169677734,
+      10.649279594421387,
+      10.68789291381836,
+      10.699999809265137,
+      10.779256820678711
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.22,
+      212.98,
+      531.17,
+      228.32
+    ],
+    "text": "Supreme Court Rules 1990.6 The purpose or manner of substitution in the Appellate Court is",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      9.963233947753906,
+      10.523798942565918,
+      10.54771614074707,
+      10.699999809265137,
+      10.709745407104492,
+      10.779256820678711
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.5,
+      235.45,
+      532.2,
+      250.15
+    ],
+    "text": "different from the purpose and manner of substitution in the original court. In the appellate court",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.51561164855957,
+      10.699999809265137,
+      10.916558265686035
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.64,
+      257.06,
+      532.61,
+      271.76
+    ],
+    "text": "unlike in the original court substitution is allowed for a limited purpose of prosecuting or",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.643349647521973,
+      10.699999809265137,
+      10.916558265686035
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.47,
+      279.13,
+      449.73,
+      293.83
+    ],
+    "text": "continuing with the action as the rights of the parties are already determined.7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.890584945678711,
+      10.677226066589355,
+      10.699999809265137,
+      10.779256820678711
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.8,
+      314.89,
+      533.21,
+      329.59
+    ],
+    "text": "In view of the different regimes that apply in a partition action or appeal, it is important for a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.160552024841309,
+      10.350027084350586,
+      10.699999809265137,
+      10.720580101013184,
+      10.779256820678711,
+      11.006558418273926
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.45,
+      336.97,
+      532.54,
+      351.68
+    ],
+    "text": "Court to be appraised of the date on which a party dies. It is only then can a Court decide what",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.963233947753906,
+      10.397627830505371,
+      10.454227447509766,
+      10.691145896911621,
+      10.699999809265137,
+      10.779256820678711,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.75,
+      359.05,
+      324.64,
+      373.75
+    ],
+    "text": "steps, if any, should be taken in the action or appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.631278991699219,
+      10.666497230529785,
+      10.693497657775879,
+      10.699999809265137,
+      11.006558418273926
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.07,
+      395.05,
+      532.26,
+      409.75
+    ],
+    "text": "However, the Appellant has in the written submissions stated that the date of death of the parties",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.543861389160156,
+      10.699999809265137,
+      10.724471092224121,
+      10.779256820678711
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.97,
+      417.14,
+      175.69,
+      431.84
+    ],
+    "text": "are not known to her.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.587862014770508,
+      10.699999809265137,
+      10.831491470336914
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.04,
+      452.42,
+      532.22,
+      467.12
+    ],
+    "text": "In the Circumstances, I am of the view that the Appellant must furnish to Court the dates on which",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.350027084350586,
+      10.576790809631348,
+      10.580280303955078,
+      10.699999809265137,
+      10.966042518615723,
+      11.052155494689941
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.31,
+      474.26,
+      433.02,
+      488.96
+    ],
+    "text": "the deceased parties died in order to decide further steps according to law.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137,
+      10.831491470336914,
+      10.966042518615723
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.61,
+      510.01,
+      328.58,
+      524.71
+    ],
+    "text": "Application of the Appellant is rejected without costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.354108810424805,
+      10.699999809265137,
+      10.755704879760742,
+      10.916558265686035
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      317.44,
+      581.77,
+      456.93,
+      596.47
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.663588523864746,
+      10.699999809265137,
+      10.779256820678711,
+      10.916558265686035
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.33,
+      613.29,
+      158.13,
+      628.37
+    ],
+    "text": "M.M.A. Gaffoor J.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0,
+      10.437481880187988,
+      11.085565567016602
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      247.39,
+      645.85,
+      284.58,
+      660.55
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      317.68,
+      677.05,
+      457.17,
+      691.75
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.616323471069336,
+      10.699999809265137,
+      10.779256820678711
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.21,
+      731.88,
+      462.42,
+      743.69
+    ],
+    "text": "6 Chondrasiri v. Abusoli et 01 [S.C,(HCCA)(LA) 172/2012 and 173/2012; S.c. Minutes of 19.11.2015]",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic"
+    ],
+    "sizes": [
+      5.900100231170654,
+      7.684475421905518,
+      7.762401580810547,
+      8.399999618530273,
+      8.582181930541992,
+      8.600000381469727,
+      8.889333724975586,
+      8.925276756286621
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      70.49,
+      742.88,
+      94.0,
+      755.55
+    ],
+    "text": "7 Ibid.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.400100231170654,
+      9.393806457519531
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      297.65,
+      764.07,
+      305.75,
+      778.47
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      588.96,
+      251.53,
+      598.94,
+      276.74
+    ],
+    "text": "\\",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      18.899999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      590.16,
+      274.48,
+      602.09,
+      366.33
+    ],
+    "text": "\\ ! I: t Ii",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.226692199707031,
+      9.600000381469727,
+      10.100000381469727,
+      12.300000190734863,
+      13.300000190734863,
+      18.299999237060547,
+      42.90010070800781
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      591.66,
+      360.72,
+      600.59,
+      399.27
+    ],
+    "text": "~ ! ! t",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.976746082305908,
+      6.400100231170654,
+      10.699999809265137,
+      15.600000381469727
+    ]
+  }
+]
