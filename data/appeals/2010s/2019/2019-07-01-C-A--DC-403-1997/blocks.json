@@ -1,0 +1,5508 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      106.55,
+      50.77,
+      536.01,
+      73.85
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      17.299999237060547,
+      17.309797286987305,
+      17.562410354614258,
+      17.56304931640625,
+      17.593263626098633,
+      17.602602005004883
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      163.24,
+      82.46,
+      479.1,
+      105.54
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      17.299999237060547,
+      17.6527042388916
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.52,
+      104.99,
+      565.6,
+      118.19
+    ],
+    "text": "~--------------~-----------------------------------~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      9.831039428710938
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      82.29,
+      266.31,
+      228.1,
+      285.12
+    ],
+    "text": "C.A. Appeal No: 403/ (,'1",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273,
+      13.800000190734863,
+      14.06711196899414,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      82.13,
+      295.1,
+      210.42,
+      313.91
+    ],
+    "text": "D.C. Kegalle: 3582/ L",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.74,
+      661.42,
+      130.39,
+      679.83
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.91,
+      685.9,
+      143.03,
+      704.31
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.29,
+      421.91,
+      227.42,
+      438.4
+    ],
+    "text": "l",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.95,
+      144.71,
+      530.12,
+      181.6
+    ],
+    "text": "Wasantha Mahindarathna Devpura, of Adurapotha, Kegalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.18,
+      187.9,
+      367.55,
+      206.31
+    ],
+    "text": "PLAINTIFF",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.35,
+      234.79,
+      321.49,
+      254.0
+    ],
+    "text": "... ys ....",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600825309753418,
+      10.843445777893066,
+      15.374898910522461
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.18,
+      286.54,
+      529.33,
+      323.43
+    ],
+    "text": "H.A. Premadasa, of \"Electric Workshop\" No. 22, Siddhartha Mawatha, Kegalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.660848617553711,
+      13.661354064941406,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.7,
+      329.73,
+      380.77,
+      348.14
+    ],
+    "text": "DEFENDANT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.75,
+      378.93,
+      438.53,
+      397.35
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      14.367097854614258
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.47,
+      428.14,
+      529.64,
+      464.79
+    ],
+    "text": "Wasantha Mahindarathna Devpura, of Adurapotha, Kegalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.71,
+      470.87,
+      452.91,
+      489.28
+    ],
+    "text": "PLAINTIFF ... APPELLANT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.118084907531738,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.87,
+      518.0,
+      321.09,
+      537.21
+    ],
+    "text": "... ys ....",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600825309753418,
+      11.028777122497559,
+      15.494550704956055
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.46,
+      569.74,
+      526.21,
+      606.39
+    ],
+    "text": "H.A. Premadasa. of \"Electric Workshop\" i No. 22, Siddhartha Mawatha, Kegalle.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.500100135803223,
+      13.660848617553711,
+      13.661354064941406,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      290.2,
+      612.69,
+      478.93,
+      631.11
+    ],
+    "text": "DEFENDANT ... RESPONDENT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.398679733276367,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.21,
+      661.34,
+      402.94,
+      680.15
+    ],
+    "text": "A.H.M.D. Nawaz,]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.085153579711914,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.77,
+      685.82,
+      529.48,
+      722.88
+    ],
+    "text": "Dr.Sunil Coorey with Sudharshani Coorey forthe Plaintiff ... Appellant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.216662406921387,
+      14.100000381469727,
+      14.476473808288574
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      282.94,
+      728.55,
+      525.8,
+      747.36
+    ],
+    "text": "] aved Mansoor for the Defendant ...",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.500289916992188,
+      14.100000381469727,
+      14.333762168884277
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.61,
+      747.03,
+      363.64,
+      765.84
+    ],
+    "text": "Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      557.17,
+      49.79,
+      565.81,
+      63.59
+    ],
+    "text": "~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      6.9059977531433105
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      557.52,
+      62.28,
+      570.71,
+      107.28
+    ],
+    "text": "~ I c",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.955860614776611,
+      18.399999618530273,
+      21.799999237060547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      380.22,
+      60.33,
+      388.86,
+      78.05
+    ],
+    "text": ": \"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.599999904632568,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.06,
+      91.01,
+      339.3,
+      109.51
+    ],
+    "text": "Decided on 27.08.2018",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.561559677124023,
+      13.854886054992676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.85,
+      137.96,
+      190.9,
+      159.43
+    ],
+    "text": "A.H.M.D. Nawaz, I.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.605587005615234,
+      14.987031936645508
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.58,
+      170.69,
+      527.72,
+      213.83
+    ],
+    "text": "ethe Plaintiff by filing his plaint dated 31/ 03/ 1986 asserted that he had Q) purchased the prop~rty/ the subject matter of the action in this case from",
+    "fonts": [
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.866462707519531,
+      13.102601051330566,
+      13.461996078491211,
+      13.5,
+      13.529916763305664,
+      13.532211303710938,
+      13.557577133178711,
+      13.610745429992676,
+      13.670374870300293,
+      13.75219440460205,
+      15.325875282287598,
+      16.52825355529785
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.0,
+      218.94,
+      527.03,
+      236.95
+    ],
+    "text": "one Velaudham Pillai by a deed bearing No. 2773 on 12 /i2/1985. The deed and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.773449897766113,
+      13.337167739868164,
+      13.425745964050293,
+      13.5,
+      13.509896278381348,
+      13.56474494934082
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.06,
+      243.18,
+      527.25,
+      261.19
+    ],
+    "text": "Plan depicting the property were produced at the trial as \"PI\" and \"P2\". The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.548861503601074,
+      13.56474494934082
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.06,
+      267.18,
+      526.19,
+      285.2
+    ],
+    "text": "Plaintiff averred that befbre Velaudham Pillai sold the Property to him in 1985,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.401288986206055,
+      13.5,
+      13.557577133178711,
+      13.589006423950195,
+      13.75219440460205
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.62,
+      291.18,
+      526.95,
+      309.19
+    ],
+    "text": "he had given a mortgage of this property to the Defendant/Respondent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.589006423950195,
+      13.610745429992676
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.2,
+      315.41,
+      526.54,
+      333.43
+    ],
+    "text": "(hereinafter sometimes referred to as the \"Defendant\") by a deed bearing No. 1337",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.1278715133667,
+      13.5,
+      13.554987907409668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.98,
+      337.13,
+      526.54,
+      357.42
+    ],
+    "text": "and dated 19th October 19~4 for a sum of Rupees five Thousand (Rs. 5000.00//).",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.519155502319336,
+      12.023115158081055,
+      12.914608001708984,
+      13.5,
+      13.529916763305664
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.52,
+      363.18,
+      526.42,
+      381.19
+    ],
+    "text": "The Plaintiff averred in the plaint that when he purd;lased this property from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.656542778015137,
+      13.704155921936035,
+      13.75219440460205
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.6,
+      387.18,
+      526.53,
+      405.2
+    ],
+    "text": "Velaudham Pillai on 12th December 1985, there was a,prior mortgage allegedly",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.804852485656738,
+      13.5,
+      13.509896278381348,
+      13.515491485595703
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.73,
+      408.46,
+      525.32,
+      429.91
+    ],
+    "text": "\" executed by Velaudham Pillai by way of a deed bearing No. 1337 and dated 19th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.599999904632568,
+      11.839532852172852,
+      12.773449897766113,
+      13.1278715133667,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.74,
+      435.65,
+      526.9,
+      453.66
+    ],
+    "text": "October 1984. In other words the Plaintiff asserted that he has purchased the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.75219440460205
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.82,
+      459.41,
+      527.03,
+      477.42
+    ],
+    "text": "Property subject to that mortgage. The Plaintiff further averred in his plaint that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.557577133178711,
+      13.589006423950195,
+      13.680395126342773,
+      13.823620796203613
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.38,
+      483.65,
+      527.14,
+      501.66
+    ],
+    "text": "he made a request of the,Defendant to accept the sum of Rupees Five Thousand",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.2,
+      499.89,
+      526.31,
+      525.66
+    ],
+    "text": "\" (Rs. 5000.00r) owed by Velaudham Pillai and annul the Mortgage bond but the",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.7000999450683594,
+      13.5,
+      13.548513412475586,
+      13.56474494934082,
+      13.58960247039795,
+      13.800000190734863,
+      13.93906021118164
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.82,
+      531.9,
+      526.39,
+      549.91
+    ],
+    "text": "Defendant refused to accede to the request for redemption. It was in those",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.515491485595703,
+      13.557577133178711,
+      13.589006423950195,
+      13.629974365234375
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.5,
+      555.9,
+      526.58,
+      573.92
+    ],
+    "text": "circumstances that the Plaintiff averred that a cause of action accrued to him to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.589006423950195,
+      13.75219440460205
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.3,
+      579.89,
+      475.03,
+      597.9
+    ],
+    "text": "institute the action against the Defendant seeking the following reliefs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125.42,
+      605.58,
+      526.67,
+      623.59
+    ],
+    "text": "For a declaration demanding the Defendant to accept Rs. 5000//",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.466958999633789,
+      13.5,
+      13.58011245727539,
+      13.589006423950195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.5,
+      630.05,
+      508.09,
+      648.06
+    ],
+    "text": "and cancel t~1e Deed of Mortgage No. 133~ and dated 19/10/1984;",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.001336097717285,
+      8.01578426361084,
+      13.5,
+      13.529916763305664,
+      13.56474494934082,
+      13.642448425292969
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125.42,
+      654.31,
+      526.55,
+      673.69
+    ],
+    "text": "If the Defendant is refusing to accept the said sum of Rs. 5000// the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.589006423950195,
+      14.100000381469727,
+      15.09980297088623
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.57,
+      679.01,
+      526.29,
+      697.02
+    ],
+    "text": "Plaintiff is ready to deposit the said sum in the Court and therefore",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.5,
+      13.54592227935791,
+      13.557577133178711,
+      13.56474494934082,
+      13.589006423950195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      143.12,
+      703.02,
+      518.12,
+      721.03
+    ],
+    "text": "to cancel the said Deed of Mortgage No.B37 and dated 19/10/1984;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.498950004577637,
+      13.5,
+      13.529916763305664,
+      13.56474494934082,
+      13.589006423950195
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      212.41,
+      812.96,
+      225.98,
+      819.15
+    ],
+    "text": ", I,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.500100135803223,
+      5.247314453125
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126.74,
+      68.5,
+      527.74,
+      86.91
+    ],
+    "text": "After the cancellation of the said Deed of Mortgage, to eject the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.64,
+      92.5,
+      528.14,
+      110.91
+    ],
+    "text": "Defendant and all those holding under him and to obtain peaceful",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.27,
+      116.26,
+      431.05,
+      134.67
+    ],
+    "text": "possession of the premises described in the plaint;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126.74,
+      142.42,
+      528.13,
+      160.83
+    ],
+    "text": "As damages a sum of Rs. 100/ ~ from December 1986 until peaceful",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.30428409576416,
+      13.543872833251953,
+      13.62671184539795,
+      13.714033126831055,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.26,
+      166.42,
+      371.94,
+      184.83
+    ],
+    "text": "possession of the said premises is given;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126.5,
+      192.11,
+      527.45,
+      210.52
+    ],
+    "text": "For a declaration that the Plaintiff is the sole owner of the premises",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.904156684875488
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.36,
+      216.11,
+      367.29,
+      234.52
+    ],
+    "text": "described in the schedule to the Plaint;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126.5,
+      242.5,
+      527.19,
+      260.91
+    ],
+    "text": "For damages\\and such other further relief as to the Court seems",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.19,
+      266.26,
+      177.72,
+      284.67
+    ],
+    "text": "meet.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.43,
+      290.26,
+      527.64,
+      308.68
+    ],
+    "text": "A two storied building constitutes the Property which was in possession of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.814493179321289,
+      13.85558795928955
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.66,
+      314.5,
+      527.74,
+      332.91
+    ],
+    "text": "Defendant. This was the case presented by the Plaintiff before the additional",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.44,
+      338.26,
+      216.99,
+      356.67
+    ],
+    "text": "District Court of Kegalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.21,
+      362.5,
+      527.59,
+      380.91
+    ],
+    "text": "As opposed to above version of the Plaintiff the Defendant took up the defense of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.512659072875977,
+      13.800000190734863,
+      13.884540557861328,
+      13.98851203918457
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.44,
+      386.5,
+      526.49,
+      404.91
+    ],
+    "text": "tenancy rights under V e1audham Pillai~ the predecessor in title of the Plaintiff.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.480294227600098,
+      13.800000190734863,
+      13.85558795928955
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.88,
+      398.98,
+      527.6,
+      430.23
+    ],
+    "text": ", The Defendant averred that he had been in occupation of the building qua a",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.442327499389648,
+      13.800000190734863,
+      13.839094161987305,
+      13.904156684875488
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.2,
+      436.66,
+      527.81,
+      455.07
+    ],
+    "text": "tenant of Velaudham Pilla; paying him rent and in the premises he was protected",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.99,
+      460.66,
+      526.11,
+      479.07
+    ],
+    "text": "under the Rent Act. The Defendant also made a cross claim from the Plaintiff for",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.36,
+      481.14,
+      527.3,
+      504.3
+    ],
+    "text": "a sum of Rupees Twenty Thousand (Rs. 20, ooo.OOr) as damages occasioned by",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.770719528198242,
+      13.800000190734863,
+      15.145220756530762
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.21,
+      508.91,
+      527.56,
+      527.32
+    ],
+    "text": "the acts of the Plaintiff a~ described in paragraph 08 of the answer. In a nutshell",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.806529521942139,
+      13.76876449584961,
+      13.800000190734863,
+      13.85558795928955
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.96,
+      533.87,
+      400.38,
+      552.4
+    ],
+    "text": "the Defendant stated in hjs answer the following inter alia;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.486076354980469,
+      13.800000190734863,
+      13.85558795928955,
+      14.116308212280273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      560.75,
+      419.32,
+      579.16
+    ],
+    "text": "The Defendant is uqaware of the Plaintiff's ownership;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.78,
+      586.42,
+      424.35,
+      604.83
+    ],
+    "text": "The Defendant is tbe lawful tenant of Velaudham Pillai;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.78,
+      612.82,
+      526.55,
+      631.23
+    ],
+    "text": "That there was no Deed of Mortgage that was ever written between the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.812994003295898,
+      13.976372718811035,
+      14.341381072998047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107.69,
+      636.33,
+      296.47,
+      654.75
+    ],
+    "text": "Defendant and Vehmdham Pillai;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.78,
+      662.02,
+      527.13,
+      680.43
+    ],
+    "text": "The Plaintiff with the assistance of Velaudham Pillai is in collusion trying",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.955968856811523
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107.46,
+      685.78,
+      447.24,
+      704.19
+    ],
+    "text": "to eject the Defendant unlawfully from the premises in suit;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      89.78,
+      711.71,
+      340.22,
+      730.12
+    ],
+    "text": "The Mortgage bonq, No.1337 is a forgery;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.630964279174805,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      217.59,
+      22.71,
+      222.99,
+      37.55
+    ],
+    "text": "j",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.96,
+      67.65,
+      525.13,
+      85.94
+    ],
+    "text": "The Defendant prayed in his answer, inter ilia for a dismissal of the action of the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.687586784362793,
+      13.699999809265137,
+      13.875808715820312
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.49,
+      92.6,
+      417.39,
+      110.88
+    ],
+    "text": "Plaintiff and also for a cross claim of Rs. 20,000/~ as damages.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.819428443908691,
+      13.5663480758667,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.21,
+      116.84,
+      523.49,
+      135.12
+    ],
+    "text": "In the face of the allegation of the Defendant that the Mortgage Bond bearing No.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.52483081817627,
+      13.699999809265137,
+      13.85368824005127
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.12,
+      141.08,
+      525.43,
+      159.36
+    ],
+    "text": "1337 and dated 19/10/1984 is a forgery, the question of granting a declaration that",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.224757194519043,
+      13.645190238952637,
+      13.699999809265137,
+      13.708597183227539
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.28,
+      164.84,
+      524.98,
+      183.12
+    ],
+    "text": "the Defendant must accept Rs. 5000/~ and cancel the need of Mortgage No. 1337",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.07663345336914,
+      13.224757194519043,
+      13.437841415405273,
+      13.664253234863281,
+      13.699999809265137,
+      13.932230949401855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.18,
+      189.08,
+      524.85,
+      207.36
+    ],
+    "text": "and dated 19/10/1984 would not arise provided that the allegation of fraud made",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.67407512664795,
+      13.699999809265137,
+      13.85368824005127
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.87,
+      213.09,
+      314.77,
+      231.36
+    ],
+    "text": "by the Defendant is established at the trial.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.94,
+      237.33,
+      525.78,
+      255.61
+    ],
+    "text": "At the trial 13 issues were raised consequent upon the pleadings of the Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.578550338745117,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.43,
+      261.08,
+      525.1,
+      279.37
+    ],
+    "text": "and the Defendant. In order to understand the oral evidence that transpired at",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.27,
+      285.33,
+      524.34,
+      303.61
+    ],
+    "text": "the trial, it is apposite to itemize the documents that were marked at the trial.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.78135871887207,
+      13.790252685546875
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      70.18,
+      309.33,
+      517.89,
+      327.61
+    ],
+    "text": "On behalf of the Plaintiff the following documents were marked and produced.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.1,
+      325.89,
+      525.24,
+      353.76
+    ],
+    "text": "\"l Pl~ Deed No. 2773 qated 12/12/1985 attested by A. Mutunayaka, by which",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.400100231170654,
+      7.996066570281982,
+      12.882403373718262,
+      13.370230674743652,
+      13.52483081817627,
+      13.587235450744629,
+      13.600000381469727,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106.04,
+      351.27,
+      387.26,
+      377.76
+    ],
+    "text": "\" the Plaintiff obtained title to the Land in dispute;",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.0,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.1,
+      385.41,
+      471.24,
+      403.69
+    ],
+    "text": "P 2~ Plan No. 1143 dated 11/11/1985 depicting the land in dispute;",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.887205123901367,
+      12.94922924041748,
+      13.023970603942871,
+      13.52483081817627,
+      13.699999809265137,
+      13.771265029907227
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.1,
+      411.32,
+      523.36,
+      429.6
+    ],
+    "text": "P3~ The disputed Deed No. 1337 dated 19/10/1984 attested by A.D.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.365644454956055,
+      13.257917404174805,
+      13.292746543884277,
+      13.611262321472168,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.57,
+      435.57,
+      286.79,
+      453.85
+    ],
+    "text": "Ambadeniya the Notary Public;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      88.1,
+      461.24,
+      524.79,
+      479.52
+    ],
+    "text": "P4~ Deed No. 988-dated 29/07/1982 attested by A.D. Ambadeniya the",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.569714546203613,
+      13.32542896270752,
+      13.611262321472168,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106.38,
+      485.24,
+      524.55,
+      503.52
+    ],
+    "text": "Notary Public whicb is a usufructury mortgage between Velaudham Pillai",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.93,
+      509.25,
+      524.89,
+      527.52
+    ],
+    "text": "as the Mortgagor and the Defendant as the Mortgagee, in which there is a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.69,
+      533.24,
+      523.93,
+      551.52
+    ],
+    "text": "condition as follows; 'in lieu of the interest to the said sum of Rs. 2000/ ~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.956643581390381,
+      13.5663480758667,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.8,
+      557.24,
+      524.97,
+      575.52
+    ],
+    "text": "the Defendant is entitled to occupy the premises in suit and if the sum in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.81,
+      581.24,
+      524.57,
+      599.52
+    ],
+    "text": "the said Deed No.988 which is Rs. 2000/~ is paid by Velaudham Piliai",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.049844741821289,
+      13.5663480758667,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.57,
+      605.48,
+      524.68,
+      623.75
+    ],
+    "text": "within 2 years from writing of this Deed, the Defendant must accept the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.64,
+      622.72,
+      524.92,
+      648.0
+    ],
+    "text": "i said sum of Rs. 2000/ ~ and hand over possession of the said premises to",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.199999809265137,
+      6.165711402893066,
+      13.5663480758667,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.57,
+      646.0,
+      219.46,
+      672.0
+    ],
+    "text": ", i Velaudham Pillai;",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.199999809265137,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      87.86,
+      679.16,
+      524.63,
+      697.44
+    ],
+    "text": "Pe 5~ Deed No. 1252 dated 16/05/1984 and attested by A.D. Ambadeniya",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.551424026489258,
+      13.32542896270752,
+      13.553465843200684,
+      13.561348915100098,
+      13.611262321472168,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.81,
+      702.93,
+      524.96,
+      721.21
+    ],
+    "text": "the Notary Public, where the Defendant writes back the disputed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.63,
+      726.69,
+      525.09,
+      744.97
+    ],
+    "text": "premises to Velaudham Pillai in accordance with the usufructury Deed",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.843647003173828
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106.13,
+      750.7,
+      151.99,
+      768.97
+    ],
+    "text": "No.988;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      217.11,
+      788.8,
+      220.68,
+      803.92
+    ],
+    "text": "'-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.9567289352417
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.66,
+      67.93,
+      526.0,
+      86.6
+    ],
+    "text": "Pe 6~ Deed of Lease No.l428 given by Velaudham Pillai to one",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.804686069488525,
+      13.82971477508545,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.8,
+      91.92,
+      243.68,
+      110.6
+    ],
+    "text": "Malsinhalage Soma~nri;",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.762908935546875,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.66,
+      118.1,
+      526.48,
+      136.77
+    ],
+    "text": "Pe 7~ Deed of Lease No. 2772 given by the Plaintiff to Malsinhalage",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.4594035148620605,
+      13.759483337402344,
+      13.778294563293457,
+      13.82971477508545,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.61,
+      141.86,
+      162.53,
+      160.53
+    ],
+    "text": "Somasiri;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.66,
+      167.78,
+      526.59,
+      186.45
+    ],
+    "text": "Pe 8~ Certificate of non~settlement issued by the Secretary of Debt",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.465118885040283,
+      8.186736106872559,
+      13.701058387756348,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.49,
+      191.77,
+      225.44,
+      210.45
+    ],
+    "text": "Concilliation Voard;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.66,
+      217.69,
+      526.78,
+      236.36
+    ],
+    "text": "Pe 9~ A certified~opy of the register of assessment No.22, Sidhartha",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.7212114334106445,
+      8.250748634338379,
+      13.82971477508545,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.82,
+      241.68,
+      454.37,
+      260.36
+    ],
+    "text": "Mawatha, Kegalle, maintained at Municipal Council Kegalle.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.988795280456543,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.52,
+      289.69,
+      527.11,
+      308.36
+    ],
+    "text": "The mortgage Bond bearing No. 1337 and dated 19th October 1984 was marked",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.699999809265137,
+      13.151593208312988,
+      13.4375,
+      13.759483337402344,
+      13.842766761779785,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.44,
+      313.92,
+      526.95,
+      332.6
+    ],
+    "text": "subject to proof. In other words the pivotal document \"P3\" whose cancellation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.661662101745605,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.6,
+      337.94,
+      526.27,
+      356.61
+    ],
+    "text": "the Plaintiff sought in his Plaint was strenuously contested by and its due",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.49,
+      361.68,
+      528.63,
+      380.36
+    ],
+    "text": "execution challenged by the Defendant~ Respondent. The Defendant~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.133197784423828,
+      8.148697853088379,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.28,
+      386.17,
+      526.68,
+      428.61
+    ],
+    "text": "Respondent testified that he never obtained a mortgage from Velaudham Pillai , in respect to the building. In other words he never gave a loan to his landlord",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      14.0,
+      14.004549026489258
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.14,
+      433.93,
+      526.14,
+      452.61
+    ],
+    "text": "Velaudham PillaL He ne-v'cr paid the consideration of Rs. 5000/ ~ for Velaudham",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.235383033752441,
+      13.016181945800781,
+      13.8130521774292,
+      13.826677322387695,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.58,
+      457.93,
+      529.19,
+      476.61
+    ],
+    "text": "Pillai to execute the mortgage Bond. Premadasa the Defendant~Respondent",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.43506908416748,
+      13.973024368286133,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.36,
+      482.17,
+      526.1,
+      500.84
+    ],
+    "text": "testified that Velaudham Pillai acted in collusion with the Notary Ambadeniya",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0,
+      14.004549026489258,
+      14.056735038757324
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.28,
+      506.4,
+      526.25,
+      525.08
+    ],
+    "text": "in the execution of the Mortgage Bond~ an exercise which the Defendant alleged",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.644062995910645,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.15,
+      530.17,
+      525.92,
+      548.84
+    ],
+    "text": "was a sham or a stratagem to have him evicted from the premises. He cried foul",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.26,
+      546.72,
+      425.5,
+      572.84
+    ],
+    "text": "I of the mortgage as fictitious and asserted that it never existed.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.900099992752075,
+      14.0,
+      14.077286720275879,
+      14.143959999084473
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.13,
+      578.17,
+      526.04,
+      596.84
+    ],
+    "text": "As this Deed was marked subject to proof, the Plaintiff summoned the Notary to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.610224723815918,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.22,
+      602.42,
+      526.06,
+      621.09
+    ],
+    "text": "establish the due execution of the Deed. The Notary was subjected to a long",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.4,
+      626.42,
+      526.39,
+      645.09
+    ],
+    "text": "drawn~out cross examination in the course of which the following items of",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.51915454864502,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.25,
+      650.16,
+      526.24,
+      668.84
+    ],
+    "text": "evidence which remain unassailed as regards the execution of the alleged",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.870147705078125,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.12,
+      674.42,
+      213.1,
+      693.09
+    ],
+    "text": "mortgage bond emerged.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.18,
+      700.09,
+      525.88,
+      718.76
+    ],
+    "text": "Mortgage Bond (P3 ~ does not refer to a consideration paid in the presence",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.959899425506592,
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.02,
+      723.62,
+      227.86,
+      742.3
+    ],
+    "text": "of the Notary Public,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.3,
+      68.12,
+      526.27,
+      86.4
+    ],
+    "text": "Mortgage Bond (P3) that was produced in Court was a document certified",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.708597183227539
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.83,
+      92.12,
+      525.1,
+      110.4
+    ],
+    "text": "by the Notary Public and NOT a Certified Copy issued by the Land",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      107.45,
+      116.12,
+      161.17,
+      134.4
+    ],
+    "text": "Registry,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.3,
+      142.05,
+      526.88,
+      160.33
+    ],
+    "text": "There was no independent evidence that a copy of the purported",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      106.93,
+      165.81,
+      370.44,
+      184.09
+    ],
+    "text": "instrument was ever given to the Respondent,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.3,
+      191.97,
+      525.91,
+      210.25
+    ],
+    "text": "Folio extracts sho\\\\'ing registration of the purported Mortgage Bond were",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      107.13,
+      215.98,
+      214.31,
+      234.25
+    ],
+    "text": "also not produced.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.15,
+      240.2,
+      526.1,
+      258.49
+    ],
+    "text": "The last item strengthe:t:ls the assertion that the mortgage bond was not",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.74,
+      264.21,
+      132.87,
+      282.48
+    ],
+    "text": "registered.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.17,
+      288.2,
+      526.11,
+      306.48
+    ],
+    "text": "The Defendant told the Court that he learnt about the purported Mortgage Bond",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.85368824005127
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.88,
+      312.2,
+      526.41,
+      330.48
+    ],
+    "text": "for the first time on 2.6.1986 when the Notary Public informed him and asked",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.705548286437988
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.01,
+      336.2,
+      526.11,
+      378.48
+    ],
+    "text": "him to collect such a docLment. Mter the said incident he made a complaint to 1 the police on 26/07/1986 pertaining to the incident. The Defendant denied having",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.300000190734863,
+      13.699999809265137,
+      13.8253755569458
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.94,
+      384.2,
+      525.45,
+      402.48
+    ],
+    "text": "given a sum of Rs. 5000/, to Velaudham PilIaL The Respondent clearly asserted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.457707405090332,
+      13.5663480758667,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.24,
+      408.45,
+      407.61,
+      426.73
+    ],
+    "text": "that the purported Mortgage Bond was a forged document.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.708597183227539
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.9,
+      432.2,
+      526.7,
+      450.49
+    ],
+    "text": "The boundaries as described in the Transfer Deed (PI) in favour of the Plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.14,
+      456.45,
+      525.79,
+      474.73
+    ],
+    "text": "are inconsistent with the boundaries described in the purported Mortgage Bond",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.843647003173828
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.92,
+      480.92,
+      525.75,
+      522.96
+    ],
+    "text": "(P3) in favor of the Defend;ant . . tt These facts and the Plaint~ff-Appellant's reluctance to produce the best possible",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.900100231170654,
+      7.038805961608887,
+      8.318537712097168,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.88,
+      528.68,
+      526.42,
+      546.96
+    ],
+    "text": "evidence render the said instrument (the purported mortgage bond-P3 dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.287386894226074,
+      13.699999809265137,
+      13.758973121643066
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.8,
+      552.69,
+      526.44,
+      570.96
+    ],
+    "text": "19/10/1984) suspicious or unworthy of credibility in the overall circumstances of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.01,
+      576.68,
+      525.9,
+      594.96
+    ],
+    "text": "the case, in light of the fact that the Defendant denied the existence of such an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.7,
+      600.93,
+      525.52,
+      619.21
+    ],
+    "text": "instrument or that there was a \"mortgage\" of the premises as claimed by the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.78,
+      624.94,
+      525.92,
+      667.21
+    ],
+    "text": "Appellant. The learned' Additional District Judge' of Kegalle has rightly i concluded that the purpo~:red instrument is a forgery that cannot be acted upon",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.800099849700928,
+      7.83150577545166,
+      13.699999809265137,
+      13.78135871887207,
+      13.85368824005127
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.82,
+      672.68,
+      323.79,
+      690.97
+    ],
+    "text": "by Court. (see; page 165 of the Appeal Brief).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.200389862060547,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.23,
+      696.44,
+      525.52,
+      714.72
+    ],
+    "text": "From the foregoing it is my view that the learned Additional District judge came",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.78135871887207,
+      13.790252685546875
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      71.0,
+      720.21,
+      526.21,
+      738.49
+    ],
+    "text": "to the correct finding that the Mortgage Bond bearing NO,1337 dated 19th October",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.155211448669434,
+      12.867719650268555,
+      13.10571002960205,
+      13.699999809265137,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.8,
+      743.97,
+      524.18,
+      762.25
+    ],
+    "text": "1984 was a fraudulent instrument and I see no reason to disturb that finding.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.693648338317871,
+      13.699999809265137,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      220.66,
+      806.74,
+      226.33,
+      817.04
+    ],
+    "text": "i:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.500100135803223
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.01,
+      66.82,
+      525.0,
+      85.23
+    ],
+    "text": "Having thus disposed of the question whether the mortgage bond (P3) as alleged",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.62,
+      91.06,
+      525.47,
+      109.47
+    ],
+    "text": "by the Plaintiff existed at' all in the first place, I woul~ perforce conclude that",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.542291641235352,
+      13.800000190734863,
+      13.831563949584961
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.04,
+      116.27,
+      473.19,
+      134.69
+    ],
+    "text": "there was no mortgage bond in esse that could be annulled or redeemed.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.1217679977417,
+      13.280319213867188,
+      13.800000190734863,
+      13.904156684875488
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.98,
+      141.23,
+      525.16,
+      159.64
+    ],
+    "text": "I would now turn to another interesting argument advanced by both Dr Coorey",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.846870422363281,
+      13.931523323059082
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.18,
+      165.23,
+      524.87,
+      183.64
+    ],
+    "text": "and Ms. Sudarshani Coorey. This argument, if it were to be upheld, will have the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.781086921691895,
+      13.800000190734863,
+      13.837555885314941
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.93,
+      189.23,
+      525.01,
+      207.64
+    ],
+    "text": "effect that the relationship of landlord and tenant between Velaudham Pillai (the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.904156684875488
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.87,
+      213.23,
+      523.95,
+      231.64
+    ],
+    "text": "predecessor in title of the Plaintiff) and Defendant came to an end as far back as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.61683464050293,
+      13.770719528198242,
+      13.800000190734863,
+      13.85558795928955
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.24,
+      237.47,
+      525.4,
+      255.88
+    ],
+    "text": "29/07/1982 when Velaudham Pillai the landlord effected a conditional transfer in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.71,
+      261.23,
+      524.35,
+      279.64
+    ],
+    "text": "favor of Premadasa~the tenant~see the Deed bearing No 988 dated 29/07/1982",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.879965305328369,
+      8.236797332763672,
+      12.899999618530273,
+      13.774175643920898,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.81,
+      277.0,
+      221.52,
+      304.28
+    ],
+    "text": "L marked as P4.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.199999809265137,
+      13.800000190734863,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.94,
+      309.94,
+      127.7,
+      328.35
+    ],
+    "text": "Confusio",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.72,
+      335.37,
+      524.87,
+      353.8
+    ],
+    "text": "This argument owes its origin to the taxonomy of confusio and the Counsel for the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.543795585632324,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.02,
+      360.34,
+      397.9,
+      378.75
+    ],
+    "text": "Plaintifr Appellant have both cited the following passage.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.800000190734863,
+      13.846870422363281
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.54,
+      386.15,
+      523.96,
+      403.73
+    ],
+    "text": "\"Confusio, as a mode of extinguishing a right, occurs when two incompatible rights are",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.48853874206543,
+      13.105022430419922,
+      13.284817695617676,
+      13.285305976867676,
+      13.385675430297852,
+      13.455044746398926,
+      13.4776611328125,
+      13.492984771728516,
+      13.578041076660156,
+      13.66214656829834,
+      13.755894660949707,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.49,
+      412.54,
+      269.64,
+      430.12
+    ],
+    "text": "united in one and the same person.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.276361465454102,
+      13.280319213867188,
+      13.318540573120117,
+      13.351313591003418,
+      13.399331092834473,
+      13.414636611938477,
+      13.790657997131348
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.48,
+      427.68,
+      523.81,
+      456.04
+    ],
+    "text": ", Discharge of a contractual obligation by confusion, or merger is not based on",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600000381469727,
+      12.47981071472168,
+      13.249978065490723,
+      13.300000190734863,
+      13.352177619934082,
+      13.450227737426758,
+      13.531243324279785,
+      13.567112922668457,
+      13.77001953125,
+      13.80646800994873,
+      13.840583801269531,
+      14.25900936126709,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.07,
+      464.56,
+      523.69,
+      482.45
+    ],
+    "text": "performance or on waiver, but on the principle that a person cannot in the same capacity",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.111228942871094,
+      13.249978065490723,
+      13.280319213867188,
+      13.300000190734863,
+      13.33285903930664,
+      13.46397876739502,
+      13.470821380615234,
+      13.495705604553223,
+      13.591026306152344,
+      13.603259086608887,
+      13.624783515930176,
+      13.625892639160156,
+      13.928841590881348,
+      13.97188663482666,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.51,
+      491.03,
+      254.9,
+      508.61
+    ],
+    "text": "be his own creditor and debtor.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.150105476379395,
+      13.24024772644043,
+      13.376420974731445,
+      13.414636611938477,
+      13.491543769836426,
+      13.796503067016602
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.59,
+      516.94,
+      523.96,
+      534.52
+    ],
+    "text": "Thus, under a contract of tenancy, the obligations of the tenant would be extinguished",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.092268943786621,
+      13.237691879272461,
+      13.330211639404297,
+      13.351313591003418,
+      13.386858940124512,
+      13.567590713500977,
+      13.605586051940918,
+      13.657560348510742,
+      13.726709365844727,
+      13.766777038574219,
+      13.832621574401855,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.51,
+      543.11,
+      524.01,
+      560.69
+    ],
+    "text": "by operation of law if the title to the leased premises vests in the tenant, after the contract",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      10.5,
+      13.280319213867188,
+      13.29354190826416,
+      13.329779624938965,
+      13.351313591003418,
+      13.386536598205566,
+      13.46397876739502,
+      13.51090145111084,
+      13.527092933654785,
+      13.669259071350098,
+      13.70902156829834,
+      13.791858673095703,
+      13.962967872619629,
+      14.115948677062988,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.74,
+      568.95,
+      523.03,
+      586.84
+    ],
+    "text": "is entered into. Once the acquisition of title by the tenant is shown to have taken place,",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.5,
+      12.47981071472168,
+      13.136301040649414,
+      13.329455375671387,
+      13.351313591003418,
+      13.351584434509277,
+      13.386536598205566,
+      13.441606521606445,
+      13.511275291442871,
+      13.538956642150879,
+      13.666625022888184,
+      13.803390502929688,
+      13.820854187011719,
+      14.202850341796875,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.93,
+      595.12,
+      523.43,
+      613.01
+    ],
+    "text": "the capacities of landldrd and tenant become united in one person, so that there is no",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.47981071472168,
+      12.566472053527832,
+      12.944879531860352,
+      13.099637031555176,
+      13.276361465454102,
+      13.318540573120117,
+      13.339282989501953,
+      13.351313591003418,
+      13.414636611938477,
+      13.466063499450684,
+      13.56180477142334,
+      13.602570533752441,
+      13.736305236816406,
+      13.766777038574219,
+      14.014540672302246,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.7,
+      621.58,
+      526.55,
+      639.16
+    ],
+    "text": "longer any scope for recognition of a contract of tenancy\" G.L. Peiris ''Landlord",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.175759315490723,
+      13.386697769165039,
+      13.505731582641602,
+      13.578836441040039,
+      13.591768264770508,
+      13.832621574401855,
+      13.853894233703613,
+      13.994918823242188,
+      14.199999809265137,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.98,
+      646.6,
+      353.95,
+      664.33
+    ],
+    "text": "and Tenant\" Vo12. page 548 Chapter 28.",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.259490013122559,
+      14.199999809265137,
+      14.561595916748047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.95,
+      669.7,
+      524.83,
+      713.91
+    ],
+    "text": "This position was also upheld in V. Visvalingam vs. D. De S. Ga;aweera 56 NLR ill \"where the Plaintiff Appellant had let certain premises to the Defendant",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.69932746887207,
+      12.978727340698242,
+      13.726040840148926,
+      13.800000190734863,
+      13.839094161987305,
+      13.901869773864746,
+      14.199999809265137,
+      14.288226127624512,
+      19.472427368164062
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.0,
+      717.95,
+      525.19,
+      736.36
+    ],
+    "text": "Respondent on a non~no41rial document. Admittedly he was not the owner of",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.996066570281982,
+      13.800000190734863,
+      13.80109977722168
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.81,
+      741.71,
+      524.4,
+      760.12
+    ],
+    "text": "the premises. He brought ~}le present action to have the Defendant ejected on the",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.924816608428955,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.68,
+      65.12,
+      521.77,
+      83.4
+    ],
+    "text": "ground that rent was in arrears. Defendant pleaded that he had purchased from",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.85368824005127
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.99,
+      89.36,
+      522.62,
+      107.63
+    ],
+    "text": "the owners a portion of the premises and taken on lease the remainder and that,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.91,
+      113.36,
+      521.49,
+      131.64
+    ],
+    "text": "consequently, the capacity of landlord and tenant had become merged in him.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.9,
+      138.33,
+      521.97,
+      156.65
+    ],
+    "text": "Held that, even assuming that the Defendant had become owner of the entire premises, it was not",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.906309127807617,
+      13.104802131652832,
+      13.1605806350708,
+      13.241063117980957,
+      13.246554374694824,
+      13.351313591003418,
+      13.36117935180664,
+      13.538956642150879,
+      13.544167518615723,
+      13.580002784729004,
+      13.60537338256836,
+      13.66678237915039,
+      13.735309600830078,
+      13.755789756774902,
+      14.129254341125488,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.7,
+      164.72,
+      521.08,
+      183.04
+    ],
+    "text": "open for him to refuse to surrender possession to his landlord. He must first give up possession,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.942508697509766,
+      13.027822494506836,
+      13.058846473693848,
+      13.07014274597168,
+      13.08049488067627,
+      13.085990905761719,
+      13.359077453613281,
+      13.360910415649414,
+      13.365921020507812,
+      13.395623207092285,
+      13.493412017822266,
+      13.630373001098633,
+      13.750083923339844,
+      13.920568466186523,
+      14.11094856262207
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.48,
+      190.65,
+      379.3,
+      208.97
+    ],
+    "text": "and then it would be open to hirn to litigate about the ownership\".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.689913749694824,
+      12.78188705444336,
+      13.152952194213867,
+      13.271913528442383,
+      13.345758438110352,
+      13.351313591003418,
+      13.359077453613281,
+      13.414636611938477,
+      13.660776138305664,
+      13.784025192260742,
+      13.843080520629883,
+      14.129254341125488
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.94,
+      215.12,
+      522.22,
+      234.5
+    ],
+    "text": "It was contended on thei,cJines that even if the Mortgage Bond bearing No 1337",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.224757194519043,
+      13.699999809265137,
+      13.78135871887207,
+      15.038469314575195
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.9,
+      239.85,
+      522.31,
+      258.13
+    ],
+    "text": "and dated 19th October 1984 (P3) did not exist, the Defendant cou1d not plead",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.199999809265137,
+      12.534672737121582,
+      13.0,
+      13.104777336120605,
+      13.699999809265137,
+      13.751005172729492
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.76,
+      264.09,
+      522.33,
+      282.37
+    ],
+    "text": "the defense of tenancy as tenancy between Velaudham Pillai and the Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.54,
+      288.09,
+      522.51,
+      306.37
+    ],
+    "text": "had come to a halt on 29th July 1982 on account of the conditional transfer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.199999809265137,
+      13.0,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.43,
+      312.33,
+      290.47,
+      330.61
+    ],
+    "text": "evidenced in the deed bearing No. 988.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.52483081817627,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.5,
+      336.33,
+      522.27,
+      354.61
+    ],
+    "text": "But it would appear that there was a re/conveyance of the premises when the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.708597183227539,
+      13.790252685546875
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.73,
+      352.96,
+      521.65,
+      378.36
+    ],
+    "text": "; Defendant re/transferred the disputed premises to Velaudhan Pillai in fulfillment",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.199999809265137,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.42,
+      384.33,
+      522.04,
+      402.61
+    ],
+    "text": "of the condition stipulated in deed of conditional transfer bearing No. 988. This",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.52483081817627,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.19,
+      408.57,
+      522.06,
+      426.89
+    ],
+    "text": "deed bearing No. 1253 dated 16/ 05/ 1984 (PS) shows that the title of the premises",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.52483081817627,
+      13.699999809265137,
+      13.85368824005127,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.31,
+      432.57,
+      521.78,
+      450.85
+    ],
+    "text": "reverted to Veludhan Pillai in 1984. And therefore the question becomes moot",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.3,
+      451.45,
+      521.81,
+      475.08
+    ],
+    "text": "I whether the Roman Law concept of confusio would ever apply to the reversible",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.900099992752075,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.05,
+      480.8,
+      521.78,
+      499.08
+    ],
+    "text": "nature of the relationship that arose between Velaudham Pilai and the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.85368824005127
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.22,
+      504.8,
+      521.9,
+      548.09
+    ],
+    "text": "Defendant, because of the ~:onditional transfer. [ In general, the doctrine of, confusio related to corporeal property and it was the",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.400100231170654,
+      7.537426948547363,
+      12.74023151397705,
+      13.699999809265137,
+      13.746260643005371,
+      13.991597175598145
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.49,
+      554.96,
+      521.8,
+      573.24
+    ],
+    "text": "Roman term for the mixtures of goods in such a way that it was not readily",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.790252685546875,
+      13.85368824005127
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.06,
+      578.97,
+      522.15,
+      597.24
+    ],
+    "text": "reversible. In other words the temporary transfer of title to the tenant was not a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.06,
+      604.17,
+      520.77,
+      622.49
+    ],
+    "text": "true instance of a not readily reversible mixture/(si mixti essent, ita ut discerni non",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.1745023727417,
+      13.281044006347656,
+      13.33696174621582,
+      13.699999809265137,
+      13.891937255859375,
+      13.952702522277832,
+      14.18184757232666
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.3,
+      631.31,
+      108.09,
+      648.89
+    ],
+    "text": "possent)",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.497466087341309
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.72,
+      656.24,
+      521.3,
+      674.56
+    ],
+    "text": "The Romans did in fact u~ the term confusio for corporeal things, but in a more",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.877975463867188,
+      13.543795585632324,
+      13.699999809265137,
+      13.956007957458496
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.72,
+      680.96,
+      521.16,
+      699.24
+    ],
+    "text": "limited sense: where the right and liability came to vest in the same person (see,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.94,
+      705.93,
+      520.19,
+      724.25
+    ],
+    "text": "e.g. W.W. Buckland, A T ext/Book of Roman Law from Augustus to Justinian, yd ed. rev.",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.535459518432617,
+      12.969377517700195,
+      13.307527542114258,
+      13.359077453613281,
+      13.521638870239258,
+      13.569234848022461,
+      13.611089706420898,
+      13.651232719421387,
+      13.699999809265137,
+      13.711332321166992,
+      13.829550743103027,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      67.26,
+      732.08,
+      519.97,
+      750.4
+    ],
+    "text": "P. Stein (Cambridge 1963), 563/64), such as where one party was the heir (heires)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.85866641998291,
+      13.0,
+      13.652445793151855,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.35,
+      66.09,
+      524.33,
+      84.37
+    ],
+    "text": "of the other. Similarly, servitudes could be terminated when the same person",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.705548286437988
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.26,
+      91.28,
+      522.65,
+      109.56
+    ],
+    "text": "became the dominus of both the dominant and the servient land nemini res sua servit.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.72317886352539,
+      13.135030746459961,
+      13.29348373413086,
+      13.380123138427734,
+      13.480751991271973,
+      13.699999809265137,
+      13.796608924865723
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.66,
+      117.44,
+      524.51,
+      135.72
+    ],
+    "text": "D.8.6.1. (Gaius 7Ed. prov.)andJ.A.C. Thomas, Textbook ofRoamn Law (Amsterdam",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.33056926727295,
+      13.350637435913086,
+      13.699999809265137,
+      13.776028633117676,
+      13.866872787475586
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.0,
+      142.42,
+      342.19,
+      160.69
+    ],
+    "text": "1976),201. The same principle applied to a debt.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.09,
+      167.6,
+      524.29,
+      185.89
+    ],
+    "text": "Therefore, on the facts before this court there was never any confusio, only a",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.424152374267578,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.28,
+      192.8,
+      523.86,
+      211.07
+    ],
+    "text": "substitution for each other for two years. The conditional transfer was not an",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.15,
+      217.99,
+      523.95,
+      236.28
+    ],
+    "text": "irreversible mixture. (see: Lords Hoffman and Hope in invoking confusio in the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.442258834838867,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.35,
+      243.21,
+      523.64,
+      261.53
+    ],
+    "text": "case of Foskette vs. McKeown 20011 A.C. 190 ( House of Lords). Leaving aside",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.465188026428223,
+      13.472612380981445,
+      13.699999809265137,
+      13.876068115234375,
+      14.399999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.43,
+      268.16,
+      524.19,
+      286.44
+    ],
+    "text": "the confusio, there is evidence in the case which attests to the revival of tenancy",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.272465705871582,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.23,
+      293.12,
+      523.47,
+      311.4
+    ],
+    "text": "rights in favor of the Def~ndant if at all he had lost that right owing to the",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.272234916687012,
+      13.699999809265137,
+      13.71119499206543,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.1,
+      317.36,
+      186.84,
+      335.63
+    ],
+    "text": "conditional transfer.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.38,
+      341.36,
+      523.6,
+      359.64
+    ],
+    "text": "It so happened that after the Defendant re/transferred the property on 16/05/1984",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.85368824005127
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.42,
+      365.37,
+      523.98,
+      383.64
+    ],
+    "text": "the landlord Velaudham Pillai refused to accept the. rent but, the Defendant",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.2,
+      389.36,
+      524.05,
+      407.64
+    ],
+    "text": "testified that he sent the rent by money order under registered post with a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.719486236572266,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.1,
+      413.36,
+      523.08,
+      431.64
+    ],
+    "text": "covering letter for each money order stating the period for which it was paid.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.790252685546875
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.23,
+      435.61,
+      524.15,
+      456.42
+    ],
+    "text": "Such letters, money orders and registered articles were produced marked as e; 2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.567408561706543,
+      13.699999809265137,
+      14.234048843383789
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.21,
+      459.36,
+      524.79,
+      480.17
+    ],
+    "text": "to e; 22. When these documents were produced, the counsel for the plaintiff",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.462389945983887,
+      13.699999809265137,
+      13.917374610900879,
+      14.034943580627441
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.44,
+      485.61,
+      523.19,
+      503.89
+    ],
+    "text": "took up an objection to these documents on the ground that since there is no",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.78135871887207,
+      13.824880599975586
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.01,
+      509.61,
+      523.83,
+      527.89
+    ],
+    "text": "proof that these documents reached the Plaintiff they should be marked subject",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.2,
+      533.61,
+      524.39,
+      551.89
+    ],
+    "text": "to proof, and the court has allowed that application. (See/ proceedings dated",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.76,
+      557.61,
+      524.05,
+      575.89
+    ],
+    "text": "18/06/1992). Under section 16 of the Evidence Ordinance it is sufficient that a",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.867719650268555,
+      13.699999809265137,
+      13.708597183227539,
+      13.991597175598145
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.88,
+      580.79,
+      523.92,
+      600.58
+    ],
+    "text": "letter is posted and if proof is adduced to prove the posting, further proof is not",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      15.197610855102539
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.96,
+      605.6,
+      523.93,
+      623.88
+    ],
+    "text": "necessary. (See/ Section 16 of the Evidence Ordinance and illustration (b).) The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.723929405212402,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.16,
+      629.84,
+      236.34,
+      648.11
+    ],
+    "text": "Illustration (B) denotes thus;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      104.71,
+      655.83,
+      523.2,
+      673.05
+    ],
+    "text": "\"The question is whether a particular letter reached \"A\" that it was posted in due course",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.89532470703125,
+      12.962464332580566,
+      13.056917190551758,
+      13.165213584899902,
+      13.189449310302734,
+      13.22729206085205,
+      13.2277193069458,
+      13.444881439208984,
+      13.473061561584473,
+      13.528571128845215,
+      13.555330276489258,
+      13.707898139953613,
+      13.782986640930176,
+      13.841734886169434,
+      14.100000381469727
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      104.92,
+      681.74,
+      414.29,
+      698.96
+    ],
+    "text": "and was not returned through the dead letter office are relevant\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.14618968963623,
+      13.166444778442383,
+      13.18415641784668,
+      13.189449310302734,
+      13.211505889892578,
+      13.334573745727539,
+      13.444619178771973,
+      13.486556053161621,
+      13.513345718383789,
+      13.536957740783691,
+      13.771831512451172
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.88,
+      705.44,
+      524.07,
+      723.72
+    ],
+    "text": "This section has been interpreted in, Sawarimutthu vs. Edwin De Silva 75 NLR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.612873077392578,
+      13.699999809265137,
+      13.844586372375488,
+      13.848692893981934
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.55,
+      730.7,
+      100.72,
+      748.31
+    ],
+    "text": "394.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.676403045654297
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      69.26,
+      65.72,
+      523.14,
+      84.0
+    ],
+    "text": "In this case the question was whether the quite notice was given to the tenant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      69.11,
+      86.11,
+      523.0,
+      110.79
+    ],
+    "text": "Samarawickrema J. held, \"that having regard to section 16 and 114(e) of the Evidence",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.202457427978516,
+      13.258273124694824,
+      13.265981674194336,
+      13.295812606811523,
+      13.304727554321289,
+      13.32115364074707,
+      13.41299057006836,
+      13.43990707397461,
+      13.664607048034668,
+      13.699999809265137,
+      13.830697059631348,
+      14.199999809265137,
+      16.1494197845459
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.66,
+      118.26,
+      522.49,
+      135.59
+    ],
+    "text": "Ordinance, the facts proved gave rise to the presumption that the notice to quite was served on",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.880603790283203,
+      13.09023380279541,
+      13.145442008972168,
+      13.236137390136719,
+      13.258273124694824,
+      13.278072357177734,
+      13.301098823547363,
+      13.315876007080078,
+      13.357613563537598,
+      13.481575965881348,
+      13.541794776916504,
+      13.549081802368164,
+      13.584824562072754,
+      13.668710708618164,
+      13.831775665283203
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      69.22,
+      143.94,
+      143.8,
+      161.27
+    ],
+    "text": "the Defendant\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      13.145442008972168,
+      13.549395561218262
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      69.02,
+      168.21,
+      523.81,
+      186.49
+    ],
+    "text": "In these circumstances a presumption is drawn by court under section 114(e) of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.86,
+      191.96,
+      280.9,
+      210.28
+    ],
+    "text": "the Evidence Ordinance. It says thus;",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.101531982421875
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      104.32,
+      218.33,
+      473.59,
+      235.66
+    ],
+    "text": "\"That the common course of business has been followed\" in a particular case\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.94191837310791,
+      13.008349418640137,
+      13.053191184997559,
+      13.115863800048828,
+      13.258273124694824,
+      13.326322555541992,
+      13.379176139831543,
+      13.381829261779785,
+      13.489736557006836,
+      13.672139167785645,
+      13.858083724975586,
+      14.199999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.52,
+      242.37,
+      522.91,
+      260.65
+    ],
+    "text": "This presumption was indeed drawn by Justice Samarawickrema in the above",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.62,
+      266.6,
+      523.3,
+      284.88
+    ],
+    "text": "mentioned case. When a letter is posted, the: presumption is the common course",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.052079200744629,
+      13.699999809265137,
+      13.917374610900879
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.51,
+      290.6,
+      523.46,
+      308.88
+    ],
+    "text": "of business namely the delivery had occurred. In the present case as well, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.71119499206543
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.5,
+      314.84,
+      522.91,
+      333.12
+    ],
+    "text": "defendant had produced postal registered articles to prove the posting of his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.71119499206543
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.29,
+      338.85,
+      522.56,
+      357.14
+    ],
+    "text": "letters and money order~s. The copies of letters and money orders were also",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.154858112335205,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.18,
+      362.85,
+      523.22,
+      381.13
+    ],
+    "text": "produced. Once the proot, of posting is tendered the presumption is that the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.708597183227539
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.04,
+      386.6,
+      523.04,
+      404.89
+    ],
+    "text": "letter has been delivereq, unless the person who posted it says they were",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.991597175598145
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.38,
+      410.85,
+      523.13,
+      429.13
+    ],
+    "text": "returned undelivered. In this case the defendant has not said that they were",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.14,
+      434.34,
+      523.22,
+      453.44
+    ],
+    "text": "returned. He said he did not receive it back. Therefore, these documents e5 2 to",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.678224563598633,
+      13.699999809265137,
+      13.790252685546875
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.06,
+      457.7,
+      523.44,
+      477.44
+    ],
+    "text": "e5 22 need not be proved by calling any other witness, in terms of Sections 16 and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.830558776855469,
+      12.723929405212402,
+      13.571749687194824,
+      13.699999809265137,
+      13.751005172729492
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.95,
+      482.85,
+      522.06,
+      501.13
+    ],
+    "text": "114( e ) of the Evidence Ordinance and in the light of the authority cited above,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.290840148925781,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.94,
+      507.08,
+      522.83,
+      549.13
+    ],
+    "text": "although they have been marked subject to proof, the fact that rent was received t by Velaudham Piliai rem2)_nS proved. The presumptive evidence in regard to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.199999809265137,
+      12.827625274658203,
+      13.699999809265137,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.12,
+      546.13,
+      523.03,
+      573.13
+    ],
+    "text": "\\.,! these documents that aris;::.s in terms of Section 114 (e) of the Evidence Ordinance",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.0661139488220215,
+      12.733831405639648,
+      12.819558143615723,
+      13.699999809265137,
+      13.78135871887207,
+      14.201568603515625
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.89,
+      579.34,
+      523.39,
+      597.61
+    ],
+    "text": "has been not be rebutted and as such presumptive evidence has turned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      68.01,
+      603.33,
+      522.06,
+      621.61
+    ],
+    "text": "conclusive in proof of the tenancy between Velaudharn Piliai and the Defendant.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.8,
+      627.33,
+      522.07,
+      645.61
+    ],
+    "text": "The proof of tenancy Vias also advanced by the Defendant's witness one",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.335860252380371,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.76,
+      651.33,
+      522.74,
+      669.61
+    ],
+    "text": "Guneratne. He testified that he was the tenant of premises No.26, under the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.64,
+      675.33,
+      526.0,
+      693.61
+    ],
+    "text": "Velaudham PiliaL He alsE' paid Rs. 40.00// as rent for his occupation. Th~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.769036293029785,
+      13.011393547058105,
+      13.664253234863281,
+      13.677732467651367,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.85,
+      698.84,
+      523.06,
+      717.12
+    ],
+    "text": "Defendant had been in hi;:.; occupation of premises No. 22 as a tenant under",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.454231262207031,
+      13.571749687194824,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.66,
+      722.85,
+      376.01,
+      741.14
+    ],
+    "text": "Velaudham Piliai paying a monthly Rent of Rs. 40.00/.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.399999618530273,
+      13.5663480758667,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      22.12,
+      52.09,
+      522.18,
+      84.01
+    ],
+    "text": "Thus there is overwhelming evidence to prove that the Defendant~ Respondent",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.22510051727295,
+      12.300000190734863,
+      13.699999809265137,
+      13.85368824005127
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.42,
+      89.73,
+      522.13,
+      108.01
+    ],
+    "text": "had been a tenant under Velaudam PillaL The Appellant was unable to shake the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.624190330505371,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.54,
+      113.97,
+      522.2,
+      132.25
+    ],
+    "text": "overwhelming evidence that was available to show the Respondent's long",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      14.419363975524902
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.63,
+      137.98,
+      232.65,
+      156.25
+    ],
+    "text": "tenancy at the said premises.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.55,
+      163.4,
+      521.16,
+      181.72
+    ],
+    "text": "lam in complete agreement with the learned Additional District Judge of Kegalle",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.40626049041748,
+      13.699999809265137,
+      13.843647003173828,
+      14.27282428741455
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.4,
+      188.37,
+      521.78,
+      206.65
+    ],
+    "text": "that the mortgage bond bearing No 1337 and dated 19.10.1984 was not a mortgage",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.292746543884277,
+      13.52923583984375,
+      13.699999809265137,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.09,
+      212.38,
+      522.41,
+      230.65
+    ],
+    "text": "in fact and in law. Therefore the conclusion reached by the learned Additional",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.61,
+      237.56,
+      521.94,
+      255.88
+    ],
+    "text": "District Judge of Kegalle that this mortgage bond which was fraudulently",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.494158744812012,
+      13.699999809265137,
+      13.85368824005127
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.28,
+      263.73,
+      510.23,
+      282.05
+    ],
+    "text": "executed is incapable of being cancelled as it did not act in esse, is unassailable.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.068434715270996,
+      13.099637031555176,
+      13.699999809265137,
+      13.991597175598145
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.34,
+      288.68,
+      522.1,
+      306.96
+    ],
+    "text": "In the circumstances the appeal of the Plaintiff~ Appellant has to be disallowed",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.324990272521973,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.49,
+      311.35,
+      522.61,
+      331.63
+    ],
+    "text": "subject to an observation. ;,t he Plaintiff had sought in his plaint a declaration of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.166299819946289,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.41,
+      336.92,
+      521.51,
+      355.2
+    ],
+    "text": "title on the strength of the deed bearing No 2773 execqted on 12.12.1985 (PI). In",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.370230674743652,
+      13.380729675292969,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.04,
+      361.17,
+      522.49,
+      379.45
+    ],
+    "text": "fact Issue No I raised by the Plaintiff was based on this averment and the learned",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.17,
+      385.41,
+      521.79,
+      403.68
+    ],
+    "text": "Additional District Judge answer this issue in favour of the Plaintiff. But the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66.84,
+      409.41,
+      521.93,
+      427.69
+    ],
+    "text": "learned Additional District Judge did not make a pronouncement of declaration",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.32,
+      433.4,
+      521.72,
+      451.69
+    ],
+    "text": "of title in favour of the Plaintiff. The learned Aq.ditional District Judge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.24,
+      453.94,
+      362.84,
+      475.92
+    ],
+    "text": "\" straightaway dismissed tht; act filed by the Plaintiff.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.599999904632568,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.34,
+      481.64,
+      522.02,
+      499.92
+    ],
+    "text": "In view of the fact that PI was admitted by the Defendant, this Court varies the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.78135871887207
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66.55,
+      506.86,
+      522.65,
+      525.67
+    ],
+    "text": "judgement of the court a quo in that the declaration of title sought by the Plaintiff",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.616528511047363,
+      13.699999809265137,
+      13.78135871887207,
+      15.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66.95,
+      532.05,
+      516.32,
+      550.32
+    ],
+    "text": "has to be allowed. To this extent the appeal of the Plaintiff is partially allowed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.36,
+      580.05,
+      521.8,
+      598.33
+    ],
+    "text": "In the overall context, subject to the variation above, the judgement of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66.85,
+      604.29,
+      521.8,
+      622.57
+    ],
+    "text": "learned Additional Distri~t Judge delivered on 6.12.1996 is affirmed and the",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.7212114334106445,
+      13.538447380065918,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.32,
+      628.29,
+      325.41,
+      646.57
+    ],
+    "text": "appeal of the Plaintiff~ Appellant's dismissed.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.2895188331604,
+      13.699999809265137
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      289.84,
+      699.8,
+      521.99,
+      718.08
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.699999809265137,
+      13.713593482971191,
+      13.742533683776855,
+      13.781258583068848,
+      13.78498649597168
+    ]
+  }
+]

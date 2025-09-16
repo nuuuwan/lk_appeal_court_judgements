@@ -1,0 +1,3321 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      101.32,
+      103.82,
+      507.89,
+      118.14
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.76826286315918,
+      9.952418327331543,
+      9.983926773071289,
+      10.003854751586914,
+      10.017671585083008,
+      10.02810001373291,
+      10.055338859558105,
+      10.119054794311523,
+      10.234838485717773,
+      10.263250350952148,
+      10.301533699035645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.79,
+      297.51,
+      199.09,
+      311.83
+    ],
+    "text": "Case No. CA 401/2000(F)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.69966983795166,
+      9.868203163146973,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.71,
+      320.78,
+      216.31,
+      335.1
+    ],
+    "text": "D.C. Kegalle Case No. 2781/L",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.034995079040527,
+      10.042920112609863,
+      10.294363021850586,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      321.47,
+      150.49,
+      481.41,
+      164.78
+    ],
+    "text": "1. Gallath Railage Somalin Nona",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      321.28,
+      181.61,
+      471.85,
+      195.49
+    ],
+    "text": "2. Gallath Railage Gunasekera",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.857181549072266,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.62,
+      296.98,
+      336.93,
+      312.77
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.112781524658203
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      339.14,
+      228.17,
+      488.77,
+      242.05
+    ],
+    "text": "Both of Pallepelpita, Weragala,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.472674369812012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      338.61,
+      243.53,
+      401.05,
+      257.41
+    ],
+    "text": "Warakapola.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.89,
+      344.82,
+      482.84,
+      358.69
+    ],
+    "text": "Panapitiya Gamarallage Piyadasa,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.89,
+      368.1,
+      432.91,
+      381.98
+    ],
+    "text": "Pallepelpita, Weragala,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.61,
+      391.62,
+      382.79,
+      405.5
+    ],
+    "text": "Warakapola.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      489.38,
+      274.46,
+      533.73,
+      288.78
+    ],
+    "text": "Plaintiffs",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      480.74,
+      437.9,
+      533.91,
+      452.22
+    ],
+    "text": "Defendant",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.17,
+      460.94,
+      424.02,
+      475.26
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.098427772521973,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.65,
+      508.26,
+      482.6,
+      522.14
+    ],
+    "text": "Panapitiya Gamaraliage Piyadasa,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.41,
+      531.54,
+      432.42,
+      545.42
+    ],
+    "text": "Paliepelpita, Weragala,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.88,
+      554.81,
+      382.33,
+      568.69
+    ],
+    "text": "Warakapola.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      427.7,
+      601.58,
+      532.08,
+      615.9
+    ],
+    "text": "Defendant-Appellant",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      319.66,
+      623.86,
+      335.97,
+      639.65
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.112781524658203
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.03,
+      647.77,
+      480.29,
+      662.06
+    ],
+    "text": "1. Galiath Railage Somalin Nona",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.699999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      426.02,
+      678.86,
+      528.4,
+      693.18
+    ],
+    "text": "Plaintiff-Respondent",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      277.95,
+      746.34,
+      328.03,
+      760.22
+    ],
+    "text": "Page 1 of 7",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.578274726867676,
+      10.0,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.19,
+      312.8,
+      186.11,
+      326.81
+    ],
+    "text": "Before: Janak De Silva J.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.284790992736816,
+      9.699999809265137,
+      9.981612205505371,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.79,
+      342.42,
+      110.73,
+      355.78
+    ],
+    "text": "Counsel:",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.37,
+      371.83,
+      278.71,
+      385.85
+    ],
+    "text": "Thishya Weragoda for Defendant-Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.467103004455566
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      316.96,
+      104.7,
+      522.68,
+      118.72
+    ],
+    "text": "2. Gallath Railage Gunasekera (Deceased)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.905858993530273,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      316.72,
+      127.74,
+      447.21,
+      141.76
+    ],
+    "text": "2a. Gallath Railage Sirisena",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199000358581543,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      316.72,
+      151.03,
+      474.78,
+      165.05
+    ],
+    "text": "2b. Gallath Railage Chandralatha",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      316.48,
+      174.3,
+      439.52,
+      188.32
+    ],
+    "text": "2c. Gallath Railage Rohini",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.138715744018555,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      316.24,
+      197.83,
+      465.48,
+      211.85
+    ],
+    "text": "2d. Gallath Railage Abeysinghe",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      316.24,
+      221.36,
+      483.87,
+      235.37
+    ],
+    "text": "2e. Gallath Railage Shanthi Renuka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199000358581543,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.85,
+      244.62,
+      478.21,
+      258.64
+    ],
+    "text": "Pall of Pallepelpita, Weragala,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.13589859008789,
+      10.199999809265137,
+      10.524392127990723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      333.33,
+      259.99,
+      395.75,
+      274.0
+    ],
+    "text": "Warakapola.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      356.06,
+      292.01,
+      527.49,
+      305.37
+    ],
+    "text": "Substituted Plaintiffs-Respondents",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.31,
+      401.83,
+      525.29,
+      415.85
+    ],
+    "text": "Sudarshani Cooray with A.W. Diana S. Rodrigo for Plaintiff-Respondent and Substituted Plaintiffs-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.293740272521973,
+      10.199999809265137,
+      10.37485122680664,
+      10.39969539642334
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.68,
+      422.23,
+      130.83,
+      436.24
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.95,
+      452.57,
+      236.13,
+      465.93
+    ],
+    "text": "Written Submissions tendered on:",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.699999809265137,
+      9.742955207824707,
+      9.75991439819336
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.21,
+      481.76,
+      377.41,
+      495.77
+    ],
+    "text": "Defendant-Appellant on 14.10.2015,09.03.2016 and 28.11.2018",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.73,
+      510.78,
+      324.86,
+      524.8
+    ],
+    "text": "Plaintiffs-Respondents on 20.09.2013 and 03.03.2016",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.24,
+      539.83,
+      178.89,
+      553.85
+    ],
+    "text": "Argued on: 15.03.2019",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.699999809265137,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.27,
+      568.87,
+      182.8,
+      582.89
+    ],
+    "text": "Decided on: 21.06.2019",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.699999809265137,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.48,
+      598.74,
+      145.07,
+      612.1
+    ],
+    "text": "Janak De Silva J.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.043536186218262,
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.45,
+      629.1,
+      526.51,
+      643.12
+    ],
+    "text": "This is an appeal against the judgment of the learned Additional District Judge of Kegalle dated",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.920315742492676,
+      10.1112642288208,
+      10.199999809265137,
+      10.202799797058105,
+      10.271349906921387,
+      10.283458709716797,
+      10.524392127990723
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.91,
+      649.03,
+      123.51,
+      663.04
+    ],
+    "text": "12.07.2000.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.97,
+      679.5,
+      527.38,
+      693.52
+    ],
+    "text": "The Plaintiffs-Respondents (Respondents) filed the above styled action to obtain a declaration of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.283458709716797,
+      10.524392127990723,
+      10.706761360168457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.75,
+      700.86,
+      525.67,
+      714.88
+    ],
+    "text": "title to and eviction of the Defendant-Appellant (Appellant) from the land called \"Gam Ime Hena\"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.274527549743652,
+      10.283458709716797,
+      10.32103157043457,
+      10.57539176940918,
+      10.658447265625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.32,
+      721.51,
+      302.06,
+      735.53
+    ],
+    "text": "morefully described in the schedule to the plaint.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.199999809265137,
+      10.283458709716797,
+      10.57539176940918
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.27,
+      745.99,
+      321.49,
+      760.01
+    ],
+    "text": "Page 2 of7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.625575065612793,
+      10.199999809265137,
+      10.570326805114746
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.13,
+      103.2,
+      220.97,
+      117.76
+    ],
+    "text": "The Respondents claimed that:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.498312950134277,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.02,
+      132.25,
+      531.27,
+      146.81
+    ],
+    "text": "(a) At one time the owner of lots 1 and 2 (Gam Ime Hena) depicted in plan no. 2024 made by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.319025993347168,
+      10.474963188171387,
+      10.51626968383789,
+      10.558568954467773,
+      10.600000381469727,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.39,
+      153.54,
+      374.7,
+      168.4
+    ],
+    "text": "C. Kulatunga, licensed surveyor was one Dingiri Menika,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.959676742553711,
+      10.578779220581055,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87.77,
+      175.2,
+      484.29,
+      189.76
+    ],
+    "text": "(b) Dingiri Menika died leaving as her heirs Podi Nona, Appuhamy and Mudiyanse,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.844259262084961,
+      10.528409004211426,
+      10.536258697509766,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.03,
+      196.57,
+      530.8,
+      211.13
+    ],
+    "text": "(c) Instead of their shares in the land in dispute, Appuhamy, Podi Nona and Mudiyanse seized",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.125844955444336,
+      10.463217735290527,
+      10.555456161499023,
+      10.593498229980469,
+      10.600000381469727,
+      10.635640144348145,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.13,
+      218.15,
+      531.55,
+      232.72
+    ],
+    "text": "and possessed different lands owned by Dingiri Menika and accordingly Appuhamy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.558568954467773,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.13,
+      239.76,
+      450.3,
+      254.32
+    ],
+    "text": "entered into possession of the land in dispute and possessed it entirely,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.59079647064209,
+      10.593498229980469,
+      10.600000381469727,
+      10.724370956420898,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.01,
+      261.37,
+      530.73,
+      275.93
+    ],
+    "text": "(d) Upon the death of Appuhamy, the Respondents as heirs of Appuhamy possessed the said",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.972953796386719,
+      10.426530838012695,
+      10.536258697509766,
+      10.59079647064209,
+      10.600000381469727,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.52,
+      282.95,
+      488.12,
+      297.52
+    ],
+    "text": "land for over 10 years and obtained prescriptive rights against the whole world,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.558568954467773,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.02,
+      304.57,
+      531.58,
+      319.13
+    ],
+    "text": "(e) The Appellant is in possession of the land in dispute with the leave and license of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.112961769104004,
+      10.319025993347168,
+      10.421242713928223,
+      10.498312950134277,
+      10.600000381469727,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.48,
+      325.92,
+      531.46,
+      340.49
+    ],
+    "text": "Respondents and that the building marked 'A' in plan no. 2024 was put up by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.511228561401367,
+      10.51626968383789,
+      10.578779220581055,
+      10.593498229980469,
+      10.600000381469727,
+      10.674240112304688
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.48,
+      347.53,
+      530.91,
+      362.09
+    ],
+    "text": "Respondents and that until the Appellant obtained another place to stay the Respondents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727,
+      10.674240112304688,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.13,
+      369.12,
+      487.83,
+      383.68
+    ],
+    "text": "allowed him to reside at the said house marked 'A' in plan no. 2024 from 1977,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.568352699279785,
+      10.593498229980469,
+      10.600000381469727,
+      10.914679527282715
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87.77,
+      390.71,
+      531.51,
+      405.28
+    ],
+    "text": "(f) The Appellant is unlawfully taking the produce of the land in dispute from September",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.9165678024292,
+      10.498312950134277,
+      10.600000381469727,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.38,
+      412.32,
+      133.77,
+      426.88
+    ],
+    "text": "1979.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.89,
+      441.61,
+      530.64,
+      456.17
+    ],
+    "text": "The Respondents prayed for a judgment declaring that they are the owners of lot 1 and 2 of plan",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.498312950134277,
+      10.600000381469727,
+      10.670367240905762,
+      10.865427017211914
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.48,
+      463.21,
+      530.53,
+      477.77
+    ],
+    "text": "no. 2024 dated 24.03.1986, ejectment of the Appellant from the said corpus, for damages and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.481790542602539,
+      10.600000381469727,
+      10.670367240905762,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.32,
+      484.56,
+      98.49,
+      499.12
+    ],
+    "text": "costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.555456161499023
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.89,
+      513.83,
+      247.12,
+      528.4
+    ],
+    "text": "The position of the Appellant is that:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.9165678024292,
+      10.424140930175781,
+      10.600000381469727,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87.79,
+      543.11,
+      531.19,
+      557.68
+    ],
+    "text": "(a) The land on which the Appellant is residing is not 'Gam Ime Hena' but 'Makuluwamula",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.112961769104004,
+      10.208624839782715,
+      10.498312950134277,
+      10.527250289916992,
+      10.600000381469727,
+      10.60219955444336
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      105.23,
+      564.71,
+      137.61,
+      579.28
+    ],
+    "text": "Hena',",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87.53,
+      586.32,
+      531.43,
+      600.88
+    ],
+    "text": "(b) One Jayawardena was residing on the said land and he handed over vacant possession to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.509716033935547,
+      10.52543830871582,
+      10.536258697509766,
+      10.558568954467773,
+      10.568352699279785,
+      10.578779220581055,
+      10.600000381469727,
+      10.64510440826416
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104.47,
+      607.92,
+      312.88,
+      622.49
+    ],
+    "text": "the Appellant to reside about 12 years ago,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.51521110534668,
+      10.518385887145996,
+      10.600000381469727,
+      10.914679527282715
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87.55,
+      629.52,
+      391.99,
+      644.08
+    ],
+    "text": "(c) The Respondents were never in possession of the said land.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.242936134338379,
+      10.49770736694336,
+      10.498312950134277,
+      10.593498229980469,
+      10.600000381469727,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.89,
+      658.57,
+      530.93,
+      673.13
+    ],
+    "text": "The Appellant prayed for the dismissal of the Respondents action, judgment that the Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.424140930175781,
+      10.600000381469727,
+      10.674240112304688,
+      10.728768348693848,
+      10.763538360595703
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.24,
+      679.92,
+      531.26,
+      694.49
+    ],
+    "text": "in residing in \"Makuluwamula Hena\", order that the report of the surveyor is incorrect, and that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.112961769104004,
+      10.421242713928223,
+      10.558568954467773,
+      10.600000381469727,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.67,
+      701.03,
+      276.65,
+      715.6
+    ],
+    "text": "the land in dispute is not \"Gam Ime Hena\".",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.112961769104004,
+      10.421242713928223,
+      10.600000381469727,
+      10.60219955444336
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      275.67,
+      746.58,
+      325.83,
+      759.08
+    ],
+    "text": "Page 3 of 7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.09174633026123,
+      9.100000381469727,
+      9.550737380981445
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.69,
+      104.5,
+      526.19,
+      118.79
+    ],
+    "text": "The learned Additional District Judge entered judgment as prayed for by the Respondents and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.750946044921875,
+      10.325281143188477,
+      10.399999618530273,
+      10.569223403930664
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.27,
+      126.09,
+      153.99,
+      140.38
+    ],
+    "text": "hence this appeal.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.45,
+      155.38,
+      435.8,
+      169.67
+    ],
+    "text": "The learned counsel for the Appellant urged the following grounds in appeal:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.398799896240234,
+      10.399999618530273,
+      10.569223403930664
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.44,
+      184.89,
+      526.98,
+      199.18
+    ],
+    "text": "{1} The Respondents failed to adduce any documentary proof that Dingiri Menika was the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.267809867858887,
+      10.337814331054688,
+      10.398799896240234,
+      10.399999618530273,
+      10.44898509979248,
+      10.507593154907227,
+      10.678568840026855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100.46,
+      205.68,
+      526.14,
+      220.88
+    ],
+    "text": "original owner of the land in suit and the learned judge erred in holding issue no. 2 in",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.322460174560547,
+      10.399999618530273,
+      10.451521873474121,
+      10.762434005737305,
+      11.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100.3,
+      228.09,
+      230.27,
+      242.38
+    ],
+    "text": "favour of the Respondents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.627071380615234
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.2,
+      249.45,
+      526.47,
+      263.74
+    ],
+    "text": "{2} The learned judge could not have held that the Respondents were the owners of the land",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.267809867858887,
+      10.398799896240234,
+      10.399999618530273,
+      10.419382095336914,
+      10.489911079406738,
+      10.507593154907227
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100.61,
+      270.82,
+      523.47,
+      285.11
+    ],
+    "text": "in dispute on the basis of a family arrangement without any evidence from the other co-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.352089881896973,
+      10.399999618530273,
+      10.464550018310547,
+      10.569764137268066,
+      10.627071380615234
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      100.46,
+      292.42,
+      243.13,
+      306.71
+    ],
+    "text": "owners of the land in dispute",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.627071380615234
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.98,
+      321.89,
+      186.45,
+      336.53
+    ],
+    "text": "Title of the Respondents",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      11.300000190734863,
+      11.598994255065918
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.45,
+      351.21,
+      527.44,
+      365.5
+    ],
+    "text": "The learned counsel for the Appellant citing several authorities correctly submitted that this is a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.822569847106934,
+      10.325281143188477,
+      10.399999618530273,
+      10.507593154907227,
+      10.661511421203613
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.66,
+      372.81,
+      525.96,
+      387.1
+    ],
+    "text": "rei vindicatio action a nd as such the Respondents must strictly prove their title in order to succeed",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.004270553588867,
+      10.100000381469727,
+      10.293757438659668,
+      10.399999618530273,
+      10.490059852600098,
+      10.534826278686523,
+      10.678568840026855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.23,
+      394.18,
+      525.64,
+      408.47
+    ],
+    "text": "[Hameed v. Weerasinghe {1989} 1 SrLL.R. 217, Abeykoon Hamine v. Appuhamy {52 N.L.R. 49},",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.253201484680176,
+      9.42949390411377,
+      10.100000381469727,
+      10.118490219116211,
+      10.153273582458496,
+      10.182414054870605,
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.63,
+      415.77,
+      526.5,
+      430.06
+    ],
+    "text": "Peeris v. Savunhamy {54 N.L.R. 207}, Silva v. Hendrick Appu {1 N.L.R. 13}, Wanigaratne v. Juwanis",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.253201484680176,
+      10.002252578735352,
+      10.100000381469727,
+      10.212611198425293,
+      10.25934886932373,
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.11,
+      437.37,
+      526.38,
+      451.66
+    ],
+    "text": "Appuhamy {65 N.L.R. 167}, Pathirana v. Jayasundara (58 N.L.R. 169), Loku Menika v. Gunasekare",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.253201484680176,
+      10.100000381469727,
+      10.134042739868164,
+      10.16565990447998,
+      10.25934886932373,
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.33,
+      458.49,
+      168.77,
+      472.78
+    ],
+    "text": "{1997} 2 SrLL.R. 281].",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.114120483398438,
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.96,
+      488.25,
+      525.88,
+      502.54
+    ],
+    "text": "Issue no. 2 was whether the land in dispute was at one time owned by Dingiri Menika. The case",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.13569164276123,
+      10.251286506652832,
+      10.28567123413086,
+      10.322460174560547,
+      10.399999618530273,
+      10.400599479675293,
+      10.43234920501709
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.8,
+      509.62,
+      526.74,
+      523.91
+    ],
+    "text": "pleaded by the Respondents were two-fold: Firstly, it was claimed that Dingiri Menika was the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.573060035705566,
+      10.851163864135742
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.65,
+      531.21,
+      526.38,
+      545.5
+    ],
+    "text": "original owner of the land in dispute and the Respondents as the heirs of Appuhamy became",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.87842082977295,
+      10.399999618530273,
+      10.464550018310547,
+      10.627071380615234,
+      10.762434005737305
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.67,
+      552.57,
+      526.93,
+      566.86
+    ],
+    "text": "owners thereto in the circumstances pleaded in the plaint. Secondly, they submitted that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.418084144592285,
+      10.441716194152832
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.29,
+      573.93,
+      525.91,
+      588.22
+    ],
+    "text": "Appuhamy and upon his death the Respondents as heirs of Appuhamy possessed the said land",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.750946044921875,
+      10.398149490356445,
+      10.399999618530273,
+      10.762434005737305
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.26,
+      595.53,
+      483.87,
+      609.82
+    ],
+    "text": "for over 10 years and obtained prescriptive rights against the whole world {Issue no. 4}.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.067543983459473,
+      10.399999618530273,
+      10.47607135772705,
+      10.644505500793457
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.71,
+      625.05,
+      526.63,
+      639.34
+    ],
+    "text": "I am inclined to agree with the submission made by the learned counsel for the Appellant that",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.249460220336914,
+      10.399999618530273,
+      10.501157760620117,
+      10.569223403930664,
+      10.811220169067383
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.76,
+      646.66,
+      525.99,
+      660.95
+    ],
+    "text": "Respondents failed to adduce any proof that Dingiri Menika was the original owner of the land",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.400050163269043,
+      10.464550018310547,
+      10.489911079406738,
+      10.507593154907227,
+      10.811220169067383
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.56,
+      668.02,
+      480.03,
+      682.31
+    ],
+    "text": "in suit and the learned judge erred in holding issue no. 2 in favour of the Respondents.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.322460174560547,
+      10.399999618530273,
+      10.5,
+      10.627071380615234
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271.0,
+      746.25,
+      322.22,
+      760.54
+    ],
+    "text": "Page 4 of 7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.660778045654297,
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.95,
+      104.04,
+      528.28,
+      118.61
+    ],
+    "text": "However, I hold that the Respondents have proved that they have acquired prescriptive rights to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727,
+      10.608146667480469,
+      10.674240112304688,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.19,
+      125.63,
+      527.24,
+      140.2
+    ],
+    "text": "the land in dispute. Where a party invokes the provisions of section 3 of the Prescription",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.421242713928223,
+      10.600000381469727,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.81,
+      146.99,
+      527.63,
+      161.56
+    ],
+    "text": "Ordinance in order to defeat the ownership of an adverse claimant to immovable property the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.189813613891602,
+      10.593498229980469,
+      10.600000381469727,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.0,
+      168.35,
+      528.17,
+      182.92
+    ],
+    "text": "burden of proof rests fairly and squarely on him to establish the starting point for his or her",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.438164710998535,
+      10.527250289916992,
+      10.600000381469727,
+      10.728768348693848,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.6,
+      189.36,
+      526.97,
+      204.56
+    ],
+    "text": "acquisition of prescriptive rights [Gratiaen J. in Chelliah v. Wijenathan 54 N.L.R. 337 at 342]. The",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.61440372467041,
+      10.310342788696289,
+      10.424140930175781,
+      10.5,
+      10.593498229980469,
+      10.600000381469727,
+      10.71422290802002,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.76,
+      211.55,
+      526.82,
+      226.12
+    ],
+    "text": "husband of the 1st Respondent Punchi Singho testified that Appuhamy and his heirs possessed",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137,
+      10.509866714477539,
+      10.542041778564453,
+      10.600000381469727,
+      10.608146667480469,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.43,
+      233.4,
+      202.95,
+      247.97
+    ],
+    "text": "the land from 1961 to 1977.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.41,
+      254.75,
+      526.93,
+      269.32
+    ],
+    "text": "The principles of burden of proof and mode of proof where a party claims prescriptive title was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.424140930175781,
+      10.436742782592773,
+      10.600000381469727,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.63,
+      276.36,
+      526.83,
+      290.92
+    ],
+    "text": "succinctly stated by the Supreme Court in Sirajudeen and two others v. Abbas [(1994) 2 Sri.L.R.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.61440372467041,
+      10.36351203918457,
+      10.5,
+      10.55560302734375,
+      10.593498229980469,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.59,
+      297.96,
+      142.23,
+      312.53
+    ],
+    "text": "365] as follows:",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.844259262084961,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.38,
+      332.99,
+      528.58,
+      347.56
+    ],
+    "text": "\"As regards the mode of proof of prescriptive possession, mere general statements of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727,
+      10.728768348693848,
+      10.865427017211914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.04,
+      354.6,
+      527.33,
+      369.16
+    ],
+    "text": "witnesses that the plaintiff possessed the land in dispute for a number of years exceeding",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.421242713928223,
+      10.563888549804688,
+      10.600000381469727,
+      10.670367240905762,
+      10.674240112304688,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.98,
+      375.96,
+      526.91,
+      390.53
+    ],
+    "text": "the prescriptive period are not evidence of the uninterrupted and adverse possession",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.600000381469727,
+      10.865427017211914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.32,
+      397.55,
+      527.09,
+      412.12
+    ],
+    "text": "necessary to support a title by prescription. It is necessary that the witnesses should speak",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.112961769104004,
+      10.564590454101562,
+      10.600000381469727,
+      10.608146667480469,
+      10.65898609161377,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.99,
+      419.15,
+      515.12,
+      433.72
+    ],
+    "text": "to specific facts and the question of possession has to be decided thereupon by Court.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.331756591796875,
+      10.348926544189453,
+      10.600000381469727,
+      10.64510440826416,
+      10.728768348693848,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.38,
+      454.2,
+      528.31,
+      468.77
+    ],
+    "text": "One of the essential elements of the plea of prescriptive title as provided for in section 3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.844259262084961,
+      10.457745552062988,
+      10.593498229980469,
+      10.600000381469727,
+      10.670367240905762,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.42,
+      475.8,
+      527.98,
+      490.37
+    ],
+    "text": "of the Prescription Ordinance is proof of possession by a title adverse to or independent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.9165678024292,
+      10.600000381469727,
+      10.728768348693848,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.42,
+      497.15,
+      526.54,
+      511.72
+    ],
+    "text": "of that of the claimant or plaintiff. The occupation of the premises must be of such",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.424140930175781,
+      10.43389892578125,
+      10.465850830078125,
+      10.600000381469727,
+      10.728768348693848,
+      10.865427017211914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.16,
+      518.75,
+      374.14,
+      533.32
+    ],
+    "text": "character as is incompatible with the title of the owner./I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.100008010864258,
+      10.112961769104004,
+      10.600000381469727,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.67,
+      554.03,
+      527.19,
+      568.6
+    ],
+    "text": "I hold that the Respondents fulfilled this burden during the trial. The evidence of Punchi Singho",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5719633102417,
+      10.600000381469727,
+      10.608146667480469,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.37,
+      575.63,
+      526.85,
+      590.2
+    ],
+    "text": "and the then Grama Seva Niladhari Abeyratne establish the possession of the Respondents and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.334936141967773,
+      10.558568954467773,
+      10.600000381469727,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.19,
+      596.99,
+      527.03,
+      611.56
+    ],
+    "text": "their predecessor in title of the land in dispute including the construction of a house thereon.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.593498229980469,
+      10.600000381469727,
+      10.65898609161377,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.17,
+      618.59,
+      526.55,
+      633.16
+    ],
+    "text": "This is an important piece of evidence establishing prescription against the Appellant. In",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.9165678024292,
+      10.134007453918457,
+      10.189813613891602,
+      10.451966285705566,
+      10.600000381469727,
+      10.728768348693848
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.02,
+      639.95,
+      528.33,
+      654.52
+    ],
+    "text": "Siriyawathie v. Alwis et al [(2002) 2 Sri.L.R. 384] this court considered building extensions to a",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.434654235839844,
+      10.44349479675293,
+      10.5,
+      10.600000381469727,
+      10.610864639282227,
+      10.64510440826416,
+      10.687329292297363
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.76,
+      661.31,
+      528.04,
+      675.88
+    ],
+    "text": "house as circumstances giving rise to the presumption of ouster. Both the witnesses testified to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.844259262084961,
+      10.600000381469727,
+      10.728768348693848,
+      10.78075885772705
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.37,
+      682.67,
+      527.09,
+      697.24
+    ],
+    "text": "a complaint made by Punchi Singho to Abeyratne (P3/V1) that the Appellant had cut down trees",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.539175033569336,
+      10.600000381469727,
+      10.608146667480469,
+      10.64510440826416
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.51,
+      704.03,
+      526.85,
+      718.6
+    ],
+    "text": "in 1979 as well as to the fact that the Appellant is in forcible possession of the land in dispute.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.844259262084961,
+      10.112961769104004,
+      10.421242713928223,
+      10.593498229980469,
+      10.600000381469727,
+      10.608146667480469,
+      10.78075885772705,
+      10.865427017211914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      271.95,
+      745.8,
+      322.68,
+      760.37
+    ],
+    "text": "Page 5 of 7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.434950828552246,
+      9.800000190734863,
+      10.600000381469727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      6.68,
+      36.35,
+      11.41,
+      56.0
+    ],
+    "text": "..",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.404470443725586
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.17,
+      104.5,
+      525.74,
+      118.93
+    ],
+    "text": "Abeyratne further stated that the Appellant had agreed to vacate the land in dispute [Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.514739990234375,
+      10.54470443725586,
+      10.623770713806152,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.65,
+      126.34,
+      142.64,
+      140.77
+    ],
+    "text": "Brief page 126].",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.482034683227539,
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.63,
+      155.22,
+      526.35,
+      170.05
+    ],
+    "text": "Furthermore, the evidence of the surveyor C. Kurukulasuriya was to the effect that the",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.959676742553711,
+      10.458316802978516,
+      10.5,
+      10.814053535461426,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.4,
+      176.99,
+      526.43,
+      191.42
+    ],
+    "text": "Respondents claimed the rubber plantation which was about 20-25 years whereas the Appellant",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.458316802978516,
+      10.5,
+      10.595316886901855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.04,
+      198.34,
+      507.72,
+      212.77
+    ],
+    "text": "claimed the rubber plantation which is about 8 to 10 years old. This action was filed in 1983.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.5,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.12,
+      228.27,
+      133.93,
+      242.35
+    ],
+    "text": "Co-ownership",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.85,
+      251.14,
+      525.93,
+      265.57
+    ],
+    "text": "The learned counsel for the Appellant submitted that the evidence shows that the Respondents",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.448675155639648,
+      10.5,
+      10.514739990234375,
+      10.557990074157715,
+      10.619915962219238,
+      10.623770713806152
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.16,
+      272.5,
+      525.43,
+      286.93
+    ],
+    "text": "were only co-owners of the land in dispute and as such not entitled to maintain this action as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      9.925800323486328,
+      10.5,
+      10.514739990234375,
+      10.552070617675781,
+      10.729785919189453,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.87,
+      294.11,
+      525.64,
+      308.54
+    ],
+    "text": "they were seeking a declaration of title to the entire land in suit while admitting that there was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.458316802978516,
+      10.5,
+      10.540371894836426,
+      10.557990074157715,
+      10.678040504455566,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.3,
+      315.94,
+      346.53,
+      330.37
+    ],
+    "text": "only an amicable partitioning based on an oral agreement.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.37480354309082,
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.4,
+      345.23,
+      526.81,
+      359.66
+    ],
+    "text": "Reliance was placed on Githohamy v. Karanagoda (56 N.L.R. 250 at 253) where it was held that",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.568511009216309,
+      10.26159381866455,
+      10.399999618530273,
+      10.5,
+      11.128066062927246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.16,
+      366.58,
+      526.39,
+      381.01
+    ],
+    "text": "when a land is amicably partitioned among co-owners it is usual to execute cross deeds among",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.256885528564453,
+      10.5,
+      10.863072395324707,
+      10.90320873260498
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.87,
+      388.18,
+      419.49,
+      402.61
+    ],
+    "text": "themselves or at least that all co-owners should sign the plan of partition.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.609182357788086,
+      10.623770713806152,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.4,
+      417.46,
+      525.37,
+      431.89
+    ],
+    "text": "Reliance was further placed on Hariette v. Pathmasiri [(1996) 1 SrLL.R. 358 at 362-3] where it was",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.389619827270508,
+      10.241107940673828,
+      10.387395858764648,
+      10.399999618530273,
+      10.458316802978516,
+      10.5,
+      10.582029342651367,
+      10.90320873260498
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.2,
+      439.06,
+      525.79,
+      453.49
+    ],
+    "text": "held that when a co-owner claims that he is possessing a portion of the land in lieu of his",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.343128204345703,
+      10.388811111450195,
+      10.5,
+      10.623770713806152,
+      10.678040504455566,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.44,
+      460.67,
+      525.41,
+      475.1
+    ],
+    "text": "undivided share and seeks ejectment he cannot stop at adducing evidence of paper title to an",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.258881568908691,
+      10.343128204345703,
+      10.5,
+      10.540371894836426,
+      10.729785919189453,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.44,
+      482.26,
+      526.81,
+      496.69
+    ],
+    "text": "undivided share and the burden was on him to adduce evidence of exclusive possession and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.514739990234375,
+      10.729785919189453,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.29,
+      503.62,
+      405.21,
+      518.05
+    ],
+    "text": "acquisition of prescriptive title by ouster in respect of the smaller land.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.608588218688965,
+      10.678040504455566,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      64.85,
+      532.91,
+      525.86,
+      547.34
+    ],
+    "text": "The learned counsel for the Respondents reply was two-fold. Firstly, it was submitted that this is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.448675155639648,
+      10.5,
+      10.514739990234375,
+      10.557990074157715,
+      10.712646484375,
+      10.90320873260498
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.44,
+      554.51,
+      525.88,
+      568.94
+    ],
+    "text": "not an issue raised at the trial and is a mixed question of fact and law and as such cannot be taken",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.925800323486328,
+      10.065145492553711,
+      10.258881568908691,
+      10.299995422363281,
+      10.44545841217041,
+      10.48739242553711,
+      10.5,
+      10.514739990234375,
+      10.554956436157227,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.44,
+      575.86,
+      526.4,
+      590.29
+    ],
+    "text": "up for the first time in appeal. Secondly, it was submitted that in any event, the Supreme Court",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.458316802978516,
+      10.461529731750488,
+      10.5,
+      10.509695053100586,
+      10.526317596435547,
+      10.623770713806152,
+      10.673663139343262
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.45,
+      597.46,
+      526.62,
+      611.89
+    ],
+    "text": "held in Attanayake v. Ramyawathie [(2003) 1 SrLL.R. 401 at 409] that a co-owner of a land who",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.568511009216309,
+      10.241107940673828,
+      10.399999618530273,
+      10.5,
+      10.689146041870117,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.07,
+      619.06,
+      525.36,
+      633.49
+    ],
+    "text": "sues a trespasser for a declaration of title and ejectment is entitled to maintain the action even",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.32331371307373,
+      10.5,
+      10.540371894836426,
+      10.619915962219238,
+      10.678040504455566,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.17,
+      640.66,
+      525.77,
+      655.09
+    ],
+    "text": "if he instituted the action as the sole owner of the land and premises and that the fact that he",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.343128204345703,
+      10.5,
+      10.514739990234375,
+      10.557990074157715,
+      10.814053535461426,
+      11.128066062927246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.29,
+      662.02,
+      526.27,
+      676.45
+    ],
+    "text": "asked for a greater relief than he is entitled to, should not prevent him from getting the lesser",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.256885528564453,
+      10.424327850341797,
+      10.460023880004883,
+      10.5,
+      10.552070617675781,
+      10.619915962219238
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.44,
+      683.15,
+      526.62,
+      697.58
+    ],
+    "text": "relief which he is entitled to. However, in such situation, there is a burden on such person who",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.256885528564453,
+      10.44545841217041,
+      10.460023880004883,
+      10.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.44,
+      704.51,
+      429.27,
+      718.94
+    ],
+    "text": "makes the claim, to adduce evidence of ownership to the allotment of land.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.498899459838867,
+      10.5,
+      10.514739990234375,
+      10.678040504455566,
+      10.729785919189453,
+      10.814053535461426,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      270.87,
+      746.27,
+      322.09,
+      760.7
+    ],
+    "text": "Page 6 of7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.434950828552246,
+      9.800000190734863,
+      10.72464656829834
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.55,
+      104.02,
+      526.39,
+      118.45
+    ],
+    "text": "I am of the view that there is merit in the submission that this issue is for the first time raised in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.256885528564453,
+      10.390175819396973,
+      10.5,
+      10.509695053100586,
+      10.557990074157715,
+      10.619915962219238,
+      10.623770713806152,
+      10.678040504455566
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.01,
+      125.62,
+      526.94,
+      140.05
+    ],
+    "text": "appeal. However, as explained above, as correctly submitted by the learned counsel for the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.925800323486328,
+      10.052253723144531,
+      10.5,
+      10.619915962219238
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.89,
+      146.99,
+      526.33,
+      161.42
+    ],
+    "text": "Appellant the Respondents have failed to adduce any evidence to show that land in dispute was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.387395858764648,
+      10.5,
+      10.514739990234375,
+      10.689146041870117,
+      10.729785919189453,
+      10.863072395324707
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.01,
+      168.58,
+      526.26,
+      183.01
+    ],
+    "text": "at one time owned by Dingiri Menika. But the Respondents have established that Appuhamy and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.623770713806152
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.16,
+      190.19,
+      527.47,
+      204.62
+    ],
+    "text": "upon his death the Respondents as the two children of Appuhamy possessed the said land for",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.492197036743164,
+      10.5,
+      10.514739990234375,
+      10.619915962219238,
+      10.678040504455566,
+      10.781720161437988
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.02,
+      211.78,
+      526.72,
+      226.21
+    ],
+    "text": "over 10 years and obtained prescriptive rights against the whole world (Issue no. 4). In these",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.252840995788574,
+      10.482134819030762,
+      10.5,
+      10.514739990234375
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.0,
+      233.38,
+      527.19,
+      247.81
+    ],
+    "text": "circumstances, the Respondents are entitled to maintain this action, as the co-owners to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.925800323486328,
+      10.5,
+      10.514739990234375,
+      10.729785919189453
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.88,
+      254.99,
+      527.65,
+      269.42
+    ],
+    "text": "whole land in dispute, for a declaration of title and ejectment of the Appellant from thereon as a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.797714233398438,
+      10.5,
+      10.540371894836426,
+      10.712646484375,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.59,
+      276.58,
+      301.03,
+      291.01
+    ],
+    "text": "trespasser [Attanayake v. Ramyawathie (supra)].",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.61440372467041,
+      10.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.11,
+      305.87,
+      526.53,
+      320.3
+    ],
+    "text": "For all the foregoing reasons and subject to my conclusions on the ownership of Dingiri Menika",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.427197456359863,
+      10.477476119995117,
+      10.5,
+      10.729785919189453,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.59,
+      327.46,
+      526.45,
+      341.89
+    ],
+    "text": "to the land in dispute, I see no reason to interfere with the judgment of the learned Additional",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.376473426818848,
+      10.5,
+      10.551523208618164,
+      10.594772338867188,
+      10.729785919189453,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.36,
+      349.06,
+      272.02,
+      363.49
+    ],
+    "text": "District Judge of Kegalle dated 12.07.2000.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.948376655578613
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.57,
+      378.58,
+      233.27,
+      393.01
+    ],
+    "text": "The appeal is dismissed with costs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.065145492553711,
+      10.448675155639648,
+      10.5,
+      10.551523208618164
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      347.56,
+      495.95,
+      486.59,
+      510.38
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      10.678040504455566,
+      10.814053535461426
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      271.35,
+      747.37,
+      322.57,
+      760.7
+    ],
+    "text": "Page 7 of7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.386690139770508,
+      9.699999809265137,
+      10.307995796203613
+    ]
+  }
+]

@@ -1,0 +1,2944 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      19.24,
+      26.92,
+      517.1,
+      75.34
+    ],
+    "text": ".. IN THE COURT OF APPEAL OF THE DEMOCRATIC",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.410856246948242,
+      16.807058334350586,
+      16.89911651611328,
+      16.964839935302734,
+      16.985763549804688,
+      17.045909881591797,
+      17.172176361083984,
+      17.20009994506836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      167.51,
+      81.04,
+      463.92,
+      104.87
+    ],
+    "text": "SOCIALIST REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      16.807058334350586,
+      16.854782104492188,
+      16.89809799194336,
+      16.963979721069336,
+      17.010303497314453
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      83.38,
+      224.78,
+      235.33,
+      242.39
+    ],
+    "text": "C.A. Case No.953/1999 (F)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      83.46,
+      251.66,
+      209.67,
+      286.79
+    ],
+    "text": "D.C. Hambantota Case No.68/97/L",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.05282974243164,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      84.9,
+      519.02,
+      138.67,
+      536.63
+    ],
+    "text": "BEFORE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      85.3,
+      567.49,
+      151.07,
+      585.1
+    ],
+    "text": "COUNSEL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.1,
+      690.37,
+      154.2,
+      707.98
+    ],
+    "text": "Decided on",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.358942985534668
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.23,
+      146.29,
+      366.89,
+      163.9
+    ],
+    "text": "W.K. Piyasiri",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.63,
+      169.1,
+      427.01,
+      186.71
+    ],
+    "text": "of Udagama, Illukgodella,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.4,
+      192.37,
+      388.44,
+      209.98
+    ],
+    "text": "Tissamaharamaya.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.69,
+      215.17,
+      457.83,
+      232.78
+    ],
+    "text": "DEFENDANT ~APPELLANT",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.687867164611816,
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      267.0,
+      317.95,
+      276.6
+    ],
+    "text": "~Vs~",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      6.754255771636963
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.73,
+      307.81,
+      520.34,
+      325.42
+    ],
+    "text": "Albert de Silva Warnasooriya (Deceased)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.306917190551758
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.11,
+      331.35,
+      365.37,
+      348.95
+    ],
+    "text": "of Yodawewa.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.25,
+      358.44,
+      458.35,
+      370.14
+    ],
+    "text": "PLAINTIFF~RESPONDENT",
+    "fonts": [
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      8.70723819732666
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.42,
+      395.41,
+      510.22,
+      413.02
+    ],
+    "text": "Rajitha Samson de Silva Warnasooriya",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.427342414855957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.54,
+      418.93,
+      409.4,
+      436.54
+    ],
+    "text": "No.365, Kirinda Road,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.13,
+      441.97,
+      383.66,
+      459.58
+    ],
+    "text": "Tissmaharamaya.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.72,
+      464.53,
+      528.17,
+      482.14
+    ],
+    "text": "Substituted PLAINTIFF~RESPONDENT",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.805089950561523,
+      13.251200675964355
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.69,
+      518.3,
+      402.3,
+      535.91
+    ],
+    "text": "A.H.M.D. Nawaz,j.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199999809265137,
+      13.307165145874023
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.17,
+      566.77,
+      562.91,
+      601.91
+    ],
+    "text": "S.N. Vijith Singh with Chitrananda Liyanage for the 1st Defendant~Appellant",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.943166255950928,
+      8.017449378967285,
+      12.895129203796387,
+      13.199999809265137,
+      13.219684600830078
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.16,
+      607.33,
+      563.46,
+      659.5
+    ],
+    "text": "W. Dayaratne, PC with Samadini Anuradha, Harsha de Silva and Asanka Kahadawaarachchi for the substituted Plaintiff~Respondent",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.531947612762451,
+      12.56401538848877,
+      13.163850784301758,
+      13.17988395690918,
+      13.199999809265137,
+      13.281895637512207
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.4,
+      690.13,
+      347.62,
+      707.74
+    ],
+    "text": "19.07.2018",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.986879348754883
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      321.55,
+      737.22,
+      329.14,
+      749.72
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.97,
+      64.74,
+      561.57,
+      129.07
+    ],
+    "text": "A.H.M.D. Nawaz, J. The learned President's Counsel for the Substituted Plaintiff~ Respondent raised a",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.047995567321777,
+      13.049819946289062,
+      13.100000381469727,
+      13.300000190734863,
+      45.20009994506836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112.58,
+      112.94,
+      561.4,
+      130.68
+    ],
+    "text": "preliminary objection to the maintainability of this appeal at the very outset when",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.01,
+      135.5,
+      290.86,
+      153.24
+    ],
+    "text": "the matter was taken up for argument.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.91,
+      157.38,
+      558.76,
+      183.21
+    ],
+    "text": "1) Mr. Chandrasena Attorney~at~Law had filed the proxy on behalf of the r t",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.599999904632568,
+      8.192874908447266,
+      12.575835227966309,
+      13.290596961975098,
+      13.300000190734863,
+      18.799999237060547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.12,
+      186.39,
+      561.46,
+      204.13
+    ],
+    "text": "Defendant~Appellant (hereinafter sometimes referred to as\" the 1st Defendant\" or",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.19209098815918,
+      8.388029098510742,
+      13.067620277404785,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.1,
+      209.19,
+      210.45,
+      226.94
+    ],
+    "text": "the \"Appellant\").",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.24,
+      237.27,
+      561.54,
+      255.01
+    ],
+    "text": "2) On 23.11.l999 the petition of appeal was filed in the District Court on behalf of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100300788879395,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      116.9,
+      259.58,
+      561.74,
+      277.33
+    ],
+    "text": "1st Defendant~Appellant by a different Attorney~at~Law namely one Mr. Piyaratne",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.934786319732666,
+      8.02332592010498,
+      8.388029098510742,
+      13.20400333404541,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      117.29,
+      282.87,
+      166.31,
+      300.62
+    ],
+    "text": "Bandara.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.42,
+      310.95,
+      562.0,
+      328.69
+    ],
+    "text": "In other words whilst a proxy of one Mr. Chandrasena, AAL was on record, another",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.891888618469238,
+      13.116839408874512,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.05,
+      333.28,
+      560.78,
+      351.02
+    ],
+    "text": "Attorney~at~Law called Mr. Piyaratne Bandara filed both the notice of appeal as well as",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.012789726257324,
+      13.06054401397705,
+      13.20400333404541,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.25,
+      356.31,
+      202.63,
+      374.05
+    ],
+    "text": "the petition of appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.7,
+      383.91,
+      561.78,
+      401.65
+    ],
+    "text": "Mr. W. Dayaratne, PC contended on behalf of the substituted Plaintiff~Respondent that",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.604819297790527,
+      13.20400333404541,
+      13.204506874084473,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.57,
+      406.71,
+      561.9,
+      424.46
+    ],
+    "text": "since this procedure is contrary to the Civil Procedure Code the petition of appeal is bad",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.285792350769043,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.17,
+      429.51,
+      563.9,
+      447.25
+    ],
+    "text": "in law and the appeal must be rejected. Mr. Vijith Singh for the 1st Defendant~Appellant",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.157249450683594,
+      8.554120063781738,
+      13.290596961975098,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.62,
+      452.31,
+      561.77,
+      470.05
+    ],
+    "text": "argued that the proxy given by the 1st Defendant to Mr. Piyarathne Bandara restricted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.388029098510742,
+      13.20400333404541,
+      13.300000190734863,
+      13.362552642822266
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.26,
+      474.36,
+      560.96,
+      492.91
+    ],
+    "text": "him to fileonly the petition of appeal and further contended that notwithstanding the 2nd",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600000381469727,
+      13.300000190734863,
+      13.362552642822266,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.54,
+      497.44,
+      394.43,
+      515.18
+    ],
+    "text": "proxy, the power of the 1st proxy holder remained in force.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.388029098510742,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.92,
+      525.51,
+      562.04,
+      543.25
+    ],
+    "text": "Both counsel acknowledged the legal proposition that has stood for years namely two",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.75,
+      548.07,
+      562.11,
+      565.81
+    ],
+    "text": "proxies could not exist side by side for a party. The cases which affirmed the legal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.97,
+      570.4,
+      562.36,
+      588.14
+    ],
+    "text": "principle have laid down that no Attorney~at~Law other than the Attorney who is on",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.828563213348389,
+      13.285792350769043,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.21,
+      594.63,
+      562.61,
+      612.37
+    ],
+    "text": "record could file the notice and petition of appeal~see See1awathie v. Jayasinghe (1985) 2",
+    "fonts": [
+      "Helvetica-Oblique",
+      "HiddenHorzOCR",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.467048168182373,
+      10.87474536895752,
+      13.153797149658203,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.24,
+      618.15,
+      387.13,
+      635.89
+    ],
+    "text": "Sri LR. 260; Fernando v. Fernando (1997) 3 Sri LR. p.l.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.697883605957031,
+      13.202795028686523,
+      13.300000190734863,
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.39,
+      646.46,
+      397.69,
+      664.21
+    ],
+    "text": "In fact Section 27 of the Civil Procedure Code states that:~",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.038181304931641,
+      13.117446899414062,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.24,
+      674.31,
+      562.87,
+      692.05
+    ],
+    "text": "Section 27(1) of the Civil Procedure Code states that, \"The appointment of a registered",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.166227340698242,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.59,
+      696.4,
+      562.62,
+      714.14
+    ],
+    "text": "attorney to make any appearance or application, or do any act as aforesaid, shall be in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      319.86,
+      738.31,
+      326.99,
+      750.98
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.94,
+      66.01,
+      560.23,
+      83.48
+    ],
+    "text": "writing signed by the client and shall be filed in court; and every such appointment shall",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.32,
+      88.8,
+      560.0,
+      106.28
+    ],
+    "text": "contain an address at which service of any process which under provisions of this",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.29,
+      111.36,
+      560.14,
+      128.84
+    ],
+    "text": "Chapter (Chapter V) may be served on a registered attorney, instead of the party whom",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.94351577758789,
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.93,
+      133.92,
+      233.35,
+      151.4
+    ],
+    "text": "he represents, may be made.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.91,
+      166.08,
+      560.57,
+      183.55
+    ],
+    "text": "When so filed, the proxy shall be in force until revoked with the leave of the court and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.231490135192871,
+      13.285634994506836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.31,
+      188.63,
+      559.88,
+      206.11
+    ],
+    "text": "after notice to the registered attorney by a writing signed by the client and filed in court,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.124427795410156
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.07,
+      211.19,
+      560.47,
+      228.67
+    ],
+    "text": "or until the client dies or until the registered attorney dies, is removed, or suspended, or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.05,
+      233.75,
+      560.66,
+      251.23
+    ],
+    "text": "otherwise becomes incapable to act, or until all proceedings in the action are ended and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.29,
+      256.56,
+      477.12,
+      274.03
+    ],
+    "text": "judgment satisfied so far as regards the client (Section 27(2) of the Code).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.08,
+      289.93,
+      561.42,
+      307.45
+    ],
+    "text": "These provisions have been interpreted by our Courts from early times,see Letchumanan",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.05,
+      313.2,
+      560.99,
+      330.72
+    ],
+    "text": "v. Christian 4 N.LR 323 which proclaimed that a recognized agent appointed by a party",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.352874755859375,
+      12.92310619354248,
+      13.100000381469727,
+      13.189444541931152,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.18,
+      335.75,
+      560.64,
+      353.23
+    ],
+    "text": "to a case such as an Attorney'at,law can be named even at a later stage. In this case the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.34662914276123
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.37,
+      358.55,
+      559.96,
+      376.03
+    ],
+    "text": "Plaintiff had by an oversight omitted to insert the name of the proctor in his proxy. The",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.28,
+      381.11,
+      560.62,
+      398.59
+    ],
+    "text": "Court held that the proper course to adopt in such a case was not to order the plaint to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.188749313354492,
+      13.189444541931152
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.97,
+      403.92,
+      560.68,
+      421.4
+    ],
+    "text": "be taken off the file, and cast the Plaintiff in costs, but to supply the omission then and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.04664134979248,
+      13.100000381469727,
+      13.209244728088379,
+      13.305784225463867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.42,
+      427.44,
+      496.0,
+      444.96
+    ],
+    "text": "there and proceed with the case in due course,see Treahy v. Bawa 7 N.LR 22.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.352874755859375,
+      12.956969261169434,
+      13.100000381469727,
+      13.105348587036133,
+      13.231490135192871,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.18,
+      460.81,
+      558.76,
+      478.33
+    ],
+    "text": "As regards Section 27(2) of the Civil Procedure Code, the Supreme Court in Fernando v.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.145238876342773,
+      12.940427780151367,
+      13.100000381469727,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.03,
+      483.37,
+      560.55,
+      500.89
+    ],
+    "text": "Fernando (1997) 3 Sri LR 1 held that a proxy is valid until all proceedings in the action",
+    "fonts": [
+      "Helvetica",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      13.100000381469727,
+      13.189444541931152,
+      13.66257095336914,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.76,
+      506.16,
+      275.51,
+      523.64
+    ],
+    "text": "are ended and judgment is satisfied.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.57,
+      534.25,
+      560.86,
+      551.77
+    ],
+    "text": "In MM HaniEfa v. A.M Idroos 2015 BLR 24, it was held that a revision and leave to",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.352874755859375,
+      12.749716758728027,
+      12.837928771972656,
+      13.100000381469727,
+      13.189444541931152,
+      13.285141944885254,
+      13.513680458068848,
+      13.800000190734863,
+      14.594291687011719,
+      15.420145988464355
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.77,
+      557.04,
+      560.76,
+      574.52
+    ],
+    "text": "appeal application could be initiated by another new Attorney,at,Law other than the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.65,
+      579.84,
+      560.76,
+      597.32
+    ],
+    "text": "registered Attorney on record, which does not form a step in the proceedings of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727,
+      13.101699829101562
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.79,
+      602.64,
+      161.16,
+      620.12
+    ],
+    "text": "original court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.08,
+      630.72,
+      560.95,
+      648.24
+    ],
+    "text": "In Jeevani Investments v. Wfjesena Perera (2005) 3 Sri LR 350 citing Saravanapavan's",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.145238876342773,
+      13.096599578857422,
+      13.100000381469727,
+      13.749879837036133,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.78,
+      653.27,
+      561.45,
+      670.75
+    ],
+    "text": "case (1984) 1 Sri LR 268 the Court held that appellate proceedings are a continuation of",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.0,
+      13.098099708557129,
+      13.100000381469727,
+      13.189444541931152,
+      13.66257095336914
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      82.71,
+      675.61,
+      329.12,
+      693.09
+    ],
+    "text": "proceedings commenced in the original court.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      318.24,
+      736.74,
+      325.89,
+      750.35
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.71,
+      65.91,
+      555.8,
+      83.65
+    ],
+    "text": "I had occasion to cite a slew of cases such as the above in the case of Serasundara v.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.557022094726562,
+      13.215079307556152,
+      13.300000190734863,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.92,
+      88.96,
+      391.38,
+      106.7
+    ],
+    "text": "KKG. DyaneiusCA 1423/99 (CA minutes of 24.04.2016).",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.800000190734863,
+      14.151182174682617
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.2,
+      117.04,
+      557.33,
+      134.78
+    ],
+    "text": "This follows that no appeal could be filed by a new Attorney-at-Law as it is the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.06054401397705,
+      13.285792350769043,
+      13.300000190734863,
+      13.386171340942383
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.42,
+      141.04,
+      557.73,
+      158.78
+    ],
+    "text": "continuation of the original case. Justice Eva Wanasundera in Haniffa's case (supra) held",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.6654634475708,
+      13.013617515563965,
+      13.285792350769043,
+      13.287393569946289,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.53,
+      164.31,
+      557.26,
+      182.05
+    ],
+    "text": "that there cannot be two contracts of agency as the Civil Procedure Code limits agency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.06054401397705,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.54,
+      187.1,
+      267.82,
+      204.84
+    ],
+    "text": "to one registered Attorney-at-Law.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.3,
+      215.2,
+      557.44,
+      232.94
+    ],
+    "text": "As the relationship between a client and an Attorney-at-Law is one of an agency, the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.923985481262207,
+      13.285792350769043,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.41,
+      237.99,
+      557.57,
+      255.73
+    ],
+    "text": "question arises as to whether this power to take steps right throughout could be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.06054401397705,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.29,
+      260.3,
+      557.4,
+      278.05
+    ],
+    "text": "restricted by the client only to litigate in the District Court without giving the power to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.309696197509766
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.34,
+      283.34,
+      170.41,
+      301.08
+    ],
+    "text": "prefer an appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.74,
+      311.43,
+      557.4,
+      329.18
+    ],
+    "text": "Mr. Vijith Singh cited the case of Mohideen Ali v. Hassim 62 N.L.R 457 at 459 to",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.290904998779297,
+      13.157133102416992,
+      13.20400333404541,
+      13.266206741333008,
+      13.285792350769043,
+      13.300000190734863,
+      13.800000190734863,
+      14.282535552978516
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.41,
+      333.98,
+      558.15,
+      351.72
+    ],
+    "text": "advance the argument that an authority granted by a lay client to his proctor in writing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.44,
+      356.79,
+      364.85,
+      374.53
+    ],
+    "text": "can be limited. In fact Basnayake, c.J stated at p 459:-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.62,
+      386.2,
+      557.27,
+      404.08
+    ],
+    "text": "\"A (proxy) undoubtedly limits the proctor's authority. He cannot go counter to it; but I do not",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.820282936096191,
+      12.185281753540039,
+      12.458634376525879,
+      12.472002029418945,
+      12.542451858520508,
+      12.731049537658691,
+      12.846725463867188,
+      12.918656349182129,
+      12.955084800720215,
+      12.991146087646484,
+      13.04198169708252,
+      13.074953079223633,
+      13.08771800994873,
+      13.136184692382812,
+      13.180337905883789,
+      13.263157844543457,
+      13.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.97,
+      411.68,
+      557.17,
+      428.53
+    ],
+    "text": "think that it can be said that the writing is exhaustive of his powers nor is the lay client precluded",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.49986743927002,
+      11.703452110290527,
+      12.51055908203125,
+      12.583643913269043,
+      12.670147895812988,
+      12.695173263549805,
+      12.733542442321777,
+      12.828289031982422,
+      12.835064888000488,
+      12.846725463867188,
+      12.88453483581543,
+      12.967967987060547,
+      13.051395416259766,
+      13.15261459350586,
+      13.242488861083984,
+      13.273454666137695,
+      13.294647216796875,
+      13.380680084228516,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.85,
+      436.4,
+      556.85,
+      453.25
+    ],
+    "text": "from enlarging the scope of the powers granted by writing either expressly or impliedly. Such",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.469291687011719,
+      12.556747436523438,
+      12.808210372924805,
+      12.810150146484375,
+      12.816612243652344,
+      12.828289031982422,
+      12.846725463867188,
+      12.901339530944824,
+      13.058371543884277,
+      13.068408012390137,
+      13.092830657958984,
+      13.105262756347656,
+      13.226638793945312,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.01,
+      460.87,
+      556.98,
+      477.72
+    ],
+    "text": "extension of the proctor's authority may be given orally or may be inferred from the lay client's",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.521970748901367,
+      12.670147895812988,
+      12.72199535369873,
+      12.733542442321777,
+      12.81688117980957,
+      12.939629554748535,
+      12.963923454284668,
+      13.025835037231445,
+      13.040287971496582,
+      13.049809455871582,
+      13.054884910583496,
+      13.068408012390137,
+      13.12767219543457,
+      13.329116821289062,
+      13.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      120.03,
+      485.35,
+      165.3,
+      502.2
+    ],
+    "text": "conduct.\"",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      12.871247291564941
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.95,
+      513.52,
+      557.92,
+      531.26
+    ],
+    "text": "In the circumstances of this case the authority/power given to the Attorney in the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.285792350769043,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.97,
+      536.31,
+      558.75,
+      554.05
+    ],
+    "text": "District Court on the proxy given to him, was restricted to the District Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.07,
+      558.63,
+      558.03,
+      576.37
+    ],
+    "text": "proceedings by writing and the conduct of the client in as much as a new proxy was",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.215079307556152,
+      13.285792350769043,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.93,
+      581.2,
+      338.88,
+      598.94
+    ],
+    "text": "given to a different Attorney to prefer an appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.44,
+      609.51,
+      558.59,
+      627.25
+    ],
+    "text": "I do not for a moment gainsay the ability of the client to enlarge or limit the powers",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.2,
+      631.42,
+      558.93,
+      649.84
+    ],
+    "text": "granted to his Attorney-at-Law but if one peruses the powers granted to the two",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.406970024108887,
+      14.222694396972656
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.24,
+      654.38,
+      559.16,
+      672.12
+    ],
+    "text": "Attorneys-at-Law in their respective proxies, they are coterminous and grant similar",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.28,
+      676.7,
+      558.73,
+      694.45
+    ],
+    "text": "powers. Whilst the proxy given to Ms. Chandrasena who has filed the notice of appeal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.199117660522461,
+      13.300000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.86,
+      698.63,
+      558.59,
+      717.18
+    ],
+    "text": "and petition of appeal grants her powers all the way up to execution, the proxy given to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.300000190734863,
+      13.761964797973633
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      315.69,
+      737.1,
+      323.28,
+      749.6
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.02,
+      66.81,
+      559.12,
+      84.01
+    ],
+    "text": "Piyarathne Bandara also covers the same aspects of litigation. There is no express",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91603946685791
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.26,
+      89.61,
+      559.77,
+      106.82
+    ],
+    "text": "limitation of Piyarathna Bandara in that his remit of acts has been restricted to the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.088374137878418,
+      13.108022689819336
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.49,
+      112.18,
+      559.94,
+      129.39
+    ],
+    "text": "original court. Mr. Vijith Singh quite ingeniously argued that when the District Court",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91603946685791,
+      12.94193172454834,
+      13.088374137878418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.47,
+      134.49,
+      559.52,
+      151.7
+    ],
+    "text": "accepted the proxy of the 2ndAttorney to file notice and petition of appeal without the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.899999618530273,
+      12.900599479675293,
+      12.91603946685791,
+      12.997879028320312
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.38,
+      157.06,
+      558.57,
+      174.27
+    ],
+    "text": "power of the 1st Attorney being revoked, the District Court had sanctioned the 2nd",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.800000190734863,
+      12.899999618530273,
+      12.903749465942383,
+      12.91603946685791,
+      12.998920440673828
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.33,
+      179.86,
+      559.88,
+      197.06
+    ],
+    "text": "Attorney to function. Though I accept the contention that the power of an Attorney",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91603946685791,
+      12.920832633972168,
+      13.160078048706055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.48,
+      202.42,
+      559.99,
+      219.63
+    ],
+    "text": "could be limited or expanded, the District Court cannot bring about the limitation or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.903749465942383,
+      12.91603946685791
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.45,
+      224.98,
+      559.56,
+      242.19
+    ],
+    "text": "expansion as Courts do not rewrite contracts for parties more particularly those",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      13.001301765441895
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.48,
+      247.77,
+      562.62,
+      264.98
+    ],
+    "text": "contracts such as proxies that govern the terms of employment of an Attorney~at~Law",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.900339126586914,
+      12.899999618530273,
+      12.91603946685791,
+      13.088374137878418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.7,
+      270.57,
+      559.91,
+      287.77
+    ],
+    "text": "except in the case of a revocation where the leave of court is required by the Civil",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91603946685791,
+      12.961553573608398
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.78,
+      293.13,
+      172.56,
+      310.34
+    ],
+    "text": "Procedure Code.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.48,
+      321.22,
+      559.99,
+      338.43
+    ],
+    "text": "The Courts have insisted on embargo of two registered Attorneys as the last paragraph of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91603946685791,
+      12.988396644592285
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.6,
+      336.91,
+      560.16,
+      362.74
+    ],
+    "text": "Section 27(2) refers to the effective validity of the r t proxy lasting until all proceedings in",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.599999904632568,
+      12.899999618530273,
+      18.799999237060547
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.57,
+      366.33,
+      460.28,
+      383.54
+    ],
+    "text": "the action are ended and judgment satisfied so far ss regards the client.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91603946685791
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.79,
+      394.89,
+      560.34,
+      412.1
+    ],
+    "text": "Mr. Vijith Singh contended that this terminal point of the relationship can be written by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91603946685791,
+      12.917387962341309,
+      13.016226768493652
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.57,
+      417.45,
+      559.66,
+      434.71
+    ],
+    "text": "the client and the 1st Registered Attorney. He cited the Supreme Court decision of In",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      12.300000190734863,
+      12.899999618530273,
+      12.91603946685791,
+      12.952492713928223
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.95,
+      440.01,
+      559.67,
+      457.32
+    ],
+    "text": "Hatton National Bank Ltd, v. Helenluc Garmens Ltd, (1999) 2 Sri LR. 365 wherein",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.652068138122559,
+      12.824076652526855,
+      12.899999618530273,
+      13.800000190734863,
+      14.367770195007324
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.81,
+      462.81,
+      558.49,
+      480.08
+    ],
+    "text": "the legality of the waiver of the Prescription Ordinance made by the 2nd and 6th",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      8.901460647583008,
+      12.300000190734863,
+      12.899999618530273
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.96,
+      485.37,
+      559.54,
+      502.57
+    ],
+    "text": "defendants in the case was considered by the Supreme Court. The 2nd and 6th defendants",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      9.0,
+      11.600000381469727,
+      12.899999618530273,
+      12.909096717834473,
+      12.91603946685791
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.73,
+      507.93,
+      560.47,
+      525.13
+    ],
+    "text": "in the case were the guarantors who had agreed in the guarantee to waive the defence of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91603946685791,
+      12.961553573608398,
+      12.986013412475586,
+      12.998920440673828
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.61,
+      530.49,
+      560.87,
+      547.7
+    ],
+    "text": "prescription. The Court held that such a waiver was valid. Th 2nd and 6th defendants had",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.899999618530273,
+      8.921175003051758,
+      12.899999618530273,
+      12.903749465942383,
+      12.955978393554688,
+      13.088374137878418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.19,
+      553.05,
+      559.34,
+      570.26
+    ],
+    "text": "agreed in clause 16 of the guarantee that \"we and each of us hereby agree that so long as",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.205769538879395,
+      12.862646102905273,
+      12.899999618530273,
+      12.951447486877441,
+      12.961553573608398,
+      13.016226768493652,
+      13.088374137878418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.05,
+      575.37,
+      560.96,
+      592.57
+    ],
+    "text": "the monies herein mentioned or any part thereof is owed by the customer to the bank or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91603946685791,
+      13.17673110961914
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.07,
+      598.17,
+      560.66,
+      615.38
+    ],
+    "text": "has not already been paid to the bank by the customer or by us the liability of us and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.909096717834473,
+      12.91603946685791,
+      13.015730857849121,
+      13.087684631347656
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.19,
+      620.97,
+      560.39,
+      638.18
+    ],
+    "text": "each of us to pay same shall subsist and the monies herein mentioned shall be recoverable",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.997879028320312
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      81.95,
+      643.28,
+      561.08,
+      660.49
+    ],
+    "text": "from and be the liability of us and each of us jointly and severally notwithstanding",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.917387962341309,
+      12.971550941467285
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.43,
+      665.6,
+      561.21,
+      682.81
+    ],
+    "text": "anything to the contrary herein or in any rule of law or equity or the Prescription",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.91603946685791,
+      12.973490715026855
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.43,
+      687.92,
+      560.68,
+      705.13
+    ],
+    "text": "Ordinanceor any statute contained and we hereby further agree that we or any of us shall",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.906698226928711,
+      12.992170333862305,
+      13.09024715423584,
+      13.160078048706055
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      82.54,
+      710.5,
+      560.95,
+      727.7
+    ],
+    "text": "not pleadthe Prescription Ordinance or any of its provisions or any rule of statute or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.899999618530273,
+      12.988099098205566,
+      13.001301765441895
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      317.86,
+      737.07,
+      325.36,
+      750.41
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.91,
+      66.22,
+      559.58,
+      83.56
+    ],
+    "text": "other law is a bar to the Bank suing us or anyone of us for the recovery of the monies",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.02367877960205
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.3,
+      88.78,
+      288.08,
+      106.12
+    ],
+    "text": "herein mentioned or any part thereof\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.087703704833984
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.47,
+      117.34,
+      560.63,
+      134.68
+    ],
+    "text": "In his well~established text, The Law of Contract Volume II Dr. Weeramantry (in",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.537415504455566,
+      12.925285339355469,
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.32,
+      140.14,
+      560.35,
+      157.48
+    ],
+    "text": "Section 844 at page 797) states under the heading: \"agreements not to plead limitation\"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.0,
+      13.048160552978516,
+      13.138314247131348,
+      13.140045166015625
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.29,
+      162.7,
+      560.79,
+      180.04
+    ],
+    "text": "that \"it is not contrary to public policy for the parties to enter into an agreement not to",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.048160552978516,
+      13.051597595214844,
+      13.21098804473877
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.1,
+      184.22,
+      561.1,
+      203.05
+    ],
+    "text": "plead limitation. Such an agreement is valid and enforceable in English law if supported",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.01169490814209,
+      13.02367877960205,
+      14.604022979736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.09,
+      208.07,
+      559.71,
+      225.42
+    ],
+    "text": "by consideration, whether it is made before or after the limitation period has expired.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.03834342956543,
+      13.23433780670166
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.22,
+      230.63,
+      560.3,
+      247.97
+    ],
+    "text": "The same observation holds good for our law, except that an agreement may not be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.139006614685059
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.37,
+      253.19,
+      243.74,
+      270.53
+    ],
+    "text": "supported by consideration. \"",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.47,
+      275.79,
+      560.57,
+      300.06
+    ],
+    "text": "It was in this background that Dheeraratne, J. said in the above case that the parties can",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.008646965026855,
+      13.01169490814209,
+      13.066579818725586,
+      13.139006614685059,
+      13.158730506896973,
+      15.31615924835205
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.43,
+      304.07,
+      560.64,
+      321.42
+    ],
+    "text": "contract out of the provisions of the Prescription Ordinance. Assuming without",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.133563995361328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.19,
+      326.62,
+      560.22,
+      343.97
+    ],
+    "text": "conceding that it is not contrary to public policy that a Registered Attorney and his",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.139006614685059,
+      13.433327674865723
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.2,
+      349.43,
+      561.03,
+      366.78
+    ],
+    "text": "client can contract out of Section 27(2) of the Civil Procedure Code, no such contracting",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863,
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.19,
+      371.98,
+      560.26,
+      389.32
+    ],
+    "text": "out took place between the Attorney Ms. Chandrasena and the 1st Defendant to the effect",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.394269943237305,
+      12.0,
+      12.966556549072266,
+      13.0,
+      13.045720100402832
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.29,
+      394.54,
+      561.37,
+      411.88
+    ],
+    "text": "that Ms. Chandrasena was prohibited from filing a notice and the subsequent petition of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.966556549072266,
+      13.0,
+      13.139006614685059
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.42,
+      417.34,
+      122.54,
+      434.68
+    ],
+    "text": "appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.46,
+      445.43,
+      559.93,
+      462.8
+    ],
+    "text": "In the circumstances I take the view that the the 2nd Attorney was prohibited from filing",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      12.300000190734863,
+      13.0,
+      13.139006614685059
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.44,
+      461.7,
+      560.6,
+      487.53
+    ],
+    "text": "a notice and a petition of appealas it was only the r t Attorney who had been empowered",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.599999904632568,
+      13.0,
+      13.036249160766602,
+      13.433327674865723,
+      18.799999237060547
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.53,
+      489.28,
+      433.7,
+      508.22
+    ],
+    "text": "to perform all these acts on behalf of the 1st Defendant~Appellant.",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.895416259765625,
+      8.394269943237305,
+      12.300000190734863,
+      13.0,
+      13.909682273864746
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.74,
+      519.11,
+      560.54,
+      536.45
+    ],
+    "text": "From the foregoing I would uphold the preliminary objection that this appeal cannot be",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.139006614685059
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.53,
+      541.66,
+      407.22,
+      559.01
+    ],
+    "text": "maintained and accordingly I proceed to dismiss this appeal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.00154972076416
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      340.96,
+      655.18,
+      561.55,
+      672.52
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      13.0,
+      13.006098747253418,
+      13.116378784179688,
+      13.131584167480469,
+      13.193066596984863,
+      13.207149505615234
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      318.35,
+      737.34,
+      326.0,
+      750.95
+    ],
+    "text": "6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  }
+]
