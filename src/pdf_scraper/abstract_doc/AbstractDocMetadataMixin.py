@@ -16,7 +16,14 @@ class AbstractDocMetadataMixin:
         return "."
 
     @classmethod
-    def get_dir_docs_root(cls) -> str:
+    def get_dir_docs_for_cls_relative(cls) -> str:
+        return os.path.join(
+            "data",
+            cls.doc_class_label(),
+        )
+
+    @classmethod
+    def get_dir_docs_for_cls(cls) -> str:
         return os.path.join(
             cls.get_dir_root(),
             "data",
@@ -24,12 +31,18 @@ class AbstractDocMetadataMixin:
         )
 
     @cached_property
-    def dir_doc(self) -> str:
+    def dir_doc_relative_to_class(self) -> str:
         return os.path.join(
-            self.__class__.get_dir_docs_root(),
             self.decade,
             self.year,
             self.doc_id,
+        )
+
+    @cached_property
+    def dir_doc(self) -> str:
+        return os.path.join(
+            self.__class__.get_dir_docs_for_cls(),
+            self.dir_doc_relative_to_class,
         )
 
     @cached_property
@@ -51,7 +64,7 @@ class AbstractDocMetadataMixin:
     def get_all_json_paths(cls) -> list[str]:
         return [
             str(json_path)
-            for json_path in pathlib.Path(cls.get_dir_docs_root()).rglob(
+            for json_path in pathlib.Path(cls.get_dir_docs_for_cls()).rglob(
                 "doc.json"
             )
         ]
