@@ -9,8 +9,8 @@ A collection of Appeals documents.
 | Data Source | courtofappeal.lk |
 | Date Range | 2012-04-23 to 2025-09-15 |
 | Number of Docs | 10,100 |
-| Number of Docs with PDFs | 9,659 |
-| Dataset Size | 9.7GB |
+| Number of Docs with PDFs | 9,849 |
+| Dataset Size | 9.8GB |
 
 ## Document Metadata Example
 
