@@ -44,29 +44,28 @@ class AbstractDocExtendedDataMixin:
 
     @cached_property
     def remote_data_url(self) -> str:
-        raise NotImplementedError
+        return None
 
     @cached_property
     def blocks_path(self) -> str:
         return os.path.join(self.dir_doc_extended, "blocks.json")
 
     @cached_property
-    def readme_path(self) -> str:
+    def doc_readme_path(self) -> str:
         return os.path.join(self.dir_doc_extended, "README.md")
 
     def extract_blocks(self):
-        if not os.path.exists(self.pdf_path):
-            return
+        assert os.path.exists(self.pdf_path)
         pdf_file = PDFFile(self.pdf_path)
-        blocks = pdf_file.get_block_info_list()
+        blocks = pdf_file.get_blocks()
         JSONFile(self.blocks_path).write(blocks)
         log.info(f"Wrote {self.blocks_path} ({len(blocks):,} blocks)")
 
         text_lines = [block["text"] for block in blocks if block["text"]]
-        File(self.readme_path).write("\n\n".join(text_lines))
-        log.info(f"Wrote {self.readme_path}")
+        File(self.doc_readme_path).write("\n\n".join(text_lines))
+        log.info(f"Wrote {self.doc_readme_path}")
 
-    def scrape_extended_data(self):
+    def scrape_extended_data_for_doc(self):
         if not os.path.exists(self.dir_doc_extended):
             os.makedirs(self.dir_doc_extended)
             self.copy_metadata()
@@ -76,9 +75,8 @@ class AbstractDocExtendedDataMixin:
             self.extract_blocks()
 
     def get_text(self):
-        if not os.path.exists(self.readme_path):
-            return ""
-        return File(self.readme_path).read()
+        assert os.path.exists(self.doc_readme_path)
+        return File(self.doc_readme_path).read()
 
     @classmethod
     def get_total_file_size(cls):
@@ -88,3 +86,7 @@ class AbstractDocExtendedDataMixin:
                 fp = os.path.join(dirpath, f)
                 total_size += os.path.getsize(fp)
         return total_size
+
+    def get_blocks(self):
+        assert os.path.exists(self.blocks_path)
+        return JSONFile(self.blocks_path).read()
