@@ -1,19 +1,21 @@
-# 🇱🇰 #SriLanka Appeal Court Judgements
+# 🇱🇰 #SriLanka Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_14:42:22-green)
+![PDF Preview](images/pdf_preview.png)
+
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_15:04:49-green)
 ![DatasetSize](https://img.shields.io/badge/dataset_size-10.1_GB-green)
 
 📜 **10,100** documents, from **2012-04-23** to **2025-09-15**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**.
 
-📒 PDFs have been downloaded for **10,100** documents.
+📒 PDFs have been downloaded for **10,100** (**100%**) documents.
 
 📚 Complete [Dataset](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data) (**10.1 GB**)
  - 🆓 Public data, & fully open-source.
  - 🙏 Please share & fork!
 
-🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/lk_appeal_court_judgements/issues) are welcome!
+⏰ Updated **at least Daily**.
 
-⏰ Updated **daily**.
+🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/lk_appeal_court_judgements/issues) are welcome!
 
 #OpenData #DataScience #DataForGood #ResearchData #NLP
 
