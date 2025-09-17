@@ -1,18 +1,25 @@
-# Appeals
+# 📜 Appeals
 
-A collection of Appeals documents.
+ 🔗 Data Source: courtofappeal.lk
 
-## Data Summary
+ 🔗 All Raw Data: [https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data)
 
-|   |    |
-| :-- | --: |
-| Data Source | courtofappeal.lk |
-| Date Range | 2012-04-23 to 2025-09-15 |
-| Number of Docs | 10,100 |
-| Number of Docs with PDFs | 10,100 |
-| Dataset Size | 10.1GB |
+ 📅 Date Range: 2012-04-23 to 2025-09-15
 
-## Document Metadata Example
+ 📑 Number of Docs: 10,100
+
+ 📎 Number of Docs with PDFs: 10,100
+
+ 💾 Dataset Size: 10.1GB
+
+🆓 Public data, fully open-source – fork freely!
+
+🔍 Useful for Journalists, Researchers, Lawyers & law students, Policy watchers & Citizens who want to stay informed
+
+🐞 #WorkInProgress - Suggestions, Questions, Ideas, [Bug Reports](https://github.com/nuuuwan/appeals/issues) are welcome!
+
+#SriLanka #OpenData #GovTech
+## 📝 Example Metadata
 
 ```json
 {
@@ -36,10 +43,10 @@ A collection of Appeals documents.
 
 ## 🤗 Hugging Face Datasets
 
-- [nuuuwan/lk-docs-appeals-docs](https://huggingface.co/datasets/nuuuwan/lk-docs-appeals-docs)
-- [nuuuwan/lk-docs-appeals-chunks](https://huggingface.co/datasets/nuuuwan/lk-docs-appeals-chunks)
+- 📄 [nuuuwan/appeals-docs](https://huggingface.co/datasets/nuuuwan/appeals-docs)
+- 📦 [nuuuwan/appeals-chunks](https://huggingface.co/datasets/nuuuwan/appeals-chunks)
 
-## 20 Latest documents
+## 🆕 20 Latest documents
 
 - 2025-09-15 | `CA/ PHC/ 140/ 2020` | Liyana Arachchige Asanka Maduranga Vs. Jayaratna Muhandiramge Lasantha Sanjula before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-09-15-CA--PHC--140--2020)
 - 2025-09-11 | `CA/WRT/0475/2019` | Mudaliperuge Manel Rupa Ranjani Kulathunga Vs M. U. Nishantha, Divisional Secretary, Galewela and ten others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-09-11-CA-WRT-0475-2019)
