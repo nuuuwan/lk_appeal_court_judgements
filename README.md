@@ -1,6 +1,6 @@
 # 🇱🇰 #SriLanka Appeal Court Judgements
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_14:25:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_14:42:22-green)
 ![DatasetSize](https://img.shields.io/badge/dataset_size-10.1_GB-green)
 
 📜 **10,100** documents, from **2012-04-23** to **2025-09-15**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**.
