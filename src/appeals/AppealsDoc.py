@@ -1,5 +1,4 @@
 from dataclasses import dataclass
-from functools import cache, cached_property
 from typing import Generator
 
 from appeals.pages import AppealsHomePage
