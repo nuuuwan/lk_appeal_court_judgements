@@ -1,6 +1,6 @@
 # Appeals
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_13:04:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_13:19:13-green)
 ![DatasetSize](https://img.shields.io/badge/dataset_size-10.1_GB-green)
 
 📜 **10,100** documents, from **2012-04-23** to **2025-09-15**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**.
