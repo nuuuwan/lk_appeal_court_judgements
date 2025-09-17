@@ -2,7 +2,7 @@
 
 ![PDF Preview](images/pdf_preview.png)
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_15:04:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_15:26:56-green)
 ![DatasetSize](https://img.shields.io/badge/dataset_size-10.1_GB-green)
 
 📜 **10,100** documents, from **2012-04-23** to **2025-09-15**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**.
