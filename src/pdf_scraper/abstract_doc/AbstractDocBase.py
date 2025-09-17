@@ -1,3 +1,4 @@
+import os
 import re
 from abc import ABC
 from dataclasses import dataclass
@@ -18,15 +19,11 @@ class AbstractDocBase(ABC):
 
     @classmethod
     def get_doc_class_label(cls) -> str:
-        class_name = cls.__name__
-        assert class_name.endswith("Doc")
-        return class_name[:-3].lower()
+        return os.path.basename(os.getcwd())
 
     @classmethod
     def get_doc_class_description(cls) -> str:
-        return (
-            f"A collection of {cls.get_doc_class_label().title()} documents."
-        )
+        return f"A collection of {cls.get_doc_class_label()} documents."
 
     @cached_property
     def num_short(self):
