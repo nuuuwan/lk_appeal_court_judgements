@@ -1,17 +1,17 @@
-# 🇱🇰 #SriLanka Judiciary Appeals Court
+# 🇱🇰 #SriLanka Appeal Court Judgements
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_14:18:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_14:25:21-green)
 ![DatasetSize](https://img.shields.io/badge/dataset_size-10.1_GB-green)
 
-📜 **1** documents, from **2025-01-30** to **2025-01-30**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**.
+📜 **10,100** documents, from **2012-04-23** to **2025-09-15**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**.
 
-📒 PDFs have been downloaded for **1** documents.
+📒 PDFs have been downloaded for **10,100** documents.
 
-📚 Complete [Dataset](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data) (**10.1 GB**)
+📚 Complete [Dataset](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data) (**10.1 GB**)
  - 🆓 Public data, & fully open-source.
  - 🙏 Please share & fork!
 
-🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/lk_judiciary_appeals_court/issues) are welcome!
+🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/lk_appeal_court_judgements/issues) are welcome!
 
 ⏰ Updated **daily**.
 
@@ -21,19 +21,19 @@
 
 ```json
 {
-    "num": "CA-Writ-56-24",
-    "date_str": "2025-01-30",
-    "description": "The Ark Universal (Private) Limited Vs. Divisional Secretary and 2others. before Hon. Mayadunne Corea, J.",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ab8e83c1-e175-41bb-9155-955407033642&filename=CA%20Writ%2056-24.pdf.pdf",
-    "url_metadata": "https://courtofappeal.lk/?page_id=13095",
-    "parties": "The Ark Universal (Private) Limited Vs. Divisional Secretary and 2others.",
-    "judgement_by": "Hon. Mayadunne Corea, J.",
-    "keywords": "Occupying state land after a quite notice has been issued Legitimate expectations Locus standi Necessary parties",
-    "legistation": "State Lands (Recovery of Possession) Act, No. 07 of 1979 as amended"
+    "num": "CA/ PHC/ 140/ 2020",
+    "date_str": "2025-09-15",
+    "description": "Liyana Arachchige Asanka Maduranga Vs. Jayaratna Muhandiramge Lasantha Sanjula before Hon. Damith Thotawatte, J.",
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ed6141e8-3216-4dce-b736-c7fb13560cad&filename=CA%20PHC%20140-20%20Judgment%20%28Final%29.pdf.pdf",
+    "url_metadata": "https://courtofappeal.lk/?page_id=13121",
+    "parties": "Liyana Arachchige Asanka Maduranga Vs. Jayaratna Muhandiramge Lasantha Sanjula",
+    "judgement_by": "Hon. Damith Thotawatte, J.",
+    "keywords": "Section 66 and 68 of the PCPA, Section 72 of the PCPA- wide discretion for Primary Court Judge, Claims to ownership \u2013 irrelevant, Control of the premises",
+    "legistation": "The Constitution of the Socialist Democratic Republic of Sri Lanka The Primary Courts\u2019 Procedure Act No. 44 of 1979"
 }
 ```
 
-[source data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/lk_judiciary_appeals_court/2020s/2025/2025-01-30-CA-Writ-56-24)
+[source data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-15-CA--PHC--140--2020)
 
 ## Documents By Year
 
@@ -43,12 +43,31 @@
 
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace)
 
-- 📄 [nuuuwan/lk-judiciary-appeals-court-docs](https://huggingface.co/datasets/nuuuwan/lk-judiciary-appeals-court-docs)
-- 📦 [nuuuwan/lk-judiciary-appeals-court-chunks](https://huggingface.co/datasets/nuuuwan/lk-judiciary-appeals-court-chunks)
+- 📄 [nuuuwan/lk-appeal-court-judgements-docs](https://huggingface.co/datasets/nuuuwan/lk-appeal-court-judgements-docs)
+- 📦 [nuuuwan/lk-appeal-court-judgements-chunks](https://huggingface.co/datasets/nuuuwan/lk-appeal-court-judgements-chunks)
 
 ## 🆕 20 Latest documents
 
-- 2025-01-30 | `CA-Writ-56-24` | The Ark Universal (Private) Limited Vs. Divisional Secretary and 2others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/lk_judiciary_appeals_court/2020s/2025/2025-01-30-CA-Writ-56-24)
+- 2025-09-15 | `CA/ PHC/ 140/ 2020` | Liyana Arachchige Asanka Maduranga Vs. Jayaratna Muhandiramge Lasantha Sanjula before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-15-CA--PHC--140--2020)
+- 2025-09-11 | `CA/WRT/0475/2019` | Mudaliperuge Manel Rupa Ranjani Kulathunga Vs M. U. Nishantha, Divisional Secretary, Galewela and ten others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-11-CA-WRT-0475-2019)
+- 2025-09-10 | `CA/WRT/811/2025` | A. A. F. Farween Vs The Secretary of the Judicial Service Commission and Hon. Attorney General before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-10-CA-WRT-811-2025)
+- 2025-09-10 | `CA /HCC/ 292-295/2024` | Kohona Koralalage Chandraratna Bandara and others Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-10-CA--HCC--292-295-2024)
+- 2025-09-09 | `CA/WRT/165/15` | Mrs. Nagaratnam Sakunthala Vs Commissioner of Lands (Northern Province) Department of Land Administration, Northern Provincial Council and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-09-CA-WRT-165-15)
+- 2025-09-09 | `CA/WRT/0720/23` | Musthafa Lebbe Rahuma Beevi Vs. Thanapalasuntharam, Divisional Secretary, Valachennai and eight others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-09-CA-WRT-0720-23)
+- 2025-09-09 | `CA/HCC/ 0079/2020` | Alankarage Dilan Prasanga alias Kannadiya Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-09-CA-HCC--0079-2020)
+- 2025-09-09 | `CA /Writ/208/2019` | Bibile Kotagama Multipurpose Cooperative Society Limited Vs K. M. G. Kapila Bandara (Former) Divisional Secretary, Divisional Secretariat Office, Madagama. and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-09-CA--Writ-208-2019)
+- 2025-09-09 | `CA/ PHC/ 148/ 2018` | Kehelpannala Ralalage Upali Mahinda Kempitiya and Another Vs Korale Gedara Upali Kumara Abeyrathne before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-09-CA--PHC--148--2018)
+- 2025-09-04 | `CA (HCC)0275/2023` | Balachandran Sivam Vs. Hon. Attorney Genera before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-04-CA--HCC-0275-2023)
+- 2025-09-03 | `CA/WRT/734/2024` | Razik Rafeekdeen Vs. The Incorporated Council of Legal Education and four others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-03-CA-WRT-734-2024)
+- 2025-09-03 | `CA/RII/0048/2023` | Chethana Erandithavo Jayakody Vs Lanka Telephone Company (Pvt) Ltd and others before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-03-CA-RII-0048-2023)
+- 2025-09-03 | `CA/HCC/ 0101/2022` | Demuni Sudath Ashoka De Zoysa Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-03-CA-HCC--0101-2022)
+- 2025-09-02 | `CA/HCC/ 0226-228/2019` | Samarakkody Arachchilage Gamini Weerasinghe alias Yakada Gamini and others Vs The Hon. Attorney General before Hon.P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-02-CA-HCC--0226-228-2019)
+- 2025-09-02 | `CA/ PHC/48/2016` | N.D. Vimal Vs Competent Authority, Plantation Management Monitoring Division, Ministry of Plantation Industries and another. before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-02-CA--PHC-48-2016)
+- 2025-09-01 | `CA/HCC/ 0117/2024` | Abeywickrama Dissanayaka Piyadasa Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-01-CA-HCC--0117-2024)
+- 2025-08-29 | `CA/WRT/422/2023` | Rathnayaka Mudiyanselage Weerasinghe and Others Vs Hon. (Dr.) Susil Premajayantha and Others before Hon. S.U.B. Karalliyadde, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-08-29-CA-WRT-422-2023)
+- 2025-08-29 | `CA-WRT-293/21` | Mohamed Alavi Navaz Caffoor and others Vs The Director Mosque and Muslim Charitable Trusts or Wakfs and others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-08-29-CA-WRT-293-21)
+- 2025-08-29 | `CA/WRT/147/2024` | The Petroleum Dealers’ Association, Lanka Filling Station, Vs Ceylon Petroleum Corporation, before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-08-29-CA-WRT-147-2024)
+- 2025-08-29 | `CA/RII/0086/2024` | Dissanayake Mudiyanselage Darmasena Bandara, Vs Wanasinghe Mudiyanselage Jayasinghe Bandara, before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-08-29-CA-RII-0086-2024)
 
 ---
 
