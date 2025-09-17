@@ -1,18 +1,21 @@
 # Appeals
 
- 🔗 Data Source: **courtofappeal.lk**
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_13:04:42-green)
+![DatasetSize](https://img.shields.io/badge/dataset_size-10.1_GB-green)
 
- 🪣 All Raw Data: **[https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data)**
+📜 **10,100** documents, from **2012-04-23** to **2025-09-15**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**.
 
- 📅 Date Range: **2012-04-23 to 2025-09-15**
+📒 PDFs have been downloaded for **10,100** documents.
 
- 📑 Number of Docs: **10,100**
+📚 Complete [Dataset](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data) (**10.1 GB**)
+ - 🆓 Public data, & fully open-source.
+ - 🙏 Please share & fork!
 
- 📎 Number of Docs with PDFs: **10,100**
+🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/appeals/issues) are welcome!
 
- 💾 Dataset Size: **10.1GB**
+⏰ Updated **daily**.
 
-🪲 #WorkInProgress - Suggestions, Questions, Ideas, and [Bug Reports](https://github.com/nuuuwan/appeals/issues) are welcome!
+#OpenData #DataScience #DataForGood #ResearchData #NLP
 
 ## 📝 Example Metadata
 
@@ -37,6 +40,8 @@
 ![Documents by year](images/docs_by_year.png)
 
 ## 🤗 Hugging Face Datasets
+
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace)
 
 - 📄 [nuuuwan/appeals-docs](https://huggingface.co/datasets/nuuuwan/appeals-docs)
 - 📦 [nuuuwan/appeals-chunks](https://huggingface.co/datasets/nuuuwan/appeals-chunks)
@@ -63,3 +68,8 @@
 - 2025-08-29 | `CA-WRT-293/21` | Mohamed Alavi Navaz Caffoor and others Vs The Director Mosque and Muslim Charitable Trusts or Wakfs and others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-08-29-CA-WRT-293-21)
 - 2025-08-29 | `CA/WRT/147/2024` | The Petroleum Dealers’ Association, Lanka Filling Station, Vs Ceylon Petroleum Corporation, before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-08-29-CA-WRT-147-2024)
 - 2025-08-29 | `CA/RII/0086/2024` | Dissanayake Mudiyanselage Darmasena Bandara, Vs Wanasinghe Mudiyanselage Jayasinghe Bandara, before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data/data/appeals/2020s/2025/2025-08-29-CA-RII-0086-2024)
+
+---
+
+![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
+![MadeWith](https://img.shields.io/badge/made_with-python-blue)
