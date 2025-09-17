@@ -1,24 +1,19 @@
-# 📜 Appeals
+# Appeals
 
- 🔗 Data Source: courtofappeal.lk
+ 🔗 Data Source: **courtofappeal.lk**
 
- 🔗 All Raw Data: [https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data)
+ 🪣 All Raw Data: **[https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data](https://github.com/nuuuwan/lk_judiciary_appeals_court/tree/data)**
 
- 📅 Date Range: 2012-04-23 to 2025-09-15
+ 📅 Date Range: **2012-04-23 to 2025-09-15**
 
- 📑 Number of Docs: 10,100
+ 📑 Number of Docs: **10,100**
 
- 📎 Number of Docs with PDFs: 10,100
+ 📎 Number of Docs with PDFs: **10,100**
 
- 💾 Dataset Size: 10.1GB
+ 💾 Dataset Size: **10.1GB**
 
-🆓 Public data, fully open-source – fork freely!
+🪲 #WorkInProgress - Suggestions, Questions, Ideas, and [Bug Reports](https://github.com/nuuuwan/appeals/issues) are welcome!
 
-🔍 Useful for Journalists, Researchers, Lawyers & law students, Policy watchers & Citizens who want to stay informed
-
-🐞 #WorkInProgress - Suggestions, Questions, Ideas, [Bug Reports](https://github.com/nuuuwan/appeals/issues) are welcome!
-
-#SriLanka #OpenData #GovTech
 ## 📝 Example Metadata
 
 ```json
