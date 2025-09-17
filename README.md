@@ -1,21 +1,25 @@
 # 🇱🇰 #SriLanka Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_18:30:21-green)
-![DatasetSize](https://img.shields.io/badge/dataset_size-10.1_GB-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_18:55:18-green)
+![DatasetSize](https://img.shields.io/badge/dataset_size-10.1_GB-yellow)
 
-📜 **10,100** documents, from **2012-04-23** to **2025-09-15**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**.
+[https://github.com/nuuuwan/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements)
 
-📒 PDFs have been downloaded for **10,100** (**100%**) documents.
+📜 [**10,100** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data) (**10.1 GB**), from **2012-04-23** to **2025-09-15**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**
 
-📚 Complete [Dataset](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data) (**10.1 GB**)
- - 🆓 Public data, & fully open-source.
- - 🙏 Please share & fork!
+📑 In JSON, PDF, TXT and 🤗 Hugging Face Formats
 
-⏰ Updated **at least Daily**.
+⏰ Updated **at least Daily**
 
-🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/lk_appeal_court_judgements/issues) are welcome!
+🆓 Public data & fully open-source
 
 #OpenData #DataScience #DataForGood #ResearchData #NLP
+
+...
+
+*📒 PDFs have been downloaded for **10,100** (**100%**) documents*
+
+🪲 #WorkInProgress - Suggestions, Questions, Ideas, & [Bug Reports](https://github.com/nuuuwan/lk_appeal_court_judgements/issues) are welcome!
 
 ## 📝 Example Metadata
 
@@ -32,8 +36,6 @@
     "legistation": "The Constitution of the Socialist Democratic Republic of Sri Lanka The Primary Courts\u2019 Procedure Act No. 44 of 1979"
 }
 ```
-
-[More details](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-15-CA--PHC--140--2020)
 
 ## Documents By Year
 
