@@ -1,6 +1,6 @@
 # 🇱🇰 #SriLanka Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_18:09:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--17_18:30:21-green)
 ![DatasetSize](https://img.shields.io/badge/dataset_size-10.1_GB-green)
 
 📜 **10,100** documents, from **2012-04-23** to **2025-09-15**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**.
@@ -45,12 +45,6 @@
 
 - 📄 [nuuuwan/lk-appeal-court-judgements-docs](https://huggingface.co/datasets/nuuuwan/lk-appeal-court-judgements-docs)
 - 📦 [nuuuwan/lk-appeal-court-judgements-chunks](https://huggingface.co/datasets/nuuuwan/lk-appeal-court-judgements-chunks)
-
-## 📃 Example Document
-
-![PDF Preview](images/pdf_preview.png)
-
-[More details](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2010s/2012/2012-04-23--CADC)
 
 ## 🆕 20 Latest documents
 
