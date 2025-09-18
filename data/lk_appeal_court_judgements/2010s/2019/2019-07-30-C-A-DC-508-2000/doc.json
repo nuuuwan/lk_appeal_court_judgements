@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-07-30-C-A-DC-508-2000",
   "num": "C.A DC 508/2000",
   "date_str": "2019-07-30",
   "description": "K.G. Alwis and Others Vs Lakshmie Alwis and Others before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6352535c-f6d8-4ddb-9ce0-0f72e1f635bc&filename=ca-508-2000-f%2030.7.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14423",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6352535c-f6d8-4ddb-9ce0-0f72e1f635bc&filename=ca-508-2000-f%2030.7.2019.pdf",
   "parties": "K.G. Alwis and Others Vs Lakshmie Alwis and Others",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

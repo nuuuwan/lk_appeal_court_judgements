@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-05-18-CA-HCC-53-2021",
   "num": "CA/HCC/53/2021",
   "date_str": "2023-05-18",
   "description": "Santhanam Devage Nandasiri Silva Alias Nande Vs Hon. Attorney General before  Hon. Menaka Wijesundera J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=983c464a-d6cf-4f11-bec3-b7ba483a22d5&filename=hcc-0053-21.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14321",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=983c464a-d6cf-4f11-bec3-b7ba483a22d5&filename=hcc-0053-21.pdf",
   "parties": "Santhanam Devage Nandasiri Silva Alias Nande Vs Hon. Attorney General",
   "judgement_by": " Hon. Menaka Wijesundera J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

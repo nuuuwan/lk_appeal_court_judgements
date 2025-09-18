@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-05-22-CAMC-RE-02-2017",
   "num": "CAMC RE 02/2017",
   "date_str": "2018-05-22",
   "description": "Maldeniye Pahalagedera Ratnayakalage Indika Priyashantha Vs. Hon. Attorney General before  Hon. E.A.G.R. Amarasekara ,J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=42697a8e-105d-4dfb-8020-a6e7440c9006&filename=ca_mc_re_02_17.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14444",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=42697a8e-105d-4dfb-8020-a6e7440c9006&filename=ca_mc_re_02_17.pdf",
   "parties": "Maldeniye Pahalagedera Ratnayakalage Indika Priyashantha Vs. Hon. Attorney General",
   "judgement_by": " Hon. E.A.G.R. Amarasekara ,J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

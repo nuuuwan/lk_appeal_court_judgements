@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-11-11-C-A-Writ-484-2015",
   "num": "C.A Writ 484/2015",
   "date_str": "2021-11-11",
   "description": "Sena Mills Refineries (Pvt) Limited Vs Maj. Gen. (Retd.) Vijitha Ravipriya, C. Perinpanyagama, and M. R. Ranaraja. before  Hon. K.K.A.V. Swarmadhipathi, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ac039a36-740b-49e9-bf71-32068484fa63&filename=ca%20484-15.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14383",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ac039a36-740b-49e9-bf71-32068484fa63&filename=ca%20484-15.pdf",
   "parties": "Sena Mills Refineries (Pvt) Limited Vs Maj. Gen. (Retd.) Vijitha Ravipriya, C. Perinpanyagama, and M. R. Ranaraja.",
   "judgement_by": " Hon. K.K.A.V. Swarmadhipathi, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

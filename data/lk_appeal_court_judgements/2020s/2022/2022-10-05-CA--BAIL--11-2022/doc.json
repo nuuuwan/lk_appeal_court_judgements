@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-05-CA--BAIL--11-2022",
   "num": "CA (BAIL) 11/2022",
   "date_str": "2022-10-05",
   "description": "Randoge Asanthi Iresha Priyadarshani Vs Officer in Charge Police Station Gandara And Others before HON. MENAKA WIJESUNDERA J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c760f6b9-0774-42ed-b93b-0e86b1e2dc02&filename=BAL%20-%200011%20-%2022.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3951",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c760f6b9-0774-42ed-b93b-0e86b1e2dc02&filename=BAL%20-%200011%20-%2022.pdf.pdf",
   "parties": "Randoge Asanthi Iresha Priyadarshani Vs Officer in Charge Police Station Gandara And Others",
   "judgement_by": "HON. MENAKA WIJESUNDERA J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

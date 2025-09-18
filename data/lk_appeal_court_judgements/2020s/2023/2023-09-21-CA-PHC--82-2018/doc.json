@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-09-21-CA-PHC--82-2018",
   "num": "CA(PHC) 82/2018",
   "date_str": "2023-09-21",
   "description": "Segusahib Mohamed Aswar, Vs 1. Thajudeen Mohamed Hameem, Elamalpotha, Vahakotte,Matale and others before  Hon. Sampath B. Abayakoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=171a31c5-5003-49d9-a83a-87c99f6e2b6a&filename=ca%20phc%2082-2018%20final%20judgement.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14329",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=171a31c5-5003-49d9-a83a-87c99f6e2b6a&filename=ca%20phc%2082-2018%20final%20judgement.pdf",
   "parties": "Segusahib Mohamed Aswar, Vs 1. Thajudeen Mohamed Hameem, Elamalpotha, Vahakotte,Matale and others",
   "judgement_by": " Hon. Sampath B. Abayakoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

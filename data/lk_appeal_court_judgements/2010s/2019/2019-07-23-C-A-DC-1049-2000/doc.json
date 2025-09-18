@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-07-23-C-A-DC-1049-2000",
   "num": "C.A DC 1049/2000",
   "date_str": "2019-07-23",
   "description": "Dangampalage Pieris Dharmapala and Others Vs Punyasena Gunaratne Jayathilake before  Hon K. Priyantha Fernando, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=94dc1665-12a2-4d5a-bbd7-17658f630a27&filename=c.a%20dc%201049_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14423",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=94dc1665-12a2-4d5a-bbd7-17658f630a27&filename=c.a%20dc%201049_2000.pdf",
   "parties": "Dangampalage Pieris Dharmapala and Others Vs Punyasena Gunaratne Jayathilake",
   "judgement_by": " Hon K. Priyantha Fernando, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

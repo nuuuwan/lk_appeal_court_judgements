@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-04-04-CADC-Galle-1088-98",
   "num": "CADC Galle 1088/98",
   "date_str": "2014-04-04",
   "description": "G. Muthumala Vs. W.K. Leelarathna before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b41b0eeb-0607-49a2-bba6-49f815b362f4&filename=ca_dc_galle_1088_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14542",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b41b0eeb-0607-49a2-bba6-49f815b362f4&filename=ca_dc_galle_1088_98.pdf",
   "parties": "G. Muthumala Vs. W.K. Leelarathna",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

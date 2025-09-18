@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-12-21-CAHC-45-2012",
   "num": "CAHC 45/2012",
   "date_str": "2016-12-21",
   "description": "Hon. Attorney General Vs. Balawickrema Kankanamage Upul Chandana Balawickrema before  Hon. L.U. Jayasuriya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d75ad980-a93e-41f0-ab56-a4c5c300fd41&filename=ca_45_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14508",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d75ad980-a93e-41f0-ab56-a4c5c300fd41&filename=ca_45_2012.pdf",
   "parties": "Hon. Attorney General Vs. Balawickrema Kankanamage Upul Chandana Balawickrema",
   "judgement_by": " Hon. L.U. Jayasuriya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

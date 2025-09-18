@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-10-05-CAWrit-79-2013-Chaminda-8c4f73d3",
   "num": "CAWrit 79/2013 Chaminda Ranaweera Gamage Vs. Southern Development Authority & others - Hon. Vijith K. Malalgoda, P.C, J (P/CA)",
   "date_str": "2016-10-05",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c95e42fd-23e7-4118-a475-b5eed4826ab9&filename=ca_writ_79_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14502",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c95e42fd-23e7-4118-a475-b5eed4826ab9&filename=ca_writ_79_2013.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-10-12-CAWrit-408-2011",
   "num": "CAWrit 408/2011",
   "date_str": "2015-10-12",
   "description": "H.A.J. Fonseka Vs. Minister of Lands & others before  Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=79753f55-9f72-409a-8b82-79245a04d27b&filename=ca_writ_408_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14529",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=79753f55-9f72-409a-8b82-79245a04d27b&filename=ca_writ_408_2011.pdf",
   "parties": "H.A.J. Fonseka Vs. Minister of Lands & others",
   "judgement_by": " Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

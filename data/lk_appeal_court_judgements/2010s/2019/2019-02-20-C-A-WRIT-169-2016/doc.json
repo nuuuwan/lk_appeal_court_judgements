@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-02-20-C-A-WRIT-169-2016",
   "num": "C.A WRIT 169/2016",
   "date_str": "2019-02-20",
   "description": "Kahawatte Plantations PLC Vs P.N. Wilson and Others before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=06b281bf-a328-455f-b815-a6d4ae5ec67b&filename=ca-writ-169-2016%2013.2.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14413",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=06b281bf-a328-455f-b815-a6d4ae5ec67b&filename=ca-writ-169-2016%2013.2.2019.pdf",
   "parties": "Kahawatte Plantations PLC Vs P.N. Wilson and Others",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-05-21-C-A--HC-201-207-2014",
   "num": "C.A. HC/201-207/2014",
   "date_str": "2019-05-21",
   "description": "Yon Merenna Seeman Hewage Nilantha Kumara Silva and Others VS. Hon. Attorney General before  Hon. Achala wengappuli, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ca90ff44-aaa7-449e-b66b-4f2071d990dc&filename=c.a._hc_201-207_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14419",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ca90ff44-aaa7-449e-b66b-4f2071d990dc&filename=c.a._hc_201-207_2014.pdf",
   "parties": "Yon Merenna Seeman Hewage Nilantha Kumara Silva and Others VS. Hon. Attorney General",
   "judgement_by": " Hon. Achala wengappuli, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

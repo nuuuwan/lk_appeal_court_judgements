@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-11-24-C-A-DC-812-2000",
   "num": "C.A DC 812/2000",
   "date_str": "2020-11-24",
   "description": "Prithiviraj Arulkumaran and Other Vs Martin Joseph Fernando and Others before  Hon N. Bandula Karunarathna J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=262a2f07-969b-491e-a167-955e05d43b97&filename=c.a%20dc%20812-2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14408",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=262a2f07-969b-491e-a167-955e05d43b97&filename=c.a%20dc%20812-2000.pdf",
   "parties": "Prithiviraj Arulkumaran and Other Vs Martin Joseph Fernando and Others",
   "judgement_by": " Hon N. Bandula Karunarathna J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

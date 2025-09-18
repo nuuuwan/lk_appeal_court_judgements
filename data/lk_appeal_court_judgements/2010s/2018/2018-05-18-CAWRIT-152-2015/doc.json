@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-05-18-CAWRIT-152-2015",
   "num": "CAWRIT 152/2015",
   "date_str": "2018-05-18",
   "description": "S.P. Morawaka Vs. Commissioner General of Labour , Department of Labour before  Hon. A.L. Shiran Gooneratne J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=674c9d75-bc96-4575-a509-83cffae4df13&filename=ca_writ_152_15.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14444",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=674c9d75-bc96-4575-a509-83cffae4df13&filename=ca_writ_152_15.pdf",
   "parties": "S.P. Morawaka Vs. Commissioner General of Labour , Department of Labour",
   "judgement_by": " Hon. A.L. Shiran Gooneratne J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

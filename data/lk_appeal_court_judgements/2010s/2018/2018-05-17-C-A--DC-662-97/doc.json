@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-05-17-C-A--DC-662-97",
   "num": "C.A .DC 662/97",
   "date_str": "2018-05-17",
   "description": "(F) M. Nadarajamoorthy, Vs A. Saroja Dharmaseelan and Others Hon Janak De Silva J. before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1bbbcad6-a976-4315-b140-3775181ef733&filename=ca_dc_662_97.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14444",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1bbbcad6-a976-4315-b140-3775181ef733&filename=ca_dc_662_97.pdf",
   "parties": "(F) M. Nadarajamoorthy, Vs A. Saroja Dharmaseelan and Others Hon Janak De Silva J.",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

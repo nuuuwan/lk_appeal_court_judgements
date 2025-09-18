@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-02-07-CA-L-A-118-2001",
   "num": "CA.L.A/118/2001",
   "date_str": "2022-02-07",
   "description": "Felix Stanley Senanayake Vs Wengappuli Arachchige Rohana before  HON. K.K.A.V. SWARNADHIPATHI, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=856b71a7-bbb4-4223-8bf5-ebb28cb014ce&filename=ca%20118%20-%202001.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14340",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=856b71a7-bbb4-4223-8bf5-ebb28cb014ce&filename=ca%20118%20-%202001.pdf",
   "parties": "Felix Stanley Senanayake Vs Wengappuli Arachchige Rohana",
   "judgement_by": " HON. K.K.A.V. SWARNADHIPATHI, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

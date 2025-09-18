@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-11-01-HCC-0050-20",
   "num": "HCC-0050-20",
   "date_str": "2022-11-01",
   "description": "Devage Thusitha Chamara alias Thilan Vs Attorney General before Hon. P. Kumararatnam, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5187456c-ad84-4c67-9600-15a411f6ce9c&filename=HCC-0050-.2020.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3957",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5187456c-ad84-4c67-9600-15a411f6ce9c&filename=HCC-0050-.2020.pdf.pdf",
   "parties": "Devage Thusitha Chamara alias Thilan Vs Attorney General",
   "judgement_by": "Hon. P. Kumararatnam, J.",
   "keywords": "\u2022 Confessionary Statement. \u2022 Character Evidence. \u2022 Chain of Production. \u2022 Examining Police Information Book. \u2022 Prejudice and Fair trial.",
-  "legistation": "Poisons, Opium and Dangerous Drugs Ordinance as amended.",
-  "lang": "en"
+  "legistation": "Poisons, Opium and Dangerous Drugs Ordinance as amended."
 }

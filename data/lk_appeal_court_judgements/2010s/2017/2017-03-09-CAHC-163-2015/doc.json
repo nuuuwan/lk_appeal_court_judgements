@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-03-09-CAHC-163-2015",
   "num": "CAHC 163/2015",
   "date_str": "2017-03-09",
   "description": "Ampagoda Liyanage Vijitha Mahindasena Vs. Hon. Attorney General before  Hon. S. Devika De L. Tennekoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=442507ce-e965-4462-a8ac-ac6577dca63b&filename=ca_hc_163_2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14465",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=442507ce-e965-4462-a8ac-ac6577dca63b&filename=ca_hc_163_2015.pdf",
   "parties": "Ampagoda Liyanage Vijitha Mahindasena Vs. Hon. Attorney General",
   "judgement_by": " Hon. S. Devika De L. Tennekoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

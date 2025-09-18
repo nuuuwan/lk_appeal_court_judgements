@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-04-01-CADC-541-97",
   "num": "CADC 541/97",
   "date_str": "2016-04-01",
   "description": "S.A. Violet Menika Vs. Rev: Medawalagama Upalena before  Hon. P.R. Walgama, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=abd78431-d8a9-472e-995a-de0934247203&filename=ca_dc_541_97.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14492",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=abd78431-d8a9-472e-995a-de0934247203&filename=ca_dc_541_97.pdf",
   "parties": "S.A. Violet Menika Vs. Rev: Medawalagama Upalena",
   "judgement_by": " Hon. P.R. Walgama, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

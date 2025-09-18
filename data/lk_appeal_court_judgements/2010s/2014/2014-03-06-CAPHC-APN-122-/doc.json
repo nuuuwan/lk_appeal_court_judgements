@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-03-06-CAPHC-APN-122-",
   "num": "CAPHC APN 122/",
   "date_str": "2014-03-06",
   "description": " before 2013 Wellangahagoda Gedara Roshan Wajira Kumara Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e83b5ec3-f791-4c78-917a-dbde354e8d48&filename=ca_phc_apn_122_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14538",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e83b5ec3-f791-4c78-917a-dbde354e8d48&filename=ca_phc_apn_122_2013.pdf",
   "parties": "",
   "judgement_by": "2013 Wellangahagoda Gedara Roshan Wajira Kumara Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-11-27-C-A-HC-108-2003",
   "num": "C.A HC 108/2003",
   "date_str": "2019-11-27",
   "description": "Poruthotage Nalin Sujanaka Perera Vs Hon Attorney General before  Hon K. K. Wickremasinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7a2db75a-c80f-4eb1-9218-c43789c01bb0&filename=c.a%20hc%20%20108_2003.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14431",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7a2db75a-c80f-4eb1-9218-c43789c01bb0&filename=c.a%20hc%20%20108_2003.pdf",
   "parties": "Poruthotage Nalin Sujanaka Perera Vs Hon Attorney General",
   "judgement_by": " Hon K. K. Wickremasinghe, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

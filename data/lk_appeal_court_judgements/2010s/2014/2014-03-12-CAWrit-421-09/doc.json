@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-03-12-CAWrit-421-09",
   "num": "CAWrit 421/09",
   "date_str": "2014-03-12",
   "description": "Gunnanselage Don Harischandra Vs. The Attorney General & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=144f1a59-989c-43e6-984f-6c5673f21a4c&filename=ca_writ_421_09.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14540",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=144f1a59-989c-43e6-984f-6c5673f21a4c&filename=ca_writ_421_09.pdf",
   "parties": "Gunnanselage Don Harischandra Vs. The Attorney General & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2025-07-23-CA-HCC--0131-133-2022",
   "num": "CA/HCC/ 0131-133/2022",
   "date_str": "2025-07-23",
   "description": "Hettiarachchige Chandika Indrajith Jayaratna 2. Dena Bodage Wijeyananda 3. Mallikage Upali Ajith Kumara Vs. The Attorney General before Hon. P. Kumararatnam, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c2887c50-8ee0-4fcd-b807-c17a9d277ab0&filename=Court%20of%20Appeal%20JUDGMENT%20HCC-0131-133.22..pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=13115",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c2887c50-8ee0-4fcd-b807-c17a9d277ab0&filename=Court%20of%20Appeal%20JUDGMENT%20HCC-0131-133.22..pdf.pdf",
   "parties": "Hettiarachchige Chandika Indrajith Jayaratna 2. Dena Bodage Wijeyananda 3. Mallikage Upali Ajith Kumara Vs. The Attorney General",
   "judgement_by": "Hon. P. Kumararatnam, J.",
   "keywords": "Commo Intention \u2022 Contradictions \u2022 Defence Evidence \u2022 Judgment Writing \u2022 Standard of proof",
-  "legistation": "The Penal Code",
-  "lang": "en"
+  "legistation": "The Penal Code"
 }

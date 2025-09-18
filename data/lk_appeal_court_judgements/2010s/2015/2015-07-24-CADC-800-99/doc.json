@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-07-24-CADC-800-99",
   "num": "CADC 800/99",
   "date_str": "2015-07-24",
   "description": "A.K.N.P .Perera Vs. K.R.Nobert before  Hon. P.W.D.C. Jayathilaka, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3c82667e-514f-41c9-a036-b3257514e65c&filename=ca_dc_800_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14523",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3c82667e-514f-41c9-a036-b3257514e65c&filename=ca_dc_800_99.pdf",
   "parties": "A.K.N.P .Perera Vs. K.R.Nobert",
   "judgement_by": " Hon. P.W.D.C. Jayathilaka, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

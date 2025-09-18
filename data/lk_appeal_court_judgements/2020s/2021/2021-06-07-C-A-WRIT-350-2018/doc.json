@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-06-07-C-A-WRIT-350-2018",
   "num": "C.A WRIT 350/2018",
   "date_str": "2021-06-07",
   "description": "Sri Lankan Catering Limited Vs. T.D. Sunil Dayaratne and Others before Hon Justice Arjuna Obeyesekere, P/CA",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b36b269c-bfc3-4925-805f-3389b1788a35&filename=ca.350.18.final%20%283%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9825",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b36b269c-bfc3-4925-805f-3389b1788a35&filename=ca.350.18.final%20%283%29.pdf.pdf",
   "parties": "Sri Lankan Catering Limited Vs. T.D. Sunil Dayaratne and Others",
   "judgement_by": "Hon Justice Arjuna Obeyesekere, P/CA",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

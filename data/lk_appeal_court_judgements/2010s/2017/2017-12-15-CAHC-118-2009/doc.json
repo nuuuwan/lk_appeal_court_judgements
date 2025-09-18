@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-12-15-CAHC-118-2009",
   "num": "CAHC 118/2009",
   "date_str": "2017-12-15",
   "description": "Hon. Attorney General Vs. Weledurayalage Gedera Gayan Asanka Premadase before  Hon. K.K. Wickremasinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=194f2633-6bdc-44c0-a82e-7a47370ad4ab&filename=ca_hc_118_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14483",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=194f2633-6bdc-44c0-a82e-7a47370ad4ab&filename=ca_hc_118_2009.pdf",
   "parties": "Hon. Attorney General Vs. Weledurayalage Gedera Gayan Asanka Premadase",
   "judgement_by": " Hon. K.K. Wickremasinghe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

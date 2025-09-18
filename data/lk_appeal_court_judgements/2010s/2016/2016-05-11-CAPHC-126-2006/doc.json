@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-05-11-CAPHC-126-2006",
   "num": "CAPHC 126/2006",
   "date_str": "2016-05-11",
   "description": "Mallika Arachchige Sherly George Godwin Perera Vs. Hon. Attorney General before  Hon. W.M.M. Malinie Gunaratne J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6c6eaaf2-66cf-477d-b9ab-f0697d7b69d2&filename=ca_phc_126_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14533",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6c6eaaf2-66cf-477d-b9ab-f0697d7b69d2&filename=ca_phc_126_2006.pdf",
   "parties": "Mallika Arachchige Sherly George Godwin Perera Vs. Hon. Attorney General",
   "judgement_by": " Hon. W.M.M. Malinie Gunaratne J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-01-15-CAHC-208-2014",
   "num": "CAHC 208/2014",
   "date_str": "2018-01-15",
   "description": ".A.P.D.Priyankara Vs. Hon Attorney General before  Hon. S. Thurairaja, P.C, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=566256f3-a771-481c-919e-2493af7f6f7f&filename=ca_hc_208_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14483",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=566256f3-a771-481c-919e-2493af7f6f7f&filename=ca_hc_208_2014.pdf",
   "parties": ".A.P.D.Priyankara Vs. Hon Attorney General",
   "judgement_by": " Hon. S. Thurairaja, P.C, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

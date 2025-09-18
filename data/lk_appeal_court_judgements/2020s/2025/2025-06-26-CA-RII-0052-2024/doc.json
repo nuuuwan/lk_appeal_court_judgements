@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2025-06-26-CA-RII-0052-2024",
   "num": "CA/RII/0052/2024",
   "date_str": "2025-06-26",
   "description": "Amarakoon Mudiyanselage Sunith Nandanie vs Amarakoon Mudiyanselage Wasantha Shamalie before Hon. R. Gurusinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4515b781-043c-4755-b7cf-fbc930712e28&filename=RII%200052-24%20%28edited%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=13112",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4515b781-043c-4755-b7cf-fbc930712e28&filename=RII%200052-24%20%28edited%29.pdf.pdf",
   "parties": "Amarakoon Mudiyanselage Sunith Nandanie vs Amarakoon Mudiyanselage Wasantha Shamalie",
   "judgement_by": "Hon. R. Gurusinghe, J.",
   "keywords": "fraud",
-  "legistation": "The Partition Law",
-  "lang": "en"
+  "legistation": "The Partition Law"
 }

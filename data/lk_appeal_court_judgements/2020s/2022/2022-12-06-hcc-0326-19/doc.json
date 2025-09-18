@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-12-06-hcc-0326-19",
   "num": "hcc-0326-19",
   "date_str": "2022-12-06",
   "description": "Halpitapathalage Don Nishantha Arskin Perera vs Hon. Attorney General before HON. WICKUM A. KALUARACHCHI, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=31706ad4-0e4a-461b-936b-744def671720&filename=hcc-326-19%20-%281%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3945",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=31706ad4-0e4a-461b-936b-744def671720&filename=hcc-326-19%20-%281%29.pdf.pdf",
   "parties": "Halpitapathalage Don Nishantha Arskin Perera vs Hon. Attorney General",
   "judgement_by": "HON. WICKUM A. KALUARACHCHI, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

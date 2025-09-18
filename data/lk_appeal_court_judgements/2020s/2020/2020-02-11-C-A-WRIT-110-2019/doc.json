@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-02-11-C-A-WRIT-110-2019",
   "num": "C.A WRIT 110/2019",
   "date_str": "2020-02-11",
   "description": "Ponnaperumage Fred Dekstor Fernando Vs K.J.S. Madhawa, Returning Officer and Others before  Hon. Justice Janak De Silva",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ef32a338-b0a9-423c-b3d3-105c18d5adcd&filename=c.a%20writ%20110-2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14390",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ef32a338-b0a9-423c-b3d3-105c18d5adcd&filename=c.a%20writ%20110-2019.pdf",
   "parties": "Ponnaperumage Fred Dekstor Fernando Vs K.J.S. Madhawa, Returning Officer and Others",
   "judgement_by": " Hon. Justice Janak De Silva",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

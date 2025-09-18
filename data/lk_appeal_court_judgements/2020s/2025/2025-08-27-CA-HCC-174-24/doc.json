@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2025-08-27-CA-HCC-174-24",
   "num": "CA/HCC/174/24",
   "date_str": "2025-08-27",
   "description": "Mohamed Saleem Mohamed Safreen Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2f53b141-be1c-45b3-b8f2-5fae1a0fb357&filename=HCC-0174-24-JUDGMENT.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=13118",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2f53b141-be1c-45b3-b8f2-5fae1a0fb357&filename=HCC-0174-24-JUDGMENT.pdf.pdf",
   "parties": "Mohamed Saleem Mohamed Safreen Vs The Hon. Attorney General",
   "judgement_by": "Hon. B. Sasi Mahendran, J.",
   "keywords": "Dying declaration, circumstantial evidence, inference of guilt",
-  "legistation": "Section 27 of Recovery",
-  "lang": "en"
+  "legistation": "Section 27 of Recovery"
 }

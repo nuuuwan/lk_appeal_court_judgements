@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-05-13-C-A-WRIT-1009-2008",
   "num": "C.A WRIT 1009/2008",
   "date_str": "2019-05-13",
   "description": "Hemantha Chamindra Ovitigama Vs Inspector General of Police,Department of Police and Others before  Hon Janak De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b07ec199-d640-475a-8ce0-0e248dc7b837&filename=c.a_writ_1009_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14419",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b07ec199-d640-475a-8ce0-0e248dc7b837&filename=c.a_writ_1009_2008.pdf",
   "parties": "Hemantha Chamindra Ovitigama Vs Inspector General of Police,Department of Police and Others",
   "judgement_by": " Hon Janak De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-11-15-C-A--DCF-844-1997",
   "num": "C.A. DCF 844/1997",
   "date_str": "2021-11-15",
   "description": "Kuruppu Arachchilage Malani Vs Padmakumara Sooriarachchi and others before  Hon. K.K.A.V. Swarmadhipathi, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=99470076-2955-4eca-8bac-7fdb55320754&filename=ca%20844-97.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14383",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=99470076-2955-4eca-8bac-7fdb55320754&filename=ca%20844-97.pdf",
   "parties": "Kuruppu Arachchilage Malani Vs Padmakumara Sooriarachchi and others",
   "judgement_by": " Hon. K.K.A.V. Swarmadhipathi, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-11-07-CAPHC-156-2002",
   "num": "CAPHC 156/2002",
   "date_str": "2014-11-07",
   "description": "N.P. Piyasiri Nishshanka Vs. P.A. Jinadasa - Hon. K.T. Chitrasiri, J before  Rule 2(1) (a) of the Court of Appeal (Procedure for Appeals from the High Courts) Rules 1988.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=db86d44b-63e3-4aab-b066-d22140604653&filename=ca_phc_156_2002.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14554",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=db86d44b-63e3-4aab-b066-d22140604653&filename=ca_phc_156_2002.pdf",
   "parties": "N.P. Piyasiri Nishshanka Vs. P.A. Jinadasa - Hon. K.T. Chitrasiri, J",
   "judgement_by": " Rule 2(1) (a) of the Court of Appeal (Procedure for Appeals from the High Courts) Rules 1988.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

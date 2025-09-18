@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-11-13-CA-HCC-213-20",
   "num": "CA-HCC-213-20",
   "date_str": "2023-11-13",
   "description": "Olua Austin Chiedozie alias Joseph Austin Emmanual Vs The Hon. Attorney General before Sasi Mahendran, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8f6ad490-5d6f-40c8-99fc-943d666f3dfc&filename=HCC%20213-20%20JUDGMENT.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9155",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8f6ad490-5d6f-40c8-99fc-943d666f3dfc&filename=HCC%20213-20%20JUDGMENT.pdf.pdf",
   "parties": "Olua Austin Chiedozie alias Joseph Austin Emmanual Vs The Hon. Attorney General",
   "judgement_by": "Sasi Mahendran, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

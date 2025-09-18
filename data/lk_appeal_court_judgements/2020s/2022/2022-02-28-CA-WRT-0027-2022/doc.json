@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-02-28-CA-WRT-0027-2022",
   "num": "CA.WRT/0027/2022",
   "date_str": "2022-02-28",
   "description": "Subash Yatawara Vs Lalith U. Gamage, The Governor and Others before  Hon. Sobhitha Rajakaruna J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e99c9131-ca54-48f1-87bd-89b29492ca25&filename=ca%20writ%2027-2022.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14340",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e99c9131-ca54-48f1-87bd-89b29492ca25&filename=ca%20writ%2027-2022.pdf",
   "parties": "Subash Yatawara Vs Lalith U. Gamage, The Governor and Others",
   "judgement_by": " Hon. Sobhitha Rajakaruna J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

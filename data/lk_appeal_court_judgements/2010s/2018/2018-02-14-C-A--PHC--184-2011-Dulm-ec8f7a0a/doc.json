@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-02-14-C-A--PHC--184-2011-Dulm-ec8f7a0a",
   "num": "C A (PHC) 184/2011 Dulma Dorathy Valentina Vs. Hon. Attorney General - Hon. P. Padman Surasena, J (P/CA)",
   "date_str": "2018-02-14",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c8c0c7f6-fc04-47d3-8254-eb20ae40a287&filename=ca_phc_184_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14436",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c8c0c7f6-fc04-47d3-8254-eb20ae40a287&filename=ca_phc_184_2011.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

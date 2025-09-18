@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-09-30-Tax-0010-15",
   "num": "Tax-0010-15",
   "date_str": "2022-09-30",
   "description": "Lanka Walltiles PLC Vs The Commissioner General of Inland Revenue before Hon. Dr. Ruwan Fernando, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=53bf0282-7655-49c9-8553-e4e76c46e700&filename=CA%20TAX%2010-2015.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3945",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=53bf0282-7655-49c9-8553-e4e76c46e700&filename=CA%20TAX%2010-2015.pdf.pdf",
   "parties": "Lanka Walltiles PLC Vs The Commissioner General of Inland Revenue",
   "judgement_by": "Hon. Dr. Ruwan Fernando, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

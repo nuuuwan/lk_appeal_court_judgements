@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-05-25-CA-PHC-186-16",
   "num": "CA.PHC/186/16",
   "date_str": "2022-05-25",
   "description": "K.A. Samson Harischandra And Others Vs A Pushpa Sriyani Ranatunge And Others before  Hon. Neil Iddawala, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d882d46d-4621-44d8-bc8b-09c359db66b6&filename=20.11052022-phc-186-16.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14346",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d882d46d-4621-44d8-bc8b-09c359db66b6&filename=20.11052022-phc-186-16.pdf",
   "parties": "K.A. Samson Harischandra And Others Vs A Pushpa Sriyani Ranatunge And Others",
   "judgement_by": " Hon. Neil Iddawala, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

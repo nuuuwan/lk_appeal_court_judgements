@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-05-27-CAWrit-100-2014",
   "num": "CAWrit 100/2014",
   "date_str": "2014-05-27",
   "description": "I.D.M.G.Kusumsiri Thilakerathne & others Vs. Road Development Authority & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3f261e67-9dd0-4781-8384-5aa30d72f87f&filename=ca_writ_100_14.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14544",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3f261e67-9dd0-4781-8384-5aa30d72f87f&filename=ca_writ_100_14.pdf",
   "parties": "I.D.M.G.Kusumsiri Thilakerathne & others Vs. Road Development Authority & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

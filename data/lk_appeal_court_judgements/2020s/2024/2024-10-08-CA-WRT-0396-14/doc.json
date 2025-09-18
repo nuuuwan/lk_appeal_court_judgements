@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-10-08-CA-WRT-0396-14",
   "num": "CA/WRT/0396-14",
   "date_str": "2024-10-08",
   "description": "Antony Suresh Rajakumaran Muttiah Vs. Dr. (Ms) Saroja Wettasinghe and Others before Hon. Dhammika Ganepola, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e0dff787-5e04-4969-86a7-6ed8dfec5a8d&filename=CA%20WRIT%20396-14.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10827",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e0dff787-5e04-4969-86a7-6ed8dfec5a8d&filename=CA%20WRIT%20396-14.pdf.pdf",
   "parties": "Antony Suresh Rajakumaran Muttiah Vs. Dr. (Ms) Saroja Wettasinghe and Others",
   "judgement_by": "Hon. Dhammika Ganepola, J.",
   "keywords": "Price escalations, Cabinet decision, Ombudsman\u2019s decision, Disputed facts, legal right.",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

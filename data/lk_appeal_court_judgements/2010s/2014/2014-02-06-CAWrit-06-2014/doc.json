@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-02-06-CAWrit-06-2014",
   "num": "CAWrit 06/2014",
   "date_str": "2014-02-06",
   "description": "Destine Plastic (Pvt) Ltd Vs. The Commissioner General, Department of Inland Revenue, & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=20bda608-4edd-4e6b-8900-3054659c4dca&filename=ca_writ_06_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14536",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=20bda608-4edd-4e6b-8900-3054659c4dca&filename=ca_writ_06_2014.pdf",
   "parties": "Destine Plastic (Pvt) Ltd Vs. The Commissioner General, Department of Inland Revenue, & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

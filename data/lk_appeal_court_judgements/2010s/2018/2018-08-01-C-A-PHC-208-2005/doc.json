@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-08-01-C-A-PHC-208-2005",
   "num": "C.A PHC 208/2005",
   "date_str": "2018-08-01",
   "description": "lakmana Gamage Hemantha Vs Nekethrallage luvis Singho alias Gunawardena and Others before  Hon Janak De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=45dcdc43-4d24-4716-8fce-15794df3aa87&filename=caphc%20208_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14448",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=45dcdc43-4d24-4716-8fce-15794df3aa87&filename=caphc%20208_2005.pdf",
   "parties": "lakmana Gamage Hemantha Vs Nekethrallage luvis Singho alias Gunawardena and Others",
   "judgement_by": " Hon Janak De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

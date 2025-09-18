@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-03-31-C-A--HCC-281-2018",
   "num": "C.A. HCC/281/2018",
   "date_str": "2021-03-31",
   "description": "Mohomad Nilam Mohomaad Sameer Vs The Honourable Attorney General before  Hon. R. Gurusinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a6db1f66-412b-40c6-a703-df774f82d2bd&filename=hcc_281_2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14367",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a6db1f66-412b-40c6-a703-df774f82d2bd&filename=hcc_281_2018.pdf",
   "parties": "Mohomad Nilam Mohomaad Sameer Vs The Honourable Attorney General",
   "judgement_by": " Hon. R. Gurusinghe, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

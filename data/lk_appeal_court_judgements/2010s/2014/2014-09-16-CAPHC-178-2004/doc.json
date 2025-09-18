@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-09-16-CAPHC-178-2004",
   "num": "CAPHC 178/2004",
   "date_str": "2014-09-16",
   "description": "K.M.J.J. Ramesh Vs. Hon. Attorney General before  Hon. K.T. Chitrasiri, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=aec1ab2a-d787-41bf-bac0-03f502c61fcd&filename=ca_phc_178_04.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14550",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=aec1ab2a-d787-41bf-bac0-03f502c61fcd&filename=ca_phc_178_04.pdf",
   "parties": "K.M.J.J. Ramesh Vs. Hon. Attorney General",
   "judgement_by": " Hon. K.T. Chitrasiri, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

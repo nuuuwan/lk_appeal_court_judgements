@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-05-12-CADC-Colombo-907-99",
   "num": "CADC Colombo 907/99",
   "date_str": "2014-05-12",
   "description": "L.U.C.Kuruppu Vs. S. Jayaratne before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=66e75691-ba20-4a67-ac87-8c139e1b8279&filename=ca_dc_colombo_907_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14544",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=66e75691-ba20-4a67-ac87-8c139e1b8279&filename=ca_dc_colombo_907_99.pdf",
   "parties": "L.U.C.Kuruppu Vs. S. Jayaratne",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

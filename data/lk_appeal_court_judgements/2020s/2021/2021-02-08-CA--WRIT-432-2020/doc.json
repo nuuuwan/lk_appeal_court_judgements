@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-02-08-CA--WRIT-432-2020",
   "num": "CA. WRIT/432/2020",
   "date_str": "2021-02-08",
   "description": "P. Kisho Kumar Vs Hon. Mahinda Rajapaksa and Others before Hon. Arjuna Obeyesekere, J., P/CA",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e464e444-fbe2-471a-93ba-9413cd22bfe2&filename=ca.wrt.432.20.final.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9821",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e464e444-fbe2-471a-93ba-9413cd22bfe2&filename=ca.wrt.432.20.final.pdf.pdf",
   "parties": "P. Kisho Kumar Vs Hon. Mahinda Rajapaksa and Others",
   "judgement_by": "Hon. Arjuna Obeyesekere, J., P/CA",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

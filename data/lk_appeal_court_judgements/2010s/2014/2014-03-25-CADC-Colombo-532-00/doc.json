@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-03-25-CADC-Colombo-532-00",
   "num": "CADC Colombo 532/00",
   "date_str": "2014-03-25",
   "description": "Finance Export & tourists Enterprises Ltd Vs. W.K. Jayathilake before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9ec827ac-cbc0-41fb-9386-a39d47f97e9a&filename=ca_dc_colombo_532_00.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14540",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9ec827ac-cbc0-41fb-9386-a39d47f97e9a&filename=ca_dc_colombo_532_00.pdf",
   "parties": "Finance Export & tourists Enterprises Ltd Vs. W.K. Jayathilake",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

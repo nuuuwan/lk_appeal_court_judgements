@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-02-12-CA-WRT-0245-2021",
   "num": "CA/WRT/0245/2021",
   "date_str": "2024-02-12",
   "description": "Center for Environmental Justice & 1 Other Vs. Conservator General of Forests and 6 Others before Hon. M. T. MOHAMMED LAFFAR, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cfaa0f6c-8b5d-473b-972c-50b7b23d2dd5&filename=WRT-0245-21.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10836",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cfaa0f6c-8b5d-473b-972c-50b7b23d2dd5&filename=WRT-0245-21.pdf.pdf",
   "parties": "Center for Environmental Justice & 1 Other Vs. Conservator General of Forests and 6 Others",
   "judgement_by": "Hon. M. T. MOHAMMED LAFFAR, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

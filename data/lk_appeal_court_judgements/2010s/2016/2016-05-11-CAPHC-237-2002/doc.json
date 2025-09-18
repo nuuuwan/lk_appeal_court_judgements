@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-05-11-CAPHC-237-2002",
   "num": "CAPHC 237/2002",
   "date_str": "2016-05-11",
   "description": "A.P. Somapala Vs. S.M. Sawahir & others before  Hon. W.M.M. Malinie Gunaratne, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=624ff18f-f3c8-4a0d-a893-b518b9f96a20&filename=ca_phc_237_2002.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14529",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=624ff18f-f3c8-4a0d-a893-b518b9f96a20&filename=ca_phc_237_2002.pdf",
   "parties": "A.P. Somapala Vs. S.M. Sawahir & others",
   "judgement_by": " Hon. W.M.M. Malinie Gunaratne, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

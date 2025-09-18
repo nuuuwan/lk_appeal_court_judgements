@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-01-19-CA--HCC-78-2017",
   "num": "CA. HCC/78/2017",
   "date_str": "2022-01-19",
   "description": "Viswanathan Kanaga Manoharan Vs Hon. Attorney General before Hon. R. Gurusinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=aea0b576-cd65-4e3f-ad92-9e618592d2f8&filename=edited%20%20-%2078-2017%201.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=2540",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=aea0b576-cd65-4e3f-ad92-9e618592d2f8&filename=edited%20%20-%2078-2017%201.pdf.pdf",
   "parties": "Viswanathan Kanaga Manoharan Vs Hon. Attorney General",
   "judgement_by": "Hon. R. Gurusinghe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

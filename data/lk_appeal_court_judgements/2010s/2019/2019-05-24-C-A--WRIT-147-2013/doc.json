@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-05-24-C-A--WRIT-147-2013",
   "num": "C.A. WRIT 147/2013",
   "date_str": "2019-05-24",
   "description": "Prof. (Dr). Chelliah Elankumaran Vs The University of Jaffna and Others before  Hon Arjuna Obeyesekere, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ef0ee965-4bdc-49dc-8c08-ad961319d695&filename=c.a.%20writ_147_2013%20uplorded.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14419",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ef0ee965-4bdc-49dc-8c08-ad961319d695&filename=c.a.%20writ_147_2013%20uplorded.pdf",
   "parties": "Prof. (Dr). Chelliah Elankumaran Vs The University of Jaffna and Others",
   "judgement_by": " Hon Arjuna Obeyesekere, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-07-03-CA-Writ----262-2017",
   "num": "CA(Writ) : 262/2017",
   "date_str": "2018-07-03",
   "description": "Arumugam Thiruchelvam, Vs Hon. Mangala Samaraweera, before  Hon A.L. Shiran Gooneratne J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c75b1ffa-837e-4099-8678-ccc45e07fdc6&filename=ca_writ_262_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14446",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c75b1ffa-837e-4099-8678-ccc45e07fdc6&filename=ca_writ_262_2017.pdf",
   "parties": "Arumugam Thiruchelvam, Vs Hon. Mangala Samaraweera,",
   "judgement_by": " Hon A.L. Shiran Gooneratne J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

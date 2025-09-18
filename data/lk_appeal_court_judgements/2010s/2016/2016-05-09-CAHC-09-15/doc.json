@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-05-09-CAHC-09-15",
   "num": "CAHC 09/15",
   "date_str": "2016-05-09",
   "description": "Hon.Attorney General Vs. Ramalingam Selvaratnam before  Hon. W.M.M. Malinie Gunaratne, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=869c2047-bad3-45e1-8fb2-c05691e56f1e&filename=ca_hc_09_15.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14494",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=869c2047-bad3-45e1-8fb2-c05691e56f1e&filename=ca_hc_09_15.pdf",
   "parties": "Hon.Attorney General Vs. Ramalingam Selvaratnam",
   "judgement_by": " Hon. W.M.M. Malinie Gunaratne, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

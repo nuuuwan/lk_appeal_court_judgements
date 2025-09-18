@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-11-25-C-A-WRIT-112-2016",
   "num": "C.A WRIT 112/2016",
   "date_str": "2020-11-25",
   "description": "S.C. Jayawickrama Vs National Savings Bank and Others before  Hon N. Bandula Karunarathna,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e78d1d6d-c2f0-474a-9b1c-e0515a03f256&filename=c.a%20writ%20112-2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14408",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e78d1d6d-c2f0-474a-9b1c-e0515a03f256&filename=c.a%20writ%20112-2016.pdf",
   "parties": "S.C. Jayawickrama Vs National Savings Bank and Others",
   "judgement_by": " Hon N. Bandula Karunarathna,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

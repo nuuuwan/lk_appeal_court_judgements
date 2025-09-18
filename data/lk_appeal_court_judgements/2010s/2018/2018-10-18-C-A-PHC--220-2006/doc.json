@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-10-18-C-A-PHC--220-2006",
   "num": "C.A PHC /220/2006",
   "date_str": "2018-10-18",
   "description": "Hasitha Hinguruduwa Vs W.A. Gunawardena before  Hon. Achala Wengappuli, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d18dfe7f-3dcb-4c7d-b17c-7488f486ca42&filename=c.a%20ph_220_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14454",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d18dfe7f-3dcb-4c7d-b17c-7488f486ca42&filename=c.a%20ph_220_2006.pdf",
   "parties": "Hasitha Hinguruduwa Vs W.A. Gunawardena",
   "judgement_by": " Hon. Achala Wengappuli, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

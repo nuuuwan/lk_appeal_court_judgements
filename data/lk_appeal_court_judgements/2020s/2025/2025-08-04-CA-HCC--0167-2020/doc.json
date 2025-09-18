@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2025-08-04-CA-HCC--0167-2020",
   "num": "CA/HCC/ 0167/2020",
   "date_str": "2025-08-04",
   "description": "Madawalamaddumage Don Ruwan Pushpakumara And others Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=acc12594-9aa9-4521-982c-e9a6db1b2417&filename=Court%20of%20Appeal%20Judgment%20HCC167.20.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=13118",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=acc12594-9aa9-4521-982c-e9a6db1b2417&filename=Court%20of%20Appeal%20Judgment%20HCC167.20.pdf.pdf",
   "parties": "Madawalamaddumage Don Ruwan Pushpakumara And others Vs The Hon. Attorney General",
   "judgement_by": "Hon. P. Kumararatnam, J.",
   "keywords": "Standard of proof. \u2022 Test of Credibility. \u2022 Rejection of Defence Evidence.",
-  "legistation": "The Penal Code.",
-  "lang": "en"
+  "legistation": "The Penal Code."
 }

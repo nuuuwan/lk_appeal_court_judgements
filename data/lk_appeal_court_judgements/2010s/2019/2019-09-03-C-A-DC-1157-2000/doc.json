@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-09-03-C-A-DC-1157-2000",
   "num": "C.A DC 1157/2000",
   "date_str": "2019-09-03",
   "description": "Deallas Hector Edward Dirckze Vs Palihawadana Arachchige Noel Desmond Stephen Perera before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8b12345f-4e26-4bcf-9e57-bf804f18c706&filename=ca-1157-2000-f%202.9.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14427",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8b12345f-4e26-4bcf-9e57-bf804f18c706&filename=ca-1157-2000-f%202.9.2019.pdf",
   "parties": "Deallas Hector Edward Dirckze Vs Palihawadana Arachchige Noel Desmond Stephen Perera",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

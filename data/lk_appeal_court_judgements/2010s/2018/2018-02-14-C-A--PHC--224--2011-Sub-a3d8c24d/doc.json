@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-02-14-C-A--PHC--224--2011-Sub-a3d8c24d",
   "num": "C A (PHC)/224/ 2011 Subramanium Thyagaraja Vs. Vipula Ekanayake - Hon. P. Padman Surasena, J (P/CA)",
   "date_str": "2018-02-14",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=269c8f3a-9d19-49b8-8140-9436554c3329&filename=ca_phc_224_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14438",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=269c8f3a-9d19-49b8-8140-9436554c3329&filename=ca_phc_224_2011.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

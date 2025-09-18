@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-11-12-C-A-PHC-16-2014",
   "num": "C.A PHC 16/2014",
   "date_str": "2018-11-12",
   "description": "Samarakoon Mudiyanselage Bandara Menike Vs Divisional Secretary, Meegahakiwula before  Hon Achala Wengappuli, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=17af4aef-3264-4bed-942f-4c81f3516dd5&filename=c.a%20phc%2016_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14456",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=17af4aef-3264-4bed-942f-4c81f3516dd5&filename=c.a%20phc%2016_2014.pdf",
   "parties": "Samarakoon Mudiyanselage Bandara Menike Vs Divisional Secretary, Meegahakiwula",
   "judgement_by": " Hon Achala Wengappuli, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

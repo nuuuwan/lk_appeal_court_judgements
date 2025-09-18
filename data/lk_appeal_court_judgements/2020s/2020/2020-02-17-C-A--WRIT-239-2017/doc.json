@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-02-17-C-A--WRIT-239-2017",
   "num": "C.A. WRIT/239/2017",
   "date_str": "2020-02-17",
   "description": "Colonel U.R.Abeyratne Vs Lt. Gen. N.U .M.M.W.Senanayake and Others before  Hon. Arjuna Obeyesekere, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c82a6895-2964-4389-8b4e-c997d57da552&filename=c.a.%20writ_239_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14390",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c82a6895-2964-4389-8b4e-c997d57da552&filename=c.a.%20writ_239_2017.pdf",
   "parties": "Colonel U.R.Abeyratne Vs Lt. Gen. N.U .M.M.W.Senanayake and Others",
   "judgement_by": " Hon. Arjuna Obeyesekere, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

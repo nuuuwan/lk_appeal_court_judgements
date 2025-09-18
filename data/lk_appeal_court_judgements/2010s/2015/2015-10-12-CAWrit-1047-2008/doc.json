@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-10-12-CAWrit-1047-2008",
   "num": "CAWrit 1047/2008",
   "date_str": "2015-10-12",
   "description": "T.M. Samantha Lalinda Vs. Sabaragamuwa University of Sri Lanka. before  Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=29e45c28-788f-4c2a-b204-0da1dd3db97f&filename=ca_writ_1047_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14527",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=29e45c28-788f-4c2a-b204-0da1dd3db97f&filename=ca_writ_1047_2008.pdf",
   "parties": "T.M. Samantha Lalinda Vs. Sabaragamuwa University of Sri Lanka.",
   "judgement_by": " Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

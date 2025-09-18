@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-07-04-CADC-499-99",
   "num": "CADC 499/99",
   "date_str": "2017-07-04",
   "description": "Abdul Cader Umma Habeeba Vs. Habeeb Mohamed Cassim Alias, Farook & others before  Hon. M.M.A. Gaffoor, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ef477deb-bdfc-4b03-b3ad-6c9d6169fb85&filename=ca_dc_499_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14473",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ef477deb-bdfc-4b03-b3ad-6c9d6169fb85&filename=ca_dc_499_99.pdf",
   "parties": "Abdul Cader Umma Habeeba Vs. Habeeb Mohamed Cassim Alias, Farook & others",
   "judgement_by": " Hon. M.M.A. Gaffoor, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

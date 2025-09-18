@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-10-13-CAWrit-614-2011",
   "num": "CAWrit 614/2011",
   "date_str": "2015-10-13",
   "description": "Captain R.D. Sunil Pathirana Vs. Lt. General Jagath Jayasuriya & others before  Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2552a5df-c929-4b5b-be87-ff49f25c14e1&filename=ca_writ_614_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14523",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2552a5df-c929-4b5b-be87-ff49f25c14e1&filename=ca_writ_614_2011.pdf",
   "parties": "Captain R.D. Sunil Pathirana Vs. Lt. General Jagath Jayasuriya & others",
   "judgement_by": " Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

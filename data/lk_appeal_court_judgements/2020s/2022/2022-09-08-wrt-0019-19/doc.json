@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-09-08-wrt-0019-19",
   "num": "wrt-0019-19",
   "date_str": "2022-09-08",
   "description": "M. A. C. M. Ameer alias M. A. C. M. Aamir and another Vs Urban Coucil, Kalutara and others before HON. MOHAMMED LAFFAR, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=99f9099f-8213-4418-80ab-83cf1cf15ce8&filename=writ-19-2019%20%281%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3945",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=99f9099f-8213-4418-80ab-83cf1cf15ce8&filename=writ-19-2019%20%281%29.pdf.pdf",
   "parties": "M. A. C. M. Ameer alias M. A. C. M. Aamir and another Vs Urban Coucil, Kalutara and others",
   "judgement_by": "HON. MOHAMMED LAFFAR, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

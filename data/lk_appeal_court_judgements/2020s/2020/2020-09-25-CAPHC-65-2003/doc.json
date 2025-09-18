@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-09-25-CAPHC-65-2003",
   "num": "CAPHC/65/2003",
   "date_str": "2020-09-25",
   "description": "Aluthhewage Harshani Chandrika and Other Vs Officer-in-Charge and Other before  Hon.Arjuna Obeyesekere, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b1867456-e8a6-462c-9be8-955183ded1a0&filename=ca.phc.65.03.final.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14404",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b1867456-e8a6-462c-9be8-955183ded1a0&filename=ca.phc.65.03.final.pdf",
   "parties": "Aluthhewage Harshani Chandrika and Other Vs Officer-in-Charge and Other",
   "judgement_by": " Hon.Arjuna Obeyesekere, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

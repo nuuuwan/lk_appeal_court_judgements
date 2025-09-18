@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-06-02-CAWrit-2084-2004",
   "num": "CAWrit 2084/2004",
   "date_str": "2016-06-02",
   "description": "The Ampara Multi Purpose Co-operative Society Limited Vs. H.M. Herath Abeyweera & others before  Hon. W.M.M. Malinie Gunaratne, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=da4a027b-420a-4f5f-be6f-54437dfa73ed&filename=ca_writ_2084_2004.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14494",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=da4a027b-420a-4f5f-be6f-54437dfa73ed&filename=ca_writ_2084_2004.pdf",
   "parties": "The Ampara Multi Purpose Co-operative Society Limited Vs. H.M. Herath Abeyweera & others",
   "judgement_by": " Hon. W.M.M. Malinie Gunaratne, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-10-09-C-A-PHC-98-2014",
   "num": "C.A PHC 98/2014",
   "date_str": "2019-10-09",
   "description": "Ramalingam Satgunarajah Vs Lasitha Wasundara De Zoysa Gunarathne and Others before  Hon A.L. Shiran Gooneratne J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=53cf3175-e781-4e8e-bdd6-33dbf7313d32&filename=image7359.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14429",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=53cf3175-e781-4e8e-bdd6-33dbf7313d32&filename=image7359.pdf",
   "parties": "Ramalingam Satgunarajah Vs Lasitha Wasundara De Zoysa Gunarathne and Others",
   "judgement_by": " Hon A.L. Shiran Gooneratne J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

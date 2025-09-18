@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-06-06-CARV-241-2011",
   "num": "CARV 241/2011",
   "date_str": "2016-06-06",
   "description": "K.A Shelton Perera Vs. W.Don Alfred Cyril Wijetunga & others before  Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d01f8d75-50fd-4bae-b502-aa22b4429396&filename=ca_rv_241_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14494",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d01f8d75-50fd-4bae-b502-aa22b4429396&filename=ca_rv_241_2011.pdf",
   "parties": "K.A Shelton Perera Vs. W.Don Alfred Cyril Wijetunga & others",
   "judgement_by": " Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

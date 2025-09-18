@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-03-10-CA-HCC-313-2018",
   "num": "CA.HCC/313/2018",
   "date_str": "2022-03-10",
   "description": "Heen Kenda Mudalige Chandrarathne Vs The Attorney General before  Hon. N. Bandula Karunarathna, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=35f44bb5-23d7-4065-b9f4-c565a78f8ea7&filename=hcc_313_2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14342",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=35f44bb5-23d7-4065-b9f4-c565a78f8ea7&filename=hcc_313_2018.pdf",
   "parties": "Heen Kenda Mudalige Chandrarathne Vs The Attorney General",
   "judgement_by": " Hon. N. Bandula Karunarathna, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

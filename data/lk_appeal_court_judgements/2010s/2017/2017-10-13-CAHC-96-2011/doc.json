@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-10-13-CAHC-96-2011",
   "num": "CAHC 96/2011",
   "date_str": "2017-10-13",
   "description": "Sedu Raveendran Vs. Hon. Attorney General before  Hon. L.U. Jayasuriya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=043a7968-41ec-445f-80fd-a9762d03c66e&filename=ca_hc_96_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14479",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=043a7968-41ec-445f-80fd-a9762d03c66e&filename=ca_hc_96_2011.pdf",
   "parties": "Sedu Raveendran Vs. Hon. Attorney General",
   "judgement_by": " Hon. L.U. Jayasuriya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

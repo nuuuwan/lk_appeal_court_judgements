@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-01-28-C-A--WRIT-309-2012",
   "num": "C.A. WRIT/309/2012",
   "date_str": "2020-01-28",
   "description": "Park Street Residencies Management Corporation Vs Beauno Anslem Fernando and Others before  Hon. Arjuna Obeyesekere. J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6fd210fb-87e7-440f-9288-d856158bc794&filename=c.a.%20writ_309_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14433",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6fd210fb-87e7-440f-9288-d856158bc794&filename=c.a.%20writ_309_2012.pdf",
   "parties": "Park Street Residencies Management Corporation Vs Beauno Anslem Fernando and Others",
   "judgement_by": " Hon. Arjuna Obeyesekere. J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-08-07-CA-WRIT-319-2013",
   "num": "CA.WRIT/319/2013",
   "date_str": "2020-08-07",
   "description": "Kegalle Plantations PLC Vs M.M.P.Priyangani Pethangoda and Others before  Hon. ACHALA WENGAPPULI, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=decf0742-8712-423f-a1be-ce3df6078136&filename=ca.%20wrt_319_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14402",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=decf0742-8712-423f-a1be-ce3df6078136&filename=ca.%20wrt_319_2013.pdf",
   "parties": "Kegalle Plantations PLC Vs M.M.P.Priyangani Pethangoda and Others",
   "judgement_by": " Hon. ACHALA WENGAPPULI, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

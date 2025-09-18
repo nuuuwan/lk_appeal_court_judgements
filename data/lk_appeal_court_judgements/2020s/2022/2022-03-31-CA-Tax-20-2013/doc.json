@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-03-31-CA-Tax-20-2013",
   "num": "CA/Tax/20/2013",
   "date_str": "2022-03-31",
   "description": "Lanka Marine Services (Pvt) Ltd Vs The Commissioner-General of Inland Revenue before Hon.Dr. Ruwan Fernando",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cbcba077-b849-481f-8ed5-622903e3b9b7&filename=ca%20tax%2020-2013%20%281%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3909",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cbcba077-b849-481f-8ed5-622903e3b9b7&filename=ca%20tax%2020-2013%20%281%29.pdf.pdf",
   "parties": "Lanka Marine Services (Pvt) Ltd Vs The Commissioner-General of Inland Revenue",
   "judgement_by": "Hon.Dr. Ruwan Fernando",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-03-10-CA-RII-0009-2019",
   "num": "CA/RII/0009/2019",
   "date_str": "2023-03-10",
   "description": "Kopiyawattage Nandawathie Perera Vs Bhadra Padmawathie Rodrigo and others before  Hon. D.N. Samarakoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=797abb47-1ef7-46f0-96ba-6abd49a2c093&filename=rii%2009%202019%20judgment.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14317",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=797abb47-1ef7-46f0-96ba-6abd49a2c093&filename=rii%2009%202019%20judgment.pdf",
   "parties": "Kopiyawattage Nandawathie Perera Vs Bhadra Padmawathie Rodrigo and others",
   "judgement_by": " Hon. D.N. Samarakoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

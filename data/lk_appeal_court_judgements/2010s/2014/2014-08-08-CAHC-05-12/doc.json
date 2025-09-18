@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-08-08-CAHC-05-12",
   "num": "CAHC 05/12",
   "date_str": "2014-08-08",
   "description": "Narayana Saamy Vs. Hon. Attorney General before  Hon. Anil Goonerathne, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bc2a2aa1-83b7-4da6-acc3-e7e13188e680&filename=ca_hc_05_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14550",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bc2a2aa1-83b7-4da6-acc3-e7e13188e680&filename=ca_hc_05_2012.pdf",
   "parties": "Narayana Saamy Vs. Hon. Attorney General",
   "judgement_by": " Hon. Anil Goonerathne, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

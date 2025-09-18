@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-03-11-CA--PHC-214-2015",
   "num": "CA. PHC/214/2015",
   "date_str": "2022-03-11",
   "description": "Rankoth Gedara Samarasinghe Vs Kundasale Co-operative Society Limited And Others before Hon. Prasantha De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d7dbf053-01b8-43ef-bd3b-ae6a8a378ceb&filename=ca%20phc%20214_2015.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3909",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d7dbf053-01b8-43ef-bd3b-ae6a8a378ceb&filename=ca%20phc%20214_2015.pdf.pdf",
   "parties": "Rankoth Gedara Samarasinghe Vs Kundasale Co-operative Society Limited And Others",
   "judgement_by": "Hon. Prasantha De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

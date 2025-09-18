@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-11-03-CA-PHC-APN-62-2021",
   "num": "CA/PHC/APN/62/2021",
   "date_str": "2022-11-03",
   "description": "Abdul Rauf Buhardeen Zubairdeen Licensee Vs Sri Lanka Foreign Employment Bureau and other before  Hon. K.K.A.V. Swarnadhipathi, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0628bbbf-8bbf-42bd-9664-6a24d5a6c232&filename=ca.%2062.2021%201.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0628bbbf-8bbf-42bd-9664-6a24d5a6c232&filename=ca.%2062.2021%201.pdf",
   "parties": "Abdul Rauf Buhardeen Zubairdeen Licensee Vs Sri Lanka Foreign Employment Bureau and other",
   "judgement_by": " Hon. K.K.A.V. Swarnadhipathi, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

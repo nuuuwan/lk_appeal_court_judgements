@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-11-29-bal-0061-21",
   "num": "bal-0061-21",
   "date_str": "2022-11-29",
   "description": "Dissanayakke Mudiyanselage Biso Manika vs Officer in Charge, Police Station, Matale and others before Hon. Menaka Wijesundera J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b63a1419-1e19-459d-9c5f-f2f4ef0d9f4b&filename=BAL%20-%200061%20-%2021.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3957",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b63a1419-1e19-459d-9c5f-f2f4ef0d9f4b&filename=BAL%20-%200061%20-%2021.pdf.pdf",
   "parties": "Dissanayakke Mudiyanselage Biso Manika vs Officer in Charge, Police Station, Matale and others",
   "judgement_by": "Hon. Menaka Wijesundera J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

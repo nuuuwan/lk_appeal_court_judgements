@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-12-20-CAPHC-APN-120-2014",
   "num": "CAPHC APN 120/2014",
   "date_str": "2016-12-20",
   "description": "W.A.Dhammika Kumara Vs. W.A. Nelum Kumari before  Hon. H.C.J. Madawala, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a77b8cab-486b-4aff-acdf-efd853b85a81&filename=ca_phc_apn_120_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14508",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a77b8cab-486b-4aff-acdf-efd853b85a81&filename=ca_phc_apn_120_2014.pdf",
   "parties": "W.A.Dhammika Kumara Vs. W.A. Nelum Kumari",
   "judgement_by": " Hon. H.C.J. Madawala, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

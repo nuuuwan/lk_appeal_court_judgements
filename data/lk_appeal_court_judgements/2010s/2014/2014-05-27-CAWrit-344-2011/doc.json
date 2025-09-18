@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-05-27-CAWrit-344-2011",
   "num": "CAWrit 344/2011",
   "date_str": "2014-05-27",
   "description": "Bartleet Produce Marketting (Pvt.) Ltd Vs. V.B.P.K. Weerasinghe & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=85f31c33-cb42-4c56-988c-dae0f73b5bbc&filename=ca_writ_344_11.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14544",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=85f31c33-cb42-4c56-988c-dae0f73b5bbc&filename=ca_writ_344_11.pdf",
   "parties": "Bartleet Produce Marketting (Pvt.) Ltd Vs. V.B.P.K. Weerasinghe & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

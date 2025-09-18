@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-05-06-CAWrit-158-2012",
   "num": "CAWrit 158/2012",
   "date_str": "2016-05-06",
   "description": "Janatha Garment Manufacturers (Pvt) Ltd Vs. Commissioner General of Labour & others before  Hon. M.M.A. Gaffoor, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=52fbc0cf-685a-4340-b63a-2b44ea601d73&filename=ca_writ_158_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14494",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=52fbc0cf-685a-4340-b63a-2b44ea601d73&filename=ca_writ_158_2012.pdf",
   "parties": "Janatha Garment Manufacturers (Pvt) Ltd Vs. Commissioner General of Labour & others",
   "judgement_by": " Hon. M.M.A. Gaffoor, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

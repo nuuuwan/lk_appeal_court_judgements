@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-03-08-C-A-WRIT-49-2016",
   "num": "C.A WRIT 49/2016",
   "date_str": "2019-03-08",
   "description": "Merbok MDF Lanka (Pvt) Ltd Vs Conservator General of Forests before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=85aa30e6-dfd0-4eb8-8842-9c2c8d800d68&filename=ca-writ-49-2016%208.3.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14415",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=85aa30e6-dfd0-4eb8-8842-9c2c8d800d68&filename=ca-writ-49-2016%208.3.2019.pdf",
   "parties": "Merbok MDF Lanka (Pvt) Ltd Vs Conservator General of Forests",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

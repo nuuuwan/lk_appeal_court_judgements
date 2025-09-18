@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-08-08-CAPHC-40-2005",
   "num": "CAPHC 40/2005",
   "date_str": "2014-08-08",
   "description": "I.J.K. Susantha Vs. Hon. Attorney General before  Hon. K.T. Chitrasiri, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6a9ca369-4d57-4704-987f-0743f65de6dc&filename=ca_phc_40_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14548",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6a9ca369-4d57-4704-987f-0743f65de6dc&filename=ca_phc_40_2005.pdf",
   "parties": "I.J.K. Susantha Vs. Hon. Attorney General",
   "judgement_by": " Hon. K.T. Chitrasiri, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

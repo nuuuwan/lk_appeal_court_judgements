@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-06-23-CAHC-228-2010",
   "num": "CAHC 228/2010",
   "date_str": "2017-06-23",
   "description": "Hewa Hakuru Somadasa Vs. Hon. Attorney General before  Hon. L.U. Jayasuriya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4390420e-4893-410a-94a2-6cde7f6ee65f&filename=ca_hc_228_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14471",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4390420e-4893-410a-94a2-6cde7f6ee65f&filename=ca_hc_228_2010.pdf",
   "parties": "Hewa Hakuru Somadasa Vs. Hon. Attorney General",
   "judgement_by": " Hon. L.U. Jayasuriya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

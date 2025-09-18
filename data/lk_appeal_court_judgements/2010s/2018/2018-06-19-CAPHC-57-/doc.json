@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-06-19-CAPHC-57-",
   "num": "CAPHC 57/",
   "date_str": "2018-06-19",
   "description": "2014 Tri star Apperel Export (Pvt) Ltd Vs. Hon. Attorney General before  Hon. Janak de Silva , j",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f4fb64dc-21e7-450d-8775-382cc9e313dd&filename=ca_phc_57_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14444",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f4fb64dc-21e7-450d-8775-382cc9e313dd&filename=ca_phc_57_2014.pdf",
   "parties": "2014 Tri star Apperel Export (Pvt) Ltd Vs. Hon. Attorney General",
   "judgement_by": " Hon. Janak de Silva , j",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

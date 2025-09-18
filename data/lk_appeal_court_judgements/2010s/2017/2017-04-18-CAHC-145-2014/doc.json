@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-04-18-CAHC-145-2014",
   "num": "CAHC 145/2014",
   "date_str": "2017-04-18",
   "description": "Hewageganage Nihal Shantha Vs. Hon. Attorney General before  Hon. S. Devika De L. Tennekoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=66da80f8-194d-4a62-b60b-f32ff9a291c5&filename=ca_hc_145_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14467",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=66da80f8-194d-4a62-b60b-f32ff9a291c5&filename=ca_hc_145_2014.pdf",
   "parties": "Hewageganage Nihal Shantha Vs. Hon. Attorney General",
   "judgement_by": " Hon. S. Devika De L. Tennekoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

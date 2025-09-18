@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-09-25-C-A-HC-203-2015",
   "num": "C.A HC 203/2015",
   "date_str": "2018-09-25",
   "description": "ethamby Prabhakaran Vs Hon Attorney General before  A.L. Shiran Gooneratne, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6a602b22-f088-4841-b9fb-d2cb14d2e92a&filename=c.a%20hc%20203_2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14452",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6a602b22-f088-4841-b9fb-d2cb14d2e92a&filename=c.a%20hc%20203_2015.pdf",
   "parties": "ethamby Prabhakaran Vs Hon Attorney General",
   "judgement_by": " A.L. Shiran Gooneratne, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

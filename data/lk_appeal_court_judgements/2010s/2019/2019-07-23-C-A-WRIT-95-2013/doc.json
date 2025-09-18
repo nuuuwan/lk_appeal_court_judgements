@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-07-23-C-A-WRIT-95-2013",
   "num": "C.A WRIT 95/2013",
   "date_str": "2019-07-23",
   "description": "Rt. Rev. Dr. Cleatus Chandrasiri Perera Vs Hon. Bandula Gunawardane and Others before  Hon Janak De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5cc905fb-f0ba-4d80-aa16-8d29e8b15c8e&filename=c.a%20writ%2095_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14423",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5cc905fb-f0ba-4d80-aa16-8d29e8b15c8e&filename=c.a%20writ%2095_2013.pdf",
   "parties": "Rt. Rev. Dr. Cleatus Chandrasiri Perera Vs Hon. Bandula Gunawardane and Others",
   "judgement_by": " Hon Janak De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

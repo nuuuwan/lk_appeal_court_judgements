@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-08-10-CA-HCC-0044-2018",
   "num": "CA.HCC/0044/2018",
   "date_str": "2022-08-10",
   "description": "Muthukuda Arachchilage Abeysundara alias Sundara Vs The Attorney General before  Hon. Sampath B Abayakoon, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8fdc2645-3100-4043-8685-0e5e802fa4de&filename=hcc-0044-2018%20final%20judgement.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14352",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8fdc2645-3100-4043-8685-0e5e802fa4de&filename=hcc-0044-2018%20final%20judgement.pdf",
   "parties": "Muthukuda Arachchilage Abeysundara alias Sundara Vs The Attorney General",
   "judgement_by": " Hon. Sampath B Abayakoon, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

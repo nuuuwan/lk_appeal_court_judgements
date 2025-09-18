@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-11-13-CA-PHC-APN-0119-22",
   "num": "CA(PHC)APN 0119/22",
   "date_str": "2023-11-13",
   "description": "Udugama Gamage Yasas Chamindha Vs The Hon. Attorney General and others before P. Kumararatnam, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e1384225-fb17-497f-878b-6ef2f1139947&filename=Revision-CA%28PHC%29APN-0119-22-Vehicle.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9155",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e1384225-fb17-497f-878b-6ef2f1139947&filename=Revision-CA%28PHC%29APN-0119-22-Vehicle.pdf.pdf",
   "parties": "Udugama Gamage Yasas Chamindha Vs The Hon. Attorney General and others",
   "judgement_by": "P. Kumararatnam, J.",
   "keywords": "Confiscation",
-  "legistation": "The Forest Ordinance.",
-  "lang": "en"
+  "legistation": "The Forest Ordinance."
 }

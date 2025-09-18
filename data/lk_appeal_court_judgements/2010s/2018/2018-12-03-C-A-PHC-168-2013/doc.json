@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-12-03-C-A-PHC-168-2013",
   "num": "C.A PHC 168/2013",
   "date_str": "2018-12-03",
   "description": "Sepala Francis Perera Vs W.Norman Appuhamy before  Hon Janak De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f89c96e1-2007-4524-907a-0f1413ae0462&filename=c.a%20phc%20%20168_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14456",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f89c96e1-2007-4524-907a-0f1413ae0462&filename=c.a%20phc%20%20168_2013.pdf",
   "parties": "Sepala Francis Perera Vs W.Norman Appuhamy",
   "judgement_by": " Hon Janak De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

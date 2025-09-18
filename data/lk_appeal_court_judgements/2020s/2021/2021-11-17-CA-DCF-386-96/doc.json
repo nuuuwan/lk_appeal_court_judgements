@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-11-17-CA-DCF-386-96",
   "num": "CA.DCF/386/96",
   "date_str": "2021-11-17",
   "description": "H.R.W.M. Chulananda Vs Chairman \u2013 Mahabodhi Company and others before  Hon. K.K.A.V.Swarnadhipathi J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b79c3850-f3a9-4125-8946-03355f24429f&filename=ca%20386-96.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14383",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b79c3850-f3a9-4125-8946-03355f24429f&filename=ca%20386-96.pdf",
   "parties": "H.R.W.M. Chulananda Vs Chairman \u2013 Mahabodhi Company and others",
   "judgement_by": " Hon. K.K.A.V.Swarnadhipathi J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

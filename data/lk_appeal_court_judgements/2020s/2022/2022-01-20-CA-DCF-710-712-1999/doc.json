@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-01-20-CA-DCF-710-712-1999",
   "num": "CA.DCF/710-712/1999",
   "date_str": "2022-01-20",
   "description": "Kumarapeli Arachchige Don Piyadasa and Other Vs Henarath Mohottige Albert Perera Hena Ihathhta and Others before  Hon. N. Bandula Karunarathna ,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=de1ede7f-2914-499f-9e88-337195f10e66&filename=judgement-dcf%20710-712%2099.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14338",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=de1ede7f-2914-499f-9e88-337195f10e66&filename=judgement-dcf%20710-712%2099.pdf",
   "parties": "Kumarapeli Arachchige Don Piyadasa and Other Vs Henarath Mohottige Albert Perera Hena Ihathhta and Others",
   "judgement_by": " Hon. N. Bandula Karunarathna ,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

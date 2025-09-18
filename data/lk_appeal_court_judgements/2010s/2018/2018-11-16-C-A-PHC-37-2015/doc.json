@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-11-16-C-A-PHC-37-2015",
   "num": "C.A PHC 37/2015",
   "date_str": "2018-11-16",
   "description": "R.M.N. Anuradha Rathnayaka Vs Officer in Charge, Police Station, Wadyapola and Others before  Hon K.K.Wickremasinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e907321e-612d-4032-96fb-db426de9f207&filename=c.a%20phc%2037_2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14456",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e907321e-612d-4032-96fb-db426de9f207&filename=c.a%20phc%2037_2015.pdf",
   "parties": "R.M.N. Anuradha Rathnayaka Vs Officer in Charge, Police Station, Wadyapola and Others",
   "judgement_by": " Hon K.K.Wickremasinghe, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

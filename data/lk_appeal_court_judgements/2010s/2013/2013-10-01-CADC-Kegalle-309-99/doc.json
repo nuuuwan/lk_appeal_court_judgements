@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-10-01-CADC-Kegalle-309-99",
   "num": "CADC Kegalle 309/99",
   "date_str": "2013-10-01",
   "description": "M.P.Manthrirathna Asoka Vs. Mohamed Haniffa Mohamed Naleem before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2a4f5ed8-0821-4563-8bc8-c9e30efbc06e&filename=ca_dc_kegalle_309_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14561",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2a4f5ed8-0821-4563-8bc8-c9e30efbc06e&filename=ca_dc_kegalle_309_99.pdf",
   "parties": "M.P.Manthrirathna Asoka Vs. Mohamed Haniffa Mohamed Naleem",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

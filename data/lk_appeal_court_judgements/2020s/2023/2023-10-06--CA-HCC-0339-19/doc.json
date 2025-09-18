@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-10-06--CA-HCC-0339-19",
   "num": "/CA.HCC-0339-19",
   "date_str": "2023-10-06",
   "description": "Barunupolage Nayanajith Pathmabandu Vs Hon. Attorney General, before  Hon. Menaka Wijesundera, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ec08e590-1578-49e4-8460-7ad134e077d1&filename=hcc-0339-19.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14331",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ec08e590-1578-49e4-8460-7ad134e077d1&filename=hcc-0339-19.pdf",
   "parties": "Barunupolage Nayanajith Pathmabandu Vs Hon. Attorney General,",
   "judgement_by": " Hon. Menaka Wijesundera, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

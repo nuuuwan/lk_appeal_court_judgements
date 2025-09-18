@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-01-25-CAAPN-65-2021",
   "num": "CAAPN/65/2021",
   "date_str": "2022-01-25",
   "description": "Officer in Charge Vs Rathnayake Mudiyanselage Raveen Madushanka. before  Hon. Menaka Wijesundera J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=94ec6972-d123-46a3-8f10-6cec680d8e4f&filename=cpa%20-%200065%20-%2021.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14338",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=94ec6972-d123-46a3-8f10-6cec680d8e4f&filename=cpa%20-%200065%20-%2021.pdf",
   "parties": "Officer in Charge Vs Rathnayake Mudiyanselage Raveen Madushanka.",
   "judgement_by": " Hon. Menaka Wijesundera J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

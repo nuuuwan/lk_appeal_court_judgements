@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-09-12-C-A-DC-358-",
   "num": "C.A DC 358/",
   "date_str": "2018-09-12",
   "description": "2000 Weheragoda Arachchige Buddhika Weheragoda Vs Mahara Pathirannehelage Dhanasekara Pathirana before  Hon A.H.M.D. Nawaz, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2a5d8342-1351-4175-a4ee-1f5b335e9a3e&filename=c.a%20dc%20358_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14479",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2a5d8342-1351-4175-a4ee-1f5b335e9a3e&filename=c.a%20dc%20358_2000.pdf",
   "parties": "2000 Weheragoda Arachchige Buddhika Weheragoda Vs Mahara Pathirannehelage Dhanasekara Pathirana",
   "judgement_by": " Hon A.H.M.D. Nawaz, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

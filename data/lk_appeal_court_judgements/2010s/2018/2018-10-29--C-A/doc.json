@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-10-29--C-A",
   "num": "/C.A",
   "date_str": "2018-10-29",
   "description": "DC 494_1982 Clement Malkiyon Paul Vs W.P. Karunatilleke before  Hon E.A.G.R. Amarasekara, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5588e901-8b2d-448f-af15-0c1aa984865b&filename=c.a%20%20dc%20%20494_1982.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14454",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5588e901-8b2d-448f-af15-0c1aa984865b&filename=c.a%20%20dc%20%20494_1982.pdf",
   "parties": "DC 494_1982 Clement Malkiyon Paul Vs W.P. Karunatilleke",
   "judgement_by": " Hon E.A.G.R. Amarasekara, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

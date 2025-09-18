@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-08-07-CADC-1229-98",
   "num": "CADC 1229/98",
   "date_str": "2014-08-07",
   "description": "Y.B.Y.K. Yapa Bandara Vs. D.G. Chandrasena before  Hon. K.T. Chitrasiri, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=67148e58-565f-47e1-97a3-61787e56a5b4&filename=ca_dc_kandy_1229_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14548",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=67148e58-565f-47e1-97a3-61787e56a5b4&filename=ca_dc_kandy_1229_98.pdf",
   "parties": "Y.B.Y.K. Yapa Bandara Vs. D.G. Chandrasena",
   "judgement_by": " Hon. K.T. Chitrasiri, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

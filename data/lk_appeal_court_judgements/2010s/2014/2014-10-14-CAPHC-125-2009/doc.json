@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-10-14-CAPHC-125-2009",
   "num": "CAPHC 125/2009",
   "date_str": "2014-10-14",
   "description": "W.M. Buddhadasa Vs. K.W. Ivan de Silva Vs. Hon. K.T. Chitrasiri, J before  Applicability of the Rules 2 & 3 of the Court of Appeal (Procedure for appeals from High Courts) Rules 1988",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b413be44-a25e-49fc-b0f6-6da308a5b9be&filename=ca_phc_125_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14554",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b413be44-a25e-49fc-b0f6-6da308a5b9be&filename=ca_phc_125_2009.pdf",
   "parties": "W.M. Buddhadasa Vs. K.W. Ivan de Silva Vs. Hon. K.T. Chitrasiri, J",
   "judgement_by": " Applicability of the Rules 2 & 3 of the Court of Appeal (Procedure for appeals from High Courts) Rules 1988",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

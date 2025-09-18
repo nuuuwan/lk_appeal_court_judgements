@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-02-05-CAPHC-24-2002-J-M-Thila-ab7b4dc6",
   "num": "CAPHC 24/2002 J M Thilakarathne Vs. M G Ariyaratne - Hon. P. Padman Surasena, J (P/CA)",
   "date_str": "2018-02-05",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=592c56e5-fe1d-43b6-9d7d-b7962a37a051&filename=ca_ph_24_2002.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14436",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=592c56e5-fe1d-43b6-9d7d-b7962a37a051&filename=ca_ph_24_2002.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

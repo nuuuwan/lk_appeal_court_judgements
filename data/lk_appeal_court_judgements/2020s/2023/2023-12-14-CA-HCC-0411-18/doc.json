@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-12-14-CA-HCC-0411-18",
   "num": "CA/HCC/0411/18",
   "date_str": "2023-12-14",
   "description": "K.Nimal Ariyaratne v. Attorney General before Hon. B. Sasi Mahendran, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f3f6486e-4462-4c29-a605-8149876241c1&filename=CA-HCC-411-2018%20-JUDGMENT.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10797",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f3f6486e-4462-4c29-a605-8149876241c1&filename=CA-HCC-411-2018%20-JUDGMENT.pdf.pdf",
   "parties": "K.Nimal Ariyaratne v. Attorney General",
   "judgement_by": "Hon. B. Sasi Mahendran, J",
   "keywords": "Dying Deposition, Ranasinghe v. Attorney General 2007 (1) SLR 218, Sisira de Abrew J.",
-  "legistation": "Section 296",
-  "lang": "en"
+  "legistation": "Section 296"
 }

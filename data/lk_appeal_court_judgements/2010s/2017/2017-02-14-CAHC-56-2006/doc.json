@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-02-14-CAHC-56-2006",
   "num": "CAHC 56/2006",
   "date_str": "2017-02-14",
   "description": "Rajapaksha Pathiranage Jayathilake Vs. Hon. Attorney General before  Hon. L.U. Jayasuriya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ada452a5-cf2e-40de-a251-b655a866f216&filename=ca_hc_56_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14463",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ada452a5-cf2e-40de-a251-b655a866f216&filename=ca_hc_56_2006.pdf",
   "parties": "Rajapaksha Pathiranage Jayathilake Vs. Hon. Attorney General",
   "judgement_by": " Hon. L.U. Jayasuriya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

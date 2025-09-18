@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-07-25-CA--HCC-0417-2017",
   "num": "CA. HCC/0417/2017",
   "date_str": "2022-07-25",
   "description": "Nishshanka Dinesh Kumara Silva Vs Hon. Attorney General before HON. K. PRIYANTHA FERNANDO, J. (P/CA)",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=29baa79f-b21d-4bce-a528-a3e187462668&filename=ca%20hcc%200417-2017.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3933",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=29baa79f-b21d-4bce-a528-a3e187462668&filename=ca%20hcc%200417-2017.pdf.pdf",
   "parties": "Nishshanka Dinesh Kumara Silva Vs Hon. Attorney General",
   "judgement_by": "HON. K. PRIYANTHA FERNANDO, J. (P/CA)",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

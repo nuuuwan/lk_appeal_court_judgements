@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-10-11-C-A-PHC-07-2013",
   "num": "C.A PHC 07/2013",
   "date_str": "2019-10-11",
   "description": "Carder Mohideen Mohamed Nasar Vs Officer in Charge,Police Station, Wellawatta and Others before  Hon K. K.Wickremasinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=53c3d70f-ed4a-498e-92f2-a1e49fbd1296&filename=c.a%20phc%2007_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14429",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=53c3d70f-ed4a-498e-92f2-a1e49fbd1296&filename=c.a%20phc%2007_2013.pdf",
   "parties": "Carder Mohideen Mohamed Nasar Vs Officer in Charge,Police Station, Wellawatta and Others",
   "judgement_by": " Hon K. K.Wickremasinghe, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

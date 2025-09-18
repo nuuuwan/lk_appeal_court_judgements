@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-10-24-CA-WRIT-507---2022",
   "num": "CA WRIT 507 / 2022",
   "date_str": "2023-10-24",
   "description": "Rajya Seva Eksath Heda Sangamaya (Public Services United Nurses' Union) and others Vs Hon. Dinesh Gunawardena, Prime Minister and Minister of Public Administration and others - before Hon. N. Bandula Karunarathna J. P/CA",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2697815e-552e-4ba9-aebd-137c2a88a473&filename=Judgement%20CA%20-%20WRIT%20-%20507%20-%202022.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=8528",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2697815e-552e-4ba9-aebd-137c2a88a473&filename=Judgement%20CA%20-%20WRIT%20-%20507%20-%202022.pdf.pdf",
   "parties": "Rajya Seva Eksath Heda Sangamaya (Public Services United Nurses' Union) and others Vs Hon. Dinesh Gunawardena, Prime Minister and Minister of Public Administration and others -",
   "judgement_by": "Hon. N. Bandula Karunarathna J. P/CA",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

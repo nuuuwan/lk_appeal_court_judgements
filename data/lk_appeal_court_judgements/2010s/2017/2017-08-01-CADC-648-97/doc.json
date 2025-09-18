@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-08-01-CADC-648-97",
   "num": "CADC 648/97",
   "date_str": "2017-08-01",
   "description": "Adambarage Ananda de Alwis & others Vs. Lokugam Hewage Nandawathie & others before  Hon. S. Devika De L. Tennekoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e374b1e6-044d-4df7-9bc1-f10fd7f8384d&filename=ca_dc_648_97.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14473",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e374b1e6-044d-4df7-9bc1-f10fd7f8384d&filename=ca_dc_648_97.pdf",
   "parties": "Adambarage Ananda de Alwis & others Vs. Lokugam Hewage Nandawathie & others",
   "judgement_by": " Hon. S. Devika De L. Tennekoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

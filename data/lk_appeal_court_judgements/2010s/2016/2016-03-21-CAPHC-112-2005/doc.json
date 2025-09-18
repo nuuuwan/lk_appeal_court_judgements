@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-03-21-CAPHC-112-2005",
   "num": "CAPHC 112/2005",
   "date_str": "2016-03-21",
   "description": "Damme Arachchige Gamini Vs. Damme Arachchige Saman Karunaratne & others before  Hon. P.R. Walgama, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=48dd1b6b-e22a-4592-9e80-8adf1599bd2f&filename=ca_phc_112_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14490",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=48dd1b6b-e22a-4592-9e80-8adf1599bd2f&filename=ca_phc_112_2005.pdf",
   "parties": "Damme Arachchige Gamini Vs. Damme Arachchige Saman Karunaratne & others",
   "judgement_by": " Hon. P.R. Walgama, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

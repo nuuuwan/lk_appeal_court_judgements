@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-03-30-CAPHC-APN-17-2016",
   "num": "CAPHC APN 17/2016",
   "date_str": "2017-03-30",
   "description": "Thambayah Sivakumar Vs. Hon. Attorney General before  Hon. L.T.B. Dehideniya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=24cbf044-e1cf-41e1-8432-5288b4197581&filename=ca_phc_apn_17_2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14465",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=24cbf044-e1cf-41e1-8432-5288b4197581&filename=ca_phc_apn_17_2016.pdf",
   "parties": "Thambayah Sivakumar Vs. Hon. Attorney General",
   "judgement_by": " Hon. L.T.B. Dehideniya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

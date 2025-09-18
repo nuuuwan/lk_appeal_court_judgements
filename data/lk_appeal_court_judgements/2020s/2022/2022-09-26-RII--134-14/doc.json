@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-09-26-RII--134-14",
   "num": "RII /134/14",
   "date_str": "2022-09-26",
   "description": "Shashika Wickremasinghe Vs Lal Amarasinghe And Another before Hon. B. Sasi Mahendran, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=62152a9c-e614-436b-a1fa-1bded93f8cac&filename=rii%20134-2014%20judgment.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3945",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=62152a9c-e614-436b-a1fa-1bded93f8cac&filename=rii%20134-2014%20judgment.pdf.pdf",
   "parties": "Shashika Wickremasinghe Vs Lal Amarasinghe And Another",
   "judgement_by": "Hon. B. Sasi Mahendran, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

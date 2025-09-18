@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-06-19-CAPHC-203-2007",
   "num": "CAPHC 203/2007",
   "date_str": "2017-06-19",
   "description": "A.W.A. Ranaweera Vs. Sinha Arachchjge Munasinghe before  Hon. L.T.B. Dehideniya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=199652d5-f827-4dac-b7dd-fed054801c5b&filename=ca_phc_203_2007.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14469",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=199652d5-f827-4dac-b7dd-fed054801c5b&filename=ca_phc_203_2007.pdf",
   "parties": "A.W.A. Ranaweera Vs. Sinha Arachchjge Munasinghe",
   "judgement_by": " Hon. L.T.B. Dehideniya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-10-28-CA-RI--20-2017",
   "num": "CA/RI /20/2017",
   "date_str": "2019-10-28",
   "description": "Kannangaraarachchige Kumudini Sandya & Others Vs. Sujatha Nandaseeli Vithana & Others before  Hon. Mahinda Samayawardhena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=650eac47-f50e-4442-8c4a-c208119758f4&filename=ca-ri-20-2017%2024.10.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14429",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=650eac47-f50e-4442-8c4a-c208119758f4&filename=ca-ri-20-2017%2024.10.2019.pdf",
   "parties": "Kannangaraarachchige Kumudini Sandya & Others Vs. Sujatha Nandaseeli Vithana & Others",
   "judgement_by": " Hon. Mahinda Samayawardhena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

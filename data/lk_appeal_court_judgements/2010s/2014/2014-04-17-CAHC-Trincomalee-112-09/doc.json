@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-04-17-CAHC-Trincomalee-112-09",
   "num": "CAHC Trincomalee 112/09",
   "date_str": "2014-04-17",
   "description": " before Kurampola Ralalage Wejekoon Banda Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1e42c0b0-9448-48a9-a1ea-6eeb92e126fc&filename=ca_hc_trincomalee_112_09.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14542",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1e42c0b0-9448-48a9-a1ea-6eeb92e126fc&filename=ca_hc_trincomalee_112_09.pdf",
   "parties": "",
   "judgement_by": "Kurampola Ralalage Wejekoon Banda Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-11-29-CA-WRIT-0674-23",
   "num": "CA-WRIT-0674-23",
   "date_str": "2023-11-29",
   "description": "Shaisha Solar Habarana (Private) Limited Vs. Ceylon Electricity Board and others before hon. M. Ahsan R. Marikar, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1713b3bb-213d-4f49-baaa-ddea795eb336&filename=CA-WRIT-0674-23.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9155",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1713b3bb-213d-4f49-baaa-ddea795eb336&filename=CA-WRIT-0674-23.pdf.pdf",
   "parties": "Shaisha Solar Habarana (Private) Limited Vs. Ceylon Electricity Board and others",
   "judgement_by": "hon. M. Ahsan R. Marikar, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-04-29-CA-WRT-441-2020-W--Pali-608b4f75",
   "num": "CA.WRT/441/2020 W. Palitha De Zoysa Gunasekara Vs Hon. Minister of Lands and Others - Hon. Arjuna Obeyesekere, J., P/CA",
   "date_str": "2021-04-29",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=861c8b24-6fdd-4aa3-aec8-1978376158a7&filename=ca.441.20.final.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14369",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=861c8b24-6fdd-4aa3-aec8-1978376158a7&filename=ca.441.20.final.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

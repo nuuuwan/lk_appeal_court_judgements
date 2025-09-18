@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-04-29-CAPHC-200-2017",
   "num": "CAPHC/200/2017",
   "date_str": "2021-04-29",
   "description": "Krishni Manika Rupasinghe Vs Engineer P.K. Padmakeerthi and Other before  Hon. S.U.B. Karalliyadde, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a57501fd-d7c5-4a1f-b16c-b21bbd44fdba&filename=caphc-200-1729.04.2021.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14369",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a57501fd-d7c5-4a1f-b16c-b21bbd44fdba&filename=caphc-200-1729.04.2021.pdf",
   "parties": "Krishni Manika Rupasinghe Vs Engineer P.K. Padmakeerthi and Other",
   "judgement_by": " Hon. S.U.B. Karalliyadde, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

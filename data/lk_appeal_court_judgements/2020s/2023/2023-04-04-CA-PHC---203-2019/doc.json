@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-04-04-CA-PHC---203-2019",
   "num": "CA(PHC) /203_2019",
   "date_str": "2023-04-04",
   "description": "Muthusami Loganathan Vs Walpale Gedara Malani Manjalika and other before  Hon. Prasantha De Silva, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=44482017-115c-4713-98a0-e8a32528dcbe&filename=ca%20phc%20203_2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14319",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=44482017-115c-4713-98a0-e8a32528dcbe&filename=ca%20phc%20203_2019.pdf",
   "parties": "Muthusami Loganathan Vs Walpale Gedara Malani Manjalika and other",
   "judgement_by": " Hon. Prasantha De Silva, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

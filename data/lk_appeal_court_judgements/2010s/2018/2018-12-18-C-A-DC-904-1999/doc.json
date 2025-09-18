@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-12-18-C-A-DC-904-1999",
   "num": "C.A DC 904/1999",
   "date_str": "2018-12-18",
   "description": "Suduhakuruge siyadoris Vs Rajapaksha Kodikarage Samaneris Wijeratne Kiriammalakanda and Others before  Hon E.A.G.R. Amarasekara, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ad57af96-4ffc-423c-9452-c663b2bcf07f&filename=c.a%20dc%20904_1999.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14458",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ad57af96-4ffc-423c-9452-c663b2bcf07f&filename=c.a%20dc%20904_1999.pdf",
   "parties": "Suduhakuruge siyadoris Vs Rajapaksha Kodikarage Samaneris Wijeratne Kiriammalakanda and Others",
   "judgement_by": " Hon E.A.G.R. Amarasekara, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

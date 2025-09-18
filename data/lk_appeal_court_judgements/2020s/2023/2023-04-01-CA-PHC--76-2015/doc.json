@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-04-01-CA-PHC--76-2015",
   "num": "CA(PHC) 76/2015",
   "date_str": "2023-04-01",
   "description": "Thanganayaki Mahadevan Vs Officer in Chargeof Akkaraipattu and Others before  Hon. Prasantha De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d44fbc30-e221-4128-b07c-00225853df1c&filename=ca%20phc%2076_2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14317",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d44fbc30-e221-4128-b07c-00225853df1c&filename=ca%20phc%2076_2015.pdf",
   "parties": "Thanganayaki Mahadevan Vs Officer in Chargeof Akkaraipattu and Others",
   "judgement_by": " Hon. Prasantha De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

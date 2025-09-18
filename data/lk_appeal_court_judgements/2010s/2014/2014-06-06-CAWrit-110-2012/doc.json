@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-06-06-CAWrit-110-2012",
   "num": "CAWrit 110/2012",
   "date_str": "2014-06-06",
   "description": "Smithkline Becham (Pvt.) Limited Vs. Dr. Neville Goonewardena & others before  Hon. Anil Goonerathne, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fde8ee16-3481-4540-8db4-d19ed8ee4978&filename=ca_writ_110_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14546",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fde8ee16-3481-4540-8db4-d19ed8ee4978&filename=ca_writ_110_2012.pdf",
   "parties": "Smithkline Becham (Pvt.) Limited Vs. Dr. Neville Goonewardena & others",
   "judgement_by": " Hon. Anil Goonerathne, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

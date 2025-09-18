@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-01-29-C-A-HC-15-2016",
   "num": "C.A HC/15/2016",
   "date_str": "2019-01-29",
   "description": "Karandeniya Mahadurage Karuna thilake Vs Hon. Attorney General before  Hon. Achala Wengappuli,J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c763fd05-1e81-426e-8c5b-77a4942413d0&filename=c.a%20hc_15_2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14411",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c763fd05-1e81-426e-8c5b-77a4942413d0&filename=c.a%20hc_15_2016.pdf",
   "parties": "Karandeniya Mahadurage Karuna thilake Vs Hon. Attorney General",
   "judgement_by": " Hon. Achala Wengappuli,J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

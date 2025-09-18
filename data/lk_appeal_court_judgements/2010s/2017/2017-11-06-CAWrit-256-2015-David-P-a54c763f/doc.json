@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-11-06-CAWrit-256-2015-David-P-a54c763f",
   "num": "CAWrit 256/2015 David Pieris Motor Company Limited Vs.Consumer Affairs Authority -Hon. L.T.B. Dehideniya, J(P/CA)",
   "date_str": "2017-11-06",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=92b704a9-24c4-4d88-bd55-e27303a49122&filename=ca_wr_256_2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14479",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=92b704a9-24c4-4d88-bd55-e27303a49122&filename=ca_wr_256_2015.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

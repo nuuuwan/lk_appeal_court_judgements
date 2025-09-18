@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-01-29-CAWrit-318-13",
   "num": "CAWrit 318/13",
   "date_str": "2014-01-29",
   "description": "Sulaima Lebbe Mohamed Nauffer Vs. Hatton National Bank PLC before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=db9e89d0-4578-4af0-b7fc-dcd6d139af49&filename=ca_writ_318_13.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14536",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=db9e89d0-4578-4af0-b7fc-dcd6d139af49&filename=ca_writ_318_13.pdf",
   "parties": "Sulaima Lebbe Mohamed Nauffer Vs. Hatton National Bank PLC",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

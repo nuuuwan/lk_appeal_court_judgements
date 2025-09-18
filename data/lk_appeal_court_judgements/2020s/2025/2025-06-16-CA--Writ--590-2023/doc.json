@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2025-06-16-CA--Writ--590-2023",
   "num": "CA (Writ)/590/2023",
   "date_str": "2025-06-16",
   "description": "Warnakulasuriya Patabendige Priyan Benildus Fernando Vs Hon. Attorney General and others before Hon. M. T. MOHAMMED LAFFAR, J. (ACT. P/CA)",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b0b64413-911a-48fa-aa57-3ded0ad19e77&filename=CA-WRT-590-23.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=13112",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b0b64413-911a-48fa-aa57-3ded0ad19e77&filename=CA-WRT-590-23.pdf.pdf",
   "parties": "Warnakulasuriya Patabendige Priyan Benildus Fernando Vs Hon. Attorney General and others",
   "judgement_by": "Hon. M. T. MOHAMMED LAFFAR, J. (ACT. P/CA)",
   "keywords": "Cheating, Indictment, Absence of Mens Rea.",
-  "legistation": "Section 398 of the Penal Code.",
-  "lang": "en"
+  "legistation": "Section 398 of the Penal Code."
 }

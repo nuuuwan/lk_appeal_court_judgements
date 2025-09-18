@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-02-08-CA-DCF-748-1999",
   "num": "CA.DCF/748/1999",
   "date_str": "2022-02-08",
   "description": "Koronchige Thilaka Siriwardane Vs Anhettigama Gamaralalage Dharmawardana and Others before  Hon. C.P. Kirtisinghe , J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=920f13cb-c8e1-45ea-bdd4-63abfca58785&filename=ca%20748-%20%2099%20f.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14340",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=920f13cb-c8e1-45ea-bdd4-63abfca58785&filename=ca%20748-%20%2099%20f.pdf",
   "parties": "Koronchige Thilaka Siriwardane Vs Anhettigama Gamaralalage Dharmawardana and Others",
   "judgement_by": " Hon. C.P. Kirtisinghe , J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-04-01-CAHC-15-2012",
   "num": "CAHC 15/2012",
   "date_str": "2015-04-01",
   "description": "Batagoda Gallage Dona Dharmarathna Manike alias Batagoda Nahallage Dona Dharmarathna Manike Vs. Hon. Attorney General before  Hon. P.W.D.C. Jayathilaka, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=efa30c36-1dc3-4383-b823-1e9cc79a9531&filename=ca_hc_15_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14515",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=efa30c36-1dc3-4383-b823-1e9cc79a9531&filename=ca_hc_15_2012.pdf",
   "parties": "Batagoda Gallage Dona Dharmarathna Manike alias Batagoda Nahallage Dona Dharmarathna Manike Vs. Hon. Attorney General",
   "judgement_by": " Hon. P.W.D.C. Jayathilaka, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

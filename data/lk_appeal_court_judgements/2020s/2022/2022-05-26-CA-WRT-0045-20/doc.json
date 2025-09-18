@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-05-26-CA-WRT-0045-20",
   "num": "CA.WRT/0045/20",
   "date_str": "2022-05-26",
   "description": "T. Withanachci Gunawardhena Vs H.L. Pathmasiri de Silva And Others before  Hon. B. Sasi Mahendran, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=877fa71e-c760-45cf-bc18-ddda537624e2&filename=wrt-0045-20.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14346",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=877fa71e-c760-45cf-bc18-ddda537624e2&filename=wrt-0045-20.pdf",
   "parties": "T. Withanachci Gunawardhena Vs H.L. Pathmasiri de Silva And Others",
   "judgement_by": " Hon. B. Sasi Mahendran, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-01-12-CA--WRT-176-2020",
   "num": "CA/ WRT/176/2020",
   "date_str": "2023-01-12",
   "description": "Asoka Kularatne Vs Bope-Poddala Pradeshiya Sabha, Kalegana, Galle and others before  Hon. M. T. Mohammed Laffar, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=55bf01ff-bd4a-46ca-938d-215ba69a30bf&filename=ca%20-%20176-2020%20final.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14313",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=55bf01ff-bd4a-46ca-938d-215ba69a30bf&filename=ca%20-%20176-2020%20final.pdf",
   "parties": "Asoka Kularatne Vs Bope-Poddala Pradeshiya Sabha, Kalegana, Galle and others",
   "judgement_by": " Hon. M. T. Mohammed Laffar, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

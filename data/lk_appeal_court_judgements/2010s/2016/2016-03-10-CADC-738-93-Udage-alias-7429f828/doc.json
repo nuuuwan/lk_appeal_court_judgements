@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-03-10-CADC-738-93-Udage-alias-7429f828",
   "num": "CADC 738/93 Udage alias P. Babanisa Vs. M.M. Siriwardanahami And Others - Hon. Vijith K. Malalgoda, P.C, J (P/CA)",
   "date_str": "2016-03-10",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=92a7b167-2fe6-4ba0-9868-4d5cd47a2675&filename=ca_dc_738_93.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14488",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=92a7b167-2fe6-4ba0-9868-4d5cd47a2675&filename=ca_dc_738_93.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

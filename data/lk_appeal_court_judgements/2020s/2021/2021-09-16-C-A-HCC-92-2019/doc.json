@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-09-16-C-A-HCC-92-2019",
   "num": "C.A HCC 92/2019",
   "date_str": "2021-09-16",
   "description": "H. M. Abeyratne Dissanayake Vs Hon Attorney General before  Hon. Sampath B Abayakoon, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3c063a3d-a2f6-4017-88bc-891d7d61fc8f&filename=hcc%200092-19%20final%20judgment.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14379",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3c063a3d-a2f6-4017-88bc-891d7d61fc8f&filename=hcc%200092-19%20final%20judgment.pdf",
   "parties": "H. M. Abeyratne Dissanayake Vs Hon Attorney General",
   "judgement_by": " Hon. Sampath B Abayakoon, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

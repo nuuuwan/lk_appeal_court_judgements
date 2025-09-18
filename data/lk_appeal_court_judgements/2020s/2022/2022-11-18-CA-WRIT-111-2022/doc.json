@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-11-18-CA-WRIT-111-2022",
   "num": "CA/WRIT/111/2022",
   "date_str": "2022-11-18",
   "description": "K. A. D. T. Kulawansa Vs University of Moratuwa and others before  Hon. Sobhitha Rajakaruna, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3c9abea9-33b5-4af8-8bf4-a72e8017807c&filename=ca%20writ%20111-2022%20-%20new.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14358",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3c9abea9-33b5-4af8-8bf4-a72e8017807c&filename=ca%20writ%20111-2022%20-%20new.pdf",
   "parties": "K. A. D. T. Kulawansa Vs University of Moratuwa and others",
   "judgement_by": " Hon. Sobhitha Rajakaruna, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

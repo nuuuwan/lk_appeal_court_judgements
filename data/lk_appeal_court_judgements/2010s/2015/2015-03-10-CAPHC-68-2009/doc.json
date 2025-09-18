@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-03-10-CAPHC-68-2009",
   "num": "CAPHC 68/2009",
   "date_str": "2015-03-10",
   "description": "leslie Kumara Kariapperuma Vs. Don leslie Marcus Amerasinghe before  Hon. P.R. Walgama, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5a730108-202b-4cb3-8695-a2d4569ebad9&filename=ca_phc_68_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14513",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5a730108-202b-4cb3-8695-a2d4569ebad9&filename=ca_phc_68_2009.pdf",
   "parties": "leslie Kumara Kariapperuma Vs. Don leslie Marcus Amerasinghe",
   "judgement_by": " Hon. P.R. Walgama, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

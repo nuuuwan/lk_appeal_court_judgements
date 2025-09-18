@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-06-21-CA-WRT-0333-21",
   "num": "CA/WRT/0333/21",
   "date_str": "2023-06-21",
   "description": "Mohamed Razie Ashiq Lafir Vs The Incorporated council of Legal Education and others before  Hon.M.T.Mohammed Laffar J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c0ab46ff-9e9b-4f0b-a990-74ad12657ba1&filename=ca-wrt-0333-21%20001.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14323",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c0ab46ff-9e9b-4f0b-a990-74ad12657ba1&filename=ca-wrt-0333-21%20001.pdf",
   "parties": "Mohamed Razie Ashiq Lafir Vs The Incorporated council of Legal Education and others",
   "judgement_by": " Hon.M.T.Mohammed Laffar J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

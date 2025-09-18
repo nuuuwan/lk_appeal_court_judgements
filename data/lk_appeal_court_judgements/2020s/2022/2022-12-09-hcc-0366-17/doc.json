@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-12-09-hcc-0366-17",
   "num": "hcc-0366-17",
   "date_str": "2022-12-09",
   "description": "Kalapuge Don Chamindaka Ravi Gunawardena vs The Attorney General before Hon. P. Kumararatnam, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d21e3d74-611d-43e1-9687-2e4f54bab09a&filename=HCC-0366.17.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3963",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d21e3d74-611d-43e1-9687-2e4f54bab09a&filename=HCC-0366.17.pdf.pdf",
   "parties": "Kalapuge Don Chamindaka Ravi Gunawardena vs The Attorney General",
   "judgement_by": "Hon. P. Kumararatnam, J.",
   "keywords": "\u2022 Automatism. \u2022 Culpable Homicide.",
-  "legistation": "Penal Code",
-  "lang": "en"
+  "legistation": "Penal Code"
 }

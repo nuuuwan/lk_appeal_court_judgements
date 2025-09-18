@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-11-03-wrt-0290-20",
   "num": "wrt-0290-20",
   "date_str": "2022-11-03",
   "description": "R.S.D. Perera vs Land Reform Commission and others before Hon. M.T.M. Laffar, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2568eae5-945a-42a1-b7da-97b3c34ceece&filename=CA-WRT-290-20%20CORRECTED.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3957",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2568eae5-945a-42a1-b7da-97b3c34ceece&filename=CA-WRT-290-20%20CORRECTED.pdf.pdf",
   "parties": "R.S.D. Perera vs Land Reform Commission and others",
   "judgement_by": "Hon. M.T.M. Laffar, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-10-06-CAPHC-174-2012",
   "num": "CAPHC 174/2012",
   "date_str": "2017-10-06",
   "description": "Kuruwita Pradeshiya Sabha Vs. Divisional Secretary Kuruwita before  Hon. P. Padman Surasena,J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=85c40049-a1a6-4770-a73c-bc07c5d4d427&filename=ca_phc_174_12.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14477",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=85c40049-a1a6-4770-a73c-bc07c5d4d427&filename=ca_phc_174_12.pdf",
   "parties": "Kuruwita Pradeshiya Sabha Vs. Divisional Secretary Kuruwita",
   "judgement_by": " Hon. P. Padman Surasena,J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

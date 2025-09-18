@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-12-04-C-A-DC-991-1997",
   "num": "C.A DC 991/1997",
   "date_str": "2018-12-04",
   "description": "Abeysinghe Vidana Pathiranage Nandasena Vs Willie Prathapasinghe Rathnatake before  Hon M.M.A. Gaffoor, J,",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b54e4c5e-413b-41d6-969b-60de4bfac68a&filename=image1134.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14456",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b54e4c5e-413b-41d6-969b-60de4bfac68a&filename=image1134.pdf",
   "parties": "Abeysinghe Vidana Pathiranage Nandasena Vs Willie Prathapasinghe Rathnatake",
   "judgement_by": " Hon M.M.A. Gaffoor, J,",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

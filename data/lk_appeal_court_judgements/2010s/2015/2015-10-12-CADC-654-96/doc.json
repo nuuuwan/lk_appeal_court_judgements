@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-10-12-CADC-654-96",
   "num": "CADC 654/96",
   "date_str": "2015-10-12",
   "description": "Gnanawathie Abeysekera Vs. Sirisena Jayalath & others before  Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=be893e7b-e689-49bd-b71f-67e015ec5579&filename=ca_dc_654_96.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14519",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=be893e7b-e689-49bd-b71f-67e015ec5579&filename=ca_dc_654_96.pdf",
   "parties": "Gnanawathie Abeysekera Vs. Sirisena Jayalath & others",
   "judgement_by": " Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

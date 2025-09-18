@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-13-CA-WRIT-373-2021",
   "num": "CA/WRIT/373/2021",
   "date_str": "2022-10-13",
   "description": "Expressway Private Bus Owners Association \u2013 Western Province vs. Western Province Provincial Road Passenger Transport Authority and others before Hon. Sobhitha Rajakaruna J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8d769919-fc7b-4488-a8cb-03433db37250&filename=CA%20Writ%20373-2021.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3951",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8d769919-fc7b-4488-a8cb-03433db37250&filename=CA%20Writ%20373-2021.pdf.pdf",
   "parties": "Expressway Private Bus Owners Association \u2013 Western Province vs. Western Province Provincial Road Passenger Transport Authority and others",
   "judgement_by": "Hon. Sobhitha Rajakaruna J",
   "keywords": "Route permits, tender procedure, tender notice",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

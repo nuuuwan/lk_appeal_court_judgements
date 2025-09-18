@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-07-24-CADC-966-99",
   "num": "CADC 966/99",
   "date_str": "2015-07-24",
   "description": "Aranayake Multi-Purposes Co-operative Society ltd Vs. Wijayalathpura Dewage Bhadrawathie Fernando before  Hon. P.W.D.C. Jayathilaka, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=68843d73-1643-4233-96eb-58021ece1b64&filename=ca_dc_966_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14523",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=68843d73-1643-4233-96eb-58021ece1b64&filename=ca_dc_966_99.pdf",
   "parties": "Aranayake Multi-Purposes Co-operative Society ltd Vs. Wijayalathpura Dewage Bhadrawathie Fernando",
   "judgement_by": " Hon. P.W.D.C. Jayathilaka, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

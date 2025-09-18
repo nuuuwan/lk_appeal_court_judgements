@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-12-21-CAPHC-APN-101-2013",
   "num": "CAPHC APN 101/2013",
   "date_str": "2016-12-21",
   "description": "Ederawasam Gmage Roshan Fernando Vs. Hon. Attorney General before  Hon. L.T.B. Dehideniya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0db4b7dc-c48d-4fac-9f0d-74784d1a3acb&filename=ca_phc_apn_101_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14508",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0db4b7dc-c48d-4fac-9f0d-74784d1a3acb&filename=ca_phc_apn_101_2013.pdf",
   "parties": "Ederawasam Gmage Roshan Fernando Vs. Hon. Attorney General",
   "judgement_by": " Hon. L.T.B. Dehideniya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

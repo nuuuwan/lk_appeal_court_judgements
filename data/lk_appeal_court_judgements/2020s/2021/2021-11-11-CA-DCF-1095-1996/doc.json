@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-11-11-CA-DCF-1095-1996",
   "num": "CA.DCF/1095/1996",
   "date_str": "2021-11-11",
   "description": "K.A. Thomas Vs Allanahewage Adelin and Others before  Hon. K.K.A.V. Swarnadhipathi, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7777b878-9c2d-46fb-abd5-bd909cfe8c30&filename=1095-96-f.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14383",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7777b878-9c2d-46fb-abd5-bd909cfe8c30&filename=1095-96-f.pdf",
   "parties": "K.A. Thomas Vs Allanahewage Adelin and Others",
   "judgement_by": " Hon. K.K.A.V. Swarnadhipathi, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

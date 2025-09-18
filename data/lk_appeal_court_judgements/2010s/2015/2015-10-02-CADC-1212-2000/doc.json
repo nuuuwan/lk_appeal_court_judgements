@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-10-02-CADC-1212-2000",
   "num": "CADC 1212/2000",
   "date_str": "2015-10-02",
   "description": "Naullage Admund Silva Vs. Leo Terrance Lazarus before  Hon. M.M.A. Gaffoor, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7d588f22-b18a-423a-8bbc-3f5865e8bae2&filename=ca_dc_1212_00.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14527",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7d588f22-b18a-423a-8bbc-3f5865e8bae2&filename=ca_dc_1212_00.pdf",
   "parties": "Naullage Admund Silva Vs. Leo Terrance Lazarus",
   "judgement_by": " Hon. M.M.A. Gaffoor, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

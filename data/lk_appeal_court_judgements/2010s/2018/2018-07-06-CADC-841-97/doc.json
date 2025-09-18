@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-07-06-CADC-841-97",
   "num": "CADC 841/97",
   "date_str": "2018-07-06",
   "description": "(F) Abdul Jaleel Mohammed Vs Mohammed Mahmood Sadikeen before  Hon M.M.A. Gaffoor, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f3d1cea4-ec62-4e29-8607-51b04b2ca20f&filename=ca_dc_841_1997.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14448",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f3d1cea4-ec62-4e29-8607-51b04b2ca20f&filename=ca_dc_841_1997.pdf",
   "parties": "(F) Abdul Jaleel Mohammed Vs Mohammed Mahmood Sadikeen",
   "judgement_by": " Hon M.M.A. Gaffoor, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

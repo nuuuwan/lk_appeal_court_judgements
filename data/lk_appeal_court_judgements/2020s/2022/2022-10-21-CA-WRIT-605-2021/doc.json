@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-21-CA-WRIT-605-2021",
   "num": "CA.WRIT/605/2021",
   "date_str": "2022-10-21",
   "description": "Eng. Dr. D. C. R. Abeysekara Vs Ceylon Electricity Board and others before  Hon. Sobhitha Rajakaruna, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=69013d8e-a9f7-4b38-971b-11f17a51997f&filename=ca%20writ%20605-2021%20-%20new.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=69013d8e-a9f7-4b38-971b-11f17a51997f&filename=ca%20writ%20605-2021%20-%20new.pdf",
   "parties": "Eng. Dr. D. C. R. Abeysekara Vs Ceylon Electricity Board and others",
   "judgement_by": " Hon. Sobhitha Rajakaruna, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

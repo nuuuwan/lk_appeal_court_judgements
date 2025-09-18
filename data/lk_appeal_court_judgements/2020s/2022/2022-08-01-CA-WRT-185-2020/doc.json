@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-08-01-CA-WRT-185-2020",
   "num": "CA.WRT/185/2020",
   "date_str": "2022-08-01",
   "description": "Wikiliya Plantations (Pvt) Ltd. And Others Vs Sri Lanka Tea Board And Others before  HON. M. T. MOHAMMED LAFFAR, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0255ab15-83ec-42c8-9fbc-bd6a4e3b0b59&filename=ca-wrt-185-20.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14352",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0255ab15-83ec-42c8-9fbc-bd6a4e3b0b59&filename=ca-wrt-185-20.pdf",
   "parties": "Wikiliya Plantations (Pvt) Ltd. And Others Vs Sri Lanka Tea Board And Others",
   "judgement_by": " HON. M. T. MOHAMMED LAFFAR, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

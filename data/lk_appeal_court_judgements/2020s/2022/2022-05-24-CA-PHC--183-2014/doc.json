@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-05-24-CA-PHC--183-2014",
   "num": "CA(PHC) 183/2014",
   "date_str": "2022-05-24",
   "description": "Daniel Jegosothy and others Vs Ranasinghe Arachchige Thilangani Chandrasena Herath nee Perera and others before  Hon. Menaka Wijesundera J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a0fe483d-05be-44ad-9953-0ad7242f7be5&filename=phc%20-%200183%20-%2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14346",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a0fe483d-05be-44ad-9953-0ad7242f7be5&filename=phc%20-%200183%20-%2014.pdf",
   "parties": "Daniel Jegosothy and others Vs Ranasinghe Arachchige Thilangani Chandrasena Herath nee Perera and others",
   "judgement_by": " Hon. Menaka Wijesundera J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

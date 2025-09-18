@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-05-12-CADC-Kegalle-842-99",
   "num": "CADC Kegalle 842/99",
   "date_str": "2014-05-12",
   "description": "T. Piyasena Vs. Dolage Ralage Dingiri Mahattaya before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=75fc40ee-c367-40a9-9c84-44a098625115&filename=ca_dc_kegalle_842_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14544",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=75fc40ee-c367-40a9-9c84-44a098625115&filename=ca_dc_kegalle_842_99.pdf",
   "parties": "T. Piyasena Vs. Dolage Ralage Dingiri Mahattaya",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

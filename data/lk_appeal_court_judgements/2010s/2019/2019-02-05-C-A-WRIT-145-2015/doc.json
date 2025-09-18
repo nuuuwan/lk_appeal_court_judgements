@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-02-05-C-A-WRIT-145-2015",
   "num": "C.A WRIT 145/2015",
   "date_str": "2019-02-05",
   "description": "W.S.P. Wijewardena and Others Vs Gamini Gunasekera and Others before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=26977768-79ec-4da3-84da-3a5eafef8f79&filename=ca-writ-145-2015%201.2.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14413",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=26977768-79ec-4da3-84da-3a5eafef8f79&filename=ca-writ-145-2015%201.2.2019.pdf",
   "parties": "W.S.P. Wijewardena and Others Vs Gamini Gunasekera and Others",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

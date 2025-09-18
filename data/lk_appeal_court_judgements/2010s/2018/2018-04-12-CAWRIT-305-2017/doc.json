@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-04-12-CAWRIT-305-2017",
   "num": "CAWRIT 305/2017",
   "date_str": "2018-04-12",
   "description": "Maithri Gunaratne Vs. Chinthaka S. Lokuhetti , Secretary to the Ministry of Industry and Commerce before  Hon. E.A.G.R. Amarasekera. J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=33a6051a-79c1-4225-b1cc-c4aaa7ec227b&filename=ca_writ_305_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14440",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=33a6051a-79c1-4225-b1cc-c4aaa7ec227b&filename=ca_writ_305_2017.pdf",
   "parties": "Maithri Gunaratne Vs. Chinthaka S. Lokuhetti , Secretary to the Ministry of Industry and Commerce",
   "judgement_by": " Hon. E.A.G.R. Amarasekera. J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

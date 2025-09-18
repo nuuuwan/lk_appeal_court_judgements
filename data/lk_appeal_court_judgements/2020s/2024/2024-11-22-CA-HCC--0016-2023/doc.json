@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-11-22-CA-HCC--0016-2023",
   "num": "CA/HCC/ 0016/2023",
   "date_str": "2024-11-22",
   "description": "Rathnayake Mudiyanselage Karunarathne Vs. The Attorney General before Hon. P. Kumararatnam, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b1d1e118-4b18-4226-93be-5b443dc520ec&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0016.23.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10829",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b1d1e118-4b18-4226-93be-5b443dc520ec&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0016.23.pdf.pdf",
   "parties": "Rathnayake Mudiyanselage Karunarathne Vs. The Attorney General",
   "judgement_by": "Hon. P. Kumararatnam, J.",
   "keywords": "1. Inter se and per se Contradictions. 2. Reversing of Burden.",
-  "legistation": "The Penal Code as amended",
-  "lang": "en"
+  "legistation": "The Penal Code as amended"
 }

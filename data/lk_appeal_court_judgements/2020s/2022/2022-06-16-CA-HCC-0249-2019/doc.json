@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-06-16-CA-HCC-0249-2019",
   "num": "CA/HCC/0249/2019",
   "date_str": "2022-06-16",
   "description": "Kodikara Arachchige Kusumawathi Vs Hon. Attorney General before Hon . K Priyantha Fernando, J. (P/CA)",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4aa04b77-712a-4a31-89c3-7ca11c291207&filename=ca%20hcc%200249-2019.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3927",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4aa04b77-712a-4a31-89c3-7ca11c291207&filename=ca%20hcc%200249-2019.pdf.pdf",
   "parties": "Kodikara Arachchige Kusumawathi Vs Hon. Attorney General",
   "judgement_by": "Hon . K Priyantha Fernando, J. (P/CA)",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

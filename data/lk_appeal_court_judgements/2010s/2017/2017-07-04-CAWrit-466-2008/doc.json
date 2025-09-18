@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-07-04-CAWrit-466-2008",
   "num": "CAWrit 466/2008",
   "date_str": "2017-07-04",
   "description": "5 A.J.T. Chandralatha Vs. Homagama Pradeshiya Sabha & others before  Hon. P. Padman Surasena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8caf9be4-3814-475d-83a3-684c3f25e47a&filename=ca_writ_466_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14471",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8caf9be4-3814-475d-83a3-684c3f25e47a&filename=ca_writ_466_2008.pdf",
   "parties": "5 A.J.T. Chandralatha Vs. Homagama Pradeshiya Sabha & others",
   "judgement_by": " Hon. P. Padman Surasena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

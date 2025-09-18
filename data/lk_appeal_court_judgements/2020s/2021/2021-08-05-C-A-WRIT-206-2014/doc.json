@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-08-05-C-A-WRIT-206-2014",
   "num": "C.A WRIT 206/2014",
   "date_str": "2021-08-05",
   "description": "K.M. Chandralatha Vs. Commissioner General of Lands, Department of Commissioner General of Lands and 3 Others before  Hon. M.T.M. Laffar, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5c5990c7-572b-436a-8570-04385f458e8f&filename=writ%20206-14%20judgment.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14377",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5c5990c7-572b-436a-8570-04385f458e8f&filename=writ%20206-14%20judgment.pdf",
   "parties": "K.M. Chandralatha Vs. Commissioner General of Lands, Department of Commissioner General of Lands and 3 Others",
   "judgement_by": " Hon. M.T.M. Laffar, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

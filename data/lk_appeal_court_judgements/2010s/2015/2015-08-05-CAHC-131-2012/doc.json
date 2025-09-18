@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-08-05-CAHC-131-2012",
   "num": "CAHC 131/2012",
   "date_str": "2015-08-05",
   "description": "M. Chaminda Kumarasiri Vs. Hon Attorney General before  Hon. H.N.J. Perera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2d129156-6f91-48de-9bf9-25c021799cdb&filename=ca_hc_131_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14519",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2d129156-6f91-48de-9bf9-25c021799cdb&filename=ca_hc_131_2012.pdf",
   "parties": "M. Chaminda Kumarasiri Vs. Hon Attorney General",
   "judgement_by": " Hon. H.N.J. Perera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-02-NA-CA-WRT-219-2020",
   "num": "CA WRT 219/2020",
   "date_str": "2023-02-NA",
   "description": "Don. Gregory Ajith Udugama Vs A. Bodaragama, The Commissioner General of Excise and others before B. Sasi Mahendran, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e6011723-cae8-407f-9a2d-a6c083cfe190&filename=CA-WRT-%20219%20of%2020%20%20ORDER.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=7392",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e6011723-cae8-407f-9a2d-a6c083cfe190&filename=CA-WRT-%20219%20of%2020%20%20ORDER.pdf.pdf",
   "parties": "Don. Gregory Ajith Udugama Vs A. Bodaragama, The Commissioner General of Excise and others",
   "judgement_by": "B. Sasi Mahendran, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-02-26-C-A-WRIT-326-2013",
   "num": "C.A WRIT 326/2013",
   "date_str": "2019-02-26",
   "description": "Sellappulige Ravinda Susantha De Rosa Vs Divisional Secretary, Polonnaruwa before  Hon Arjuna Obeyesekere, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=063a89e4-a170-4c6f-96ea-16c9ce89af89&filename=c.a%20writ%20%20326_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14413",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=063a89e4-a170-4c6f-96ea-16c9ce89af89&filename=c.a%20writ%20%20326_2013.pdf",
   "parties": "Sellappulige Ravinda Susantha De Rosa Vs Divisional Secretary, Polonnaruwa",
   "judgement_by": " Hon Arjuna Obeyesekere, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

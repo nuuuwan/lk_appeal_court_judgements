@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-01-25-CA-APN-65-2021",
   "num": "CA APN/65/2021",
   "date_str": "2022-01-25",
   "description": "Officer in Charge Police Station, Malimbada Vs Rathnayake Mudiyanselage Raveen Madushanka. before Hon. Menaka Wijesundera J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5693df64-62a6-43cf-8942-719325346ba5&filename=cpa%20-%200065%20-%2021.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=2540",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5693df64-62a6-43cf-8942-719325346ba5&filename=cpa%20-%200065%20-%2021.pdf.pdf",
   "parties": "Officer in Charge Police Station, Malimbada Vs Rathnayake Mudiyanselage Raveen Madushanka.",
   "judgement_by": "Hon. Menaka Wijesundera J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-06-03-C-A-WRIT-445-2020",
   "num": "C.A WRIT 445/2020",
   "date_str": "2021-06-03",
   "description": "Mrs. I. L. Malani de Silva Vs. The Commissioner General of Excise and others before Hon. Justice Mayadunne Corea J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b2b7b237-977d-4603-83a9-c16a44d4c856&filename=writ%20-%200445-20%20-%20judgement%20%281%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9825",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b2b7b237-977d-4603-83a9-c16a44d4c856&filename=writ%20-%200445-20%20-%20judgement%20%281%29.pdf.pdf",
   "parties": "Mrs. I. L. Malani de Silva Vs. The Commissioner General of Excise and others",
   "judgement_by": "Hon. Justice Mayadunne Corea J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-12-13-CA-WRIT-276-2021",
   "num": "CA.WRIT/276/2021",
   "date_str": "2021-12-13",
   "description": "Thenudaya Nithil Demash Kodithuwakku and Another Vs Mr. Sampath Weeragoda, former Principal Richmond College and Others before  Hon. Dhammika Ganepola, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e525393a-d651-4aae-a04c-c6e30f2bc920&filename=wrt%20276-21.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14385",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e525393a-d651-4aae-a04c-c6e30f2bc920&filename=wrt%20276-21.pdf",
   "parties": "Thenudaya Nithil Demash Kodithuwakku and Another Vs Mr. Sampath Weeragoda, former Principal Richmond College and Others",
   "judgement_by": " Hon. Dhammika Ganepola, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

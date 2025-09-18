@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-10-09-C-A--PHC--07-2012",
   "num": "C.A (PHC) 07/2012",
   "date_str": "2020-10-09",
   "description": "Ponniah Baskarasingham Vs Kandiah Velauthapillai Vel Hospital before  Hon Dr. Ruwan Fernando,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=14220df8-8e01-4a73-a560-1c9cd980a833&filename=c.a%20phc%2007-2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14406",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=14220df8-8e01-4a73-a560-1c9cd980a833&filename=c.a%20phc%2007-2012.pdf",
   "parties": "Ponniah Baskarasingham Vs Kandiah Velauthapillai Vel Hospital",
   "judgement_by": " Hon Dr. Ruwan Fernando,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-06-08-CAPHC-APN-119-2015",
   "num": "CAPHC APN 119/2015",
   "date_str": "2016-06-08",
   "description": "Yajanthiran Vinifreeda Prebha (nee Amalathasan Vinifreeda Prebha) Vs. Vettivelu Yajanthiran before  Hon. L.T.B. Dehideniya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1cc5a897-5473-4b60-91b7-c8f1937e4c57&filename=ca_phc_apn_119_2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14496",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1cc5a897-5473-4b60-91b7-c8f1937e4c57&filename=ca_phc_apn_119_2015.pdf",
   "parties": "Yajanthiran Vinifreeda Prebha (nee Amalathasan Vinifreeda Prebha) Vs. Vettivelu Yajanthiran",
   "judgement_by": " Hon. L.T.B. Dehideniya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

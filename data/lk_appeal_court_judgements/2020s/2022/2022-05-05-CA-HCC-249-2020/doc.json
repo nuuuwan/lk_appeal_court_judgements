@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-05-05-CA-HCC-249-2020",
   "num": "CA/HCC/249/2020",
   "date_str": "2022-05-05",
   "description": "Vithanage Don Ranjith alias Ukku Ranjith Vs Hon. Attorney General before Hon. N. Bandula Karunarathna J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b36a85b3-15d4-454e-9f83-023aec48378b&filename=judgement%20ca-hcc-249-2020%20edited%20finally%201%202%205.5.22.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3921",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b36a85b3-15d4-454e-9f83-023aec48378b&filename=judgement%20ca-hcc-249-2020%20edited%20finally%201%202%205.5.22.pdf.pdf",
   "parties": "Vithanage Don Ranjith alias Ukku Ranjith Vs Hon. Attorney General",
   "judgement_by": "Hon. N. Bandula Karunarathna J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

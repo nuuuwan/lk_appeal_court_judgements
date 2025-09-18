@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-09-17-C-A-WRIT-229-2018",
   "num": "C.A WRIT 229/2018",
   "date_str": "2020-09-17",
   "description": "Saparamadu Wickramasinghe Arachchige Mohan Sanathkumara Vs Hon. Mano Ganesan, Minister of National Integration, Reconciliation and Official Languages and Others before  Hon Arjuna Obeyesekere, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1e3a732b-5fb5-45d0-a7b1-bc1e40e0860a&filename=ca%20229.18%20pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14404",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1e3a732b-5fb5-45d0-a7b1-bc1e40e0860a&filename=ca%20229.18%20pdf.pdf",
   "parties": "Saparamadu Wickramasinghe Arachchige Mohan Sanathkumara Vs Hon. Mano Ganesan, Minister of National Integration, Reconciliation and Official Languages and Others",
   "judgement_by": " Hon Arjuna Obeyesekere, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

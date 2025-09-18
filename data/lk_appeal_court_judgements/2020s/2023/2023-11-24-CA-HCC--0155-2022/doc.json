@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-11-24-CA-HCC--0155-2022",
   "num": "CA/HCC/ 0155/2022",
   "date_str": "2023-11-24",
   "description": "Tikirage Mahinda Rajapaksha Vs The Hon. Attorney General before Hon.P. Kumararatnam, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6e5ae00e-4949-4b30-97f6-f904a6d7dced&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0155.22.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9155",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6e5ae00e-4949-4b30-97f6-f904a6d7dced&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0155.22.pdf.pdf",
   "parties": "Tikirage Mahinda Rajapaksha Vs The Hon. Attorney General",
   "judgement_by": "Hon.P. Kumararatnam, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-01-12-CA--BAL--019-",
   "num": "CA/ BAL/ 019/",
   "date_str": "2023-01-12",
   "description": "2022 Panambarage Suranjan Alexander Fernando Vs The Officer in Charge Police Station Negombo and others before  Hon. Menaka Wijesundera J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3ce19fa1-d7ac-45a0-bcda-da341f3e3be6&filename=bal%20-%200019%20-%2022%20new.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14313",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3ce19fa1-d7ac-45a0-bcda-da341f3e3be6&filename=bal%20-%200019%20-%2022%20new.pdf",
   "parties": "2022 Panambarage Suranjan Alexander Fernando Vs The Officer in Charge Police Station Negombo and others",
   "judgement_by": " Hon. Menaka Wijesundera J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

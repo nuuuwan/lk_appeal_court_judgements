@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-12-20-CA-WRT-120-24",
   "num": "CA/WRT/120/24",
   "date_str": "2024-12-20",
   "description": "Lanka Electricity Company (Private) Limited (LECO) Vs. B.K. Prabhath Chandrakeerthi & others before Hon. Mayadunne Corea J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=34dcb0d4-9eda-4954-98d0-a51232b96855&filename=Writ%20120-24%20%282%29%20%281%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10826",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=34dcb0d4-9eda-4954-98d0-a51232b96855&filename=Writ%20120-24%20%282%29%20%281%29.pdf.pdf",
   "parties": "Lanka Electricity Company (Private) Limited (LECO) Vs. B.K. Prabhath Chandrakeerthi & others",
   "judgement_by": "Hon. Mayadunne Corea J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

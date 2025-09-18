@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-04-05-C-A--DC-343-95",
   "num": "C.A. DC/343/95",
   "date_str": "2019-04-05",
   "description": "Wijekoon Arachchige Chaminda VS. Somawathie Liyanarachchi and Others before  Hon. M.M.A. Gaffoor, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=87423c22-d4b3-4105-8eab-a8b00263dd84&filename=c.a.%20dc_343_95.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14415",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=87423c22-d4b3-4105-8eab-a8b00263dd84&filename=c.a.%20dc_343_95.pdf",
   "parties": "Wijekoon Arachchige Chaminda VS. Somawathie Liyanarachchi and Others",
   "judgement_by": " Hon. M.M.A. Gaffoor, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

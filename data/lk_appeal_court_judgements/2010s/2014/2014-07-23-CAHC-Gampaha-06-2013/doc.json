@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-07-23-CAHC-Gampaha-06-2013",
   "num": "CAHC Gampaha 06/2013",
   "date_str": "2014-07-23",
   "description": "Udugama Withanage Jagath Presanna Vs. Hon. Attorney General before  Hon. Anil Goonerathne, J & Hon. W.M.M. Malinie Gunaratne J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a996670a-b776-417f-9db6-f22b915c68f2&filename=ca_hc_gampaha_06_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14548",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a996670a-b776-417f-9db6-f22b915c68f2&filename=ca_hc_gampaha_06_2013.pdf",
   "parties": "Udugama Withanage Jagath Presanna Vs. Hon. Attorney General",
   "judgement_by": " Hon. Anil Goonerathne, J & Hon. W.M.M. Malinie Gunaratne J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

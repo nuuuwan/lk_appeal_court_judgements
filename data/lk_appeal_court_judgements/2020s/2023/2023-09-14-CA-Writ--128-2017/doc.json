@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-09-14-CA-Writ--128-2017",
   "num": "CA/Writ/ 128/2017",
   "date_str": "2023-09-14",
   "description": "SINGHA CEMENT (PVT) LTD Vs P. SAMAN DE SILVA Director Central Investigation Bureau Sri Lanka Customs and others - Hon. C. P. Kirtisinghe before  J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=22b36074-90f8-4b5d-9f38-81d91e7970c8&filename=ca%20writ%20128%20-%202017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14329",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=22b36074-90f8-4b5d-9f38-81d91e7970c8&filename=ca%20writ%20128%20-%202017.pdf",
   "parties": "SINGHA CEMENT (PVT) LTD Vs P. SAMAN DE SILVA Director Central Investigation Bureau Sri Lanka Customs and others - Hon. C. P. Kirtisinghe",
   "judgement_by": " J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

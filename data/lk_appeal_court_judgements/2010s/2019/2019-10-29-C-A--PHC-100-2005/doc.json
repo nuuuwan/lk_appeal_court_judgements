@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-10-29-C-A--PHC-100-2005",
   "num": "C.A. PHC/100/2005",
   "date_str": "2019-10-29",
   "description": "Lindamulage Konsi Silva and Others Vs K. David Fernando and Others before  Hon. Janak De Silva J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=68b7716c-b5dd-4f1a-8e1f-673543b93b03&filename=c.a.%20phc_100_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14429",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=68b7716c-b5dd-4f1a-8e1f-673543b93b03&filename=c.a.%20phc_100_2005.pdf",
   "parties": "Lindamulage Konsi Silva and Others Vs K. David Fernando and Others",
   "judgement_by": " Hon. Janak De Silva J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

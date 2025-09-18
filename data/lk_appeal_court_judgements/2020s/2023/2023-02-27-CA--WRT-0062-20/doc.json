@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-02-27-CA--WRT-0062-20",
   "num": "CA/ WRT-0062-20",
   "date_str": "2023-02-27",
   "description": "Neelalogini Jekatheeswaran, Vs R. P. A. Wimalaweera, Commissioner General of Labour and others before Hon. S.U.B. Karalliyadde, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6c532354-e840-4b2f-94ba-132f4a81d804&filename=Writ%200062-20.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=7392",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6c532354-e840-4b2f-94ba-132f4a81d804&filename=Writ%200062-20.pdf.pdf",
   "parties": "Neelalogini Jekatheeswaran, Vs R. P. A. Wimalaweera, Commissioner General of Labour and others",
   "judgement_by": "Hon. S.U.B. Karalliyadde, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

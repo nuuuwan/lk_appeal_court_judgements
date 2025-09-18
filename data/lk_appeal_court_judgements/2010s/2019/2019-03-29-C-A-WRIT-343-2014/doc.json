@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-03-29-C-A-WRIT-343-2014",
   "num": "C.A WRIT 343/2014",
   "date_str": "2019-03-29",
   "description": "Nimali Manojika Herath Vs Pradeshiya Sanwardana Bank before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d05e89e3-43b1-44b2-bd43-816107377318&filename=ca-writ-343-2014%2028.3.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14415",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d05e89e3-43b1-44b2-bd43-816107377318&filename=ca-writ-343-2014%2028.3.2019.pdf",
   "parties": "Nimali Manojika Herath Vs Pradeshiya Sanwardana Bank",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

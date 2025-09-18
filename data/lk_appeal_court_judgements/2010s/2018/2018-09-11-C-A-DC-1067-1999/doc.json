@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-09-11-C-A-DC-1067-1999",
   "num": "C.A DC 1067/1999",
   "date_str": "2018-09-11",
   "description": "Rotuwage Hereth Singho and Others Vs Jayasinghe Arachige and Others before  Hon M. M. A. GAFFOOR, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2e236ba5-eeb6-4d95-945f-44aa0a9d4c2d&filename=c.a%20dc%201067_1999.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14452",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2e236ba5-eeb6-4d95-945f-44aa0a9d4c2d&filename=c.a%20dc%201067_1999.pdf",
   "parties": "Rotuwage Hereth Singho and Others Vs Jayasinghe Arachige and Others",
   "judgement_by": " Hon M. M. A. GAFFOOR, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

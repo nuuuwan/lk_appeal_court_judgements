@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-08-03-CA-WRIT-445-16",
   "num": "CA/WRIT/445/16",
   "date_str": "2021-08-03",
   "description": "Kalukumara Mudiyanselage Somapala and Another Vs Hon. John A.E. Amarathunga, Minister of Land and Land Development and 14 Others before  Hon. M.T.M. Laffar, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=237ae4a6-5344-49a9-a625-18475f6bd43b&filename=writ%20445-16%20judgment.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14377",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=237ae4a6-5344-49a9-a625-18475f6bd43b&filename=writ%20445-16%20judgment.pdf",
   "parties": "Kalukumara Mudiyanselage Somapala and Another Vs Hon. John A.E. Amarathunga, Minister of Land and Land Development and 14 Others",
   "judgement_by": " Hon. M.T.M. Laffar, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

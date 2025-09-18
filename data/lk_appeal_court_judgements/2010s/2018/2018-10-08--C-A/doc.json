@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-10-08--C-A",
   "num": "/C.A",
   "date_str": "2018-10-08",
   "description": "HC 282_2012 Mohamed Aliyar Farook Vs Hon Attorney General before  Hon S. Thurairaja, PC. J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a99ad39e-828c-4806-b919-fd48c1f0238b&filename=c.a%20hc%20282_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14452",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a99ad39e-828c-4806-b919-fd48c1f0238b&filename=c.a%20hc%20282_2012.pdf",
   "parties": "HC 282_2012 Mohamed Aliyar Farook Vs Hon Attorney General",
   "judgement_by": " Hon S. Thurairaja, PC. J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

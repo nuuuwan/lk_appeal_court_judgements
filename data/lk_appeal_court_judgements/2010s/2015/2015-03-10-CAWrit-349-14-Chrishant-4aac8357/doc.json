@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-03-10-CAWrit-349-14-Chrishant-4aac8357",
   "num": "CAWrit 349/14 Chrishantha Chandrasiri Widisinghe Vs. Sudharma Karunarathna - Hon. Vijith K. Malalgoda, P.C, (P/CA)",
   "date_str": "2015-03-10",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8769efea-0ae0-4df1-a23b-78a3f18b6fbc&filename=ca_writ_349_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14513",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8769efea-0ae0-4df1-a23b-78a3f18b6fbc&filename=ca_writ_349_2014.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

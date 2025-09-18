@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-05-03-C-A-RI-133-2010",
   "num": "C.A RI 133/2010",
   "date_str": "2019-05-03",
   "description": "Bandaranayaka Liyanaarachchilage Pemawathi Vs Wickremasinghe Arachchige Keerthiratne before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c1452719-20b9-4f58-a9cf-0742aa0906d8&filename=ca-ri-133-2010%202.5.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14419",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c1452719-20b9-4f58-a9cf-0742aa0906d8&filename=ca-ri-133-2010%202.5.2019.pdf",
   "parties": "Bandaranayaka Liyanaarachchilage Pemawathi Vs Wickremasinghe Arachchige Keerthiratne",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

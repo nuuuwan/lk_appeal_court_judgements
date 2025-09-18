@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-12-14-CAPHC-71-2012",
   "num": "CAPHC 71/2012",
   "date_str": "2017-12-14",
   "description": "Kinigamayalage Jayasinghe Vs. Hon. Attorney General before  Hon. K.K. Wickremasinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=52a5f24b-4318-494d-9ed4-1d84da2dc060&filename=ca_phc_71_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14481",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=52a5f24b-4318-494d-9ed4-1d84da2dc060&filename=ca_phc_71_2012.pdf",
   "parties": "Kinigamayalage Jayasinghe Vs. Hon. Attorney General",
   "judgement_by": " Hon. K.K. Wickremasinghe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

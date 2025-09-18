@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-02-21-CAWRIT-299-2017",
   "num": "CAWRIT 299/2017",
   "date_str": "2018-02-21",
   "description": "Aswatte Mangalatissa Thero & Others Vs. A.G.S.S. Edirisuriya before  Hon.A.L. Shiran Gooneratne J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f9ba0fd5-43f5-4542-9368-37aa6c32eb7c&filename=ca_writ_299_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14438",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f9ba0fd5-43f5-4542-9368-37aa6c32eb7c&filename=ca_writ_299_2017.pdf",
   "parties": "Aswatte Mangalatissa Thero & Others Vs. A.G.S.S. Edirisuriya",
   "judgement_by": " Hon.A.L. Shiran Gooneratne J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

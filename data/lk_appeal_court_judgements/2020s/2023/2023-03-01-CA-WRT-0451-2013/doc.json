@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-03-01-CA-WRT-0451-2013",
   "num": "CA/WRT/0451/2013",
   "date_str": "2023-03-01",
   "description": "Seylan Bank Vs Hon. Gamini Lokuge, Minister of Labour before  Hon. M. T. MOHAMMED LAFFAR, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bf97cb27-2496-4a4a-a1bb-109dd83995cd&filename=0451_2013%201.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14317",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bf97cb27-2496-4a4a-a1bb-109dd83995cd&filename=0451_2013%201.pdf",
   "parties": "Seylan Bank Vs Hon. Gamini Lokuge, Minister of Labour",
   "judgement_by": " Hon. M. T. MOHAMMED LAFFAR, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

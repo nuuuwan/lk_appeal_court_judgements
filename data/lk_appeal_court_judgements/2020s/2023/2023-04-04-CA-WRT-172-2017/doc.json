@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-04-04-CA-WRT-172-2017",
   "num": "CA/WRT/172/2017",
   "date_str": "2023-04-04",
   "description": "Umesh Ganganath Ranawaka and three others Vs D.K.R.Swarna Director General, Road Development Authority and others - Hon. C.P. Kirtisinghe before  J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bb28f691-9077-411a-95bc-7f138b0e7423&filename=ca%20writ%20172%202017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14319",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bb28f691-9077-411a-95bc-7f138b0e7423&filename=ca%20writ%20172%202017.pdf",
   "parties": "Umesh Ganganath Ranawaka and three others Vs D.K.R.Swarna Director General, Road Development Authority and others - Hon. C.P. Kirtisinghe",
   "judgement_by": " J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-11-27-C-A-RI-22-2018",
   "num": "C.A RI 22/2018",
   "date_str": "2018-11-27",
   "description": "M.H.M. Nilam and Others Vs Amana Bank PLC before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c2782611-c8a1-43ef-8b0b-4f096040da68&filename=ca-ri-22-2018%2019.11.2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14456",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c2782611-c8a1-43ef-8b0b-4f096040da68&filename=ca-ri-22-2018%2019.11.2018.pdf",
   "parties": "M.H.M. Nilam and Others Vs Amana Bank PLC",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

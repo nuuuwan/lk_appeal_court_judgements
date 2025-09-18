@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-10-03-C-A-WRIT-399-2017",
   "num": "C.A WRIT 399/2017",
   "date_str": "2019-10-03",
   "description": "S. H. S. E. Rosa Vs Urban Development Authority and Others before  Hon Janak De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6b0fb3bb-3668-4aee-a7f0-8be58f3282cb&filename=c.a%20writ%20339_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14429",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6b0fb3bb-3668-4aee-a7f0-8be58f3282cb&filename=c.a%20writ%20339_2017.pdf",
   "parties": "S. H. S. E. Rosa Vs Urban Development Authority and Others",
   "judgement_by": " Hon Janak De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

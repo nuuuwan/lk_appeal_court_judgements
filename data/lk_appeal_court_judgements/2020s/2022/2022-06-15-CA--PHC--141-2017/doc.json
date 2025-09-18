@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-06-15-CA--PHC--141-2017",
   "num": "CA. PHC/ 141/2017",
   "date_str": "2022-06-15",
   "description": "Jambugahawaththage Dona Kalyani Kumari Vs Urban Development Authority before HON. K.K.A.V. SWARANADHIPATHI,",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cbc65ba5-f93c-4e0c-873c-04330d05640c&filename=ca%20141.2017.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3927",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cbc65ba5-f93c-4e0c-873c-04330d05640c&filename=ca%20141.2017.pdf.pdf",
   "parties": "Jambugahawaththage Dona Kalyani Kumari Vs Urban Development Authority",
   "judgement_by": "HON. K.K.A.V. SWARANADHIPATHI,",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

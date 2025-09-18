@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-04-01-C-A-DC-671-1995",
   "num": "C.A DC 671/1995",
   "date_str": "2021-04-01",
   "description": "W. Gunadasa Vs Asoka De Mel Co. Ltd before  Hon K. K. A. V. Swarnadhipathi, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9fe2cbdd-10f7-4d9c-bf22-0c2a5a5372f2&filename=ca%20671-95%20f-%2001.04.2021.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14369",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9fe2cbdd-10f7-4d9c-bf22-0c2a5a5372f2&filename=ca%20671-95%20f-%2001.04.2021.pdf",
   "parties": "W. Gunadasa Vs Asoka De Mel Co. Ltd",
   "judgement_by": " Hon K. K. A. V. Swarnadhipathi, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

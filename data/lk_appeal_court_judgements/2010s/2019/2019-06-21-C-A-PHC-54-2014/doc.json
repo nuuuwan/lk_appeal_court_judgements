@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-06-21-C-A-PHC-54-2014",
   "num": "C.A PHC 54/2014",
   "date_str": "2019-06-21",
   "description": "R.M. Karunaratne Banda Vs Secretary, Provincial Ministry of Health and Indigenous Medicine of the Central Province and Others before  Hon Mahinda Samayawardhana,J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b0ada702-51d7-4692-ac8b-d09108167db6&filename=ca-phc-54-2014%2021.6.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14421",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b0ada702-51d7-4692-ac8b-d09108167db6&filename=ca-phc-54-2014%2021.6.2019.pdf",
   "parties": "R.M. Karunaratne Banda Vs Secretary, Provincial Ministry of Health and Indigenous Medicine of the Central Province and Others",
   "judgement_by": " Hon Mahinda Samayawardhana,J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

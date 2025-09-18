@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-08-10--CA-WRT-",
   "num": "/CA-WRT-",
   "date_str": "2023-08-10",
   "description": "422-19 Badurdeen Mohammed Rasheed Vs R. M. R. S. Thilakarathne, Divisional Secretary of Buttala and Eight Others before  Hon. Wickum A. Kaluarachchi, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c82dfd54-75b2-4a6d-957a-4ef7f9b1ce9f&filename=wrt-422-19%20-%2010.08.2023.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14327",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c82dfd54-75b2-4a6d-957a-4ef7f9b1ce9f&filename=wrt-422-19%20-%2010.08.2023.pdf",
   "parties": "422-19 Badurdeen Mohammed Rasheed Vs R. M. R. S. Thilakarathne, Divisional Secretary of Buttala and Eight Others",
   "judgement_by": " Hon. Wickum A. Kaluarachchi, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

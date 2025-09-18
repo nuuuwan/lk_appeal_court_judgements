@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-11-08-C-A-WRIT-351-2019",
   "num": "C.A WRIT 351/2019",
   "date_str": "2021-11-08",
   "description": "Prof. Deepal Senaka Weerasekara Vs Mr. A. Jagath D. Dias Director General of Pensions and Others before  Hon. Dhammika Ganepola, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3b1f3699-73d2-48c8-a731-390d0354ce59&filename=writ%20351-19.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14383",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3b1f3699-73d2-48c8-a731-390d0354ce59&filename=writ%20351-19.pdf",
   "parties": "Prof. Deepal Senaka Weerasekara Vs Mr. A. Jagath D. Dias Director General of Pensions and Others",
   "judgement_by": " Hon. Dhammika Ganepola, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

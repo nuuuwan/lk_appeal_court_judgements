@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-04-10-CAWRIT-527-2015",
   "num": "CAWRIT 527/2015",
   "date_str": "2018-04-10",
   "description": "Public Interest Law Foundation Vs. Central Environmental Authority & others before  Hon. A.L. Shiran Gooneratne J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9568d049-1600-43f1-a933-302c50f78422&filename=ca_writ_527_2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14440",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9568d049-1600-43f1-a933-302c50f78422&filename=ca_writ_527_2015.pdf",
   "parties": "Public Interest Law Foundation Vs. Central Environmental Authority & others",
   "judgement_by": " Hon. A.L. Shiran Gooneratne J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

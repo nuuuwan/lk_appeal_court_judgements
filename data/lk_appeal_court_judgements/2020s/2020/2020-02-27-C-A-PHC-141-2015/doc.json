@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-02-27-C-A-PHC-141-2015",
   "num": "C.A PHC 141/2015",
   "date_str": "2020-02-27",
   "description": "Bhashwara Senanka Gunarathne, Chairman, Sri Lanka Tourism Development Authority Vs Ganeshapillei Kalipillai before  Hon A.L. Shiran Gooneratne, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fba57515-896c-4d9c-8389-d642716b3911&filename=c.a%20phc%20141-2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14390",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fba57515-896c-4d9c-8389-d642716b3911&filename=c.a%20phc%20141-2015.pdf",
   "parties": "Bhashwara Senanka Gunarathne, Chairman, Sri Lanka Tourism Development Authority Vs Ganeshapillei Kalipillai",
   "judgement_by": " Hon A.L. Shiran Gooneratne, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

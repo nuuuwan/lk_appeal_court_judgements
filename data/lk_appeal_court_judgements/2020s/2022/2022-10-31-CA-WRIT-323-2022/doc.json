@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-31-CA-WRIT-323-2022",
   "num": "CA.WRIT/323/2022",
   "date_str": "2022-10-31",
   "description": "Duminda Lanka Liyanage Vs Hon. Attorney General AND OTHERS before  Hon. Sobhitha Rajakaruna, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ba4990c9-ea59-4a9e-ba5f-e7f4079105e9&filename=ca%20writ%20323-22.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ba4990c9-ea59-4a9e-ba5f-e7f4079105e9&filename=ca%20writ%20323-22.pdf",
   "parties": "Duminda Lanka Liyanage Vs Hon. Attorney General AND OTHERS",
   "judgement_by": " Hon. Sobhitha Rajakaruna, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

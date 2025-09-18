@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-06-06-C-A-DC-710-712-",
   "num": "C.A DC 710-712/",
   "date_str": "2019-06-06",
   "description": "1999 Kariyawasam Gamage Piyasena Vs Henarath Mohottige Magilin Nona and Others before  Hon A.H.M.D. Nawaz,J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bd092e62-f625-47cf-9403-250f2cff2eb7&filename=c.a%20%20dc%20%20710-712_%201999.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14456",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bd092e62-f625-47cf-9403-250f2cff2eb7&filename=c.a%20%20dc%20%20710-712_%201999.pdf",
   "parties": "1999 Kariyawasam Gamage Piyasena Vs Henarath Mohottige Magilin Nona and Others",
   "judgement_by": " Hon A.H.M.D. Nawaz,J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

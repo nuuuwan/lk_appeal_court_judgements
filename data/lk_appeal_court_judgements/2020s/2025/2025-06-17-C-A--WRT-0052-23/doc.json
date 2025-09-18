@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2025-06-17-C-A--WRT-0052-23",
   "num": "C.A./WRT 0052-23",
   "date_str": "2025-06-17",
   "description": "Greentech consultants (PVT) Limited Vs P.W.G.S.S Perera, Labour Officer, District Labour Office and three others before Hon. K.Priyantha Fernando J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=118adf97-7f76-4218-8e82-2c886f4a4c91&filename=WRT%200052-23%20J.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=13112",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=118adf97-7f76-4218-8e82-2c886f4a4c91&filename=WRT%200052-23%20J.pdf.pdf",
   "parties": "Greentech consultants (PVT) Limited Vs P.W.G.S.S Perera, Labour Officer, District Labour Office and three others",
   "judgement_by": "Hon. K.Priyantha Fernando J.",
   "keywords": "Contract of service or Contract for service, Independent contractor or Employee, Control test, Integration Test, Economic reality test, Multiple test",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

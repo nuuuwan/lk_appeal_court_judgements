@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-02-03-CA-WRT-0021-2014",
   "num": "CA/WRT/0021/2014",
   "date_str": "2023-02-03",
   "description": "Kaalanchiyalage Lily Nona and others Vs Janaka Bandara Tennekoon, Minister of Lands and others before  Hon. MOHAMMED LAFFAR, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=87e8f760-ff24-4491-8ba2-710d987e295a&filename=writ-21-14%201.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14315",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=87e8f760-ff24-4491-8ba2-710d987e295a&filename=writ-21-14%201.pdf",
   "parties": "Kaalanchiyalage Lily Nona and others Vs Janaka Bandara Tennekoon, Minister of Lands and others",
   "judgement_by": " Hon. MOHAMMED LAFFAR, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

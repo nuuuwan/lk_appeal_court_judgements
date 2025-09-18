@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-04-08-CAPHC-85-2012",
   "num": "CAPHC 85/2012",
   "date_str": "2014-04-08",
   "description": "Mohomed Safayar Mohomed Vs. Wanninayake Mudiyanselage Chandana before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8c8a7925-2952-4d6c-a7f5-7f68047eee66&filename=ca_phc_kurunegala_85_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14540",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8c8a7925-2952-4d6c-a7f5-7f68047eee66&filename=ca_phc_kurunegala_85_2012.pdf",
   "parties": "Mohomed Safayar Mohomed Vs. Wanninayake Mudiyanselage Chandana",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

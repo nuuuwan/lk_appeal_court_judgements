@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-01-20-CAHCC-23-2018",
   "num": "CAHCC/23/2018",
   "date_str": "2022-01-20",
   "description": "Karunarathne Mudiyanselage Samantha Priyalal and Other Vs Hon. Attorney General before  Hon. N. Bandula Karunarathna ,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=550a7dc9-2a49-4b22-b504-a3b023e3c997&filename=judgement%20ca-hcc-0023-18%20%20edited%20fin.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14338",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=550a7dc9-2a49-4b22-b504-a3b023e3c997&filename=judgement%20ca-hcc-0023-18%20%20edited%20fin.pdf",
   "parties": "Karunarathne Mudiyanselage Samantha Priyalal and Other Vs Hon. Attorney General",
   "judgement_by": " Hon. N. Bandula Karunarathna ,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

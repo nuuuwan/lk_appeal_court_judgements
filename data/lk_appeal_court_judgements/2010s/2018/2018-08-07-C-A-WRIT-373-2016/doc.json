@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-08-07-C-A-WRIT-373-2016",
   "num": "C.A WRIT 373/2016",
   "date_str": "2018-08-07",
   "description": "G.H. Jagath Kantha De Silva Vs Divisional Secretary before  Hon Arjuna Obeyesekere, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=02b7d9da-dd2b-44f0-930c-4c886b56641a&filename=c.a%20writ%20%20373_2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14448",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=02b7d9da-dd2b-44f0-930c-4c886b56641a&filename=c.a%20writ%20%20373_2016.pdf",
   "parties": "G.H. Jagath Kantha De Silva Vs Divisional Secretary",
   "judgement_by": " Hon Arjuna Obeyesekere, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

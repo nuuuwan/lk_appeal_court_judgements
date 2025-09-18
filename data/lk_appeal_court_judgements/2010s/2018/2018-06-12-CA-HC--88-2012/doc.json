@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-06-12-CA-HC--88-2012",
   "num": "CA_HC_ 88/2012",
   "date_str": "2018-06-12",
   "description": "Pathirana Mudiyanselage Medagedara Nawarathna Banda Vs The Attorney General Hon S. Thurairaja, pc. J before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=10b93fad-963e-411e-b044-32d2f7743a42&filename=ca_hc_88_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14444",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=10b93fad-963e-411e-b044-32d2f7743a42&filename=ca_hc_88_2012.pdf",
   "parties": "Pathirana Mudiyanselage Medagedara Nawarathna Banda Vs The Attorney General Hon S. Thurairaja, pc. J",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

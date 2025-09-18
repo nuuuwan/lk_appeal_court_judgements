@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-03-03-CA-HCC-0185-2017",
   "num": "CA/HCC/0185/2017",
   "date_str": "2022-03-03",
   "description": "Mohomed Rasik Mohomad Minaur Alias Seenu Vs The Hon. Attorney General, Attorney General's Department before Hon. N. Bandula Karunarathna, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=631ca237-d22e-4022-80c6-faedcb7b622d&filename=edited%20185-17.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3909",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=631ca237-d22e-4022-80c6-faedcb7b622d&filename=edited%20185-17.pdf.pdf",
   "parties": "Mohomed Rasik Mohomad Minaur Alias Seenu Vs The Hon. Attorney General, Attorney General's Department",
   "judgement_by": "Hon. N. Bandula Karunarathna, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

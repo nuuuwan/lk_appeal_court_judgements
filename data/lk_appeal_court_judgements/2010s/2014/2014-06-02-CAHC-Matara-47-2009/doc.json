@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-06-02-CAHC-Matara-47-2009",
   "num": "CAHC Matara 47/2009",
   "date_str": "2014-06-02",
   "description": " before Samarasinghe Kankanamalage Sirisena Vs. The Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=72f21d24-0811-44e5-a294-a35ed031b0ad&filename=ca_hc_matara_47_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14544",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=72f21d24-0811-44e5-a294-a35ed031b0ad&filename=ca_hc_matara_47_2009.pdf",
   "parties": "",
   "judgement_by": "Samarasinghe Kankanamalage Sirisena Vs. The Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

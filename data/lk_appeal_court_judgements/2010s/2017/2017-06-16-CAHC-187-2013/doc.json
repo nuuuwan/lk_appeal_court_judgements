@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-06-16-CAHC-187-2013",
   "num": "CAHC 187/2013",
   "date_str": "2017-06-16",
   "description": "Suppiah Karupasamy Vs. Hon. Attorney General before  Hon. K.K. Wickremasinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=655914e5-7196-4660-b3d3-c693e7077e89&filename=ca_hc_187_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14471",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=655914e5-7196-4660-b3d3-c693e7077e89&filename=ca_hc_187_2013.pdf",
   "parties": "Suppiah Karupasamy Vs. Hon. Attorney General",
   "judgement_by": " Hon. K.K. Wickremasinghe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

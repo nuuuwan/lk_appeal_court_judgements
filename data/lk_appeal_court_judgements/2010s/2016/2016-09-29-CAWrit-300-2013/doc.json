@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-09-29-CAWrit-300-2013",
   "num": "CAWrit 300/2013",
   "date_str": "2016-09-29",
   "description": "Ceylon News Papers (private) Limited Vs. V.P.K. Weerasinghe & others before  Hon. P. Padman Surasena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=952f72d2-48ac-46a9-bb39-706254fc8db9&filename=ca_writ_300_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14502",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=952f72d2-48ac-46a9-bb39-706254fc8db9&filename=ca_writ_300_2013.pdf",
   "parties": "Ceylon News Papers (private) Limited Vs. V.P.K. Weerasinghe & others",
   "judgement_by": " Hon. P. Padman Surasena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

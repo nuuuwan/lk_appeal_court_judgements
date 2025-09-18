@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-05-03-C-A-WRIT-150-2015",
   "num": "C.A WRIT 150/2015",
   "date_str": "2019-05-03",
   "description": "K.L. Lakshman Vs Panadura Pradeshiya Sabha, Wadduwa and Others before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8348cc1e-a60a-41d5-a09c-5bd08e0972ec&filename=ca-writ-150-2015%202.5.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14419",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8348cc1e-a60a-41d5-a09c-5bd08e0972ec&filename=ca-writ-150-2015%202.5.2019.pdf",
   "parties": "K.L. Lakshman Vs Panadura Pradeshiya Sabha, Wadduwa and Others",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

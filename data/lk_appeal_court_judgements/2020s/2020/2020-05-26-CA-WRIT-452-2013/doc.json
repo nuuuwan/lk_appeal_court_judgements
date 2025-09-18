@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-05-26-CA-WRIT-452-2013",
   "num": "CA.WRIT/452/2013",
   "date_str": "2020-05-26",
   "description": "Seylan Bank PLC Vs Hon. Gamini Lokuge Minister of Labour and Others before  Hon. Janak De Silva J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=da5d53d1-d2a3-4bd6-b8fa-78c98ef15da1&filename=ca%20writ%20452-2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14396",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=da5d53d1-d2a3-4bd6-b8fa-78c98ef15da1&filename=ca%20writ%20452-2013.pdf",
   "parties": "Seylan Bank PLC Vs Hon. Gamini Lokuge Minister of Labour and Others",
   "judgement_by": " Hon. Janak De Silva J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-03-28-CA-HCC-102-104-18",
   "num": "CA/HCC/102/104/18",
   "date_str": "2023-03-28",
   "description": ".Abdul Hamid Mohamad Aslam and others Vs Hon. The Attorney General before  Hon. Sampath B. Abayakoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f0ea211c-2f0b-4dc2-98fa-834291020423&filename=hcc-0102-0104-18%20final%20judgment.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14317",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f0ea211c-2f0b-4dc2-98fa-834291020423&filename=hcc-0102-0104-18%20final%20judgment.pdf",
   "parties": ".Abdul Hamid Mohamad Aslam and others Vs Hon. The Attorney General",
   "judgement_by": " Hon. Sampath B. Abayakoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

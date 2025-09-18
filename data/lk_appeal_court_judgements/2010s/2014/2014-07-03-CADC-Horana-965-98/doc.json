@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-07-03-CADC-Horana-965-98",
   "num": "CADC Horana 965/98",
   "date_str": "2014-07-03",
   "description": "Kankanamge Gunadasa Vs. Don Matin Edirisinghe - K.T.Chitrasiri, J - Application for re-listing - Circumstances under which a re-listing application is refused before  duties of a lawyer in relation to an appeal",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4484751d-e97d-42bd-9fb6-b91b58e52dd0&filename=ca_dc_horana_965_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14548",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4484751d-e97d-42bd-9fb6-b91b58e52dd0&filename=ca_dc_horana_965_98.pdf",
   "parties": "Kankanamge Gunadasa Vs. Don Matin Edirisinghe - K.T.Chitrasiri, J - Application for re-listing - Circumstances under which a re-listing application is refused",
   "judgement_by": " duties of a lawyer in relation to an appeal",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

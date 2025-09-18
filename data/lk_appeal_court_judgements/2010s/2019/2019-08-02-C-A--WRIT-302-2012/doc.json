@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-08-02-C-A--WRIT-302-2012",
   "num": "C.A. WRIT/302/2012",
   "date_str": "2019-08-02",
   "description": "S. Ragavan and Others Vs Vadamarachy South-West Pradeshiya Sabha and Others before  Hon. Janak De Silva J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8f883835-7b85-42b7-864f-9644d7278a52&filename=c.a.%20writ_302_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14423",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8f883835-7b85-42b7-864f-9644d7278a52&filename=c.a.%20writ_302_2012.pdf",
   "parties": "S. Ragavan and Others Vs Vadamarachy South-West Pradeshiya Sabha and Others",
   "judgement_by": " Hon. Janak De Silva J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

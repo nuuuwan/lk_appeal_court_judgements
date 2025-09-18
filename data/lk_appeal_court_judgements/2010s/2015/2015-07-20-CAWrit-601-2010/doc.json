@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-07-20-CAWrit-601-2010",
   "num": "CAWrit 601/2010",
   "date_str": "2015-07-20",
   "description": "Dr.M .A.A.K.Munasinghe Vs. Rajarata University of Sri Lanka & others - Hon. K.T. Chitrasiri, J before  Violation of Rules of Natural Justice and procedural irregularities.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=45cf453e-1fee-4577-a191-81d5113e332c&filename=ca_writ_601_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14523",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=45cf453e-1fee-4577-a191-81d5113e332c&filename=ca_writ_601_2010.pdf",
   "parties": "Dr.M .A.A.K.Munasinghe Vs. Rajarata University of Sri Lanka & others - Hon. K.T. Chitrasiri, J",
   "judgement_by": " Violation of Rules of Natural Justice and procedural irregularities.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

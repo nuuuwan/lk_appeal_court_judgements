@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-11-25-CA-PHC--45-2016",
   "num": "CA(PHC) 45/2016",
   "date_str": "2022-11-25",
   "description": "Palliyaguruge Wickramapala Vs Hettithanthrige Shiromani Bernadetta Fernando and others before  Hon. Prasantha De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7c5d6270-75a7-499f-bc00-eee38ebe48b6&filename=ca%20phc%2045_2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14358",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7c5d6270-75a7-499f-bc00-eee38ebe48b6&filename=ca%20phc%2045_2016.pdf",
   "parties": "Palliyaguruge Wickramapala Vs Hettithanthrige Shiromani Bernadetta Fernando and others",
   "judgement_by": " Hon. Prasantha De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

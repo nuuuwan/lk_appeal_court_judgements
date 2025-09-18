@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-06-20-CAPHC-178-2003",
   "num": "CAPHC 178/2003",
   "date_str": "2016-06-20",
   "description": "P.G Heenhamy Vs. Assistant Commissioner of Agrarian Development, Hambantota before  Hon. L.T.B. Dehideniya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ffcef29c-4fed-449a-be2e-87321cc1bf0d&filename=ca_phc_178_2003.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14496",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ffcef29c-4fed-449a-be2e-87321cc1bf0d&filename=ca_phc_178_2003.pdf",
   "parties": "P.G Heenhamy Vs. Assistant Commissioner of Agrarian Development, Hambantota",
   "judgement_by": " Hon. L.T.B. Dehideniya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

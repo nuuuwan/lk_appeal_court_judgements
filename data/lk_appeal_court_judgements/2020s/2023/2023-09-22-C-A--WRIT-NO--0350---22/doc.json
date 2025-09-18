@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-09-22-C-A--WRIT-NO--0350---22",
   "num": "C.A. WRIT NO. 0350 - 22",
   "date_str": "2023-09-22",
   "description": "K . A. T. P. Jayasinghe and others Vs Kanchana Wijesekara Minister of Power & Energy Ministry of Power, and others - before HON. JUSTICE M.A.R. MARIKAR",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4999511a-defe-40ee-966e-0102f7d79c47&filename=Writ-0350-22.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=8485",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4999511a-defe-40ee-966e-0102f7d79c47&filename=Writ-0350-22.pdf.pdf",
   "parties": "K . A. T. P. Jayasinghe and others Vs Kanchana Wijesekara Minister of Power & Energy Ministry of Power, and others -",
   "judgement_by": "HON. JUSTICE M.A.R. MARIKAR",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

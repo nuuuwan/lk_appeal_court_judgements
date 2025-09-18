@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-07-03-CA-DC-1289-99",
   "num": "CA_DC_1289/99",
   "date_str": "2019-07-03",
   "description": "Hewa Gamage Gimarahami Vs. Ruwan Pathiranage Lalith Kumara before  Hon. Janak De Silva J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4c991ac9-4c3c-45bf-b389-a83fb6c2fe1e&filename=ca_dc_1289_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14421",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4c991ac9-4c3c-45bf-b389-a83fb6c2fe1e&filename=ca_dc_1289_99.pdf",
   "parties": "Hewa Gamage Gimarahami Vs. Ruwan Pathiranage Lalith Kumara",
   "judgement_by": " Hon. Janak De Silva J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-04-25-CAHC-244-2008",
   "num": "CAHC 244/2008",
   "date_str": "2017-04-25",
   "description": "Sundara Arachchige Lalith Rajapakshe Vs. Warnakulasuriya Mahawaduge Rohan Prasanga Peiris before  Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=30c021c3-b6f2-4ee1-bdc8-42adf86a5cdd&filename=ca_hc_244_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14467",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=30c021c3-b6f2-4ee1-bdc8-42adf86a5cdd&filename=ca_hc_244_2008.pdf",
   "parties": "Sundara Arachchige Lalith Rajapakshe Vs. Warnakulasuriya Mahawaduge Rohan Prasanga Peiris",
   "judgement_by": " Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

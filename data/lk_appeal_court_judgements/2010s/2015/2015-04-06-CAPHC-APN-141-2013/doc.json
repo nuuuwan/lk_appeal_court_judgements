@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-04-06-CAPHC-APN-141-2013",
   "num": "CAPHC APN 141/2013",
   "date_str": "2015-04-06",
   "description": "Asan Mohamad Rizwan Vs. Hon. Attorney General - Hon. K.T. Chitrasiri, J before  Sentencing policy in the administration of Criminal Justice System",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fee56a1b-f8bf-4b2c-9a15-da19a1b62dd1&filename=ca_phc_apn_141_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14515",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fee56a1b-f8bf-4b2c-9a15-da19a1b62dd1&filename=ca_phc_apn_141_2013.pdf",
   "parties": "Asan Mohamad Rizwan Vs. Hon. Attorney General - Hon. K.T. Chitrasiri, J",
   "judgement_by": " Sentencing policy in the administration of Criminal Justice System",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

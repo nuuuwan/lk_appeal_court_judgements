@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-02-12-CA-WRIT-433-2020-Ganesh-2ea83f0c",
   "num": "CA.WRIT/433/2020 Ganeshan Ajith Kumars Vs Hon. Mahinda Rajapaksa and Others - Hon. Arjuna Obeyesekere, J., P/CA",
   "date_str": "2021-02-12",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b0527c1e-b914-43a7-b6aa-ab8ba5132b52&filename=ca.wrt.433.20.final.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14365",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b0527c1e-b914-43a7-b6aa-ab8ba5132b52&filename=ca.wrt.433.20.final.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

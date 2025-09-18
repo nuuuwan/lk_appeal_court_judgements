@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-11-29-CA-BAL-56--2022",
   "num": "CA.BAL/56 /2022",
   "date_str": "2022-11-29",
   "description": "Chandrasiri Paranawitharana Vs Hon. Attorney General and another before  Hon. Menaka Wijesundera, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=452147c7-af68-4e70-ac67-c10b04bd52a5&filename=bal%20-%200056%20-%2022.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14358",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=452147c7-af68-4e70-ac67-c10b04bd52a5&filename=bal%20-%200056%20-%2022.pdf",
   "parties": "Chandrasiri Paranawitharana Vs Hon. Attorney General and another",
   "judgement_by": " Hon. Menaka Wijesundera, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

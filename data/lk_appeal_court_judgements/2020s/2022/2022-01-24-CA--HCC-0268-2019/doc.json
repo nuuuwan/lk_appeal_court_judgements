@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-01-24-CA--HCC-0268-2019",
   "num": "CA. HCC/0268/2019",
   "date_str": "2022-01-24",
   "description": "W. M. Aruna Shantha Mendis Vs The Hon. Attorney General before Hon. Sampath B. Abayakoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d8c89e6f-8f85-4ec3-bba2-86fb41a675d5&filename=hcc-268-19%20final%20judgment.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=2540",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d8c89e6f-8f85-4ec3-bba2-86fb41a675d5&filename=hcc-268-19%20final%20judgment.pdf.pdf",
   "parties": "W. M. Aruna Shantha Mendis Vs The Hon. Attorney General",
   "judgement_by": "Hon. Sampath B. Abayakoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

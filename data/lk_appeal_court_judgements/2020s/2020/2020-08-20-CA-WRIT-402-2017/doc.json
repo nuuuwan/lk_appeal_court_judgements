@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-08-20-CA-WRIT-402-2017",
   "num": "CA.WRIT/402/2017",
   "date_str": "2020-08-20",
   "description": "Aravandy Gangatharan Vs Condominium Management Authority And Others before  Hon. Arjuna Obeyesekere, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c87fcc37-017f-4fdd-8779-c0073df36d56&filename=ca.wrt_402_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14402",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c87fcc37-017f-4fdd-8779-c0073df36d56&filename=ca.wrt_402_2017.pdf",
   "parties": "Aravandy Gangatharan Vs Condominium Management Authority And Others",
   "judgement_by": " Hon. Arjuna Obeyesekere, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

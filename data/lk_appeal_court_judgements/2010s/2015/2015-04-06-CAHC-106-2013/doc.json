@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-04-06-CAHC-106-2013",
   "num": "CAHC 106/2013",
   "date_str": "2015-04-06",
   "description": "Pahanthiyage Predeep Chandana Peiris Vs. Hon. Attorney General before  Hon. P.W.D.C. Jayathilaka, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=af59eac1-b656-4ba4-984f-e04b32f2891d&filename=ca_hc_106_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14515",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=af59eac1-b656-4ba4-984f-e04b32f2891d&filename=ca_hc_106_2013.pdf",
   "parties": "Pahanthiyage Predeep Chandana Peiris Vs. Hon. Attorney General",
   "judgement_by": " Hon. P.W.D.C. Jayathilaka, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

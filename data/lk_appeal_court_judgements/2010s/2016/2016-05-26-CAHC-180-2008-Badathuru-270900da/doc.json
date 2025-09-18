@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-05-26-CAHC-180-2008-Badathuru-270900da",
   "num": "CAHC 180/2008 Badathuruge Kasun Jayarathne Vs. Hon. Attorney General - Hon. Vijith K. Malalgoda, P.C, J (P/CA)",
   "date_str": "2016-05-26",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=783ce91d-33d9-490c-9f1f-336801a73862&filename=ca_hc_180_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14494",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=783ce91d-33d9-490c-9f1f-336801a73862&filename=ca_hc_180_2008.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

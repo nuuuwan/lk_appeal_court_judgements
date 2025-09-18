@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-05-10-CA-PHC--49-2012",
   "num": "CA(PHC) 49/2012",
   "date_str": "2018-05-10",
   "description": "Lasanthi Rangana Malalasena,others Vs Mahathelge Sudath Krishan Dias before  Hon Janak De Silva J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=efef75cd-d860-4490-8948-98332fe4c4f5&filename=ca_phc_49_12.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14444",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=efef75cd-d860-4490-8948-98332fe4c4f5&filename=ca_phc_49_12.pdf",
   "parties": "Lasanthi Rangana Malalasena,others Vs Mahathelge Sudath Krishan Dias",
   "judgement_by": " Hon Janak De Silva J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

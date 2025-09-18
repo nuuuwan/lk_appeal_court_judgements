@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-07-10-CADC-713-2000",
   "num": "CADC 713/2000",
   "date_str": "2017-07-10",
   "description": "Hettiarachchige Dominic Marx Perera Vs. Kuruwita Arachchige Jeramious Perera & others before  Hon. A.H.M.D. Nawaz, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7987d9ae-6dba-4d18-bc45-25f57080d417&filename=ca_dc_colombo_713_00.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14463",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7987d9ae-6dba-4d18-bc45-25f57080d417&filename=ca_dc_colombo_713_00.pdf",
   "parties": "Hettiarachchige Dominic Marx Perera Vs. Kuruwita Arachchige Jeramious Perera & others",
   "judgement_by": " Hon. A.H.M.D. Nawaz, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

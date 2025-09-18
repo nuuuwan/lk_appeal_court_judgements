@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-03-26-CAPHC-APN-38-2012",
   "num": "CAPHC APN 38/2012",
   "date_str": "2014-03-26",
   "description": "D S Jayawardena Vs. L.Karunaratna & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=790c1a17-2691-4ab0-85dd-49ea65284a17&filename=ca_phc_apn_38_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14540",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=790c1a17-2691-4ab0-85dd-49ea65284a17&filename=ca_phc_apn_38_2012.pdf",
   "parties": "D S Jayawardena Vs. L.Karunaratna & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

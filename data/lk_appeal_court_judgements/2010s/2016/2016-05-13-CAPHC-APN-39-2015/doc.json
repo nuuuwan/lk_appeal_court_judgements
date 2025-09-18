@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-05-13-CAPHC-APN-39-2015",
   "num": "CAPHC APN 39/2015",
   "date_str": "2016-05-13",
   "description": "Liyanarachchige Indika Thusara Vs. Hon. Attorney General before  Hon. L.T.B. Dehideniya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=90336128-0e54-47c6-ae4c-b48e68fe61f0&filename=ca_phc_apn_39_2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14494",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=90336128-0e54-47c6-ae4c-b48e68fe61f0&filename=ca_phc_apn_39_2015.pdf",
   "parties": "Liyanarachchige Indika Thusara Vs. Hon. Attorney General",
   "judgement_by": " Hon. L.T.B. Dehideniya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

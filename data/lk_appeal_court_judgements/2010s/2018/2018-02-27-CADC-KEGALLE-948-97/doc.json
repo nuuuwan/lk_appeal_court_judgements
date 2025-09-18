@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-02-27-CADC-KEGALLE-948-97",
   "num": "CADC KEGALLE 948/97",
   "date_str": "2018-02-27",
   "description": "Dissanayake Lekamlage Nimal Jayatiss Vs. Dissanayaka Arachchilage Wickremanayake before  Hon. M.M.A. Gaffoor, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b01314ea-52bc-4ff8-8ede-0c2b3cda997d&filename=ca_dc_kegalle_948_1997.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14438",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b01314ea-52bc-4ff8-8ede-0c2b3cda997d&filename=ca_dc_kegalle_948_1997.pdf",
   "parties": "Dissanayake Lekamlage Nimal Jayatiss Vs. Dissanayaka Arachchilage Wickremanayake",
   "judgement_by": " Hon. M.M.A. Gaffoor, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

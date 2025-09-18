@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-04-08-CA--HCC-0259-2015",
   "num": "CA- HCC-0259/2015",
   "date_str": "2022-04-08",
   "description": "Aluthgedarage Ratnasiri alias Susil Vs Hon. The Attorney General before  Hon. N. Bandula Karunarathna J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6b1ff648-440a-4022-b25b-a4d6dd44d68f&filename=judgement%20-%20ca-hcc-259-2015%20edited%20f.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14344",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6b1ff648-440a-4022-b25b-a4d6dd44d68f&filename=judgement%20-%20ca-hcc-259-2015%20edited%20f.pdf",
   "parties": "Aluthgedarage Ratnasiri alias Susil Vs Hon. The Attorney General",
   "judgement_by": " Hon. N. Bandula Karunarathna J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-02-14-CAPHC-41-2011",
   "num": "CAPHC 41/2011",
   "date_str": "2017-02-14",
   "description": "Gardi Hewaage Sumanawathi Vs. Ratnapatambendige Nihal Weerawama Nilaweera before  Hon. L.T.B. Dehideniya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=daa0375c-671e-4a9c-87c5-6e766b7b0330&filename=ca_phc_41_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14463",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=daa0375c-671e-4a9c-87c5-6e766b7b0330&filename=ca_phc_41_2011.pdf",
   "parties": "Gardi Hewaage Sumanawathi Vs. Ratnapatambendige Nihal Weerawama Nilaweera",
   "judgement_by": " Hon. L.T.B. Dehideniya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

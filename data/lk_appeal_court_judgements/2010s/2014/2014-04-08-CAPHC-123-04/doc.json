@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-04-08-CAPHC-123-04",
   "num": "CAPHC 123/04",
   "date_str": "2014-04-08",
   "description": "Sunil Rideevita Vs. Simon Udawatta alias Punchi Mahathmaya & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8d43a189-87a4-4196-be30-27a96294f099&filename=ca_phc_rathnapura_123_04.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14540",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8d43a189-87a4-4196-be30-27a96294f099&filename=ca_phc_rathnapura_123_04.pdf",
   "parties": "Sunil Rideevita Vs. Simon Udawatta alias Punchi Mahathmaya & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

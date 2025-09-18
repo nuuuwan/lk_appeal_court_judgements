@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-05-CA-BAL-0051-22",
   "num": "CA.BAL/0051/22",
   "date_str": "2022-10-05",
   "description": "Sayyidu Ali Abdul Satthar Vs Hon. Attorney General And Others before  HON. MENAKA WIJESUNDERA J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=81c81dde-bc0d-450e-8181-f8ea09437aae&filename=bal%20-%200051%20-%2022.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=81c81dde-bc0d-450e-8181-f8ea09437aae&filename=bal%20-%200051%20-%2022.pdf",
   "parties": "Sayyidu Ali Abdul Satthar Vs Hon. Attorney General And Others",
   "judgement_by": " HON. MENAKA WIJESUNDERA J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

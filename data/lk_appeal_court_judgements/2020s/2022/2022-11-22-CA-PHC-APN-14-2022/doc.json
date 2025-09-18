@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-11-22-CA-PHC-APN-14-2022",
   "num": "CA.PHC/APN/14/2022",
   "date_str": "2022-11-22",
   "description": "Wannakuwaththa Waduge Miyoni Fernando Vs Hon. Attorney General and another before  Hon. Menaka Wijesundera, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2d283203-b0a4-4878-bc98-8f3d4777fca9&filename=cpa%20-%200014%20-%2022%20correct.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14358",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2d283203-b0a4-4878-bc98-8f3d4777fca9&filename=cpa%20-%200014%20-%2022%20correct.pdf",
   "parties": "Wannakuwaththa Waduge Miyoni Fernando Vs Hon. Attorney General and another",
   "judgement_by": " Hon. Menaka Wijesundera, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

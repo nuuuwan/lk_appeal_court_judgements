@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-03-28-CA-WRIT-290-2017",
   "num": "CA/WRIT/290/2017",
   "date_str": "2023-03-28",
   "description": "MohomedCassum Haleem and another Vs. Seylan Bank PLC and others before  Hon. Sobhitha Rajakaruna J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b2f9187e-b213-4606-bade-d983c0908f5a&filename=ca%20writ%20290-2017%20n%201.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14315",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b2f9187e-b213-4606-bade-d983c0908f5a&filename=ca%20writ%20290-2017%20n%201.pdf",
   "parties": "MohomedCassum Haleem and another Vs. Seylan Bank PLC and others",
   "judgement_by": " Hon. Sobhitha Rajakaruna J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-05-28-C-A-WRIT-23-2016",
   "num": "C.A WRIT 23/2016",
   "date_str": "2020-05-28",
   "description": "Swadeshi Marketing (Pvt) Limited Vs The Commissioner of Labour and Others before  Hon Janak De Silva,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7a4ca528-3f34-4cd9-a5a4-be7d440a8b54&filename=ca%20writ%2023-2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14396",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7a4ca528-3f34-4cd9-a5a4-be7d440a8b54&filename=ca%20writ%2023-2016.pdf",
   "parties": "Swadeshi Marketing (Pvt) Limited Vs The Commissioner of Labour and Others",
   "judgement_by": " Hon Janak De Silva,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

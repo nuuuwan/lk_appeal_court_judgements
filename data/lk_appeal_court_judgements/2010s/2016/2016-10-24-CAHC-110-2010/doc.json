@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-10-24-CAHC-110-2010",
   "num": "CAHC 110/2010",
   "date_str": "2016-10-24",
   "description": "Mohomed Nimo Siyod Ameen Alias Nimo Vs. Democratic Socialists Republic of Sri Lanka before  Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f80045cb-bd22-4faa-ad10-05f64b8d047a&filename=ca_hc_110_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14504",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f80045cb-bd22-4faa-ad10-05f64b8d047a&filename=ca_hc_110_2010.pdf",
   "parties": "Mohomed Nimo Siyod Ameen Alias Nimo Vs. Democratic Socialists Republic of Sri Lanka",
   "judgement_by": " Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

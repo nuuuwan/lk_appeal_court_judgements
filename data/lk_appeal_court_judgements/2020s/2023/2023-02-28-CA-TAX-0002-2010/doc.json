@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-02-28-CA-TAX-0002-2010",
   "num": "CA/TAX/0002/2010",
   "date_str": "2023-02-28",
   "description": "SriLankan Airlines Limited, Airline Centre Vs The Commissioner General of Inland Revenue before Hon. Dr. Ruwan Fernando, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d4907225-9d6c-418e-9686-5c801eb015ee&filename=CA%20Tax%202-2010%20=BOI-Time%20Bar-Tax%20Amnesty-%2028.02.2023.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=7392",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d4907225-9d6c-418e-9686-5c801eb015ee&filename=CA%20Tax%202-2010%20=BOI-Time%20Bar-Tax%20Amnesty-%2028.02.2023.pdf.pdf",
   "parties": "SriLankan Airlines Limited, Airline Centre Vs The Commissioner General of Inland Revenue",
   "judgement_by": "Hon. Dr. Ruwan Fernando, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

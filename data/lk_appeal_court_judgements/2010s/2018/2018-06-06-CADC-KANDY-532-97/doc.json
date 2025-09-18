@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-06-06-CADC-KANDY-532-97",
   "num": "CADC KANDY 532/97",
   "date_str": "2018-06-06",
   "description": "Rajapakse Walimuni Mudiyanselage Biso Menike Vs. Wilwara Mudiyanselage Subadda Wijesuriya before  Hon. M.M.A.Gaffoor,J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=996dfebc-dfb6-417d-91bb-e0f5d938d67a&filename=ca_dc_kandy_532_1997.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14444",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=996dfebc-dfb6-417d-91bb-e0f5d938d67a&filename=ca_dc_kandy_532_1997.pdf",
   "parties": "Rajapakse Walimuni Mudiyanselage Biso Menike Vs. Wilwara Mudiyanselage Subadda Wijesuriya",
   "judgement_by": " Hon. M.M.A.Gaffoor,J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

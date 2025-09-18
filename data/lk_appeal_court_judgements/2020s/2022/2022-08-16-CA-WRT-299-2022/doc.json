@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-08-16-CA-WRT-299-2022",
   "num": "CA.WRT/299/2022",
   "date_str": "2022-08-16",
   "description": "Ms. Kayleigh Frazer Vs Commissioner General of Immigration And Another before  Hon. Sobhitha Rajakaruna J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fc2dbfb6-8878-4ecc-822a-ab9e2a369bf6&filename=ca%20writ%20299-2022.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14352",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fc2dbfb6-8878-4ecc-822a-ab9e2a369bf6&filename=ca%20writ%20299-2022.pdf",
   "parties": "Ms. Kayleigh Frazer Vs Commissioner General of Immigration And Another",
   "judgement_by": " Hon. Sobhitha Rajakaruna J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

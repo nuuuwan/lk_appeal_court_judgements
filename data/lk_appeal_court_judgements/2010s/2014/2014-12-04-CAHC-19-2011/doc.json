@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-12-04-CAHC-19-2011",
   "num": "CAHC 19/2011",
   "date_str": "2014-12-04",
   "description": "Dinesh Chathuranga Jayamanna Vs. Hon. Attorney General before  Hon. Anil Goonerathne, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ed72668e-9cc5-42f0-8594-396cba779455&filename=ca_hc_19_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14556",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ed72668e-9cc5-42f0-8594-396cba779455&filename=ca_hc_19_2011.pdf",
   "parties": "Dinesh Chathuranga Jayamanna Vs. Hon. Attorney General",
   "judgement_by": " Hon. Anil Goonerathne, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-07-18-CAHC-80-2012",
   "num": "CAHC 80/2012",
   "date_str": "2017-07-18",
   "description": "Suntharam Imayakanth Vs. Hon. Attorney General before  Hon. K.K. Wickremasinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=52171c99-383d-4f94-8c8c-6e6deab3aea1&filename=ca_hc_80_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14473",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=52171c99-383d-4f94-8c8c-6e6deab3aea1&filename=ca_hc_80_2012.pdf",
   "parties": "Suntharam Imayakanth Vs. Hon. Attorney General",
   "judgement_by": " Hon. K.K. Wickremasinghe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

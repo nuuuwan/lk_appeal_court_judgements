@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-11-18-C-A-HCC-77-2014-Nimal-P-0a3d5606",
   "num": "C.A HCC 77/2014 Nimal Pinsiri Godakandeniyage alias Nimal Pinsiri Vs Honourable Attorney General - Hon. Jus tice Yasantha Kodagoda, PC, P/CA.",
   "date_str": "2019-11-18",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6c9f1d48-bd4b-45bc-a783-5b36b8d59c0e&filename=ca_hc_77_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14431",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6c9f1d48-bd4b-45bc-a783-5b36b8d59c0e&filename=ca_hc_77_2014.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-02-06-CA-PHC--38-2016",
   "num": "CA(PHC) 38/2016",
   "date_str": "2023-02-06",
   "description": "- Ranepurahewa Mulin, Vs Kaluwadeva Ruwan Handapangoda before  Hon. Prasantha De Silva, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cc5cd615-4f54-48c1-9881-416cf6911f56&filename=ca%20phc%2038_2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14315",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cc5cd615-4f54-48c1-9881-416cf6911f56&filename=ca%20phc%2038_2016.pdf",
   "parties": "- Ranepurahewa Mulin, Vs Kaluwadeva Ruwan Handapangoda",
   "judgement_by": " Hon. Prasantha De Silva, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

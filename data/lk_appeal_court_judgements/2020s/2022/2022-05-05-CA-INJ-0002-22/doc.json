@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-05-05-CA-INJ-0002-22",
   "num": "CA.INJ/0002/22",
   "date_str": "2022-05-05",
   "description": "Subasinghe Contractors (Pvt) Ltd Vs Hon. Mahinda Rajapaksa And Others before  Hon. Pradeep Kirtisinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e4bc2154-bfdd-46d0-a482-d5a2858aea05&filename=ca%20injunctions%2002-2022.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14344",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e4bc2154-bfdd-46d0-a482-d5a2858aea05&filename=ca%20injunctions%2002-2022.pdf",
   "parties": "Subasinghe Contractors (Pvt) Ltd Vs Hon. Mahinda Rajapaksa And Others",
   "judgement_by": " Hon. Pradeep Kirtisinghe, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

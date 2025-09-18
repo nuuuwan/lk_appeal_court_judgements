@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-03-10-CAHC-216-2012",
   "num": "CAHC 216/2012",
   "date_str": "2015-03-10",
   "description": "Sathasivam Chandrakanthan Vs. Hon. Attorney General before  Hon. P.W.D.C. Jayathilaka, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1908df33-f002-4597-ae5d-eb5d6d7b0335&filename=ca_hc_216_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14513",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1908df33-f002-4597-ae5d-eb5d6d7b0335&filename=ca_hc_216_2012.pdf",
   "parties": "Sathasivam Chandrakanthan Vs. Hon. Attorney General",
   "judgement_by": " Hon. P.W.D.C. Jayathilaka, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

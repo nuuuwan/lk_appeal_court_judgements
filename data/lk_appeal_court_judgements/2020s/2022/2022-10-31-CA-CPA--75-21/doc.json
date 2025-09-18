@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-31-CA-CPA--75-21",
   "num": "CA.CPA /75/21",
   "date_str": "2022-10-31",
   "description": "Shanthi Perera Vs The Hon. Attorney General and another before  Hon. Neil Iddawala, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b0cd9e73-4f53-4d1d-838d-6f630b0c8ac9&filename=cpa-75-21.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b0cd9e73-4f53-4d1d-838d-6f630b0c8ac9&filename=cpa-75-21.pdf",
   "parties": "Shanthi Perera Vs The Hon. Attorney General and another",
   "judgement_by": " Hon. Neil Iddawala, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

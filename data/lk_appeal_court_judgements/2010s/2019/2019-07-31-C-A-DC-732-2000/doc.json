@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-07-31-C-A-DC-732-2000",
   "num": "C.A DC 732/2000",
   "date_str": "2019-07-31",
   "description": "Manannelage Premadasa Vs Manannelage Somasiri and Others before  Hon A.H.M.D. Nawaz,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bba63080-91a6-4e98-a0df-9632595bc952&filename=c.a%20dc%20%20%20732_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14458",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bba63080-91a6-4e98-a0df-9632595bc952&filename=c.a%20dc%20%20%20732_2000.pdf",
   "parties": "Manannelage Premadasa Vs Manannelage Somasiri and Others",
   "judgement_by": " Hon A.H.M.D. Nawaz,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-03-31-C-A-HCC-141-2015",
   "num": "C.A HCC/141/2015",
   "date_str": "2021-03-31",
   "description": "Mohamed Rasheed Hasan Vs Hon Attorney General before  Hon. R. Gurusinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e7638076-fece-4da2-81eb-6e5cea758f04&filename=hcc_141_2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14365",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e7638076-fece-4da2-81eb-6e5cea758f04&filename=hcc_141_2015.pdf",
   "parties": "Mohamed Rasheed Hasan Vs Hon Attorney General",
   "judgement_by": " Hon. R. Gurusinghe, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-03-03-CA-CPA-0008-21",
   "num": "CA/CPA/0008/21",
   "date_str": "2021-03-03",
   "description": "Ranjith Paul Perera Vs Hon Attorney General and Other before Hon. Menaka Wijesundera J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=62360640-a4d3-45b2-8381-94f3c8cc0a81&filename=ca.%20cpa-08-2021.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9822",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=62360640-a4d3-45b2-8381-94f3c8cc0a81&filename=ca.%20cpa-08-2021.pdf.pdf",
   "parties": "Ranjith Paul Perera Vs Hon Attorney General and Other",
   "judgement_by": "Hon. Menaka Wijesundera J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

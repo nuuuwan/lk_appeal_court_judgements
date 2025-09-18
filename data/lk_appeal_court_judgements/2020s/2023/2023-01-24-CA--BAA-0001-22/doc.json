@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-01-24-CA--BAA-0001-22",
   "num": "CA/ BAA/0001/22",
   "date_str": "2023-01-24",
   "description": "Thewa Hettige Upali Lakshman Silva Vs Officer in-Charge, Chief Inspector of Police, Police Station, Pannala and others before  Hon. Iddawala \u2013 J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=40cbe18a-91b0-4ce8-b39b-09bccdb3ff14&filename=3.24012023-ca-baa-01-22.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14313",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=40cbe18a-91b0-4ce8-b39b-09bccdb3ff14&filename=3.24012023-ca-baa-01-22.pdf",
   "parties": "Thewa Hettige Upali Lakshman Silva Vs Officer in-Charge, Chief Inspector of Police, Police Station, Pannala and others",
   "judgement_by": " Hon. Iddawala \u2013 J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

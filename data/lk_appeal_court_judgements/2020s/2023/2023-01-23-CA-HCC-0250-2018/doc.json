@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-01-23-CA-HCC-0250-2018",
   "num": "CA/HCC/0250/2018",
   "date_str": "2023-01-23",
   "description": "Hon. The Attorney General Vs Selvakumar Sathyaleela alias Sathya before  Hon. Sampath B Abayakoon, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a936e419-5816-4c1f-b672-b9865e0bf428&filename=hcc-0250-2018%20final%20judgment%20new.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14313",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a936e419-5816-4c1f-b672-b9865e0bf428&filename=hcc-0250-2018%20final%20judgment%20new.pdf",
   "parties": "Hon. The Attorney General Vs Selvakumar Sathyaleela alias Sathya",
   "judgement_by": " Hon. Sampath B Abayakoon, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

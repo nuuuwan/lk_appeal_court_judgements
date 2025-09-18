@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-10-12-CADC-154-99",
   "num": "CADC 154/99",
   "date_str": "2017-10-12",
   "description": "Semgodan Arumugam & others Vs. Danasuriyalage Vinitha Rupasinghe & others before  Hon. S. Devika De L. Tennekoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4612c014-623c-419e-8326-b5f4083c885d&filename=ca_dc_154_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14477",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4612c014-623c-419e-8326-b5f4083c885d&filename=ca_dc_154_99.pdf",
   "parties": "Semgodan Arumugam & others Vs. Danasuriyalage Vinitha Rupasinghe & others",
   "judgement_by": " Hon. S. Devika De L. Tennekoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

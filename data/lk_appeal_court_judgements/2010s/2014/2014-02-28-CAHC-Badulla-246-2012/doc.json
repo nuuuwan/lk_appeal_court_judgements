@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-02-28-CAHC-Badulla-246-2012",
   "num": "CAHC Badulla 246/2012",
   "date_str": "2014-02-28",
   "description": " before H.M. Karunaratne alias Danapala. Vs. The Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=efd45a30-87bc-45c1-81e6-e42c05beaa64&filename=ca_hc_badulla_246_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14538",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=efd45a30-87bc-45c1-81e6-e42c05beaa64&filename=ca_hc_badulla_246_2012.pdf",
   "parties": "",
   "judgement_by": "H.M. Karunaratne alias Danapala. Vs. The Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

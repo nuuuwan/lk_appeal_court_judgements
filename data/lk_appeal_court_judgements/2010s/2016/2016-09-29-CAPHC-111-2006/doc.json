@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-09-29-CAPHC-111-2006",
   "num": "CAPHC 111/2006",
   "date_str": "2016-09-29",
   "description": "Pinwatththa Wedaralalage Wimalasekara Vs. Damme Arachchilage Ubayasena & others before  Hon. H.C.J. Madawala, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dc4de82a-a834-4f67-8a58-3e2fba355d57&filename=ca_phc_111_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14502",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dc4de82a-a834-4f67-8a58-3e2fba355d57&filename=ca_phc_111_2006.pdf",
   "parties": "Pinwatththa Wedaralalage Wimalasekara Vs. Damme Arachchilage Ubayasena & others",
   "judgement_by": " Hon. H.C.J. Madawala, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-08-04-CAHC-49-2012",
   "num": "CAHC 49/2012",
   "date_str": "2017-08-04",
   "description": "Ussain Sahibu Mohammed Jawfer Vs. Hon. Attorney General before  Hon. L.U. Jayasuriya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=05c122aa-8181-47ed-ba90-5ebf2e8a5e67&filename=ca_hc_49_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14475",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=05c122aa-8181-47ed-ba90-5ebf2e8a5e67&filename=ca_hc_49_2012.pdf",
   "parties": "Ussain Sahibu Mohammed Jawfer Vs. Hon. Attorney General",
   "judgement_by": " Hon. L.U. Jayasuriya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

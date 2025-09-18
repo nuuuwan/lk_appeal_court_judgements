@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-05-01-CADC-COLOMBO-696-1997",
   "num": "CADC COLOMBO 696/1997",
   "date_str": "2018-05-01",
   "description": "Wanniarachchige Susila Piyawathi Vs. P.A. Lily Fonseka before  Hon. A.H.M.D. Nawaz, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1aa8d8dc-8ccd-4ae2-b13a-a6e940050f5f&filename=ca_dc_colombo_696_1997.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14461",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1aa8d8dc-8ccd-4ae2-b13a-a6e940050f5f&filename=ca_dc_colombo_696_1997.pdf",
   "parties": "Wanniarachchige Susila Piyawathi Vs. P.A. Lily Fonseka",
   "judgement_by": " Hon. A.H.M.D. Nawaz, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

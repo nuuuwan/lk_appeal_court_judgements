@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-01-27-CAPHC-APN-106-2013",
   "num": "CAPHC APN 106/2013",
   "date_str": "2015-01-27",
   "description": "Peoples Leasing Company Limited Vs. W. M. Prasanna Pushpakumara - Hon. K.T. Chitrasiri, J before  Claim of a vehicle involved in committing an offence under the Forest Ordinance by the absolute owner of a vehicle.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=65b1e87b-7402-44c7-9bd5-fa3616722da7&filename=ca_phc_apn_106_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14511",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=65b1e87b-7402-44c7-9bd5-fa3616722da7&filename=ca_phc_apn_106_2013.pdf",
   "parties": "Peoples Leasing Company Limited Vs. W. M. Prasanna Pushpakumara - Hon. K.T. Chitrasiri, J",
   "judgement_by": " Claim of a vehicle involved in committing an offence under the Forest Ordinance by the absolute owner of a vehicle.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-08-01-CA-HCC-241-2023",
   "num": "CA/HCC/241/2023",
   "date_str": "2024-08-01",
   "description": "Samarawickrama Liyanage Nandasena Vs Hon. Attorney General and other before Hon. Menaka Wijesundera J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8cd9e72f-b1e0-41b9-858c-a7122d5d0292&filename=CA-HCC-241-23.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10830",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8cd9e72f-b1e0-41b9-858c-a7122d5d0292&filename=CA-HCC-241-23.pdf.pdf",
   "parties": "Samarawickrama Liyanage Nandasena Vs Hon. Attorney General and other",
   "judgement_by": "Hon. Menaka Wijesundera J.",
   "keywords": "Fair trial, Credibility of prosecution witness, Circumstantial evidence",
-  "legistation": "Penal Code, Evidence Ordinance, Criminal Procedure Code.",
-  "lang": "en"
+  "legistation": "Penal Code, Evidence Ordinance, Criminal Procedure Code."
 }

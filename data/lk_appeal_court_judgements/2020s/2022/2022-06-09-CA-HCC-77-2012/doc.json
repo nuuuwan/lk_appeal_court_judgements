@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-06-09-CA-HCC-77-2012",
   "num": "CA.HCC/77/2012",
   "date_str": "2022-06-09",
   "description": "Rajapurage Sugath Weeraratne And Another Vs The Honourable Attorney General before  Hon. R. Gurusinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=368aeba9-cfb6-410d-97f8-6f8b01bf86a8&filename=77-12edited.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14348",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=368aeba9-cfb6-410d-97f8-6f8b01bf86a8&filename=77-12edited.pdf",
   "parties": "Rajapurage Sugath Weeraratne And Another Vs The Honourable Attorney General",
   "judgement_by": " Hon. R. Gurusinghe, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

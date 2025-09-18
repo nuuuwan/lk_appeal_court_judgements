@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-08-07-CA-APN-91-2003",
   "num": "CA.APN/91/2003",
   "date_str": "2020-08-07",
   "description": "Mohamedthamby Uthumalebbe Vs The Commissioner of Agrarian Sefvices and Others before  Hon. Dr. Ruwan Fernando. J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=65837e81-71c7-4234-8b64-2bcb0ce1ebc6&filename=ca.%20%20apn_91_2003.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14402",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=65837e81-71c7-4234-8b64-2bcb0ce1ebc6&filename=ca.%20%20apn_91_2003.pdf",
   "parties": "Mohamedthamby Uthumalebbe Vs The Commissioner of Agrarian Sefvices and Others",
   "judgement_by": " Hon. Dr. Ruwan Fernando. J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

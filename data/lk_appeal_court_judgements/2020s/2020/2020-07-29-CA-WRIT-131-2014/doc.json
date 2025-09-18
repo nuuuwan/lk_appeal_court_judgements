@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-07-29-CA-WRIT-131-2014",
   "num": "CA.WRIT/131/2014",
   "date_str": "2020-07-29",
   "description": "Attanayake Mudiyanselage Punchibanda Vs M. M. S. K. Bandara Mapa and Others before  Hon. Mahinda Samayawardhena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=daa5c148-31a8-437e-b22a-ff368fc329a2&filename=ca-writ-131-2014%2028.7.2020.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14400",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=daa5c148-31a8-437e-b22a-ff368fc329a2&filename=ca-writ-131-2014%2028.7.2020.pdf",
   "parties": "Attanayake Mudiyanselage Punchibanda Vs M. M. S. K. Bandara Mapa and Others",
   "judgement_by": " Hon. Mahinda Samayawardhena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-03-22-CA--HCC--0264-2017",
   "num": "CA. HCC /0264/2017",
   "date_str": "2022-03-22",
   "description": "Kodithuwakku Arachchige Premila Saranga alias Henegama Rathnasiri Vs The Hon. Attorney General before Hon. P. Kumararatnam, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6c907dbd-6d0c-4086-96f3-866099e3716d&filename=court%20of%20appeal%20judgment%20hcc-264.17%20%281%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3909",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6c907dbd-6d0c-4086-96f3-866099e3716d&filename=court%20of%20appeal%20judgment%20hcc-264.17%20%281%29.pdf.pdf",
   "parties": "Kodithuwakku Arachchige Premila Saranga alias Henegama Rathnasiri Vs The Hon. Attorney General",
   "judgement_by": "Hon. P. Kumararatnam, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

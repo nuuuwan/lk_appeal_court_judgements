@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-01-26-CA-WRIT-369-2020",
   "num": "CA/WRIT/369/2020",
   "date_str": "2023-01-26",
   "description": "Ven. Bambarawane Saddhathissa Vs. Raja Manthreelage Thilak Rajapaksha & Others before  Hon. B. Sasi Mahendran, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e73d4ae5-c6ae-4d74-b63b-252ee178d463&filename=ca-wrt-%20369-20%20judgment.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14313",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e73d4ae5-c6ae-4d74-b63b-252ee178d463&filename=ca-wrt-%20369-20%20judgment.pdf",
   "parties": "Ven. Bambarawane Saddhathissa Vs. Raja Manthreelage Thilak Rajapaksha & Others",
   "judgement_by": " Hon. B. Sasi Mahendran, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

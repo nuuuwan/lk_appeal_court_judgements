@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-11-17-WRT-0111-2022",
   "num": "WRT-0111-2022",
   "date_str": "2022-11-17",
   "description": "K. A. D. T. Kulawansa Vs University of Moratuwa and others before Hon. Sobhitha Rajakaruna J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fc472abe-11b1-43d5-8d40-d5f5f13eade1&filename=CA%20Writ%20111-2022%20-%20New.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3957",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fc472abe-11b1-43d5-8d40-d5f5f13eade1&filename=CA%20Writ%20111-2022%20-%20New.pdf.pdf",
   "parties": "K. A. D. T. Kulawansa Vs University of Moratuwa and others",
   "judgement_by": "Hon. Sobhitha Rajakaruna J.",
   "keywords": "Termination of services, period of probation, letter of appointment, satisfactory service, disciplinary grounds, offences under University Establishments Code",
-  "legistation": "Universities Act No.16 of 1978 (as amended) University Establishments Code",
-  "lang": "en"
+  "legistation": "Universities Act No.16 of 1978 (as amended) University Establishments Code"
 }

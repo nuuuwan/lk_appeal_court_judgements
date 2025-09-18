@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-09-16-CA-WRIT-379-17",
   "num": "CA/WRIT/379/17",
   "date_str": "2022-09-16",
   "description": "V. Upul Nishantha Vs Prof. Rohan Fernando Director-General Geological Survey and Mines Bureau and others before  Hon. Mayadunne Corea, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=744d12e4-d4bc-4245-b445-120be482d9f1&filename=ca%20writ%20379-%2017%202.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14346",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=744d12e4-d4bc-4245-b445-120be482d9f1&filename=ca%20writ%20379-%2017%202.pdf",
   "parties": "V. Upul Nishantha Vs Prof. Rohan Fernando Director-General Geological Survey and Mines Bureau and others",
   "judgement_by": " Hon. Mayadunne Corea, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

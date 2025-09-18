@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-07-15-C-A--WRIT-384-2018",
   "num": "C.A. WRIT/384/2018",
   "date_str": "2020-07-15",
   "description": "Sanath Lalantha Peiris and Others Vs R. Semasinghe and Others before  Hon. Mahinda Samayawardhena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9caf09ca-0819-467b-926e-da2ecfafc3aa&filename=ca-writ-384-2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14400",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9caf09ca-0819-467b-926e-da2ecfafc3aa&filename=ca-writ-384-2018.pdf",
   "parties": "Sanath Lalantha Peiris and Others Vs R. Semasinghe and Others",
   "judgement_by": " Hon. Mahinda Samayawardhena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

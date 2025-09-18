@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-10-10-CAPHC-181-2011",
   "num": "CAPHC 181/2011",
   "date_str": "2017-10-10",
   "description": "Warnadhipathiya Kurukulasuriya Paththini Hennadige Indrajith Rodrigo Vs. Eulin Hemalatha Perera & others before  Hon. P. Padman Surasena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9183149c-5b27-44ed-9da0-48c64cf980ea&filename=ca_phc_181_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14479",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9183149c-5b27-44ed-9da0-48c64cf980ea&filename=ca_phc_181_2011.pdf",
   "parties": "Warnadhipathiya Kurukulasuriya Paththini Hennadige Indrajith Rodrigo Vs. Eulin Hemalatha Perera & others",
   "judgement_by": " Hon. P. Padman Surasena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

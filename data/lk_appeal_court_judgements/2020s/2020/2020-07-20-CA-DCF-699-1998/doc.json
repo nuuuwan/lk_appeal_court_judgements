@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-07-20-CA-DCF-699-1998",
   "num": "CA.DCF/699/1998",
   "date_str": "2020-07-20",
   "description": "Wickramarachchige Sumanawathie Vs Ranathun Arachchilage Gedara Ukku Menika and Others before  Hon. Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=28975c60-0d7d-4fd9-bf3e-30cb44d99f00&filename=ca-dcf-699-1998%2020.7.2020.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14400",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=28975c60-0d7d-4fd9-bf3e-30cb44d99f00&filename=ca-dcf-699-1998%2020.7.2020.pdf",
   "parties": "Wickramarachchige Sumanawathie Vs Ranathun Arachchilage Gedara Ukku Menika and Others",
   "judgement_by": " Hon. Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

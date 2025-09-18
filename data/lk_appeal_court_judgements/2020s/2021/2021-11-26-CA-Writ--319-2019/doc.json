@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-11-26-CA-Writ--319-2019",
   "num": "CA/Writ /319/2019",
   "date_str": "2021-11-26",
   "description": "Kiringoda Mudalige Renuka Chandrakanthi Vs JebaraJ Krishnamoorthy, Food Commissioner before  Hon . Dhammika Ganepola, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=810a493f-2938-48b2-bd3a-09fa191de41d&filename=writ-319-2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14383",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=810a493f-2938-48b2-bd3a-09fa191de41d&filename=writ-319-2019.pdf",
   "parties": "Kiringoda Mudalige Renuka Chandrakanthi Vs JebaraJ Krishnamoorthy, Food Commissioner",
   "judgement_by": " Hon . Dhammika Ganepola, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

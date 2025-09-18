@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-05-30-CA--HCC--0139-140-2016",
   "num": "CA. HCC/ 0139-140/2016",
   "date_str": "2022-05-30",
   "description": "W.P. Palitha Sarath Kumara And Another Vs The Hon. Attorney General before Hon. N. Bandula Karunarathna J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f12e77cf-34b6-43ac-b8aa-9dee7d2010dc&filename=judgement%20ca%20-%20hcc-139%20%20-%20140%20-%202016%20edited%20finally%2030.5.22%201.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3921",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f12e77cf-34b6-43ac-b8aa-9dee7d2010dc&filename=judgement%20ca%20-%20hcc-139%20%20-%20140%20-%202016%20edited%20finally%2030.5.22%201.pdf.pdf",
   "parties": "W.P. Palitha Sarath Kumara And Another Vs The Hon. Attorney General",
   "judgement_by": "Hon. N. Bandula Karunarathna J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

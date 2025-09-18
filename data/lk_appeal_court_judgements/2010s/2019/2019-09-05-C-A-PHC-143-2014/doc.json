@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-09-05-C-A-PHC-143-2014",
   "num": "C.A PHC/143/2014",
   "date_str": "2019-09-05",
   "description": "Dasanayake Mudiyanselage Karunawathie Menike and others Vs Officer in Charge Police Station and other before  Hon. Janak De Silva J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=287c319f-575b-459a-a0f6-36f8cf2fc710&filename=c.a.%20phc_143_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14427",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=287c319f-575b-459a-a0f6-36f8cf2fc710&filename=c.a.%20phc_143_2014.pdf",
   "parties": "Dasanayake Mudiyanselage Karunawathie Menike and others Vs Officer in Charge Police Station and other",
   "judgement_by": " Hon. Janak De Silva J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

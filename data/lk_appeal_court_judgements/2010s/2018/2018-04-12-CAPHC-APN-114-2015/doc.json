@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-04-12-CAPHC-APN-114-2015",
   "num": "CAPHC APN 114/2015",
   "date_str": "2018-04-12",
   "description": "Kalabandanage Sumedha Lakmal Vs . Hon. Attorney General before  Hon. K.K. Wickremasinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=90a5adb8-9107-48a7-8e4f-9f57520482a8&filename=ca_phc_apn_114_15.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14438",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=90a5adb8-9107-48a7-8e4f-9f57520482a8&filename=ca_phc_apn_114_15.pdf",
   "parties": "Kalabandanage Sumedha Lakmal Vs . Hon. Attorney General",
   "judgement_by": " Hon. K.K. Wickremasinghe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

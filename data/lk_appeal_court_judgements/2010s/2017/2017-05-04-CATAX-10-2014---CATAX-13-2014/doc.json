@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-05-04-CATAX-10-2014---CATAX-13-2014",
   "num": "CATAX 10/2014 & CATAX 13/2014",
   "date_str": "2017-05-04",
   "description": "The Commissioner General of Inland Revenue & another Vs. Seylan Development PLC before  Hon. P. Padman Surasena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=45bd0d8d-1ac0-478f-9310-90ec9ad9af15&filename=ca_tax_10_2014_ca_tax_13_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14467",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=45bd0d8d-1ac0-478f-9310-90ec9ad9af15&filename=ca_tax_10_2014_ca_tax_13_2014.pdf",
   "parties": "The Commissioner General of Inland Revenue & another Vs. Seylan Development PLC",
   "judgement_by": " Hon. P. Padman Surasena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

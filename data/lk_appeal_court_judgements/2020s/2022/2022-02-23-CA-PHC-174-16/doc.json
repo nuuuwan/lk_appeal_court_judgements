@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-02-23-CA-PHC-174-16",
   "num": "CA.PHC/174/16",
   "date_str": "2022-02-23",
   "description": "M.S.U. Fazal and others Vs P.H.T. Silva, Namal Karunathilake before  Hon.K.K.A.V. Swarnadhipathi, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=be1b095c-35f8-4a66-8a06-b1bb999a09a2&filename=ca%20phc%20174-16.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14340",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=be1b095c-35f8-4a66-8a06-b1bb999a09a2&filename=ca%20phc%20174-16.pdf",
   "parties": "M.S.U. Fazal and others Vs P.H.T. Silva, Namal Karunathilake",
   "judgement_by": " Hon.K.K.A.V. Swarnadhipathi, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-07-24-CA-WRIT-224-2018",
   "num": "CA.WRIT/224/2018",
   "date_str": "2020-07-24",
   "description": "Kurunegala Plantations Limited Vs R. P. A. Wimalaweera and Others before  Hon. Arjuna Obeyesekere, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8a376012-eb19-4823-9a11-47a451e1a483&filename=ca.writ_224_18.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14400",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8a376012-eb19-4823-9a11-47a451e1a483&filename=ca.writ_224_18.pdf",
   "parties": "Kurunegala Plantations Limited Vs R. P. A. Wimalaweera and Others",
   "judgement_by": " Hon. Arjuna Obeyesekere, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

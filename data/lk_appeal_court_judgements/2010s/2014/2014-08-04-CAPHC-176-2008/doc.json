@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-08-04-CAPHC-176-2008",
   "num": "CAPHC 176/2008",
   "date_str": "2014-08-04",
   "description": "W. Saman Danarathna Vs. Secretory,Secretory office,Maharagama - Hon. K.T. Chitrasiri, J before  Necessity to have a valid permit or written authority to be in possession occupation of state land",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=120ff0e9-a517-4add-b4da-2c5cacaf0841&filename=ca_phc_176_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14548",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=120ff0e9-a517-4add-b4da-2c5cacaf0841&filename=ca_phc_176_2008.pdf",
   "parties": "W. Saman Danarathna Vs. Secretory,Secretory office,Maharagama - Hon. K.T. Chitrasiri, J",
   "judgement_by": " Necessity to have a valid permit or written authority to be in possession occupation of state land",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

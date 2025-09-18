@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-07-28-CA---HCC-087-2018",
   "num": "CA - HCC 087/2018",
   "date_str": "2022-07-28",
   "description": "Karavitage Dayananda Vs The Hon.Attorney General before Hon. R. Gurusinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6f9d614f-4e52-4b8b-90cf-36cf7a8de97a&filename=87-18edited.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3933",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6f9d614f-4e52-4b8b-90cf-36cf7a8de97a&filename=87-18edited.pdf.pdf",
   "parties": "Karavitage Dayananda Vs The Hon.Attorney General",
   "judgement_by": "Hon. R. Gurusinghe, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

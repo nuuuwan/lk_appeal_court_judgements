@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-20-HCC-0123-18",
   "num": "HCC-0123-18",
   "date_str": "2022-10-20",
   "description": "Thangaraj Jesudasan vs The Honourable Attorney General before Hon. R. Gurusinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7b8b44dd-e117-4f55-a95a-810e2387eaab&filename=123-18%20%28Edited%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3951",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7b8b44dd-e117-4f55-a95a-810e2387eaab&filename=123-18%20%28Edited%29.pdf.pdf",
   "parties": "Thangaraj Jesudasan vs The Honourable Attorney General",
   "judgement_by": "Hon. R. Gurusinghe, J",
   "keywords": "Minor, murder, death penalty",
-  "legistation": "Section 296 of the Penal Code",
-  "lang": "en"
+  "legistation": "Section 296 of the Penal Code"
 }

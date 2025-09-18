@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-12-05-CAHC-73-2014",
   "num": "CAHC 73/2014",
   "date_str": "2017-12-05",
   "description": "A.M.Nazar Vs. Hon Attorney General before  Hon. S. Thurairaja, P.C, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ffa1ecee-66d2-41f1-9315-ff66f11e49c0&filename=ca_hc_73_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14481",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ffa1ecee-66d2-41f1-9315-ff66f11e49c0&filename=ca_hc_73_2014.pdf",
   "parties": "A.M.Nazar Vs. Hon Attorney General",
   "judgement_by": " Hon. S. Thurairaja, P.C, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

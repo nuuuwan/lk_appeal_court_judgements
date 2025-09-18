@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-11-01-CAHC-154-13-H-H--dharma-6e098ed9",
   "num": "CAHC 154/13 H.H. dharmapriya Udayakumara Vs. The Hon. Attorney General - Hon. L.T.B. Dehideniya, J (P/CA)",
   "date_str": "2017-11-01",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=696a826f-6e2a-4ce8-a4a8-f4f8a6487db8&filename=ca_hc_154_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14479",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=696a826f-6e2a-4ce8-a4a8-f4f8a6487db8&filename=ca_hc_154_2013.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

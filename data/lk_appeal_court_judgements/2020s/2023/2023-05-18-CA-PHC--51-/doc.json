@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-05-18-CA-PHC--51-",
   "num": "CA(PHC) 51/",
   "date_str": "2023-05-18",
   "description": " before 2018 Maddegoda Vidaanelage Jayasinghe and other Vs Godakawela Kankanamlage Sunil Jayarathne -Hon.Prasantha De Silva J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=522de50f-bdf7-47a5-8a79-1f89837c1433&filename=ca%20phc%2051_2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14321",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=522de50f-bdf7-47a5-8a79-1f89837c1433&filename=ca%20phc%2051_2018.pdf",
   "parties": "",
   "judgement_by": "2018 Maddegoda Vidaanelage Jayasinghe and other Vs Godakawela Kankanamlage Sunil Jayarathne -Hon.Prasantha De Silva J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

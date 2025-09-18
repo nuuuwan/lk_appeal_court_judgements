@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-06-03-CAHC-90-2011-Nuwan-Budd-532d9038",
   "num": "CAHC 90/2011 Nuwan Buddhika Abeysinghe Vs. Hon. Attorney General - Hon. Vijith K. Malalgoda, P.C, (P/CA)",
   "date_str": "2015-06-03",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6a319379-51b0-4e7e-b5b5-9cf009a9ebab&filename=ca_hc_90_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14519",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6a319379-51b0-4e7e-b5b5-9cf009a9ebab&filename=ca_hc_90_2011.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-09-27-CA-lta-0009-22",
   "num": "CA/lta-0009-22",
   "date_str": "2023-09-27",
   "description": "Nasoordeen Faleel Rizan and others Vs N.M.M. Sabarulla and others before  HON. JUSTICE M. T. MOHAMMED LAFFAR J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b4fbc532-98a6-443d-b2a3-affeaaa120eb&filename=ca-lta-9-22.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14329",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b4fbc532-98a6-443d-b2a3-affeaaa120eb&filename=ca-lta-9-22.pdf",
   "parties": "Nasoordeen Faleel Rizan and others Vs N.M.M. Sabarulla and others",
   "judgement_by": " HON. JUSTICE M. T. MOHAMMED LAFFAR J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

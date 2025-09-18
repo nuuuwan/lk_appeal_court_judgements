@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-07-12-CA---HCC---279---2014",
   "num": "CA / HCC / 279 / 2014",
   "date_str": "2023-07-12",
   "description": "Kumareshwara Kanageshwaram alias Raji. Vs Hon. Attorney General - before Hon. Menaka Wijesundera J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ac4591c8-fe66-4ccd-9bec-41a9bb80b5ce&filename=HCC-%200279%20-%2014.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=7420",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ac4591c8-fe66-4ccd-9bec-41a9bb80b5ce&filename=HCC-%200279%20-%2014.pdf.pdf",
   "parties": "Kumareshwara Kanageshwaram alias Raji. Vs Hon. Attorney General -",
   "judgement_by": "Hon. Menaka Wijesundera J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

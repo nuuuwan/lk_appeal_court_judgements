@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-11-09-C-A-WRIT-548-2011",
   "num": "C.A WRIT 548/2011",
   "date_str": "2018-11-09",
   "description": "Indrani Swarnalatha Marie Peiris Vs U.W. Senaratne and Others before  Hon E.A.G.R. Amarasekara, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2ef4a348-7090-42ca-913a-9d664478348c&filename=c.a%20writ%20548_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14456",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2ef4a348-7090-42ca-913a-9d664478348c&filename=c.a%20writ%20548_2011.pdf",
   "parties": "Indrani Swarnalatha Marie Peiris Vs U.W. Senaratne and Others",
   "judgement_by": " Hon E.A.G.R. Amarasekara, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

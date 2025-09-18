@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-06-21-CA-WKF-01-2004",
   "num": "CA.WKF/01/2004",
   "date_str": "2022-06-21",
   "description": "Seyed Sheikh Koya Thangal And Others Vs M. A. Badurdeen And Others before  HON. M. T. MOHAMMED LAFFAR, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5db4a587-4c61-4cad-8ed1-c061eae28362&filename=ca-wakf-01-2004.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14348",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5db4a587-4c61-4cad-8ed1-c061eae28362&filename=ca-wakf-01-2004.pdf",
   "parties": "Seyed Sheikh Koya Thangal And Others Vs M. A. Badurdeen And Others",
   "judgement_by": " HON. M. T. MOHAMMED LAFFAR, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

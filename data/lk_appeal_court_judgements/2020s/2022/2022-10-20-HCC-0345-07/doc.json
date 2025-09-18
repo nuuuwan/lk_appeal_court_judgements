@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-20-HCC-0345-07",
   "num": "HCC-0345-07",
   "date_str": "2022-10-20",
   "description": "SembulingamPakkiam vs The Honourable Attorney General before Hon. R. Gurusinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5f353dad-8815-40c8-9458-dfbb3084c7a4&filename=345-07%20%28Edited%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3951",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5f353dad-8815-40c8-9458-dfbb3084c7a4&filename=345-07%20%28Edited%29.pdf.pdf",
   "parties": "SembulingamPakkiam vs The Honourable Attorney General",
   "judgement_by": "Hon. R. Gurusinghe, J",
   "keywords": "Absconding, reasonable doubt,",
-  "legistation": "Section 22 of Firearms Ordinance No. 33 of 1916, as amended by Act No 22 of 1996",
-  "lang": "en"
+  "legistation": "Section 22 of Firearms Ordinance No. 33 of 1916, as amended by Act No 22 of 1996"
 }

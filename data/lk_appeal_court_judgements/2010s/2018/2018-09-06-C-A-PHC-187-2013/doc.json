@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-09-06-C-A-PHC-187-2013",
   "num": "C.A PHC 187/2013",
   "date_str": "2018-09-06",
   "description": "M.D.Jothipala Vs Nanda Mathew and Others before  Hon Janak De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2504d95e-1c8b-4644-8dbc-7fd0dd82cc62&filename=c.a%20phc%20187_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14452",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2504d95e-1c8b-4644-8dbc-7fd0dd82cc62&filename=c.a%20phc%20187_2013.pdf",
   "parties": "M.D.Jothipala Vs Nanda Mathew and Others",
   "judgement_by": " Hon Janak De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

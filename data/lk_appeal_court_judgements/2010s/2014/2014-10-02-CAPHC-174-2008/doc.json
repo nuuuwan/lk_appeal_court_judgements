@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-10-02-CAPHC-174-2008",
   "num": "CAPHC 174/2008",
   "date_str": "2014-10-02",
   "description": "Arpico Finance Company Limited, Vs. OIC,Kahawatte. before  Hon. K.T. Chitrasiri, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a07167c4-b6d2-418e-9763-364f26300266&filename=ca_phc_174_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14550",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a07167c4-b6d2-418e-9763-364f26300266&filename=ca_phc_174_2008.pdf",
   "parties": "Arpico Finance Company Limited, Vs. OIC,Kahawatte.",
   "judgement_by": " Hon. K.T. Chitrasiri, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

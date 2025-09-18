@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-07-06-C-A---PHC--No--188-2014",
   "num": "C.A. (PHC) No: 188/2014",
   "date_str": "2018-07-06",
   "description": "J.H.S.Jayamaha Vs Provincial Public Service Commission North Western Province) before  Hon Janak De Silva J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c233b697-f652-4ab9-b09a-dffd23e34a91&filename=ca_phc_188_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14448",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c233b697-f652-4ab9-b09a-dffd23e34a91&filename=ca_phc_188_2014.pdf",
   "parties": "J.H.S.Jayamaha Vs Provincial Public Service Commission North Western Province)",
   "judgement_by": " Hon Janak De Silva J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

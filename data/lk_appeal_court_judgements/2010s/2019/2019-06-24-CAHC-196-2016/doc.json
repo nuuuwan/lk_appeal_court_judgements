@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-06-24-CAHC-196-2016",
   "num": "CAHC 196/2016",
   "date_str": "2019-06-24",
   "description": "Chandra Boss Ravi & Others Vs. Hon: Attorney General, before  Hon. N. Bandula Karunarathna J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6d428057-3378-417d-bcd1-4a80adbe0a1c&filename=ca_hc_196_2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14421",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6d428057-3378-417d-bcd1-4a80adbe0a1c&filename=ca_hc_196_2016.pdf",
   "parties": "Chandra Boss Ravi & Others Vs. Hon: Attorney General,",
   "judgement_by": " Hon. N. Bandula Karunarathna J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

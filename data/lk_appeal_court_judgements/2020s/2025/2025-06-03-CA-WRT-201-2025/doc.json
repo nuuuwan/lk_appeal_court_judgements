@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2025-06-03-CA-WRT-201-2025",
   "num": "CA/WRT/201/2025",
   "date_str": "2025-06-03",
   "description": "SLIM Pharmaceuticals (Pvt) Ltd Vs State Pharmaceuticals Corporation of Sri Lanka and others before Hon. M. T. MOHAMMED LAFFAR, J. (ACT. P/CA)",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e3a8187b-9eb6-4d57-803f-20a4bbf610e1&filename=CA-WRT-201-25.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=13112",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e3a8187b-9eb6-4d57-803f-20a4bbf610e1&filename=CA-WRT-201-25.pdf.pdf",
   "parties": "SLIM Pharmaceuticals (Pvt) Ltd Vs State Pharmaceuticals Corporation of Sri Lanka and others",
   "judgement_by": "Hon. M. T. MOHAMMED LAFFAR, J. (ACT. P/CA)",
   "keywords": "Interim Orders, Prima Facie case, Procedural Irregularity.",
-  "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka. .",
-  "lang": "en"
+  "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka. ."
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-09-17-CAPHC-APN-204-06",
   "num": "CAPHC APN 204/06",
   "date_str": "2014-09-17",
   "description": "A.Weeratunga Vs. S.Ekanayake-Hon. K.T.Chitrasiri,J, Hon. P.W.D.C.Jayathilaka,J before  Revisionary jurisdiction of the Court of Appeal when it comes to challenge a decision made by a Provisional High Court exercising its appellate powers.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=039eb434-7852-4080-bfbd-2a7d5f5b0aa1&filename=ca_phc_apn_204_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14552",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=039eb434-7852-4080-bfbd-2a7d5f5b0aa1&filename=ca_phc_apn_204_2006.pdf",
   "parties": "A.Weeratunga Vs. S.Ekanayake-Hon. K.T.Chitrasiri,J, Hon. P.W.D.C.Jayathilaka,J",
   "judgement_by": " Revisionary jurisdiction of the Court of Appeal when it comes to challenge a decision made by a Provisional High Court exercising its appellate powers.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

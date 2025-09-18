@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-03-02-C-A--HCC-56-2018",
   "num": "C.A. HCC/56/2018",
   "date_str": "2020-03-02",
   "description": "Ranaweerage Don. Gamini Shelton Rathnasiri Vs Hon. Attorney General before  HON. JUSTICE ACHALA WENGAPPULI",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=603e25ea-3d85-4bba-aaa2-7d57bfa48535&filename=c.a.%20hcc_56_2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14390",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=603e25ea-3d85-4bba-aaa2-7d57bfa48535&filename=c.a.%20hcc_56_2018.pdf",
   "parties": "Ranaweerage Don. Gamini Shelton Rathnasiri Vs Hon. Attorney General",
   "judgement_by": " HON. JUSTICE ACHALA WENGAPPULI",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

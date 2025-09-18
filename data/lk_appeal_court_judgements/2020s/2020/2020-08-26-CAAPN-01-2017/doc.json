@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-08-26-CAAPN-01-2017",
   "num": "CAAPN/01/2017",
   "date_str": "2020-08-26",
   "description": "The Hon. Attorney General Vs Hewaduragedara Nilantha Dilruksha Kumara before  Hon. K.K.WICKREMASINGHE,J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dd2a0856-a1cb-44b1-b8bf-6a7862d5277e&filename=ca%20apn_01_2017%20judgment.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14402",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dd2a0856-a1cb-44b1-b8bf-6a7862d5277e&filename=ca%20apn_01_2017%20judgment.pdf",
   "parties": "The Hon. Attorney General Vs Hewaduragedara Nilantha Dilruksha Kumara",
   "judgement_by": " Hon. K.K.WICKREMASINGHE,J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

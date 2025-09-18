@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-02-27-CADC-608-1999",
   "num": "CADC 608/1999",
   "date_str": "2017-02-27",
   "description": "A.S. Jayawardene & Others Vs. Thiremuni Peter & 02 others before  Hon. S. Devika De L. Tennekoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1bc46a10-6231-4752-b6ff-3d37bcdb8dbb&filename=ca_dc_608_1999.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14463",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1bc46a10-6231-4752-b6ff-3d37bcdb8dbb&filename=ca_dc_608_1999.pdf",
   "parties": "A.S. Jayawardene & Others Vs. Thiremuni Peter & 02 others",
   "judgement_by": " Hon. S. Devika De L. Tennekoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

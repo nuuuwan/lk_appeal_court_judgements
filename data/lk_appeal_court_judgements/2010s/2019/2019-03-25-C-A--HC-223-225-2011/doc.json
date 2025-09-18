@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-03-25-C-A--HC-223-225-2011",
   "num": "C.A. HC/223-225/2011",
   "date_str": "2019-03-25",
   "description": "Godahire Gedara Kapilaratne Banda and Others VS. Hon. Attorney General before  Hon. Achala Wengappuli, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5e5e14d6-9e9c-4079-9b3c-4e03f7f972b0&filename=c_a_hc_223-225_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14415",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5e5e14d6-9e9c-4079-9b3c-4e03f7f972b0&filename=c_a_hc_223-225_2011.pdf",
   "parties": "Godahire Gedara Kapilaratne Banda and Others VS. Hon. Attorney General",
   "judgement_by": " Hon. Achala Wengappuli, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

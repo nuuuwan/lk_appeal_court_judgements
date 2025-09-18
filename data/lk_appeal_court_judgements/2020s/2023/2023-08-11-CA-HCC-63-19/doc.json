@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-08-11-CA-HCC-63-19",
   "num": "CA/HCC 63/19",
   "date_str": "2023-08-11",
   "description": "Sandaradurayalage Siripala Vs Hon. Attorney General before  Hon.Sasi Mahendran, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=333978e3-2575-4775-bdbe-99de49c2490d&filename=hcc-63-19-%20judgment.docx.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14327",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=333978e3-2575-4775-bdbe-99de49c2490d&filename=hcc-63-19-%20judgment.docx.pdf",
   "parties": "Sandaradurayalage Siripala Vs Hon. Attorney General",
   "judgement_by": " Hon.Sasi Mahendran, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

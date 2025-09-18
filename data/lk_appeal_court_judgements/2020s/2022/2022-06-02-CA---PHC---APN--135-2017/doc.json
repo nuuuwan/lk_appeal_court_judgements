@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-06-02-CA---PHC---APN--135-2017",
   "num": "CA/ (PHC) (APN) 135/2017",
   "date_str": "2022-06-02",
   "description": "Hon. The Attorney General Vs Weerasinghe Pathirage Priyantha Gunasekara. and others before  Hon. Menaka Wijesundera J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4231703b-5340-42e9-9351-2bdf9c3df055&filename=cpa%20-%20135%20-%2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14348",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4231703b-5340-42e9-9351-2bdf9c3df055&filename=cpa%20-%20135%20-%2017.pdf",
   "parties": "Hon. The Attorney General Vs Weerasinghe Pathirage Priyantha Gunasekara. and others",
   "judgement_by": " Hon. Menaka Wijesundera J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

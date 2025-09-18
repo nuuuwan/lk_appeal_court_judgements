@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-07-20-CA-PHC--160-2016",
   "num": "CA(PHC) 160/2016",
   "date_str": "2022-07-20",
   "description": "Lakshman Ananda Wijemanne, Vs Officer \u2013 in \u2013 Charge, Special Crime Investigation Bureau and other before  Hon. Menaka Wijesundera J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3080d08d-1df3-4178-8c43-4f648a60aca9&filename=phc%20-%20160%20-%2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14350",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3080d08d-1df3-4178-8c43-4f648a60aca9&filename=phc%20-%20160%20-%2016.pdf",
   "parties": "Lakshman Ananda Wijemanne, Vs Officer \u2013 in \u2013 Charge, Special Crime Investigation Bureau and other",
   "judgement_by": " Hon. Menaka Wijesundera J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

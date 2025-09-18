@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-12-05-C--A-DC-295-1999",
   "num": "C. A DC 295/1999",
   "date_str": "2018-12-05",
   "description": "P. Shamikka Shivanthi Wijesekara Vs D. R. Ananda Jinasena before  Hon M.M.A. Gaffoor,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c3bc3ae9-321a-44ec-98aa-078075eb454f&filename=c.%20a%20dc%20295_1999.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14458",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c3bc3ae9-321a-44ec-98aa-078075eb454f&filename=c.%20a%20dc%20295_1999.pdf",
   "parties": "P. Shamikka Shivanthi Wijesekara Vs D. R. Ananda Jinasena",
   "judgement_by": " Hon M.M.A. Gaffoor,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

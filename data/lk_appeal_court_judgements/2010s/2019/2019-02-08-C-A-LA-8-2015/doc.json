@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-02-08-C-A-LA-8-2015",
   "num": "C.A LA 8/2015",
   "date_str": "2019-02-08",
   "description": "Uvaizul Karani Mohamed Musharaff Vs Fathima Zuhara Mubarak before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f74a3d42-f81a-4d17-b581-d5df66e5943b&filename=cala-8-2015%208.2.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14413",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f74a3d42-f81a-4d17-b581-d5df66e5943b&filename=cala-8-2015%208.2.2019.pdf",
   "parties": "Uvaizul Karani Mohamed Musharaff Vs Fathima Zuhara Mubarak",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

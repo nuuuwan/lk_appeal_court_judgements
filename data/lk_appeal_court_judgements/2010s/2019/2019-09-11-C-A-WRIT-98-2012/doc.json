@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-09-11-C-A-WRIT-98-2012",
   "num": "C.A WRIT 98/2012",
   "date_str": "2019-09-11",
   "description": "H.K. Ajith Pushpakumara Vs P.M.P. Udaya Kantha and Others before  Hon Mahinda Samayawardhena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f7107671-292e-4ab7-b04b-0684398e0f91&filename=ca-writ-98-2012%2011.9.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14427",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f7107671-292e-4ab7-b04b-0684398e0f91&filename=ca-writ-98-2012%2011.9.2019.pdf",
   "parties": "H.K. Ajith Pushpakumara Vs P.M.P. Udaya Kantha and Others",
   "judgement_by": " Hon Mahinda Samayawardhena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

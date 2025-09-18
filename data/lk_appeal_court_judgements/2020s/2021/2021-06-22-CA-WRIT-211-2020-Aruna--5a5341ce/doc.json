@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-06-22-CA-WRIT-211-2020-Aruna--5a5341ce",
   "num": "CA.WRIT/211/2020 Aruna Iddagoda Vs Hon. Magistrate and Other - Hon. Arjuna Obeyesekere, J., P/CA",
   "date_str": "2021-06-22",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=46ffb9ae-a68f-43ef-b582-7b857bfb9ee3&filename=ca.211.20.final.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14373",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=46ffb9ae-a68f-43ef-b582-7b857bfb9ee3&filename=ca.211.20.final.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

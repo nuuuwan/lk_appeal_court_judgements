@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-02-18-C-A-DC-925-1995",
   "num": "C.A DC 925/1995",
   "date_str": "2019-02-18",
   "description": "U. Athukoralage Don Samarasinghe Vs Galhenkandage Don Jemis and Others before  Hon M. M. A. Gaffoor, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1958faaf-3d2a-4fcc-8687-db9fd9b0701b&filename=ca%20925-95%20dc%20mathugama%2012.02.19.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14413",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1958faaf-3d2a-4fcc-8687-db9fd9b0701b&filename=ca%20925-95%20dc%20mathugama%2012.02.19.pdf",
   "parties": "U. Athukoralage Don Samarasinghe Vs Galhenkandage Don Jemis and Others",
   "judgement_by": " Hon M. M. A. Gaffoor, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

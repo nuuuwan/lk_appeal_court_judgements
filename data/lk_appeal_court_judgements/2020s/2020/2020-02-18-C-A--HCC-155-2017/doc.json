@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-02-18-C-A--HCC-155-2017",
   "num": "C.A. HCC/155/2017",
   "date_str": "2020-02-18",
   "description": "M.S. Anura Shantha Sarathkumara Vs The Hon. Attorney General before  Hon. Justice K.K. Wickremasinghe",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b9156b06-b335-486a-9c57-a35b45a3cc92&filename=c.a.%20hcc_155_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14390",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b9156b06-b335-486a-9c57-a35b45a3cc92&filename=c.a.%20hcc_155_2017.pdf",
   "parties": "M.S. Anura Shantha Sarathkumara Vs The Hon. Attorney General",
   "judgement_by": " Hon. Justice K.K. Wickremasinghe",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

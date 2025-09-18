@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-04-27-CALA-80-2005",
   "num": "CALA 80/2005",
   "date_str": "2016-04-27",
   "description": "A.K.M. Perera Vs. National Gem & Jewellery Authority before  Hon. M.M.A. Gaffoor, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c08dffa8-e7cd-4057-8da0-6b9b7ef907af&filename=ca_la_80_05.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14492",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c08dffa8-e7cd-4057-8da0-6b9b7ef907af&filename=ca_la_80_05.pdf",
   "parties": "A.K.M. Perera Vs. National Gem & Jewellery Authority",
   "judgement_by": " Hon. M.M.A. Gaffoor, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

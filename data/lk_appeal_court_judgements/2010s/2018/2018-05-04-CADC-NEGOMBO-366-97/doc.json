@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-05-04-CADC-NEGOMBO-366-97",
   "num": "CADC NEGOMBO 366/97",
   "date_str": "2018-05-04",
   "description": "A.lddagoda of Kapila Bakery Vs. S.A.P.Padma Perera before  Hon. Janak de Silva , J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7299ce47-6f87-4605-9b65-4f83c9064a2e&filename=ca_dc_negombo_366_1997.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14442",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7299ce47-6f87-4605-9b65-4f83c9064a2e&filename=ca_dc_negombo_366_1997.pdf",
   "parties": "A.lddagoda of Kapila Bakery Vs. S.A.P.Padma Perera",
   "judgement_by": " Hon. Janak de Silva , J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

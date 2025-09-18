@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-02-05-CADC-1064-96",
   "num": "CADC 1064/96",
   "date_str": "2014-02-05",
   "description": "A.M. Nandawathie & others Vs. R.K. Nandawathie Herath And 30 others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cf5f0b43-99ac-470c-a976-e9347c3f930f&filename=ca_dc_marawila_1064_96.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14536",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cf5f0b43-99ac-470c-a976-e9347c3f930f&filename=ca_dc_marawila_1064_96.pdf",
   "parties": "A.M. Nandawathie & others Vs. R.K. Nandawathie Herath And 30 others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

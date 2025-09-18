@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-11-06-CAPHC-230-2001",
   "num": "CAPHC 230/2001",
   "date_str": "2017-11-06",
   "description": " before Thilak Kumara Udugama Vs.D G Rathnayaka & Others -Hon. P. Padman Surasena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d0fe9a0b-f312-4c9e-a682-4e72dd456b76&filename=ca_phc_230_2001.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14479",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d0fe9a0b-f312-4c9e-a682-4e72dd456b76&filename=ca_phc_230_2001.pdf",
   "parties": "",
   "judgement_by": "Thilak Kumara Udugama Vs.D G Rathnayaka & Others -Hon. P. Padman Surasena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

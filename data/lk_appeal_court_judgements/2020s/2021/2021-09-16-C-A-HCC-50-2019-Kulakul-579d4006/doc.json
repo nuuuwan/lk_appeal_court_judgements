@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-09-16-C-A-HCC-50-2019-Kulakul-579d4006",
   "num": "C.A HCC 50/2019 Kulakulasuriya Sachalakkarage Asanka Fernando Alias Sajee Vs Hon. Attorney General - Hon. K. Priyantha Fernando, J. (P/CA)",
   "date_str": "2021-09-16",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5c600d25-fc40-4dff-af2b-9cc4db462bdb&filename=hcc-50-19.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14379",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5c600d25-fc40-4dff-af2b-9cc4db462bdb&filename=hcc-50-19.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

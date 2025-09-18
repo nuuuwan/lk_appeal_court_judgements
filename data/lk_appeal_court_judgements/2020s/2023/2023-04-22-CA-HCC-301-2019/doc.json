@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-04-22-CA-HCC-301-2019",
   "num": "CA/HCC/301/2019",
   "date_str": "2023-04-22",
   "description": "Rasakumar Thirukumar Vs Hon. Attorney General before  Hon. MENAKA WIJESUNDERA J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=27401243-5e35-4a14-a5fd-3157c9192796&filename=hcc%20-%200301%20-%2019-1.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14317",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=27401243-5e35-4a14-a5fd-3157c9192796&filename=hcc%20-%200301%20-%2019-1.pdf",
   "parties": "Rasakumar Thirukumar Vs Hon. Attorney General",
   "judgement_by": " Hon. MENAKA WIJESUNDERA J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

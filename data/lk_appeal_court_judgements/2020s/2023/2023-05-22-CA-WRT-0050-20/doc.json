@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-05-22-CA-WRT-0050-20",
   "num": "CA/WRT/0050-20",
   "date_str": "2023-05-22",
   "description": "A. W. T. P. Alagoda Vs Asela K. Dissanayaka, Director- District General Hospital Matale and Sixteen Others before  Hon. Wickum A. Kaluarachchi, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3288e3da-efb6-477c-90d8-436ed5858dc8&filename=wrt-0050-20%20-22.05.2023.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14321",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3288e3da-efb6-477c-90d8-436ed5858dc8&filename=wrt-0050-20%20-22.05.2023.pdf",
   "parties": "A. W. T. P. Alagoda Vs Asela K. Dissanayaka, Director- District General Hospital Matale and Sixteen Others",
   "judgement_by": " Hon. Wickum A. Kaluarachchi, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

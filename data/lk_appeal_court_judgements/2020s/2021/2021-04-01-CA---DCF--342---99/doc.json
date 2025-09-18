@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-04-01-CA---DCF--342---99",
   "num": "CA / DCF /342 / 99",
   "date_str": "2021-04-01",
   "description": "Pussalla Bulugamage Somawathie, & Others Vs. Wasantha Iddamalgoda before Hon. M. T. MOHAMMED LAFFAR, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1666f2d0-60ec-4bb9-b75d-4cd7945bbb72&filename=dcf-342-99.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9823",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1666f2d0-60ec-4bb9-b75d-4cd7945bbb72&filename=dcf-342-99.pdf.pdf",
   "parties": "Pussalla Bulugamage Somawathie, & Others Vs. Wasantha Iddamalgoda",
   "judgement_by": "Hon. M. T. MOHAMMED LAFFAR, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-02-03-CA-RII-25-22--",
   "num": "CA/RII/25/22 -",
   "date_str": "2023-02-03",
   "description": "Jayasekara Mudiyanselage Gamini Jayasekara alias Jayasekara Gamini Wasantha Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=33c652bf-cf51-4b01-b57f-58829c525fef&filename=ca-rii-25-22%20judgment.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=7392",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=33c652bf-cf51-4b01-b57f-58829c525fef&filename=ca-rii-25-22%20judgment.pdf.pdf",
   "parties": "Jayasekara Mudiyanselage Gamini Jayasekara alias Jayasekara Gamini Wasantha Vs Hon. Attorney General",
   "judgement_by": "Hon. B. Sasi Mahendran, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

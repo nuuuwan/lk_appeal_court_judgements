@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-07-24-C-A--PHC--APN-130-2016",
   "num": "C.A (PHC) APN 130/2016",
   "date_str": "2019-07-24",
   "description": "Peli Kanakanamge Chandrasiri Vs Madduma Patabendige Indrani and Others before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=275c578b-bc99-47fd-9184-dbfdd811ba4f&filename=ca-phc-apn-130-2016%2024.7.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14423",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=275c578b-bc99-47fd-9184-dbfdd811ba4f&filename=ca-phc-apn-130-2016%2024.7.2019.pdf",
   "parties": "Peli Kanakanamge Chandrasiri Vs Madduma Patabendige Indrani and Others",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-12-09-CA-HCC--0366-2017",
   "num": "CA/HCC/ 0366/2017",
   "date_str": "2022-12-09",
   "description": "Kalapuge Don Chamindaka Ravi Gunawardena vs The Hon. Attorney General before  Hon. P. Kumararatnam, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a44b2d65-a497-4d01-a5a8-fc6a8be75f59&filename=hcc-0366.17.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14360",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a44b2d65-a497-4d01-a5a8-fc6a8be75f59&filename=hcc-0366.17.pdf",
   "parties": "Kalapuge Don Chamindaka Ravi Gunawardena vs The Hon. Attorney General",
   "judgement_by": " Hon. P. Kumararatnam, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

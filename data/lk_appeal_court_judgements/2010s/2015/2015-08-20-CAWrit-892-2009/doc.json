@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-08-20-CAWrit-892-2009",
   "num": "CAWrit 892/2009",
   "date_str": "2015-08-20",
   "description": "H.R.R.Upananda Senanayake Vs. N.P.Wijayananda - Hon. K.T. Chitrasiri, J - Application for re before listing an appeal",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=381e38d7-d741-441e-b597-7fc1ddad1050&filename=ca_writ_892_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14525",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=381e38d7-d741-441e-b597-7fc1ddad1050&filename=ca_writ_892_2009.pdf",
   "parties": "H.R.R.Upananda Senanayake Vs. N.P.Wijayananda - Hon. K.T. Chitrasiri, J - Application for re",
   "judgement_by": "listing an appeal",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-06-29-CA--PHC--APN-23-2021",
   "num": "CA (PHC) APN 23/2021",
   "date_str": "2021-06-29",
   "description": "Wijesinghe Arachchige Benadict Jasintha Vs Hon. Attorney General and other before Hon.MENAKA WIJESUNDERA J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c5e5c983-0235-4f35-bd4c-00852526fc8f&filename=CPA%20-%200023%20-%2021.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9825",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c5e5c983-0235-4f35-bd4c-00852526fc8f&filename=CPA%20-%200023%20-%2021.pdf.pdf",
   "parties": "Wijesinghe Arachchige Benadict Jasintha Vs Hon. Attorney General and other",
   "judgement_by": "Hon.MENAKA WIJESUNDERA J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

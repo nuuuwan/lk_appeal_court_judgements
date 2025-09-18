@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-01-11-CA-PHC--125-2018",
   "num": "CA(PHC) 125/2018",
   "date_str": "2023-01-11",
   "description": "RajapaksheMudiyanselageHettiyadeniyeKoraleArachchilage NalaniKumarihami Vs MahamarakalageKurukulasuriyaPatabedige Anura Kumarasiri Perera before  Hon. Prasantha De Silva, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0cba8dd5-67b0-4686-a9f7-cd4a6909a585&filename=ca%20phc%20125_18.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14313",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0cba8dd5-67b0-4686-a9f7-cd4a6909a585&filename=ca%20phc%20125_18.pdf",
   "parties": "RajapaksheMudiyanselageHettiyadeniyeKoraleArachchilage NalaniKumarihami Vs MahamarakalageKurukulasuriyaPatabedige Anura Kumarasiri Perera",
   "judgement_by": " Hon. Prasantha De Silva, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

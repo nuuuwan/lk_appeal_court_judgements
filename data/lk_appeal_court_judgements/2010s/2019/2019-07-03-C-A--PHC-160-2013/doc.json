@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-07-03-C-A--PHC-160-2013",
   "num": "C.A. PHC/160/2013",
   "date_str": "2019-07-03",
   "description": "Ponnamperuma Arachchige Nuwan Thilakarathna and Others Vs Hettiarachchige Don Nihal Jayawardana before  Hon. A.L. Shiran Gooneratne J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d08d08b9-98f0-463f-bebf-062e87b50119&filename=c.a.%20phc_160_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14423",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d08d08b9-98f0-463f-bebf-062e87b50119&filename=c.a.%20phc_160_2013.pdf",
   "parties": "Ponnamperuma Arachchige Nuwan Thilakarathna and Others Vs Hettiarachchige Don Nihal Jayawardana",
   "judgement_by": " Hon. A.L. Shiran Gooneratne J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

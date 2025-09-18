@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-10-02-CABR-04-2010",
   "num": "CABR 04/2010",
   "date_str": "2015-10-02",
   "description": "Butani Exports Limited Vs. Commissioner General of Inland Revenue - Hon. K.T. Chitrasiri, J before  Jurisdiction of the Court Of Appeal to determine the Question of Law in a matter referred to By the Tax Appeal Commission",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=70708c5e-08e5-402b-afdc-272cb3020a7e&filename=ca_br_04_10.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14527",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=70708c5e-08e5-402b-afdc-272cb3020a7e&filename=ca_br_04_10.pdf",
   "parties": "Butani Exports Limited Vs. Commissioner General of Inland Revenue - Hon. K.T. Chitrasiri, J",
   "judgement_by": " Jurisdiction of the Court Of Appeal to determine the Question of Law in a matter referred to By the Tax Appeal Commission",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

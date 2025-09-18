@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-05-22-CABail--94-22",
   "num": "CABail/ 94/22",
   "date_str": "2023-05-22",
   "description": "Daluwathumulla Gamage Neil Nandana Vs OIC, Special Unit, The Criminal Investigation Department, Colombo-01 and other before  Hon. P. Kumararatnam, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a9aed93c-6107-46ed-a030-056c53fb458d&filename=bail%20order-bal-0094-22.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14321",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a9aed93c-6107-46ed-a030-056c53fb458d&filename=bail%20order-bal-0094-22.pdf",
   "parties": "Daluwathumulla Gamage Neil Nandana Vs OIC, Special Unit, The Criminal Investigation Department, Colombo-01 and other",
   "judgement_by": " Hon. P. Kumararatnam, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

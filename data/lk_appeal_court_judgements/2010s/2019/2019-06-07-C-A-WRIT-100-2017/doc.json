@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-06-07-C-A-WRIT-100-2017",
   "num": "C.A WRIT 100/2017",
   "date_str": "2019-06-07",
   "description": "H. K. Ajantha Kumara Vs The Ceylon Electricity Board and Others before  Hon Janak De Silva J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=761ab283-c8b3-4ac4-b0c8-80892532f168&filename=c.a%20writ_100_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14421",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=761ab283-c8b3-4ac4-b0c8-80892532f168&filename=c.a%20writ_100_2017.pdf",
   "parties": "H. K. Ajantha Kumara Vs The Ceylon Electricity Board and Others",
   "judgement_by": " Hon Janak De Silva J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

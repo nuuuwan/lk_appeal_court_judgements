@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-03-03-CA-PHC-0022-2017",
   "num": "CA.PHC/0022/2017",
   "date_str": "2022-03-03",
   "description": "Rupassara Gedara Gunawansa Vs Mallawage Thushara Peiris and Other before  Hon. M.Prasantha De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=20b50ac5-263b-45d8-8c76-af92dd53251d&filename=ca%20phc%2022_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14342",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=20b50ac5-263b-45d8-8c76-af92dd53251d&filename=ca%20phc%2022_2017.pdf",
   "parties": "Rupassara Gedara Gunawansa Vs Mallawage Thushara Peiris and Other",
   "judgement_by": " Hon. M.Prasantha De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

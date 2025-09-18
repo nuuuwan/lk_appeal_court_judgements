@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-09-27-CA-HCC--0142-2015",
   "num": "CA.HCC/ 0142/2015",
   "date_str": "2022-09-27",
   "description": "Ekanayake Mudiyanselage Hemantha Ekanayake Vs The Hon. Attorney General before  Hon. P. Kumararatnam, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=451a92be-b4db-4f6a-b082-6544709f4a59&filename=hcc-0142.15.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14354",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=451a92be-b4db-4f6a-b082-6544709f4a59&filename=hcc-0142.15.pdf",
   "parties": "Ekanayake Mudiyanselage Hemantha Ekanayake Vs The Hon. Attorney General",
   "judgement_by": " Hon. P. Kumararatnam, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

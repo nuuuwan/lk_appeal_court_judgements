@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-10-02-CADC-677-1997",
   "num": "CADC 677/1997",
   "date_str": "2017-10-02",
   "description": "Godayalage Hawadiya Vs. The President, Development Sabawa, Kegalle And 07 others before  Hon. M.M.A. Gaffoor, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3a6d8dd4-dff9-4d27-b243-89e3e4041b3e&filename=ca_dc_677_97.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14477",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3a6d8dd4-dff9-4d27-b243-89e3e4041b3e&filename=ca_dc_677_97.pdf",
   "parties": "Godayalage Hawadiya Vs. The President, Development Sabawa, Kegalle And 07 others",
   "judgement_by": " Hon. M.M.A. Gaffoor, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

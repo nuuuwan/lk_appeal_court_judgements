@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-11-09-CAHC-127-2013",
   "num": "CAHC 127/2013",
   "date_str": "2017-11-09",
   "description": "Gamini Kamal Ekanayaka Vs. Hon Attorney General before  Hon. S. Thurairaja, P.C, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=faef34e5-c850-4334-8fd0-d3fe396ae69f&filename=ca_hc_127_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14477",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=faef34e5-c850-4334-8fd0-d3fe396ae69f&filename=ca_hc_127_2013.pdf",
   "parties": "Gamini Kamal Ekanayaka Vs. Hon Attorney General",
   "judgement_by": " Hon. S. Thurairaja, P.C, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

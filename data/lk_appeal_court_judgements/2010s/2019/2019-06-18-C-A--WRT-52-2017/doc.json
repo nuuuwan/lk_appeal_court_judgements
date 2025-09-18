@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-06-18-C-A--WRT-52-2017",
   "num": "C.A. WRT/52/2017",
   "date_str": "2019-06-18",
   "description": "Abdul Careem Jamal Mohideen and Others Vs The Director, Department of Muslim Religious and Cultural Affairs and Others before  Hon.Arjuna Obeyesekere, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5c746d01-7709-4577-84b4-7167a51313e9&filename=c.a.%20wrt_52-2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14421",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5c746d01-7709-4577-84b4-7167a51313e9&filename=c.a.%20wrt_52-2017.pdf",
   "parties": "Abdul Careem Jamal Mohideen and Others Vs The Director, Department of Muslim Religious and Cultural Affairs and Others",
   "judgement_by": " Hon.Arjuna Obeyesekere, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-05-03-C-A-PHC-07-2014",
   "num": "C.A PHC 07/2014",
   "date_str": "2019-05-03",
   "description": "Udayasiri Saman Kumara Jayawardena and Others Vs Polwatte Gedara Gamini and Others before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1c42b1e6-3af6-4fa0-a5a0-760ebdfa06cc&filename=ca-phc-7-2014%203.5.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14419",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1c42b1e6-3af6-4fa0-a5a0-760ebdfa06cc&filename=ca-phc-7-2014%203.5.2019.pdf",
   "parties": "Udayasiri Saman Kumara Jayawardena and Others Vs Polwatte Gedara Gamini and Others",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

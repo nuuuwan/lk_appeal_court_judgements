@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-02-21-CAPHC-APN-124-2012",
   "num": "CAPHC APN 124/2012",
   "date_str": "2014-02-21",
   "description": "Kulathunga Kankanamlage Asela Vs. J ayalath thinige Mangala Dilukumari before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=abdd4441-f54b-4725-b7a5-2c24cb0733f5&filename=ca_phc_apn_124_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14538",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=abdd4441-f54b-4725-b7a5-2c24cb0733f5&filename=ca_phc_apn_124_2012.pdf",
   "parties": "Kulathunga Kankanamlage Asela Vs. J ayalath thinige Mangala Dilukumari",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

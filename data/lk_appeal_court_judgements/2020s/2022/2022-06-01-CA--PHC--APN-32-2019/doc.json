@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-06-01-CA--PHC--APN-32-2019",
   "num": "CA.(PHC) APN 32/2019",
   "date_str": "2022-06-01",
   "description": "P. Mariyasekar Vs Sri Lanka Land Reclamation and Development Co-operation before  Hon.Prasantha De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b2ad9d06-47c0-48a0-8c1d-8b1a1ec9d530&filename=ca%20phc%2032_19.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14346",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b2ad9d06-47c0-48a0-8c1d-8b1a1ec9d530&filename=ca%20phc%2032_19.pdf",
   "parties": "P. Mariyasekar Vs Sri Lanka Land Reclamation and Development Co-operation",
   "judgement_by": " Hon.Prasantha De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

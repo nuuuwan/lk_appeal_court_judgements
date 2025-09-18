@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-11-02-CARV-1518-2006",
   "num": "CARV 1518/2006",
   "date_str": "2016-11-02",
   "description": "Piyasena Hapuaratchi Vs. Bulathsinghala & others before  Hon. P.R. Walgama, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a6d66a3c-ab08-4690-862f-60cb37877b05&filename=ca_rv_1518_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14504",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a6d66a3c-ab08-4690-862f-60cb37877b05&filename=ca_rv_1518_2006.pdf",
   "parties": "Piyasena Hapuaratchi Vs. Bulathsinghala & others",
   "judgement_by": " Hon. P.R. Walgama, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-07-29-CAHC-132-2012",
   "num": "CAHC 132/2012",
   "date_str": "2015-07-29",
   "description": "Dickmadu Godage Gunarathna Vs. Hon. Attorney General before  Hon. H.N.J. Perera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cc9db3f6-0c5c-41c1-9446-c46334478005&filename=ca_hc_132_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14521",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cc9db3f6-0c5c-41c1-9446-c46334478005&filename=ca_hc_132_2012.pdf",
   "parties": "Dickmadu Godage Gunarathna Vs. Hon. Attorney General",
   "judgement_by": " Hon. H.N.J. Perera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-03-14-CA-DCF-0875-99",
   "num": "CA/DCF/0875/99",
   "date_str": "2023-03-14",
   "description": "Nanayakkara Kudachchige Sirisena and 02 others Vs Ihala Lokuhewage Gnanasundara and others before  Hon. C.P. Kirtisinghe \u2013 J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a8d13401-6def-4848-92a3-286123314f1d&filename=ca-%20875-99%20f%201.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14317",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a8d13401-6def-4848-92a3-286123314f1d&filename=ca-%20875-99%20f%201.pdf",
   "parties": "Nanayakkara Kudachchige Sirisena and 02 others Vs Ihala Lokuhewage Gnanasundara and others",
   "judgement_by": " Hon. C.P. Kirtisinghe \u2013 J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

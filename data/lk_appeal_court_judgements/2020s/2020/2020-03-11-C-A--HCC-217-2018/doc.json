@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-03-11-C-A--HCC-217-2018",
   "num": "C.A. HCC/217/2018",
   "date_str": "2020-03-11",
   "description": "Punchihewage Sampath Kumara alias Bindu Vs Hon. Attorney General before  Hon. K. PRIYANTHA FERNANDO, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=84e4f9d0-586a-4995-9022-5e7db54968be&filename=c.a.%20hcc_217_18.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14392",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=84e4f9d0-586a-4995-9022-5e7db54968be&filename=c.a.%20hcc_217_18.pdf",
   "parties": "Punchihewage Sampath Kumara alias Bindu Vs Hon. Attorney General",
   "judgement_by": " Hon. K. PRIYANTHA FERNANDO, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

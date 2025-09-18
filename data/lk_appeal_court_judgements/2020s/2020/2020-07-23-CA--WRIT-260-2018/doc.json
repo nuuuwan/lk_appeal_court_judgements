@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-07-23-CA--WRIT-260-2018",
   "num": "CA/ WRIT/260/2018",
   "date_str": "2020-07-23",
   "description": "D.M.M.B. Dissanayake, Vs. Y.I.M. Silva, Divisional Secretariat, , Meerigama. & Others before  Hon. Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c01f9789-fa18-4d99-aeaa-2327a98c44f7&filename=ca-writ-260-2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14400",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c01f9789-fa18-4d99-aeaa-2327a98c44f7&filename=ca-writ-260-2018.pdf",
   "parties": "D.M.M.B. Dissanayake, Vs. Y.I.M. Silva, Divisional Secretariat, , Meerigama. & Others",
   "judgement_by": " Hon. Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

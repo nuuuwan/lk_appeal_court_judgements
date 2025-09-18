@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-06-13-CA-HCC-0024-22",
   "num": "CA/HCC/0024/22",
   "date_str": "2023-06-13",
   "description": "Hemantha Pushpa Kumara alias Kurumbapitiyalage Hemantha Pushpalal Vs The Hon. Attorney General, before  Hon. Sampath B. Abayakoon, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0e37a1d3-728a-414a-8653-f771aac039fa&filename=hcc-0024-022%20final%20judgement.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14323",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0e37a1d3-728a-414a-8653-f771aac039fa&filename=hcc-0024-022%20final%20judgement.pdf",
   "parties": "Hemantha Pushpa Kumara alias Kurumbapitiyalage Hemantha Pushpalal Vs The Hon. Attorney General,",
   "judgement_by": " Hon. Sampath B. Abayakoon, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

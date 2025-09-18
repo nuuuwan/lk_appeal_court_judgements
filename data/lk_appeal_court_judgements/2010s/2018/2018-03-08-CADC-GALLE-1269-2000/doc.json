@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-03-08-CADC-GALLE-1269-2000",
   "num": "CADC GALLE 1269/2000",
   "date_str": "2018-03-08",
   "description": "Danthika Lakshamani Abeywardena Wickramasinghe Vs. Hettiarachchige Sunny de Alwis before  Hon. A.H.M.D. Nawaz, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=72f7d187-3044-4df5-9001-0586bf580e7a&filename=ca_dc_galle_1269_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14506",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=72f7d187-3044-4df5-9001-0586bf580e7a&filename=ca_dc_galle_1269_2000.pdf",
   "parties": "Danthika Lakshamani Abeywardena Wickramasinghe Vs. Hettiarachchige Sunny de Alwis",
   "judgement_by": " Hon. A.H.M.D. Nawaz, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

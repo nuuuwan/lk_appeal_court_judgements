@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-08-02-CA-HCC-0298-2019-Kanaga-3150ca45",
   "num": "CA/HCC/0298/2019 Kanagaratnam Mariyadas Vs Hon. Attorney General - Hon. K Priyantha Fernando, J. (P/CA",
   "date_str": "2022-08-02",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d431b571-f394-4448-b740-040550d183c6&filename=ca%20hcc%200298-2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14352",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d431b571-f394-4448-b740-040550d183c6&filename=ca%20hcc%200298-2019.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

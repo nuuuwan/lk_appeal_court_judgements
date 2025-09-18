@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-04-06-CA518-2009",
   "num": "CA518/2009",
   "date_str": "2017-04-06",
   "description": "Nawalage Thilaka Kanthie Cooray Vs. National Insurance Trust Fund Board & others before  Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6b88ab50-233e-457c-87a1-ce70acf8b06d&filename=ca_518_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14465",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6b88ab50-233e-457c-87a1-ce70acf8b06d&filename=ca_518_2009.pdf",
   "parties": "Nawalage Thilaka Kanthie Cooray Vs. National Insurance Trust Fund Board & others",
   "judgement_by": " Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

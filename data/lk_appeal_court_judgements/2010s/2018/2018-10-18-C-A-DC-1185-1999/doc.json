@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-10-18-C-A-DC-1185-1999",
   "num": "C.A DC 1185/1999",
   "date_str": "2018-10-18",
   "description": "Kuruwita Mult Purpose Corporative Society Ltd Vs J. Shaul Hameed before  Hon M. M. A. Gaffoor, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b84dc9b9-2945-4a1d-878c-00e88bc9e907&filename=c.a%20dc_1185_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14454",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b84dc9b9-2945-4a1d-878c-00e88bc9e907&filename=c.a%20dc_1185_99.pdf",
   "parties": "Kuruwita Mult Purpose Corporative Society Ltd Vs J. Shaul Hameed",
   "judgement_by": " Hon M. M. A. Gaffoor, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

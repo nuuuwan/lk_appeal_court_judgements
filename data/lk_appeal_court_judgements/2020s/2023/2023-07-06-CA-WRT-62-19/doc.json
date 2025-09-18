@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-07-06-CA-WRT-62-19",
   "num": "CA/WRT/62/19",
   "date_str": "2023-07-06",
   "description": "K.G.A.Gamlath Vs Administrative Appeals Tribunal and others before  Hon. M. T. MOHAMMED LAFFAR, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=45d4e342-1fcc-4de7-8579-c0f93a9450fc&filename=ca-wrt-62-19%201.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14325",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=45d4e342-1fcc-4de7-8579-c0f93a9450fc&filename=ca-wrt-62-19%201.pdf",
   "parties": "K.G.A.Gamlath Vs Administrative Appeals Tribunal and others",
   "judgement_by": " Hon. M. T. MOHAMMED LAFFAR, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

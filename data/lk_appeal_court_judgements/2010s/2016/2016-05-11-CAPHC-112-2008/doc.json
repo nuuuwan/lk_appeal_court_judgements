@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-05-11-CAPHC-112-2008",
   "num": "CAPHC 112/2008",
   "date_str": "2016-05-11",
   "description": "Divisional Secretary, Minuwangoda Vs. Mohamad Ismail Noor Faiza before  Hon. W.M.M. Malinie Gunaratne J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=04903b7a-9087-43c7-b0a3-6cc4e8d4579d&filename=ca_phc_112_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14533",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=04903b7a-9087-43c7-b0a3-6cc4e8d4579d&filename=ca_phc_112_2008.pdf",
   "parties": "Divisional Secretary, Minuwangoda Vs. Mohamad Ismail Noor Faiza",
   "judgement_by": " Hon. W.M.M. Malinie Gunaratne J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

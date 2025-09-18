@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-02-28-CAHC-30-2009",
   "num": "CAHC 30/2009",
   "date_str": "2017-02-28",
   "description": "Baraniwala Liyanage Sunil alias Wasthuwa alias Diyalape Wasthuwa Vs. Hon. Attorney General before  Hon. L.U. Jayasuriya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ba635187-298c-44f4-8ac7-66fba1b9d87c&filename=ca_hc_30_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14463",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ba635187-298c-44f4-8ac7-66fba1b9d87c&filename=ca_hc_30_2009.pdf",
   "parties": "Baraniwala Liyanage Sunil alias Wasthuwa alias Diyalape Wasthuwa Vs. Hon. Attorney General",
   "judgement_by": " Hon. L.U. Jayasuriya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

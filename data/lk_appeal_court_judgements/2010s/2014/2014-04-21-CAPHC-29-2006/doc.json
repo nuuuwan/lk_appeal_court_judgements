@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-04-21-CAPHC-29-2006",
   "num": "CAPHC 29/2006",
   "date_str": "2014-04-21",
   "description": "V.S. Lilani De Silva Vs. G.G. Lakmini Dias Seneviratne before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b2f3347e-f1f9-4da0-add4-831313d18bbd&filename=ca_phc_29_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14540",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b2f3347e-f1f9-4da0-add4-831313d18bbd&filename=ca_phc_29_2006.pdf",
   "parties": "V.S. Lilani De Silva Vs. G.G. Lakmini Dias Seneviratne",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

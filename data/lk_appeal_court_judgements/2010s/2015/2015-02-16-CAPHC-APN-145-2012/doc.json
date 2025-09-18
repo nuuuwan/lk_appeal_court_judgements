@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-02-16-CAPHC-APN-145-2012",
   "num": "CAPHC APN 145/2012",
   "date_str": "2015-02-16",
   "description": "R.B. Chaminda Kumara Wanninayake Vs. Hon. Attorney General before  Hon. K.T. Chitrasiri, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=41540d31-c8c9-482d-b5b4-cf196282b05e&filename=ca_phc_apn_145_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14511",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=41540d31-c8c9-482d-b5b4-cf196282b05e&filename=ca_phc_apn_145_2012.pdf",
   "parties": "R.B. Chaminda Kumara Wanninayake Vs. Hon. Attorney General",
   "judgement_by": " Hon. K.T. Chitrasiri, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

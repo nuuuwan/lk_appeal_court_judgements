@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-02-29-CA-WRT-0267-19",
   "num": "CA-WRT-0267-19",
   "date_str": "2024-02-29",
   "description": "Christy David and Others Vs. C. D. Wickramaratne, Inspector General of Police and Others before Hon. S.U.B. Karalliyadde, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4e15f8f4-e7fa-4cd1-8ae5-288703291084&filename=CA-WRT-0267-19.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10836",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4e15f8f4-e7fa-4cd1-8ae5-288703291084&filename=CA-WRT-0267-19.pdf.pdf",
   "parties": "Christy David and Others Vs. C. D. Wickramaratne, Inspector General of Police and Others",
   "judgement_by": "Hon. S.U.B. Karalliyadde, J.",
   "keywords": "Combined allowance paid to the police officers, legitimate expectation, whether the decision to reduce the days the combined allowance is paid is irrational and unreasonable, futility.",
-  "legistation": "The Constitution of the Democratic Republic of Sri Lanka.",
-  "lang": "en"
+  "legistation": "The Constitution of the Democratic Republic of Sri Lanka."
 }

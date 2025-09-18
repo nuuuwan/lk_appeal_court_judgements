@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-20-HCC-0295-13",
   "num": "HCC-0295-13",
   "date_str": "2022-10-20",
   "description": "ModarageRaneesha vs The Honourable Attorney General before Hon. R. Gurusinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f4c46133-c56a-4b95-bacf-e4e7fc095419&filename=295-2013%20%28EDITED%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3951",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f4c46133-c56a-4b95-bacf-e4e7fc095419&filename=295-2013%20%28EDITED%29.pdf.pdf",
   "parties": "ModarageRaneesha vs The Honourable Attorney General",
   "judgement_by": "Hon. R. Gurusinghe, J",
   "keywords": "Test of probability",
-  "legistation": "Section 54 of the Poisons Opium and Dangerous Drugs Ordinance, as amended by Act no. 13 of 1984.",
-  "lang": "en"
+  "legistation": "Section 54 of the Poisons Opium and Dangerous Drugs Ordinance, as amended by Act no. 13 of 1984."
 }

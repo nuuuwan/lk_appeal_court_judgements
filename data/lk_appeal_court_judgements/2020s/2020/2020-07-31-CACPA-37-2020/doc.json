@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-07-31-CACPA-37-2020",
   "num": "CACPA/37/2020",
   "date_str": "2020-07-31",
   "description": "Palitha Piyasiri Fernanado and Other Vs Mr. Kanishka Wijeratne and Others before  Hon. K,K,WICKREMASINGHE, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=233eda01-5be7-4772-a66a-a50e7a8a11e7&filename=ca.%20cpa_37_2020.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14400",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=233eda01-5be7-4772-a66a-a50e7a8a11e7&filename=ca.%20cpa_37_2020.pdf",
   "parties": "Palitha Piyasiri Fernanado and Other Vs Mr. Kanishka Wijeratne and Others",
   "judgement_by": " Hon. K,K,WICKREMASINGHE, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

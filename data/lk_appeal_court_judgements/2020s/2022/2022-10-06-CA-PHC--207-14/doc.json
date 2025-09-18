@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-06-CA-PHC--207-14",
   "num": "CA(PHC) 207/14",
   "date_str": "2022-10-06",
   "description": "Welendawa Acharuge Priayantha Alison and others Vs Kokmaduwa Parana Gunawathie before  Hon. Prasantha De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=098f62f9-ec67-4d52-8967-4f906bc3b7fb&filename=ca%20phc%20207_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=098f62f9-ec67-4d52-8967-4f906bc3b7fb&filename=ca%20phc%20207_2014.pdf",
   "parties": "Welendawa Acharuge Priayantha Alison and others Vs Kokmaduwa Parana Gunawathie",
   "judgement_by": " Hon. Prasantha De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

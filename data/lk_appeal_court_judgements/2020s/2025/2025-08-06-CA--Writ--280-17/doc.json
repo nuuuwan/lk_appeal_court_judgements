@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2025-08-06-CA--Writ--280-17",
   "num": "CA (Writ) 280/17",
   "date_str": "2025-08-06",
   "description": "H G. Karunawathi Vs Peoples Bank and others before Hon. Dhammika Ganepola, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ec8f7e9c-53e0-4246-a82f-3ae2c20c25f6&filename=CA-%20WRIT-%20280-2017%20%20%281%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=13118",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ec8f7e9c-53e0-4246-a82f-3ae2c20c25f6&filename=CA-%20WRIT-%20280-2017%20%20%281%29.pdf.pdf",
   "parties": "H G. Karunawathi Vs Peoples Bank and others",
   "judgement_by": "Hon. Dhammika Ganepola, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

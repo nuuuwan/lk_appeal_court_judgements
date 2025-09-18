@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-05-21-C-A-WRIT-308-2013",
   "num": "C.A WRIT 308/2013",
   "date_str": "2021-05-21",
   "description": "M.T.Thilakaratne Vs. D.D. Upul Shantha De Alwis, Commissioner of Co-operative Development and Others before Hon Justice Arjuna Obeyesekere, P/CA",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2cdb2b01-5a99-491c-b19f-28836bab5b14&filename=ca.308.13.final.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9824",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2cdb2b01-5a99-491c-b19f-28836bab5b14&filename=ca.308.13.final.pdf.pdf",
   "parties": "M.T.Thilakaratne Vs. D.D. Upul Shantha De Alwis, Commissioner of Co-operative Development and Others",
   "judgement_by": "Hon Justice Arjuna Obeyesekere, P/CA",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

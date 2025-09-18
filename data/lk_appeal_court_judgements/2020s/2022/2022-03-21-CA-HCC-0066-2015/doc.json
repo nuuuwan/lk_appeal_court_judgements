@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-03-21-CA-HCC-0066-2015",
   "num": "CA/HCC/0066/2015",
   "date_str": "2022-03-21",
   "description": "Chet Bahadur Thapa Vs Hon. The Attorney General before  Hon. Sampath B Abayakoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eee72cf1-fa50-4255-a60a-d211dc59c677&filename=hcc-0066-15%20final%20%20judgment.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14342",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eee72cf1-fa50-4255-a60a-d211dc59c677&filename=hcc-0066-15%20final%20%20judgment.pdf",
   "parties": "Chet Bahadur Thapa Vs Hon. The Attorney General",
   "judgement_by": " Hon. Sampath B Abayakoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

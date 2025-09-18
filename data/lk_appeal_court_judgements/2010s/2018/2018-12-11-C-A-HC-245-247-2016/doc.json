@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-12-11-C-A-HC-245-247-2016",
   "num": "C.A HC 245-247/2016",
   "date_str": "2018-12-11",
   "description": "Herath Mudiyanselage Ranjith Bandara and Others Vs Hon. Attorney General before  Hon Achala Wengappuli, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8a5be3ab-c572-427b-9f8f-bb7bc191c47a&filename=c.a%20%20hc%20%20245-247_2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14458",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8a5be3ab-c572-427b-9f8f-bb7bc191c47a&filename=c.a%20%20hc%20%20245-247_2016.pdf",
   "parties": "Herath Mudiyanselage Ranjith Bandara and Others Vs Hon. Attorney General",
   "judgement_by": " Hon Achala Wengappuli, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

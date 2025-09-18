@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-12-21-CA354-2012",
   "num": "CA354/2012",
   "date_str": "2016-12-21",
   "description": "B.A Jinapala Amarasinghe Vs. The Secretary, Ministry of Public Administration & Home Affairs & others before  Hon. L.U. Jayasuriya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e3beeb19-d444-4043-b22f-5058968815a4&filename=ca_354_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14508",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e3beeb19-d444-4043-b22f-5058968815a4&filename=ca_354_2012.pdf",
   "parties": "B.A Jinapala Amarasinghe Vs. The Secretary, Ministry of Public Administration & Home Affairs & others",
   "judgement_by": " Hon. L.U. Jayasuriya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-06-27-CADC-Tangalle-254-98",
   "num": "CADC Tangalle 254/98",
   "date_str": "2014-06-27",
   "description": "Kendala Vidanapat iranage Wimalaseeli Vs. Wilbert Weerasnghe before  Hon. K.T. Chitrasiri, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0a32b057-e3c3-4bcd-a529-2cb5c6b048c3&filename=ca_dc_tangalle_254_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14546",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0a32b057-e3c3-4bcd-a529-2cb5c6b048c3&filename=ca_dc_tangalle_254_98.pdf",
   "parties": "Kendala Vidanapat iranage Wimalaseeli Vs. Wilbert Weerasnghe",
   "judgement_by": " Hon. K.T. Chitrasiri, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

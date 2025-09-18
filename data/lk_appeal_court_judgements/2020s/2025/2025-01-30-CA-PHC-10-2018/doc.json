@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2025-01-30-CA-PHC-10-2018",
   "num": "CA/PHC-10-2018",
   "date_str": "2025-01-30",
   "description": "Francis Don Turin Perera Vs John BalasundaramPulle and others before Hon.M.C.B.S. Morais J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f9cc1b6f-218f-4d42-9286-6f52e864221a&filename=PHC-10-18-Judgment.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=13095",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f9cc1b6f-218f-4d42-9286-6f52e864221a&filename=PHC-10-18-Judgment.pdf.pdf",
   "parties": "Francis Don Turin Perera Vs John BalasundaramPulle and others",
   "judgement_by": "Hon.M.C.B.S. Morais J",
   "keywords": "Breach of peace or likelihood of breach of peace, comparison of Section 66(1)(a) & 66(1)(b)",
-  "legistation": "Section 66(1)(b) of Primary Courts\u2019 Procedure Act No 44 of 1979",
-  "lang": "en"
+  "legistation": "Section 66(1)(b) of Primary Courts\u2019 Procedure Act No 44 of 1979"
 }

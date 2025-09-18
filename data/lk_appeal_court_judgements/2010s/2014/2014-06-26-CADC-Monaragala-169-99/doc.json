@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-06-26-CADC-Monaragala-169-99",
   "num": "CADC Monaragala 169/99",
   "date_str": "2014-06-26",
   "description": "W.A.Jinadasa Vs. Wawulanbokka Acharige Nimal before  Hon. H.N.J. Rerera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1d2a5316-7cda-47d7-90d9-d38a3f197e26&filename=ca_dc_monaragala_169_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14546",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1d2a5316-7cda-47d7-90d9-d38a3f197e26&filename=ca_dc_monaragala_169_99.pdf",
   "parties": "W.A.Jinadasa Vs. Wawulanbokka Acharige Nimal",
   "judgement_by": " Hon. H.N.J. Rerera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-09-11-CAHC-179-2016",
   "num": "CAHC 179/2016",
   "date_str": "2017-09-11",
   "description": "R.M. Chandrasena, Vs. Hon. Attorney General before  Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=71097e3f-0830-47b3-a79a-3107b10ce912&filename=ca_writ_179_2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14473",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=71097e3f-0830-47b3-a79a-3107b10ce912&filename=ca_writ_179_2016.pdf",
   "parties": "R.M. Chandrasena, Vs. Hon. Attorney General",
   "judgement_by": " Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

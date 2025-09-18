@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-03-24-CA-HCC-407-19",
   "num": "CA/HCC/407-19",
   "date_str": "2022-03-24",
   "description": "NarangodaArachchilage Sarath Kumara Vs Hon. Attorney General before  Hon. Wickum A Kaluarachchi, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a8713131-ae53-49bf-8009-bcc1d5027fa8&filename=hcc-407-19%20-%2024.03.2022.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14342",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a8713131-ae53-49bf-8009-bcc1d5027fa8&filename=hcc-407-19%20-%2024.03.2022.pdf",
   "parties": "NarangodaArachchilage Sarath Kumara Vs Hon. Attorney General",
   "judgement_by": " Hon. Wickum A Kaluarachchi, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

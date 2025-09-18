@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-08-06-C-A-HB-01-2017",
   "num": "C.A HB 01/2017",
   "date_str": "2018-08-06",
   "description": "Ahamed Fakih Vs Hon Attorney General and Others before  Hon Achala Wengappuli, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2028f41d-fba7-44a0-b1b7-9a63cf3e5665&filename=c.a_hb_01_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14450",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2028f41d-fba7-44a0-b1b7-9a63cf3e5665&filename=c.a_hb_01_2017.pdf",
   "parties": "Ahamed Fakih Vs Hon Attorney General and Others",
   "judgement_by": " Hon Achala Wengappuli, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

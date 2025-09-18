@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-10-10-CA-HCC-0148-0150-2022",
   "num": "CA/HCC/0148/0150/2022",
   "date_str": "2023-10-10",
   "description": "K. A. D. BandulaHemakumara and others Vs The Hon. Attorney General before  Hon. Sampath B. Abayakoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=22e11638-1223-4322-a515-9f5abb1bcd7d&filename=hcc-0148-0150-2022%20final%20judgement.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14331",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=22e11638-1223-4322-a515-9f5abb1bcd7d&filename=hcc-0148-0150-2022%20final%20judgement.pdf",
   "parties": "K. A. D. BandulaHemakumara and others Vs The Hon. Attorney General",
   "judgement_by": " Hon. Sampath B. Abayakoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-06-27-MC-RV-10-2014",
   "num": "MC-RV/10/2014",
   "date_str": "2014-06-27",
   "description": " before M. Subhashini Silva Vs. Hon. Attorney- General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7a93a01a-0415-4897-9d95-748703008532&filename=mc-rv_10_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14546",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7a93a01a-0415-4897-9d95-748703008532&filename=mc-rv_10_2014.pdf",
   "parties": "",
   "judgement_by": "M. Subhashini Silva Vs. Hon. Attorney- General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

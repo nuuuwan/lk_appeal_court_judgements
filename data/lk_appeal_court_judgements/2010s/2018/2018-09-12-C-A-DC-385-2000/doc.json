@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-09-12-C-A-DC-385-2000",
   "num": "C.A DC 385/2000",
   "date_str": "2018-09-12",
   "description": "Indu Nilmini Urmila Ethapane Vs Nihal Indrajith Ethapane before  Hon A.H.M.D. Nawaz, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=41338996-1232-483d-8fc4-b00f8655e32a&filename=c.a%20dc%20385_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14483",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=41338996-1232-483d-8fc4-b00f8655e32a&filename=c.a%20dc%20385_2000.pdf",
   "parties": "Indu Nilmini Urmila Ethapane Vs Nihal Indrajith Ethapane",
   "judgement_by": " Hon A.H.M.D. Nawaz, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

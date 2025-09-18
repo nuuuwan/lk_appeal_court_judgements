@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-04-09-C-A-APN-132-2018",
   "num": "C.A APN/132/2018",
   "date_str": "2021-04-09",
   "description": "Dinesh Kesara Gunasekara Vs Thilakarathna Mudiyanselage Thilakarathna and Other before Hon. S.U.B. Karalliyadde, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=18f5c74c-c54f-4f27-9e42-e000700cd37b&filename=cpa-apn-132-2018.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9823",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=18f5c74c-c54f-4f27-9e42-e000700cd37b&filename=cpa-apn-132-2018.pdf.pdf",
   "parties": "Dinesh Kesara Gunasekara Vs Thilakarathna Mudiyanselage Thilakarathna and Other",
   "judgement_by": "Hon. S.U.B. Karalliyadde, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

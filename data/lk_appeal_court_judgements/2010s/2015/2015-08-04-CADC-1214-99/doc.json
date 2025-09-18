@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-08-04-CADC-1214-99",
   "num": "CADC 1214/99",
   "date_str": "2015-08-04",
   "description": "Somasegaran Shanmuganathan Vs. Niranjan Naganathan & others before  Hon. P.W.D.C. Jayathilake, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ed3a48ee-451b-45b4-8535-beae5f6d93d8&filename=ca_dc_1214_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14523",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ed3a48ee-451b-45b4-8535-beae5f6d93d8&filename=ca_dc_1214_99.pdf",
   "parties": "Somasegaran Shanmuganathan Vs. Niranjan Naganathan & others",
   "judgement_by": " Hon. P.W.D.C. Jayathilake, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

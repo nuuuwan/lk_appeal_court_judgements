@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-12-07-CA-WRIT-619-2011",
   "num": "CA.WRIT 619/2011",
   "date_str": "2021-12-07",
   "description": "Manjula Rajapakse Vs D.G.M.V. Hapuarachchi and Others before  Hon. K.K.A.V. Swarnadhipathi, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a7d4b653-3c88-4a8f-ac9f-96909b6ea101&filename=ca%20619-2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14385",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a7d4b653-3c88-4a8f-ac9f-96909b6ea101&filename=ca%20619-2011.pdf",
   "parties": "Manjula Rajapakse Vs D.G.M.V. Hapuarachchi and Others",
   "judgement_by": " Hon. K.K.A.V. Swarnadhipathi, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-04-05-C-A--HC-24-2011",
   "num": "C.A. HC/24/2011",
   "date_str": "2019-04-05",
   "description": "Ambagahagedara Nimal Ratnayake VS. Hon. Attorney General before  Hon. M. M. A. Gaffoor, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fd9107a1-dac0-4fe2-961c-7ba2d497e667&filename=c.a._hc_24_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14417",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fd9107a1-dac0-4fe2-961c-7ba2d497e667&filename=c.a._hc_24_2011.pdf",
   "parties": "Ambagahagedara Nimal Ratnayake VS. Hon. Attorney General",
   "judgement_by": " Hon. M. M. A. Gaffoor, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

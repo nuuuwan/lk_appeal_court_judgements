@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-10-20-CAAPN-36-2020",
   "num": "CAAPN/36/2020",
   "date_str": "2020-10-20",
   "description": "Wellambage Chamila Rangana Perera Vs Hon. Attorney General before  Hon.K. PRIYANTHA FERNANDO, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ae604cf9-f897-41aa-900e-2ba83a42c241&filename=ca%20apn_36_2020.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14406",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ae604cf9-f897-41aa-900e-2ba83a42c241&filename=ca%20apn_36_2020.pdf",
   "parties": "Wellambage Chamila Rangana Perera Vs Hon. Attorney General",
   "judgement_by": " Hon.K. PRIYANTHA FERNANDO, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-07-06-CA-432-2015-WRIT",
   "num": "CA/432/2015/WRIT",
   "date_str": "2018-07-06",
   "description": "Gunasinghe Arachchige Saman Vs. Urban Development Authority before  Hon. Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3fe4affc-87e2-4554-abe0-311e436baf61&filename=ca-432-2015-writ-29.6.2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14446",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3fe4affc-87e2-4554-abe0-311e436baf61&filename=ca-432-2015-writ-29.6.2018.pdf",
   "parties": "Gunasinghe Arachchige Saman Vs. Urban Development Authority",
   "judgement_by": " Hon. Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-03-31-C-A--HCC-217-2017",
   "num": "C.A. HCC/217/2017",
   "date_str": "2021-03-31",
   "description": "K.D. Needra Nilangani Perera Vs Hon Attorney General before  Hon. R. Gurusinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b70e740e-3130-446e-9b03-2fd470df6c12&filename=ca%20hcc217-17.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14367",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b70e740e-3130-446e-9b03-2fd470df6c12&filename=ca%20hcc217-17.pdf",
   "parties": "K.D. Needra Nilangani Perera Vs Hon Attorney General",
   "judgement_by": " Hon. R. Gurusinghe, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

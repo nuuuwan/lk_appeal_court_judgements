@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-05-13-CADC-Kuliyapitiya-540-99",
   "num": "CADC Kuliyapitiya 540/99",
   "date_str": "2014-05-13",
   "description": "Ven. Baragedara Piyatissa Thero Vs. H. Noihami & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=17b9375f-e457-4351-aa9d-7749f4b4e1dd&filename=ca_dc_kuliyapitiya_540_1999.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14542",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=17b9375f-e457-4351-aa9d-7749f4b4e1dd&filename=ca_dc_kuliyapitiya_540_1999.pdf",
   "parties": "Ven. Baragedara Piyatissa Thero Vs. H. Noihami & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

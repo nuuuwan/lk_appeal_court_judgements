@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-11-30-hcc-0300-301-15",
   "num": "hcc-0300-301-15",
   "date_str": "2022-11-30",
   "description": "Liyadupitiya Wijesinghe Koralage Don Tyron Godwin and another vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e3de01d4-43cb-4b3b-b74b-25c47676d494&filename=Court%20of%20Appeal%20CA.0300-301-2015.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3957",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e3de01d4-43cb-4b3b-b74b-25c47676d494&filename=Court%20of%20Appeal%20CA.0300-301-2015.pdf.pdf",
   "parties": "Liyadupitiya Wijesinghe Koralage Don Tyron Godwin and another vs The Hon. Attorney General",
   "judgement_by": "Hon. P. Kumararatnam, J.",
   "keywords": "\u2022 Burden of proof. \u2022 Section 33 of Evidence Ordinance. \u2022 Dock Statement.",
-  "legistation": "Penal Code",
-  "lang": "en"
+  "legistation": "Penal Code"
 }

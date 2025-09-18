@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-03-21-CA-HCC-0125-23",
   "num": "CA-HCC-0125-23",
   "date_str": "2024-03-21",
   "description": "Pahalage Mahesh Kumara alias Sudda Vs. The Democratic Socialist Republic of Sri Lanka before Hon. Wickum A. Kaluarachchi, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=42b9e8d7-a859-4cf3-a64b-bf30679751af&filename=CA-HCC-0125-23.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10835",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=42b9e8d7-a859-4cf3-a64b-bf30679751af&filename=CA-HCC-0125-23.pdf.pdf",
   "parties": "Pahalage Mahesh Kumara alias Sudda Vs. The Democratic Socialist Republic of Sri Lanka",
   "judgement_by": "Hon. Wickum A. Kaluarachchi, J.",
   "keywords": "-Identification of the Accused. -Lighting condition in identification. -Presumption of innocence should be operative until the entirety of the evidence is analyzed. -Credibility of prosecution witness.",
-  "legistation": "Section 296 of the Penal Code.",
-  "lang": "en"
+  "legistation": "Section 296 of the Penal Code."
 }

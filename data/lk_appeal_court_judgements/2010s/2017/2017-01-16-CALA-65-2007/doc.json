@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-01-16-CALA-65-2007",
   "num": "CALA 65/2007",
   "date_str": "2017-01-16",
   "description": "Director General, Commission to Investigate Allegations Of Bribery or Corruption Vs. Y.H. Kithsiri Manjula Kumara Yapa & another before  Hon. L.U. Jayasuriya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2949bd32-bba5-44ea-9dff-8238ced32ea8&filename=ca_la_65_2007.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14461",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2949bd32-bba5-44ea-9dff-8238ced32ea8&filename=ca_la_65_2007.pdf",
   "parties": "Director General, Commission to Investigate Allegations Of Bribery or Corruption Vs. Y.H. Kithsiri Manjula Kumara Yapa & another",
   "judgement_by": " Hon. L.U. Jayasuriya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-31-CA-WRT-0159-14",
   "num": "CA.WRT/0159/14",
   "date_str": "2022-10-31",
   "description": "Osmond Chandrapala Manawadu Vs D. G. M. V. Hapuarachchi and others before  Hon. Mayadunne Corea, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e21617fe-ee36-4c6a-acfd-43b11d6e4ebe&filename=ca%20writ%20159-14%20corrected.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e21617fe-ee36-4c6a-acfd-43b11d6e4ebe&filename=ca%20writ%20159-14%20corrected.pdf",
   "parties": "Osmond Chandrapala Manawadu Vs D. G. M. V. Hapuarachchi and others",
   "judgement_by": " Hon. Mayadunne Corea, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

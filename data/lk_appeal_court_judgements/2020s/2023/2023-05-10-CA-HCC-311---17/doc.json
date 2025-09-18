@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-05-10-CA-HCC-311---17",
   "num": "CA HCC 311 / 17",
   "date_str": "2023-05-10",
   "description": "Joseph Camillus Rodrigo Vs Hon. Attorney General - before Hon. Menaka Wijesundera J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e9d21a3b-e11c-45d4-8525-8ef6ba1bed9c&filename=HCC%20-%200311%20-%2017.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=7407",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e9d21a3b-e11c-45d4-8525-8ef6ba1bed9c&filename=HCC%20-%200311%20-%2017.pdf.pdf",
   "parties": "Joseph Camillus Rodrigo Vs Hon. Attorney General -",
   "judgement_by": "Hon. Menaka Wijesundera J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

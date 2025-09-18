@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-10-29-C-A-HC-175-2009",
   "num": "C.A HC 175/2009",
   "date_str": "2018-10-29",
   "description": "Vinoda Hewage Buddika Eranda Vs Hon Attorney General before  Hon Deepali Wijesundera, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b5d3dcb5-32fa-4a29-bc40-ba7696692392&filename=c.a%20%20hc%20175_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14454",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b5d3dcb5-32fa-4a29-bc40-ba7696692392&filename=c.a%20%20hc%20175_2009.pdf",
   "parties": "Vinoda Hewage Buddika Eranda Vs Hon Attorney General",
   "judgement_by": " Hon Deepali Wijesundera, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

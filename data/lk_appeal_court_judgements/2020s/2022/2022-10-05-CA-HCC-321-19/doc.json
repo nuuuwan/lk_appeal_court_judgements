@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-05-CA-HCC-321-19",
   "num": "CA.HCC/321/19",
   "date_str": "2022-10-05",
   "description": "Pushparaj Delip Kumar Vs Hon. Attorney General before  HON. WICKUM A. KALUARACHCHI, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=01d74406-9b18-4aa8-b578-4c0f788499c3&filename=hcc-0321-19%20-%2005.10.2022.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=01d74406-9b18-4aa8-b578-4c0f788499c3&filename=hcc-0321-19%20-%2005.10.2022.pdf",
   "parties": "Pushparaj Delip Kumar Vs Hon. Attorney General",
   "judgement_by": " HON. WICKUM A. KALUARACHCHI, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

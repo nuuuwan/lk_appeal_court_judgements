@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-12-23-CADC-699-98",
   "num": "CADC 699/98",
   "date_str": "2015-12-23",
   "description": "W.A. Sumanawathie Vs. R.A.G. Dingiri Banda - Hon. A.H.M.D. Nawaz, J - Undelivered notices not notified-Appeal dismissed-Relisting- A Court whose act has caused injury to a suitor has an inherent power to make restitution before Appeal relisted.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e483623c-76fd-4dbd-a2b3-219439bf5549&filename=ca_dc_699_98_new.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14533",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e483623c-76fd-4dbd-a2b3-219439bf5549&filename=ca_dc_699_98_new.pdf",
   "parties": "W.A. Sumanawathie Vs. R.A.G. Dingiri Banda - Hon. A.H.M.D. Nawaz, J - Undelivered notices not notified-Appeal dismissed-Relisting- A Court whose act has caused injury to a suitor has an inherent power to make restitution",
   "judgement_by": "Appeal relisted.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

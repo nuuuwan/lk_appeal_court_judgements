@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-01-10-C-A-DC-401-1995",
   "num": "C.A DC 401/1995",
   "date_str": "2019-01-10",
   "description": "W. K. D. Wijesinghe Vs K. K. D. Champa Samanmali Gunathilake before  Hon M.M.A. Gaffoor, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=589fa422-8e66-448a-a9fd-752908ca56be&filename=ca%20401-95%2010.0119.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14411",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=589fa422-8e66-448a-a9fd-752908ca56be&filename=ca%20401-95%2010.0119.pdf",
   "parties": "W. K. D. Wijesinghe Vs K. K. D. Champa Samanmali Gunathilake",
   "judgement_by": " Hon M.M.A. Gaffoor, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

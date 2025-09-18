@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-09-06-CAPHC-154-2010",
   "num": "CAPHC 154/2010",
   "date_str": "2016-09-06",
   "description": "Castle Textile Industries Vs. Deputy Commissioner of Labour before  Hon. P.R. Walgama, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2d4f81c3-e60b-4d68-a8f3-47c35e724e94&filename=ca_phc_154_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14500",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2d4f81c3-e60b-4d68-a8f3-47c35e724e94&filename=ca_phc_154_2010.pdf",
   "parties": "Castle Textile Industries Vs. Deputy Commissioner of Labour",
   "judgement_by": " Hon. P.R. Walgama, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

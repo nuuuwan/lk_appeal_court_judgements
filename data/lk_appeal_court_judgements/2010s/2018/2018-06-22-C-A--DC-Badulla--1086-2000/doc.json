@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-06-22-C-A--DC-Badulla--1086-2000",
   "num": "C.A. DC Badulla .1086/2000",
   "date_str": "2018-06-22",
   "description": "(F) W.M. Heen Menika Vs Pitchamuttu Murugiah, Hon A.H.M.D. Nawaz,J. before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=96c19d5f-eddb-4246-9f2c-31a29b400edd&filename=ca_dc_1086_00.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14446",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=96c19d5f-eddb-4246-9f2c-31a29b400edd&filename=ca_dc_1086_00.pdf",
   "parties": "(F) W.M. Heen Menika Vs Pitchamuttu Murugiah, Hon A.H.M.D. Nawaz,J.",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-05-26-CA-WRT-296-2019",
   "num": "CA.WRT/296/2019",
   "date_str": "2022-05-26",
   "description": "Kotuwe Gedara Dimuthu Sanjeewa Vs Mr.S.S.G.Perera And Others before  HON. M. T. MOHAMMED LAFFAR, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=37445289-194d-4ba8-a17c-6e3b6cc4fa22&filename=writ-296-19.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14346",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=37445289-194d-4ba8-a17c-6e3b6cc4fa22&filename=writ-296-19.pdf",
   "parties": "Kotuwe Gedara Dimuthu Sanjeewa Vs Mr.S.S.G.Perera And Others",
   "judgement_by": " HON. M. T. MOHAMMED LAFFAR, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-06-30-CAWrit-866-2010",
   "num": "CAWrit 866/2010",
   "date_str": "2017-06-30",
   "description": "Piyal Kumarasiri Wadanambi Vs. Air Commodore Wijitha Gunaratne & others before  Hon. L.U. Jayasuriya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e79c730f-725c-46d5-be96-1de3ef53f6e4&filename=ca_writ_866_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14471",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e79c730f-725c-46d5-be96-1de3ef53f6e4&filename=ca_writ_866_2010.pdf",
   "parties": "Piyal Kumarasiri Wadanambi Vs. Air Commodore Wijitha Gunaratne & others",
   "judgement_by": " Hon. L.U. Jayasuriya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

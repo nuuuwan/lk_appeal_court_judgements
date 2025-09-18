@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-07-23-CA-HCC-102-2023",
   "num": "CA/HCC/102/2023",
   "date_str": "2024-07-23",
   "description": "Meegahalandadurage Sanath Weeratunga Vs The Hon. Attorney General before Hon. Sampath B. Abayakoon, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=53ae0687-94c6-4279-a560-ac36c65db6b0&filename=HCC-0102-23%20Final%20Judgment.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10831",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=53ae0687-94c6-4279-a560-ac36c65db6b0&filename=HCC-0102-23%20Final%20Judgment.pdf.pdf",
   "parties": "Meegahalandadurage Sanath Weeratunga Vs The Hon. Attorney General",
   "judgement_by": "Hon. Sampath B. Abayakoon, J.",
   "keywords": "Unlawful Assembly\u2013 Common Object - Common Intention - Attempted Murder - Mitigatory as well as Aggravating Circumstances - Suspended sentence of imprisonment - Appropriateness of a Sentence",
-  "legistation": "Penal Code Sections 32, 140, 146, 300, 303",
-  "lang": "en"
+  "legistation": "Penal Code Sections 32, 140, 146, 300, 303"
 }

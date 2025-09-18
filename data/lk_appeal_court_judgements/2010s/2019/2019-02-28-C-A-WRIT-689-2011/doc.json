@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-02-28-C-A-WRIT-689-2011",
   "num": "C.A WRIT 689/2011",
   "date_str": "2019-02-28",
   "description": "Lt. Cdr. Samantha Pushpakumara Pathirage Vs Vice Admiral Jayantha Perera and Others before  Hon Arjuna Obeyesekere, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f619f6ca-9e7f-4506-a183-90aade9dd81a&filename=c.a%20writ%20689_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14413",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f619f6ca-9e7f-4506-a183-90aade9dd81a&filename=c.a%20writ%20689_2011.pdf",
   "parties": "Lt. Cdr. Samantha Pushpakumara Pathirage Vs Vice Admiral Jayantha Perera and Others",
   "judgement_by": " Hon Arjuna Obeyesekere, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

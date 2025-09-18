@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-03-24-CAHC-76-2015",
   "num": "CAHC 76/2015",
   "date_str": "2017-03-24",
   "description": "Dissanayaka Mudiyanselage Upatissa Ralahami Vs. Hon. Attorney General before  Hon. P.R. Walgama, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=493e7bce-2acb-490a-a930-05583bce7530&filename=ca_hc_76_2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14465",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=493e7bce-2acb-490a-a930-05583bce7530&filename=ca_hc_76_2015.pdf",
   "parties": "Dissanayaka Mudiyanselage Upatissa Ralahami Vs. Hon. Attorney General",
   "judgement_by": " Hon. P.R. Walgama, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

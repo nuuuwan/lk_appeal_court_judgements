@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-07-21-C-A-WRIT-340-2018",
   "num": "C.A WRIT 340/2018",
   "date_str": "2020-07-21",
   "description": "Chamari Rasika Serasinghe Vs S.M. Keerthirathne Principal Ananda College and Others before  Hon N. Bandula Karunarathna, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=25a4768d-a12a-4088-aff2-1e1af2b28827&filename=c.a%20writ%20340-2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14400",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=25a4768d-a12a-4088-aff2-1e1af2b28827&filename=c.a%20writ%20340-2018.pdf",
   "parties": "Chamari Rasika Serasinghe Vs S.M. Keerthirathne Principal Ananda College and Others",
   "judgement_by": " Hon N. Bandula Karunarathna, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

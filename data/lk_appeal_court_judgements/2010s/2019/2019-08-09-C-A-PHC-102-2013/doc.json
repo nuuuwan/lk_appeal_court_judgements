@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-08-09-C-A-PHC-102-2013",
   "num": "C.A PHC 102/2013",
   "date_str": "2019-08-09",
   "description": "Narasinghe Buwelikada Deshika Malkanthi Vs Commission to investigate Allegations of Bribery or Corruption and Others before  Hon K.Priyantha Fernando,J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4b32e4fd-b8dd-4e4e-8738-a4e78fd9dd10&filename=c.a%20phc%20102_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14425",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4b32e4fd-b8dd-4e4e-8738-a4e78fd9dd10&filename=c.a%20phc%20102_2013.pdf",
   "parties": "Narasinghe Buwelikada Deshika Malkanthi Vs Commission to investigate Allegations of Bribery or Corruption and Others",
   "judgement_by": " Hon K.Priyantha Fernando,J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

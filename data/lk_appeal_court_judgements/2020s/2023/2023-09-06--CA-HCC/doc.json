@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-09-06--CA-HCC",
   "num": "/CA-HCC",
   "date_str": "2023-09-06",
   "description": "\u2013 0433 \u2013 2019 Degiri Susantha Priyadarshana Silva Vs The Hon. Attorney General before  Hon. Menaka Wijesundera J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7f9f8ec5-ec38-4eba-ad4b-678d5776814d&filename=hcc%20-%200433%20-%2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14329",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7f9f8ec5-ec38-4eba-ad4b-678d5776814d&filename=hcc%20-%200433%20-%2019.pdf",
   "parties": "\u2013 0433 \u2013 2019 Degiri Susantha Priyadarshana Silva Vs The Hon. Attorney General",
   "judgement_by": " Hon. Menaka Wijesundera J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

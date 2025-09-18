@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-02-14-CAPHC-03-2012",
   "num": "CAPHC 03/2012",
   "date_str": "2017-02-14",
   "description": "Trans Asia Hotel PLC Vs. W.A.D.A. Wijesooriya before  Hon. L.T.B. Dehideniya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2ceb3c08-1a0e-439a-a4ad-8415815004e9&filename=ca_phc_03_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14463",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2ceb3c08-1a0e-439a-a4ad-8415815004e9&filename=ca_phc_03_2012.pdf",
   "parties": "Trans Asia Hotel PLC Vs. W.A.D.A. Wijesooriya",
   "judgement_by": " Hon. L.T.B. Dehideniya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

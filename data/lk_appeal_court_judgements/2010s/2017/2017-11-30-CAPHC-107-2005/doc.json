@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-11-30-CAPHC-107-2005",
   "num": "CAPHC 107/2005",
   "date_str": "2017-11-30",
   "description": "Gunapalage Jayarathne Vs.Bank of Ceylon before  Hon. K.K. Wickremasinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=73293dd5-e1f3-4944-8ef8-c7fd798067f0&filename=ca_ph_107_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14481",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=73293dd5-e1f3-4944-8ef8-c7fd798067f0&filename=ca_ph_107_2005.pdf",
   "parties": "Gunapalage Jayarathne Vs.Bank of Ceylon",
   "judgement_by": " Hon. K.K. Wickremasinghe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

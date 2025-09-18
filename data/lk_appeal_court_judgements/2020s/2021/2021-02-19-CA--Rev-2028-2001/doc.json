@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-02-19-CA--Rev-2028-2001",
   "num": "CA. Rev/2028/2001",
   "date_str": "2021-02-19",
   "description": "Galpoththage Ramyalatha Vs Nanayakkara Kariyawasam Dolamullage Ariyadasa and Others before Hon. Dr. Ruwan Fernando, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=097b5848-0936-4587-aa40-649197947a1f&filename=ca%20rev.%202028-2001.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9821",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=097b5848-0936-4587-aa40-649197947a1f&filename=ca%20rev.%202028-2001.pdf.pdf",
   "parties": "Galpoththage Ramyalatha Vs Nanayakkara Kariyawasam Dolamullage Ariyadasa and Others",
   "judgement_by": "Hon. Dr. Ruwan Fernando, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

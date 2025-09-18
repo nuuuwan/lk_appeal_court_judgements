@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-01-08-C-A--PHC-112-2015",
   "num": "C.A. PHC 112/2015",
   "date_str": "2019-01-08",
   "description": "Deputy Commissioner of Labor and Others Vs D.R.C.M.Handalage before  Hon Janak De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=33ec9eb0-d8fe-489b-b51e-6e3dfac89bb8&filename=c.a.%20phc_112_15.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14458",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=33ec9eb0-d8fe-489b-b51e-6e3dfac89bb8&filename=c.a.%20phc_112_15.pdf",
   "parties": "Deputy Commissioner of Labor and Others Vs D.R.C.M.Handalage",
   "judgement_by": " Hon Janak De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

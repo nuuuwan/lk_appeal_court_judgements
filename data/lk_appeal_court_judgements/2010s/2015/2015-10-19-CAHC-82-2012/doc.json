@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-10-19-CAHC-82-2012",
   "num": "CAHC 82/2012",
   "date_str": "2015-10-19",
   "description": "Karunanayake Mudiyanselage Indu Saliyasiri Karunanayake Vs. Hon. Attorney General before  Hon. H.N.J. Perera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4ff82d05-ab14-4fa2-a2f1-825b908cf1a5&filename=ca_hc_82_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14529",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4ff82d05-ab14-4fa2-a2f1-825b908cf1a5&filename=ca_hc_82_2012.pdf",
   "parties": "Karunanayake Mudiyanselage Indu Saliyasiri Karunanayake Vs. Hon. Attorney General",
   "judgement_by": " Hon. H.N.J. Perera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

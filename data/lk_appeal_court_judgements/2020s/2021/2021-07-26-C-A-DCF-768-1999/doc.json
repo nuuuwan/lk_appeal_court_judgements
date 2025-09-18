@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-07-26-C-A-DCF-768-1999",
   "num": "C.A DCF 768/1999",
   "date_str": "2021-07-26",
   "description": "Premalal Vidana Arachchi Vs. T.A. Annie Nona Siriwardena and 7 Others before  Hon. M.T.M. Laffar, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f436e13c-541e-49e1-989d-619124c5e49c&filename=dcf-768-99%20judgment%2024-07-2021.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14375",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f436e13c-541e-49e1-989d-619124c5e49c&filename=dcf-768-99%20judgment%2024-07-2021.pdf",
   "parties": "Premalal Vidana Arachchi Vs. T.A. Annie Nona Siriwardena and 7 Others",
   "judgement_by": " Hon. M.T.M. Laffar, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

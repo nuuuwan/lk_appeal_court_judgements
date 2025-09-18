@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-02-19-C-A--DC-1086-1996",
   "num": "C.A. DC/1086/1996",
   "date_str": "2020-02-19",
   "description": "(F) Kadawan Pedige Karunasena and Others Vs Amarasinghe Arachchige Somawathie and Others before  Hon. Janak De Silva J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5ce9d8aa-ddaf-42a0-b534-59cbe31d4d73&filename=c.a.%20dc_1086_1996%20f.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14390",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5ce9d8aa-ddaf-42a0-b534-59cbe31d4d73&filename=c.a.%20dc_1086_1996%20f.pdf",
   "parties": "(F) Kadawan Pedige Karunasena and Others Vs Amarasinghe Arachchige Somawathie and Others",
   "judgement_by": " Hon. Janak De Silva J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-05-23-CA---HCC---0109---2022",
   "num": "CA / HCC / 0109 / 2022",
   "date_str": "2023-05-23",
   "description": "Rathnayake Mudiyanselage Karunadasa alias Hinni. Vs Hon. Attorney General - before Hon. Menaka Wijesundera J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=669ed9d9-592a-4095-b93b-7a7002081d4a&filename=HCC%200109%20-%2022-1.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=7407",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=669ed9d9-592a-4095-b93b-7a7002081d4a&filename=HCC%200109%20-%2022-1.pdf.pdf",
   "parties": "Rathnayake Mudiyanselage Karunadasa alias Hinni. Vs Hon. Attorney General -",
   "judgement_by": "Hon. Menaka Wijesundera J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

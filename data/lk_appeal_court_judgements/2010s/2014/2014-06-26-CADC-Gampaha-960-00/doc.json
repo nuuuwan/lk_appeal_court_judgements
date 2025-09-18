@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-06-26-CADC-Gampaha-960-00",
   "num": "CADC Gampaha 960/00",
   "date_str": "2014-06-26",
   "description": "Kuruppu Appuhamillage Premawathie Vs. Kuruppu Appuhamillage Navaratna before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=63869b3a-cfb7-4c7c-8c6a-c2d8a58ed80b&filename=ca_dc_gampaha_960_00.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14544",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=63869b3a-cfb7-4c7c-8c6a-c2d8a58ed80b&filename=ca_dc_gampaha_960_00.pdf",
   "parties": "Kuruppu Appuhamillage Premawathie Vs. Kuruppu Appuhamillage Navaratna",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

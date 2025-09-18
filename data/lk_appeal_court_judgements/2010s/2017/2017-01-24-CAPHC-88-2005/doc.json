@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-01-24-CAPHC-88-2005",
   "num": "CAPHC 88/2005",
   "date_str": "2017-01-24",
   "description": "Kumarasiri Raveendra Kulatunga Vs. W.A. Gunawardana before  Hon. H.C.J. Madawala, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bff8b045-0a1a-4f47-bcc1-bced45df35a3&filename=ca_phc_88_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14461",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bff8b045-0a1a-4f47-bcc1-bced45df35a3&filename=ca_phc_88_2005.pdf",
   "parties": "Kumarasiri Raveendra Kulatunga Vs. W.A. Gunawardana",
   "judgement_by": " Hon. H.C.J. Madawala, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

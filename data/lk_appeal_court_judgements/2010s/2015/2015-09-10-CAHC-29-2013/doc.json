@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-09-10-CAHC-29-2013",
   "num": "CAHC 29/2013",
   "date_str": "2015-09-10",
   "description": "Krishnamurthi Ravishanker Vs. Hon. Attorney General before  Hon. K.K. Wickramasinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5e0f4192-7dfd-435c-8cc1-d21ce2ff7232&filename=ca_hc_29_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14525",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5e0f4192-7dfd-435c-8cc1-d21ce2ff7232&filename=ca_hc_29_2013.pdf",
   "parties": "Krishnamurthi Ravishanker Vs. Hon. Attorney General",
   "judgement_by": " Hon. K.K. Wickramasinghe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

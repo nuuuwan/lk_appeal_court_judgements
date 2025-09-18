@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-05-31-C-A--PHC--248-2006",
   "num": "C A (PHC) 248/2006",
   "date_str": "2018-05-31",
   "description": "Nuhuman Mohomed Aniz, Vs Officer in Charge,Police Station, Mawanella.Hon P. Padman Surasena J (P CI A) before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a607c806-a45a-4401-8963-79b768528c98&filename=ca_phc_248_06.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14444",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a607c806-a45a-4401-8963-79b768528c98&filename=ca_phc_248_06.pdf",
   "parties": "Nuhuman Mohomed Aniz, Vs Officer in Charge,Police Station, Mawanella.Hon P. Padman Surasena J (P CI A)",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

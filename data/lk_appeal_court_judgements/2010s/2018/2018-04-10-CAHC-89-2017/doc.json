@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-04-10-CAHC-89-2017",
   "num": "CAHC 89/2017",
   "date_str": "2018-04-10",
   "description": "Rathnayaka Ralalage Chaminda Rathnayaka Vs. Hon. Attorney General before  Hon. Achala Wengappuli J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=36ff64d5-75df-4c2a-ab3d-e1fa0eaae784&filename=hc_89_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14440",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=36ff64d5-75df-4c2a-ab3d-e1fa0eaae784&filename=hc_89_2017.pdf",
   "parties": "Rathnayaka Ralalage Chaminda Rathnayaka Vs. Hon. Attorney General",
   "judgement_by": " Hon. Achala Wengappuli J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

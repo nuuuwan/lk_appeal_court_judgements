@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-02-24-CA-TAX-0007-2014",
   "num": "CA/TAX/0007/2014",
   "date_str": "2023-02-24",
   "description": "D. Samson and & Sons (Pvt) Ltd Vs. Commissioner General of Inland Revenue before  Hon. M. Sampath K. B. Wijeratne J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=65b9e11b-ef43-4f6e-bc28-7e2123e85f05&filename=ca.tax.%200007.2014%20%202023.02.24.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14315",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=65b9e11b-ef43-4f6e-bc28-7e2123e85f05&filename=ca.tax.%200007.2014%20%202023.02.24.pdf",
   "parties": "D. Samson and & Sons (Pvt) Ltd Vs. Commissioner General of Inland Revenue",
   "judgement_by": " Hon. M. Sampath K. B. Wijeratne J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-11-21-CAHC-290-2009",
   "num": "CAHC 290/2009",
   "date_str": "2017-11-21",
   "description": "Sudesh Ramanayake Vs. Hon. Attorney General before  Hon. S. Devika De L. Tennekoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d8b18051-6cc6-4c00-addf-cc1f871c3f49&filename=ca_hc_290_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14481",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d8b18051-6cc6-4c00-addf-cc1f871c3f49&filename=ca_hc_290_2009.pdf",
   "parties": "Sudesh Ramanayake Vs. Hon. Attorney General",
   "judgement_by": " Hon. S. Devika De L. Tennekoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-08-09-CA-WRIT-16-2021",
   "num": "CA/WRIT/16/2021",
   "date_str": "2022-08-09",
   "description": "Amarakoonge Piyasena and another Vs K. D. S. Sajeewana and others before  Hon. Sobhitha Rajakaruna J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=39266d1f-b762-4515-8a3c-a6efc9c1e188&filename=ca%20writ%2016-2021.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14352",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=39266d1f-b762-4515-8a3c-a6efc9c1e188&filename=ca%20writ%2016-2021.pdf",
   "parties": "Amarakoonge Piyasena and another Vs K. D. S. Sajeewana and others",
   "judgement_by": " Hon. Sobhitha Rajakaruna J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

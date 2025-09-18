@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-08-30-CA-HCC-0244-16",
   "num": "CA/HCC/0244/16",
   "date_str": "2024-08-30",
   "description": "Bomiriyage Lakshman Ranganath Gomez Vs The Hon. Attorney General before Hon. Sampath B. Abayakoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b5cc7577-cb69-4acb-88b7-9047f8b652dc&filename=HCC-0244-16%20Final%20judgment.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10830",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b5cc7577-cb69-4acb-88b7-9047f8b652dc&filename=HCC-0244-16%20Final%20judgment.pdf.pdf",
   "parties": "Bomiriyage Lakshman Ranganath Gomez Vs The Hon. Attorney General",
   "judgement_by": "Hon. Sampath B. Abayakoon, J",
   "keywords": "Offence of murder \u2013 Offence of robbery - Offence of possession of stolen property \u2013 Circumstantial Evidence - Totality of evidence- Dock Statement - Dock Identification \u2013 Recovery - Suspicious Circumstances",
-  "legistation": "Penal Code Sections 32, 296, 380, 394 Evidence OrdinanceSection 27",
-  "lang": "en"
+  "legistation": "Penal Code Sections 32, 296, 380, 394 Evidence OrdinanceSection 27"
 }

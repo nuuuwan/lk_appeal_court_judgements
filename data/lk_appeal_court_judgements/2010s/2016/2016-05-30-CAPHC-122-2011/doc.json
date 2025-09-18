@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-05-30-CAPHC-122-2011",
   "num": "CAPHC 122/2011",
   "date_str": "2016-05-30",
   "description": "Narandeniye Deepananda Thero Vs. Martin Ekanayake & others before  Hon. P.R. Walgama, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2498f7cb-a774-43c2-9863-b59d6994faf2&filename=ca_phc_122_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14494",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2498f7cb-a774-43c2-9863-b59d6994faf2&filename=ca_phc_122_2011.pdf",
   "parties": "Narandeniye Deepananda Thero Vs. Martin Ekanayake & others",
   "judgement_by": " Hon. P.R. Walgama, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

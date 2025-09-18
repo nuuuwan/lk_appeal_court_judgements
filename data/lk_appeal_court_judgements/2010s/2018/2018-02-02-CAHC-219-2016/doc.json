@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-02-02-CAHC-219-2016",
   "num": "CAHC 219/2016",
   "date_str": "2018-02-02",
   "description": " before Manthaka Gamage Ruwan Ajantha Vs.Hon. Attorney General -Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=641a8549-91fe-414b-b6f6-0d3c9bb9afbe&filename=ca_hc_219_2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14438",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=641a8549-91fe-414b-b6f6-0d3c9bb9afbe&filename=ca_hc_219_2016.pdf",
   "parties": "",
   "judgement_by": "Manthaka Gamage Ruwan Ajantha Vs.Hon. Attorney General -Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

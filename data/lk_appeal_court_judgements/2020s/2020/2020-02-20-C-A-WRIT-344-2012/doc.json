@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-02-20-C-A-WRIT-344-2012",
   "num": "C.A WRIT 344/2012",
   "date_str": "2020-02-20",
   "description": "J. K. Anura Banda Piyarathna and Others Vs Minister of Lands and Land Development, Ministry of Lands and Land Development and Others before  Hon Mahinda Samayawardhena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=faff289e-ad95-45ff-90bc-3b52e4b72aba&filename=ca-writ-344-2012%2020.2.2020.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14390",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=faff289e-ad95-45ff-90bc-3b52e4b72aba&filename=ca-writ-344-2012%2020.2.2020.pdf",
   "parties": "J. K. Anura Banda Piyarathna and Others Vs Minister of Lands and Land Development, Ministry of Lands and Land Development and Others",
   "judgement_by": " Hon Mahinda Samayawardhena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-04-02-C-A--HC-235-2014",
   "num": "C.A. HC/235/2014",
   "date_str": "2019-04-02",
   "description": "Geegana Gamage Amarasiri VS. Hon. Attorney General before  Hon. A.L. Shiran Gooneratne, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2597be01-456b-44ea-b615-cd4049ee30fa&filename=c.a.%20hc_235_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14417",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2597be01-456b-44ea-b615-cd4049ee30fa&filename=c.a.%20hc_235_2014.pdf",
   "parties": "Geegana Gamage Amarasiri VS. Hon. Attorney General",
   "judgement_by": " Hon. A.L. Shiran Gooneratne, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

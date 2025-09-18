@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-11-10-wrt-0490-15",
   "num": "wrt-0490-15",
   "date_str": "2022-11-10",
   "description": "Hagalan Mudiyanselage Chandana Bandara Kahawatta vs Resident Project Manager, Mahaweli Authority of Sri Lanka and others before Hon. Pradeep Kirtisinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7cbb14f6-4661-42db-b445-0d0800c4bff3&filename=CA%20Writ%20490-2015.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3957",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7cbb14f6-4661-42db-b445-0d0800c4bff3&filename=CA%20Writ%20490-2015.pdf.pdf",
   "parties": "Hagalan Mudiyanselage Chandana Bandara Kahawatta vs Resident Project Manager, Mahaweli Authority of Sri Lanka and others",
   "judgement_by": "Hon. Pradeep Kirtisinghe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

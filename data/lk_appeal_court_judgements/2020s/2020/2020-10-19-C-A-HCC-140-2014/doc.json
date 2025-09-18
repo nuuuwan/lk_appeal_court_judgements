@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-10-19-C-A-HCC-140-2014",
   "num": "C.A HCC 140/2014",
   "date_str": "2020-10-19",
   "description": "Dewapaksha Pedige Salin Mayura Dewapaksha Vs Hon. Attorney General before  Hon K.Priyantha Fernando,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d500e16e-0518-4aea-8767-a82c0aaac0e0&filename=c.a%20hcc%20140-2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14406",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d500e16e-0518-4aea-8767-a82c0aaac0e0&filename=c.a%20hcc%20140-2014.pdf",
   "parties": "Dewapaksha Pedige Salin Mayura Dewapaksha Vs Hon. Attorney General",
   "judgement_by": " Hon K.Priyantha Fernando,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

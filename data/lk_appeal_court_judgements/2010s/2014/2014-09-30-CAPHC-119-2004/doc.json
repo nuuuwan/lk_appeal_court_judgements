@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-09-30-CAPHC-119-2004",
   "num": "CAPHC 119/2004",
   "date_str": "2014-09-30",
   "description": "S.M.A.A.Priyantha Jayakody Vs. Kularathna Herathge Sirisena before  Hon. Sunil Rajapakshe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6abf0cdb-d3bb-4c0d-9e54-192908cd3cb3&filename=ca_phc_119_2004.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14552",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6abf0cdb-d3bb-4c0d-9e54-192908cd3cb3&filename=ca_phc_119_2004.pdf",
   "parties": "S.M.A.A.Priyantha Jayakody Vs. Kularathna Herathge Sirisena",
   "judgement_by": " Hon. Sunil Rajapakshe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

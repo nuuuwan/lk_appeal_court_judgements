@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-05-06-CAWrit-464-2008",
   "num": "CAWrit 464/2008",
   "date_str": "2016-05-06",
   "description": "Dialog Telecom PLC Vs. Sarath Jayathilake before  Hon. L.T.B. Dehideniya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=217bb7d4-e405-42d2-889f-08594f37dd7d&filename=ca_writ_464_08.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14494",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=217bb7d4-e405-42d2-889f-08594f37dd7d&filename=ca_writ_464_08.pdf",
   "parties": "Dialog Telecom PLC Vs. Sarath Jayathilake",
   "judgement_by": " Hon. L.T.B. Dehideniya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

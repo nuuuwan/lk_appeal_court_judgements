@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-05-03-CAPHC-APN-47-2015",
   "num": "CAPHC APN 47/2015",
   "date_str": "2016-05-03",
   "description": "Dilshan Nerious Roger Fernando Vs. Done Lakshmi Ranasinghe & others before  Hon. W.M.M. Malinie Gunaratne J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a409e754-a4c0-4474-8052-646e31638abe&filename=ca_phc_apn_47_2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14488",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a409e754-a4c0-4474-8052-646e31638abe&filename=ca_phc_apn_47_2015.pdf",
   "parties": "Dilshan Nerious Roger Fernando Vs. Done Lakshmi Ranasinghe & others",
   "judgement_by": " Hon. W.M.M. Malinie Gunaratne J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

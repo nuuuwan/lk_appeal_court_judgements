@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-01-24-C-A-RI-297-2011",
   "num": "C.A RI 297/2011",
   "date_str": "2019-01-24",
   "description": "Ceylinco Leasing Corporation Limited Vs K.M.C. Wijewardena before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cdeede17-a4ff-4d9a-a315-97b87b20cbe9&filename=ca-ri-297-2011%2024.1.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14411",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cdeede17-a4ff-4d9a-a315-97b87b20cbe9&filename=ca-ri-297-2011%2024.1.2019.pdf",
   "parties": "Ceylinco Leasing Corporation Limited Vs K.M.C. Wijewardena",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

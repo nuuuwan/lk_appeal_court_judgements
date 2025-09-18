@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-09-14-HCC-0487-17",
   "num": "HCC-0487-17",
   "date_str": "2022-09-14",
   "description": "Lishantha Kumara Siriwardhana alias Mangala VS The Honourable Attorney General, before Hon. R. Gurusinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ab91924a-d8c2-4418-8410-01fca1fd8d0e&filename=487-17%20edited-1.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3945",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ab91924a-d8c2-4418-8410-01fca1fd8d0e&filename=487-17%20edited-1.pdf.pdf",
   "parties": "Lishantha Kumara Siriwardhana alias Mangala VS The Honourable Attorney General,",
   "judgement_by": "Hon. R. Gurusinghe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-04-30-CA-HCC-209-2018",
   "num": "CA/HCC/209/2018",
   "date_str": "2024-04-30",
   "description": "Ambalangoda Liyanage Sujeewa Vishwajith Vs Hon. Attorney General before Hon. Wickum A. Kaluarachchi, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f6e15966-ca20-4fbf-a598-c427971f11ee&filename=HCC-0209-18%20-%2030.04.2024.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10833",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f6e15966-ca20-4fbf-a598-c427971f11ee&filename=HCC-0209-18%20-%2030.04.2024.pdf.pdf",
   "parties": "Ambalangoda Liyanage Sujeewa Vishwajith Vs Hon. Attorney General",
   "judgement_by": "Hon. Wickum A. Kaluarachchi, J.",
   "keywords": "-Improbability of the prosecution case. -Absence of injuries does not always imply a suicide. -Necessity to exclude the possibility of a suicide.",
-  "legistation": "Section 296 of the Penal Code.",
-  "lang": "en"
+  "legistation": "Section 296 of the Penal Code."
 }

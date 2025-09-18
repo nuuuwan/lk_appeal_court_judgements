@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-01-27-C-A--PHC-05-2008",
   "num": "C.A. PHC/05/2008",
   "date_str": "2020-01-27",
   "description": "Herath Mudiyanselage Herath Vs Mr. A. Subramanium Sharma and Other before  Hon. A.L. Shiran Gooneratne J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ae834c7d-16fa-4d0a-b0af-fe23ca3c6f3e&filename=c.a.%20phc_05_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14388",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ae834c7d-16fa-4d0a-b0af-fe23ca3c6f3e&filename=c.a.%20phc_05_2008.pdf",
   "parties": "Herath Mudiyanselage Herath Vs Mr. A. Subramanium Sharma and Other",
   "judgement_by": " Hon. A.L. Shiran Gooneratne J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

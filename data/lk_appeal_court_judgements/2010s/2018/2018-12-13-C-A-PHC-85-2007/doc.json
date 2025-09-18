@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-12-13-C-A-PHC-85-2007",
   "num": "C.A PHC 85/2007",
   "date_str": "2018-12-13",
   "description": "Kankanachci Kandanamge Champa Wilasini and Others Vs Abesinghe Kodippili Mahavidana Mudiyanselage Erdele Senarath before  Hon Janak De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d184b865-f3f4-461f-816a-add71482bf66&filename=c.a%20phc%2085_2007.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14458",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d184b865-f3f4-461f-816a-add71482bf66&filename=c.a%20phc%2085_2007.pdf",
   "parties": "Kankanachci Kandanamge Champa Wilasini and Others Vs Abesinghe Kodippili Mahavidana Mudiyanselage Erdele Senarath",
   "judgement_by": " Hon Janak De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

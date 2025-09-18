@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-05-21-CADC-Avissawella-08-00",
   "num": "CADC Avissawella 08/00",
   "date_str": "2014-05-21",
   "description": "Sapu Arachchilage Ariyaratna Vs. Kariyawasam Idipolage Leelawathie before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1b31c343-938c-4242-9a87-e48bbd170db2&filename=ca_dc_avissawella_08_00.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14540",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1b31c343-938c-4242-9a87-e48bbd170db2&filename=ca_dc_avissawella_08_00.pdf",
   "parties": "Sapu Arachchilage Ariyaratna Vs. Kariyawasam Idipolage Leelawathie",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

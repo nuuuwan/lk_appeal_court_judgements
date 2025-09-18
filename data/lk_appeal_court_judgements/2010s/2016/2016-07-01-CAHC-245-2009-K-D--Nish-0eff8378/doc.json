@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-07-01-CAHC-245-2009-K-D--Nish-0eff8378",
   "num": "CAHC 245/2009 K.D. Nishantha Perera Vs. Hon. Attorney General - Hon. Vijith K. Malalgoda, P.C, J (P/CA)",
   "date_str": "2016-07-01",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3aa9ddc1-e86b-4e3f-a633-2a10ab8b7a1e&filename=ca_hc_245_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14496",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3aa9ddc1-e86b-4e3f-a633-2a10ab8b7a1e&filename=ca_hc_245_2009.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

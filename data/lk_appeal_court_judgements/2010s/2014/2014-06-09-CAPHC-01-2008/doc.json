@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-06-09-CAPHC-01-2008",
   "num": "CAPHC 01/2008",
   "date_str": "2014-06-09",
   "description": "Opatha Kankanamage Sumanasiri Vs. Thommaya Hakuru Nandawathie before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d10c9eb7-ff51-45ff-8ee9-a026c0374a8a&filename=ca_phc_01_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14544",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d10c9eb7-ff51-45ff-8ee9-a026c0374a8a&filename=ca_phc_01_2008.pdf",
   "parties": "Opatha Kankanamage Sumanasiri Vs. Thommaya Hakuru Nandawathie",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

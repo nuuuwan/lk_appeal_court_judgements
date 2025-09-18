@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-09-28-CA-WRIT--280-2018",
   "num": "CA/WRIT /280/2018",
   "date_str": "2020-09-28",
   "description": "Ariyadasa Galappaththi Vs. R.P.R. Rajapakshe , Commissioner General of Lands & Others before  Hon. Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=552cc5ec-c6ac-43df-9b0f-4b8cbaaa1923&filename=ca-writ-280-2018%2025.9.2020.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14404",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=552cc5ec-c6ac-43df-9b0f-4b8cbaaa1923&filename=ca-writ-280-2018%2025.9.2020.pdf",
   "parties": "Ariyadasa Galappaththi Vs. R.P.R. Rajapakshe , Commissioner General of Lands & Others",
   "judgement_by": " Hon. Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

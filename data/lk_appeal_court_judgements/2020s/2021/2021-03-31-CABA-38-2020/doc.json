@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-03-31-CABA-38-2020",
   "num": "CABA 38/2020",
   "date_str": "2021-03-31",
   "description": "L.R. Ajantha Pushpa Kumara Vs The Officer In-Charge and others before Hon.MENAKA WIJESUNDERA J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5d8e8d49-2201-4a33-bb08-953ab8efe323&filename=BAL%20-%200038%20-%2020.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9822",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5d8e8d49-2201-4a33-bb08-953ab8efe323&filename=BAL%20-%200038%20-%2020.pdf.pdf",
   "parties": "L.R. Ajantha Pushpa Kumara Vs The Officer In-Charge and others",
   "judgement_by": "Hon.MENAKA WIJESUNDERA J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

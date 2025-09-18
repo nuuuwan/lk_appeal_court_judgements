@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-06-CA-WRIT-004-2022",
   "num": "CA.WRIT/004/2022",
   "date_str": "2022-10-06",
   "description": "Devendra Budalge Sudesh Lalitha Perera Vs Janatha Estates Development Board and others before  Hon. Sobhitha Rajakaruna J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=633d8ddf-b915-4328-a1fa-a07011219de1&filename=ca%20writ%2004-2022.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=633d8ddf-b915-4328-a1fa-a07011219de1&filename=ca%20writ%2004-2022.pdf",
   "parties": "Devendra Budalge Sudesh Lalitha Perera Vs Janatha Estates Development Board and others",
   "judgement_by": " Hon. Sobhitha Rajakaruna J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

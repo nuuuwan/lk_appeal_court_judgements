@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-03-31-CA--TAX-0028-2019",
   "num": "CA/ TAX/0028/2019",
   "date_str": "2023-03-31",
   "description": "ACL Cables Limited Vs Commissioner General of Inland Revenue before  Hon. Hon. D.N. Samarakoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a0c7531c-b5d0-4098-bda7-a67891fa867b&filename=tax%2028%202019%20judgment2.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14317",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a0c7531c-b5d0-4098-bda7-a67891fa867b&filename=tax%2028%202019%20judgment2.pdf",
   "parties": "ACL Cables Limited Vs Commissioner General of Inland Revenue",
   "judgement_by": " Hon. Hon. D.N. Samarakoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

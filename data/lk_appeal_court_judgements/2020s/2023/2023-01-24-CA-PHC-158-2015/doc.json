@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-01-24-CA-PHC-158-2015",
   "num": "CA/PHC/158/2015",
   "date_str": "2023-01-24",
   "description": "Vitharanage Shiromala Priyadarshani Vs The Hon. Attorney General before  Hon. Iddawala \u2013 J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=54b7ed09-471a-42cf-af05-d72f2e83656d&filename=2.24022023-ca-phc-0158-15.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14313",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=54b7ed09-471a-42cf-af05-d72f2e83656d&filename=2.24022023-ca-phc-0158-15.pdf",
   "parties": "Vitharanage Shiromala Priyadarshani Vs The Hon. Attorney General",
   "judgement_by": " Hon. Iddawala \u2013 J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

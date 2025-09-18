@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-05-21-CA-LA-02--14",
   "num": "CA.LA 02 /14",
   "date_str": "2018-05-21",
   "description": "Director General Commission to investigate allegations of Bribery or Corruption Vs Hemasiri Bandara Thibbotumunuve Hon Deepali Wijesundera J. before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a1ee8d69-5c6d-41de-b260-1df857caadc2&filename=ca_la_02_14.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14444",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a1ee8d69-5c6d-41de-b260-1df857caadc2&filename=ca_la_02_14.pdf",
   "parties": "Director General Commission to investigate allegations of Bribery or Corruption Vs Hemasiri Bandara Thibbotumunuve Hon Deepali Wijesundera J.",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

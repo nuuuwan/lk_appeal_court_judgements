@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-03-11-CAWrit-367-13",
   "num": "CAWrit 367/13",
   "date_str": "2014-03-11",
   "description": "Herath Mudiyanselage Ruwan Hemantha Kumara Herath Vs. Sabaragamuwa University of Sri Lanka before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fa2ac5c1-2ddd-4cc5-96d7-2d7793b761f3&filename=ca_writ_367_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14540",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fa2ac5c1-2ddd-4cc5-96d7-2d7793b761f3&filename=ca_writ_367_2013.pdf",
   "parties": "Herath Mudiyanselage Ruwan Hemantha Kumara Herath Vs. Sabaragamuwa University of Sri Lanka",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-02-14-CAHC-143-2014",
   "num": "CAHC 143/2014",
   "date_str": "2018-02-14",
   "description": "Ulapanelage Ginadasa Vs. The Hon. Attorney General before  Hon. S. Devika De L. Tennekoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e94afb65-545f-4577-a8b0-da9295e90081&filename=ca_hc_143_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14436",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e94afb65-545f-4577-a8b0-da9295e90081&filename=ca_hc_143_2014.pdf",
   "parties": "Ulapanelage Ginadasa Vs. The Hon. Attorney General",
   "judgement_by": " Hon. S. Devika De L. Tennekoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

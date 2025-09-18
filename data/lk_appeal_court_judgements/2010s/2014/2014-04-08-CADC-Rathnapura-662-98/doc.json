@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-04-08-CADC-Rathnapura-662-98",
   "num": "CADC Rathnapura 662/98",
   "date_str": "2014-04-08",
   "description": "Anton Thennakoon Basnayake Nilame Vs. N. J. Premasiri before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a763bfff-2f71-468d-a63a-b39cb85de6f2&filename=ca_dc_rathnapura_662_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14542",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a763bfff-2f71-468d-a63a-b39cb85de6f2&filename=ca_dc_rathnapura_662_98.pdf",
   "parties": "Anton Thennakoon Basnayake Nilame Vs. N. J. Premasiri",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

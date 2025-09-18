@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-10-15-C-A--PHC--192-2018",
   "num": "C.A (PHC) 192/2018",
   "date_str": "2019-10-15",
   "description": "Mohamad Hanifa Mohamad Ghouse Vs Hon. Attorney General and Others before  Hon Janak De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=639a868e-eb15-41ff-8dcc-bc85e156e060&filename=c.a%20phc%20192_2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14429",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=639a868e-eb15-41ff-8dcc-bc85e156e060&filename=c.a%20phc%20192_2018.pdf",
   "parties": "Mohamad Hanifa Mohamad Ghouse Vs Hon. Attorney General and Others",
   "judgement_by": " Hon Janak De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

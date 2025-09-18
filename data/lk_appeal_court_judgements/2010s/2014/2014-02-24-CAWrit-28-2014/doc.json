@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-02-24-CAWrit-28-2014",
   "num": "CAWrit 28/2014",
   "date_str": "2014-02-24",
   "description": "R. Samarasekara Vs. A. Bodaragama & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2217565d-905e-4039-a214-ee33958e71d3&filename=ca_writ_28_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14538",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2217565d-905e-4039-a214-ee33958e71d3&filename=ca_writ_28_2014.pdf",
   "parties": "R. Samarasekara Vs. A. Bodaragama & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

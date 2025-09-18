@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-09-23-CADC-150-99-D--David-We-b9f822f6",
   "num": "CADC 150/99 D. David Welekala Vs. W.N. Appunaide - Hon. Vijith K. Malalgoda, P.C, (P/CA)",
   "date_str": "2015-09-23",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0f5ef5e4-5822-4972-834a-89e27c972972&filename=ca_dc_150_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14527",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0f5ef5e4-5822-4972-834a-89e27c972972&filename=ca_dc_150_99.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

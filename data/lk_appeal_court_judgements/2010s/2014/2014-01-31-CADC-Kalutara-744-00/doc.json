@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-01-31-CADC-Kalutara-744-00",
   "num": "CADC Kalutara 744/00",
   "date_str": "2014-01-31",
   "description": "Mohamed Salley Beebee Seinam Vs. Mohamed Amanullah Fathima Naseema before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ecac03b2-8c52-4291-9f1c-86e626a795e7&filename=ca_dc_kalutara_744_00.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14536",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ecac03b2-8c52-4291-9f1c-86e626a795e7&filename=ca_dc_kalutara_744_00.pdf",
   "parties": "Mohamed Salley Beebee Seinam Vs. Mohamed Amanullah Fathima Naseema",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

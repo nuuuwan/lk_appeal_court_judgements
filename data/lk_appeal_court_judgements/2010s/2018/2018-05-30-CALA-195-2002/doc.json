@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-05-30-CALA-195-2002",
   "num": "CALA 195/2002",
   "date_str": "2018-05-30",
   "description": "Dodamgodage Don Upul Presanna Vs. Hirimuthugodage Ranjani Thilakarathne before  Hon. Mahinda Samayawardhena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=db75abb2-88c6-430a-a5b1-33fa7da4ce8c&filename=195-2002-la%2025.05.2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14444",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=db75abb2-88c6-430a-a5b1-33fa7da4ce8c&filename=195-2002-la%2025.05.2018.pdf",
   "parties": "Dodamgodage Don Upul Presanna Vs. Hirimuthugodage Ranjani Thilakarathne",
   "judgement_by": " Hon. Mahinda Samayawardhena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

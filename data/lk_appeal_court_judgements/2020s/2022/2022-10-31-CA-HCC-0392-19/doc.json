@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-31-CA-HCC-0392-19",
   "num": "CA.HCC/0392/19",
   "date_str": "2022-10-31",
   "description": "Dilan Dewinda Kolambage and another Vs The Attorney General before  Hon. Sampath B. Abayakoon, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5d928e4f-13cb-4da6-a199-67b101df34e3&filename=hcc-392-19%20final%20judgement.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5d928e4f-13cb-4da6-a199-67b101df34e3&filename=hcc-392-19%20final%20judgement.pdf",
   "parties": "Dilan Dewinda Kolambage and another Vs The Attorney General",
   "judgement_by": " Hon. Sampath B. Abayakoon, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

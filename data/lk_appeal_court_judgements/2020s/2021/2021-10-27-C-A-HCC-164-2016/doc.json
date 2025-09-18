@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-10-27-C-A-HCC-164-2016",
   "num": "C.A HCC 164/2016",
   "date_str": "2021-10-27",
   "description": "Manchanayaka Appuhamilage Chaminda Ranaweera Vs Hon. Attorney General before  Hon. P. Kumararatnam,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c23ebeda-3901-40f7-adc8-36e803aec532&filename=court%20of%20appeal%20judgment%20-%20hcc-164.1.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14381",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c23ebeda-3901-40f7-adc8-36e803aec532&filename=court%20of%20appeal%20judgment%20-%20hcc-164.1.pdf",
   "parties": "Manchanayaka Appuhamilage Chaminda Ranaweera Vs Hon. Attorney General",
   "judgement_by": " Hon. P. Kumararatnam,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

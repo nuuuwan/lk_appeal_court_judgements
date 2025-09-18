@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-07-26-CA-PHC-APN-0005-23",
   "num": "CA/PHC/APN 0005/23",
   "date_str": "2024-07-26",
   "description": "Basnayakelage Nimal Pathmasiri alias Basnayake Vs The Hon. Attorney General. before Hon. P. Kumararatnam, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0fe8e752-c4e7-495a-b8eb-810578a8f0f0&filename=Court%20of%20Appeal%20CA.PHC.APN%200005-2023.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10831",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0fe8e752-c4e7-495a-b8eb-810578a8f0f0&filename=Court%20of%20Appeal%20CA.PHC.APN%200005-2023.pdf.pdf",
   "parties": "Basnayakelage Nimal Pathmasiri alias Basnayake Vs The Hon. Attorney General.",
   "judgement_by": "Hon. P. Kumararatnam, J",
   "keywords": "\u2022 Exceptional Circumstances.",
-  "legistation": "The Code of Criminal Procedure Act No. 15 of 1979",
-  "lang": "en"
+  "legistation": "The Code of Criminal Procedure Act No. 15 of 1979"
 }

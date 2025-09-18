@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-05-26-CA-HCC-425-19",
   "num": "CA.HCC/425/19",
   "date_str": "2022-05-26",
   "description": "Usgoda Arachchige Rohan Janaka Sampath Alias Sagara Vs Hon. Attorney General before  HON. WICKUM A. KALUARACHCHI, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d4dcb56f-8f4c-4e8b-904c-3a1161446e01&filename=hcc-425-19%20-%2026.05.2022.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14346",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d4dcb56f-8f4c-4e8b-904c-3a1161446e01&filename=hcc-425-19%20-%2026.05.2022.pdf",
   "parties": "Usgoda Arachchige Rohan Janaka Sampath Alias Sagara Vs Hon. Attorney General",
   "judgement_by": " HON. WICKUM A. KALUARACHCHI, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

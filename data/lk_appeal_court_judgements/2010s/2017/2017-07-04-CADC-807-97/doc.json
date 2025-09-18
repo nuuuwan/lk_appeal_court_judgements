@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-07-04-CADC-807-97",
   "num": "CADC 807/97",
   "date_str": "2017-07-04",
   "description": "Hatharasinghe Vidanelage Baden Sherinton Ratnavira Vs. K. D. Nimal Ariyaratne before  Hon. S. Devika De L. Tennekoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=432e02b1-1a8d-48d6-9acd-465bbc12555e&filename=ca_dc_807_97.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14471",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=432e02b1-1a8d-48d6-9acd-465bbc12555e&filename=ca_dc_807_97.pdf",
   "parties": "Hatharasinghe Vidanelage Baden Sherinton Ratnavira Vs. K. D. Nimal Ariyaratne",
   "judgement_by": " Hon. S. Devika De L. Tennekoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

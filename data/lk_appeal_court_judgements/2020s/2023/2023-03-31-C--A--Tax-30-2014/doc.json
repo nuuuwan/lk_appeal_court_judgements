@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-03-31-C--A--Tax-30-2014",
   "num": "C. A. Tax 30/2014",
   "date_str": "2023-03-31",
   "description": "THE COMMISSIONER GENERAL OF INLAND Vs M/S Lanka Marine Services before Hon. Hon. D.N. Samarakoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2b2ca166-3213-4885-83dd-545bb1ce4497&filename=Tax%2030%202014%20Judgment%20%282%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=7395",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2b2ca166-3213-4885-83dd-545bb1ce4497&filename=Tax%2030%202014%20Judgment%20%282%29.pdf.pdf",
   "parties": "THE COMMISSIONER GENERAL OF INLAND Vs M/S Lanka Marine Services",
   "judgement_by": "Hon. Hon. D.N. Samarakoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

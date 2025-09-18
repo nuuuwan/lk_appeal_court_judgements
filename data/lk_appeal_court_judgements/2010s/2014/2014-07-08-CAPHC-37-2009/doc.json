@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-07-08-CAPHC-37-2009",
   "num": "CAPHC 37/2009",
   "date_str": "2014-07-08",
   "description": "Mala Damayanthi Vs. W. Rani Gunawardana & others before  Hon. Sunil Rajapakshe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=449c88b3-4460-4f92-bf53-2e539d3444be&filename=ca_phc_37_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14546",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=449c88b3-4460-4f92-bf53-2e539d3444be&filename=ca_phc_37_2009.pdf",
   "parties": "Mala Damayanthi Vs. W. Rani Gunawardana & others",
   "judgement_by": " Hon. Sunil Rajapakshe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

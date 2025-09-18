@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-06-06-CA-WRIT-171-2022",
   "num": "CA/WRIT/171/2022",
   "date_str": "2023-06-06",
   "description": "Ace Healthcare (Pvt) Ltd Vs Major General (Retired) Vijitha Ravipriya and others before  Hon.Sobhitha Rajakaruna J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d28d0c8c-5d20-4529-98ed-72d7f0dc27bd&filename=ca%20writ%20171-2022.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14321",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d28d0c8c-5d20-4529-98ed-72d7f0dc27bd&filename=ca%20writ%20171-2022.pdf",
   "parties": "Ace Healthcare (Pvt) Ltd Vs Major General (Retired) Vijitha Ravipriya and others",
   "judgement_by": " Hon.Sobhitha Rajakaruna J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

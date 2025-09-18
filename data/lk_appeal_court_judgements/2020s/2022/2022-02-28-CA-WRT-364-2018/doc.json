@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-02-28-CA-WRT-364-2018",
   "num": "CA.WRT/364/2018",
   "date_str": "2022-02-28",
   "description": "Rasika Balasuriya Vs Dr. Mrs. T. A.R. J. Gunasekera, Director General, National Institute of Education and Others before  Hon. Mayadunne Corea, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=06b89b62-c6d7-40ea-b59e-0635c554efaf&filename=ca%20writ%20364-2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14340",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=06b89b62-c6d7-40ea-b59e-0635c554efaf&filename=ca%20writ%20364-2018.pdf",
   "parties": "Rasika Balasuriya Vs Dr. Mrs. T. A.R. J. Gunasekera, Director General, National Institute of Education and Others",
   "judgement_by": " Hon. Mayadunne Corea, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

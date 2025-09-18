@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-07-20-C-A-HCC-270-2018",
   "num": "C.A HCC 270/2018",
   "date_str": "2020-07-20",
   "description": "Balan Suresh Kumar alias Aiyar Kutti alias Aiya Vs Hon. Attorney General before  Hon Achala Wengappuli, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=021975e6-4866-4f4a-b25d-c6cbb777011d&filename=c.a%20%20hcc%20270-2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14400",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=021975e6-4866-4f4a-b25d-c6cbb777011d&filename=c.a%20%20hcc%20270-2018.pdf",
   "parties": "Balan Suresh Kumar alias Aiyar Kutti alias Aiya Vs Hon. Attorney General",
   "judgement_by": " Hon Achala Wengappuli, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

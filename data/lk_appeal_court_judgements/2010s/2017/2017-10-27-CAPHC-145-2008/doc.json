@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-10-27-CAPHC-145-2008",
   "num": "CAPHC 145/2008",
   "date_str": "2017-10-27",
   "description": "Asantha Titus Kamburugamuwa Vs. Assistant Divisional Secretary before  Hon. P. Padman Surasena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e3287937-2484-4d0b-a2e6-9da84ccd57a7&filename=ca_phc_145_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14479",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e3287937-2484-4d0b-a2e6-9da84ccd57a7&filename=ca_phc_145_2008.pdf",
   "parties": "Asantha Titus Kamburugamuwa Vs. Assistant Divisional Secretary",
   "judgement_by": " Hon. P. Padman Surasena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

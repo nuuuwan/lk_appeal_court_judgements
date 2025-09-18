@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-12-06-C-A-DC-549-2000",
   "num": "C.A DC 549/2000",
   "date_str": "2018-12-06",
   "description": "Kodippili Thanthirige Sugath Vs Kodippili Arachchige Piyasena and Others before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=356f1969-2ba1-445a-a310-23f6c0d0ac15&filename=ca-549-2000-f%204.12.2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14458",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=356f1969-2ba1-445a-a310-23f6c0d0ac15&filename=ca-549-2000-f%204.12.2018.pdf",
   "parties": "Kodippili Thanthirige Sugath Vs Kodippili Arachchige Piyasena and Others",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

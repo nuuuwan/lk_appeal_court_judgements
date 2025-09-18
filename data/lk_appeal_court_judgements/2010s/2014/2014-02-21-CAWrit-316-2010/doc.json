@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-02-21-CAWrit-316-2010",
   "num": "CAWrit 316/2010",
   "date_str": "2014-02-21",
   "description": "Asuramange Jayarathne W.P. Ramani Nirosha Shyamali before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f7db076a-f7b7-40db-90bf-a1475fcc8c97&filename=ca_writ_316_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14538",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f7db076a-f7b7-40db-90bf-a1475fcc8c97&filename=ca_writ_316_2010.pdf",
   "parties": "Asuramange Jayarathne W.P. Ramani Nirosha Shyamali",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

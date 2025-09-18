@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-12-04-C-A-WRIT-359-2015",
   "num": "C.A WRIT 359/2015",
   "date_str": "2019-12-04",
   "description": "Kishani Industries (Pvt) Ltd Vs Commissioner General of Inland Revenue, Department of Inland Revenue, Colombo 2 and Others before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=89a59800-619c-464c-9a9e-a0d4032f0d54&filename=ca-writ-359-2015%203.12.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14433",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=89a59800-619c-464c-9a9e-a0d4032f0d54&filename=ca-writ-359-2015%203.12.2019.pdf",
   "parties": "Kishani Industries (Pvt) Ltd Vs Commissioner General of Inland Revenue, Department of Inland Revenue, Colombo 2 and Others",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

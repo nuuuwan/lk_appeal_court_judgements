@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-06-21-CA--Bail-0016-23",
   "num": "CA/ Bail/0016/23",
   "date_str": "2023-06-21",
   "description": "Sujeewa Fernando Vs The Officer-in Charge, Police Station, Mount Lavinia and other - before Hon. P. Kumararatnam, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=545b744d-08da-443d-94b1-a2c8928de35c&filename=BAIL%20ORDER%20CPA-0016.23.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=7417",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=545b744d-08da-443d-94b1-a2c8928de35c&filename=BAIL%20ORDER%20CPA-0016.23.pdf.pdf",
   "parties": "Sujeewa Fernando Vs The Officer-in Charge, Police Station, Mount Lavinia and other -",
   "judgement_by": "Hon. P. Kumararatnam, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

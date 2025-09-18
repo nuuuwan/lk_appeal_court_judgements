@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-05-01-CADC-KANDY-1369-2000",
   "num": "CADC KANDY 1369/2000",
   "date_str": "2018-05-01",
   "description": "Iiayana Arachchige Senanayake Yapa Vs. Janatha Pohora Wyawasaya before  Hon. A.H.M.D. Nawaz, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8f1b05a8-4dcb-47d7-86b6-d128dfff24df&filename=ca_dc_kandy_1369_00_f.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14479",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8f1b05a8-4dcb-47d7-86b6-d128dfff24df&filename=ca_dc_kandy_1369_00_f.pdf",
   "parties": "Iiayana Arachchige Senanayake Yapa Vs. Janatha Pohora Wyawasaya",
   "judgement_by": " Hon. A.H.M.D. Nawaz, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

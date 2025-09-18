@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-10-06-CAWRT-226-2017",
   "num": "CAWRT/226/2017",
   "date_str": "2021-10-06",
   "description": "SEYLAN BANK PLC VS DR. R.H.S. SAMARATHUNGA AND OTHERS before  HON. K.K.A.V. SWARNADHIPATHI ,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cdf006ce-5aa7-48d1-8700-049e4790c0d2&filename=wrt%20226-17.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14381",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cdf006ce-5aa7-48d1-8700-049e4790c0d2&filename=wrt%20226-17.pdf",
   "parties": "SEYLAN BANK PLC VS DR. R.H.S. SAMARATHUNGA AND OTHERS",
   "judgement_by": " HON. K.K.A.V. SWARNADHIPATHI ,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

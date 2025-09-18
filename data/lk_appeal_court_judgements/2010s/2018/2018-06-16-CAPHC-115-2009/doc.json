@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-06-16-CAPHC-115-2009",
   "num": "CAPHC/115/2009",
   "date_str": "2018-06-16",
   "description": "Mohamed Ismail Mohammed Nazar Vs. Kottal Bedde Vidanalage Dharmasiri , Director General , Urban Development Authority before  Hon. Achala Wengappuli ,J , J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8d60ed96-9559-4531-9a15-d86e85af090e&filename=ca_phc_115_09.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14446",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8d60ed96-9559-4531-9a15-d86e85af090e&filename=ca_phc_115_09.pdf",
   "parties": "Mohamed Ismail Mohammed Nazar Vs. Kottal Bedde Vidanalage Dharmasiri , Director General , Urban Development Authority",
   "judgement_by": " Hon. Achala Wengappuli ,J , J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

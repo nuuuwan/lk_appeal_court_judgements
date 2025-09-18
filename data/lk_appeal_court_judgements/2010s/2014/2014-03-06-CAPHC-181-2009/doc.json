@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-03-06-CAPHC-181-2009",
   "num": "CAPHC 181/2009",
   "date_str": "2014-03-06",
   "description": "A.M. Podinilame Adikari Vs. Sabaragamuwa Provincial Council before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dc1b0853-71dd-469c-b93e-a5d725cd910f&filename=ca_phc_kegalle_181_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14536",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dc1b0853-71dd-469c-b93e-a5d725cd910f&filename=ca_phc_kegalle_181_2009.pdf",
   "parties": "A.M. Podinilame Adikari Vs. Sabaragamuwa Provincial Council",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

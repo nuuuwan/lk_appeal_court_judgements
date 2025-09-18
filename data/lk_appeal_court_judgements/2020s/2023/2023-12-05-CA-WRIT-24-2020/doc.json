@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-12-05-CA-WRIT-24-2020",
   "num": "CA/WRIT/24/2020",
   "date_str": "2023-12-05",
   "description": "R.M. Sanath C de Silva vs. National Insurance Trust Fund Board before Hon. Sobhitha Rajakaruna J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d18016d8-a8b1-4aa6-b470-588ed40fc354&filename=24-2020.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10797",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d18016d8-a8b1-4aa6-b470-588ed40fc354&filename=24-2020.pdf.pdf",
   "parties": "R.M. Sanath C de Silva vs. National Insurance Trust Fund Board",
   "judgement_by": "Hon. Sobhitha Rajakaruna J.",
   "keywords": "interdiction, retirement, probation, Natural Justice",
-  "legistation": "Regulation of Insurance Industry Act No. 43 of 2000 National Insurance Trust Fund Act No. 28 of 2006",
-  "lang": "en"
+  "legistation": "Regulation of Insurance Industry Act No. 43 of 2000 National Insurance Trust Fund Act No. 28 of 2006"
 }

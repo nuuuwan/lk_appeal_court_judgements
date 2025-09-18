@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-08-31-CA-WRT-385-2021",
   "num": "CA.WRT/385/2021",
   "date_str": "2022-08-31",
   "description": "Lanka Canneries (Pvt) Ltd Vs Commissioner of Labour And Others before  Hon. Sobhitha Rajakaruna J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7d9f6cfa-3c9b-4687-bb59-298a41e69069&filename=ca%20writ%20385-2021.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14352",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7d9f6cfa-3c9b-4687-bb59-298a41e69069&filename=ca%20writ%20385-2021.pdf",
   "parties": "Lanka Canneries (Pvt) Ltd Vs Commissioner of Labour And Others",
   "judgement_by": " Hon. Sobhitha Rajakaruna J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

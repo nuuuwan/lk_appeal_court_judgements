@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2025-07-22-CA-RTI-0003-2024",
   "num": "CA/RTI/0003/2024",
   "date_str": "2025-07-22",
   "description": "Lanka Broadcasters Guild (Guarantee) Limited vs M.J.K. Dissanayakke and others before Hon. R. Gurusinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ddb41063-75c4-4fc7-9de1-af93a4f1915c&filename=RTI%200003-24%28EDITED%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=13115",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ddb41063-75c4-4fc7-9de1-af93a4f1915c&filename=RTI%200003-24%28EDITED%29.pdf.pdf",
   "parties": "Lanka Broadcasters Guild (Guarantee) Limited vs M.J.K. Dissanayakke and others",
   "judgement_by": "Hon. R. Gurusinghe, J.",
   "keywords": "Intervention in an appeal is not permitted",
-  "legistation": "S.34(1) of the Right to Information Act No. 12 of 2016",
-  "lang": "en"
+  "legistation": "S.34(1) of the Right to Information Act No. 12 of 2016"
 }

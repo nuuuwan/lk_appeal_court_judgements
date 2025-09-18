@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-05-19-CAHC-112-2005",
   "num": "CAHC 112/2005",
   "date_str": "2017-05-19",
   "description": "Kottage Lalith Gunarathna Vs. Hon. Attorney General before  Hon. M.M.A. Gaffoor, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=95ef9fb7-210c-442d-a7f1-dc190dcb64e1&filename=ca_hc_112_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14469",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=95ef9fb7-210c-442d-a7f1-dc190dcb64e1&filename=ca_hc_112_2005.pdf",
   "parties": "Kottage Lalith Gunarathna Vs. Hon. Attorney General",
   "judgement_by": " Hon. M.M.A. Gaffoor, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

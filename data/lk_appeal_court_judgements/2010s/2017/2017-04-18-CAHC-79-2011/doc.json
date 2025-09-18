@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-04-18-CAHC-79-2011",
   "num": "CAHC 79/2011",
   "date_str": "2017-04-18",
   "description": "Ratnayake Mudiyanselage Premachandra Vs. Hon. Attorney General before  Hon. K.K. Wickremasinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=646642f1-82dc-46f5-910c-da18b55af161&filename=ca_hc_79_11.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14467",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=646642f1-82dc-46f5-910c-da18b55af161&filename=ca_hc_79_11.pdf",
   "parties": "Ratnayake Mudiyanselage Premachandra Vs. Hon. Attorney General",
   "judgement_by": " Hon. K.K. Wickremasinghe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

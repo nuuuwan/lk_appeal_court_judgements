@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-06-13-CA-WRT-0652-2023",
   "num": "CA/WRT/0652/2023",
   "date_str": "2024-06-13",
   "description": "Alaris Lanka (Pvt) Ltd, Vs Director General of Customs & 3 others before Hon. M. T. Mohammed Laffar J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=95aa0b7a-3ae1-47e2-9101-5526107fa7ed&filename=652-23.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10832",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=95aa0b7a-3ae1-47e2-9101-5526107fa7ed&filename=652-23.pdf.pdf",
   "parties": "Alaris Lanka (Pvt) Ltd, Vs Director General of Customs & 3 others",
   "judgement_by": "Hon. M. T. Mohammed Laffar J.",
   "keywords": "Exception of DUTY, VAT, CESS for Borderline products under the NMRA",
-  "legistation": "National Medicine Regulatory Authority Act, No. 5 of 2015 Cosmetics Devices and Drugs Act, No.27 of 1980",
-  "lang": "en"
+  "legistation": "National Medicine Regulatory Authority Act, No. 5 of 2015 Cosmetics Devices and Drugs Act, No.27 of 1980"
 }

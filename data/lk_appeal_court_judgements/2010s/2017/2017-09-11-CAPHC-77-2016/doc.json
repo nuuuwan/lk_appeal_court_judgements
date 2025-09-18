@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-09-11-CAPHC-77-2016",
   "num": "CAPHC 77/2016",
   "date_str": "2017-09-11",
   "description": "Peduru Arachchige Somawathie Seethalatha Vs. Officer in Charge, Mirihana & others before  Hon. P. Padman Surasena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=77dbf289-a5a5-4372-bfc2-8d704f882471&filename=ca_phc_77_2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14475",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=77dbf289-a5a5-4372-bfc2-8d704f882471&filename=ca_phc_77_2016.pdf",
   "parties": "Peduru Arachchige Somawathie Seethalatha Vs. Officer in Charge, Mirihana & others",
   "judgement_by": " Hon. P. Padman Surasena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

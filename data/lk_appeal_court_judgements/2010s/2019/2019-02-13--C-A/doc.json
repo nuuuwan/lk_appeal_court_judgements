@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-02-13--C-A",
   "num": "/C.A",
   "date_str": "2019-02-13",
   "description": "DC 521-1999 Vitharanage Premadasa de Silva Vs Muthalerenngha Gretus Livere before  Hon M.M.A. Gaffoor, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6c64011c-5b56-486f-b640-3a254dfbf0fd&filename=ca%20521-99%20balapitiya%2007.02.19.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14413",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6c64011c-5b56-486f-b640-3a254dfbf0fd&filename=ca%20521-99%20balapitiya%2007.02.19.pdf",
   "parties": "DC 521-1999 Vitharanage Premadasa de Silva Vs Muthalerenngha Gretus Livere",
   "judgement_by": " Hon M.M.A. Gaffoor, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

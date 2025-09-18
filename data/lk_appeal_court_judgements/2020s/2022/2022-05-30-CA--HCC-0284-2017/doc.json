@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-05-30-CA--HCC-0284-2017",
   "num": "CA. HCC/0284/2017",
   "date_str": "2022-05-30",
   "description": "Gamage Chandrakumara Vs The Attorney Genera before Hon. Sampath B Abayakoon, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6ccd3e7c-642d-4b84-8cf2-f1a7048d31a4&filename=hcc-0284-17%20final%20judgment.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3921",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6ccd3e7c-642d-4b84-8cf2-f1a7048d31a4&filename=hcc-0284-17%20final%20judgment.pdf.pdf",
   "parties": "Gamage Chandrakumara Vs The Attorney Genera",
   "judgement_by": "Hon. Sampath B Abayakoon, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

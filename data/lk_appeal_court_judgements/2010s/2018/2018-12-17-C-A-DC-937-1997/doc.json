@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-12-17-C-A-DC-937-1997",
   "num": "C.A DC 937/1997",
   "date_str": "2018-12-17",
   "description": "Hewamanage Orlina and Others Vs S. P. Gunawardane and Others before  Hon M.M.A. Gaffoor, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1b443f7e-b90d-46c0-b720-c67316f06809&filename=c.a%20dc%20937_1997.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14458",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1b443f7e-b90d-46c0-b720-c67316f06809&filename=c.a%20dc%20937_1997.pdf",
   "parties": "Hewamanage Orlina and Others Vs S. P. Gunawardane and Others",
   "judgement_by": " Hon M.M.A. Gaffoor, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

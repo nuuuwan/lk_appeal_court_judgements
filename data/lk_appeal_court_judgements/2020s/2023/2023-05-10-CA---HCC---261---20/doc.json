@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-05-10-CA---HCC---261---20",
   "num": "CA / HCC / 261 / 20",
   "date_str": "2023-05-10",
   "description": "Sangarapillai Sangarganesh Vs Hon. Attorney General - before Hon. Menaka Wijesundera J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=88415590-cc74-40c5-8978-978f6dc81e3e&filename=HCC%20-%200261%20-%2020.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=7407",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=88415590-cc74-40c5-8978-978f6dc81e3e&filename=HCC%20-%200261%20-%2020.pdf.pdf",
   "parties": "Sangarapillai Sangarganesh Vs Hon. Attorney General -",
   "judgement_by": "Hon. Menaka Wijesundera J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

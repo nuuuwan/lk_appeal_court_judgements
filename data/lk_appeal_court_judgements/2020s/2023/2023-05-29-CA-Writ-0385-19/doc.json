@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-05-29-CA-Writ-0385-19",
   "num": "CA-Writ-0385-19",
   "date_str": "2023-05-29",
   "description": "Kurukulasuriya Patabendige and others Vs Ishanthi Buddhinie Gunasekera and other - before Hon. S.U.B. Karalliyadde, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=927ba9be-ff26-4671-9e8c-de6fbf90ee39&filename=WRIT-0385-19.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=7407",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=927ba9be-ff26-4671-9e8c-de6fbf90ee39&filename=WRIT-0385-19.pdf.pdf",
   "parties": "Kurukulasuriya Patabendige and others Vs Ishanthi Buddhinie Gunasekera and other -",
   "judgement_by": "Hon. S.U.B. Karalliyadde, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

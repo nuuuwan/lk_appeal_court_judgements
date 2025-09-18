@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-11-15-C-A--DC-62-1997",
   "num": "C.A. DC/62/1997",
   "date_str": "2019-11-15",
   "description": "Dahaneka Ralalge Dingiri Banda Vs Menikramayalage Jamis and Other before  Hon. Mahinda Samayawardhena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=30e7ec2c-2d92-47ff-866a-b81ea630f6c8&filename=ca-62-1997-f%2014.11.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14431",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=30e7ec2c-2d92-47ff-866a-b81ea630f6c8&filename=ca-62-1997-f%2014.11.2019.pdf",
   "parties": "Dahaneka Ralalge Dingiri Banda Vs Menikramayalage Jamis and Other",
   "judgement_by": " Hon. Mahinda Samayawardhena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

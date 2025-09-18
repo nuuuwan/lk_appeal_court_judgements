@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-12-10-CA-PHC-139-2013",
   "num": "CA.PHC 139/2013",
   "date_str": "2021-12-10",
   "description": "Parapedewage Sanjaka Aravinda Kumara and Other Vs D. Ariyawathi Munasinghe and Others before  Hon. Prasantha De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ab359685-8543-48e0-aa5f-fdb2df5b53d4&filename=ca%20phc%20139_2013%20judgment.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14385",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ab359685-8543-48e0-aa5f-fdb2df5b53d4&filename=ca%20phc%20139_2013%20judgment.pdf",
   "parties": "Parapedewage Sanjaka Aravinda Kumara and Other Vs D. Ariyawathi Munasinghe and Others",
   "judgement_by": " Hon. Prasantha De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

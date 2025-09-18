@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-11-06-CAPHC-160-2010",
   "num": "CAPHC 160/2010",
   "date_str": "2017-11-06",
   "description": "H Piyadasa Vs.Hon. Attorney General & Other before  Hon. P. Padman Surasena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=48a1ea26-736a-40fd-8981-f4ba0900c7f8&filename=ca_phc_160_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14479",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=48a1ea26-736a-40fd-8981-f4ba0900c7f8&filename=ca_phc_160_2010.pdf",
   "parties": "H Piyadasa Vs.Hon. Attorney General & Other",
   "judgement_by": " Hon. P. Padman Surasena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

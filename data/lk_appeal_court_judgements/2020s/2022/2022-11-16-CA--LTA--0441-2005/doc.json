@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-11-16-CA--LTA--0441-2005",
   "num": "CA/ LTA/ 0441/2005",
   "date_str": "2022-11-16",
   "description": "Wickremasinghe Arachchilage Mudiyanse Vs W.A. Jayasooriya Wickramasinghe AND OTHERS before Hon. K.K.A.V. SWARNADHIPATHI J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7299f976-5bdc-442c-ac4d-30b5d018b54d&filename=CA%20441-2005.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3957",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7299f976-5bdc-442c-ac4d-30b5d018b54d&filename=CA%20441-2005.pdf.pdf",
   "parties": "Wickremasinghe Arachchilage Mudiyanse Vs W.A. Jayasooriya Wickramasinghe AND OTHERS",
   "judgement_by": "Hon. K.K.A.V. SWARNADHIPATHI J",
   "keywords": "Can a settlement be entered in the absence of a party \u2022 Will that party become a victim of a miscarriage of justice",
-  "legistation": "Partition Law Act No 21 of 1977",
-  "lang": "en"
+  "legistation": "Partition Law Act No 21 of 1977"
 }

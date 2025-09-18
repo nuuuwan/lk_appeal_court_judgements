@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-03-18-C-A--HC-55-2014",
   "num": "C.A. HC/55/2014",
   "date_str": "2019-03-18",
   "description": "Loku Yaddehige Jagath VS. Hon Attorney General before  Hon A.L. Shiran Goonerathne, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=731ade7e-7505-4b22-bc32-92d387e0299d&filename=c.a.%20hc_55_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14415",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=731ade7e-7505-4b22-bc32-92d387e0299d&filename=c.a.%20hc_55_2014.pdf",
   "parties": "Loku Yaddehige Jagath VS. Hon Attorney General",
   "judgement_by": " Hon A.L. Shiran Goonerathne, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

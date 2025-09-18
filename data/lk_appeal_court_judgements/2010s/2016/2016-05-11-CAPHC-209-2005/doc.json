@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-05-11-CAPHC-209-2005",
   "num": "CAPHC 209/2005",
   "date_str": "2016-05-11",
   "description": "Chandrani Sisiralatha Vs. Municipal Council,Anuradhapura & others before  Hon. W.M.M. Malinie Gunaratne J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a4c69f0b-5ef0-4892-a5fe-e3da1c89ec90&filename=ca_phc_209_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14531",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a4c69f0b-5ef0-4892-a5fe-e3da1c89ec90&filename=ca_phc_209_2005.pdf",
   "parties": "Chandrani Sisiralatha Vs. Municipal Council,Anuradhapura & others",
   "judgement_by": " Hon. W.M.M. Malinie Gunaratne J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-08-10-CA-HCC-05-20",
   "num": "CA-HCC-05-20",
   "date_str": "2023-08-10",
   "description": "Rathnayake Mudiyanselage Muthubanda Vs Hon. Attorney General - before Hon. Sasi Mahendran, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2ad76111-95eb-47f5-b8a9-0d07510cebfa&filename=HCC%20%2005-20%20JUDGMENT.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=8070",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2ad76111-95eb-47f5-b8a9-0d07510cebfa&filename=HCC%20%2005-20%20JUDGMENT.pdf.pdf",
   "parties": "Rathnayake Mudiyanselage Muthubanda Vs Hon. Attorney General -",
   "judgement_by": "Hon. Sasi Mahendran, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

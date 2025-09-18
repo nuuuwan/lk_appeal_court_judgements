@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-08-11-CAPHC-58-2009",
   "num": "CAPHC 58/2009",
   "date_str": "2014-08-11",
   "description": "S.H. Jinadasa Vs. W. Karunathilake before  Hon. K.T. Chitrasiri, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e86d88ee-64f1-4c7c-9cf3-b867072943c5&filename=ca_phc_58_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14548",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e86d88ee-64f1-4c7c-9cf3-b867072943c5&filename=ca_phc_58_2009.pdf",
   "parties": "S.H. Jinadasa Vs. W. Karunathilake",
   "judgement_by": " Hon. K.T. Chitrasiri, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

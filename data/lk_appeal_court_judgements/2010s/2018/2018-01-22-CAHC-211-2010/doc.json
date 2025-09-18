@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-01-22-CAHC-211-2010",
   "num": "CAHC 211/2010",
   "date_str": "2018-01-22",
   "description": "Samarappuli Baala Arachchige Vs. Hon . Attorney General before  Hon. S. Thurairaja, P.C, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ed641c90-6b44-40ab-b062-693ba756c8e9&filename=ca_hc_211_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14436",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ed641c90-6b44-40ab-b062-693ba756c8e9&filename=ca_hc_211_2010.pdf",
   "parties": "Samarappuli Baala Arachchige Vs. Hon . Attorney General",
   "judgement_by": " Hon. S. Thurairaja, P.C, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

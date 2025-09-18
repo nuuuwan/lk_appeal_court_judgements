@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-01-27-CAWrit-427-2014-S--A--F-601d6af3",
   "num": "CAWrit 427/2014 S. A. F. Russain Vs. G. Lekah Geethanjali Perera - Hon. Vijith K. Malalgoda, P.C, (P/CA)",
   "date_str": "2015-01-27",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8e27605e-b774-44d3-8175-f56b9ad75cae&filename=ca_writ_427_14.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14511",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8e27605e-b774-44d3-8175-f56b9ad75cae&filename=ca_writ_427_14.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

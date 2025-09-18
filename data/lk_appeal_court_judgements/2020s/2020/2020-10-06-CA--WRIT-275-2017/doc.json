@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-10-06-CA--WRIT-275-2017",
   "num": "CA/ WRIT/275/2017",
   "date_str": "2020-10-06",
   "description": "Liyana Arachchige Sarath Padmakumara, Vs. C.P.W. Gunatilake, & Others before  Hon. Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3db6a3cb-bb9e-4da1-b73c-7c1a5397e201&filename=ca-writ-275-2017%206.10.2020.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14406",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3db6a3cb-bb9e-4da1-b73c-7c1a5397e201&filename=ca-writ-275-2017%206.10.2020.pdf",
   "parties": "Liyana Arachchige Sarath Padmakumara, Vs. C.P.W. Gunatilake, & Others",
   "judgement_by": " Hon. Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

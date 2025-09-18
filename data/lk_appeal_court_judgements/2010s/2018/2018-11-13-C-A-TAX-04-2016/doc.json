@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-11-13-C-A-TAX-04-2016",
   "num": "C.A TAX 04/2016",
   "date_str": "2018-11-13",
   "description": "The Commissioner General of Inland Revenue Vs Aitken Spence Travels Limited before  Hon Janak De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bcb904cc-4690-4af1-a6a3-f696246e6418&filename=c.a%2004_2016%20%20tax%20%202018.11.09.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14456",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bcb904cc-4690-4af1-a6a3-f696246e6418&filename=c.a%2004_2016%20%20tax%20%202018.11.09.pdf",
   "parties": "The Commissioner General of Inland Revenue Vs Aitken Spence Travels Limited",
   "judgement_by": " Hon Janak De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

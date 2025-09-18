@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-07-06-CAHC-Colombo-289-2013",
   "num": "CAHC Colombo 289/2013",
   "date_str": "2018-07-06",
   "description": "Rakkan Mangalika Vs Hon The Attorney General before  Hon s. Thurairaja, PC, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8e248597-41f0-42c7-8376-c7097b83d931&filename=ca_hc_289_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14446",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8e248597-41f0-42c7-8376-c7097b83d931&filename=ca_hc_289_2013.pdf",
   "parties": "Rakkan Mangalika Vs Hon The Attorney General",
   "judgement_by": " Hon s. Thurairaja, PC, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

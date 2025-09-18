@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-10-16-C-A-DC-99-1997",
   "num": "C.A DC 99/1997",
   "date_str": "2018-10-16",
   "description": "R. M. Gunapala Vs K. L. Nandana Padmasiri and Others before  Hon M. M. A. Gaffoor, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=83fae48a-879b-493d-a596-96e140eef73b&filename=c.a%20dc%20%2099_1997.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14452",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=83fae48a-879b-493d-a596-96e140eef73b&filename=c.a%20dc%20%2099_1997.pdf",
   "parties": "R. M. Gunapala Vs K. L. Nandana Padmasiri and Others",
   "judgement_by": " Hon M. M. A. Gaffoor, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

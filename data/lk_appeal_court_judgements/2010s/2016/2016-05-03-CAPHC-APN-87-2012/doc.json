@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-05-03-CAPHC-APN-87-2012",
   "num": "CAPHC APN 87/2012",
   "date_str": "2016-05-03",
   "description": "Hon. Attorney General Vs. Kanniappan Nagesh before  Hon. W.M.M. Malinie Gunaratne J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b7c04007-c33e-44da-8309-f19b31329f54&filename=ca_phc_apn_87_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14492",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b7c04007-c33e-44da-8309-f19b31329f54&filename=ca_phc_apn_87_2012.pdf",
   "parties": "Hon. Attorney General Vs. Kanniappan Nagesh",
   "judgement_by": " Hon. W.M.M. Malinie Gunaratne J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

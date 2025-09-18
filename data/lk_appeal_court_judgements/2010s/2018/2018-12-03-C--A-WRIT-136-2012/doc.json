@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-12-03-C--A-WRIT-136-2012",
   "num": "C..A WRIT 136/2012",
   "date_str": "2018-12-03",
   "description": "Mohomed Kaleel Mohamed Shihan and Others Vs Dr. Neville Gunawardena, Director General of Customs and Others before  Hon Arjuna Obeyesekere, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7e5fb590-0f37-48a8-83c6-a2587e3ce795&filename=ca%20writ%20%20136_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14456",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7e5fb590-0f37-48a8-83c6-a2587e3ce795&filename=ca%20writ%20%20136_2012.pdf",
   "parties": "Mohomed Kaleel Mohamed Shihan and Others Vs Dr. Neville Gunawardena, Director General of Customs and Others",
   "judgement_by": " Hon Arjuna Obeyesekere, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

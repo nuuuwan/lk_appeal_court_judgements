@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-07-27-CABA-09-2017",
   "num": "CABA 09/2017",
   "date_str": "2017-07-27",
   "description": "Arasarathnam Yoganadan Puliyankadal Vs. Hon. Attorney General & another before  Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=130ca8f6-ecde-4127-be57-0664d73fdbbe&filename=ca_ba_09_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14473",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=130ca8f6-ecde-4127-be57-0664d73fdbbe&filename=ca_ba_09_2017.pdf",
   "parties": "Arasarathnam Yoganadan Puliyankadal Vs. Hon. Attorney General & another",
   "judgement_by": " Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

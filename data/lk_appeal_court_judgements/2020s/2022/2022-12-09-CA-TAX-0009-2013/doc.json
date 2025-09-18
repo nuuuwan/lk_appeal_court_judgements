@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-12-09-CA-TAX-0009-2013",
   "num": "CA.TAX/0009/2013",
   "date_str": "2022-12-09",
   "description": "ACL Polymers (Pvt) Limited vs Commissioner General of Inland Revenue before  Hon. D.N. Samarakoon, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=13c097af-dd97-4939-bbeb-15ce433f03cb&filename=tax%2009%202013%20judgment.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14360",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=13c097af-dd97-4939-bbeb-15ce433f03cb&filename=tax%2009%202013%20judgment.pdf",
   "parties": "ACL Polymers (Pvt) Limited vs Commissioner General of Inland Revenue",
   "judgement_by": " Hon. D.N. Samarakoon, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

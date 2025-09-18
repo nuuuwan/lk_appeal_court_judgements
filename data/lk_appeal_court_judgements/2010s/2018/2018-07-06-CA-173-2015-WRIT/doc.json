@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-07-06-CA-173-2015-WRIT",
   "num": "CA/173/2015/WRIT",
   "date_str": "2018-07-06",
   "description": " before Amarakoon Dissanayake Wimalasena Vs. Piyaratne Wickramage , Special Education Development Services Society , Wellassa Subhagya Special School Vs. Hon. Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=13d70f7d-2bd7-458a-a5e6-b0a38ed61695&filename=ca-173-2015-writ%203.7.2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14448",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=13d70f7d-2bd7-458a-a5e6-b0a38ed61695&filename=ca-173-2015-writ%203.7.2018.pdf",
   "parties": "",
   "judgement_by": "Amarakoon Dissanayake Wimalasena Vs. Piyaratne Wickramage , Special Education Development Services Society , Wellassa Subhagya Special School Vs. Hon. Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

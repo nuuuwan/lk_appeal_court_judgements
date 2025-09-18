@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-03-31-CA-WRIT-383-19",
   "num": "CA/WRIT/383/19",
   "date_str": "2022-03-31",
   "description": "Herath Mudiyanselage Bandara Menike Vs Director General of Pensions & others before  Hon. M.T. Mohammed Laffar, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=de8124de-f9c5-4131-8c2a-174ce44b38d1&filename=wrt%20383-19%20-%20copy.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14342",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=de8124de-f9c5-4131-8c2a-174ce44b38d1&filename=wrt%20383-19%20-%20copy.pdf",
   "parties": "Herath Mudiyanselage Bandara Menike Vs Director General of Pensions & others",
   "judgement_by": " Hon. M.T. Mohammed Laffar, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

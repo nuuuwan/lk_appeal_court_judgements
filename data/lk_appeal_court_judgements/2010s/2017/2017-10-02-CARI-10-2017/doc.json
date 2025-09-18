@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-10-02-CARI-10-2017",
   "num": "CARI 10/2017",
   "date_str": "2017-10-02",
   "description": "Mackwoods Tea (Private) Limited Vs. Agalawatte Plantation PLC & others before  E.A.G.R. Amarasekara, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ab555196-2edd-4878-a304-9e6463ebef01&filename=ca_ri_10_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14477",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ab555196-2edd-4878-a304-9e6463ebef01&filename=ca_ri_10_2017.pdf",
   "parties": "Mackwoods Tea (Private) Limited Vs. Agalawatte Plantation PLC & others",
   "judgement_by": " E.A.G.R. Amarasekara, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

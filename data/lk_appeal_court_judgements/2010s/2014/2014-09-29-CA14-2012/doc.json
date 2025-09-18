@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-09-29-CA14-2012",
   "num": "CA14/2012",
   "date_str": "2014-09-29",
   "description": "Liyanage Rathnapala Vs. Hon. Attorney General before  Hon. P.W.D.C. Jayathilaka, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=80909ce7-8a14-453d-b3ec-8396497f1e9a&filename=ca_14_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14552",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=80909ce7-8a14-453d-b3ec-8396497f1e9a&filename=ca_14_2012.pdf",
   "parties": "Liyanage Rathnapala Vs. Hon. Attorney General",
   "judgement_by": " Hon. P.W.D.C. Jayathilaka, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

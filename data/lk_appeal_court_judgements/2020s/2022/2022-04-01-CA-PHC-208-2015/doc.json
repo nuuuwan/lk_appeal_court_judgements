@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-04-01-CA-PHC-208-2015",
   "num": "CA.PHC/208/2015",
   "date_str": "2022-04-01",
   "description": "Sinniah Amirthalingam Delgin Vs J.M.C. Priyadharshani before  Hon. Prasantha De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d9de2645-90dd-4f03-a775-229043a95b6f&filename=ca%20phc%20208_2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14344",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d9de2645-90dd-4f03-a775-229043a95b6f&filename=ca%20phc%20208_2015.pdf",
   "parties": "Sinniah Amirthalingam Delgin Vs J.M.C. Priyadharshani",
   "judgement_by": " Hon. Prasantha De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-03-06-CAWrit-875-2009",
   "num": "CAWrit 875/2009",
   "date_str": "2014-03-06",
   "description": "The Superior Regular of the Society of Jesus in the Diocese of Trincomalee Vs. A. B. Talagune before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7f1df4df-318c-4097-a5e1-8839f9aac242&filename=ca_writ_875_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14538",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7f1df4df-318c-4097-a5e1-8839f9aac242&filename=ca_writ_875_2009.pdf",
   "parties": "The Superior Regular of the Society of Jesus in the Diocese of Trincomalee Vs. A. B. Talagune",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

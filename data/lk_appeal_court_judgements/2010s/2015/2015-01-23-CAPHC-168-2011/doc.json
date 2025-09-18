@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-01-23-CAPHC-168-2011",
   "num": "CAPHC 168/2011",
   "date_str": "2015-01-23",
   "description": "Ambawa Thrift Credit Co-operative Society Vs. D. M. Sumana Dasanayake - Hon. K.T. Chitrasiri, J - An instance of recovering the fine even after serving the sentence imposed due to non before payment of fine.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8d597fad-f48a-4265-b1a9-028a61e8df04&filename=ca_phc_168_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14511",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8d597fad-f48a-4265-b1a9-028a61e8df04&filename=ca_phc_168_2011.pdf",
   "parties": "Ambawa Thrift Credit Co-operative Society Vs. D. M. Sumana Dasanayake - Hon. K.T. Chitrasiri, J - An instance of recovering the fine even after serving the sentence imposed due to non",
   "judgement_by": "payment of fine.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

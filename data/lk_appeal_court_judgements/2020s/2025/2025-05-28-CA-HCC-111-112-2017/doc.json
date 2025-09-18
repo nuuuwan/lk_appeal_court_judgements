@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2025-05-28-CA-HCC-111-112-2017",
   "num": "CA-HCC-111-112/2017",
   "date_str": "2025-05-28",
   "description": "Hon. Attorney General Vs. Illukpalla Gamage Karunanayake & 1 other before Hon. B. Sasi Mahendran, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eda39916-2656-4cfa-9812-013ec26a9d64&filename=HCC-111-112-17-JUDGMENT.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=13109",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eda39916-2656-4cfa-9812-013ec26a9d64&filename=HCC-111-112-17-JUDGMENT.pdf.pdf",
   "parties": "Hon. Attorney General Vs. Illukpalla Gamage Karunanayake & 1 other",
   "judgement_by": "Hon. B. Sasi Mahendran, J.",
   "keywords": "graven Sudden Provocation",
-  "legistation": "Section 294 of the Penal Code",
-  "lang": "en"
+  "legistation": "Section 294 of the Penal Code"
 }

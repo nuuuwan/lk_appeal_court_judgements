@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-12-17-C-A-WRIT-406-2016",
   "num": "C.A WRIT 406/2016",
   "date_str": "2019-12-17",
   "description": "W.A.R. Don Dharmawardena Vs D.M. Nalinasekera and Others before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7f5f6a3e-04c2-494f-8c09-dafead731c86&filename=ca-writ-406-2016%2013.12.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14433",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7f5f6a3e-04c2-494f-8c09-dafead731c86&filename=ca-writ-406-2016%2013.12.2019.pdf",
   "parties": "W.A.R. Don Dharmawardena Vs D.M. Nalinasekera and Others",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

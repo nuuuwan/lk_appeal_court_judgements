@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-01-27-C-A--APN-124-2019",
   "num": "C.A. APN/124/2019",
   "date_str": "2020-01-27",
   "description": "Pragasini Manju Tharmasuthan Vs The Attorney General before  Hon. Justice K. K. Wickremasinghe",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ae85ba49-cd47-461f-bd51-e39d5de94f90&filename=c.a.%20apa_124_2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14433",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ae85ba49-cd47-461f-bd51-e39d5de94f90&filename=c.a.%20apa_124_2019.pdf",
   "parties": "Pragasini Manju Tharmasuthan Vs The Attorney General",
   "judgement_by": " Hon. Justice K. K. Wickremasinghe",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-12-15-hcc-0060-15",
   "num": "hcc-0060-15",
   "date_str": "2022-12-15",
   "description": "Pitiwala Liyanage Dinesh Kumara alias Indika Sampath vs The Attorney General before Hon. Sampath B. Abayakoon, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e978f530-73df-4169-bfec-a077ab3a1e87&filename=HCC-0060-2015.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3963",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e978f530-73df-4169-bfec-a077ab3a1e87&filename=HCC-0060-2015.pdf.pdf",
   "parties": "Pitiwala Liyanage Dinesh Kumara alias Indika Sampath vs The Attorney General",
   "judgement_by": "Hon. Sampath B. Abayakoon, J.",
   "keywords": "Murder - Identification of the appellant - Evidence of a single witness - Corroboration - Totality of Evidence \u2013Dock Statement",
-  "legistation": "Penal Code Section 296",
-  "lang": "en"
+  "legistation": "Penal Code Section 296"
 }

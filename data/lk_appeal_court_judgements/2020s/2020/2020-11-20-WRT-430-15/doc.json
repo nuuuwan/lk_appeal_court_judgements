@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-11-20-WRT-430-15",
   "num": "WRT 430/15",
   "date_str": "2020-11-20",
   "description": "Associated Motorways (Pvt) Ltd., Vs. Consumer Affairs Authority of Sri Lanka, before  Hon. Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=14407a73-d8db-4df8-9bfb-bd7c87cfc700&filename=ca-writ-430-2015%2016.11.2020.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14408",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=14407a73-d8db-4df8-9bfb-bd7c87cfc700&filename=ca-writ-430-2015%2016.11.2020.pdf",
   "parties": "Associated Motorways (Pvt) Ltd., Vs. Consumer Affairs Authority of Sri Lanka,",
   "judgement_by": " Hon. Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

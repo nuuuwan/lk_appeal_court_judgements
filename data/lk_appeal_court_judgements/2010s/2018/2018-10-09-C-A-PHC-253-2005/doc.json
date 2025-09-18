@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-10-09-C-A-PHC-253-2005",
   "num": "C.A PHC/253/2005",
   "date_str": "2018-10-09",
   "description": "J.M.C. Priyadarashani Vs Samantha Ranawaka before  Hon. ACHALA WENGAPPULI, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=551d00a3-d15e-4170-b3a4-b6cad6542dbb&filename=c-a%20phc-253-05.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14454",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=551d00a3-d15e-4170-b3a4-b6cad6542dbb&filename=c-a%20phc-253-05.pdf",
   "parties": "J.M.C. Priyadarashani Vs Samantha Ranawaka",
   "judgement_by": " Hon. ACHALA WENGAPPULI, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

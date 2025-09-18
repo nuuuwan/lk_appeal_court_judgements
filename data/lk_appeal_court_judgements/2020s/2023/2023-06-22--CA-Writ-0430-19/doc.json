@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-06-22--CA-Writ-0430-19",
   "num": "/CA-Writ-0430-19",
   "date_str": "2023-06-22",
   "description": "Dr. Ranganathan Kapilan Vs The University Services Appeals Board and 60 Others before  Hon. S.U.B. Karalliyadde, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dcf009a6-08ac-4980-9ba4-fd01b92a9b74&filename=ca-writ-0430-19.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14323",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dcf009a6-08ac-4980-9ba4-fd01b92a9b74&filename=ca-writ-0430-19.pdf",
   "parties": "Dr. Ranganathan Kapilan Vs The University Services Appeals Board and 60 Others",
   "judgement_by": " Hon. S.U.B. Karalliyadde, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-03-12-C-A-DC-17-1999",
   "num": "C.A DC 17/1999",
   "date_str": "2019-03-12",
   "description": "Vettivel Pillai Rajagopal Vs Orient Holdings Limited before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8af5f075-4b76-4fee-a076-7d0fd12a8fe6&filename=1.%20ca-17-1999-f%2011.3.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14415",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8af5f075-4b76-4fee-a076-7d0fd12a8fe6&filename=1.%20ca-17-1999-f%2011.3.2019.pdf",
   "parties": "Vettivel Pillai Rajagopal Vs Orient Holdings Limited",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

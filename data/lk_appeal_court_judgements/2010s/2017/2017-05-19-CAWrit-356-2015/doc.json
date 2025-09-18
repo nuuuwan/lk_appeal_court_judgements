@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-05-19-CAWrit-356-2015",
   "num": "CAWrit 356/2015",
   "date_str": "2017-05-19",
   "description": "Rajapakse Mudiyanselage Tilak Rajapakse Vs. Road Development Authority & others before  Hon. S Thurairaja, P.C, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9780fb30-1d24-4a3c-9add-49e75b97f472&filename=ca_wit_356_2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14467",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9780fb30-1d24-4a3c-9add-49e75b97f472&filename=ca_wit_356_2015.pdf",
   "parties": "Rajapakse Mudiyanselage Tilak Rajapakse Vs. Road Development Authority & others",
   "judgement_by": " Hon. S Thurairaja, P.C, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

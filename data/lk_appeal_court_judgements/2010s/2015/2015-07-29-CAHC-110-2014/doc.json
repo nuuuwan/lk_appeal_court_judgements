@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-07-29-CAHC-110-2014",
   "num": "CAHC 110/2014",
   "date_str": "2015-07-29",
   "description": "Liyanawaruge Alexander Balangne alias Sanda Vs. Hon. Attorney General before  Hon. H.N.J. Perera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9518cec7-128b-447d-98b5-f7ea2be23052&filename=ca_hc_110_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14519",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9518cec7-128b-447d-98b5-f7ea2be23052&filename=ca_hc_110_2014.pdf",
   "parties": "Liyanawaruge Alexander Balangne alias Sanda Vs. Hon. Attorney General",
   "judgement_by": " Hon. H.N.J. Perera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

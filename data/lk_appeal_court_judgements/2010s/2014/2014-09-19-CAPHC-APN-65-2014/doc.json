@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-09-19-CAPHC-APN-65-2014",
   "num": "CAPHC APN 65/2014",
   "date_str": "2014-09-19",
   "description": "B.W. Wasantha Pushpakumara Vs. Hon. Attorney General before  Hon. K.T. Chitrasiri, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=51a981fe-2e28-4009-ad32-60ec80cf0828&filename=ca_phc_apn_65_14.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14550",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=51a981fe-2e28-4009-ad32-60ec80cf0828&filename=ca_phc_apn_65_14.pdf",
   "parties": "B.W. Wasantha Pushpakumara Vs. Hon. Attorney General",
   "judgement_by": " Hon. K.T. Chitrasiri, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

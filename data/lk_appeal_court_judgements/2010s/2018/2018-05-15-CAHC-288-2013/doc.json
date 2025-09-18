@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-05-15-CAHC-288-2013",
   "num": "CAHC 288/2013",
   "date_str": "2018-05-15",
   "description": "Korinvige Anura Lakshman Silva Vs. Hon. Attorney General before  Hon. Achala Wengapulli , J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=13859d3b-3055-49ba-af49-5879be45cd0b&filename=ca_hc_288_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14444",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=13859d3b-3055-49ba-af49-5879be45cd0b&filename=ca_hc_288_2013.pdf",
   "parties": "Korinvige Anura Lakshman Silva Vs. Hon. Attorney General",
   "judgement_by": " Hon. Achala Wengapulli , J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

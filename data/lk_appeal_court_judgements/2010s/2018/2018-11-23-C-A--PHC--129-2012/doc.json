@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-11-23-C-A--PHC--129-2012",
   "num": "C.A. PHC /129/2012",
   "date_str": "2018-11-23",
   "description": "Vincent Peter Ranasinghe Vs Vijitha Palihakkara Wijesekera before  Hon. Achala Wengappuli, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b5b93174-cce6-47a7-ac47-ba1a0c92d221&filename=ca_phc_129_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14456",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b5b93174-cce6-47a7-ac47-ba1a0c92d221&filename=ca_phc_129_2012.pdf",
   "parties": "Vincent Peter Ranasinghe Vs Vijitha Palihakkara Wijesekera",
   "judgement_by": " Hon. Achala Wengappuli, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

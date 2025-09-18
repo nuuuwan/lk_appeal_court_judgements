@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-06-17-CA--PHC--165-2017",
   "num": "CA (PHC) 165/2017",
   "date_str": "2022-06-17",
   "description": "Harischandra Senarath Rathnayake Vs Director General, Sri Lanka Mahaweli Authority before Hon- Prasantha De Silva, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eae166ba-9cf2-454f-8d9f-20cc4be473f0&filename=ca%20phc%20165_2017%20%281%29.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3927",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eae166ba-9cf2-454f-8d9f-20cc4be473f0&filename=ca%20phc%20165_2017%20%281%29.pdf.pdf",
   "parties": "Harischandra Senarath Rathnayake Vs Director General, Sri Lanka Mahaweli Authority",
   "judgement_by": "Hon- Prasantha De Silva, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

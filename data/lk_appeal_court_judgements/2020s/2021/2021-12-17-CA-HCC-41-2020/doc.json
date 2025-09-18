@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-12-17-CA-HCC-41-2020",
   "num": "CA.HCC/41/2020",
   "date_str": "2021-12-17",
   "description": "Madhawa Roshan Kithulgoda Vs Hon. Attorney General before  Hon. . N. Bandula Karunarathna J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f21face3-e9c9-4dd8-9a6c-b618b99ca4f9&filename=judgement%20ca-hcc-%200041-%2020%20edited%20fi.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14385",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f21face3-e9c9-4dd8-9a6c-b618b99ca4f9&filename=judgement%20ca-hcc-%200041-%2020%20edited%20fi.pdf",
   "parties": "Madhawa Roshan Kithulgoda Vs Hon. Attorney General",
   "judgement_by": " Hon. . N. Bandula Karunarathna J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

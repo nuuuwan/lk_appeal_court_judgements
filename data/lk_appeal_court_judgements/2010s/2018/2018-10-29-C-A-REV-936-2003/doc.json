@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-10-29-C-A-REV-936-2003",
   "num": "C.A REV 936/2003",
   "date_str": "2018-10-29",
   "description": "Jayasinghe Appuhamilage Vs H.R. Pathmanga Ranaweera and Others before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bd0dab67-69b8-4267-9c0d-e753f787e663&filename=ca-936-2003-rev%2023.10.2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14454",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bd0dab67-69b8-4267-9c0d-e753f787e663&filename=ca-936-2003-rev%2023.10.2018.pdf",
   "parties": "Jayasinghe Appuhamilage Vs H.R. Pathmanga Ranaweera and Others",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

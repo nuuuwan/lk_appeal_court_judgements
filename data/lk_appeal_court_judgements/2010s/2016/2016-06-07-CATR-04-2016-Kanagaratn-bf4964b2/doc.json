@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-06-07-CATR-04-2016-Kanagaratn-bf4964b2",
   "num": "CATR 04/2016 Kanagaratnam Jeevaratnam Vs. Hon. Attorney General - H/L Vijith K. Malalgoda, P.C, J (P/CA)",
   "date_str": "2016-06-07",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f54a9e88-bde7-4f31-97b7-813ed3799f43&filename=ca_tr_04_2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14494",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f54a9e88-bde7-4f31-97b7-813ed3799f43&filename=ca_tr_04_2016.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

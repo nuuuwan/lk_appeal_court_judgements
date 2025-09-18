@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-01-13-CA-HCC-0437-2019-Pussag-f675ac73",
   "num": "CA/HCC/0437/2019 Pussagodage Thusitha Namal Kumara Vs Hon. Attorney General - Hon. K Priyantha Fernando, J. (P/CA)",
   "date_str": "2023-01-13",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=295b3f89-4322-4e5e-96f2-c5a39d66f8e4&filename=ca%20hcc%200437-2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14313",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=295b3f89-4322-4e5e-96f2-c5a39d66f8e4&filename=ca%20hcc%200437-2019.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

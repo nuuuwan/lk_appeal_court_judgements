@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-12-CA-Bal-72-",
   "num": "CA.Bal/72/",
   "date_str": "2022-10-12",
   "description": "2021 Kadupitige Jayantha Lakshman Dharmasena Vs Headquarters Inspector (HQI) Police Station, Kuliyapitiya and another before  HON. MENAKA WIJESUNDERA J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b92c4226-7863-4d52-8373-8aaba253fedd&filename=bal%20-%200072-%2021.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b92c4226-7863-4d52-8373-8aaba253fedd&filename=bal%20-%200072-%2021.pdf",
   "parties": "2021 Kadupitige Jayantha Lakshman Dharmasena Vs Headquarters Inspector (HQI) Police Station, Kuliyapitiya and another",
   "judgement_by": " HON. MENAKA WIJESUNDERA J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

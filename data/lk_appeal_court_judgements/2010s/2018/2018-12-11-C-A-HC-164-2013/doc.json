@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-12-11-C-A-HC-164-2013",
   "num": "C.A HC 164/2013",
   "date_str": "2018-12-11",
   "description": "Disanayake Mudiyanselage Premadasa Vs Hon Attorney General before  Hon S. Thurairaja PC, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=66d6d43d-ca28-4fcc-9a2b-0c244ec73ebd&filename=c.a%20%20hc%20%20164_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14456",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=66d6d43d-ca28-4fcc-9a2b-0c244ec73ebd&filename=c.a%20%20hc%20%20164_2013.pdf",
   "parties": "Disanayake Mudiyanselage Premadasa Vs Hon Attorney General",
   "judgement_by": " Hon S. Thurairaja PC, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

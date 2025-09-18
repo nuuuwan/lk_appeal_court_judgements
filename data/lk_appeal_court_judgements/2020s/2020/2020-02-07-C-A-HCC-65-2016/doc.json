@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-02-07-C-A-HCC-65-2016",
   "num": "C.A HCC 65/2016",
   "date_str": "2020-02-07",
   "description": "Wijepala Mohottilage Sunil Piyatissa Vs Hon. Attorney General before  Hon Justice K.K. Wickremasinghe",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=78965948-43da-4e4d-a6af-9d278f503a8b&filename=c.a%20hcc%20%2065-2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14390",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=78965948-43da-4e4d-a6af-9d278f503a8b&filename=c.a%20hcc%20%2065-2016.pdf",
   "parties": "Wijepala Mohottilage Sunil Piyatissa Vs Hon. Attorney General",
   "judgement_by": " Hon Justice K.K. Wickremasinghe",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

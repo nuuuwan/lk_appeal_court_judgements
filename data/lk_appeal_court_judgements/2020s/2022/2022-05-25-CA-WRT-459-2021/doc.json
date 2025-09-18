@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-05-25-CA-WRT-459-2021",
   "num": "CA.WRT/459/2021",
   "date_str": "2022-05-25",
   "description": "P.S Rohana Premalal Vs E.M.R.P.B. Ekanayake And Others before  Hon. Sobhitha Rajakaruna J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=00e70cfe-57cc-4d56-a282-65f1040dab98&filename=ca%20writ%20459-21%201.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14346",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=00e70cfe-57cc-4d56-a282-65f1040dab98&filename=ca%20writ%20459-21%201.pdf",
   "parties": "P.S Rohana Premalal Vs E.M.R.P.B. Ekanayake And Others",
   "judgement_by": " Hon. Sobhitha Rajakaruna J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

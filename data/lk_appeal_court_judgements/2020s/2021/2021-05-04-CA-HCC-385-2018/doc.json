@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-05-04-CA-HCC-385-2018",
   "num": "CA.HCC/385/2018",
   "date_str": "2021-05-04",
   "description": "Ameer Paslee Vs Hon. Attorney General before  Hon. R. Gurusinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bea83152-e5f3-4bf2-9a83-a7f7f9f00b58&filename=ca%20no.%20385_18.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14371",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bea83152-e5f3-4bf2-9a83-a7f7f9f00b58&filename=ca%20no.%20385_18.pdf",
   "parties": "Ameer Paslee Vs Hon. Attorney General",
   "judgement_by": " Hon. R. Gurusinghe, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

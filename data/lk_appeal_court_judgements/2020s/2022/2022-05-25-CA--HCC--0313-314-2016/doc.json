@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-05-25-CA--HCC--0313-314-2016",
   "num": "CA. HCC/ 0313-314/2016",
   "date_str": "2022-05-25",
   "description": "Pathirajawansa Kudahettige Rajawansa Karunadheera And Other Vs The Hon. Attorney General before Hon. N. Bandula Karunarathna J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b2d18064-fcd5-4c86-b730-bf18676a619d&filename=judgement%20ca-hcc-%20313-314%20-%202016%20edited%20finally.docx%2025.5.22.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3921",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b2d18064-fcd5-4c86-b730-bf18676a619d&filename=judgement%20ca-hcc-%20313-314%20-%202016%20edited%20finally.docx%2025.5.22.pdf.pdf",
   "parties": "Pathirajawansa Kudahettige Rajawansa Karunadheera And Other Vs The Hon. Attorney General",
   "judgement_by": "Hon. N. Bandula Karunarathna J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-02-16-CAWRIT-273-2013",
   "num": "CAWRIT/273/2013",
   "date_str": "2018-02-16",
   "description": "Upasena Weerasinghe Vs. The Hon. Attorney General before  Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c4fa21e3-a285-46cd-9b3c-3b87843dfd1c&filename=ca_writ_273_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14438",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c4fa21e3-a285-46cd-9b3c-3b87843dfd1c&filename=ca_writ_273_2013.pdf",
   "parties": "Upasena Weerasinghe Vs. The Hon. Attorney General",
   "judgement_by": " Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

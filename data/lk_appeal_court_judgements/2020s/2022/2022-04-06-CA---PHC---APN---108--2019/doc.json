@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-04-06-CA---PHC---APN---108--2019",
   "num": "CA / PHC / APN / 108 /2019",
   "date_str": "2022-04-06",
   "description": "Lukuappukutige Prabath Prasanna Kumara Vs Loki Appukuttige Thilak Kumara and others before Hon. Menaka Wijesundera J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=21321159-f054-471a-8a07-c585085b2514&filename=cpa%20-%20108%20-%2019.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3915",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=21321159-f054-471a-8a07-c585085b2514&filename=cpa%20-%20108%20-%2019.pdf.pdf",
   "parties": "Lukuappukutige Prabath Prasanna Kumara Vs Loki Appukuttige Thilak Kumara and others",
   "judgement_by": "Hon. Menaka Wijesundera J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

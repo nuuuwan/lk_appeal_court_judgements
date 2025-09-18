@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-11-08-C-A-HCC-183-2018",
   "num": "C.A HCC 183/2018",
   "date_str": "2021-11-08",
   "description": "Abdul Rahuman illyas Alias Bai Vs Hon. Attorney General before  Hon. R. Gurusinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e99022c4-85b7-4bd9-b042-c28be55fa008&filename=183_2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14383",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e99022c4-85b7-4bd9-b042-c28be55fa008&filename=183_2018.pdf",
   "parties": "Abdul Rahuman illyas Alias Bai Vs Hon. Attorney General",
   "judgement_by": " Hon. R. Gurusinghe, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

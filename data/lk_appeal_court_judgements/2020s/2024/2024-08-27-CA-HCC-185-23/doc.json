@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-08-27-CA-HCC-185-23",
   "num": "CA/HCC/185/23",
   "date_str": "2024-08-27",
   "description": "Suren Maduranga Vidanapathirana Vs Hon. Attorney General before Hon. Menaka Wijesundera J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=51b2e2a8-885c-4b07-9ddb-92e7a05b3771&filename=HCC-185-23.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10830",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=51b2e2a8-885c-4b07-9ddb-92e7a05b3771&filename=HCC-185-23.pdf.pdf",
   "parties": "Suren Maduranga Vidanapathirana Vs Hon. Attorney General",
   "judgement_by": "Hon. Menaka Wijesundera J.",
   "keywords": "Prosecution not proving its case beyond a reasonable doubt",
-  "legistation": "Code of Criminal Procedure Act",
-  "lang": "en"
+  "legistation": "Code of Criminal Procedure Act"
 }

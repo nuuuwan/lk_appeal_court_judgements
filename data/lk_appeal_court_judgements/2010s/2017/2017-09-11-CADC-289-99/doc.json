@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-09-11-CADC-289-99",
   "num": "CADC 289/99",
   "date_str": "2017-09-11",
   "description": "Korallage Edward Ranasinghe Vs. Ranasinghe Arachchige Dingiri Mahatmaya & others before  Hon. S. Devika De L. Tennekoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4250d11c-8941-47cb-9d0e-9e51add77e26&filename=ca_dc_289_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14475",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4250d11c-8941-47cb-9d0e-9e51add77e26&filename=ca_dc_289_99.pdf",
   "parties": "Korallage Edward Ranasinghe Vs. Ranasinghe Arachchige Dingiri Mahatmaya & others",
   "judgement_by": " Hon. S. Devika De L. Tennekoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

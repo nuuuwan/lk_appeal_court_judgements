@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-05-29-CADC-Gampaha-84-98",
   "num": "CADC Gampaha 84/98",
   "date_str": "2014-05-29",
   "description": "E. A. Edwin Vs. E. A. Dona Babynona - Hon. K.T. Chitrasiri, J before  l.Conversion of Sinhalameasurements to English standards. 2.Sections 18 &19 of the Partition Act.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2c39ae91-893d-496f-ad28-4dedaf88c61f&filename=ca_dc_gampaha_84_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14544",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2c39ae91-893d-496f-ad28-4dedaf88c61f&filename=ca_dc_gampaha_84_98.pdf",
   "parties": "E. A. Edwin Vs. E. A. Dona Babynona - Hon. K.T. Chitrasiri, J",
   "judgement_by": " l.Conversion of Sinhalameasurements to English standards. 2.Sections 18 &19 of the Partition Act.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

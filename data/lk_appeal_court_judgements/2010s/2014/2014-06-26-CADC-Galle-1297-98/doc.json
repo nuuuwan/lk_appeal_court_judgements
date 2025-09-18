@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-06-26-CADC-Galle-1297-98",
   "num": "CADC Galle 1297/98",
   "date_str": "2014-06-26",
   "description": "Sanath Wasantha Edirisingha Vs. Miyanawathuralhala Gamage Sumathipala before  Hon. K.T. Chitrasiri, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=24b36311-977e-43c3-bdf9-d06750c892fc&filename=ca_dc_galle_1297_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14546",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=24b36311-977e-43c3-bdf9-d06750c892fc&filename=ca_dc_galle_1297_98.pdf",
   "parties": "Sanath Wasantha Edirisingha Vs. Miyanawathuralhala Gamage Sumathipala",
   "judgement_by": " Hon. K.T. Chitrasiri, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

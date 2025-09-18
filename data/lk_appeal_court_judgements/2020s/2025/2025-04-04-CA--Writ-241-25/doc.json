@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2025-04-04-CA--Writ-241-25",
   "num": "CA/ Writ/241/25",
   "date_str": "2025-04-04",
   "description": "K. T. Kurusamy, alias, Kalan Gandi Thevar Kurusamy, and other Vs Piyumi Artigala Returning Officer- Colombo Municipal Council, before Hon. M. T. MOHAMMED LAFFAR, J (President C/A)- Acting.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2ead7ed3-3f9d-46c0-9bae-a6a37d6c906d&filename=wrt-241%20election%20petiton.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=13103",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2ead7ed3-3f9d-46c0-9bae-a6a37d6c906d&filename=wrt-241%20election%20petiton.pdf.pdf",
   "parties": "K. T. Kurusamy, alias, Kalan Gandi Thevar Kurusamy, and other Vs Piyumi Artigala Returning Officer- Colombo Municipal Council,",
   "judgement_by": "Hon. M. T. MOHAMMED LAFFAR, J (President C/A)- Acting.",
   "keywords": "For the foregoing reasons I hold that the copies of the birth certificate certified by the Justice of Peace or the Notary Public is sufficient to accept as certified documents",
-  "legistation": "Local Authorities Elections Ordinance No. 53 of 1946 (as amended).",
-  "lang": "en"
+  "legistation": "Local Authorities Elections Ordinance No. 53 of 1946 (as amended)."
 }

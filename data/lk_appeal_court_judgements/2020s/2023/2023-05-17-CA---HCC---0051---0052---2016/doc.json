@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-05-17-CA---HCC---0051---0052---2016",
   "num": "CA / HCC / 0051 / 0052 / 2016",
   "date_str": "2023-05-17",
   "description": "Ratnayake Mudiyanselage Nayanananda Ratnayake Vs Hon. Attorney General - before Hon. Menaka Wijesundera J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c5baab72-f13c-4d66-911e-d78baa9b29ef&filename=HCC%20-%200051%20-%200052%20-%2016.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=7407",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c5baab72-f13c-4d66-911e-d78baa9b29ef&filename=HCC%20-%200051%20-%200052%20-%2016.pdf.pdf",
   "parties": "Ratnayake Mudiyanselage Nayanananda Ratnayake Vs Hon. Attorney General -",
   "judgement_by": "Hon. Menaka Wijesundera J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

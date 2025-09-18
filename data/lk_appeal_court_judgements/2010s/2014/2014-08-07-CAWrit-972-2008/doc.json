@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-08-07-CAWrit-972-2008",
   "num": "CAWrit 972/2008",
   "date_str": "2014-08-07",
   "description": "K.A Shirani Vs. Ceylon Electricity Boad before  Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5772842b-82c2-4b2a-a628-0cbee6431fee&filename=ca_writ_972_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14550",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5772842b-82c2-4b2a-a628-0cbee6431fee&filename=ca_writ_972_2008.pdf",
   "parties": "K.A Shirani Vs. Ceylon Electricity Boad",
   "judgement_by": " Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

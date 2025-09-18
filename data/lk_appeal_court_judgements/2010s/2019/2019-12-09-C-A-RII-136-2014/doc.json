@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-12-09-C-A-RII-136-2014",
   "num": "C.A RII 136/2014",
   "date_str": "2019-12-09",
   "description": "K.P.C. Builders (Pvt) Ltd Vs Colombo Municipal Council and Others before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e1c1e29b-2c1f-47e3-b0f7-486bd2a50d4b&filename=ca-ri-136-2014%204.12.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14433",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e1c1e29b-2c1f-47e3-b0f7-486bd2a50d4b&filename=ca-ri-136-2014%204.12.2019.pdf",
   "parties": "K.P.C. Builders (Pvt) Ltd Vs Colombo Municipal Council and Others",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

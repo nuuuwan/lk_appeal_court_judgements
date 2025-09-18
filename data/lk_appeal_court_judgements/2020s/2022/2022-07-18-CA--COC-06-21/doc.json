@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-07-18-CA--COC-06-21",
   "num": "CA/ COC/06/21",
   "date_str": "2022-07-18",
   "description": "Upul Jayasuriya Vs Senarath Pathirannahalage Ratna Prabath Senanayake before Hon. Iddawala \u2013 J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d5da4bd8-f472-47fa-88cc-e82f90319145&filename=30.18072022-coc%2006-21.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3933",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d5da4bd8-f472-47fa-88cc-e82f90319145&filename=30.18072022-coc%2006-21.pdf.pdf",
   "parties": "Upul Jayasuriya Vs Senarath Pathirannahalage Ratna Prabath Senanayake",
   "judgement_by": "Hon. Iddawala \u2013 J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

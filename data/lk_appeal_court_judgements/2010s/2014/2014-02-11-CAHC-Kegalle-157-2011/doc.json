@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-02-11-CAHC-Kegalle-157-2011",
   "num": "CAHC Kegalle 157/2011",
   "date_str": "2014-02-11",
   "description": " before Liyana Pedilage Sirisena alias Sira Vs. Hon. The Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f3c209a8-9575-4154-b66a-a8ddfaae346d&filename=ca_hc_kegalle_157_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14536",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f3c209a8-9575-4154-b66a-a8ddfaae346d&filename=ca_hc_kegalle_157_2011.pdf",
   "parties": "",
   "judgement_by": "Liyana Pedilage Sirisena alias Sira Vs. Hon. The Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

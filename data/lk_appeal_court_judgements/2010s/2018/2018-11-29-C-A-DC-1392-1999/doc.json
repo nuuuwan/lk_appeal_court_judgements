@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-11-29-C-A-DC-1392-1999",
   "num": "C.A DC 1392/1999",
   "date_str": "2018-11-29",
   "description": "Damayanthi Ekanayaka Vs Neelanduwage Amarawathie and Others before  Hon M.M.A. Gaffoor, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b8bfaa9a-511c-47b2-88f9-8fadd7e6fa46&filename=c.a%20%20dc%201392_1999.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14456",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b8bfaa9a-511c-47b2-88f9-8fadd7e6fa46&filename=c.a%20%20dc%201392_1999.pdf",
   "parties": "Damayanthi Ekanayaka Vs Neelanduwage Amarawathie and Others",
   "judgement_by": " Hon M.M.A. Gaffoor, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

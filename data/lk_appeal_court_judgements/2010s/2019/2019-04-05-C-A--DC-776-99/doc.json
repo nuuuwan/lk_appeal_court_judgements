@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-04-05-C-A--DC-776-99",
   "num": "C.A. DC/776/99",
   "date_str": "2019-04-05",
   "description": "H. G. Greta Piyawathi VS. Anil Gunasena Moley and Others before  Hon. M.M.A. Gaffoor, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b4f80311-a105-4187-9dc7-730533bd9572&filename=c.a._dc_776_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14415",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b4f80311-a105-4187-9dc7-730533bd9572&filename=c.a._dc_776_99.pdf",
   "parties": "H. G. Greta Piyawathi VS. Anil Gunasena Moley and Others",
   "judgement_by": " Hon. M.M.A. Gaffoor, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

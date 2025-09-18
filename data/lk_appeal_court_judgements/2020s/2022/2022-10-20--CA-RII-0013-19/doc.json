@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-20--CA-RII-0013-19",
   "num": "/CA.RII-0013-19",
   "date_str": "2022-10-20",
   "description": "MAHAMED SARIFDEEN VS W.A.L. MENDIS AND OTHERS before  HON. D.N. SAMARAKOON, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f81a6ad3-3a66-4e96-9ce2-db52d18dd76b&filename=ca-%20rii-0013-2019%20001.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f81a6ad3-3a66-4e96-9ce2-db52d18dd76b&filename=ca-%20rii-0013-2019%20001.pdf",
   "parties": "MAHAMED SARIFDEEN VS W.A.L. MENDIS AND OTHERS",
   "judgement_by": " HON. D.N. SAMARAKOON, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

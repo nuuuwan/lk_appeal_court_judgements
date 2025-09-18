@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-06-24-C-A-DC-92-93-2000",
   "num": "C.A DC 92-93/2000",
   "date_str": "2019-06-24",
   "description": "Chandradasa Ranasinghe Vs Danny Wijesinghe Wakista before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eff04bb0-e207-413f-8877-c43d377853c5&filename=ca-92-93-2000-f%2024.6.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14421",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eff04bb0-e207-413f-8877-c43d377853c5&filename=ca-92-93-2000-f%2024.6.2019.pdf",
   "parties": "Chandradasa Ranasinghe Vs Danny Wijesinghe Wakista",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2025-09-03-CA-RII-0048-2023",
   "num": "CA/RII/0048/2023",
   "date_str": "2025-09-03",
   "description": "Chethana Erandithavo Jayakody Vs Lanka Telephone Company (Pvt) Ltd and others before Hon. R. Gurusinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=772290f0-73d2-425c-9b53-9e6ae954b4a0&filename=RII%200048-23%20%28PDF.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=13121",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=772290f0-73d2-425c-9b53-9e6ae954b4a0&filename=RII%200048-23%20%28PDF.pdf.pdf",
   "parties": "Chethana Erandithavo Jayakody Vs Lanka Telephone Company (Pvt) Ltd and others",
   "judgement_by": "Hon. R. Gurusinghe, J.",
   "keywords": "Title under will. Probate of a will",
-  "legistation": "Companies Act No. 7 of 2007 and Civil Procedure Code",
-  "lang": "en"
+  "legistation": "Companies Act No. 7 of 2007 and Civil Procedure Code"
 }

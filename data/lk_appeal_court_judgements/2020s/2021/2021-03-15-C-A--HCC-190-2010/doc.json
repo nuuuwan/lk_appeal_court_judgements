@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-03-15-C-A--HCC-190-2010",
   "num": "C.A. HCC/190/2010",
   "date_str": "2021-03-15",
   "description": "Nagalingam Chettiyar Kandasamy Vs The Hon. Attorney General before  Hon. P. Kumararatnam J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fb85a9af-0149-44da-9251-1f030b73102c&filename=court%20of%20appeal%20judgment%20-%20hcc-190.2.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14367",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fb85a9af-0149-44da-9251-1f030b73102c&filename=court%20of%20appeal%20judgment%20-%20hcc-190.2.pdf",
   "parties": "Nagalingam Chettiyar Kandasamy Vs The Hon. Attorney General",
   "judgement_by": " Hon. P. Kumararatnam J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

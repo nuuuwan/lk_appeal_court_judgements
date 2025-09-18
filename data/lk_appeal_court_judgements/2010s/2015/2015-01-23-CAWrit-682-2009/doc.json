@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-01-23-CAWrit-682-2009",
   "num": "CAWrit 682/2009",
   "date_str": "2015-01-23",
   "description": "Dileeni Roshan Perera Vs. Hon. Jeewan Kumaratunga before  Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a5ef687e-eeac-479a-ba42-97d903ebba9d&filename=ca_writ_682_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14558",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a5ef687e-eeac-479a-ba42-97d903ebba9d&filename=ca_writ_682_2009.pdf",
   "parties": "Dileeni Roshan Perera Vs. Hon. Jeewan Kumaratunga",
   "judgement_by": " Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-01-24-C-A-WRIT-339-2014",
   "num": "C.A WRIT 339/2014",
   "date_str": "2020-01-24",
   "description": "Bojan Koluundzija Vs V.B.P.K. Weerasinghe, Commissioner General of Labour and Others before  Hon Janak De Silva J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0e8575ad-ee88-4130-a61e-5a86b09944dd&filename=c.a%20writ%20339-2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14388",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0e8575ad-ee88-4130-a61e-5a86b09944dd&filename=c.a%20writ%20339-2014.pdf",
   "parties": "Bojan Koluundzija Vs V.B.P.K. Weerasinghe, Commissioner General of Labour and Others",
   "judgement_by": " Hon Janak De Silva J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

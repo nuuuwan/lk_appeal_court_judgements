@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-02-13-CAHC-Kalmunai-196-10",
   "num": "CAHC Kalmunai 196/10",
   "date_str": "2014-02-13",
   "description": " before Sulaiman Lebbe Mohamed Yoosuf Riyas Vs. The Hon. Attorney-General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=efbe5be3-b67e-4b55-834f-59a03e1e0544&filename=ca_hc_kalmunai_196_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14538",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=efbe5be3-b67e-4b55-834f-59a03e1e0544&filename=ca_hc_kalmunai_196_2010.pdf",
   "parties": "",
   "judgement_by": "Sulaiman Lebbe Mohamed Yoosuf Riyas Vs. The Hon. Attorney-General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

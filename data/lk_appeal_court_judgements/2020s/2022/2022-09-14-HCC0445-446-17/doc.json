@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-09-14-HCC0445-446-17",
   "num": "HCC0445-446-17",
   "date_str": "2022-09-14",
   "description": "Sulthan Ibrahim Rizwan alias Sulthan Ibrahim Rizwath AND ANOTHER Vs Hon. Attorney General before Hon. Bandula Karunaratne",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5b6cf2f6-24b9-4861-aefc-7fc099f2d19c&filename=ca-hcc-445-446-17%20%281%29-1.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3945",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5b6cf2f6-24b9-4861-aefc-7fc099f2d19c&filename=ca-hcc-445-446-17%20%281%29-1.pdf.pdf",
   "parties": "Sulthan Ibrahim Rizwan alias Sulthan Ibrahim Rizwath AND ANOTHER Vs Hon. Attorney General",
   "judgement_by": "Hon. Bandula Karunaratne",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

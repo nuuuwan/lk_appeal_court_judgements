@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-04-18-CABA-04-2016",
   "num": "CABA 04/2016",
   "date_str": "2017-04-18",
   "description": "Pitigala Arachchiloage Gunasena Vs. Hon. Attorney General before  Hon. P.R. Walgama, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=47bab0dc-185a-4f36-b72f-a0dfe4984dd4&filename=ca_ba_04_2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14467",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=47bab0dc-185a-4f36-b72f-a0dfe4984dd4&filename=ca_ba_04_2016.pdf",
   "parties": "Pitigala Arachchiloage Gunasena Vs. Hon. Attorney General",
   "judgement_by": " Hon. P.R. Walgama, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

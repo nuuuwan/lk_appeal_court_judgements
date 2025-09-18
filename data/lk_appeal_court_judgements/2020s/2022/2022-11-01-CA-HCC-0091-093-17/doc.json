@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-11-01-CA-HCC-0091-093-17",
   "num": "CA.HCC/0091-093/17",
   "date_str": "2022-11-01",
   "description": "Susantha Rathnasiri Jayawardana and others Vs Hon. Attorney General before  Hon. N. Bandula Karunarathna J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fed3283d-fe8d-45d8-aadb-7bd07816dbd8&filename=ca-hcc%20-%200091%20-%200093%20-%2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fed3283d-fe8d-45d8-aadb-7bd07816dbd8&filename=ca-hcc%20-%200091%20-%200093%20-%2017.pdf",
   "parties": "Susantha Rathnasiri Jayawardana and others Vs Hon. Attorney General",
   "judgement_by": " Hon. N. Bandula Karunarathna J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-11-20-CAPHC-APN-175-2005",
   "num": "CAPHC APN 175/2005",
   "date_str": "2019-11-20",
   "description": "Sailan International School Vs. The Chairman ,Katunayake Seeduwa Urban Council & Others before  Hon. Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=30a285a6-c00b-4143-a6da-782d6567c13e&filename=ca-phc-apn-175-2005%2015.11.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14431",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=30a285a6-c00b-4143-a6da-782d6567c13e&filename=ca-phc-apn-175-2005%2015.11.2019.pdf",
   "parties": "Sailan International School Vs. The Chairman ,Katunayake Seeduwa Urban Council & Others",
   "judgement_by": " Hon. Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-01-27-CAHC-300-2012",
   "num": "CAHC 300/2012",
   "date_str": "2015-01-27",
   "description": "Nishshanka Arachchige Neil Priyantha Vs. Hon. Attorney General before  Hon. P.W.D.C. Jayathilaka, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=82f2425c-61a6-4d4f-84e8-31987a8c0113&filename=ca_hc_300_12.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14511",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=82f2425c-61a6-4d4f-84e8-31987a8c0113&filename=ca_hc_300_12.pdf",
   "parties": "Nishshanka Arachchige Neil Priyantha Vs. Hon. Attorney General",
   "judgement_by": " Hon. P.W.D.C. Jayathilaka, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

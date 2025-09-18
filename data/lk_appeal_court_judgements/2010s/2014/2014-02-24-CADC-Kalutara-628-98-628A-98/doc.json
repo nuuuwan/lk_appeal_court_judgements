@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-02-24-CADC-Kalutara-628-98-628A-98",
   "num": "CADC Kalutara 628/98-628A/98",
   "date_str": "2014-02-24",
   "description": "Mohomed Hashim Mohomed Jifser Vs. Mohomed Naseem Mohomed Nawari & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=88038b89-677f-41b9-ba1d-a38a82253b86&filename=ca_dc_kalutara_628-628a_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14538",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=88038b89-677f-41b9-ba1d-a38a82253b86&filename=ca_dc_kalutara_628-628a_98.pdf",
   "parties": "Mohomed Hashim Mohomed Jifser Vs. Mohomed Naseem Mohomed Nawari & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

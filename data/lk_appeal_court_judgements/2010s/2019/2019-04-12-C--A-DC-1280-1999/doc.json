@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-04-12-C--A-DC-1280-1999",
   "num": "C. A DC 1280/1999",
   "date_str": "2019-04-12",
   "description": "Welhena Rajapaksha Appuhamilage Don Podi Ralahamy Rajapaksha Vs Rajaguru Rajakaruna Gane Bandaralage Manel Padmakanthi and Others before  Hon M. M. A. Gaffoor, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e088a3b7-95af-41b9-b228-ce05c5889e96&filename=ca%201280-99%2004.04.19.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14417",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e088a3b7-95af-41b9-b228-ce05c5889e96&filename=ca%201280-99%2004.04.19.pdf",
   "parties": "Welhena Rajapaksha Appuhamilage Don Podi Ralahamy Rajapaksha Vs Rajaguru Rajakaruna Gane Bandaralage Manel Padmakanthi and Others",
   "judgement_by": " Hon M. M. A. Gaffoor, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

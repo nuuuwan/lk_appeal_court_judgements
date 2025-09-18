@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-03-03-CA-WAKFS-01-2011",
   "num": "CA/WAKFS/01/2011",
   "date_str": "2014-03-03",
   "description": "Al-Hadji Seeni Mohamed Shahul Hameed & 03 others Vs. A.H. Aliyar & 10 others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bbd4d5aa-d135-494f-a459-dcceb2528bc3&filename=ca_wakfs_01_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14538",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bbd4d5aa-d135-494f-a459-dcceb2528bc3&filename=ca_wakfs_01_2011.pdf",
   "parties": "Al-Hadji Seeni Mohamed Shahul Hameed & 03 others Vs. A.H. Aliyar & 10 others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

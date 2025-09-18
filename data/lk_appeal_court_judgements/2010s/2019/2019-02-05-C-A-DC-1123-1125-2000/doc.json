@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-02-05-C-A-DC-1123-1125-2000",
   "num": "C.A DC 1123-1125/2000",
   "date_str": "2019-02-05",
   "description": "Hewayalage Chandralatha Gamage Nimal Chandraratne Vs Godayalage Rathnapala before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8d790c31-5375-4de8-a141-6fdc54100c98&filename=ca-1123-1124-f-2000%201.2.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14413",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8d790c31-5375-4de8-a141-6fdc54100c98&filename=ca-1123-1124-f-2000%201.2.2019.pdf",
   "parties": "Hewayalage Chandralatha Gamage Nimal Chandraratne Vs Godayalage Rathnapala",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

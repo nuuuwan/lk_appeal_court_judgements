@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-07-06-CA-Bail-05-2021",
   "num": "CA Bail 05/2021",
   "date_str": "2021-07-06",
   "description": "Poopalapillai Pirasanthan Vs Officer in Charge before Hon.MANAKA WIJESUNDERA J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dbf34887-93cb-4c68-8e70-3c8a767c3d53&filename=BAL%20-%200005%20-%2021.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9826",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dbf34887-93cb-4c68-8e70-3c8a767c3d53&filename=BAL%20-%200005%20-%2021.pdf.pdf",
   "parties": "Poopalapillai Pirasanthan Vs Officer in Charge",
   "judgement_by": "Hon.MANAKA WIJESUNDERA J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

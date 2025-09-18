@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-12-18-CARV-08-2014",
   "num": "CARV 08/2014",
   "date_str": "2015-12-18",
   "description": "J.W. Gunasekera Vs. Ariyaratne Kandahena before  Hon. M.M.A. Gaffoor, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=91dc8f47-2eaf-4b0d-90bf-d060570211a3&filename=ca_rv_08_14.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14533",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=91dc8f47-2eaf-4b0d-90bf-d060570211a3&filename=ca_rv_08_14.pdf",
   "parties": "J.W. Gunasekera Vs. Ariyaratne Kandahena",
   "judgement_by": " Hon. M.M.A. Gaffoor, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

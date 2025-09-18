@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-07-23-CAPHC-APN-08-2011-The-A-4aaf5fc5",
   "num": "CAPHC APN 08/2011 The Attorney General Vs. H.D. Theresa Charlat & others - Hon. A.W.A. Salam, J P/CA&",
   "date_str": "2014-07-23",
   "description": " before Hon. Sunil Rajapakshe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a642e0d4-17db-4316-8e1e-01ae0871967e&filename=ca_phc_apn_08_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14548",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a642e0d4-17db-4316-8e1e-01ae0871967e&filename=ca_phc_apn_08_2011.pdf",
   "parties": "",
   "judgement_by": "Hon. Sunil Rajapakshe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-02-26-C-A-WRIT-494-2011",
   "num": "C.A WRIT 494/2011",
   "date_str": "2019-02-26",
   "description": "Herath Mudiyanselage Herath Senarathne Bandara, Vs The Divisional Secretary, Polonnaruwa and Others before  Hon Arjuna Obeyesekere, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=09d7d6e1-3728-42ac-b8dc-e73db80829df&filename=c.a%20writ%20494_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14413",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=09d7d6e1-3728-42ac-b8dc-e73db80829df&filename=c.a%20writ%20494_2011.pdf",
   "parties": "Herath Mudiyanselage Herath Senarathne Bandara, Vs The Divisional Secretary, Polonnaruwa and Others",
   "judgement_by": " Hon Arjuna Obeyesekere, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

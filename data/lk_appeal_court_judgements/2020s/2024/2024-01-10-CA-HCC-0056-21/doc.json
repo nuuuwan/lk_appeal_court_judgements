@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-01-10-CA-HCC-0056-21",
   "num": "CA/HCC/0056/21",
   "date_str": "2024-01-10",
   "description": "Induwadura Anusha de Silva, Vs The Hon. Attorney General before Hon. Sampath B. Abayakoon, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ff718c50-2b1f-440a-b3f0-d865d2f41166&filename=HCC-0056-21%20Final%20Judgement.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10825",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ff718c50-2b1f-440a-b3f0-d865d2f41166&filename=HCC-0056-21%20Final%20Judgement.pdf.pdf",
   "parties": "Induwadura Anusha de Silva, Vs The Hon. Attorney General",
   "judgement_by": "Hon. Sampath B. Abayakoon, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

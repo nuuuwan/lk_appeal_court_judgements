@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-03-04-C-A--HCC-26-2012",
   "num": "C.A. HCC/26/2012",
   "date_str": "2020-03-04",
   "description": "A.D. Nandasena alias Tangalle Kade Nande Vs Hon. Attorney General before  Hon. Justice Achala Wengappuli",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3093d546-3489-41bd-86b0-297597a37bfd&filename=c.a.%20hcc_26_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14390",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3093d546-3489-41bd-86b0-297597a37bfd&filename=c.a.%20hcc_26_2012.pdf",
   "parties": "A.D. Nandasena alias Tangalle Kade Nande Vs Hon. Attorney General",
   "judgement_by": " Hon. Justice Achala Wengappuli",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

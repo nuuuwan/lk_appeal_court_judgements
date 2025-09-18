@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-03-12-C-A-DC-743-1996",
   "num": "C.A DC 743/1996",
   "date_str": "2019-03-12",
   "description": "Weerappuli Radage Magilin Jinadasa and others Vs Weerappuli Radage Jemis and others before  Hon M.M.A. Gaffoor, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c1c09cd4-ed79-4535-8e64-0cacd5b75ec1&filename=ca%20743-96%20f%2005.03.19.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14415",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c1c09cd4-ed79-4535-8e64-0cacd5b75ec1&filename=ca%20743-96%20f%2005.03.19.pdf",
   "parties": "Weerappuli Radage Magilin Jinadasa and others Vs Weerappuli Radage Jemis and others",
   "judgement_by": " Hon M.M.A. Gaffoor, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

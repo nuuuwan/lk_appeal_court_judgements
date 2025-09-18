@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-04-30-CA--WRIT--347-2018",
   "num": "CA. WRIT/ 347/2018",
   "date_str": "2021-04-30",
   "description": "K.V. Gamini Dayarathna Vs P.B. Wickremarathna Senior Deputy Inspector General and Others before Hon. Justice Arjuna Obeyesekere, P/CA",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=063c4426-3fb4-44a5-824c-a666489f6d60&filename=ca.347.18.final.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9823",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=063c4426-3fb4-44a5-824c-a666489f6d60&filename=ca.347.18.final.pdf.pdf",
   "parties": "K.V. Gamini Dayarathna Vs P.B. Wickremarathna Senior Deputy Inspector General and Others",
   "judgement_by": "Hon. Justice Arjuna Obeyesekere, P/CA",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

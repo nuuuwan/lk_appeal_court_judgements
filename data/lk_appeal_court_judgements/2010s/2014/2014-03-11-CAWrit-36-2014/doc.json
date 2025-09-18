@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-03-11-CAWrit-36-2014",
   "num": "CAWrit 36/2014",
   "date_str": "2014-03-11",
   "description": "Ranasinghe Arachchilage Sirisena Vs. Mahaweli Authority of Sri Lanka & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a764a79b-6152-4c1d-ae29-bc49e799668e&filename=ca_writ_36_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14540",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a764a79b-6152-4c1d-ae29-bc49e799668e&filename=ca_writ_36_2014.pdf",
   "parties": "Ranasinghe Arachchilage Sirisena Vs. Mahaweli Authority of Sri Lanka & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

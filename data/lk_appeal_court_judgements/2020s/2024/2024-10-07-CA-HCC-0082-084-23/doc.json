@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-10-07-CA-HCC-0082-084-23",
   "num": "CA/HCC/0082/084/23",
   "date_str": "2024-10-07",
   "description": "Ulpagoda Pathiraarachchige Prince Neranjan Karunanayake & others Vs. The Hon. Attorney General before Hon. Sampath B. Abayakoon, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=54c22ed5-451e-40c0-a03f-4d48812bda0c&filename=HCC-0082-0084-23%20Final%20Judgment.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10827",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=54c22ed5-451e-40c0-a03f-4d48812bda0c&filename=HCC-0082-0084-23%20Final%20Judgment.pdf.pdf",
   "parties": "Ulpagoda Pathiraarachchige Prince Neranjan Karunanayake & others Vs. The Hon. Attorney General",
   "judgement_by": "Hon. Sampath B. Abayakoon, J.",
   "keywords": "Sentencing Order - Unlawful Assembly \u2013 Culpable homicide not amounting to murder \u2013Causing Injuries - Intention - Knowledge - Sudden Fight",
-  "legistation": "Penal Code Sections 32, 140, 146, 293, 294, 296, 297",
-  "lang": "en"
+  "legistation": "Penal Code Sections 32, 140, 146, 293, 294, 296, 297"
 }

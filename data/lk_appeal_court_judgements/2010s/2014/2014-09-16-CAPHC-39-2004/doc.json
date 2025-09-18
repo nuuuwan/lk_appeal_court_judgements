@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-09-16-CAPHC-39-2004",
   "num": "CAPHC 39/2004",
   "date_str": "2014-09-16",
   "description": "H.A. Nihal Vs. Hon. Attorney General before  Hon. K.T. Chitrasiri, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1bae8401-71a3-4f68-b80a-d8ac3bc7b7fd&filename=ca_phc_39_2004.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14552",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1bae8401-71a3-4f68-b80a-d8ac3bc7b7fd&filename=ca_phc_39_2004.pdf",
   "parties": "H.A. Nihal Vs. Hon. Attorney General",
   "judgement_by": " Hon. K.T. Chitrasiri, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-07-05-CA-WRT-203-20",
   "num": "CA/WRT/203/20",
   "date_str": "2023-07-05",
   "description": "A.P. Saman Chandana Kumara Vs D.H. Udayangani Sandamali, Divisional Secretary, Divisional Secretariat, Pitabeddra and others before  Hon. MOHAMMED LAFFAR, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2f6e689d-44cb-4ac9-bf3a-4b51b357918e&filename=wrt-0203-20n%20001_compressed.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14323",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2f6e689d-44cb-4ac9-bf3a-4b51b357918e&filename=wrt-0203-20n%20001_compressed.pdf",
   "parties": "A.P. Saman Chandana Kumara Vs D.H. Udayangani Sandamali, Divisional Secretary, Divisional Secretariat, Pitabeddra and others",
   "judgement_by": " Hon. MOHAMMED LAFFAR, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

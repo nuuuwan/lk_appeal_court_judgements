@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-01-31-C-A-WRIT-433-2011",
   "num": "C.A WRIT 433/2011",
   "date_str": "2020-01-31",
   "description": "Patti Vidanelage Bandula Karunatilaka Vs The University of Peradeniya and Others before  Hon Janak De Silva,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c672b545-52db-4ba9-a587-79a80c4a1f17&filename=c.a%20writ%20433-2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14388",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c672b545-52db-4ba9-a587-79a80c4a1f17&filename=c.a%20writ%20433-2011.pdf",
   "parties": "Patti Vidanelage Bandula Karunatilaka Vs The University of Peradeniya and Others",
   "judgement_by": " Hon Janak De Silva,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

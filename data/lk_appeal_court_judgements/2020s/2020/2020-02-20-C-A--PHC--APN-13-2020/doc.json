@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-02-20-C-A--PHC--APN-13-2020",
   "num": "C.A (PHC) APN 13/2020",
   "date_str": "2020-02-20",
   "description": "D.S.K. Wanniarachchi Vs Officer in Charge, Police Station, Balangoda and Others before  Hon Justice K. K. Wickremasinghe",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1224006f-846a-4f26-ba36-a6152fccc634&filename=c.a%20phc%20apn%2013-2020.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14390",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1224006f-846a-4f26-ba36-a6152fccc634&filename=c.a%20phc%20apn%2013-2020.pdf",
   "parties": "D.S.K. Wanniarachchi Vs Officer in Charge, Police Station, Balangoda and Others",
   "judgement_by": " Hon Justice K. K. Wickremasinghe",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

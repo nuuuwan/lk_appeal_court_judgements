@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-06-01-C-A--WRIT-220-2016",
   "num": "C.A. WRIT/220/2016",
   "date_str": "2020-06-01",
   "description": "Port Junk Dealers Association and Others Vs Marine Environment Protection Authority and Others before  Hon. Arjuna Obeyesekere, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e7f4b42b-9495-4f62-9868-7af6d074bb85&filename=ca_writ-220_16.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14396",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e7f4b42b-9495-4f62-9868-7af6d074bb85&filename=ca_writ-220_16.pdf",
   "parties": "Port Junk Dealers Association and Others Vs Marine Environment Protection Authority and Others",
   "judgement_by": " Hon. Arjuna Obeyesekere, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

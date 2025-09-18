@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-08-05-C-A-RV-63-2004",
   "num": "C.A RV 63/2004",
   "date_str": "2019-08-05",
   "description": "Marasinghage Chandra Somasiri Marasinghe and Others Vs Kadupitige Gunarathne and Others before  Hon A.H.M.D. Nawaz, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0b814152-7511-4f43-ae33-04f40f5244ec&filename=ca_rv_63_2004.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14423",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0b814152-7511-4f43-ae33-04f40f5244ec&filename=ca_rv_63_2004.pdf",
   "parties": "Marasinghage Chandra Somasiri Marasinghe and Others Vs Kadupitige Gunarathne and Others",
   "judgement_by": " Hon A.H.M.D. Nawaz, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

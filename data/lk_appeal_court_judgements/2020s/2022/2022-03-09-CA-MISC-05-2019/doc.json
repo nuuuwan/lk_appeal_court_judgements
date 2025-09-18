@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-03-09-CA-MISC-05-2019",
   "num": "CA.MISC/05/2019",
   "date_str": "2022-03-09",
   "description": "University of Vocational Technology and Others Vs B.M.T.D. Jayasekera before  Hon. K.K.A.V. Swarmadhipathi, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fddeb268-625f-4753-8b0b-f9039eadb371&filename=ca%2005.2019.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14342",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fddeb268-625f-4753-8b0b-f9039eadb371&filename=ca%2005.2019.pdf",
   "parties": "University of Vocational Technology and Others Vs B.M.T.D. Jayasekera",
   "judgement_by": " Hon. K.K.A.V. Swarmadhipathi, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

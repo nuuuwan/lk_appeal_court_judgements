@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-07-24-CA-WRIT-251-2017",
   "num": "CA.WRIT/251/2017",
   "date_str": "2020-07-24",
   "description": "W.A.D. Siriwardana Vs Gayantha Karunathilake and Others before  Hon. Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d1f34b40-2e64-4654-aa52-68e3163764e8&filename=147852369.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14400",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d1f34b40-2e64-4654-aa52-68e3163764e8&filename=147852369.pdf",
   "parties": "W.A.D. Siriwardana Vs Gayantha Karunathilake and Others",
   "judgement_by": " Hon. Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

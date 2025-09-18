@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-03-24-CA-HCC-304-306-2017",
   "num": "CA/HCC/304/306/2017",
   "date_str": "2022-03-24",
   "description": "Masakkarahettilage Don Ishantha Kumara Masakkara alias Kotiya and others Vs Hon. The Attorney General before  Hon. P. Kumararatnam J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a93beb8b-89f9-426d-8b47-cc88c097f0da&filename=court%20of%20appeal%20judgment%20hcc-304-306.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14342",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a93beb8b-89f9-426d-8b47-cc88c097f0da&filename=court%20of%20appeal%20judgment%20hcc-304-306.pdf",
   "parties": "Masakkarahettilage Don Ishantha Kumara Masakkara alias Kotiya and others Vs Hon. The Attorney General",
   "judgement_by": " Hon. P. Kumararatnam J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

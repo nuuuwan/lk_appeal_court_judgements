@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-06-06-C-A-DC-1289-2000",
   "num": "C.A DC 1289/2000",
   "date_str": "2019-06-06",
   "description": "Dayaratne Senanayake Vs Pubudusena Senanayake and Others before  Hon A.H.M.D. Nawaz,J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=796373db-0868-46ee-8c21-b60a25f3b6ef&filename=c.a%20%20dc%20%20%201289_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14417",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=796373db-0868-46ee-8c21-b60a25f3b6ef&filename=c.a%20%20dc%20%20%201289_2000.pdf",
   "parties": "Dayaratne Senanayake Vs Pubudusena Senanayake and Others",
   "judgement_by": " Hon A.H.M.D. Nawaz,J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

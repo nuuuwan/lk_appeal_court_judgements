@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-07-07-CA-PHC--65-2014",
   "num": "CA(PHC) 65/2014",
   "date_str": "2023-07-07",
   "description": "Mohomed Naufan Ahamed Karis Vs. Mohomed Subair Mohomed Naufan before  Hon. Prasantha De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6ae6eb8a-2042-4423-8b78-cb4151fcec75&filename=ca%20phc%2065-2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14325",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6ae6eb8a-2042-4423-8b78-cb4151fcec75&filename=ca%20phc%2065-2014.pdf",
   "parties": "Mohomed Naufan Ahamed Karis Vs. Mohomed Subair Mohomed Naufan",
   "judgement_by": " Hon. Prasantha De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-06-30-CAHC-230-235-2013",
   "num": "CAHC 230-235/2013",
   "date_str": "2017-06-30",
   "description": "Mohamad Faizer Mohamad Liyakath & others Vs. Hon. Attorney General before  Hon. K.K. Wickremasinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=002ac95d-2c6c-47d3-a313-196eb261e325&filename=ca_hc_230-235_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14471",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=002ac95d-2c6c-47d3-a313-196eb261e325&filename=ca_hc_230-235_2013.pdf",
   "parties": "Mohamad Faizer Mohamad Liyakath & others Vs. Hon. Attorney General",
   "judgement_by": " Hon. K.K. Wickremasinghe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

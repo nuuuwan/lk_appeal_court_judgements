@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-10-29-CAHC-38-2006",
   "num": "CAHC 38/2006",
   "date_str": "2014-10-29",
   "description": "Bimbirigodage Sujith Lal Vs. Hon. Attorney General before  Hon. Anil Goonerathne, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f548d0fb-5120-4bf5-9bf6-74f2c0edc022&filename=ca_hc_38_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14554",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f548d0fb-5120-4bf5-9bf6-74f2c0edc022&filename=ca_hc_38_2006.pdf",
   "parties": "Bimbirigodage Sujith Lal Vs. Hon. Attorney General",
   "judgement_by": " Hon. Anil Goonerathne, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-11-07-C-A-MC-RV-06-2014",
   "num": "C.A MC RV 06/2014",
   "date_str": "2018-11-07",
   "description": "Ahangama Baduge Sunethra Damayanthi Vs N. Nimalka Dias before  Hon Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7fe966e2-20ac-4ba1-aab4-c9c5ee2e8855&filename=ca-mc-rev-6-2014%201.11.2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14456",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7fe966e2-20ac-4ba1-aab4-c9c5ee2e8855&filename=ca-mc-rev-6-2014%201.11.2018.pdf",
   "parties": "Ahangama Baduge Sunethra Damayanthi Vs N. Nimalka Dias",
   "judgement_by": " Hon Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

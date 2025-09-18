@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-01-20-CAWRIT-292-2019",
   "num": "CAWRIT/292/2019",
   "date_str": "2022-01-20",
   "description": "I.G.L. Jayaweera Vs Geethani Wijegunasinghe and Others before  Hon. M.T. Mohammed Laffar, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=79714b4e-78bc-4f4f-a58e-1185a4d2b018&filename=ca-wrt-292-19%20-%20dated%2020-01-2022.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14338",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=79714b4e-78bc-4f4f-a58e-1185a4d2b018&filename=ca-wrt-292-19%20-%20dated%2020-01-2022.pdf",
   "parties": "I.G.L. Jayaweera Vs Geethani Wijegunasinghe and Others",
   "judgement_by": " Hon. M.T. Mohammed Laffar, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

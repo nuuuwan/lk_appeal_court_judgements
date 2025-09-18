@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-02-23-CALA-394-2006",
   "num": "CALA 394/2006",
   "date_str": "2016-02-23",
   "description": "Ceylinco Insurance Company Ltd Vs. K.M. Prabath before  Hon. Deepali Wijesundera, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a3e65fa6-1bea-4958-ab0b-c8d20c20fce3&filename=ca_la_394_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14486",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a3e65fa6-1bea-4958-ab0b-c8d20c20fce3&filename=ca_la_394_2006.pdf",
   "parties": "Ceylinco Insurance Company Ltd Vs. K.M. Prabath",
   "judgement_by": " Hon. Deepali Wijesundera, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

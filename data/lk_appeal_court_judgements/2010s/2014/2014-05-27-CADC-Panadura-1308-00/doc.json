@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-05-27-CADC-Panadura-1308-00",
   "num": "CADC Panadura 1308/00",
   "date_str": "2014-05-27",
   "description": "R. Chaly Fernando Vs. Omantage Kustan Fernando before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dd691bdf-6092-4ca5-896c-da494ac53852&filename=ca_dc_panadura_1308_00.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14542",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dd691bdf-6092-4ca5-896c-da494ac53852&filename=ca_dc_panadura_1308_00.pdf",
   "parties": "R. Chaly Fernando Vs. Omantage Kustan Fernando",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-05-13-CAWrit-414-2013",
   "num": "CAWrit 414/2013",
   "date_str": "2014-05-13",
   "description": "Adam Bawa Mohamadu Sajahan Vs. M.M.Wijenayake before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2dc3887f-facd-4706-bdee-86a0cc07b96a&filename=ca_writ_414_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14542",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2dc3887f-facd-4706-bdee-86a0cc07b96a&filename=ca_writ_414_2013.pdf",
   "parties": "Adam Bawa Mohamadu Sajahan Vs. M.M.Wijenayake",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

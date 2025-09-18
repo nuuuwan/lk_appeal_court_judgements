@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-25-CA--PHC--01-2020",
   "num": "CA.(PHC) 01/2020",
   "date_str": "2022-10-25",
   "description": "Ranawana Hewa Vitharanalage Anoma Geethanjali Samarasena vs Officer in Charge, Police Station, Kandy. and others before  Hon. Prasantha De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=57af249e-31c6-43d9-ae9f-1f5e6f1935c4&filename=ca%20phc%2001_2020.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=57af249e-31c6-43d9-ae9f-1f5e6f1935c4&filename=ca%20phc%2001_2020.pdf",
   "parties": "Ranawana Hewa Vitharanalage Anoma Geethanjali Samarasena vs Officer in Charge, Police Station, Kandy. and others",
   "judgement_by": " Hon. Prasantha De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

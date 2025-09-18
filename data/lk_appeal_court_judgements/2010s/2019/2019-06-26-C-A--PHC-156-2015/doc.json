@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-06-26-C-A--PHC-156-2015",
   "num": "C.A. PHC/156/2015",
   "date_str": "2019-06-26",
   "description": "A.K. Jagoda Vs Ravi Prasad Kalupahana and others before  Hon. A.L. Shiran Gooneratne J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=72f13372-5c87-4f0c-a894-7979f6e8cafe&filename=c.a.%20phc-156-2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14421",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=72f13372-5c87-4f0c-a894-7979f6e8cafe&filename=c.a.%20phc-156-2015.pdf",
   "parties": "A.K. Jagoda Vs Ravi Prasad Kalupahana and others",
   "judgement_by": " Hon. A.L. Shiran Gooneratne J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

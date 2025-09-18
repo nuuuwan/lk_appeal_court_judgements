@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-04-27-CATR-01-2018-Kankanamge-a18d6d48",
   "num": "CATR 01/2018 Kankanamge Prageeth Manjula Vs. Hon. Attorney General - Hon. P. Padman Surasena, J (P/CA)",
   "date_str": "2018-04-27",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=13de6d96-e301-49ce-b74d-f20a5a544fb3&filename=ca_tr_01_2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14436",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=13de6d96-e301-49ce-b74d-f20a5a544fb3&filename=ca_tr_01_2018.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

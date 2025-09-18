@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-08-31-CA-Writ-02-2019",
   "num": "CA/Writ/02/2019",
   "date_str": "2023-08-31",
   "description": "Horana Plantations PLC, Vs Disna Jayasinhe, Divisional Secretary, Divisional Secretariat Office, Madurawala And others before  Hon. M. Sampath K. B. Wijeratne J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b4cf7347-89e9-4c5d-a42b-7b019f94cbd0&filename=ca.writ%2002.2019%20%20%202023.08.31.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14327",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b4cf7347-89e9-4c5d-a42b-7b019f94cbd0&filename=ca.writ%2002.2019%20%20%202023.08.31.pdf",
   "parties": "Horana Plantations PLC, Vs Disna Jayasinhe, Divisional Secretary, Divisional Secretariat Office, Madurawala And others",
   "judgement_by": " Hon. M. Sampath K. B. Wijeratne J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

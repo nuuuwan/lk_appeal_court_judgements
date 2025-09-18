@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-20-CA-HCC-295-2013",
   "num": "CA.HCC/295/2013",
   "date_str": "2022-10-20",
   "description": "Modarage Raneesha Vs The Honourable Attorney General before  Hon. R. Gurusinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a1c4ebe1-5602-455f-8241-23de7718f1ec&filename=295-2013%20edited.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14356",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a1c4ebe1-5602-455f-8241-23de7718f1ec&filename=295-2013%20edited.pdf",
   "parties": "Modarage Raneesha Vs The Honourable Attorney General",
   "judgement_by": " Hon. R. Gurusinghe, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

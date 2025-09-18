@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-06-08-CAPHC-66-2007",
   "num": "CAPHC 66/2007",
   "date_str": "2016-06-08",
   "description": "Thennakoonge Somarathna & others Vs. Thennakoonge Karunadasa & others before  Hon. W.M.M. Malinie Gunaratne, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=202a7069-864c-4399-9ffe-f2f3febdd56a&filename=ca_phc_66_2007.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14488",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=202a7069-864c-4399-9ffe-f2f3febdd56a&filename=ca_phc_66_2007.pdf",
   "parties": "Thennakoonge Somarathna & others Vs. Thennakoonge Karunadasa & others",
   "judgement_by": " Hon. W.M.M. Malinie Gunaratne, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

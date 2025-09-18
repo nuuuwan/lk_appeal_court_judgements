@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-08-06-CA-HCC--0404-2019",
   "num": "CA/HCC/ 0404/2019",
   "date_str": "2024-08-06",
   "description": "Galegedera Manannalage Sumanadasa Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fbf4760b-7b32-4c2e-a667-0f45d4da8a66&filename=Court%20of%20Appeal%20Judgment%20HCC%200404.19.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10830",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fbf4760b-7b32-4c2e-a667-0f45d4da8a66&filename=Court%20of%20Appeal%20Judgment%20HCC%200404.19.pdf.pdf",
   "parties": "Galegedera Manannalage Sumanadasa Vs The Hon. Attorney General",
   "judgement_by": "Hon. P. Kumararatnam, J.",
   "keywords": "1. Date of Offence. 2. Fair Trial.",
-  "legistation": "The Penal Code as amended.",
-  "lang": "en"
+  "legistation": "The Penal Code as amended."
 }

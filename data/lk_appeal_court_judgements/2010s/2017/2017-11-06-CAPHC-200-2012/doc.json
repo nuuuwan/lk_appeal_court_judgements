@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-11-06-CAPHC-200-2012",
   "num": "CAPHC 200/2012",
   "date_str": "2017-11-06",
   "description": "Polgahaweia Pradeshiya Sabha Vs.Ratnayaka Mudiyanselage Chandrawathie Rathnayake before  Hon. P. Padman Surasena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a519972d-a5fc-42aa-bab1-6b20ce46512f&filename=ca_phc_200_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14479",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a519972d-a5fc-42aa-bab1-6b20ce46512f&filename=ca_phc_200_2012.pdf",
   "parties": "Polgahaweia Pradeshiya Sabha Vs.Ratnayaka Mudiyanselage Chandrawathie Rathnayake",
   "judgement_by": " Hon. P. Padman Surasena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

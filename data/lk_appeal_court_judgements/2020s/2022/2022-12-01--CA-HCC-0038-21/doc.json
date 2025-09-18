@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-12-01--CA-HCC-0038-21",
   "num": "/CA.HCC-0038-21",
   "date_str": "2022-12-01",
   "description": "Kasthuri Aarachchilage Rupasena alias \u201cPapol Ukkung\u201d Vs Hon. Attorney General before  HON. WICKUM A. KALUARACHCHI, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=feb89dfb-853e-4933-b47c-8f0bd87b2077&filename=hcc-38-21.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14360",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=feb89dfb-853e-4933-b47c-8f0bd87b2077&filename=hcc-38-21.pdf",
   "parties": "Kasthuri Aarachchilage Rupasena alias \u201cPapol Ukkung\u201d Vs Hon. Attorney General",
   "judgement_by": " HON. WICKUM A. KALUARACHCHI, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

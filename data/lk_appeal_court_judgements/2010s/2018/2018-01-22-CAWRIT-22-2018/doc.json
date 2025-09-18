@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-01-22-CAWRIT-22-2018",
   "num": "CAWRIT 22/2018",
   "date_str": "2018-01-22",
   "description": "Dr.Amal Harha de silva Vs. Dayasiri Jaysekara Esq.MP before  Hon. L.T.B. Dehideniya, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3e9038ed-e178-4aca-b045-583e5fce6a4f&filename=ca_writ_22_2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14436",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3e9038ed-e178-4aca-b045-583e5fce6a4f&filename=ca_writ_22_2018.pdf",
   "parties": "Dr.Amal Harha de silva Vs. Dayasiri Jaysekara Esq.MP",
   "judgement_by": " Hon. L.T.B. Dehideniya, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

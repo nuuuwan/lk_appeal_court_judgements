@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-02-24-CAHC-Monaragala-291-2012",
   "num": "CAHC Monaragala 291/2012",
   "date_str": "2014-02-24",
   "description": "Dhanapala Mudiyanselage Upul Chandana alias Meepaname Ukkun Vs. The Republic of Sri Lanka before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8227fb5d-62d7-4f49-8400-c3c5fb07577e&filename=ca_hc_monaragala_291_12.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14538",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8227fb5d-62d7-4f49-8400-c3c5fb07577e&filename=ca_hc_monaragala_291_12.pdf",
   "parties": "Dhanapala Mudiyanselage Upul Chandana alias Meepaname Ukkun Vs. The Republic of Sri Lanka",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

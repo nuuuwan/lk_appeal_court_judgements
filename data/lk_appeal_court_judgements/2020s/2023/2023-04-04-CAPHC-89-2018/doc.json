@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-04-04-CAPHC-89-2018",
   "num": "CAPHC 89/2018",
   "date_str": "2023-04-04",
   "description": "Hennehaka Mudiyanselage Sunil Bandaranayake Vs Hon. Attorney General before  Hon. HON. K.K.A.V. SWARNADHIPATHI, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d6f6635b-4348-425e-8526-ee70c0d76da0&filename=ca%2089.2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14319",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d6f6635b-4348-425e-8526-ee70c0d76da0&filename=ca%2089.2018.pdf",
   "parties": "Hennehaka Mudiyanselage Sunil Bandaranayake Vs Hon. Attorney General",
   "judgement_by": " Hon. HON. K.K.A.V. SWARNADHIPATHI, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

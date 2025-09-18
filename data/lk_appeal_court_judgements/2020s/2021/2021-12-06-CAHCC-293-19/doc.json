@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-12-06-CAHCC-293-19",
   "num": "CAHCC/293/19",
   "date_str": "2021-12-06",
   "description": "Pulihith Devayalage Douglas Wickremapala and others Vs Hon.The Attorney- General before  Hon.Sampath B Abayakoon, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c8d92753-c131-4b7d-953a-05a100b7b795&filename=hcc0293-19%20final%20judgment.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14385",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c8d92753-c131-4b7d-953a-05a100b7b795&filename=hcc0293-19%20final%20judgment.pdf",
   "parties": "Pulihith Devayalage Douglas Wickremapala and others Vs Hon.The Attorney- General",
   "judgement_by": " Hon.Sampath B Abayakoon, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

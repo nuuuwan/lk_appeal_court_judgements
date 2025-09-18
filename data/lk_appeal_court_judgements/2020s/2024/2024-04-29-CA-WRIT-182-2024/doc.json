@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2024-04-29-CA-WRIT-182-2024",
   "num": "CA/WRIT/182/2024",
   "date_str": "2024-04-29",
   "description": "Laugfs Gas PLC and other Vs 1. Hon. Attorney General and others before Hon. D.N. Samarakoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d99fa323-586c-41d2-8a20-a18f0f8a9bdf&filename=Writ%20182%202024%20rectified%20and%20final.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10833",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d99fa323-586c-41d2-8a20-a18f0f8a9bdf&filename=Writ%20182%202024%20rectified%20and%20final.pdf.pdf",
   "parties": "Laugfs Gas PLC and other Vs 1. Hon. Attorney General and others",
   "judgement_by": "Hon. D.N. Samarakoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

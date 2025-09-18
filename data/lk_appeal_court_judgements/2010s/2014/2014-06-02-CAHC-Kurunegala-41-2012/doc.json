@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-06-02-CAHC-Kurunegala-41-2012",
   "num": "CAHC Kurunegala 41/2012",
   "date_str": "2014-06-02",
   "description": " before R. M. S. Priyantha Rathnayake Vs. The Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=503f230b-0546-4d17-b2db-646da7967456&filename=ca_hc_kurunegala_41_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14544",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=503f230b-0546-4d17-b2db-646da7967456&filename=ca_hc_kurunegala_41_2012.pdf",
   "parties": "",
   "judgement_by": "R. M. S. Priyantha Rathnayake Vs. The Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

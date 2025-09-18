@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-04-08-CAPHC-118-2013",
   "num": "CAPHC 118/2013",
   "date_str": "2014-04-08",
   "description": "Mastiyage Don Sumathipala Gunathilake Vs. A.M. Arsh before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c5a449e8-938d-451a-9cfc-2ae0688210d8&filename=ca_phc_panadura_118_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14540",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c5a449e8-938d-451a-9cfc-2ae0688210d8&filename=ca_phc_panadura_118_2013.pdf",
   "parties": "Mastiyage Don Sumathipala Gunathilake Vs. A.M. Arsh",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

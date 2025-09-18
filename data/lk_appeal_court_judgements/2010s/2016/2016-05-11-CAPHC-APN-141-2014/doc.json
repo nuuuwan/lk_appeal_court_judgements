@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-05-11-CAPHC-APN-141-2014",
   "num": "CAPHC APN 141/2014",
   "date_str": "2016-05-11",
   "description": "Muthukuda Wijesuriya Arachchige Jayanath Nishantha Wijesuriya Vs. Hon. Attorney General before  Hon. W.M.M. Malinie Gunaratne, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=57060079-1ddc-44d2-ba10-dd5786fee943&filename=ca_phc_apn_141_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14523",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=57060079-1ddc-44d2-ba10-dd5786fee943&filename=ca_phc_apn_141_2014.pdf",
   "parties": "Muthukuda Wijesuriya Arachchige Jayanath Nishantha Wijesuriya Vs. Hon. Attorney General",
   "judgement_by": " Hon. W.M.M. Malinie Gunaratne, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

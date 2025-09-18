@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-12-13-CA-HCC-0009-18",
   "num": "CA/HCC/0009/18",
   "date_str": "2023-12-13",
   "description": "Peduruhakuru Nikshan Gunasekara alias Uduwilahewage Nikshan Gunasekara Vs Hon. Attorney General before Hon. Menaka Wijesundera J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e2dcac58-fdf8-4147-baef-1549b04d1dc8&filename=CA-09-2018.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=10797",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e2dcac58-fdf8-4147-baef-1549b04d1dc8&filename=CA-09-2018.pdf.pdf",
   "parties": "Peduruhakuru Nikshan Gunasekara alias Uduwilahewage Nikshan Gunasekara Vs Hon. Attorney General",
   "judgement_by": "Hon. Menaka Wijesundera J.",
   "keywords": "Delay in making the 1st complaint. Improbability of the prosecution story.",
-  "legistation": "365 of the Penal Code",
-  "lang": "en"
+  "legistation": "365 of the Penal Code"
 }

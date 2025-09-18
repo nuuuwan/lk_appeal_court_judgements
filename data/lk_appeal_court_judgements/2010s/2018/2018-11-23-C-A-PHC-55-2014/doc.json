@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-11-23-C-A-PHC-55-2014",
   "num": "C.A PHC/55/2014",
   "date_str": "2018-11-23",
   "description": "K. Perera Maldeniya Vs Municipal Council and others before  Hon. K.K.Wickremasinghe,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0d617c6c-e2e3-4313-98ca-089833c021ca&filename=ca_phc_55_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14454",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0d617c6c-e2e3-4313-98ca-089833c021ca&filename=ca_phc_55_2014.pdf",
   "parties": "K. Perera Maldeniya Vs Municipal Council and others",
   "judgement_by": " Hon. K.K.Wickremasinghe,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

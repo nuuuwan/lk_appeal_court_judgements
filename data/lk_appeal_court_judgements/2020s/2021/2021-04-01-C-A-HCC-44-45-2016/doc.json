@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-04-01-C-A-HCC-44-45-2016",
   "num": "C.A HCC 44-45/2016",
   "date_str": "2021-04-01",
   "description": "U.Christoper alias Chuti and Others Vs Hon Attorney General before  Hon Devika Abeyratne,J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=de81ed7a-400c-4d4a-a05a-5effddae8755&filename=hcc%2044-45%20-16%20%2001.04.21.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14369",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=de81ed7a-400c-4d4a-a05a-5effddae8755&filename=hcc%2044-45%20-16%20%2001.04.21.pdf",
   "parties": "U.Christoper alias Chuti and Others Vs Hon Attorney General",
   "judgement_by": " Hon Devika Abeyratne,J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

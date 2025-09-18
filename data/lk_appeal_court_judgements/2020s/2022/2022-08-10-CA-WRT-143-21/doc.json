@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-08-10-CA-WRT-143-21",
   "num": "CA.WRT/143/21",
   "date_str": "2022-08-10",
   "description": "Agarapatana Plantations Limited And Others Vs Hon. Nimal Siripala de Silva And Others before  Hon. Mayadunne Corea J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7c821742-df4a-4a69-90b6-3465673aa267&filename=ca%20writ%20143-21%20n.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14352",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7c821742-df4a-4a69-90b6-3465673aa267&filename=ca%20writ%20143-21%20n.pdf",
   "parties": "Agarapatana Plantations Limited And Others Vs Hon. Nimal Siripala de Silva And Others",
   "judgement_by": " Hon. Mayadunne Corea J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

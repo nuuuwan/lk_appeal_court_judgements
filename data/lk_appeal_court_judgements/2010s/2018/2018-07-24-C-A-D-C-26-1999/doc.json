@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-07-24-C-A-D-C-26-1999",
   "num": "C.A D.C 26/1999",
   "date_str": "2018-07-24",
   "description": "Herath Mudiyanselage Dingiri Amma Vs Herath Mudiyanselage Sirisena and Others before  Hon M.M.A. Gaffoor, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ef373718-cced-4d00-b4eb-891687009ad2&filename=c.a%20%20dc%20%20%2026_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14448",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ef373718-cced-4d00-b4eb-891687009ad2&filename=c.a%20%20dc%20%20%2026_99.pdf",
   "parties": "Herath Mudiyanselage Dingiri Amma Vs Herath Mudiyanselage Sirisena and Others",
   "judgement_by": " Hon M.M.A. Gaffoor, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

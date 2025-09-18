@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-03-04-CA--RI---01--2019",
   "num": "CA. RI / 01 /2019",
   "date_str": "2021-03-04",
   "description": "W.R. Perera Vs Special Educational Society and others before Hon. Kirtisinghe,J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cfcf960c-7440-4dab-a399-417b5cb419ef&filename=c.a%20ri%20%2001%20-%202019.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=9822",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cfcf960c-7440-4dab-a399-417b5cb419ef&filename=c.a%20ri%20%2001%20-%202019.pdf.pdf",
   "parties": "W.R. Perera Vs Special Educational Society and others",
   "judgement_by": "Hon. Kirtisinghe,J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

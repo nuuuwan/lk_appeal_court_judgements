@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-03-10-CADC-Kandy-1387-00",
   "num": "CADC Kandy 1387/00",
   "date_str": "2014-03-10",
   "description": "A.M. Siththi Husaima Vs. A.M.M. Uwais And Others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=421072a7-2803-46c0-b29f-9df01ce234fc&filename=ca_dc_kandy_1387_00.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14538",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=421072a7-2803-46c0-b29f-9df01ce234fc&filename=ca_dc_kandy_1387_00.pdf",
   "parties": "A.M. Siththi Husaima Vs. A.M.M. Uwais And Others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

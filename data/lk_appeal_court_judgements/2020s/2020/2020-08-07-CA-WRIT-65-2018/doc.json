@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-08-07-CA-WRIT-65-2018",
   "num": "CA.WRIT/65/2018",
   "date_str": "2020-08-07",
   "description": "Certis Lanka Security Solutions (Pvt) Ltd Vs V.B.P.K. Weerasinghe and Others before  Hon. Mahinda Samayawardhena, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3d0f818c-16fb-4931-8415-6d2c47f3398c&filename=ca-writ-65-2018.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14402",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3d0f818c-16fb-4931-8415-6d2c47f3398c&filename=ca-writ-65-2018.pdf",
   "parties": "Certis Lanka Security Solutions (Pvt) Ltd Vs V.B.P.K. Weerasinghe and Others",
   "judgement_by": " Hon. Mahinda Samayawardhena, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

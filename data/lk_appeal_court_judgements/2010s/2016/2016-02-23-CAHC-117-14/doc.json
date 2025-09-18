@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-02-23-CAHC-117-14",
   "num": "CAHC 117/14",
   "date_str": "2016-02-23",
   "description": "Arampath Mudiyanselage Thilakaratne Bandara Vs. Hon. Attorney General before  Hon. K.K. Wickramasinghe, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e8194479-5f23-4734-af55-6b9cb9670c0c&filename=ca_hc_117_14.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14488",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e8194479-5f23-4734-af55-6b9cb9670c0c&filename=ca_hc_117_14.pdf",
   "parties": "Arampath Mudiyanselage Thilakaratne Bandara Vs. Hon. Attorney General",
   "judgement_by": " Hon. K.K. Wickramasinghe, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

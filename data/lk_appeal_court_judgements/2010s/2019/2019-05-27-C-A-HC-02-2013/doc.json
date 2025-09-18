@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-05-27-C-A-HC-02-2013",
   "num": "C.A HC 02/2013",
   "date_str": "2019-05-27",
   "description": "Leonard Christie Perera Vs Hon. Attorney General before  Hon Achala Wengappuli, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=01a930cf-0d53-4522-9a44-270825c58002&filename=c.a%20hc%20%2002_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14419",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=01a930cf-0d53-4522-9a44-270825c58002&filename=c.a%20hc%20%2002_2013.pdf",
   "parties": "Leonard Christie Perera Vs Hon. Attorney General",
   "judgement_by": " Hon Achala Wengappuli, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

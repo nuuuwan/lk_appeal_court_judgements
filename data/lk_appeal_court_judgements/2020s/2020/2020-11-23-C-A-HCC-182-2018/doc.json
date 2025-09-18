@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-11-23-C-A-HCC-182-2018",
   "num": "C.A HCC 182/2018",
   "date_str": "2020-11-23",
   "description": "Bandaranayake Wanigasekera Mudiyanse Ralahamilage Jayampathi Aluvihare Vs Hon Attorney General before  Hon Achala Wengappuli,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3580de57-db69-4002-9786-7fac6ad2c62c&filename=hcc_182_18.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14408",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3580de57-db69-4002-9786-7fac6ad2c62c&filename=hcc_182_18.pdf",
   "parties": "Bandaranayake Wanigasekera Mudiyanse Ralahamilage Jayampathi Aluvihare Vs Hon Attorney General",
   "judgement_by": " Hon Achala Wengappuli,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

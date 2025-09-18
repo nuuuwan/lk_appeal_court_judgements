@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-06-06-DCF-1258-9-F-",
   "num": "DCF/1258/9(F)",
   "date_str": "2023-06-06",
   "description": "Jayalath Pedigedara Jayasuriya Vs Jayalath Pedigedara Sarath Abesinghe and other before  Hon. C.P. Kirtisinghe \u2013 J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=470c9e5a-dbf4-45a4-b4d1-0038d2215106&filename=ca%201258-99%20f.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14323",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=470c9e5a-dbf4-45a4-b4d1-0038d2215106&filename=ca%201258-99%20f.pdf",
   "parties": "Jayalath Pedigedara Jayasuriya Vs Jayalath Pedigedara Sarath Abesinghe and other",
   "judgement_by": " Hon. C.P. Kirtisinghe \u2013 J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

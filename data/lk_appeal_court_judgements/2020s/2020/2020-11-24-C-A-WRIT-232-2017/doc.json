@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-11-24-C-A-WRIT-232-2017",
   "num": "C.A WRIT 232/2017",
   "date_str": "2020-11-24",
   "description": "The Sri Lanka Transport Board Vs D.P.S. Weerasinghe,Assistant Commissioner of Labour and Others before  Hon N. Bandula Karunarathna,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=69775e83-067e-498b-a6ed-647fdef77153&filename=c.a%20writ%20232-2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14408",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=69775e83-067e-498b-a6ed-647fdef77153&filename=c.a%20writ%20232-2017.pdf",
   "parties": "The Sri Lanka Transport Board Vs D.P.S. Weerasinghe,Assistant Commissioner of Labour and Others",
   "judgement_by": " Hon N. Bandula Karunarathna,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

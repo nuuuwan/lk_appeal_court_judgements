@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-02-03-CAWRT-09-2020",
   "num": "CAWRT 09/2020",
   "date_str": "2023-02-03",
   "description": "Kadimachcharige Arnelis of Lidagawawatta Tissamaharamaya and other Vs J.K. Wimalasena before  Hon. B. Sasi Mahendran, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=28679a88-3ed9-436b-9688-fa3706289c34&filename=ca-wrt-%2009-2020%20judgment.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14315",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=28679a88-3ed9-436b-9688-fa3706289c34&filename=ca-wrt-%2009-2020%20judgment.pdf",
   "parties": "Kadimachcharige Arnelis of Lidagawawatta Tissamaharamaya and other Vs J.K. Wimalasena",
   "judgement_by": " Hon. B. Sasi Mahendran, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

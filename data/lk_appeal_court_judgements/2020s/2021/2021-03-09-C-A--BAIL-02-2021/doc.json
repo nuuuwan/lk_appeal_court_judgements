@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2021-03-09-C-A--BAIL-02-2021",
   "num": "C.A. BAIL/02/2021",
   "date_str": "2021-03-09",
   "description": "K. B. M. Udayangani Vs Officer in Charge and Others before  HON. JUSTICE MENAKA WIJESUNDERA",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=59bf1291-e1fd-4b8c-ae6b-52ee4f8ab90f&filename=c.a.%20bai_02_2021.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14367",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=59bf1291-e1fd-4b8c-ae6b-52ee4f8ab90f&filename=c.a.%20bai_02_2021.pdf",
   "parties": "K. B. M. Udayangani Vs Officer in Charge and Others",
   "judgement_by": " HON. JUSTICE MENAKA WIJESUNDERA",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

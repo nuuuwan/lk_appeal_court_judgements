@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-07-19-C-A-PHC-178-2013",
   "num": "C.A PHC 178/2013",
   "date_str": "2019-07-19",
   "description": "Sethapenage Appuhamiralalage Chandrapala Vs Officer in Charge, Police Station, Athimale and Others before  Hon K. K. Wickremasinghe, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f83fbbe2-c447-491c-a1e5-45c94fe0574a&filename=ca%20phc%20178_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14423",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f83fbbe2-c447-491c-a1e5-45c94fe0574a&filename=ca%20phc%20178_2013.pdf",
   "parties": "Sethapenage Appuhamiralalage Chandrapala Vs Officer in Charge, Police Station, Athimale and Others",
   "judgement_by": " Hon K. K. Wickremasinghe, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

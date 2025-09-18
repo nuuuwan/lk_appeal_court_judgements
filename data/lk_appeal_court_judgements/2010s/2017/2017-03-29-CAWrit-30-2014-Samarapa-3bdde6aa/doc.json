@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-03-29-CAWrit-30-2014-Samarapa-3bdde6aa",
   "num": "CAWrit 30/2014 Samarapala Angoda Liyanage & others Vs. J.J. Rathnasiri & others - Hon. Vijith K. Malalgoda, P.C, J (P/CA)",
   "date_str": "2017-03-29",
   "description": " before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b2ae511c-c925-4642-a1e2-702fd76d18cf&filename=ca_writ_30_2014.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14465",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b2ae511c-c925-4642-a1e2-702fd76d18cf&filename=ca_writ_30_2014.pdf",
   "parties": "",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

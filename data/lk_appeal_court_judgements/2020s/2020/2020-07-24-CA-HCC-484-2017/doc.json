@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-07-24-CA-HCC-484-2017",
   "num": "CA.HCC/484/2017",
   "date_str": "2020-07-24",
   "description": "Arachchige Mahinda Dharma Sri Muthuarachchi VS Hon. Attorney General before  Hon. ACHALA WENGAPPULI, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f98cd3c2-0772-47e6-aeb1-c27915f63ea1&filename=ca.%20hcc_484_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14400",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f98cd3c2-0772-47e6-aeb1-c27915f63ea1&filename=ca.%20hcc_484_2017.pdf",
   "parties": "Arachchige Mahinda Dharma Sri Muthuarachchi VS Hon. Attorney General",
   "judgement_by": " Hon. ACHALA WENGAPPULI, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

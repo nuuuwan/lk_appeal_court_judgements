@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-01-17-CAWrit-398-2013",
   "num": "CAWrit 398/2013",
   "date_str": "2014-01-17",
   "description": "Nalaka Chaminda Jayaweera Vs. Sri Lanka Institute of Architects 36 other before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b09d3593-1819-46e8-9fe3-4d295acf3b5b&filename=ca_writ_398_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14536",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b09d3593-1819-46e8-9fe3-4d295acf3b5b&filename=ca_writ_398_2013.pdf",
   "parties": "Nalaka Chaminda Jayaweera Vs. Sri Lanka Institute of Architects 36 other",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

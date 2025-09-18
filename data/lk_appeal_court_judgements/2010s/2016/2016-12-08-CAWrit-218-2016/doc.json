@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2016-12-08-CAWrit-218-2016",
   "num": "CAWrit 218/2016",
   "date_str": "2016-12-08",
   "description": "Ariyasinghe Violet Vs.W M Bandusena & Others before  Hon. P. Padman Surasena, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3ee875ee-01ee-4d6e-bf75-32b090365ec2&filename=ca_writ_218_2016.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14506",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3ee875ee-01ee-4d6e-bf75-32b090365ec2&filename=ca_writ_218_2016.pdf",
   "parties": "Ariyasinghe Violet Vs.W M Bandusena & Others",
   "judgement_by": " Hon. P. Padman Surasena, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

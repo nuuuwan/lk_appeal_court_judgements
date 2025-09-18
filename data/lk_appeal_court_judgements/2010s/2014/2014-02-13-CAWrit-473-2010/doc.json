@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-02-13-CAWrit-473-2010",
   "num": "CAWrit 473/2010",
   "date_str": "2014-02-13",
   "description": "Ameeta Dilshan Moosh Vs. Colombo Municipal Council before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a4cc8a0a-81e9-45a3-9f48-cb6a6fa83bfa&filename=ca_writ_473_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14538",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a4cc8a0a-81e9-45a3-9f48-cb6a6fa83bfa&filename=ca_writ_473_2010.pdf",
   "parties": "Ameeta Dilshan Moosh Vs. Colombo Municipal Council",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

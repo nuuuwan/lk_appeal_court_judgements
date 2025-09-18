@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-02-23-CA--LTA-06-16",
   "num": "CA. LTA/06/16",
   "date_str": "2022-02-23",
   "description": "Director General Vs Weerasekera Arachchilage Lalith Kumara before Hon. Iddawala.J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=75ee1e89-49d2-42ec-8559-ce039c35120c&filename=8.23022022-lta%206-16.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=2540",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=75ee1e89-49d2-42ec-8559-ce039c35120c&filename=8.23022022-lta%206-16.pdf.pdf",
   "parties": "Director General Vs Weerasekera Arachchilage Lalith Kumara",
   "judgement_by": "Hon. Iddawala.J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

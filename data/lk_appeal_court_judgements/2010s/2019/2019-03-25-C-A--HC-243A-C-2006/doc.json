@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-03-25-C-A--HC-243A-C-2006",
   "num": "C.A. HC/243A-C/2006",
   "date_str": "2019-03-25",
   "description": "Palle Kanaknamalage Don Mahesh Vijaya Gunawardena and others VS. Hon. Attorney General before  Hon. Achala Wengappuli, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5fa65801-92ec-494e-afec-65a5cfef8d1d&filename=c_a_%20hc_243a-c2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14415",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5fa65801-92ec-494e-afec-65a5cfef8d1d&filename=c_a_%20hc_243a-c2006.pdf",
   "parties": "Palle Kanaknamalage Don Mahesh Vijaya Gunawardena and others VS. Hon. Attorney General",
   "judgement_by": " Hon. Achala Wengappuli, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

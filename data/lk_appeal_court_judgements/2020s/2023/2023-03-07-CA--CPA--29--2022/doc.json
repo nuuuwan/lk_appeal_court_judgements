@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2023-03-07-CA--CPA--29--2022",
   "num": "CA. CPA. 29/ 2022",
   "date_str": "2023-03-07",
   "description": "P. H. Gunasena Vs M. L. Wijedasa, and others - before Hon. HON. JUSTICE K.K.A.V. SWARNADHIPATHI J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a4e7e51e-a1fa-4b2b-941d-ca8d4f662ebd&filename=CPA%200029-22.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=7395",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a4e7e51e-a1fa-4b2b-941d-ca8d4f662ebd&filename=CPA%200029-22.pdf.pdf",
   "parties": "P. H. Gunasena Vs M. L. Wijedasa, and others -",
   "judgement_by": "Hon. HON. JUSTICE K.K.A.V. SWARNADHIPATHI J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

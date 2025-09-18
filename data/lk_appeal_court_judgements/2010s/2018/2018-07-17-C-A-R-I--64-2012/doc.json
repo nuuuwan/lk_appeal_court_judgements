@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-07-17-C-A-R-I--64-2012",
   "num": "C.A R.I. 64/2012",
   "date_str": "2018-07-17",
   "description": "Edirisinghe Arachchilage Indrani Chandralatha Vs Elrick Ratnum before  Hon A.H.M.D. Nawaz, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5782ea0f-3415-4e04-bc8f-4455e91d1f14&filename=c.a%20%20r.i%20%2064_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14475",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5782ea0f-3415-4e04-bc8f-4455e91d1f14&filename=c.a%20%20r.i%20%2064_2012.pdf",
   "parties": "Edirisinghe Arachchilage Indrani Chandralatha Vs Elrick Ratnum",
   "judgement_by": " Hon A.H.M.D. Nawaz, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

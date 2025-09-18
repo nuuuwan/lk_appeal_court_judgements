@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-11-07-C-A-HC-91-92-2015",
   "num": "C.A HC 91-92/2015",
   "date_str": "2018-11-07",
   "description": "Henakaralalage Nimal Karunatilleke and Others Vs Hon Attorney General before  Hon S. Thurairaja, PC, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4e865a9c-27c5-4841-acf2-9ddebf50a022&filename=c.a%20hc%20%2091-92_2015.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14454",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4e865a9c-27c5-4841-acf2-9ddebf50a022&filename=c.a%20hc%20%2091-92_2015.pdf",
   "parties": "Henakaralalage Nimal Karunatilleke and Others Vs Hon Attorney General",
   "judgement_by": " Hon S. Thurairaja, PC, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

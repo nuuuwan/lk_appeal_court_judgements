@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-01-01-C-A-TAX-13-2017",
   "num": "C.A TAX 13/2017",
   "date_str": "2019-01-01",
   "description": "Sathosa Motors PLC Vs The Commissioner General of Inland Revenue before  Hon Janak De Silva, J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=80652d6f-c7eb-42ae-a15f-f5571b97ab93&filename=c.a.tax_13_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14458",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=80652d6f-c7eb-42ae-a15f-f5571b97ab93&filename=c.a.tax_13_2017.pdf",
   "parties": "Sathosa Motors PLC Vs The Commissioner General of Inland Revenue",
   "judgement_by": " Hon Janak De Silva, J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

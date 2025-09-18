@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-05-01-CADC-GALLE-1217-1996",
   "num": "CADC GALLE 1217/1996",
   "date_str": "2018-05-01",
   "description": "Sammu Amarasena de Silva Vs. Padumawathie Tillekeratne before  Hon. S. Devika De L. Tennekoon, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d820bb1e-f351-4654-bf10-b58e043f2b6c&filename=ca_dc_galle_1217_1996.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14438",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d820bb1e-f351-4654-bf10-b58e043f2b6c&filename=ca_dc_galle_1217_1996.pdf",
   "parties": "Sammu Amarasena de Silva Vs. Padumawathie Tillekeratne",
   "judgement_by": " Hon. S. Devika De L. Tennekoon, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

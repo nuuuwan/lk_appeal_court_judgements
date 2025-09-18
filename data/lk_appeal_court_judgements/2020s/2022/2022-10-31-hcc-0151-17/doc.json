@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2022-10-31-hcc-0151-17",
   "num": "hcc-0151-17",
   "date_str": "2022-10-31",
   "description": "Yapa Mudiyanselage Yapathilaka vs The Hon. Attorney General before Hon. N. Bandula Karunarathna J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4ae5cb9e-b45a-4287-afea-bfbcfce11781&filename=CA%20-HCC%20-%200151%20-%2017.pdf.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=3951",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4ae5cb9e-b45a-4287-afea-bfbcfce11781&filename=CA%20-HCC%20-%200151%20-%2017.pdf.pdf",
   "parties": "Yapa Mudiyanselage Yapathilaka vs The Hon. Attorney General",
   "judgement_by": "Hon. N. Bandula Karunarathna J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

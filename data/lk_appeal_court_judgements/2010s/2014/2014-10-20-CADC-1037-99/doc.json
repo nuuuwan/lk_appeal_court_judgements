@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-10-20-CADC-1037-99",
   "num": "CADC 1037/99",
   "date_str": "2014-10-20",
   "description": "Kari yawasam Bendigodagamage Premawathie Vs. Mahavithanage Dona Engalthinahamy before  Hon. Upaly Abeyrathne, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4e9f9f90-4412-4fce-bdaa-935f2ab7ba7b&filename=ca_dc_colombo_1037_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14554",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4e9f9f90-4412-4fce-bdaa-935f2ab7ba7b&filename=ca_dc_colombo_1037_99.pdf",
   "parties": "Kari yawasam Bendigodagamage Premawathie Vs. Mahavithanage Dona Engalthinahamy",
   "judgement_by": " Hon. Upaly Abeyrathne, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

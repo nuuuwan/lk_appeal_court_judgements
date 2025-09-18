@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2018-07-05-CA-PHC--182-2008",
   "num": "CA(PHC) 182/2008",
   "date_str": "2018-07-05",
   "description": "Jayalath Pedige Prema Jayantha Vs Secretary Chief Ministry, Sabaragamuwa Provincial Council, before  Hon Janak De Silva J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=20897d11-3fa4-446c-8977-240fd7879131&filename=ca_phc_182_08.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14446",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=20897d11-3fa4-446c-8977-240fd7879131&filename=ca_phc_182_08.pdf",
   "parties": "Jayalath Pedige Prema Jayantha Vs Secretary Chief Ministry, Sabaragamuwa Provincial Council,",
   "judgement_by": " Hon Janak De Silva J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2019-03-06-C-A-DC-358-1999",
   "num": "C.A DC 358/1999",
   "date_str": "2019-03-06",
   "description": "Mohamed Ismail Mohamed Sabri and Others Vs Fathima Maheesa and Others before  Hon M. M. A. Gaffoor, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8a3dd598-66d8-44f8-95e8-fc66614260c0&filename=358-99%2027.2.19%20puttalam%20dc.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14413",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8a3dd598-66d8-44f8-95e8-fc66614260c0&filename=358-99%2027.2.19%20puttalam%20dc.pdf",
   "parties": "Mohamed Ismail Mohamed Sabri and Others Vs Fathima Maheesa and Others",
   "judgement_by": " Hon M. M. A. Gaffoor, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

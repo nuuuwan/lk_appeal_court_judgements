@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-11-03-CAPHC-144-2003",
   "num": "CAPHC 144/2003",
   "date_str": "2014-11-03",
   "description": "B.L. Ranji Vs. Chairman, Land Reclamation and Development Co- Operation - Hon. K.T. Chitrasiri, J before  Unless a valid permit or written authority issued by the State, no person is entitled to occupy State land",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a4bced66-844f-4c5b-a486-642e33985e3b&filename=ca_phc_144_2003.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14554",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a4bced66-844f-4c5b-a486-642e33985e3b&filename=ca_phc_144_2003.pdf",
   "parties": "B.L. Ranji Vs. Chairman, Land Reclamation and Development Co- Operation - Hon. K.T. Chitrasiri, J",
   "judgement_by": " Unless a valid permit or written authority issued by the State, no person is entitled to occupy State land",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

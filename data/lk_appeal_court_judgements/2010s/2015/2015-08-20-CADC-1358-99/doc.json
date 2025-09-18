@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2015-08-20-CADC-1358-99",
   "num": "CADC 1358/99",
   "date_str": "2015-08-20",
   "description": "Mohamed Nalief Vs. Mohamed Natheer Bishrul Haffy before  Hon. P.W.D.C. Jayathilake, J",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dfe1a5f7-5ecd-4078-8962-d3442b4fbfae&filename=ca_dc_1358_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14523",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dfe1a5f7-5ecd-4078-8962-d3442b4fbfae&filename=ca_dc_1358_99.pdf",
   "parties": "Mohamed Nalief Vs. Mohamed Natheer Bishrul Haffy",
   "judgement_by": " Hon. P.W.D.C. Jayathilake, J",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

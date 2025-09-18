@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2014-05-27-CAPHC-APN-73-2013",
   "num": "CAPHC APN 73/2013",
   "date_str": "2014-05-27",
   "description": " before Thuwan Siththi Jesima Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=608da818-bf31-4e29-9e92-1d60d82df6c3&filename=ca_phc_apn_73_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14544",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=608da818-bf31-4e29-9e92-1d60d82df6c3&filename=ca_phc_apn_73_2013.pdf",
   "parties": "",
   "judgement_by": "Thuwan Siththi Jesima Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

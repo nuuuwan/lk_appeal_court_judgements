@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2017-11-24-CA-TR--20-2017",
   "num": "CA(TR) 20/2017",
   "date_str": "2017-11-24",
   "description": "Basil Rohana Rajapakse Vs. Hon Attorney General before  Hon. A.L.Shiran Gooneratne J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5b6a866e-db25-4b21-a76e-1ac61be35ff1&filename=ca_tr_20_2017.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14481",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5b6a866e-db25-4b21-a76e-1ac61be35ff1&filename=ca_tr_20_2017.pdf",
   "parties": "Basil Rohana Rajapakse Vs. Hon Attorney General",
   "judgement_by": " Hon. A.L.Shiran Gooneratne J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

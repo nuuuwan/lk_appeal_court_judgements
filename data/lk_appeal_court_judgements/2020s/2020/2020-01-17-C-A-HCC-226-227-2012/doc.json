@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2020-01-17-C-A-HCC-226-227-2012",
   "num": "C.A HCC 226-227/2012",
   "date_str": "2020-01-17",
   "description": "Maduwanage Francis Wimalaratne Vs Hon. Attorney General before  Hon K.Priyantha Fernando,J.",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f320acbf-cdd1-45a0-8cb6-a30ed1b5a5fc&filename=c.a%20hcc%20226-227_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14388",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f320acbf-cdd1-45a0-8cb6-a30ed1b5a5fc&filename=c.a%20hcc%20226-227_2012.pdf",
   "parties": "Maduwanage Francis Wimalaratne Vs Hon. Attorney General",
   "judgement_by": " Hon K.Priyantha Fernando,J.",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }
