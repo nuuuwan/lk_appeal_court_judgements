@@ -1,0 +1,121 @@
+Page 1 of 6
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA
+
+In the matter of an appeal against an Order of the High Court under Section 331 of the Code of Criminal Procedure Act No. 15 of 1979.
+
+Court of Appeal Case No: CA /HCC/0179/2017 Hon. Attorney General, High Court Tangalle Case No: HC/05/99 Attorney General's Department, Colombo 12.
+
+Complainant Vs.
+
+Mudalige Ariyasena alias Walaspuncha
+
+Accused
+
+And Now Between
+
+Mudalige Ariyasena alias Walaspuncha
+
+Accused-Appellant
+
+Vs.
+
+Hon. Attorney General, Attorney General's Department, Colombo 12.
+
+Complainant-Respondent
+
+Before: N. Bandula Karunarathna J. & R. Gurusinghe J.
+
+Counsel: A.S.M. Perera PC with Uvindu Jayasiri AAL for the accused-appellant
+
+Riyaz Bary DSG for the complainant-respondent Written Submissions: By the accused-appellant on 08.03.2018
+
+By the complainant-respondent 07.11.2018 Argued on : 15.09.2022 Decided on : 27.09.2022
+
+Page 2 of 6
+
+N. Bandula Karunarathna J.
+
+This appeal is from the judgment, delivered by the learned Judge of the High Court of Tangalle, dated 10.08.2017, by which, the accused-appellant, who is before this Court, was convicted and sentenced to death for having murdered one Kongahawaththage Nandiyes (the deceased) on or about 10.04.1995.
+
+The accused-appellant had been indicted on 24.05.1999 in the High Court of Hambantota and later transferred to the High Court of Tangalle on 12.02.2011, for murdering one Kongahawaththage Nandiyes, which is punishable in terms of section 296 of the Penal Code.
+
+The trial commenced on 03.04.2002 after the accused-appellant opted for a non-jury trial. The prosecution had, led evidence of 7 witnesses and marked the productions 1 and 3. Once the prosecution had closed its case the accused-appellant decided to make a dock statement and concluded the case for the defence. After the trial, the accused-appellant had been found guilty of the murder charge and sentenced to death. Aggrieved by the said decision the accused-appellant preferred this appeal.
+
+The 1st witness was one Rajapaksa Patabendige Premawathi, the wife of the deceased. In her evidence, she stated that her husband went to work at about 6.00 a.m. on 10.04.1995 and her two daughters had earlier gone to the house of her elder daughter at Kotawaya. While she was alone at home, the accused had come close to her house and from the road, he had asked for one Bandu. He had broken a club from the witness's fence and had challenged Bandu to come, if that was possible, saying that he will be sent back with the sarong tied on his head.
+
+According to this witness, the accused had been pacing up and down along the road for more than 15 minutes, shouting at her. Later her daughters had come and before they entered the house, they had heard the accused scolding and had said that they heard their father shouting. They ran towards the road. This witness also had followed them. Daughter Yasawathie had run first followed by this witness and the other daughter Wimalawathie was behind her. At the time she went, Yasawathie was holding the shoulders of the deceased and having him lying on her legs. This witness stated that Bandu and others were there at that time. She stated that she saw the accused appellant assaulting the deceased. However, it appears that she had not stated the same in her police statement and later at the Inquest.
+
+The 2nd witness was Yasawathie who was the daughter of the deceased. In her evidence, she stated that she went to Kotawaya with her sister on the day in question and returned at about 5.30 p.m. At that time, she saw the accused telling her mother " . ".
+
+According to her, at that time the accused was armed with the club and her father was not in the house. Then she heard the father saying and at that time the accused had assaulted the deceased on his head. This witness stated that her elder sister had held the deceased at that time. She had called for a person by the name of Cyril (son of the deceased) who had then come there. According to this witness, the accused had also attacked
+
+Page 3 of 6
+
+this person whom she refers to as " ", put him down and bitten his chest. Thereafter, she had gone home with the father and took him to the hospital. His head was swollen at that time.
+
+In her evidence she had stated that she saw the accused going up and down, armed with a club. In her non-summary inquiry by giving evidence, she stated that she did not see the accused having anything in his hand at that time. This contradiction had been marked as " 1 X". Even though this witness had stated in her evidence that her deceased father asked the accused person . This had not been stated in her police statement and it was marked as an omission. Several contradictions and omissions had been marked as 1 X"/" 2 X" / " 3 X" and " 5".
+
+Kongahawaththage Cyril, son of the deceased giving evidence before the Trial Judge had stated that he had been residing in the land next to the Mahagedara. He had worked as a labourer on that very day till about 5.00 p.m. and returned home. After returning home he heard a noise around 8.00 p.m. He heard his younger sister Yasawathie's voice and accordingly he had gone there running. He heard this noise from the direction of his father's house and when he came, he saw the accused armed with a club on the road. The two younger sisters, father, mother and the accused had been there. The father was fallen on the road. When he tried to reach the father, the accused had hit him with his hand and had bitten his left cheek. This witness had stated that he knew the accused well since he was residing close to his house. He has also stated that earlier the accused had come to his house and assaulted Bandu.
+
+Chief Inspector Malin Ajantha Perera who was the Officer-In-Charge of Weeraketiya at that time had given formal evidence. According to him, the first complaint had been made by Cyril (PW3) at 8.45 a.m. on 11.04.1995. He had stated that he observed "bite injuries" on the right side of this witness's shoulder and his nipple. Retired Sub Inspector Susil Gamage who had assisted in the post-mortem examination had given evidence. The accused had made a statement from the dock in addition, the defence called Gajasinghage Bandula Kumara as a witness. He had been named as a witness by the prosecution but not called. Reading through the examination in chief of this witness, it becomes clear that he has been attempting to suppress some material facts, stating that he cannot even remember that he gave evidence at the non-summary inquiry at Walasmulla Magistrate Court. It is also clear that the said witness had made a statement to the police on 17.04.1995. The defence would have decided to call this witness based on the contents of his statement which he had made to the police and the evidence given at the non-summary inquiry.
+
+Since this witness had shown a reluctance to give evidence, the defence counsel has made an application to treat him as an adverse witness. Later this witness admitted that an incident occurred on the said date with the accused and that the accused hit him. He also later admitted that he went and met the accused thereafter with one Cyril, the son of the deceased and met the accused. This witness had further admitted that the said Cyril assaulted the accused and that the deceased or his relatives were not present at the scene during that time.
+
+Page 4 of 6
+
+Even though technically this evidence may not be relied upon after such person is treated as an adverse witness, the learned counsel for the accused-appellant requested to take into consideration such material in order to avoid a miscarriage of justice. According to this witness, the deceased had come about half an hour later and Cyril had been there even at that time. The evidence of this witness dated 14.12.2016 had been led as "Examination in Chief' and subsequently he had been cross-examined by the State Counsel.
+
+In cross-examination by the State Counsel, this witness had stated that while he and his brother Cyril were fighting with the accused, the deceased had come there. According to this witness, the deceased had then asked " ? At that time, "Puncha" (the accused-appellant) had assaulted the deceased with a club, on the head. This witness had admitted that he stated this in his police statement.
+
+The Learned Trial Judge had allowed the application of the defence Counsel to treat this witness as an adverse witness under section 154 of the Criminal Procedure Code. The Defence Counsel had been permitted to continue with the examination in chief and the State Counsel had been permitted to cross-examine this witness. The evidence of the defence counsel had been led under the heading "examination in chief. However, the Learned Trial Judge has not taken into consideration the evidence of this witness.
+
+In the circumstances of this case, the learned President's Counsel for the accused-appellant requested this Court to consider taking into account the evidence of this witness, in order to avoid a miscarriage of justice in this case.
+
+When this matter was taken up for argument learned counsel for the respondent had taken the view that the charge could be reduced on the basis of a sudden fight.
+
+The accused-appellant had given a dock statement embarking upon a plea of a grave and sudden provocation and exercising the right of private defence. The learned Trial Judge had rejected the defence version on the footing that although the appellant had indicated there was a fracas between him and the deceased.
+
+It warrants mentioning that the position taken up by the accused-appellant is consistent and the following factors are placed before the court to consider lesser culpability based on a grave and sudden provocation or sudden fight of exceeding the right of private defence.
+
+(i) The incident had taken place near the appellant's residence which negates any pre-planned or premeditation on the part of the appellant; (ii) It is an admitted fact that the deceased had sought after the appellant; (iii) Eyewitnesses have testified that there was an exchange of words between the deceased and the accused-appellant. (iv) The fact that the appellant too had sustained injuries is indicative of the fact that the incident had taken place in the course of a sudden fight.
+
+When this matter was taken up for argument on 15.09.2022 both parties agreed that there is a possibility for a shortcut considering a sudden fight. It is our view that the learned Trial Judge has failed to address his judicial mind to the afore-mentioned factors which necessarily gives the right to the pleas embarked upon by the appellant.
+
+Page 5 of 6
+
+The appellant had not denied his complicity in the commission of the crime and has embarked upon a plea of a grave and sudden provocation and sudden fight and exercising the right of private defence.
+
+The Trial Judge should give proper attention when he finally decides whether the accused is guilty or not for the offence he was charged with. According to the prosecution witnesses, it reveals that the deceased was an aggressor. According to prosecution evidence on that fateful day, the deceased fought with the appellant.
+
+It is a settled principle under criminal law that the prosecution should prove their case beyond a reasonable doubt. The learned counsel for the accused-appellant further argued that it is a cardinal principle that unreliable and unacceptable evidence cannot be rendered credible, simply because there is some corroborative material. Proof beyond reasonable doubt does not mean proof beyond the shadow of a doubt. The benefit of the doubt, to which the accused is entitled, is reasonable doubt; the doubt which rational thinking men will reasonably, honestly and conscientiously entertain and not the doubt of a timid mind.
+
+It is our view that the evidence of the accused-appellant attracts the plea of a grave and sudden provocation and self-defence. This court came to the said conclusion of the present appeal, considering the behaviour of the deceased before this unfortunate incident. The appellant has further indicated that the scuffle between him and the deceased had accidentally resulted in the deceased causing his death thereby attracting the plea of a grave and sudden provocation and self-defence as embodied in special exceptions 1 and 3 to section 294 of the Penal Code.
+
+However, had the trial court considered the above-mentioned factors in its correct judicial perspective, the trial court would have come to an accurate factual finding that the accused-appellant caused the death of the deceased by accident upon being provoked by the deceased consequently affording the plea of a grave and sudden provocation to the accused-appellant. I wish to say that the failure to take into account the afore-cited extenuating circumstances amounts to a non-direction resulting in a miscarriage of justice.
+
+In this case, the appellant had proved the right of private defence and grave and sudden provocation and sudden fight. Even though the accused had acted excessively when inflicting the said injury using a club, the matters already discussed above indicate a sudden fight without premeditation and without taking any undue advantage in the heat of passion.
+
+The learned Deputy Solicitor General who appeared for the respondent is of the view that the accused-appellant should have been convicted for a lesser offence namely section 297 of the penal code and not for the offence under section 296 of the penal code.
+
+For the reasons set out above, I conclude that the learned Trial Judge had misdirected himself by failing to evaluate the said material in favour of the accused-appellant. I, therefore, decide to set aside the conviction and sentence imposed by the learned High Court Judge of Tangalle on 10.08.2017 and replace it with a conviction for culpable homicide not amounting to murder under section 297 of the Penal Code based on sudden fight and self-defence and impose a sentence of rigorous imprisonment for 8 years.
+
+Page 6 of 6
+
+Further, we impose a fine of Rs. 10,000/- and in default 6 months simple imprisonment. Also, we wish to impose Rs. 50,000/- as compensation to the immediate family members of the deceased person, in default another 6 months of simple imprisonment.
+
+We direct that the sentence should take effect from the date of imposition. Therefore, the sentence imposed should take effect from 10.08.2017.
+
+The fine and the compensation if not paid by the accused-appellant, the default terms ordered by this court should run concurrently.
+
+The appeal is allowed.
+
+Registrar is directed to send a copy of this judgment along with the main case record to the High Court of Tangalle and a copy of the Judgement to the prison authorities forthwith.
+
+Judge of the Court of Appeal
+
+R. Gurusinghe J.
+
+I agree.
+
+Judge of the Court of Appeal

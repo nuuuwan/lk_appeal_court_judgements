@@ -1,0 +1,223 @@
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF
+
+SRI LANKA
+
+In the matter of an application for a mandate inthe nature of Writ of Certiorari in terms ofArticle 140 of the Constitution of theDemocratic Socialist Republic of Sri Lanka.
+
+Packserve (Pvt.) Ltd. No. 130, Wewelduwa,
+
+Kelaniya.
+
+PETITIONER
+
+Vs.
+
+1. Hon. John Senevirathne,
+
+Minister of Labour and Trade UnionRelations,Ministry of Labour and Trade UnionRelations,Labour Secretariat, Colombo 05.
+
+2. A. Wimalaweera,
+
+Commissioner General of Labour,Labour Secretariat, Colombo 05.
+
+3. S. M. S. Jayawardena,
+
+No. 213, First Lane,Egodawatta, Boralesgamuwa.
+
+4. Sri Lanka Nidahas Sevaka Sangamaya,
+
+No 301, T. B. Jaya MawathaColombo 10.
+
+RESPONDENTS
+
+1
+
+Court of Appeal Case No:CA/WRIT/122/2018
+
+Before:C.P Kirtisinghe, JMayadunne Corea, J
+
+Counsel:Uditha Egalahewa, P.C. with Damitha Karunarathna for the Petitioner
+
+Navodi De Zoysa SC for the 01st and 02nd RespondentsAsthika Devendra with Praveen Premathilake for the 04th respondent
+
+Argued on:22.03.2022
+
+WrittenSubmissions:
+
+Tendered by the 4th Respondent on 04.03.2022Tendered by the Petitioner on 19.06.2019
+
+Decided on:22.03.2022
+
+Mayadunne Corea J
+
+The facts of the case are briefly as follows, the Petitioner is a company duly incorporated interms of the Companies Act No. 7 of 2007 and has come before this Court following anarbitration award made in pursuance of the Industrial Disputes Act. The 4th Respondent is the SriLanka Nidahas Sevaka Sangamaya, a registered trade union having a branch union at the factorywhich has been recognized by the Petitioner company for the purpose of discussing andnegotiating with the Petitioner company.
+
+The Respondent union represents 28 workmen, who are members of the said union who wereinvolved in the purported dispute with the Petitioner. The Petitioner states that the 28 workershad submitted several demands including the increase of salaries to the Petitioner company. ThePetitioner further states that it had informed the union and its member workers that it hadconsistently increased salaries over the years and is now unable to meet their demands as theywere not in a position to facilitate such immediate increments. The Petitioner company informedthe 4th Respondent that as an alternative, the Petitioner was working out a scheme to enhance theearnings of its employees. As such, the Petitioner states that it presented a proposal to relieve itsemployees to an extent, which was rejected by the 4th Respondent, who informed the Petitionerthat if it failed to provide reasonable increments within 14 days the union will resort to a TradeUnion Action.
+
+The Petitioner states that the Respondent union had resorted to conducting an illegal strike andthat their demands are unjust and unfair. The Petitioner further states that the member workers of
+
+2
+
+the 4th Respondent have sabotaged the machinery and infrastructure of the workplace withmalicious intent and also prevented other workers from resuming work.
+
+The purported dispute between the Petitioner and the 4th Respondent was initially referred forsettlement by arbitration. In the award which was gazetted on 08.02.2018 the Arbitrator awarded,that the 28 employees were involved in a legitimate strike, the allegation that the workmen hadcommitted acts of sabotage was not proved, the workmen had not vacated their posts, that thePetitioner had unfairly terminated the services of the workmen and ordered the said workmen bereinstated with back wages.
+
+The Petitioner has come before this Court and impugned the award of the 3rd Respondent on thebasis that it is null and void and there is an error on the face of the record and therefore has noforce or avail in law.
+
+The Petitioner aggrieved by the decision filed this writ application and prays for the followingrelief:
+
+(1) Issue a mandate in the nature of a writ of certiorari quashing the award of the 3rd
+
+Respondent dated 30th January 2018.
+
+Petitioners complaint
+
+The Petitioner alleges that the 3rd Respondent has erred in failing to consider the writtensubmissions filed by the Petitioner company and erroneously held that the Petitioner hasfailed to file written submission whereby failing to consider the case of the Petitionercompany thus there is no fair hearing.The Arbitrators decision is not equitable and not reasonable as the Arbitrator has failedto consider that the strike was illegal and therefore awarding back wages is notreasonable.The strikers had sabotaged and damaged the equipment and therefore awarding backwages and reinstatement is illegal.
+
+Hence this application for a writ of certiorari.
+
+At the commencement of the argument, the learned Counsel for the 1st and 2nd respondentssubmitted to this Court that they will not be making any oral submissions nor have they filed awritten submission. The 3rd Respondent Arbitrator would be mentioned as the Arbitratorhereinafter. This Court also observes that the 3rd Respondent has not taken part in thisproceeding.
+
+At this stage, it is pertinent to consider the background of this application.
+
+3
+
+The members of the 4th Respondent who were employees of the Petitioner had engaged in strikeaction after the Petitioner had failed to renew the collective agreement that was in force. The 4th
+
+Respondent had submitted new proposals to be included in a new collective agreement that wasmooted to be negotiated. Especially for an increment of salary and other benefits (X6). Afterseveral discussions, the parties have failed to agree on the demands and thereby have failed toenter into a new collective agreement. The Petitioners contention was that they were not in aposition to agree to the new condition that has been forwarded by the 4th Respondent, especiallyfor salary increment as the company was not financially performing well. This had beeninformed to the 4th Respondent by letter dated 06th March 2009 (X7). There had been severalcorrespondence and discussions to overcome this disagreement. The Petitioner had submittedalternate proposals, especially a work incentive based on the production. However, the 4th
+
+Respondent by their letter dated 13th May 2009 had rejected the proposals and had given noticeof trade union action by the said letter (X9). Subsequent to this letter the Petitioner alleges thatthey have sought three months time from the 4th Respondent to implement the scheme ofincentives based on production (X10).
+
+However, 28 workers of the 4th Respondent had engaged in strike action. As the production wasfalling further the Petitioner had given an ultimatum and informed all employees to report towork by 14th August 2009 (X11). In reply to this letter the members of the 4th Respondent hadinformed that since they were engaged in a trade union action, they were not reporting to workby letter dated 19th August 2009. The Petitioner had issued letters of vacation of post to all thestriking workers who were members of the 4th Respondent.
+
+The said strike action had continued for several months, this dispute had thereafter been referredto an arbitrator under the Industrial Disputes Act. The said industrial arbitration commenced.However, before it could conclude the Arbitrator V. I Jayasuriya had passed away, thereafter thedispute had been referred for arbitration under a new arbitrator.
+
+This Court will now consider the terms of reference for the said arbitration which states asfollows;
+
+Whether it is justified by PACKSERVE (PVT LTD) to consider the following 28 employeesas having vacated their employment at the company and if not justified to what relief each ofthem is entitled.
+
+Both parties had filed their statements and thereafter evidence had been led. It is pertinent tonote that in the statement filed by the Petitioners, they have stated sabotage by the strikingworkers and also stated that the strike action of the applicant union is unjustified.
+
+4
+
+Subsequent to the inquiry, the Arbitrator had given his award dated 25th September 2017. Theaward had been published in the Gazette on 08th February 2018 (P3). The Petitioner impugnedthe said award on the basis that the said award is irrational and or arbitrary illegal and ultra vires.
+
+Now, this Court will consider the allegations of the Petitioner. The Petitioners first allegationwas that the Arbitrator has failed to consider that the strike action was unjustified and illegal.It is not disputed by the parties that there had been several collective agreements and on 15th
+
+December 2018, the 4th Respondent had written and requested to enter into a new collectiveagreement that failed to materialize. The parties are not at variance that there had been severalcorrespondences thereafter and also that a notice of strike action was given vide (R9).
+
+The Petitioners contention is that the strikers had obstructed the non-striking workers fromreporting to work thereby causing loss and destruction to the production process and furthercontended that the strike should be the last weapon for a trade union. It was further argued thatthe 4th Respondent commencing a strike, when the Petitioner company was in financial difficultycannot be justified especially in view of the fact that several salary increments have been givento the workers by the previous collective agreements. The Petitioner contends that the strike isillegal on the basis,
+
+that the strikers had gathered outside the premises and had obstructed the non-strikersfrom entering the premises.The strikers had damaged the company property which they also challenged undersabotage. The strike has adversely affected the production of the company.
+
+The 4th Respondent submitted that the said strike cannot be illegal as it had commenced onlyafter they failed in all negotiations and the 4th Respondent had informed the Petitioner companyand also the Commissioner General of Labour prior to going on the strike action (A12). As perA12 dated 13th May 2009, it is clear that the trade union had given the Petitioner 14 days time togive them a satisfactory answer and has stated that failure to get a reply would result in severetrade union action. The said letter states as follows.
+
+14 .
+
+This letter was not disputed by the Petitioner. Thus, this Court is satisfied that adequate notice ofstrike had been given.
+
+However as there had been no agreement reached, the 4th Respondent union had launched thisstrike. After hearing the submission of both counsels, this Court comes to the view that beforethe strike action was launched there had been several negotiations and correspondence. Thus,
+
+5
+
+Petitioners contention that the strike action should be the last resort but the Respondent unionhad directly resolved to the last weapon in resolving an industrial dispute fails.
+
+As contended by the 4th Respondents Counsel the basic right to strike is an internationallyrecognized right and it is entrenched in the International Covenant on Economic, Social andCultural Rights adopted by the General Assembly of the United Nations on 16th December 1966and has been acceded by the Government of Sri Lanka and specifically accepted the right tostrike as held in the case of Rubberite Company Ltd Vs. Labour officer Negombo (1990) (2)SLR 142. The 4th Respondent further contended that the strikers had not engaged in any act thatviolated Section 40(1) of the Industrial Disputes Act and, in any event, the Petitioner had failedto adduce any evidence to substantiate the allegation of such violation before the Arbitrator.
+
+It was the contention of the 4th Respondent that in fact, if there had been an illegal strike, thePetitioner should have made an inquiry and a charge sheet issued against the workers. Partieswere not at variance that the strikers had gathered outside the premises and staged the strike. ThePetitioners strongly contended that this gathering had obstructed the non-striking workforce fromentering the premises. However, the Petitioners own witness had admitted that the strikers hadnot obstructed the non-strikers from reporting to work (Page 565 brief)
+
+This Court finds that as per P3, the Arbitrator had given due consideration and has come to theconclusion pertaining to the legality of the strike.
+
+The Petitioners next contention was based on sabotage. The Petitioners main contention is thatthe 28 workmen who were members of the 4th Respondent had committed acts of sabotagenamely obstructing the non-strikers from entering the company, damaging the boiler andelectrical wiring to machines, and also damaging the vehicles. Further, the Petitioner contendedthat in this background, ordering reinstatement and granting back wages is illegal.
+
+However, the 4th Respondent while denying this allegation contended that as stated earlier in thisjudgment, the Petitioners own witness had conceded that there had been no obstruction for theemployees to enter into the company and to work. Further, the Petitioner has failed to submit anassessment of damages that are alleged to have been caused by the strikers. In the absence ofsuch material, the 4th Respondent has successfully created a doubt as to whether in fact if anydamages were caused at all. It was also brought to the notice of this Court that three workers hadbeen charged in the Magistrates Court of Kiribathgoda, for damaging the properties of thecompany. However, after a comprehensive trial, all three have been acquitted. The Petitionershave not submitted any material to this Court to demonstrate that they have appealed against thedecision of the learned Magistrate.
+
+The Petitioner also contended that the Arbitrator should not have reinstated the workmen as theawarding of reinstatement and back wages was illegal. The Petitioners relied on the case of Best
+
+6
+
+Footwear (Pvt) Ltd v Aboosally, Former Minister of Labour and Vocational Training andothers (1997) 2 SLR 137. This Court has considered the said case. However, this Court finds thefacts of the said case in arriving at the decision that the strike is illegal, is different from the factsof this case. In the said case the Court found that there had been no adequate notice given beforethe strike commenced, but in the case, before us, we find as stated elsewhere in this judgment thefourth Respondent trade union had given sufficient notice and there is material to amplydemonstrate that the parties had engaged in several discussions and several correspondenceshave been exchanged before the strike action had commenced. The Petitioners contention that asa result of the strike the company had suffered financial loss thus making the strike illegal cannotbe accepted by this Court as any strike action where production is affected will result in financialloss to the company. But we are unable to agree that it alone, is a ground to determine that thestrike is illegal unless it is coupled among other grounds with other willful and intentional acts topurposefully harm the company.
+
+The next contention of the Petitioner is that by the strike action, the strikers have causedfinancial loss to the company and that the Petitioner was not capable of paying back wages.
+
+However as quite correctly submitted by the 4th Respondent, in the absence of any justificationpertaining to the termination of the workers, the Petitioner cannot escape his liability by statingthat they are financially not capable of paying back wages. It was also the contention of thePetitioner that the Arbitrator has failed to consider that the industrial relations between thePetitioner company and the 28 workmen had broken down as a result of the strike.
+
+This Court also observes that the Petitioners subsequent to the strike had informed and invited allthe workers back to the workplace. This invitation had been given after the lapse of nearly twomonths into the strike (X11). The conduct of the Petitioner himself cuts across his defense oflosing the industrial relationship between the worker and the employer. If the workers havecommitted sabotage which resulted in the industrial relations being deteriorated, then thePetitioner should have charge-sheeted and taken disciplinary action to justify the termination.Instead of doing so, the Petitioners had decided to commence work and invite the workers toreport to work. In inviting the workers back to work, the Petitioner has only stated that they haveinvited the people to work because the production in the company has gone down. The said letterX11 reads as follows,
+
+14.08.2009 .
+
+.. 8.00
+
+7
+
+This Court also observes that nowhere in X11 it is stated that failure to report to work as per X11will result in the Petitioner considering that the members of the 4th Respondent have vacated theirpost.
+
+The Petitioner also challenges the Arbitrators award, on the ground that reinstatement wasillegal and relied on Sec 33 (6) of the Industrial Disputes Act which states as follows, theprovision of (3) and (5) shall not be construed to limit the power of the industrial Court or anarbitrator, under paragraph (d) of subsection (1), to include in an award a decision as to thepayment of compensation as an alternate reinstatement, in any case where the Court oftribunal thinks fit so to do Thus, the contention that awarding back wages with reinstatement iswrong.
+
+The said section is quite clear as it contemplates compensation only as an alternative. Merelybecause an employer makes an allegation that the industrial relationship with a worker is broken,an arbitrator should not act under the alternative. For the arbitrator to act under the alternativethere has to be evidence of a breakdown of the relationship. In this instance, the Arbitrator isgiven discretion by the statute itself. The arbitrator is the sole judge on the facts and he has usedhis discretion. The Petitioners have failed to demonstrate to this Court that the Arbitrator haserroneously used his discretion.
+
+The role of the arbitration is stated in Brown & Company PLC VS Minister of Labour andsix others 2011(1) SLR 305 it was held, Arbitration under the Industrial Disputes Act isintended to be even more liberal, informal and flexible than commercial arbitration, primarilybecause the Arbitrator is empowered to make and award which is just and equitable. When anindustrial dispute has been referred under Section 3 (1)(d) or Section 4(1) of the IndustrialDisputes Act to an Arbitrator for settlement by arbitration, Section 17(1) of the said Act requiressuch Arbitrator to make all such inquiries into the dispute as he may consider necessary, heresuch evidence as may be tendered by the parties to the dispute and thereafter make such awardas may appear to him just and equitable. In my view, the word make as used in the saidprovision, has the effect of throwing the ball into the Arbitrators Court, so to speak, and requireshim to initiate what inquiries he considers are necessary. The Arbitrator is not simply called uponto hold an inquiry, where the ball would be in the Court of the parties to the dispute and, itwould be left to them to tender what evidence they consider necessary requiring the arbitrator tobe just a judge presiding over the inquiry, the control, and progress of which will be in the handsof the parties themselves or their Counsel
+
+It is evident that the Arbitrator has been given the discretion to consider the evidence that isnecessary to come to a determination. The Petitioners have failed to demonstrate that theArbitrator had failed to make the necessary inquiries for him to come to the conclusion that he
+
+8
+
+has arrived and also has failed to demonstrate that the Arbitrator has not considered the evidencethat is present before him in arriving at his final determination
+
+If the termination is found to be illegal or cannot be justified the normal relief is reinstatement. Inthe book A General Guide to Sri Lankan Labour Law by Mr. S. Egalahewa at page 695,cited the case of Ceylon Ceramics Corporation v Weerasinghe SC 24/76, Supreme CourtMinutes of 15/70/78 (unrep) it was held that as follows,
+
+The Supreme Court pointed out that except in cases falling within Section 33(3), 33(5) and47(c) of the Industrial Disputes Act, a workman wrongfully dismissed will normally be entitled toreinstatement unless there are special circumstances which justified departure from the generalrule. The Court cited Section 33(6) as fortifying this conclusion and added that the order forpayment of compensation is not a matter of course as an alternative to reinstatement in everycase; when there is finding that the termination of service is not justified, sufficient reasonsshould therefore exist to justify a departure from the ordinary relief of reinstatement."
+
+As the Arbitrator had come to the conclusion that there is no sabotage, especially in view of theacquittals in the Magistrate Court action that has been filed against the strikers. We find thatthere is no reason for the Arbitrator to apply the alternative in giving relief to the worker. Thus,the Arbitrators decision on reinstatement cannot be found fault with.
+
+At this stage, in considering the Petitioners allegation, it is important to consider the referencemade for an industrial arbitration. The reference made to the Arbitrator, was to determinewhether Packserve (PVT) Ltds decision to consider the 28 employees as having vacated theiremployment of the company is justified or if not for what relief each of them is entitled to?
+
+This Court will now consider the Arbitrators decision which is marked as P3.
+
+The Petitioners main argument is that in the decision at P3, the Arbitrator has specifically statedthat the Petitioner has failed to file their written submissions at the conclusion of the arbitration.By this statement, the Petitioner alleges that the Arbitrator has violated the rules of natural justiceand not given a fair hearing to the Petitioner. Both parties are not at variance on the fact that thePetitioners have filed their written submissions which are depicted on page 837 of the brief.However, in the P3 order, the Arbitrator has specifically stated that the 4th Respondent has failedto file the written submissions. Thus, in view of the above statement, it is clear that the Arbitratorin arriving at the decision P3, has failed to consider the written submission of the Petitioner.Does it amount to a deprivation of the fair hearing to the Petitioner or as the 4th Respondentsstate whether even if considered, there wouldnt have been changed in the decision. This Courtwill now consider whether the omission to consider the written submissions has materiallyaffected the final determination of the Arbitrator.
+
+9
+
+As per Section 17 (1) of the Industrial Disputes Act, when an industrial dispute is referred, it isincumbent on the arbitrator to make all such inquiries into the dispute as he may considernecessary, hear all evidence that may be tendered by the parties to the dispute and make anaward as may appear to him just and equitable. The Petitioner has failed to demonstrate beforethis Court that the Arbitrator has failed to consider the evidence, nor did he make any allegationsthat the Arbitrator had failed to make all such inquiries into the dispute. Their main grievancewas the Arbitrators failure to consider the written submission that had been filed. However, weare mindful of the fact that the written submissions are not considered as evidence.
+
+This Court observes that the role of an arbitrator in adjudicating an industrial dispute arbitrationis clearly explained in A General Guide to Sri Lanka Labour Law page 171 by Mr. S.Egalahewa, where he has stated as follows, An employer in proceedings before an arbitratorhas no burden to discharge in relation to a dismissal of a workman by him and a workman hasno burden to discharge in respect of showing that the termination is wrongful. The burden is onthe arbitrator to make all such inquiries and make a just and equitable order the duty of thearbitrator is to look for the material and the circumstances surrounding the employment of theworkman and her termination. He can elicit this material in any manner he wants subject only tothe rules of natural justice.
+
+The Petitioner contends that when the Arbitrator gave the order P3, without considering thewritten submission of the Petitioner, he has violated the rules of natural justice i.e. the Petitionerhas not been afforded a fair hearing. This Court cannot agree on this contention as the Petitionerhas appeared in the arbitration, with legal representation. The Petitioner has cross-examined thewitnesses of the 4th Respondent Union and also, on behalf of the Petitioner, several witnesseshave testified. We also had the opportunity of observing the Petitioners written submissions.Curiously the said written submission is dated 12th May 2016. However, there is a date stampfrom the Industrial Courts which states the date as 27th June 2016. In the said written submission,the Petitioner has invited the arbitral tribunal to consider whether the strike is illegal but mainlyhas focused on the evidence led before the Arbitrator. Other than this reference, inviting theArbitrator to ascertain the legality of the strike, the written submission is a re-production of theevidence that has been led before the Arbitrator. In our view, the Arbitrator has considered all theevidence and upon making necessary inquiries pertaining to the legality of the strike has come toa conclusion.
+
+In this context, this Court will now consider whether by not considering the said writtensubmission, the Petitioner had been prejudiced. This Court observes that by P3, the Arbitratorhad considered all the evidence that has been led before him and also evaluated the evidence.The Arbitrator has considered the evidence of one Vijitha Kumara pertaining to the sabotagecharges that have been filed against three members of the 4th Respondent Union and also the factthat after a protracted trial the accused had been discharged. The Arbitrator had considered theallegation of the sabotage of the machines. In his order, he has stated,
+
+10
+
+2014.07.22 17 . .
+
+The Arbitrator had also considered whether the strikers had obstructed the non-strikers fromentering the premises. In answering that he had stated, . 1978 . 2015.05.26 6 08 .
+
+- 1978 2010 2010 . . 04 . 2009 .
+
+The Arbitrator also had given his consideration towards the reduction of the production as aresult of the strike and arrived at the decision on the legality of the strike.
+
+The Petitioner although stating that the Arbitrator had failed to consider their writtensubmissions, has failed to demonstrate to this Court, the points the Arbitrator had failed toconsider which were not in evidence but only stated in the written submissions. The Petitionerhas also failed to demonstrate to this Court parts of the evidence the Arbitrator had notconsidered which would have been vital in arriving at the decision. In our view, a mere statementalleging that the arbitrator has failed to consider the evidence and material before him is notsufficient to impugn the arbitrators decision. It was incumbent on the Petitioner to demonstratethe evidence that had not been considered and also to demonstrate whether the award containedevidence and material that had not been led before the Arbitrator.
+
+We are of the view that the Arbitrator, even if he had failed to consider the written submissionfiled by the Petitioner, has come to the correct conclusion on the evidence and the materialavailable. In our view, the Petitioner has failed to demonstrate that the non-consideration of the
+
+11
+
+written submission has caused a material disadvantage to him. We find that all contentions thathad been summarized in the written submission, elicited at the inquiry, had been considered bythe Arbitrator. We find that the Arbitrator has properly evaluated and considered the evidenceand material that had been led before him. We do not see any irrationality or illegality in theArbitrators award.
+
+Even though the Petitioner had pleaded that the impugned award is arbitrary and ultra-vires, thePetitioner has failed to demonstrate those grounds before the Court. In this instance, this Court isexercising very limited jurisdictions as this is not an appeal. When a decision is challenged byway of certiorari, the role of the Court in such an instance was elaborated in;
+
+Kalamazoo Industries Ltd and Others vs. Minister of Labour & Vocational Training andOthers. (1998 1SLR 235) where it was stated Relief by way of certiorari in relation to anaward made by an arbitrator will be forthcoming to quash such an award only if the arbitratorwholly or in part assumes a jurisdiction which he does not have or exceeds that which he hasor acts contrary to principals of natural justice or pronounces an award which is eminentlyirrational or unreasonable or is guilty of illegality. The remedy by way of certiorari cannot bemade use of to correct errors or to substitute a correct order for a wrong order and if thearbitrators award was not set aside in whole or in part, it had to be allowed to standunreversed. It is pertinent to refer to the principles laid down by Prof. H. W R. Wade onAdministrative Law 12th edition at pages 34 to 35 wherein the learned author states Judicialreview is radically different from the system of appeals. When hearing an appeal, the Court isconcerned by the merits of the decision under appeal but in judicial review, the Court isconcerned with its legality. On appeal, the question is right or wrong. On review, the questionis lawful or unlawful..
+
+Therefore, after considering all the grounds that had been argued by Counsel, we find that thePetitioner has failed to demonstrate any illegality in the impugned award. Accordingly for thereasons set out in the judgment we are not inclined to grant the relief prayed. Thus, thisapplication is dismissed without cost.
+
+Judge of the Court of Appeal
+
+C.P Kirtisinghe, J
+
+I agree
+
+12
+
+Judge of the Court of Appeal
+
+13

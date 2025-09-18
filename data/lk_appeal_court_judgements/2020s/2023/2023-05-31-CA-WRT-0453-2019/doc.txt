@@ -1,0 +1,81 @@
+Page 1 of 5
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC
+
+OF SRI LANKA
+
+In the matter of an Application for an Order in the nature of a Writ of Certiorari under Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka.
+
+Sri Lanka Broadcasting Corporation PO BOX 574, Colombo 07.
+
+Petitioner
+
+Vs
+
+1. K.L.C Harendra
+
+No.650/A/3, Arawwala, Pannipitya 2. A.Wimalaweera
+
+The Commissioner General of Labour, Labour Secretariat, Narahenpita, Colombo 5. 3. Ravindra Samaraweera,
+
+The Minister of Labour and Trade Union Relations, Labour Secretariat, Colombo 5
+
+Court of Appeal Case No.
+
+CA/WRT/0453/2019
+
+Page 2 of 5
+
+4. S. Kariyawasam,
+
+75, Melpitiya, Matale 5. R.M.A.Adhikari,
+
+The Registrar, Industrial Court, 9th Floor, Labour Secretariat, Colombo 5.
+
+Respondents
+
+Before: M. T. MOHAMMED LAFFAR, J.
+
+Counsel: D. Jayakody, instructed by H. Manuhena for the Petitioner.
+
+Ms. A. Gajadeera, SC for the 2nd, 3rd & 5th Respondents.
+
+Argued on: 01.02.2023
+
+Written Submissions on: 02.05.2023 (By the Petitioner)
+
+03.05.2023 (By the 2nd, 3rd, and 4th Respondents)
+
+Decided on: 31.05.2023
+
+Page 3 of 5
+
+MOHAMMED LAFFAR, J.
+
+The Petitioner by the amended Petition seeks, inter-alia, a Writ of Certiorari quashing the award of the Arbitrator marked X11 and the Gazette Extra Ordinary marked as X13 containing the said award on the basis inter-alia that the Arbitrator has exceeded the mandate given to him by the reference and the findings are not supported by evidence adduced before him.
+
+Upon receipt of the complaint made by the 1st Respondent an alleged industrial dispute arose between the Petitioner and the 1st Respondent by not promoting the 1st Respondent to the substantive post commensurate to his qualifications and experience, the Commissioner General of Labour called the parties to explore the possibilities of resolving the dispute. Failing the settlement of the dispute, the Minister of Labour, under section 4 (1) of the Industrial Disputes Act (as amended) made a reference to Arbitration (4th Respondent-Arbitrartor) which is marked as X10 (m). The said reference reads as follows;
+
+Whether Mr. K.L.C. Harendra who is working as the Acting Controller of the Sales Promotion Division of the Sri-Lanka Broadcasting Corporation has been caused injustice by not being confirmed in the post of Controller of the Sports Division and if so, to what reliefs he is entitled.
+
+At the inquiry before the Arbitrator, both parties adduced oral and documentary evidence. The 1st Respondent filed written submissions and the Petitioner opted not to tender written submissions. After inquiry, the Arbitrator had come to a finding that the 1st Respondent has been caused an injustice by not confirming him in the post of Controller Sports. The Arbitrator has also come to a finding that although the Petitioner proposed a settlement to appoint the 1st Respondent to the post of Sports Controller with back wages effective from 18-02-2013, the 1st Respondent ought to have been appointed to the said post from the date he was acting in the said post since 2009. It was further decided by the Arbitrator that if such a post, namely the Sports Controller does not exist in the Carder, the 1st Respondent is to be appointed to the post of Director (Sales and Promotions) with effect from the same date with back wages, enabling him to supervise the work in the Sports Division.
+
+First of all, I have to ascertain whether the Arbitrator has exceeded the mandate given to him by the reference. In terms of the reference marked X10 (m) the Arbitrator had been directed to decide as to whether the
+
+Page 4 of 5
+
+Petitioner has caused injustice to the 1st Respondent by not confirming the latter in service. If it is so, the Arbitrator had been further directed to decide the reliefs to be given to the 1st Respondent. Admittedly, in terms of the evidence adduced, the Arbitrator has rightly determined that the 1st Respondent has been caused injustice. Thereafter, as per the reference, the Arbitrator is empowered to decide the suitable reliefs to be granted to the 1st Respondent. Having scrutinized the evidence adduced, the Arbitrator has given the aforesaid reliefs to the 1st Respondent. At this juncture, it is pertinent to be noted that the Petitioner had proposed a settlement before the Arbitrator, to promote the 1st Respondent to the post of Sports Controller with effect from 18-02-2013. In these respects, it is the view of this Court that the Arbitrator has not exceeded the mandate given to him by the reference.
+
+As such, the central issue to be decided by the Arbitrator was the date from which the back wages were to be calculated. The Arbitrator has rightly drawn his mind to the document marked X9 (p) which was also produced as A13 in the Arbitration Proceedings (Board Paper). As per the said document, the 1st Respondent has been acting as a Sports Controller since 2009. Moreover, in terms of the evidence adduced by the 1st Respondent, it was well established that the Petitioner by conduct and practice has recognized the 1st Respondent as the Sports Controller in official correspondence, since 2009.
+
+In this scenario, there is a duty cast upon the Petitioner to justify the reasons for the inability to confirm the 1st Respondent in the post of Sports Controller whereas the Petitioner failed to do so. It is pertinent to be noted that the Petitioner failed to produce the Scheme of Recruitment before the Arbitrator to establish its contention that the Sports Controller/Director Sports is non-existence. In the absence of the Scheme of Recruitment, the Arbitrator has no option but to make an order to confirm the 1st Respondent either to the post of Sports Controller or Director Sports. It is surprising to me that there is no Scheme of Recruitment at the Petitioner Corporation as per the evidence given by the Officers of the Petitioner. At this point, under section 114 (f) of the Evidence Ordinance, the Court can draw the presumption that, had the Petitioner produced the Scheme of Recruitment such evidence would have been unfavourable to the case of the Petitioner.
+
+Page 5 of 5
+
+It is also to be noted that the Petitioner without any reason failed to file its written submissions and marked documents before the Arbitrator and therefore, the Arbitrator having scrutinized the oral and documentary evidence produced before him made a just and equitable Award.
+
+In those circumstances, I see that there is no basis to quash the Arbitration Award marked as X11 and the Extra Ordinary Gazette marked X 10 (m) containing the said Award. Thus, the application is dismissed. No costs.
+
+Application dismissed.
+
+JUDGE OF THE COURT OF APPEAL

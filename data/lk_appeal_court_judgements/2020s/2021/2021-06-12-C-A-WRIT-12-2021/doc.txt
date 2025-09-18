@@ -1,0 +1,87 @@
+1
+
+IN THE COURT OF APPEAL
+
+OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA
+
+In the matter of an application under and in terms of Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka for a mandate in the nature of Writs of Certiorari and Mandamus. 1. J. G. S. Senadhira 2. J. P. Senadhira
+
+Both of Ridiyapana, Kandy Road, Warakapola. 3. M. D. Anura Kumara
+
+School Lane, Ma Innoluwa, Warakapola
+
+Petitioners Vs.
+
+1. A.M. Rangana Sajeewa
+
+Divisional Secretary, Divisional Secretariat, Warakapola.
+
+2. Director General,
+
+Road Development Authority, Maga Neguma Maha Medura, Denzil Kobbekaduwa Mawatha, Battaramulla
+
+3. Hon. Minister of Highways,
+
+Ministry of Highways, Maga Neguma Maha Medura, Denzil Kobbekaduwa Mawatha, Battaramulla.
+
+CA Writ Application
+
+No. 12/2021
+
+2
+
+4. Director General, Central Environment Authority, Parisara Piyasa No. 104, Denzil Kobbekaduwa Mawatha, Battaramulla. 5. Director General, Irrigation Department, No.230, Bauddhaloka Mawatha,
+
+Colombo 07. 6. K. G. T. N. Kiriella, Director (Sabaragamuwa), Central Environmental Authority, District Office, Kegalle. 7. Secretary to the Ministry of Highways Ministry of Highways, Maga Neguma Maha Medura, Denzil Kobbekaduwa Mawatha, Battaramulla. 8. Hon. Janaka Bandara Thennakoon, Hon. Former Minister of Lands, Mihikatha Medura, Land Secretariat, No. 1200/6, Rajamalwatta Road, Battaramulla. 8A. Hon. S. M. Chandrasena, Hon. Minister of Lands, Mihikatha Medura, Land Secretariat,
+
+No. 1200/6,
+
+3
+
+Rajamalwatta Road, Battaramulla. 9. Secretary to the Ministry of Lands, Ministry of Lands, Mihikatha Medura, Land Secretariat,
+
+No. 1200/6, Rajamalwatta Road, Battaramulla. 10. Sri Lanka Land Reclamation and
+
+Development Corporation, PO Box. 56, No. 03, SriJayawardenapura Mawatha, Welikada, Rajagiriya. 11. Urban Development Authority, 6th and 7th Floors, Sethsiripaya, Battaramulla.
+
+12. Hon. Attorney General, Attorney Generals Department, Colombo 12.
+
+Respondents
+
+Before: Arjuna Obeyesekere, J / President of the Court of Appeal Mayadunne Corea, J Counsel: Dr. Sunil Cooray with Kumar Dunusingha Attorney-at-Law for the Petitioner. Suranga Wimalasena Senior State Counsel with M. Amarasinghe State Counsel for the Respondents. Supported on: 11th February, 2021
+
+4
+
+Decided on: 21st May, 2021 Mayadunne Corea, J The Petitioners are all residents of Warakapola. A project to construct an alternative bypass road to Warakapola town had commenced and the said project was to be completed in two stages. The 1st stage had commenced and is now completed. For the 2nd stage to proceed the lands for the proposed projects had been acquired and the occupants had been asked to vacate the said premises. The Petitioners lands had been acquired for the said project. There was no dispute between the parties pertaining to the publication of the gazette notification under section 5, section 7 and section 38A of the Land Acquisition Act. The Learned Counsel for the Petitioners submitted that subsequent to the said gazette notifications the Petitioners had been asked to hand over the possession of their lands and as they have failed to do so action has been filed in the Magistrates Court of Warakapola bearing Case No. 3270. The Petitioners have filed this application before this Court and Inter alia have sought a Writ of Certiorari to quash the approval granted by the Central Environmental Authority in terms of Regulation 9(1) of the National Environmental (procedure for approval of projects) Regulation No. 01 of 1993 as amended by Gazette Extra Ordinary No. 1159/22 dated 2nd November 2000 for the implementation of the construction of the Warakapola town alternative bypass road project marked as P29. The Petitioners have also sought to quash the Notices published under proviso (a) of Section 38 (P4B), under section 5 (P6A) and under section 7 of the Land Acquisition Act (P13). Complaint of the Petitioners The complaint of the Petitioners Counsel to this Court were three-fold. Namely that:
+
+Central Environmental Authority should not have given approval to the project as
+
+there is no necessity to have a bypass road; The Central Environmental Authority has failed to consider the flood situation that
+
+is in existence and that may occur as a result of this project; The Central Environmental Authority has given its approval to the project despite
+
+the Irrigation Department not approving the said project.
+
+5
+
+Learned Counsel for the Petitioners further submitted that the proposed alternative road may cause a hindrance to the smooth flowing of a river named Kuda Oya, and as a result of the embankments being built for the construction of the alternative road, during the rainy season the whole area may be flooded. It is apparent that the Petitioners main concern is that as a result of the construction of this alternate bypass road the entire area will be flooded. The Learned Senior State Counsel appearing for the Respondents submitted that they wish to take several preliminary objections pertaining to the maintainability of this application. The Learned Senior State Counsels main contention was that this application should be dismissed due to excessive delay and for the reason that the facts are in dispute. The Learned Counsel also took up an objection on the basis of futility of this application. This Court will now consider the said objections. The Petitioners are challenging the gazette notification published under proviso (a) of section 38 of the Land Acquisition Act. The said notice is published in Extraordinary Gazette No. 1841/12 of 19th December 2013. The Petitioners have marked the said Gazette as P4B. The Petitioners have also challenged the section 5 notification under the Land Acquisition Act which has been published in the Extraordinary Gazette No. 1868/2 dated 23rd June 2014 and also the notification under section 7 of the Act published in Extraordinary Gazette No. 1912/5 dated 28th April 2015. To challenge the said gazette notifications, the Petitioners have filed this Writ application in the year 2021. It is also pertinent to note that the Petitioners have failed to give any cogent reasons to the satisfaction of this Court to purge the delay. Further, it is observed by this Court that the Petitioners have failed to submit any documents to show that they have objected to the acquisition of their land. When questioned by Court, the Learned Counsel for the Petitioners admitted that they had not objected to the acquisition. It was held in Bisomanike Vs. Cyril De Alwis and Others (1982) 1 SLR 368 The Proposition that the application for Writ must be sought as soon as injury is caused is merely an application of the equitable doctrine that delay defeats equity and the longer the injured person sleeps over his rights without any reasonable excuse the chances of his success in a Writ application dwindle and the Court may reject a Writ application on the ground of unexplained delay.
+
+6
+
+This position has been reiterated in the case of Sarath Hulangamuwa Vs. Siriwardena Principal Visaka Vidyalaya Colombo 05 and others (1986) 1SLR 275. Accordingly, the Respondents 1st objection based on delay succeeds. The Petitioners main concern is that by the proposed alternative road the entire Warakapola town area would be flooded. Learned Counsel for the Petitioners, in his submission referred to the document P1A which is an initial Environmental Examination Draft Final Report which is dated August 2015. The Learned Senior State Counsel in his submission drew the attention of this Court to the document marked R27 which is the Initial Environmental Examination Final Report dated February 2019. He submitted to this Court that the Petitioners have suppressed this report and this report has addressed all their fears. In compiling this report the Hydrological impacts pertaining to this construction has been considered. In the IEER, due consideration has been given to the reduction of flood retention capacity discharge level and in compiling the report they have considered 50- and 100-year rainfall return periods. It has been proposed to construct three sections of the road over VIA-DUCT and also to construct several culverts and bridges. The IEER has also considered the impact on natural drainage patterns and made necessary proposals in the construction of embankments to minimize the impact on natural drainage pattern of the area. Also, it has been suggested to keep adequate cross drainage structures. The report also has proposed to keep a close monitoring of the surface water to see whether there would be any deterioration of the water quality. The IEER also has taken to account the impact on ground water table and the existing storm water drainage system. They have also considered the impact on irrigation flood protection in the area. The Learned Senior State Counsel further submitted that as a result of this alternate road which is being built, not only would there be no flooding in the area but even if there is an existing retention of water that too would subside as there would be a better drainage system in place. The Hydrology Study Report was marked as R29 and it was submitted that it has been specially done by Sri Lanka Land Reclamation and Development Corporation (SLLRDC). The hydrology study report page 52 was drawn to the Courts attention. Accordingly, it is clear that as per the recommendations and remarks, preventive measures have been proposed to avoid flooding during the construction period and the post construction period. According to the submissions of the Learned Counsel, it is evident that even at present the Kandy-Colombo main road becomes heavily congested in Warakapola. All parties were not at variance on this. As submitted by the Learned Senior State Counsel, which was not
+
+7
+
+disputed by the Learned Counsel for the Respondent, this Court observes that for the Warakapola bypass road project, acquisition of 127 lots of land had been completed. Section 10(1) inquires under the Land Acquisition Act pertaining to 124 lots had commenced and concluded. The only remaining 3 lots belongs to the Petitioners of this case. As per the document R33 it is evident that payments for 87 lots have been completed thus far. Both parties before this Court agreed that the 1st stage of this project is completed and is in use. This Court is mindful of the fact that the acquisition of land for this particular project had commenced in the year 2013. Accordingly, the Petitioners submissions that there is no necessity to acquire land for an alternate bypass road becomes futile. This Court is of the view that the Petitioners ground to obtain a Writ is defeated on the basis that the they have not objected to the gazette notification under section 5 and section7 at the time it was published in 2014. Considering the documents R27 and R28 this Court is satisfied that as per the final draft of the IEER the Central Environmental Authority has followed the due process before P29 had been issued. The impugned document P29 clearly demonstrate that it had considered the IEER dated 15th February 2019 which was marked as R27. The next ground the Petitioners impugned in P29 is that in arriving at the decision there in, the Central Environmental Authority had not considered the concerns of the Irrigation Department. The said concerns of the Irrigation Department are marked as P2B and dated 23rd December 2009. In the said letter the Irrigation Department has recommended to consider the Hydrology pattern and the possibility of floods in giving approval to the construction of new roads. However, this Court also considered the document marked R29 which is dated 26th March 2019. In this document the Irrigation Department has written to the Central Environmental Authority and stated as follows. considering the revised IEER and the hydrology report updated by SLLRDC, Irrigation Department has no objection to the above project subject to a condition. Accordingly, the contention of the Petitioners that P29 had been issued without approval of the Irrigation Department fails. The Learned Counsel for the Petitioners in his submissions attempted to contest the correctness and validity of the IEER and the Hydrology Study Report but this Court finds that the Petitioners have failed to submit any alternative study report to substantiate the submission or to impeach the correctness of the IEER and the Hydrology Report.
+
+8
+
+In the absence of an alternative report this Court is not inclined to accept the said submission of the Learned Counsel for the Petitioners. It is also observed that the Petitioners fears pertaining to flooding are based on assumptions. Accordingly, for the reasons set out above in this Judgement this Court refuses to grant formal notice and this application is dismissed without cost.
+
+Judge of the Court of Appeal
+
+Arjuna Obeyesekere, J/ President of the Court of Appeal
+
+I agree.
+
+President of the Court of Appeal

@@ -1,0 +1,73 @@
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST
+
+REPUBLIC OF SRI LANKA Court of Appeal Case No: CA BA 09/2017 Magistrates Court of Kayts Case No: B. 222/16
+
+Head Quarters Inspector Police Station Kayts
+
+COMPLAINANT Vs. Arasarathnam Yoganadan Puliyankadal, Kayts (Presently in Remand)
+
+SUSPECT AND NOW BETWEEN Arasarathnam Yoganadan Puliyankadal, Kayts. (Presently in Remand)
+
+SUSPECT -PETITONER Vs. 1. Head Quarters Inspector Police Station, Kayts.
+
+COMPLAINANT -RESPONDENT 2. Hon. Attorney General Attorney Generals Department, Colombo 12.
+
+RESPONDENT
+
+C.A. Bail 09/2017 M.C. Kayts case No: B 222/2016
+
+Before Deepali Wijesundera,J. &
+
+L. U. J ayasuriya,J.
+
+Counsel Asela Sresinghe for the Petitioner.
+
+N ayana Seneviratne SSC. for the Respondent.
+
+Argued &
+
+Decided on 17.07.2017
+
+*******
+
+Deepali Wijesundera,J.
+
+Learned Senior State Counsel informs Court that they are
+
+not objecting to bail considering the time the petitioner has been
+
+in remand. She brings to the attention of Court, Section 10 of the
+
+Assistance to and Protection to Victim of Crime and Witness Act
+
+2015 .
+
+The petitioner IS released on cash bail In a sum of Rs:
+
+25,000/ - with two sureties acceptable to the learned Magistrate.
+
+In view of Section 1 O( 1) of the above Act, we order that the
+
+petitioner should not have any contact with the complainant. In
+
+1
+
+the event that he violates the said order his bail should be
+
+cancelled immediately by the relevant Magistrate.
+
+Registrar is directed to send a copy of this bail order to the
+
+Magistrate's Court. Application for bail is allowed.
+
+JUDGE OF THE COURT OF APPEAL
+
+L. U. J ayasuriya,J.
+
+I agree.
+
+JUDGE OF THE COURT OF APPEAL
+
+Jmrj-
+
+2

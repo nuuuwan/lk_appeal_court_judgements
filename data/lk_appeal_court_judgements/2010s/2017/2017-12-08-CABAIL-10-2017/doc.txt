@@ -1,0 +1,89 @@
+IN THE COURT OF APPEAL OF THE DEMOCRAIC SOCIALIST
+
+REPUBLIC OF SRI LANKA.
+
+Court of Appeal Case No : CA BAIL /10/2017
+
+The Offcer in Charge
+
+Police Station,
+
+Nawagamuwa
+
+Petitioner
+
+Vs.
+
+Katugampalage Ganarathane
+
+No. 311/F/1,
+
+School Avenue,
+
+Kothalawala,
+
+Kaduwela.
+
+Respondents
+
+CA Bai.~ 10/2017 MC-Kaduwe~a-B 4998/2016
+
+Before Deepa~i. Wi.jesundera, J. &
+
+L.U. Jayasuri.ya, J.
+
+Counsel Nuwan Jayawardena for the Suspect
+
+Petitioner
+
+Jude Nanayakkara, SSC for AG
+
+Decided on 29.11.2017
+
+Deepa~i. Wi.jesundera, J.
+
+Learned Senior State Counsel informs Court that he has no
+
+objection for bail being granted since the evidence of the
+
+victim has been concluded. Therefore, we decided to grant
+
+bail for the Suspect petitioner.
+
+The suspect-petitioner is released on cash bail in a sum of
+
+Rs. 25,000/-(Twenty Five Thousand) with two sureties
+
+acceptable to the learned Magistrate of Kaduwela.
+
+Registrar is directed to convey this order to the relevant
+
+Magistrate's Court.
+
+Registrar is also directed to issue a certified copy of
+
+this order to the petitioner on payment of usual charges.
+
+.,
+
+."\
+
+Application for bail is granted.
+
+JUDGE OF THE COURT OF APPEAL
+
+L.U. Jayasuriya, J.
+
+I agree.
+
+JUDGE OF THE COURT OF APPEAL
+
+LA/-
+
+i I' ! rI1!!, !i I I If JI I,
+
+~
+
+, !
+
+i i

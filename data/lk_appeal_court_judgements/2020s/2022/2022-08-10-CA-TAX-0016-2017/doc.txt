@@ -1,0 +1,223 @@
+1
+
+CA No. CA TAX 0016/2017 TAC/IT/028/2015
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC
+
+SOCIALIST REPUBLIC OF SRI LANKA
+
+In the matter of an appeal by way of Stated Case on a question of law for the opinion of the Court of Appeal under and in terms of Section 11A of the Tax Appeals Commission Act, No. 23 of 2011 (as amended).
+
+Commissioner General of Inland Revenue, Department of Inland Revenue, Inland Revenue Building, Sir Chittampalam A, Gardiner Mawatha, Colombo 02. APPELLANT CA No. CA/TAX/0016/2017 Tax Appeals Commission No. TAC/IT/028/2015 v. Lignocell (Pvt) Ltd. No. 400, Deans Road, Colombo 10.
+
+RESPONDENT
+
+BEFORE : Dr. Ruwan Fernando J. & M. Sampath K. B. Wijeratne J.
+
+COUNSEL : N. Wigneswaran, D.S.G. for the Appellant.
+
+Dr. Shivaji Felix with Nivantha Satharasinghe for the Respondent.
+
+2
+
+CA No. CA TAX 0016/2017 TAC/IT/028/2015
+
+WRITTEN SUBMISSIONS : 16.01.2020 & 27.08.2018 (by the Appellant) 16.01.2020 & 20.08.2018 (by the Respondent) ARGUED ON : - DECIDED ON : 10.08.2022
+
+M. Sampath K. B. Wijeratne J.
+
+Introduction
+
+The Respondent, Lignocell (Pvt) Ltd is a limited liability company incorporated in Sri Lanka engaged in the export of coir fibre pith in its offshore business. The Respondent submitted its income tax returns for the taxable period 2009/2010 and 2010/2011 in which the Respondent claimed a tax exemption under Section 16 of the Inland Revenue Act No. 10 of 2006 (hereinafter referred to as IR Act) on the ground that coir fibre pith prepared by the company for the market is an agricultural produce in terms of Section 16 (2) (b) of the IR Act.
+
+The Assessor rejected the return on the ground that the Respondents undertaking is a manufacturing process which converts an agricultural product into another and therefore the Respondents product is not an unprocessed agricultural product1. Thereafter, the Assessor, proceeded to issue assessments.
+
+The Respondent company appealed to the Commissioner General of Inland Revenue (hereinafter referred to as CGIR) against the said assessments. The CGIR heard the appeal2 and made his determination confirming the
+
+1 Assessors letter dated 30th May 2012 issued under Section 163 (2) of the I.R. Act, at p. 103 of the appeal brief. 2 At pages 110 to 112 and 114, 115.
+
+3
+
+CA No. CA TAX 0016/2017 TAC/IT/028/2015
+
+assessments and the same was communicated to the Respondent along with letter dated 20th October 2014.
+
+The aggrieved Respondent appealed to the Tax Appeals Commission (hereinafter referred to as TAC) against the determination of the CGIR. The TAC by its determination dated 27th April 2017 allowed the appeal of the Respondent holding that the Respondent is entitled to the tax exemption claimed under Section 16 (2) (b) of the IR Act. Thereafter, the Appellant, CGIR moved the TAC to state a case to this Court on four questions of law.
+
+The four questions of law read as follows;
+
+1. Whether the Tax Appeals Commission misdirected itself in law
+
+on deciding coconut fibre pith is an agricultural produce in terms of section 16 (2) (b) of the Inland Revenue Act No. 10 of 2006. 2. Whether the Tax Appeals Commission has unreasonably come
+
+to the conclusion having misconceiving legal provision of the said act.
+
+3. Whether the exemption from income tax granted by section 16
+
+(2) (b) is applicable to the person or partnership that buy the agricultural product from outside and produce different thing and sell them. 4. If it is so whether the exemption has to be granted to whole chain
+
+of persons or partnerships involved into several steps alone with one agricultural product.
+
+Statutory provisions
+
+In the interest of clarity, I will reproduce Section 16 of the IR Act which is subject to scrutinization by both parties.
+
+16. (1) The profits and income within the meaning of paragraph (a)
+
+of section 3, other than any profits and income from the disposal of any capital asset, of any person or partnership from any agricultural undertaking carried on in Sri Lanka, shall be exempt from income tax for each year of assessment within the period of five years, commencing on April 1, 2006.
+
+4
+
+CA No. CA TAX 0016/2017 TAC/IT/028/2015
+
+(2) In this section agricultural undertaking means
+
+(a) an undertaking for the purpose of the production of any agricultural, horticultural or any dairy produce;
+
+(b) an undertaking for the cleaning, sizing, sorting, grading, chilling, dehydrating, packaging, cutting, canning for the purpose of changing the form, contour or physical appearance of any produce referred to in paragraph (a), in preparation of such produce for the market; or (c) any undertaking for the conversion of any produce referred to in paragraph (a) into such product as may be specified by the Commissioner-General, by Order published in the Gazette. (3) In relation to an undertaking which consists of the production of any agricultural, horticultural or dairy produce and utilizing such produce to manufacture any product (other than any product specified under paragraph (c) of subsection (2) ), such produce shall be deemed to have been sold for the manufacturer of such product at the open market price prevailing at the time of such deemed sale, and the exemption granted under subsection (1) shall be applicable to that undertaking, on the profits and income computed on the basis of such deemed sale. Factual background
+
+As I have already stated above in this judgment, the Respondent claimed the tax exemption under Section 16 (2) (b) of the IR Act. Section 16 (2) (b) applies to any produce referred to in Section 16 (2) (a). The primary issue to be determined on the case stated to this Court is whether coconut fibre pith is an agricultural produce3. If it is so the secondary issue arises as to whether the process of preparation of coir fibre pith to the market falls within the acts specified in Section 16 (2) (b).
+
+According to the Respondent, the production process adopted by the Respondent is cleaning, sorting, dehydration and processing coir fibre
+
+3 Question of Law No. 1 in the case stated.
+
+5
+
+CA No. CA TAX 0016/2017 TAC/IT/028/2015
+
+pith4. The Respondent described the above activities as an agricultural undertaking within the scope of Section 16 (2) (b).
+
+The Respondent cited three cases involving Canro Coco Peat (Private) Limited v. CGIR5 and submitted that the TAC has made a similar decision holding that the processing of coir fibre pith by cleaning, sorting, grading and packing to bring it to a marketable product fall within the ambit of Section 16 (2) (b). In all three cases the CGIR, moved the TAC to state a case to the Court of Appeal but later withdrew all three appeals.6
+
+The Respondent argued that the withdrawal of the appeal amounts to a tacit admission of the correctness of the TAC determination. The Appellants reply was that those were settlements and also were not involving the identical product. However, the documents annexed to the Respondents written submissions marked X1, X2 and X3 clearly establish that in all those three cases the matters in issue were the income tax exemption claimed for exporting coir fibre separated from the coconut husk and sorted, graded and packed into bundles. Be that as it may, since this Court has not delivered any judgment in those three cases, the orders made allowing the withdrawal of the appeal on the application of the Appellant cannot be considered as a binding precedent of this Court.
+
+The Appellant cited the judgement of the Madras High Court in Commissioner of Income Tax v. Stanes Amalgamated Estates Ltd.7 wherein the Court adopted the approach that the produce must retrain its original character in spite of the process. It was held that Eucalyptus oil extracted from the leaves were not agricultural produce. However, it is important to note that the relevant Section in the Indian statute and our statue are materially different. Therefore, in my view the judgement of the Indian High Court cannot be even a guideline in deciding the case in hand.
+
+The Appellant further argued that the Respondent's production process involves manufacture of agricultural products and not production of such products. The Appellant relied on the Respondents own Notes to The Financial Statements for the year ended on 31st March 2011 wherein the Respondents accountants KPMG had stated that the Respondents principal activity is the manufacture and export of coir fibre pith
+
+4 At paragraph 35 of the consolidated written submissions filed by the Respondent on the 16th June 2020. 5 TAC No. IT/001/2012, TAC No. IT/010/2012, TAC No. IT/019/2013. 6 CA Tax 4/2012, CA Tax 24/2013, CA Tax 3/2014. 7 (1998) 232 ITR 443 Mad.
+
+6
+
+CA No. CA TAX 0016/2017 TAC/IT/028/2015
+
+compressed into various shapes for use in horticulture and agriculture. The Appellant also drew the Court's attention to the fact that the financial statements refer to direct materials, raw materials and finished goods etc., and submitted that these references are a clear indication of a manufacturing process. It was also stated that the reference to a factory, machinery, laboratory, and the renewal of a patent indicates a manufacturing process which uses highly sophisticated machineries.
+
+The Respondents reply to the above submission made by the Appellant was that an appeal by way of a case stated is not the forum to dispute the production process adopted by the Respondent. The Respondents position is that this was a matter never in issue either before the CGIR or the TAC and therefore, should be considered as an admitted fact. The Appellant also submitted that the evidence before this Court regarding the manufacturing process of coir fibre pith is limited, possibly deliberately.
+
+However, in my view, the Court must first examine the process adopted by the Respondent to decide whether such process falls within the Section 16 (2) (b).
+
+Analysis
+
+In this case, the process of cleaning, sorting and dehydrating involves a process done by machines. Similarly, making of refined coir fibre pith into various shapes are also done by means of machines. The Appellant impliedly stated that, by having a patent by the Respondent company suggests the fact that there is a complex manufacturing process. However, it could be the Defendant's machinery that is patented. On the other hand, it is within common knowledge that not only complex inventions but also simple procedures are also be patented. Therefore, having a patent over the manufacturing process itself will not establish the fact that it is a complex manufacturing procedure.
+
+The Oxford English Dictionary8 defines Manufacture as follows;
+
+To work up (material) into forms suitable for use.
+
+The meaning of the word Manufacture with regards to patent is defined in Blacks Law Dictionary9 as follows;
+
+8JA Simpson and ESC Weiner, The Oxford English Dictionary (2nd edn, Clarendon Press 1989). 9 BA Garner, Blacks Law Dictionary (11th edn, Thomson Reuters 2019).
+
+7
+
+CA No. CA TAX 0016/2017 TAC/IT/028/2015
+
+A thing that is made or built by a human being (or by a machine), as distinguished from something that is a product of nature; esp, any material form produced by a machine from an unshaped composition matter.
+
+Hence, it is apparent that the process of cleaning, sorting and dehydration falls well within the definition of manufacture and not always sophisticated as stated by the Appellant. Sometimes it may be by way of a natural process. The process by which sap collected from coconut flower is turned into coconut toddy, a natural alcoholic drink, by exposing to air is a classic example for this.
+
+Another presupposition of the Appellant is that the reference made to raw materials, direct materials and finished goods in the Respondents Financial Statements is a clear indication that the original material is raw and requires processing. This contention is acceptable to me but it could still be cleaning, sorting and dehydrating under Section 16 (2) (b). Thus, in my view mere word manufacture in the Financial Statement is not an indication that the Respondents preparation of coir fibre pith to the market involves a process other than the process admitted by the Respondent, which is cleaning, sorting and dehydration.
+
+The Assessor, rejected the Income Tax return of the Respondent on the ground that manufacture of coir fibre pith is manufacturing of an article out of agricultural produce and such process amounts to conversion of agricultural produce into another product. As I have already stated above in this judgement, the Respondent claimed that their manufacturing process is only cleaning, sorting and dehydrating. If the Assessor or the CGIR were not satisfied of the Respondents claim, they could have easily ascertained the process by calling further proof or even by carrying an inspection, which they have failed to do.10 In appeal, the CGIR rejected the Respondents appeal and confirmed the assessment on the ground that the agricultural produce referred to in Section 16 (2) (a) in respect of this case is coconut. It was further stated in the CGIRs determination that to claim the tax exemption under Section 16 (2) (b), the Respondents business activity should be preparing coconut into a marketable state. The CGIR would have arrived at this conclusion on the basis that coconut kernel is the primary produce of the coconut tree. Even if it is accepted as correct, one cannot exclude fibre pith as it also forms part of the coconut husk, just
+
+10 Section 214 and 215 of the IR Act.
+
+8
+
+CA No. CA TAX 0016/2017 TAC/IT/028/2015
+
+like the coconut kernel. The coconut itself is hardly useful as an agricultural product. The parts of the coconut have to be extracted in order to be used.
+
+It is within common knowledge that sap collected from the coconut flower is allowed to be fermented by the simple process of exposing it to air and converting it into toddy. Coconut sap is also converted to sugar syrup (treacle) or jaggery by simply heating at a high temperature and allowing the excess water to evaporate. Likewise, coconut shells, fibre and fibre pith are also used to manufacture various products. The issue is whether such preparation falls within the ambit of Section 16 (2) (b).
+
+The Income Tax exemption under Section 16 (2) (a) is granted to an undertaking for the purpose of production of any agricultural, horticultural or dairy produce. Section 16 (2) (b) applies to an undertaking for the cleaning, sizing, sorting, grading, chilling, dehydrating, packaging, cutting, canning for the purpose of changing the form, contour or physical appearance of any produce referred to in Section 16 (2) (a), in preparation of such produce for the market. Section 16 (2) (c) applies to any undertaking for the conversion of any produce referred to in Section 16 (2) (a) into such product as may be specified by the CGIR by order published in the Gazette. Section 16 (3) applies to an undertaking which consists of production of any agricultural, horticultural or dairy produce and utilizing such produce to manufacture any product (other than any product specified under Section 16 (2) (c)).
+
+N.S. Bindra11 cited the Privy Council decision in the case of Robertson v. Day12 wherein it was held that It is a legitimate rule of construction to construe words in an Act of Parliament with reference to words found in immediate connection with them.
+
+From the above analysis it appears to me that the words product/ production and produce have two different and distinct meanings within Section 16 of the IR Act.
+
+Unlike, ordinary trees, coconut trees are grown as a commercial crop to produce coconuts of which the kernel is used for consumption and various other products which are used for manufacturing numerous items. Therefore, no doubt can exist as to the fact that coconut cultivation is an agricultural undertaking. Coconut trees produce food, industrial products, and raw materials such as coconut fibre, fibre pith etc. Therefore, coconut
+
+11 Twelfth Edition, at p. 359. 12 5 App Cas 62.
+
+9
+
+CA No. CA TAX 0016/2017 TAC/IT/028/2015
+
+is not the only product/ produce within the meaning of Section 16 of the IR Act.
+
+The TAC correctly identified that the words agricultural undertaking referred to in Section 16 (2) covers three categories of activities namely (a) actual agricultural activities, (b) activities of specified processing of agricultural produce referred in (a), and (c) the conversion of agricultural produce referred in paragraph (a) into the products specified by the CGIR by order published in the Gazette. Therefore, any undertaking which falls within those three categories would qualify for the tax exemption.
+
+It is a general rule of interpretation that in a case of an ambiguity or doubt regarding an exemption in a fiscal statue it should be resolved in favour of the revenue and not in favour of the Assessee.13 The Indian Supreme Court observed in the case of Novapan India Ltd. v. Collector of Central Excise and Customs14 that;
+
+() that a person invoking an exception or an exemption provision to relieve him of the tax liability must establish clearly that he was covered by the said provision. In case of doubt or ambiguity, benefit of it must go to the State.
+
+In Commissioner of Central Excise v. Hari Chand Shri Gopal15, it was observed that:
+
+A person who claims exemption or concession has to establish that he is entitled to that exemption or concession A provision providing for an exemption, concession or exception, as the case may be, has to be construed strictly with certain exceptions depending upon the settings on which the provision has been placed in the Statute and the object and purpose to be achieved.
+
+However, there are numerous instances where Courts have departed from the aforesaid general rule of interpretation.
+
+In the case of Nanayakkara v. University of Peradeniya16 wherein S. N. Silva J., (as His Lordship was then) held as follows regarding the manner in which a tax exemption must be interpreted:
+
+13 Liberty Oil Mills Pvt. Ltd. Bombay v. Collector of Central Excise, Bombay (1995) SCC 451. 14 (1994 Supp (3) SCC 606). 15 Civil Appeal Nos. 1878-1880 of 2004. 16 (1991)1 Sri. LR 97.
+
+10
+
+CA No. CA TAX 0016/2017 TAC/IT/028/2015
+
+A necessary corollary of applying the rule of strict construction to determine liability under a taxing statute, is that any provision granting an exemption from such liability is to be given its full effect. Exemptions are provided for by the Legislature for the purpose of giving a measure of relief to a person who would otherwise be liable to tax under the general rule. Therefore, no restriction should be placed on such provisions by way of interpretation so as to defeat the purpose of granting such exemption.
+
+In the more recent decision The Government of Kerala v. Mother Superior Adoration Convent17, Indian Supreme Court observed that exemptions claimed by taxpayers are beneficial and promotional exemptions and therefore, have to be liberally interpreted:
+
+[] the rule regarding exemptions is that exemption should generally be strictly interpreted but beneficial exemptions having their purpose as encouragement or promotion of certain activities should be liberally interpreted. This composite rule is not stated in any particular judgment in so many words. In fact, majority of the judgements emphasise that exemptions are to be strictly interpreted while some of them insist that exemptions in fiscal statues are to be liberally interpreted giving an apparent impression that they are contradictory to each other. But this is only apparent. A close scrutiny will reveal that there is no real contradiction amongst the judgements at all. The synthesis of the views is quite clearly that the general rule is strict interpretation while special rule in the case of beneficial and promotional exemption is liberal interpretation. The two go very well with each other because they related to two different sets of circumstances.
+
+In my view, agricultural, horticultural or dairy produce referred to in Section 16 (2) (a) is the primary produce. If such produce is subjected only to the processing specified in Section 16 (2) (b), such product falls within the income tax exemption under Section 16 (2) (b). If produce referred to in Section 16 (2) (a) is converted to any product specified under Section 16 (2) (c), such product also falls within the exemption. If any agricultural, horticultural or dairy produce is utilized to manufacture any product other than a product specified in Section 16 (2) (c) and the same falls within Section 16 (3), the exemption is applicable to such an undertaking as well.
+
+From the above overall analysis, it is my considered view that the process adopted by the Respondent is cleaning, sorting and dehydration for the
+
+17 AIR (2021) SC 1271.
+
+11
+
+CA No. CA TAX 0016/2017 TAC/IT/028/2015
+
+purpose of changing the form and or physical appearance of coconut fibre pith. Therefore, the Respondents business falls within the definition of an agricultural undertaking under Section 16 (2) (b) of the IR Act.
+
+Thus, having considered all arguments presented to this Court, I hold that the TAC has not erred arriving at its determination.
+
+Accordingly, I answer all four questions of law in the negative in favour of the Respondent.
+
+1. No.
+
+2. No.
+
+3. No. There is no basis to arrive at such a conclusion.
+
+4. No. Tax exemption has to be granted only to the persons who
+
+satisfy the conditions specified in Section 16.
+
+In light of the answers given to the above four questions of law, acting under Section 11 A (6) of the TAC Act, I affirm the determination made by the TAC and dismiss this appeal.
+
+The Registrar is directed to send a copy of this judgment to the Secretary of the TAC.
+
+JUDGE OF THE COURT OF APPEAL
+
+Dr. Ruwan Fernando J.
+
+I Agree.
+
+JUDGE OF THE COURT OF APPEAL

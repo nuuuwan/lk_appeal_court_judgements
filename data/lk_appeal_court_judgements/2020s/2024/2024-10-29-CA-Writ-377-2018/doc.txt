@@ -1,0 +1,145 @@
+Page 1 of 10
+
+IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA
+
+In the matter of an Application for mandates in the nature of a Writs of Certiorari, Prohibition and Mandamus under and in terms of Article 140 of the Constitution.
+
+Daffodil Hotels (Private) Limited
+
+No.223A,
+
+Highlevel Road,
+
+Kirulapone,
+
+Colombo 5.
+
+Petitioner
+
+C.A. Application No: 377/2018
+
+Vs.
+
+1. Mr. R. Semasinghe
+
+Commissioner General of Excise, Excise Department of Sri Lanka, No. 353, Kotte Road, Rajagiriya. B. Bodaragama Commissioner General of Excise, Excise Department of Sri Lanka, No. 353, Kotte Road, Rajagiriya. [Substituted 1ST Respondent]
+
+Page 2 of 10
+
+M.J. Gunasiri Commissioner General of Excise, Excise Department of Sri Lanka, No. 353, Kotte Road, Rajagiriya. [Substituted Substituted 1st Respondent] 2. T.A.D.P. Gunarathne
+
+Officer In Charge Excise Station, Excise Department of Sri Lanka, Mullativu. 3. K. Dharmaseelan
+
+Superintendent of Excise, Excise Department of Sri Lanka, Killinochchi. 4. J. Shanthideva De Silva
+
+Assistant Commissioner of Excise, Excise Department of Sri Lanka, Northern Division 11 Kilinochchi. 5. M.D.M.W.K. Dissanayaka
+
+Deputy Commissioner of Excise-Revenue, Excise Department of Sri Lanka, No. 353, Kotte Road, Rajagiriya.
+
+6. Sri Lanka Tourism Development Authority
+
+80, Galle Road,
+
+Page 3 of 10
+
+Colombo 3. 7. Divisional Secretary
+
+Divisional Secretariat- Maritimepattu, Kokkilai Road, Mullativu. 8. I. Prathaban
+
+Assistant Divisional Secretary, Divisional Secretariat- Maritimepattu, Kokkilai Road, Mullativu. 9. M. Chathuri Pinto
+
+Director, Department of Christian Religious Affairs, No. 155/10, Castle Street, Colombo 8. Respondents
+
+Before : Dhammika Ganepola, J.
+
+Counsel : Sanjeewa Jayawardene, P.C. with Rukshan
+
+Senadheera for the Petitioner.
+
+Y. Fernando, D.S.G. with Amasara Gajadeera, S.C.
+
+for the Respondents.
+
+Argued On : 19.07.2024
+
+Page 4 of 10
+
+Decided On : 29.10.2024
+
+Dhammika Ganepola, J.
+
+Factual matrixs
+
+In the instant application, the Petitioner invokes the writ jurisdiction of this Court by challenging the purported decision and directive of the 1st and /or 5th Respondents to carry out a re-survey to ascertain the distance between places of public religious worship and schools from the Petitioners FL-11 licensed liquor shop. The Petitioner Company is carrying out a licensed Tourist Restaurant under the name and form of Daffodil Hotels situated at Kovilkudyiruppu, Mullaitivu. It is stated that the Petitioner has submitted an application to obtain a liquor license with a survey plan dated 18.03,2013(P12) prepared by the Licensed Surveyor S. Lokanathan which shows all schools and religious worship places with distance from the said premises in support of the fulfilment of requirements under Rule 13(g) of the Excise Notification No.902(P11). The Petitioner states that the 2nd, 3rd, 4th, 6th and 7th Respondents have recommended the grant of liquor license to the Petitioner. Accordingly, the FL11 liquor license has been issued to the Petitioner upon being satisfied that the said application duly complied with the requirements stipulated in the above Exercise Notification No.902.
+
+While the Petitioner was operating the said liquor license, the Petitioner received a letter dated 28.08.2018 (P15) by which the 5th Respondent directed the 7th Respondent to carry out a survey through a superintendent of surveys or to examine whether the required distances are maintained as per Rule 13(h)of Exercise Notification No.902, as the Department of Exercise received complaints that the said premises do not satisfy the above requirements of distance. The Petitioner states that although Rule 21 of Excise Notification 902 requires the notification of the applicant regarding any objections or protests relating to violation or non-compliance of requirements under Excise Notifications received by the Commissioner General of Exercise, it is claimed that the Petitioner has not been informed about any such complaints. Further, it is submitted that an isolated building
+
+Page 5 of 10
+
+was constructed in the proximity of the said license premises a few months back consequent to the said license being granted. The Petitioner observed that a few villagers in the area visit the said so-called church which is not a recognized place of religious worship by the Department of Christian Affairs to pray. The Petitioner states that the 7th and 8th Respondents intend to disqualify the Petitioner from obtaining a liquor license for the year 2019 by wrongfully and illegally construing that the said establishment is a Christian church. The impugned liquor license has been granted to the Petitioner after evaluation of his application and respective documents submitted with the application including the survey report. Hence, Petitioner claims that if any inconsistency with Exercise Notifications, inclusive of religious place of worship was located within a 500-meter radius from the licensed premises, the Exercise Department should have refused to grant the said license. In the absence, it is presumed that the said premises is in compliance with the requirements specified in the Excise Notifications and /or if any establishment exists it would have been constructed consequent of the issuance of said license. Accordingly, the Petitioner states that the direction of the 1st Respondent and /or 5th Respondent to carry out a further survey to ascertain whether the licensed premises of the Petitioner do not comply with the provision of Rule 20(c) of the Excise Notification No.902 and is mala fide and collateral and extraneous considerations. Therefore, it is claimed that granting a license to said premises complies with the provisions under the Excise Ordinance, the regulations made thereunder and the Petitioners legitimate expectation to carry on its business.
+
+Consequently, the Petitioner seeks inter alia mandate in the nature of a Writ of Certiorari quashing the decision of the 1st and 5th Respondents directing the 7th and 8th Respondents to carry out the said survey, Writ of Prohibition restraining said Respondents from carrying out a survey, Writ of Prohibition restraining the said Respondent from interfering with operation of said liquor shop by the Petitioner and a Writ of Mandamus directing the said Respondents to renew the liquor license with effect from 01.01.2019.
+
+The Respondents state that upon an application[P13/R1] submitted by the Petitioner with a survey plan [P12/R2] which confirmed that there were no schools or places of religious worship within 500 meters distance of the impugned premises, FL 11 liquor license has been issued to the Petitioner. As the 1st Respondent received complaints alleging that the Petitioner was in violation of rules pertaining to the
+
+Page 6 of 10
+
+maintenance of distance requirements set out in Excise Notification No.902, the Petitioner was duly notified of the complaints received and requested that the report by the Government Superintendent of Surveys be submitted as per Rule 13(h)of the Excise Notification No.902. However, it is claimed that the Petitioner failed to comply with the said legal requirements and unlawfully continued to enjoy the benefits of the liquor license. Further, the Respondents submit that the regulatory requirement of submitting a report by the Government Superintendent of Survey cannot be construed as a decision of the 1st and 5th Respondents and any claim of legitimate expectations could not have arisen the grant of the license to the Petitioner was subject to the procedural and legal requirements set out in the Excise Notification No.902.
+
+The moot point in the instant application is whether the 1st and 5th Respondents could be able to give directions or take steps to carry out further survey by the Government Superintendent of Surveys under Rule 13(h)of the Excise Notification No.902 to ascertain distance requirement once a liquor license is issued after satisfaction necessary requirement.
+
+Conditions precedent for granting of a liquor license.
+
+Rule 13 of Excise Notification No.902 specifies the documents and reports required to be submitted concerning new applications. As per Rule 13(g) of Excise Notification No.902, a survey plan from a Licensed Surveyor indicating the distance from the proposed building to the nearest places of public religious worship and schools is required to be submitted with the respective application. It is on the common ground that the Petitioner submitted a survey plan prepared by a Licensed Survey namely S. Lokanathan dated 18.03,2013(P12) and on the satisfaction of the confirmation borne out by the said survey plan, the Petitioner has been issued an FL 11 liquor license(P3) with effect from 06.06.2018 to 31.12.2018.
+
+The 1st Respondent has acknowledged receiving public complaints (R3A and R3B) against the Petitioner for allegedly violating the rule concerning a distance of 500 meters to be maintained from the place of worship. Accordingly, the 5th Respondent has given directions to the Divisional Secretary to furnish a survey plan obtained from the Government Superintendent of Surveyor for the purpose of determining whether the required distances are maintained as per Rule 13(h), by its letter dated 28.08.2018 (P15/R4) with notice to the Petitioner.
+
+Page 7 of 10
+
+Failure to Notify the Petitioner about the Complaints.
+
+The Petitioner has taken up a position that although the said letter P15/R4 mentioned that they were in receipt of the public complaints against the Petitioner, he was not informed about any such complaints or the particulars thereof. However, it is observed that said letter which was copied to the Petitioner referred to the acknowledgement of complaints against the Petitioner concerning the violation of the distance requirement as per Rule 20(c)of the Excise Notification No.902 ( , 902, 20() , .). On careful consideration of the relevant provisions in Excise Notification No.902[Rules 13(h) and 21], this Court finds that calling such a survey report is only a primary step of a facts-finding task in the investigation into the alleged violation of the distance rule. Hence, there is no rigid rule to inform the Petitioner about such complaints received by the Commissioner prior to conducting the survey as per Rule 13(h)of the Excise Notification No.902. Even though there is no legal requirement to inform the Petitioner of complaints received, I believe that the reference to public complaints in letter P15/R4 is enough notification to meet the principles of natural justice and to give sufficient notice to the Petitioner prior to conducting the survey report.
+
+Further, the Petitioner claims that the failure on the part of the respective Respondents to notify public complaints to the Petitioner is a violation of Rule 21 of Excise Notification No. 902. I am mindful of the requirement of notification to the licensee (Petitioner) of any objection or protest received by the Commissioner General of Excise set out in Rule 21 of Excise Notification No. 902. However, such requirement to notify only arises before conducting an inquiry as specified in Rule 21 and not before preparing a survey plan in terms of Rule 13(h) of Excise Notification No.902. Said Rule 21 is reproduced below;
+
+Any objection or protest received by the Commissioner General of Excise from a member of organization of the public either before or after of issue of a license, on the ground that there had been a violation or non compliance of any requirement of the Excise Ordinance or Guidelines and Conditions herein contained in regard to the issue or continuance of a license, will be notified by the Commissioner General of Excise to the applicant or licensee as the case may be and will thereafter be inquired into by the Commissioner General of Excise as to the validity thereof and action taken after such inquiry on the basis of the findings thereat. In such an inquiry, if it is found that the establishment continuing the
+
+Page 8 of 10
+
+license at the place may threat or likely threat to the maintenance of law and order in the area, the Commissioner General of Excise can decide to relocate the license premises to a suitable place. This decision will be final.
+
+It is observed that no inquiry had taken place as specified in the above-mentioned Rule 21. Hence, any violation of Rule 21 does not arise at this juncture.
+
+Decision of the 1st Respondent to Invoke the Provisions in Rule 13(h) of Excise Notification No. 902 without Strong Suspicions and Compelling Reasons
+
+The Petitioner contends that he is utterly baffled by the decision of the 1st Respondent to invoke the provisions in Rule 13(h) of Excise Notification No. 902 without strong suspicions and compelling reasons for violating the distance rule. Said Rule 13(h) is as follows;
+
+If any complaints are received of a violation of the premises, a report from the Government Superintendent of surveys will be called to clarify and ascertain the actual distance. The cost of such survey shall be borne by the licensee. Upon such survey, if it is found that the distance rule has been violated the license will be cancelled.
+
+As per the above rule, the purpose of calling for the survey report is to obtain an assessment and clarification of the actual distance. The words used ...a report from the Government Superintendent of surveys will be called to clarify and ascertain the actual distance in the English text and the words used
+
+. in the Sinhala text in the above-mentioned Rule of the Excise Notification leaves out the discretion to call for the survey report. The power given to the Commissioner General of Excise to call for a survey report under said Rule 13(h) is mandatory. Further, the copies of complaints received by the 1st Respondent against the Petitioner in violation of distance rule have been submitted with the statement of objections marked as R3A and R3B. The document marked R3A which is a survey plan certified by the Registered Licensed Surveyor N.S.K. Dodanwala ex facia supports the fact that there are places of religious worship within 500 meters of the distance set out in Rule 20(c) of Excise Notification No.902 as said R3A indicates that there is a Church within the prescribed distance. Accordingly, the argument of the Petitioner that there are no strong suspicions and compelling reasons to proceed with Rule 13(h) cannot sustained. Further, the Court observed that the survey plan P12 which was submitted with application P13 dated 24.02.2018 to obtain a liquor license was prepared on
+
+Page 9 of 10
+
+18.03.2013, almost five years before the application was submitted. Serious concern has to be drawn to the issue as to why the Petitioner tendered such an obsolete plan (P12) along with his application and why the authorities accepted such. Accordingly, the possibility of changing the ground situation within the 500-meter radius from the licensed premises by the effluxion of such a considerable period of time itself could have been a compelling reason to proceed with Rule 13(h).
+
+Recognition of the Church as a Public Religious Place by Relevant Authorities.
+
+It is said that the Petitioner has observed the construction of an isolated building in the proximity of the licensed premises, subsequent to the issuance of the disputed liquor license and that several villagers in the area have been frequently visiting the newly established Christian church for prayers. Furthermore, the Petitioner states that the said Church is not a Church recognized by the Department of Christian Affairs. In my opinion, these considerations should have been addressed after the report was called as outlined in Rule 13(h), and if necessary, after confirming the fact whether the existence of such a church within a 500-meter radius. Before proceeding with the registration of the church, it is essential to obtain a survey report and confirm the existence of a place of religious worship. Consideration of recognition or registration of the church at this stage without confirming its existence is futile, like putting the cart before the horse.
+
+Besides, the Petitioner contends such a place of worship could not be considered as a religious place in terms of the above Excise Regulations and the attitude taken up by the Excise Department and the Divisional Secretary to consider it as a religious place of worship is dogmatic, intransigent, incomprehensible and arbitrary. However, I am not agreeable with such a stance as it appears that such a stance has not been taken up by the said authorities. It seems that the authorities have not mentioned a specific religious location. Their only concern, as per the letter P15, was to inspect whether the relevant specific distances to the places of religious worship and Schools referred to in Rule 13(h) are maintained.
+
+Legitimate expectation
+
+The Petitioner believes that the Petitioner has a legitimate expectation to carry out the business under said liquor license without any hindrance as the Respondents
+
+Page 10 of 10
+
+granted the license after evaluating the Petitioners application for liquor license with other relevant documents tendered thereon including the survey report P12. It is submitted that as the license was granted without any issue or demur and in compliance with the provisions of the Excise Notifications, the Petitioner would be able to form a legitimate expectation to carry out the business without any impediment. It is on the common ground that the liquor license (P3) issued to the Petitioner is conditional. The license (P3) itself refers that it is subjected to the general conditions applicable to all Excise Licenses, the conditions laid down in Excise Notifications and the special conditions laid down in the respective license. Therefore, the Petitioner was definitely aware that he would only be entitled to hold the license subject to the above conditions. Hence, the Petitioner would only be able to claim any legitimate expectation, if any, subject to the conditions laid down in the license including the power of the authorities to investigate public complaints therein. In Galappaththi v. Secretary to the Treasury 1996(2)SLR109 at 114, Ranaraja J. in the Court of Appeal held that a claim by a Petitioner that he has a legitimate expectation of receiving a benefit based on an assurance given to him by a public authority, cannot succeed if he has breached a condition specified in that assurance as one with which he must comply in order to receive the benefit.
+
+Conclusion
+
+For the foregoing reasons, I am of the view that the impugned decision of the respective Respondents to carry out a survey by and through the Government survey under Rule 13(h) of Excise Notification No.902 as referred to in letter P15 is not illegal. In the said circumstances, I hold that the Petitioner is not entitled to any of the reliefs as prayed for in the prayer of the Petition of the Petitioner. Accordingly, I proceed to dismiss this application. No order is made with regard to cost.
+
+Judge of the Court of Appeal
