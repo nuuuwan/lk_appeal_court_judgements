@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-12-05-CADC-Gampaha-1202-2000",
   "num": "CADC Gampaha 1202/2000",
   "date_str": "2013-12-05",
   "description": "Hettiyadura Juliet Fernando Vs. Hettiyadura Raymond Silva & Others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b7a7c96c-1af8-4bce-9e2b-5dcc7860f4a3&filename=ca_dc_gampaha_1202_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14583",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b7a7c96c-1af8-4bce-9e2b-5dcc7860f4a3&filename=ca_dc_gampaha_1202_2000.pdf",
   "parties": "Hettiyadura Juliet Fernando Vs. Hettiyadura Raymond Silva & Others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

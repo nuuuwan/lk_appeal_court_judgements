@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-06-21-CADC-Tangalle-50-97",
   "num": "CADC Tangalle 50/97",
   "date_str": "2013-06-21",
   "description": "W eligamage N andaseeli Wamasooriya Vs. Piyaratne Wijeweera before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=19f12c65-247c-416c-a11f-4622a302a56a&filename=ca_dc_tangalle_50_97.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14569",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=19f12c65-247c-416c-a11f-4622a302a56a&filename=ca_dc_tangalle_50_97.pdf",
   "parties": "W eligamage N andaseeli Wamasooriya Vs. Piyaratne Wijeweera",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

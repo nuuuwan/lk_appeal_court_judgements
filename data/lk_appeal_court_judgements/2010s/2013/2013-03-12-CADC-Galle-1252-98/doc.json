@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-03-12-CADC-Galle-1252-98",
   "num": "CADC Galle 1252/98",
   "date_str": "2013-03-12",
   "description": "Deva Sanjeewa Nandalal Vs. Edirimuni Indrani de Zoysa & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8d927808-81c7-4922-9675-139ab6b952fd&filename=ca_dc_galle_1252_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14565",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8d927808-81c7-4922-9675-139ab6b952fd&filename=ca_dc_galle_1252_98.pdf",
   "parties": "Deva Sanjeewa Nandalal Vs. Edirimuni Indrani de Zoysa & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

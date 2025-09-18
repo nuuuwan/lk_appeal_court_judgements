@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-03-20-CAWrit-379-2012",
   "num": "CAWrit 379/2012",
   "date_str": "2013-03-20",
   "description": " before J.F. ling Vs. Hon. Rishad Bathiudeen & others",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0588a1a4-e9b5-461c-97e9-9a29a0ba884d&filename=ca_writ_379_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14565",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0588a1a4-e9b5-461c-97e9-9a29a0ba884d&filename=ca_writ_379_2012.pdf",
   "parties": "",
   "judgement_by": "J.F. ling Vs. Hon. Rishad Bathiudeen & others",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

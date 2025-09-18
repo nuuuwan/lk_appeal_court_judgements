@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-06-05-CADC-Mt-Lavinia-884-2000",
   "num": "CADC Mt.Lavinia 884/2000",
   "date_str": "2013-06-05",
   "description": "Samuel Newton Vs. Muriel Amarawathie Wickremanayake before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e151d9f2-44c3-4a95-9572-4234f2d9f533&filename=ca_dc_mt.lavinia_884_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14569",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e151d9f2-44c3-4a95-9572-4234f2d9f533&filename=ca_dc_mt.lavinia_884_2000.pdf",
   "parties": "Samuel Newton Vs. Muriel Amarawathie Wickremanayake",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

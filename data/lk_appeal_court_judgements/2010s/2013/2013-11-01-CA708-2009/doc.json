@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-11-01-CA708-2009",
   "num": "CA708/2009",
   "date_str": "2013-11-01",
   "description": "D.M.Sriyani Manglika Dissanayake Vs. N.P.M.Kariyawasam & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cf1554df-b712-4c60-aa2b-d7bf39dc0908&filename=ca_708_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14581",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cf1554df-b712-4c60-aa2b-d7bf39dc0908&filename=ca_708_2009.pdf",
   "parties": "D.M.Sriyani Manglika Dissanayake Vs. N.P.M.Kariyawasam & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

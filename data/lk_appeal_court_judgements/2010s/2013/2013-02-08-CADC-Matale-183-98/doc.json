@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-08-CADC-Matale-183-98",
   "num": "CADC Matale 183/98",
   "date_str": "2013-02-08",
   "description": "Mohommadu Abdul Kareem Vs. Ritigahamula watte Gedara Suraba before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=53d4e5fc-cabd-468f-ac5e-9a21d713d38e&filename=ca_dc_matale_183_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14563",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=53d4e5fc-cabd-468f-ac5e-9a21d713d38e&filename=ca_dc_matale_183_98.pdf",
   "parties": "Mohommadu Abdul Kareem Vs. Ritigahamula watte Gedara Suraba",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

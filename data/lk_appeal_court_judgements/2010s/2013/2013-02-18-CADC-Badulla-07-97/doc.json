@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-18-CADC-Badulla-07-97",
   "num": "CADC Badulla 07/97",
   "date_str": "2013-02-18",
   "description": "Sumithra Perera Vs. Somasiri Karunasena Kariyawasam before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=40d8c2bc-e4b2-4919-8bed-487f268a48cb&filename=ca_dc_badulla_07_97.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14563",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=40d8c2bc-e4b2-4919-8bed-487f268a48cb&filename=ca_dc_badulla_07_97.pdf",
   "parties": "Sumithra Perera Vs. Somasiri Karunasena Kariyawasam",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

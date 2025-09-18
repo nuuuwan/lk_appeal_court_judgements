@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-03-27-CAWrit-292-2011",
   "num": "CAWrit 292/2011",
   "date_str": "2013-03-27",
   "description": "Korean Spa Accessories (Pvt) Ltd Vs. Commissioner General of Labour & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f98a648e-d2b6-4253-b61e-af5979b57687&filename=ca_writ_292_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14565",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f98a648e-d2b6-4253-b61e-af5979b57687&filename=ca_writ_292_2011.pdf",
   "parties": "Korean Spa Accessories (Pvt) Ltd Vs. Commissioner General of Labour & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

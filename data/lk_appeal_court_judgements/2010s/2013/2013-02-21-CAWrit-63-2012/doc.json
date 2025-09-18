@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-21-CAWrit-63-2012",
   "num": "CAWrit 63/2012",
   "date_str": "2013-02-21",
   "description": "Jayathungage Sarath Jayathunga Vs. Seylan Bank PLC & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1989679c-100d-4235-bd7b-b585df60d784&filename=ca_writ_63_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14563",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1989679c-100d-4235-bd7b-b585df60d784&filename=ca_writ_63_2012.pdf",
   "parties": "Jayathungage Sarath Jayathunga Vs. Seylan Bank PLC & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

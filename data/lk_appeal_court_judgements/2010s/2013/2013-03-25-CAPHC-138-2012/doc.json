@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-03-25-CAPHC-138-2012",
   "num": "CAPHC 138/2012",
   "date_str": "2013-03-25",
   "description": "Nawolis Muthumala Vs. Divisional Secretary, Ambalanthota & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ec78de1b-7d9f-46c2-9f46-a2a9515338bd&filename=ca_phc_138_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14565",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ec78de1b-7d9f-46c2-9f46-a2a9515338bd&filename=ca_phc_138_2012.pdf",
   "parties": "Nawolis Muthumala Vs. Divisional Secretary, Ambalanthota & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-08-05-CAHC-Hambantota-278-09",
   "num": "CAHC Hambantota 278/09",
   "date_str": "2013-08-05",
   "description": "Wallamba Bandanage Gamini Vs. Republic of Sri Lanka before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=28c27213-09ac-4415-a12c-4f55db15ffd9&filename=ca_hc_hambanthota_278_09.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14573",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=28c27213-09ac-4415-a12c-4f55db15ffd9&filename=ca_hc_hambanthota_278_09.pdf",
   "parties": "Wallamba Bandanage Gamini Vs. Republic of Sri Lanka",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

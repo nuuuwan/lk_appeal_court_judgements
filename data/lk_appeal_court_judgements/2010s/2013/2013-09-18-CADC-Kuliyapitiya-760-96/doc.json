@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-09-18-CADC-Kuliyapitiya-760-96",
   "num": "CADC Kuliyapitiya 760/96",
   "date_str": "2013-09-18",
   "description": "W.V.M. Ashoka Bandara Vs. A.M. Karunarathna before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e7fa2689-774e-4af5-ac26-5e4706eb9e38&filename=ca_dc_kuliyapitiya_760_96.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14577",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e7fa2689-774e-4af5-ac26-5e4706eb9e38&filename=ca_dc_kuliyapitiya_760_96.pdf",
   "parties": "W.V.M. Ashoka Bandara Vs. A.M. Karunarathna",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

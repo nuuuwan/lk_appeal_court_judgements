@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-12-12-CADC-Walasmulla-1141-98",
   "num": "CADC Walasmulla 1141/98",
   "date_str": "2013-12-12",
   "description": "Udamala Gamage Alis alias Alis Gunawardane Vs. H.S. Dayawathie before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d336c21d-bcf9-4625-9652-47e7af1aea20&filename=ca_dc_walasmulla_1141_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14583",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d336c21d-bcf9-4625-9652-47e7af1aea20&filename=ca_dc_walasmulla_1141_98.pdf",
   "parties": "Udamala Gamage Alis alias Alis Gunawardane Vs. H.S. Dayawathie",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

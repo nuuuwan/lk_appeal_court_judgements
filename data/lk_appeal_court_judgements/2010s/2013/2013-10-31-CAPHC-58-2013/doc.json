@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-10-31-CAPHC-58-2013",
   "num": "CAPHC 58/2013",
   "date_str": "2013-10-31",
   "description": "P.N.J. Anthony Fernando Vs. Pugaladan Pasupathipillai before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=75a6a4af-4677-4cfe-a420-49c02cf27d8c&filename=ca_phc_58_13.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14579",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=75a6a4af-4677-4cfe-a420-49c02cf27d8c&filename=ca_phc_58_13.pdf",
   "parties": "P.N.J. Anthony Fernando Vs. Pugaladan Pasupathipillai",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

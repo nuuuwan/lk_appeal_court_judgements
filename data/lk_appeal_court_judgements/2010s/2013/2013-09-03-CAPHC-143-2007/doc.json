@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-09-03-CAPHC-143-2007",
   "num": "CAPHC 143/2007",
   "date_str": "2013-09-03",
   "description": "K.A. Piyadasa alias Piyadasa Kandanamulla Vs. S.A.N. Keerthi Perera before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1efc9ebd-1c93-44dd-be06-61e07dfa3d52&filename=ca_phc_143_2007.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14573",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1efc9ebd-1c93-44dd-be06-61e07dfa3d52&filename=ca_phc_143_2007.pdf",
   "parties": "K.A. Piyadasa alias Piyadasa Kandanamulla Vs. S.A.N. Keerthi Perera",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

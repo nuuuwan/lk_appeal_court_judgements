@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-08-05-CADC-Kurunegala-1145-99",
   "num": "CADC Kurunegala 1145/99",
   "date_str": "2013-08-05",
   "description": "W.M. Heenbanda Vs. Malinda Thilakarathne & another before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b4aa2bb5-9c0d-4c9d-b9a9-9c6a8dba4d58&filename=ca_dc_kurunegala_1145_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14573",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b4aa2bb5-9c0d-4c9d-b9a9-9c6a8dba4d58&filename=ca_dc_kurunegala_1145_99.pdf",
   "parties": "W.M. Heenbanda Vs. Malinda Thilakarathne & another",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

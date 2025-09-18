@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-20-CAWrit-30-2013",
   "num": "CAWrit 30/2013",
   "date_str": "2013-02-20",
   "description": "Balithiyannalage Sriyawathi Vs. B.M.U.D.Basnayake & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f3c06f94-3006-49ed-bafb-9a7b254f1678&filename=ca_writ_30_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14563",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f3c06f94-3006-49ed-bafb-9a7b254f1678&filename=ca_writ_30_2013.pdf",
   "parties": "Balithiyannalage Sriyawathi Vs. B.M.U.D.Basnayake & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

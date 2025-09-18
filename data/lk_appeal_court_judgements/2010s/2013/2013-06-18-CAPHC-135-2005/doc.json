@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-06-18-CAPHC-135-2005",
   "num": "CAPHC 135/2005",
   "date_str": "2013-06-18",
   "description": "Gunapala Witharana Vs. Maharaththalage Ariyadasa Fernando before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=27188e60-8cd9-4143-bbcc-15c7114a60a6&filename=ca_phc_135_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14571",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=27188e60-8cd9-4143-bbcc-15c7114a60a6&filename=ca_phc_135_2005.pdf",
   "parties": "Gunapala Witharana Vs. Maharaththalage Ariyadasa Fernando",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

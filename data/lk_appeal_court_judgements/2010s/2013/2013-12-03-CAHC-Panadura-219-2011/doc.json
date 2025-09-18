@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-12-03-CAHC-Panadura-219-2011",
   "num": "CAHC Panadura 219/2011",
   "date_str": "2013-12-03",
   "description": " before W.A. Satison Fernando Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eec6a9ea-da3b-4145-8648-bfcbe4e3f9ea&filename=ca_hc_panadura_219_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14581",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eec6a9ea-da3b-4145-8648-bfcbe4e3f9ea&filename=ca_hc_panadura_219_2011.pdf",
   "parties": "",
   "judgement_by": "W.A. Satison Fernando Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

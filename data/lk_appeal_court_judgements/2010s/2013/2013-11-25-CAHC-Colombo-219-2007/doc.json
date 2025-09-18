@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-11-25-CAHC-Colombo-219-2007",
   "num": "CAHC Colombo 219/2007",
   "date_str": "2013-11-25",
   "description": " before Kodithuwakku Arachchilage Ariyadasa Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=36c06db9-8b69-4201-a9b9-9c0c54361ba8&filename=ca_hc_colombo_219_2007.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14581",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=36c06db9-8b69-4201-a9b9-9c0c54361ba8&filename=ca_hc_colombo_219_2007.pdf",
   "parties": "",
   "judgement_by": "Kodithuwakku Arachchilage Ariyadasa Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-10-22-CA315-09",
   "num": "CA315/09",
   "date_str": "2013-10-22",
   "description": "Samastha Lanka Guru Upadheshaka Vurtheeya Sangamaya Vs. Susil Premajayantha & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fe012bad-553e-4fe6-81d6-f476ea6e2fac&filename=ca_315_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14579",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fe012bad-553e-4fe6-81d6-f476ea6e2fac&filename=ca_315_2009.pdf",
   "parties": "Samastha Lanka Guru Upadheshaka Vurtheeya Sangamaya Vs. Susil Premajayantha & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

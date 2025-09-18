@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-06-04-CAWrit-596-2009",
   "num": "CAWrit 596/2009",
   "date_str": "2013-06-04",
   "description": "H. A. K. Karunaratne Vs. Colombo Municipal Council & Others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ae6c666e-8f9b-47c2-9333-52f5eb543a64&filename=ca_writ_596_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14571",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ae6c666e-8f9b-47c2-9333-52f5eb543a64&filename=ca_writ_596_2009.pdf",
   "parties": "H. A. K. Karunaratne Vs. Colombo Municipal Council & Others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

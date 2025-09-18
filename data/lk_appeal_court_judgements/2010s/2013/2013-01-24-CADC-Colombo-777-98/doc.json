@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-01-24-CADC-Colombo-777-98",
   "num": "CADC Colombo 777/98",
   "date_str": "2013-01-24",
   "description": "W.J.P. Ariyawansha Vs. Gardi Punchihewa Indrani before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fd7e1b31-5719-4149-bb73-cbcb2a6417b6&filename=ca_dc_colombo_777_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14561",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fd7e1b31-5719-4149-bb73-cbcb2a6417b6&filename=ca_dc_colombo_777_98.pdf",
   "parties": "W.J.P. Ariyawansha Vs. Gardi Punchihewa Indrani",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

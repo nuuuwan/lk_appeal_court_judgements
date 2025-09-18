@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-09-06-CADC-Marawila-570-98",
   "num": "CADC Marawila 570/98",
   "date_str": "2013-09-06",
   "description": "Wanni Aratchige Emmanuel Fernando Vs. Pannila Mohottalalage Sunil Gunadasa before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c38f5921-8a58-49ae-8851-3a554d19fd5d&filename=ca_dc_marawila_570_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14577",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c38f5921-8a58-49ae-8851-3a554d19fd5d&filename=ca_dc_marawila_570_98.pdf",
   "parties": "Wanni Aratchige Emmanuel Fernando Vs. Pannila Mohottalalage Sunil Gunadasa",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

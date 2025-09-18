@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-10-31-CADC-Negombo-178-97",
   "num": "CADC Negombo 178/97",
   "date_str": "2013-10-31",
   "description": "A.L.Mary Nursila Jayawardene Vs. P, Gamini Silva - Hon. K.T. Chitrasiri, J before  Constructive Trust under Section 83 of The trust ordinance",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=54554954-f7d7-41d8-961e-6ce37f88e29a&filename=ca_dc_negombo_178_97.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14579",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=54554954-f7d7-41d8-961e-6ce37f88e29a&filename=ca_dc_negombo_178_97.pdf",
   "parties": "A.L.Mary Nursila Jayawardene Vs. P, Gamini Silva - Hon. K.T. Chitrasiri, J",
   "judgement_by": " Constructive Trust under Section 83 of The trust ordinance",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

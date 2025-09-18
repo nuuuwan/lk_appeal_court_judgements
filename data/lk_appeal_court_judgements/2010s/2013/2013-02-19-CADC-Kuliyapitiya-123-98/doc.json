@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-19-CADC-Kuliyapitiya-123-98",
   "num": "CADC Kuliyapitiya 123/98",
   "date_str": "2013-02-19",
   "description": "Ilangadassa Rajakaruna Herath Mudiyanselage Jayathilake Rajakaruna Vs. Nishshanka Mallika Sriyani De Silva before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2b9f0a13-b704-4b17-a5c7-63e754d9043e&filename=ca_dc_kuliyapitiya_123_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14563",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2b9f0a13-b704-4b17-a5c7-63e754d9043e&filename=ca_dc_kuliyapitiya_123_98.pdf",
   "parties": "Ilangadassa Rajakaruna Herath Mudiyanselage Jayathilake Rajakaruna Vs. Nishshanka Mallika Sriyani De Silva",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

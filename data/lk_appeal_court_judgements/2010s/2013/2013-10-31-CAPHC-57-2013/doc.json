@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-10-31-CAPHC-57-2013",
   "num": "CAPHC 57/2013",
   "date_str": "2013-10-31",
   "description": "Kahata Watte Gedara Nyanalatha Vs. U.R.T.R. Abeywardane before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fdc0419d-f1d2-45d2-8e4e-ecab63c409bc&filename=ca_phc_57_13.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14579",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fdc0419d-f1d2-45d2-8e4e-ecab63c409bc&filename=ca_phc_57_13.pdf",
   "parties": "Kahata Watte Gedara Nyanalatha Vs. U.R.T.R. Abeywardane",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-09-26-CADC-Mt-Lavinia-1137-96",
   "num": "CADC Mt.Lavinia 1137/96",
   "date_str": "2013-09-26",
   "description": "Abdul Azeez Vs. Neththasinghe Parasangilige Susantha Fonseka Samarasekara & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=57c72e49-3d90-4e7d-afa9-96e261e9b659&filename=ca_dc_mt.lavinia_1137_96.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14577",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=57c72e49-3d90-4e7d-afa9-96e261e9b659&filename=ca_dc_mt.lavinia_1137_96.pdf",
   "parties": "Abdul Azeez Vs. Neththasinghe Parasangilige Susantha Fonseka Samarasekara & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

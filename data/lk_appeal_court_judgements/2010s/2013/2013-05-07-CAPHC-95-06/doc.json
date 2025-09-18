@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-05-07-CAPHC-95-06",
   "num": "CAPHC 95/06",
   "date_str": "2013-05-07",
   "description": "K.G. Harischandra Vs. T. Wickramasinghe And 02 others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=39ce48be-51ff-4764-bf01-81abdbeadcda&filename=ca_phc_95_06.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14567",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=39ce48be-51ff-4764-bf01-81abdbeadcda&filename=ca_phc_95_06.pdf",
   "parties": "K.G. Harischandra Vs. T. Wickramasinghe And 02 others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

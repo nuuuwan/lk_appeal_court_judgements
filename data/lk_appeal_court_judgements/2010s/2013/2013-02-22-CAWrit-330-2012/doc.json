@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-22-CAWrit-330-2012",
   "num": "CAWrit 330/2012",
   "date_str": "2013-02-22",
   "description": "Rupahinge Gunaratne Vs. Madara Swarnamalee Wijewardena Thennakoon & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c9405343-4151-4a7a-95aa-9cea648fb1f9&filename=ca_writ_330_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14563",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c9405343-4151-4a7a-95aa-9cea648fb1f9&filename=ca_writ_330_2012.pdf",
   "parties": "Rupahinge Gunaratne Vs. Madara Swarnamalee Wijewardena Thennakoon & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

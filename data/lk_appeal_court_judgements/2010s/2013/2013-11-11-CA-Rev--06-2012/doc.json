@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-11-11-CA-Rev--06-2012",
   "num": "CA(Rev) 06/2012",
   "date_str": "2013-11-11",
   "description": "Konara Mudiyanselage Kosgolle Gedara Somapala Vs. Konara Mudiyanselage Kogollegedara Kiribandara & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eeccfe76-9c14-49dc-8dd4-e3fd93505fb7&filename=ca_rev_06_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14581",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eeccfe76-9c14-49dc-8dd4-e3fd93505fb7&filename=ca_rev_06_2012.pdf",
   "parties": "Konara Mudiyanselage Kosgolle Gedara Somapala Vs. Konara Mudiyanselage Kogollegedara Kiribandara & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

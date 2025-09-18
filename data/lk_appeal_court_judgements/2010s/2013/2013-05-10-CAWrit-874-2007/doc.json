@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-05-10-CAWrit-874-2007",
   "num": "CAWrit 874/2007",
   "date_str": "2013-05-10",
   "description": "Wijesinghe Arachchige Don Osmand Premasiri Wijesinghe Vs. Mahara Pradeshiya Sabhawa & another before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=66004b54-5bd7-4589-a7eb-0432d17ce8c6&filename=ca_writ_874_2007.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14567",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=66004b54-5bd7-4589-a7eb-0432d17ce8c6&filename=ca_writ_874_2007.pdf",
   "parties": "Wijesinghe Arachchige Don Osmand Premasiri Wijesinghe Vs. Mahara Pradeshiya Sabhawa & another",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

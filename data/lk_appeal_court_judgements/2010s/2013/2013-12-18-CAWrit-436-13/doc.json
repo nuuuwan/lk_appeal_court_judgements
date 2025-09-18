@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-12-18-CAWrit-436-13",
   "num": "CAWrit 436/13",
   "date_str": "2013-12-18",
   "description": "Appuhamilage Ananda Premachandra Ranaweera Vs. The Returning Officer, Gampaha And 15 others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=868f2c5f-8326-4747-8401-757ec4055534&filename=ca_writ_436_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14583",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=868f2c5f-8326-4747-8401-757ec4055534&filename=ca_writ_436_2013.pdf",
   "parties": "Appuhamilage Ananda Premachandra Ranaweera Vs. The Returning Officer, Gampaha And 15 others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-28-CADC-Colombo-768-2000",
   "num": "CADC Colombo 768/2000",
   "date_str": "2013-02-28",
   "description": "M.S. Mohomed Mansoor Vs. S.D.Gunadasa And another before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=04ab5bd7-79f4-4918-bf69-7fd1909aa3ff&filename=ca_dc_colombo_768_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14563",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=04ab5bd7-79f4-4918-bf69-7fd1909aa3ff&filename=ca_dc_colombo_768_2000.pdf",
   "parties": "M.S. Mohomed Mansoor Vs. S.D.Gunadasa And another",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

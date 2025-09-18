@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-11-20-CAWrit-298-2013",
   "num": "CAWrit 298/2013",
   "date_str": "2013-11-20",
   "description": "Pasan Thaminda Wanigasekara Vs. Secretary, Ministry of Education & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fee771f4-aaca-420e-be99-b7eedd57558c&filename=ca_writ_298_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14581",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fee771f4-aaca-420e-be99-b7eedd57558c&filename=ca_writ_298_2013.pdf",
   "parties": "Pasan Thaminda Wanigasekara Vs. Secretary, Ministry of Education & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

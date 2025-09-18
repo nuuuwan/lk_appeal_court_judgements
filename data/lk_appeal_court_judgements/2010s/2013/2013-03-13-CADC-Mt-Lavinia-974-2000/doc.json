@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-03-13-CADC-Mt-Lavinia-974-2000",
   "num": "CADC Mt.Lavinia 974/2000",
   "date_str": "2013-03-13",
   "description": "Kanattage Caroline Perera Vs. Weerawarnakulasuriya Baduge Eric Manil Fernando before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d1189b10-a6b4-4f72-b4b2-5044a0fb0d86&filename=ca_dc_mt.lavinia_974_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14563",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d1189b10-a6b4-4f72-b4b2-5044a0fb0d86&filename=ca_dc_mt.lavinia_974_2000.pdf",
   "parties": "Kanattage Caroline Perera Vs. Weerawarnakulasuriya Baduge Eric Manil Fernando",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

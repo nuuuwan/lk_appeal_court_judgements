@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-06-12-CAPHC-146-2006",
   "num": "CAPHC 146/2006",
   "date_str": "2013-06-12",
   "description": " before Singarawelu Rajasingham Vs. OIC, Theldeniya & Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2eb42f77-799d-424d-b5f4-85830c478b21&filename=ca_phc_146_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14567",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2eb42f77-799d-424d-b5f4-85830c478b21&filename=ca_phc_146_2006.pdf",
   "parties": "",
   "judgement_by": "Singarawelu Rajasingham Vs. OIC, Theldeniya & Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

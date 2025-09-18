@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-05-09--CADC",
   "num": "/CADC",
   "date_str": "2012-05-09",
-  "description": "Balapitiya 872\\1996 HALAMBAGE DON WILSON Vs. V.M. WILSON and K.G.E. CHITRANI DE SILVA before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0e450b31-90e0-4577-b7d3-3885a37e000c&filename=ca_dc_balapitiya_872_1996_f.pdf",
-  "url_metadata": "https://courtofappeal.lk/?page_id=14633",
-  "parties": "Balapitiya 872\\1996 HALAMBAGE DON WILSON Vs. V.M. WILSON and K.G.E. CHITRANI DE SILVA",
+  "description": "Negombo 571\\96 Karunamuni Augustine Premathiratne Vs. Sembukutti Arachchige Sarath Senaratne and Poster Siri Rental Company before ",
+  "url_metadata": "https://courtofappeal.lk/?page_id=14588",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e996659d-cd20-4e91-a6cf-6f8596cc3038&filename=ca_dc_negombo_571_96_f.pdf",
+  "parties": "Negombo 571\\96 Karunamuni Augustine Premathiratne Vs. Sembukutti Arachchige Sarath Senaratne and Poster Siri Rental Company",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

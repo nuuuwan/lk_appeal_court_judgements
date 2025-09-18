@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-11-01-CAWrit-121-2013",
   "num": "CAWrit 121/2013",
   "date_str": "2013-11-01",
   "description": "Godella Kiriellage Siripala Vs. Sarath Sandanayaka And Five Others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a5380c11-9b23-4b2c-93a3-cbe802e72635&filename=ca_writ_121_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14579",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a5380c11-9b23-4b2c-93a3-cbe802e72635&filename=ca_writ_121_2013.pdf",
   "parties": "Godella Kiriellage Siripala Vs. Sarath Sandanayaka And Five Others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

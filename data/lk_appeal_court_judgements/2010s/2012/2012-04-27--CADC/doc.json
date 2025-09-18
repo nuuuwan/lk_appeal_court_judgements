@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-04-27--CADC",
   "num": "/CADC",
   "date_str": "2012-04-27",
   "description": "Elpitiya 757\\2004 Prema Ratnayake Vs. Kumarage Nilmini Soba Ranasinghe and others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9a85156c-1d46-46ce-84ec-e7ca835d6bd7&filename=ca_dc_elpitiya_757_2004.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14586",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9a85156c-1d46-46ce-84ec-e7ca835d6bd7&filename=ca_dc_elpitiya_757_2004.pdf",
   "parties": "Elpitiya 757\\2004 Prema Ratnayake Vs. Kumarage Nilmini Soba Ranasinghe and others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

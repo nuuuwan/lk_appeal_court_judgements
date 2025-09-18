@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-04-04-C-APHC-149-2012",
   "num": "C APHC 149/2012",
   "date_str": "2013-04-04",
   "description": "Mohomed Kadar Haibu Vs. Director General Department before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=88d52553-923e-4747-bb68-87bafc4b264b&filename=ca_phc_149_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14565",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=88d52553-923e-4747-bb68-87bafc4b264b&filename=ca_phc_149_2012.pdf",
   "parties": "Mohomed Kadar Haibu Vs. Director General Department",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

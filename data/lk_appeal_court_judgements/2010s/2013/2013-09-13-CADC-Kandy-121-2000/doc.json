@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-09-13-CADC-Kandy-121-2000",
   "num": "CADC Kandy 121/2000",
   "date_str": "2013-09-13",
   "description": "W.W. Punchi Banda Vs. P.N.W. Premarathna before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c86692de-34c7-4070-aaf1-f3728942434d&filename=ca_dc_kandy_121_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14577",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c86692de-34c7-4070-aaf1-f3728942434d&filename=ca_dc_kandy_121_2000.pdf",
   "parties": "W.W. Punchi Banda Vs. P.N.W. Premarathna",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

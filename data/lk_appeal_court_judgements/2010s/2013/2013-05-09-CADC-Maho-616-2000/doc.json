@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-05-09-CADC-Maho-616-2000",
   "num": "CADC Maho 616/2000",
   "date_str": "2013-05-09",
   "description": "J.M. Kapuru Banda Vs. S.V. Muthubanda before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c95d7547-a761-4223-a6fa-4271afa91a1a&filename=ca_dc_maho_616_00.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14567",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c95d7547-a761-4223-a6fa-4271afa91a1a&filename=ca_dc_maho_616_00.pdf",
   "parties": "J.M. Kapuru Banda Vs. S.V. Muthubanda",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

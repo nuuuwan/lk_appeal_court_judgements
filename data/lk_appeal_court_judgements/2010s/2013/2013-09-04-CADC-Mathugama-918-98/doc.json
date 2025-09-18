@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-09-04-CADC-Mathugama-918-98",
   "num": "CADC Mathugama 918/98",
   "date_str": "2013-09-04",
   "description": "Pothuwilage Karunadasa Arachchigoda Vs. H.M. Sudubanda Arachchigoda before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3f0af558-b7c2-45fc-898b-28dd3f9cf901&filename=ca_dc_mathugama_918_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14575",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3f0af558-b7c2-45fc-898b-28dd3f9cf901&filename=ca_dc_mathugama_918_98.pdf",
   "parties": "Pothuwilage Karunadasa Arachchigoda Vs. H.M. Sudubanda Arachchigoda",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

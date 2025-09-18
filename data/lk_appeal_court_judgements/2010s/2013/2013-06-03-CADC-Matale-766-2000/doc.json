@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-06-03-CADC-Matale-766-2000",
   "num": "CADC Matale 766/2000",
   "date_str": "2013-06-03",
   "description": "M.G. Ranasinghe Vs. M.G. Dingiri Amma before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=524ec594-162c-4c97-a51a-88f19ab80816&filename=ca_dc_matale_766_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14569",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=524ec594-162c-4c97-a51a-88f19ab80816&filename=ca_dc_matale_766_2000.pdf",
   "parties": "M.G. Ranasinghe Vs. M.G. Dingiri Amma",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

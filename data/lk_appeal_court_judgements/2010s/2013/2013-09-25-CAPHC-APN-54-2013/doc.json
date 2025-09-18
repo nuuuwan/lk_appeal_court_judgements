@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-09-25-CAPHC-APN-54-2013",
   "num": "CAPHC APN 54/2013",
   "date_str": "2013-09-25",
   "description": "G.K.D. Stephan Gunaratne Vs. Maddumage Thushara Indika Sampath & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=720ba753-1768-4080-a5cb-ca9371e94327&filename=ca_phc_apn_54_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14577",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=720ba753-1768-4080-a5cb-ca9371e94327&filename=ca_phc_apn_54_2013.pdf",
   "parties": "G.K.D. Stephan Gunaratne Vs. Maddumage Thushara Indika Sampath & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

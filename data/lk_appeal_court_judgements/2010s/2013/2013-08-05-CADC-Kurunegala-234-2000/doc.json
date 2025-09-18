@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-08-05-CADC-Kurunegala-234-2000",
   "num": "CADC Kurunegala 234/2000",
   "date_str": "2013-08-05",
   "description": "R. Priyawathie Vs. R. Anulawathie before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=198c8095-d436-4fcb-8427-efb77328539f&filename=ca_dc_kurunegala_234_00.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14573",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=198c8095-d436-4fcb-8427-efb77328539f&filename=ca_dc_kurunegala_234_00.pdf",
   "parties": "R. Priyawathie Vs. R. Anulawathie",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

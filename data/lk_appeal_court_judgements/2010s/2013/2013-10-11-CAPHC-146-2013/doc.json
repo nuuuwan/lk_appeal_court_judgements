@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-10-11-CAPHC-146-2013",
   "num": "CAPHC 146/2013",
   "date_str": "2013-10-11",
   "description": " before Commissioner, Co-operative Development Department Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2f344cee-5fba-467a-90c5-fbe7861f4a0e&filename=ca_phc_146_2003.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14577",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2f344cee-5fba-467a-90c5-fbe7861f4a0e&filename=ca_phc_146_2003.pdf",
   "parties": "",
   "judgement_by": "Commissioner, Co-operative Development Department Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

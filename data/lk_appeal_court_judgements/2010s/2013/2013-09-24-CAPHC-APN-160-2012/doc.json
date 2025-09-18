@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-09-24-CAPHC-APN-160-2012",
   "num": "CAPHC APN 160/2012",
   "date_str": "2013-09-24",
   "description": " before M. Roshan Dilruk Fernando Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=102252cb-eff4-45a1-8c60-33025fcf87e3&filename=ca_phc_apn_160_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14577",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=102252cb-eff4-45a1-8c60-33025fcf87e3&filename=ca_phc_apn_160_2012.pdf",
   "parties": "",
   "judgement_by": "M. Roshan Dilruk Fernando Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

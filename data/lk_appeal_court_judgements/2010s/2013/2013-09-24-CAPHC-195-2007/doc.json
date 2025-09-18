@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-09-24-CAPHC-195-2007",
   "num": "CAPHC 195/2007",
   "date_str": "2013-09-24",
   "description": "K.V. Lasantha Jagathpriya Vs. K.A.C.P. Pushpa Kumara before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d79133fe-65ca-4a40-8b69-2a7e5b72b42d&filename=ca_phc_195_2007.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14577",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d79133fe-65ca-4a40-8b69-2a7e5b72b42d&filename=ca_phc_195_2007.pdf",
   "parties": "K.V. Lasantha Jagathpriya Vs. K.A.C.P. Pushpa Kumara",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

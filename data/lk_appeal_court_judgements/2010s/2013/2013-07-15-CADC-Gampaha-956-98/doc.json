@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-07-15-CADC-Gampaha-956-98",
   "num": "CADC Gampaha 956/98",
   "date_str": "2013-07-15",
   "description": "P.H.A. Wilson Vs. D.A. Seelawathie before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=af34aa6d-86dd-4464-ad9f-2403bc021bda&filename=ca_dc_gampaha_956_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14573",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=af34aa6d-86dd-4464-ad9f-2403bc021bda&filename=ca_dc_gampaha_956_98.pdf",
   "parties": "P.H.A. Wilson Vs. D.A. Seelawathie",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-04-04-CAPHC-133-2001",
   "num": "CAPHC 133/2001",
   "date_str": "2013-04-04",
   "description": "Michael Gnanamma & Another Vs. Malcom Chandrasiri Bandara Thalwatte & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=42d1729c-f840-456c-8f04-8aed9535799e&filename=ca_phc_133_2001.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14565",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=42d1729c-f840-456c-8f04-8aed9535799e&filename=ca_phc_133_2001.pdf",
   "parties": "Michael Gnanamma & Another Vs. Malcom Chandrasiri Bandara Thalwatte & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

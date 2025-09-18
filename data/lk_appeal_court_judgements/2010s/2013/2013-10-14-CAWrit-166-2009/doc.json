@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-10-14-CAWrit-166-2009",
   "num": "CAWrit 166/2009",
   "date_str": "2013-10-14",
   "description": "Sonic Steel Industries (Private) Limited Vs. Prof. G. L. Peiris And 06 others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7396d564-71dd-4f9f-ad59-21b2dff38e93&filename=ca_writ_166_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14579",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7396d564-71dd-4f9f-ad59-21b2dff38e93&filename=ca_writ_166_2009.pdf",
   "parties": "Sonic Steel Industries (Private) Limited Vs. Prof. G. L. Peiris And 06 others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-11-25-CAHC-Kalutara-202-2003",
   "num": "CAHC Kalutara 202/2003",
   "date_str": "2013-11-25",
   "description": " before Agampody Don Manoj Chandima de Zoysa Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8d6c495e-db30-4d38-b583-8fba6a7e330d&filename=ca_hc_kalutara_202_2003.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14579",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8d6c495e-db30-4d38-b583-8fba6a7e330d&filename=ca_hc_kalutara_202_2003.pdf",
   "parties": "",
   "judgement_by": "Agampody Don Manoj Chandima de Zoysa Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

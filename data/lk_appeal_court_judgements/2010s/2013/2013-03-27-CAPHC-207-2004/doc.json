@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-03-27-CAPHC-207-2004",
   "num": "CAPHC 207/2004",
   "date_str": "2013-03-27",
   "description": "Para Mullage Don Udaya Manoj Kumara Vs. Koholpita Pathiranalage Sumanarathna & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e8d710a7-6b91-4ad8-ba2d-b932aeb6c599&filename=ca_phc_207_2004.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14563",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e8d710a7-6b91-4ad8-ba2d-b932aeb6c599&filename=ca_phc_207_2004.pdf",
   "parties": "Para Mullage Don Udaya Manoj Kumara Vs. Koholpita Pathiranalage Sumanarathna & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-11-26-CADC-Gampola-224-2000",
   "num": "CADC Gampola 224/2000",
   "date_str": "2013-11-26",
   "description": "H.A. Lal Bandara Vs. R.M. Ukku Amma before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=045726cf-0636-447d-8739-ed03322fd0fb&filename=ca_dc_gampola_224_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14581",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=045726cf-0636-447d-8739-ed03322fd0fb&filename=ca_dc_gampola_224_2000.pdf",
   "parties": "H.A. Lal Bandara Vs. R.M. Ukku Amma",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

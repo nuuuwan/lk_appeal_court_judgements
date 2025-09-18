@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-05-07-CADC-Panadura-1112-2000",
   "num": "CADC Panadura 1112/2000",
   "date_str": "2013-05-07",
   "description": "Hapuhannadige Thilaka Wijesiri Fernando Vs. Bulathsinhala Appuhamilage Don Sunil Gunarathne before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6ca56e75-a1d0-4526-b109-fae85e500651&filename=ca_dc_panadura_1112_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14567",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6ca56e75-a1d0-4526-b109-fae85e500651&filename=ca_dc_panadura_1112_2000.pdf",
   "parties": "Hapuhannadige Thilaka Wijesiri Fernando Vs. Bulathsinhala Appuhamilage Don Sunil Gunarathne",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

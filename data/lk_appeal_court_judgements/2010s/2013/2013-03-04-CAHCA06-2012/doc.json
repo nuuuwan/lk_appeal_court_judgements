@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-03-04-CAHCA06-2012",
   "num": "CAHCA06/2012",
   "date_str": "2013-03-04",
   "description": "Pettagamage Anusha Indika Vs. Officer-in-Charge, Colombo Crimes Division And 04 Others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bbdb441f-ba8c-425b-ac7c-afa41947ae0a&filename=ca_hca_06_12.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14563",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bbdb441f-ba8c-425b-ac7c-afa41947ae0a&filename=ca_hca_06_12.pdf",
   "parties": "Pettagamage Anusha Indika Vs. Officer-in-Charge, Colombo Crimes Division And 04 Others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-09-24-CAPHC-APN-17-2013",
   "num": "CAPHC APN 17/2013",
   "date_str": "2013-09-24",
   "description": " before Teckla Nishanthi Dissanayaka Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0e37b2d8-0b47-482d-ae6b-75a3437d62a3&filename=ca_phc_apn_17_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14577",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0e37b2d8-0b47-482d-ae6b-75a3437d62a3&filename=ca_phc_apn_17_2013.pdf",
   "parties": "",
   "judgement_by": "Teckla Nishanthi Dissanayaka Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

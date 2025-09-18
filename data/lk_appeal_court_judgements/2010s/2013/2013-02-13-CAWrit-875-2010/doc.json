@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-13-CAWrit-875-2010",
   "num": "CAWrit 875/2010",
   "date_str": "2013-02-13",
   "description": "Eliyathamby Nadesamoorthy Vs. T. Asoka Peiris And 3 others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ae7d839d-d6a9-4e5c-9f0c-5541041ac75c&filename=ca_writ_875_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14561",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ae7d839d-d6a9-4e5c-9f0c-5541041ac75c&filename=ca_writ_875_2010.pdf",
   "parties": "Eliyathamby Nadesamoorthy Vs. T. Asoka Peiris And 3 others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

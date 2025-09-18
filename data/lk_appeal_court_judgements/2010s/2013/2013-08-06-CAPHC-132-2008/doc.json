@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-08-06-CAPHC-132-2008",
   "num": "CAPHC 132/2008",
   "date_str": "2013-08-06",
   "description": "Ceylon Cold Stores Company Ltd Vs. R.A.Prageeth aliyas Jayathilake before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6854ba90-2643-442f-9aac-1a45f50427db&filename=ca_phc_132_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14573",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6854ba90-2643-442f-9aac-1a45f50427db&filename=ca_phc_132_2008.pdf",
   "parties": "Ceylon Cold Stores Company Ltd Vs. R.A.Prageeth aliyas Jayathilake",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

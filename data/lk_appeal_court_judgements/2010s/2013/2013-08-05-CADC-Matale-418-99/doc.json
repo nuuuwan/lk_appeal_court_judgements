@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-08-05-CADC-Matale-418-99",
   "num": "CADC Matale 418/99",
   "date_str": "2013-08-05",
   "description": "Thiruwonam Kumaraswami Vs. M.H.A. Rauff before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=92f8a2f0-6316-4f88-8649-ffa2f3ec679b&filename=ca_dc_matale_418_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14573",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=92f8a2f0-6316-4f88-8649-ffa2f3ec679b&filename=ca_dc_matale_418_99.pdf",
   "parties": "Thiruwonam Kumaraswami Vs. M.H.A. Rauff",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

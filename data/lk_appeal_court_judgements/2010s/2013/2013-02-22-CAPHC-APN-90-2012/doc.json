@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-22-CAPHC-APN-90-2012",
   "num": "CAPHC APN 90/2012",
   "date_str": "2013-02-22",
   "description": "W.G. Sisira Saman Kumara Vs. The Hon. Attorney before  General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4efbd8cf-fe2b-412f-b0ff-f0ffb3ee8a86&filename=ca_phc_apn_90_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14563",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4efbd8cf-fe2b-412f-b0ff-f0ffb3ee8a86&filename=ca_phc_apn_90_2012.pdf",
   "parties": "W.G. Sisira Saman Kumara Vs. The Hon. Attorney",
   "judgement_by": " General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

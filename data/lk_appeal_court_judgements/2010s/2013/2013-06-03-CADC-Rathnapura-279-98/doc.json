@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-06-03-CADC-Rathnapura-279-98",
   "num": "CADC Rathnapura 279/98",
   "date_str": "2013-06-03",
   "description": "Hewa Magalgodage Heen Menike Vs. Padukkage Dona Cicilina Hamine before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a6b72c47-8a3c-4a7f-af39-c91156aedbcc&filename=ca_dc_rathnapura_279_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14569",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a6b72c47-8a3c-4a7f-af39-c91156aedbcc&filename=ca_dc_rathnapura_279_98.pdf",
   "parties": "Hewa Magalgodage Heen Menike Vs. Padukkage Dona Cicilina Hamine",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

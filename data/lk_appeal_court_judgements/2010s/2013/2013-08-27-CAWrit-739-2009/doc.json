@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-08-27-CAWrit-739-2009",
   "num": "CAWrit 739/2009",
   "date_str": "2013-08-27",
   "description": " before Hettige Don Somapala Vs. Hon. Janaka Bandara Tennakoon (M.P) & others",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7beecd29-eb92-4693-98d2-59837ba1385a&filename=ca_writ_739_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14575",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7beecd29-eb92-4693-98d2-59837ba1385a&filename=ca_writ_739_2009.pdf",
   "parties": "",
   "judgement_by": "Hettige Don Somapala Vs. Hon. Janaka Bandara Tennakoon (M.P) & others",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

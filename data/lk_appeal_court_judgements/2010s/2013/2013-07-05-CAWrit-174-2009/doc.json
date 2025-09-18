@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-07-05-CAWrit-174-2009",
   "num": "CAWrit 174/2009",
   "date_str": "2013-07-05",
   "description": "Don. Chaminda Padma Kumara Jayasekara Kulasinghe Vs. Inspector General of Police,Police Headquarters before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dd1d9d80-609f-4a66-87f6-4fce25031c6c&filename=ca_writ_174_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14571",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dd1d9d80-609f-4a66-87f6-4fce25031c6c&filename=ca_writ_174_2009.pdf",
   "parties": "Don. Chaminda Padma Kumara Jayasekara Kulasinghe Vs. Inspector General of Police,Police Headquarters",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

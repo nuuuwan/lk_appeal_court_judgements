@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-08-16-CAHC-Chilaw-132-2011",
   "num": "CAHC Chilaw 132/2011",
   "date_str": "2013-08-16",
   "description": " before Jayaweera Arachchige Sheela Ramani Vs. Hon. The Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1a0d1698-c24b-4cea-807f-963a9e9f99ae&filename=ca_hc_chilaw_132_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14573",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1a0d1698-c24b-4cea-807f-963a9e9f99ae&filename=ca_hc_chilaw_132_2011.pdf",
   "parties": "",
   "judgement_by": "Jayaweera Arachchige Sheela Ramani Vs. Hon. The Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

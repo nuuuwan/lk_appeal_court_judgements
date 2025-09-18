@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-10-01-CADC-Colombo-403-99",
   "num": "CADC Colombo 403/99",
   "date_str": "2013-10-01",
   "description": "Sandhya Kanthi Ratnaweera Vs. Mercantile Credit Private Limited & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1186ab4e-1d48-47e7-8e0a-0a32d8db7b5f&filename=ca_dc_colombo_403_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14561",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1186ab4e-1d48-47e7-8e0a-0a32d8db7b5f&filename=ca_dc_colombo_403_99.pdf",
   "parties": "Sandhya Kanthi Ratnaweera Vs. Mercantile Credit Private Limited & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

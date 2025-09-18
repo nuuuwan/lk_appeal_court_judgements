@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-06-18-CAPHC-175-2006",
   "num": "CAPHC 175/2006",
   "date_str": "2013-06-18",
   "description": "W.A. Kapilarathna Vs. Ceylon Petroliam Co-operation before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9fcff437-2494-4b80-8ef1-e073c51805c2&filename=ca_phc_175_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14569",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9fcff437-2494-4b80-8ef1-e073c51805c2&filename=ca_phc_175_2006.pdf",
   "parties": "W.A. Kapilarathna Vs. Ceylon Petroliam Co-operation",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-11-07-CAHC-Gampaha-108-2005",
   "num": "CAHC Gampaha 108/2005",
   "date_str": "2013-11-07",
   "description": "Liyana Mendis Keerthi Sudarman Harisachandra Vs. The Democratic Socialist Republic of Sri Lanka before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f8b0475a-3ecb-4eb2-8744-5dfec10d6cb2&filename=ca_hc_gampaha_108_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14579",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f8b0475a-3ecb-4eb2-8744-5dfec10d6cb2&filename=ca_hc_gampaha_108_2005.pdf",
   "parties": "Liyana Mendis Keerthi Sudarman Harisachandra Vs. The Democratic Socialist Republic of Sri Lanka",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

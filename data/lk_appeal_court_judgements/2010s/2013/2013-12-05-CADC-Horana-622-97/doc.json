@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-12-05-CADC-Horana-622-97",
   "num": "CADC Horana 622/97",
   "date_str": "2013-12-05",
   "description": "Pallathannage Keerthirathne Vs. Chalart de Silva & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=665838f6-d622-4eca-8cef-7cdfe83b7cf5&filename=ca_dc_horana_622_97.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14583",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=665838f6-d622-4eca-8cef-7cdfe83b7cf5&filename=ca_dc_horana_622_97.pdf",
   "parties": "Pallathannage Keerthirathne Vs. Chalart de Silva & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

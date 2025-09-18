@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-13-CAWrit-607-2010",
   "num": "CAWrit 607/2010",
   "date_str": "2013-02-13",
   "description": " before Mohamed Haneefa Mohamed Alias Mohamed Ohudu & others Vs. Hon. Janaka Bandara Tennakoon & others",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=673d9fb0-368b-4545-bf25-ac03d4a4492a&filename=ca_writ_607_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14563",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=673d9fb0-368b-4545-bf25-ac03d4a4492a&filename=ca_writ_607_2010.pdf",
   "parties": "",
   "judgement_by": "Mohamed Haneefa Mohamed Alias Mohamed Ohudu & others Vs. Hon. Janaka Bandara Tennakoon & others",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

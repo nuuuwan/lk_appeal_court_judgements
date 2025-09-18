@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-22-CAHC-Negombo-211-2006",
   "num": "CAHC Negombo 211/2006",
   "date_str": "2013-02-22",
   "description": " before Sabrudeen Kamrudeen Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=588ac3fe-a484-4280-8e4a-7dc96b3ef1e8&filename=ca_hc_negombo_211_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14563",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=588ac3fe-a484-4280-8e4a-7dc96b3ef1e8&filename=ca_hc_negombo_211_2006.pdf",
   "parties": "",
   "judgement_by": "Sabrudeen Kamrudeen Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

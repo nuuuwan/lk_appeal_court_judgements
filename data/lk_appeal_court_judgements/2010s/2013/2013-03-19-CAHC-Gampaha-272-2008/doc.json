@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-03-19-CAHC-Gampaha-272-2008",
   "num": "CAHC Gampaha 272/2008",
   "date_str": "2013-03-19",
   "description": " before Kahandawa Arachchige Don Sisira Vs. The Hon. Attorney-General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d331dc9d-f5f0-43c0-a252-c182331fe386&filename=ca_hc_gampaha_272_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14565",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d331dc9d-f5f0-43c0-a252-c182331fe386&filename=ca_hc_gampaha_272_2008.pdf",
   "parties": "",
   "judgement_by": "Kahandawa Arachchige Don Sisira Vs. The Hon. Attorney-General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

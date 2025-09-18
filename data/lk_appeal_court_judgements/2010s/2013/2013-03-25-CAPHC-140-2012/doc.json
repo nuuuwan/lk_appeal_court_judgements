@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-03-25-CAPHC-140-2012",
   "num": "CAPHC 140/2012",
   "date_str": "2013-03-25",
   "description": "Pathirage Sepala Vs. Ja Godage Asanka before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5dec52ab-6bef-415b-bcf9-4b139d3f05b7&filename=ca_phc_140_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14565",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5dec52ab-6bef-415b-bcf9-4b139d3f05b7&filename=ca_phc_140_2012.pdf",
   "parties": "Pathirage Sepala Vs. Ja Godage Asanka",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

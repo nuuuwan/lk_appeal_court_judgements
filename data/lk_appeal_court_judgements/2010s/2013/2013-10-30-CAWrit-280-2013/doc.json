@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-10-30-CAWrit-280-2013",
   "num": "CAWrit 280/2013",
   "date_str": "2013-10-30",
   "description": "Shanmugam Eswaramurthy Vs. National Housing Development Authority before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=10b0152f-72c4-4b55-b9e3-4d4cd82da846&filename=ca_writ_280_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14579",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=10b0152f-72c4-4b55-b9e3-4d4cd82da846&filename=ca_writ_280_2013.pdf",
   "parties": "Shanmugam Eswaramurthy Vs. National Housing Development Authority",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

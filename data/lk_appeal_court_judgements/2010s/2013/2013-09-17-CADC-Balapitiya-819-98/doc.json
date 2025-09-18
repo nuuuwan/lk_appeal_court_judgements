@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-09-17-CADC-Balapitiya-819-98",
   "num": "CADC Balapitiya 819/98",
   "date_str": "2013-09-17",
   "description": "Rev. Magala Somananda Thero Vs. Rev. Magala Buddhananda Thero before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d0f8f387-cf18-45ee-8121-01e05e34aeed&filename=ca_dc_balapitiya_819_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14577",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d0f8f387-cf18-45ee-8121-01e05e34aeed&filename=ca_dc_balapitiya_819_98.pdf",
   "parties": "Rev. Magala Somananda Thero Vs. Rev. Magala Buddhananda Thero",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-05-22-CADC-Badulla-385-96",
   "num": "CADC Badulla 385/96",
   "date_str": "2013-05-22",
   "description": "R.D. Rathna (Deceased) & others Vs. Rajasinghege Sarath Samaraweera alis Kammale Watte Gedara Andirisa & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=80d20342-1b31-44b9-9345-a7e38648f550&filename=ca_dc_badulla_385_1996.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14569",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=80d20342-1b31-44b9-9345-a7e38648f550&filename=ca_dc_badulla_385_1996.pdf",
   "parties": "R.D. Rathna (Deceased) & others Vs. Rajasinghege Sarath Samaraweera alis Kammale Watte Gedara Andirisa & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-04-11-CADC-Homagama-465-98",
   "num": "CADC Homagama 465/98",
   "date_str": "2013-04-11",
   "description": "Hewarainduwage Saranelis Appu Vs. Pathirage Podimenike before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=da999955-c974-4a14-b68b-ed2371d31c59&filename=ca_dc_homagama_465_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14567",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=da999955-c974-4a14-b68b-ed2371d31c59&filename=ca_dc_homagama_465_98.pdf",
   "parties": "Hewarainduwage Saranelis Appu Vs. Pathirage Podimenike",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

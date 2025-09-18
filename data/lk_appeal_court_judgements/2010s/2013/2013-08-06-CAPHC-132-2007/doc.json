@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-08-06-CAPHC-132-2007",
   "num": "CAPHC 132/2007",
   "date_str": "2013-08-06",
   "description": "S.V. Selvaraja Vs. M.A.J. Anthony Mendis before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dfbeb4dc-b044-4069-95bd-33adf45ca5b1&filename=ca_phc_132_2007.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14573",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dfbeb4dc-b044-4069-95bd-33adf45ca5b1&filename=ca_phc_132_2007.pdf",
   "parties": "S.V. Selvaraja Vs. M.A.J. Anthony Mendis",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

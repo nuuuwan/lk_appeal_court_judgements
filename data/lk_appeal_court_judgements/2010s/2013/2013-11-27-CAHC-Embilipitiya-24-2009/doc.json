@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-11-27-CAHC-Embilipitiya-24-2009",
   "num": "CAHC Embilipitiya 24/2009",
   "date_str": "2013-11-27",
   "description": " before Udawalawe Wimalawansha alias Samaraweerage Wasantha Pushpakumara Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=02cbb940-f313-4e9b-a20d-fcb512241107&filename=ca_hc_embilipitiya_24_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14581",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=02cbb940-f313-4e9b-a20d-fcb512241107&filename=ca_hc_embilipitiya_24_2009.pdf",
   "parties": "",
   "judgement_by": "Udawalawe Wimalawansha alias Samaraweerage Wasantha Pushpakumara Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

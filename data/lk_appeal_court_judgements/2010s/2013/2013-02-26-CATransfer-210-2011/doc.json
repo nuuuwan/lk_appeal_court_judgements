@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-26-CATransfer-210-2011",
   "num": "CATransfer 210/2011",
   "date_str": "2013-02-26",
   "description": "Dodampe Gamage Nihal Lakshman Abeygunawardena Vs. Pilippenge Somalatha Gunaratne & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7eddccbd-220e-4637-9602-3d43317d1623&filename=ca_transfer_210_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14563",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7eddccbd-220e-4637-9602-3d43317d1623&filename=ca_transfer_210_2011.pdf",
   "parties": "Dodampe Gamage Nihal Lakshman Abeygunawardena Vs. Pilippenge Somalatha Gunaratne & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-07-08-CAPHC-312-2006",
   "num": "CAPHC 312/2006",
   "date_str": "2013-07-08",
   "description": "Gungamuwage Piyasena & Others Vs. Chairman, Horana urban council before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a081d9eb-22da-4d1b-88ac-9b758376edc8&filename=ca_phc_312_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14571",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a081d9eb-22da-4d1b-88ac-9b758376edc8&filename=ca_phc_312_2006.pdf",
   "parties": "Gungamuwage Piyasena & Others Vs. Chairman, Horana urban council",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

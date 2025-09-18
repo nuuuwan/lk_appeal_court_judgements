@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-07-08-CADC-Kurunegala-896-98",
   "num": "CADC Kurunegala 896/98",
   "date_str": "2013-07-08",
   "description": "M.A. Sugathadasa Vs. Herath Mudiyanselage Piyadasa before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f306762e-e872-4b2d-af42-6c70744829ae&filename=ca_dc_kurunegala_896_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14573",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f306762e-e872-4b2d-af42-6c70744829ae&filename=ca_dc_kurunegala_896_98.pdf",
   "parties": "M.A. Sugathadasa Vs. Herath Mudiyanselage Piyadasa",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

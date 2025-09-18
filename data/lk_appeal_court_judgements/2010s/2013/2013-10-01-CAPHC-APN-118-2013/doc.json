@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-10-01-CAPHC-APN-118-2013",
   "num": "CAPHC APN 118/2013",
   "date_str": "2013-10-01",
   "description": " before Warnasooriya Patabendige Keerthisena Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4b8de57a-cd50-41c9-a1c0-8bdaedb77bb3&filename=ca_phc_apn_118_2013.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14577",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4b8de57a-cd50-41c9-a1c0-8bdaedb77bb3&filename=ca_phc_apn_118_2013.pdf",
   "parties": "",
   "judgement_by": "Warnasooriya Patabendige Keerthisena Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

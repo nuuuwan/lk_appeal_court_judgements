@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-13-CAWrit-364-2012",
   "num": "CAWrit 364/2012",
   "date_str": "2013-02-13",
   "description": " before Chandrapala Kumarage Vs. Hon. Wimal Weerawansa, MP",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e0f4e003-d7f8-4a8a-ba20-68e0fbc6b859&filename=ca_writ_364_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14561",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e0f4e003-d7f8-4a8a-ba20-68e0fbc6b859&filename=ca_writ_364_2012.pdf",
   "parties": "",
   "judgement_by": "Chandrapala Kumarage Vs. Hon. Wimal Weerawansa, MP",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

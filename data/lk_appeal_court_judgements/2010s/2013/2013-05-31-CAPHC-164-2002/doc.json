@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-05-31-CAPHC-164-2002",
   "num": "CAPHC 164/2002",
   "date_str": "2013-05-31",
   "description": "U.N.Gunasekara & Others Vs. The Chairman,Employees Trust Fund before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=56f8308a-9be8-4869-be45-0f54da2fe0f2&filename=ca_phc_164_2002.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14569",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=56f8308a-9be8-4869-be45-0f54da2fe0f2&filename=ca_phc_164_2002.pdf",
   "parties": "U.N.Gunasekara & Others Vs. The Chairman,Employees Trust Fund",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

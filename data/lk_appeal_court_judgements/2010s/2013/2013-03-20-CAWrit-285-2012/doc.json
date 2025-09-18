@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-03-20-CAWrit-285-2012",
   "num": "CAWrit 285/2012",
   "date_str": "2013-03-20",
   "description": "Saruwa Liyanage Sunil Vs. Mahinda Deshapriya & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6c010aba-2a82-4eb6-8c38-2a062547c81b&filename=ca_writ_285_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14565",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6c010aba-2a82-4eb6-8c38-2a062547c81b&filename=ca_writ_285_2012.pdf",
   "parties": "Saruwa Liyanage Sunil Vs. Mahinda Deshapriya & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-09-13-CAPHC-115-2011",
   "num": "CAPHC 115/2011",
   "date_str": "2013-09-13",
   "description": "Yodasinghage Christy Jayananda Vs. Labour Commissioner before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=994523b7-9326-40a1-ae93-281f1cd423ff&filename=ca_phc_115_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14577",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=994523b7-9326-40a1-ae93-281f1cd423ff&filename=ca_phc_115_2011.pdf",
   "parties": "Yodasinghage Christy Jayananda Vs. Labour Commissioner",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

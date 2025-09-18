@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-06-05-CADC-Marawila-1178-2000",
   "num": "CADC Marawila 1178/2000",
   "date_str": "2013-06-05",
   "description": "W. Sebastian Femando Vs. Noel Medit Fernando Kolambage before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=871d62f9-bdeb-49d1-a499-24bb836704b0&filename=ca_dc_marawila_1178_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14569",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=871d62f9-bdeb-49d1-a499-24bb836704b0&filename=ca_dc_marawila_1178_2000.pdf",
   "parties": "W. Sebastian Femando Vs. Noel Medit Fernando Kolambage",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

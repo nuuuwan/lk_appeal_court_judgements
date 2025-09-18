@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-09-17-CADC-Walasmulla-907-2000",
   "num": "CADC Walasmulla 907/2000",
   "date_str": "2013-09-17",
   "description": "Wijamunige Wijepala Vs. Wijamunige Upasena before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=04d622ad-6b5f-4f61-a003-76a7742e77c2&filename=ca_dc_walasmulla_907_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14577",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=04d622ad-6b5f-4f61-a003-76a7742e77c2&filename=ca_dc_walasmulla_907_2000.pdf",
   "parties": "Wijamunige Wijepala Vs. Wijamunige Upasena",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-11-18-CAHC-Trincomalee-82-2009",
   "num": "CAHC Trincomalee 82/2009",
   "date_str": "2013-11-18",
   "description": "Mohamed Haneefa Naleem Vs. Republic of Sri Lanka before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6a96bc92-8ee7-4e5c-ab65-fbd7720bf2ed&filename=ca_hc_trincomalee_82_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14579",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6a96bc92-8ee7-4e5c-ab65-fbd7720bf2ed&filename=ca_hc_trincomalee_82_2009.pdf",
   "parties": "Mohamed Haneefa Naleem Vs. Republic of Sri Lanka",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

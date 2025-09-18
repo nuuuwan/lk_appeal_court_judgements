@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-04-05-CADC-Kuliyapitiya-701-98",
   "num": "CADC Kuliyapitiya 701/98",
   "date_str": "2013-04-05",
   "description": "Horathepola Gunaratne Thera Vs. A.P.M.Samsudeen & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=95f0fa2e-b16a-4029-ba62-5bf5c4609244&filename=ca_dc_kuliyapitiya_701_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14567",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=95f0fa2e-b16a-4029-ba62-5bf5c4609244&filename=ca_dc_kuliyapitiya_701_98.pdf",
   "parties": "Horathepola Gunaratne Thera Vs. A.P.M.Samsudeen & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

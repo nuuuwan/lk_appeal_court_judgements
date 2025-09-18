@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-05-04--CAPA",
   "num": "/CAPA",
   "date_str": "2012-05-04",
   "description": "HC Colombo MC Fort 158\\2006 Morgan Engineering (Private) Ltd Vs. L H M B B Herath before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=41862195-60b7-4d20-acf9-ae8066279b7c&filename=ca_pa_hc_colombo_mc_fort_158_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14586",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=41862195-60b7-4d20-acf9-ae8066279b7c&filename=ca_pa_hc_colombo_mc_fort_158_2006.pdf",
   "parties": "HC Colombo MC Fort 158\\2006 Morgan Engineering (Private) Ltd Vs. L H M B B Herath",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-07-08-CADC-Kalutara-319-98",
   "num": "CADC Kalutara 319/98",
   "date_str": "2013-07-08",
   "description": "Hathuru Singhe Premadasa Silva Vs. Mahadurage Sisiwathi Perera before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6f9766d3-2e88-480b-af19-720ecee0eabc&filename=ca_dc_kalutara_319_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14571",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6f9766d3-2e88-480b-af19-720ecee0eabc&filename=ca_dc_kalutara_319_98.pdf",
   "parties": "Hathuru Singhe Premadasa Silva Vs. Mahadurage Sisiwathi Perera",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

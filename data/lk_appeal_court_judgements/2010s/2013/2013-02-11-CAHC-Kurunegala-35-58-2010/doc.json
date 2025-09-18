@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-11-CAHC-Kurunegala-35-58-2010",
   "num": "CAHC Kurunegala 35-58/2010",
   "date_str": "2013-02-11",
   "description": "SNM Samarakoon Banda & others Vs. The Attorney General before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a1a238fe-b3a4-4fbd-809d-a02e02361f97&filename=ca_hc_kurunegala_35-38_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14561",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a1a238fe-b3a4-4fbd-809d-a02e02361f97&filename=ca_hc_kurunegala_35-38_2010.pdf",
   "parties": "SNM Samarakoon Banda & others Vs. The Attorney General",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

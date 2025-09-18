@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-08-30-CADC-Mt-Lavinia-325-2000",
   "num": "CADC Mt.Lavinia 325/2000",
   "date_str": "2013-08-30",
   "description": "Kalukapuge Ariyasena alias Ariyaratna Perera Vs. Ranasinghe Arachchige Kanthilatha Bodhipala before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9160bf8c-8df8-4ca2-a246-2a68db2cfe7f&filename=ca_dc_mt.lavinia_325_00.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14575",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9160bf8c-8df8-4ca2-a246-2a68db2cfe7f&filename=ca_dc_mt.lavinia_325_00.pdf",
   "parties": "Kalukapuge Ariyasena alias Ariyaratna Perera Vs. Ranasinghe Arachchige Kanthilatha Bodhipala",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

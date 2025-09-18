@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-15-CADC-Kalutara-744-98",
   "num": "CADC Kalutara 744/98",
   "date_str": "2013-02-15",
   "description": "K.M.S. Abuthahir Vs. Kanthasamy Vyapuri before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4c658487-d52f-4633-9826-beb9be583402&filename=ca_dc_744_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14561",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4c658487-d52f-4633-9826-beb9be583402&filename=ca_dc_744_98.pdf",
   "parties": "K.M.S. Abuthahir Vs. Kanthasamy Vyapuri",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

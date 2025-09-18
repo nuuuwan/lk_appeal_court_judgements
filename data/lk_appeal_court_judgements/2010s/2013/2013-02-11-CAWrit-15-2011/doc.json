@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-11-CAWrit-15-2011",
   "num": "CAWrit 15/2011",
   "date_str": "2013-02-11",
   "description": "Jayasinghe Pelige Nimal Jayasinghe Vs. Justice G.W. Edirisuriya & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=36d0789f-ef4a-49a8-ac88-1c0c0f264b18&filename=ca_writ_15_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14561",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=36d0789f-ef4a-49a8-ac88-1c0c0f264b18&filename=ca_writ_15_2011.pdf",
   "parties": "Jayasinghe Pelige Nimal Jayasinghe Vs. Justice G.W. Edirisuriya & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

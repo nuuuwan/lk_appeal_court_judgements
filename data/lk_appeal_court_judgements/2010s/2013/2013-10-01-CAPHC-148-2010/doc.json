@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-10-01-CAPHC-148-2010",
   "num": "CAPHC 148/2010",
   "date_str": "2013-10-01",
   "description": "Abeywickama Dhanapala Amarasena Vs. M.W. Wijethilake & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=66020e50-0a9c-4713-956d-eb219c279fee&filename=ca_phc_148_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14577",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=66020e50-0a9c-4713-956d-eb219c279fee&filename=ca_phc_148_2010.pdf",
   "parties": "Abeywickama Dhanapala Amarasena Vs. M.W. Wijethilake & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

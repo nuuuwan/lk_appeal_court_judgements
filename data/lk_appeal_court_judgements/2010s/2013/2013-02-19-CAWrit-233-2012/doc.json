@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-19-CAWrit-233-2012",
   "num": "CAWrit 233/2012",
   "date_str": "2013-02-19",
   "description": "Abdul Hameed Badurdeen Vs. The Registrar, Co-operative Societies & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e30ed115-e249-42ed-87e7-31f161a41705&filename=ca_writ_233_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14561",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e30ed115-e249-42ed-87e7-31f161a41705&filename=ca_writ_233_2012.pdf",
   "parties": "Abdul Hameed Badurdeen Vs. The Registrar, Co-operative Societies & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

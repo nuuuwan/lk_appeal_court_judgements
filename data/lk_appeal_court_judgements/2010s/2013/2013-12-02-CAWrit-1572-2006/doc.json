@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-12-02-CAWrit-1572-2006",
   "num": "CAWrit 1572/2006",
   "date_str": "2013-12-02",
   "description": "Colombo Land And Development Company Ltd Vs. Anglo Asian Supermarket Ltd before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=49ccf73f-f341-4011-a206-fd798a17397d&filename=ca_writ_1572_06.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14581",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=49ccf73f-f341-4011-a206-fd798a17397d&filename=ca_writ_1572_06.pdf",
   "parties": "Colombo Land And Development Company Ltd Vs. Anglo Asian Supermarket Ltd",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

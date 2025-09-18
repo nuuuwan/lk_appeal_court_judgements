@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-12-19-CAHC-Kandy-218-2010",
   "num": "CAHC Kandy 218/2010",
   "date_str": "2013-12-19",
   "description": " before Hene Gedara Wijedasa Alias Wedikkaraya Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d3c8da58-e202-470b-9334-1dbbede803ee&filename=ca_hc_kandy_218_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14583",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d3c8da58-e202-470b-9334-1dbbede803ee&filename=ca_hc_kandy_218_2010.pdf",
   "parties": "",
   "judgement_by": "Hene Gedara Wijedasa Alias Wedikkaraya Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

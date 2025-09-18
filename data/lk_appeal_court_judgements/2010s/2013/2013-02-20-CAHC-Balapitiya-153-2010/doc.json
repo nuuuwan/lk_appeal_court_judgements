@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-20-CAHC-Balapitiya-153-2010",
   "num": "CAHC Balapitiya 153/2010",
   "date_str": "2013-02-20",
   "description": " before Halpandeniya Hewage Ruwan Chinthaka & others Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=448e2260-0ad2-48f5-b33d-ccba1afddeb7&filename=ca_hc_balapitiya_153_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14561",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=448e2260-0ad2-48f5-b33d-ccba1afddeb7&filename=ca_hc_balapitiya_153_2010.pdf",
   "parties": "",
   "judgement_by": "Halpandeniya Hewage Ruwan Chinthaka & others Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

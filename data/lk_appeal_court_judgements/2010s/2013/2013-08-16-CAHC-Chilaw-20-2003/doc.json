@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-08-16-CAHC-Chilaw-20-2003",
   "num": "CAHC Chilaw 20/2003",
   "date_str": "2013-08-16",
   "description": " before W.A. Camilus Silva Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bccfe440-5342-4bb3-bd5e-3498a78eb035&filename=ca_hc_chilaw_20_2003.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14573",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bccfe440-5342-4bb3-bd5e-3498a78eb035&filename=ca_hc_chilaw_20_2003.pdf",
   "parties": "",
   "judgement_by": "W.A. Camilus Silva Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

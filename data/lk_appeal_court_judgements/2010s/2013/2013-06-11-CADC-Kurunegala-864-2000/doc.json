@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-06-11-CADC-Kurunegala-864-2000",
   "num": "CADC Kurunegala 864/2000",
   "date_str": "2013-06-11",
   "description": "M. Serasinghe Vs. D.M. Kanakarathna - Hon. K.T. Chitrasiri, J before  Failure to make the parties in the Appeal and the applicability of section 770 of The CPC",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4a6d37ac-5a6e-4e76-b36d-09e06aaaacbe&filename=ca_dc_kurunegala_864_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14571",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4a6d37ac-5a6e-4e76-b36d-09e06aaaacbe&filename=ca_dc_kurunegala_864_2000.pdf",
   "parties": "M. Serasinghe Vs. D.M. Kanakarathna - Hon. K.T. Chitrasiri, J",
   "judgement_by": " Failure to make the parties in the Appeal and the applicability of section 770 of The CPC",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

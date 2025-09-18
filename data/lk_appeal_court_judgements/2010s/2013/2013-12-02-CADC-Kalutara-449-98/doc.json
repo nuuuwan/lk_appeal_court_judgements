@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-12-02-CADC-Kalutara-449-98",
   "num": "CADC Kalutara 449/98",
   "date_str": "2013-12-02",
   "description": "Mahmood Marikkar Ummu Majeed Vs. Mahood Marikkar Mohamed Marzook before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=271df8f7-c11d-48c5-b879-48a8edbbe551&filename=ca_dc_kalutara_449_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14581",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=271df8f7-c11d-48c5-b879-48a8edbbe551&filename=ca_dc_kalutara_449_98.pdf",
   "parties": "Mahmood Marikkar Ummu Majeed Vs. Mahood Marikkar Mohamed Marzook",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-11-04-CADC-Kegalle-681-98",
   "num": "CADC Kegalle 681/98",
   "date_str": "2013-11-04",
   "description": "Kande Ralalage Podinilame Vs. Mudiyanselage Dingiri Mahaththaya & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d502086d-4907-4cb2-9cd0-719a4c7793cb&filename=ca_dc_kegalle_681_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14579",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d502086d-4907-4cb2-9cd0-719a4c7793cb&filename=ca_dc_kegalle_681_98.pdf",
   "parties": "Kande Ralalage Podinilame Vs. Mudiyanselage Dingiri Mahaththaya & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

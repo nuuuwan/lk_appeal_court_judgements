@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-03-19-CAWrit-504-2010",
   "num": "CAWrit 504/2010",
   "date_str": "2013-03-19",
   "description": "Dingiri Bandara Aldeniya Vs. The Secretary, Administrative Appeals Tribunal before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5d5b04b1-1eae-4a8d-a881-6917e476f83a&filename=ca_writ_504_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14565",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5d5b04b1-1eae-4a8d-a881-6917e476f83a&filename=ca_writ_504_2010.pdf",
   "parties": "Dingiri Bandara Aldeniya Vs. The Secretary, Administrative Appeals Tribunal",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

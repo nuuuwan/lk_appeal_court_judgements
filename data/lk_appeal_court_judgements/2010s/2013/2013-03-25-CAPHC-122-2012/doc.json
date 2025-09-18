@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-03-25-CAPHC-122-2012",
   "num": "CAPHC 122/2012",
   "date_str": "2013-03-25",
   "description": "Rathnayake Mudiyanselage Gunawathi Vs. Weerapperuma Arachchi Athukorala & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8584498f-1976-4663-a5b1-86d5c2c51e31&filename=ca_phc_122_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14565",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8584498f-1976-4663-a5b1-86d5c2c51e31&filename=ca_phc_122_2012.pdf",
   "parties": "Rathnayake Mudiyanselage Gunawathi Vs. Weerapperuma Arachchi Athukorala & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }
