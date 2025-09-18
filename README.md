@@ -1,11 +1,11 @@
 # 🇱🇰 #SriLanka Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_06:32:31-green)
-![DatasetSize](https://img.shields.io/badge/dataset_size-10.1_GB-yellow)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_10:23:27-green)
+![DatasetSize](https://img.shields.io/badge/dataset_size-10.3_GB-yellow)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements)
 
-📜 [**10,100** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data) (**10.1 GB**), from **2012-04-23** to **2025-09-15**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**
+📜 [**10,100** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data) (**10.3 GB**), from **2012-04-23** to **2025-09-15**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**
 
 📑 In JSON, PDF, TXT and 🤗 Hugging Face Formats
 
@@ -25,11 +25,14 @@
 
 ```json
 {
+    "doc_type": "lk_appeal_court_judgements",
+    "doc_id": "2025-09-15-CA--PHC--140--2020",
     "num": "CA/ PHC/ 140/ 2020",
     "date_str": "2025-09-15",
     "description": "Liyana Arachchige Asanka Maduranga Vs. Jayaratna Muhandiramge Lasantha Sanjula before Hon. Damith Thotawatte, J.",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ed6141e8-3216-4dce-b736-c7fb13560cad&filename=CA%20PHC%20140-20%20Judgment%20%28Final%29.pdf.pdf",
     "url_metadata": "https://courtofappeal.lk/?page_id=13121",
+    "lang": "en",
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ed6141e8-3216-4dce-b736-c7fb13560cad&filename=CA%20PHC%20140-20%20Judgment%20%28Final%29.pdf.pdf",
     "parties": "Liyana Arachchige Asanka Maduranga Vs. Jayaratna Muhandiramge Lasantha Sanjula",
     "judgement_by": "Hon. Damith Thotawatte, J.",
     "keywords": "Section 66 and 68 of the PCPA, Section 72 of the PCPA- wide discretion for Primary Court Judge, Claims to ownership \u2013 irrelevant, Control of the premises",
