@@ -1,11 +1,11 @@
 # 🇱🇰 #SriLanka Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_10:23:27-green)
-![DatasetSize](https://img.shields.io/badge/dataset_size-10.3_GB-yellow)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_10:29:24-green)
+![DatasetSize](https://img.shields.io/badge/dataset_size-10.1_GB-yellow)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements)
 
-📜 [**10,100** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data) (**10.3 GB**), from **2012-04-23** to **2025-09-15**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**
+📜 [**10,100** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data) (**10.1 GB**), from **2012-04-23** to **2025-09-15**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**
 
 📑 In JSON, PDF, TXT and 🤗 Hugging Face Formats
 
