@@ -2,11 +2,11 @@ from dataclasses import dataclass
 from typing import Generator
 
 from appeals.pages import AppealsHomePage
-from pdf_scraper import AbstractDoc
+from scraper import AbstractPDFDoc
 
 
 @dataclass
-class AppealsDoc(AbstractDoc):
+class AppealsDoc(AbstractPDFDoc):
     parties: str
     judgement_by: str
     keywords: str
