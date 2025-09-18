@@ -1,14 +1,14 @@
 # 🇱🇰 #SriLanka Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_19:46:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--18_23:56:17-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements)
 
-📜 [**10,103** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data) (**10.1 GB**), from **2012-04-23** to **2025-09-18**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**
+- [**10,103** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data) (**10.3 GB**), from **2012-04-23** to **2025-09-18**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**
 
-💾 In ✅ **JSON**, ✅ **PDF**, ☑️ **TXT** (0%) and ☑️ **🤗 Hugging Face** (0%)
+- In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
-🗣️ In **English**
+- In **English**
 
 ## 📝 Example Metadata
 
@@ -37,8 +37,8 @@
 
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace)
 
-- 📄 [nuuuwan/lk-appeal-court-judgements-docs](https://huggingface.co/datasets/nuuuwan/lk-appeal-court-judgements-docs)
-- 📦 [nuuuwan/lk-appeal-court-judgements-chunks](https://huggingface.co/datasets/nuuuwan/lk-appeal-court-judgements-chunks)
+- [nuuuwan/lk-appeal-court-judgements-docs](https://huggingface.co/datasets/nuuuwan/lk-appeal-court-judgements-docs)
+- [nuuuwan/lk-appeal-court-judgements-chunks](https://huggingface.co/datasets/nuuuwan/lk-appeal-court-judgements-chunks)
 
 ## 🆕 20 Latest documents
 
@@ -64,6 +64,8 @@
 - 2025-08-29 | `CA/WRT/422/2023` | Rathnayaka Mudiyanselage Weerasinghe and Others Vs Hon. (Dr.) Susil Premajayantha and Others before Hon. S.U.B. Karalliyadde, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-08-29-CA-WRT-422-2023)
 
 ---
+
+### [More Datasets about 🇱🇰 #SriLanka](https://github.com/nuuuwan/lk_datasets)
 
 ![Maintainer](https://img.shields.io/badge/maintainer-nuuuwan-red)
 ![MadeWith](https://img.shields.io/badge/made_with-python-blue)
