@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-05-CAPHC-APN-3-2010",
   "num": "CAPHC APN 3/2010",
   "date_str": "2012-07-05",
   "description": "Suhada Gamalath Vs. Kristina Ivasauskaite-Rosario before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5fd7675f-4fbe-443c-8673-dd86c7e74661&filename=ca_pa_3_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14621",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5fd7675f-4fbe-443c-8673-dd86c7e74661&filename=ca_pa_3_2010.pdf",
   "parties": "Suhada Gamalath Vs. Kristina Ivasauskaite-Rosario",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

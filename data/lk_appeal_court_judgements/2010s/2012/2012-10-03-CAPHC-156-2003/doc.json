@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-03-CAPHC-156-2003",
   "num": "CAPHC 156/2003",
   "date_str": "2012-10-03",
   "description": "Ilanda Jadege Anulawathi Vs. Rankoth Jadege Jayalath Kumara before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ff79c70e-933f-4ca2-b061-91e1fc3f9b85&filename=ca_phc_156_2003.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ff79c70e-933f-4ca2-b061-91e1fc3f9b85&filename=ca_phc_156_2003.pdf",
   "parties": "Ilanda Jadege Anulawathi Vs. Rankoth Jadege Jayalath Kumara",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

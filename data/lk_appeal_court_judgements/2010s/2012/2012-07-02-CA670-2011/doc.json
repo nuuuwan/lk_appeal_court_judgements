@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-02-CA670-2011",
   "num": "CA670/2011",
   "date_str": "2012-07-02",
   "description": "Medille Gedara Wijayarathne Vs. T.A.W.Dayananda and Others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5f418d74-2d06-49cb-b38e-93e1d3d0d197&filename=ca_670_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14633",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5f418d74-2d06-49cb-b38e-93e1d3d0d197&filename=ca_670_2011.pdf",
   "parties": "Medille Gedara Wijayarathne Vs. T.A.W.Dayananda and Others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

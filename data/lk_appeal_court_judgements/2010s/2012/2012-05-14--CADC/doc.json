@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-05-14--CADC",
   "num": "/CADC",
   "date_str": "2012-05-14",
   "description": "Mt_Lavinia 688\\96 Costa Patabendige Anne Sugandika Yasmin Vs. Thotahewage Asanka Sanjaya Jayamanne and Aswadduma Gedara Jayatilleka before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2ad6e9f5-d827-403f-a65b-99441c68da23&filename=ca_dc_mt_lavinia_688_96_f.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14619",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2ad6e9f5-d827-403f-a65b-99441c68da23&filename=ca_dc_mt_lavinia_688_96_f.pdf",
   "parties": "Mt_Lavinia 688\\96 Costa Patabendige Anne Sugandika Yasmin Vs. Thotahewage Asanka Sanjaya Jayamanne and Aswadduma Gedara Jayatilleka",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

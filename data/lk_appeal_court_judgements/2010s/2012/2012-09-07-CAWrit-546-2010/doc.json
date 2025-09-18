@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-09-07-CAWrit-546-2010",
   "num": "CAWrit 546/2010",
   "date_str": "2012-09-07",
   "description": "Ceylinco Homes International (Lotus Tower) Limited Vs. W.J.L.U. Wijeweera & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=14d17428-0f36-4b02-ba75-e00ff95dc626&filename=ca_writ_546_10.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14598",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=14d17428-0f36-4b02-ba75-e00ff95dc626&filename=ca_writ_546_10.pdf",
   "parties": "Ceylinco Homes International (Lotus Tower) Limited Vs. W.J.L.U. Wijeweera & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

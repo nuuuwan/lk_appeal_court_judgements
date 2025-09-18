@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-03-CAWrit-221-2010",
   "num": "CAWrit 221/2010",
   "date_str": "2012-10-03",
   "description": "Badurakada Kamalsiri Vs. R.M.G.Senaratne & 4 others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=13161b61-a612-454f-9709-da8286acf8cd&filename=ca_writ_221_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14598",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=13161b61-a612-454f-9709-da8286acf8cd&filename=ca_writ_221_2010.pdf",
   "parties": "Badurakada Kamalsiri Vs. R.M.G.Senaratne & 4 others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

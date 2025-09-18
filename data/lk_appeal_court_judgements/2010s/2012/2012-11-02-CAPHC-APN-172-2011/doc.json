@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-02-CAPHC-APN-172-2011",
   "num": "CAPHC APN 172/2011",
   "date_str": "2012-11-02",
   "description": " before Tennakoon Mudiyanselage Kanchana Dilrukshi Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bd6ed0a7-405f-4db6-8ed3-4c25e00ad3cf&filename=ca_phc_apn_172_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14594",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bd6ed0a7-405f-4db6-8ed3-4c25e00ad3cf&filename=ca_phc_apn_172_2011.pdf",
   "parties": "",
   "judgement_by": "Tennakoon Mudiyanselage Kanchana Dilrukshi Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

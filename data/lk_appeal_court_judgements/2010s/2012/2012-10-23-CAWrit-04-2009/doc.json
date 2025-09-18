@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-23-CAWrit-04-2009",
   "num": "CAWrit 04/2009",
   "date_str": "2012-10-23",
   "description": "Asian Hotels & Properties PLC Vs. Frederick S. Benjamin & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8dd689e4-12e9-47f3-bf35-68fa465540e3&filename=ca_writ_04_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8dd689e4-12e9-47f3-bf35-68fa465540e3&filename=ca_writ_04_2009.pdf",
   "parties": "Asian Hotels & Properties PLC Vs. Frederick S. Benjamin & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

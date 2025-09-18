@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-09-CA116-2011",
   "num": "CA116/2011",
   "date_str": "2012-07-09",
   "description": "Jayasiri Jayasinghe Vs. Dayananda Dissanayake & Others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b6d8e9eb-13e8-4e80-8521-9e2670f1ff0b&filename=ca_116_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14619",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b6d8e9eb-13e8-4e80-8521-9e2670f1ff0b&filename=ca_116_2011.pdf",
   "parties": "Jayasiri Jayasinghe Vs. Dayananda Dissanayake & Others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-09-28-CADC-Galle-1250-1998",
   "num": "CADC Galle 1250/1998",
   "date_str": "2012-09-28",
   "description": "M. L. Maglian Abeyratne Vs. A. Sunil Amarasiri de Silva & another before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a43957be-bec0-4463-8d91-a068feed2970&filename=ca_dc_galle_1250_1998.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a43957be-bec0-4463-8d91-a068feed2970&filename=ca_dc_galle_1250_1998.pdf",
   "parties": "M. L. Maglian Abeyratne Vs. A. Sunil Amarasiri de Silva & another",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

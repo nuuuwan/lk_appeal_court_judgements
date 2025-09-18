@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-02-CAPHC-APN-142-2011Kaduruwana",
   "num": "CAPHC APN 142/2011Kaduruwana",
   "date_str": "2012-11-02",
   "description": " before Hewawasamge Kusumawathie Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bc19ea2a-f524-4f61-a852-b469c4e8e391&filename=ca_phc_apn_142_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14594",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bc19ea2a-f524-4f61-a852-b469c4e8e391&filename=ca_phc_apn_142_2011.pdf",
   "parties": "",
   "judgement_by": "Hewawasamge Kusumawathie Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

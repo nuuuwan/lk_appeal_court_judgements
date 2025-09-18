@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-09-CADC-Homagama-890-1998",
   "num": "CADC Homagama 890/1998",
   "date_str": "2012-11-09",
   "description": "Kulatunga Mudalige Hemakanthi Vs. M. W. Somawathie Botheju before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=687134e6-9de6-44ec-996d-6e478659f6b1&filename=ca_dc_homagama_890_1998.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14606",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=687134e6-9de6-44ec-996d-6e478659f6b1&filename=ca_dc_homagama_890_1998.pdf",
   "parties": "Kulatunga Mudalige Hemakanthi Vs. M. W. Somawathie Botheju",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

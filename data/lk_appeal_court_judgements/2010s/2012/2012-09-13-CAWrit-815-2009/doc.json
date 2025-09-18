@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-09-13-CAWrit-815-2009",
   "num": "CAWrit 815/2009",
   "date_str": "2012-09-13",
   "description": "Premasiri Hettiarachchi Vs. Justice N.E. Dissanayake & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ed733384-6701-4c0e-b761-881236e88f30&filename=ca_writ_815_09.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14596",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ed733384-6701-4c0e-b761-881236e88f30&filename=ca_writ_815_09.pdf",
   "parties": "Premasiri Hettiarachchi Vs. Justice N.E. Dissanayake & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

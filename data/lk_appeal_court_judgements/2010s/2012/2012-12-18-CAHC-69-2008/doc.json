@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-12-18-CAHC-69-2008",
   "num": "CAHC 69/2008",
   "date_str": "2012-12-18",
   "description": " before Mohomed Sardeen alias Sardi Vs. Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6787d110-1b63-4866-872d-ccda445a392d&filename=ca_hc_welikada_69_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14606",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6787d110-1b63-4866-872d-ccda445a392d&filename=ca_hc_welikada_69_2008.pdf",
   "parties": "",
   "judgement_by": "Mohomed Sardeen alias Sardi Vs. Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

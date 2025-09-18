@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-06-CAPHC-APN-183-2003",
   "num": "CAPHC APN 183/2003",
   "date_str": "2012-07-06",
   "description": "D Arjuna Dias Vs. Assistant Commissioner of Labour before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3d384963-5a22-4193-a1ee-c45828c968dd&filename=ca_pa_183_2003.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14611",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3d384963-5a22-4193-a1ee-c45828c968dd&filename=ca_pa_183_2003.pdf",
   "parties": "D Arjuna Dias Vs. Assistant Commissioner of Labour",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

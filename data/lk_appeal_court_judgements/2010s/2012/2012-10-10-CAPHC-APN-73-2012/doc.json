@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-10-CAPHC-APN-73-2012",
   "num": "CAPHC APN 73/2012",
   "date_str": "2012-10-10",
   "description": "Polgampoia Ralalage Janaka Kulathilaka Bandara Vs. Alliance Finance Company Limited before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f619c3de-8489-4da0-a56c-7617407fe766&filename=ca_phc_apn_73_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14596",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f619c3de-8489-4da0-a56c-7617407fe766&filename=ca_phc_apn_73_2012.pdf",
   "parties": "Polgampoia Ralalage Janaka Kulathilaka Bandara Vs. Alliance Finance Company Limited",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

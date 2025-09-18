@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-06-27-CADC-943-96",
   "num": "CADC 943/96",
   "date_str": "2012-06-27",
   "description": "Kurunegala Gamaralalage TIkiri Banda Jayaratne Vs. Land Reform Commission before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a2ce6b1b-84d8-481d-a5e0-c87972538850&filename=ca%20dc%20kurunegala%20943-96f.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14611",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a2ce6b1b-84d8-481d-a5e0-c87972538850&filename=ca%20dc%20kurunegala%20943-96f.pdf",
   "parties": "Kurunegala Gamaralalage TIkiri Banda Jayaratne Vs. Land Reform Commission",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

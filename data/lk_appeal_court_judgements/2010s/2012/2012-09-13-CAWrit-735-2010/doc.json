@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-09-13-CAWrit-735-2010",
   "num": "CAWrit 735/2010",
   "date_str": "2012-09-13",
   "description": "Lanka Electricity Company (Private) Limited Vs. A.V.G.D. Dilrukshi & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=236d1873-b265-46cb-b972-0ff37b6f2629&filename=ca_writ_735_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14596",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=236d1873-b265-46cb-b972-0ff37b6f2629&filename=ca_writ_735_2010.pdf",
   "parties": "Lanka Electricity Company (Private) Limited Vs. A.V.G.D. Dilrukshi & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

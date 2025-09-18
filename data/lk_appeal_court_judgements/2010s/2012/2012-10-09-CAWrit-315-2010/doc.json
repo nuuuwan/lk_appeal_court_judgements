@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-09-CAWrit-315-2010",
   "num": "CAWrit 315/2010",
   "date_str": "2012-10-09",
   "description": " before V.Mahendran Vs. Hon.Janaka Bandara Tennakoon & others",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ef79ffe8-ec66-4d56-84db-e0858fe6e94f&filename=ca_writ_315_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14598",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ef79ffe8-ec66-4d56-84db-e0858fe6e94f&filename=ca_writ_315_2010.pdf",
   "parties": "",
   "judgement_by": "V.Mahendran Vs. Hon.Janaka Bandara Tennakoon & others",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-03-12-CAWrit-568-2010",
   "num": "CAWrit 568/2010",
   "date_str": "2013-03-12",
   "description": "K.A. Nimal Rodrigo & 02 others Vs. Ceylon Electricity Board & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3c448cc5-aa6f-41c0-8420-a081e28afc66&filename=ca_writ_568_10.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14608",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3c448cc5-aa6f-41c0-8420-a081e28afc66&filename=ca_writ_568_10.pdf",
   "parties": "K.A. Nimal Rodrigo & 02 others Vs. Ceylon Electricity Board & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

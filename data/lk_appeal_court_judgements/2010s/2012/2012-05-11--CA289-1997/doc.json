@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-05-11--CA289-1997",
   "num": "/CA289\\1997",
   "date_str": "2012-05-11",
   "description": "Kankanamge Dayananda Vs. Wijesekera Liyanage Piyasena before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=87ade259-85d8-4e84-afb5-5599ae76f780&filename=ca_289_1997.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14627",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=87ade259-85d8-4e84-afb5-5599ae76f780&filename=ca_289_1997.pdf",
   "parties": "Kankanamge Dayananda Vs. Wijesekera Liyanage Piyasena",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

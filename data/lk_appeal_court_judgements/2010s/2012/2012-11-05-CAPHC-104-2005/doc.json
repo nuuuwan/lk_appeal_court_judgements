@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-05-CAPHC-104-2005",
   "num": "CAPHC 104/2005",
   "date_str": "2012-11-05",
   "description": "Kothalawalage Dona Indrani & another Vs. M.G.D. Visaka Mihindukulasuriya before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=25d606cb-f92d-463b-96ce-ace17bd414e7&filename=ca_phc_104_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14604",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=25d606cb-f92d-463b-96ce-ace17bd414e7&filename=ca_phc_104_2005.pdf",
   "parties": "Kothalawalage Dona Indrani & another Vs. M.G.D. Visaka Mihindukulasuriya",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

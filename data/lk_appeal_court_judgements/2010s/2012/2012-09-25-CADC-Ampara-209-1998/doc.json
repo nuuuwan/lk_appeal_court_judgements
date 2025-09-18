@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-09-25-CADC-Ampara-209-1998",
   "num": "CADC Ampara 209/1998",
   "date_str": "2012-09-25",
   "description": "A.R. Sumanawathie Vs. A. R. Dharmadasa before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fe7d7285-2949-45b0-be89-6b3e91dc6593&filename=ca_dc_ampara_209_1998.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14594",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fe7d7285-2949-45b0-be89-6b3e91dc6593&filename=ca_dc_ampara_209_1998.pdf",
   "parties": "A.R. Sumanawathie Vs. A. R. Dharmadasa",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

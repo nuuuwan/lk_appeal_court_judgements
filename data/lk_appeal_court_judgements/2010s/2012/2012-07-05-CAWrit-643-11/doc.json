@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-05-CAWrit-643-11",
   "num": "CAWrit 643/11",
   "date_str": "2012-07-05",
   "description": "Sevanagala Sugar Industries Limited Vs. Prime Minister, D.M. Jayaratne and Others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8cb8e724-96af-4d80-9033-84839ac63889&filename=ca_writ_643_11.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14631",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8cb8e724-96af-4d80-9033-84839ac63889&filename=ca_writ_643_11.pdf",
   "parties": "Sevanagala Sugar Industries Limited Vs. Prime Minister, D.M. Jayaratne and Others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

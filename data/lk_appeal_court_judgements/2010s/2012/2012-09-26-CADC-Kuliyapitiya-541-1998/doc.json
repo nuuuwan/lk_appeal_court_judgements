@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-09-26-CADC-Kuliyapitiya-541-1998",
   "num": "CADC Kuliyapitiya 541/1998",
   "date_str": "2012-09-26",
   "description": "R. M. Jayathileke Vs. R. M. Siriwardena before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7a7c4f74-c577-4162-8a14-b9cd4e9f161e&filename=ca_dc_kuliyapitiya_541_1998.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14594",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7a7c4f74-c577-4162-8a14-b9cd4e9f161e&filename=ca_dc_kuliyapitiya_541_1998.pdf",
   "parties": "R. M. Jayathileke Vs. R. M. Siriwardena",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

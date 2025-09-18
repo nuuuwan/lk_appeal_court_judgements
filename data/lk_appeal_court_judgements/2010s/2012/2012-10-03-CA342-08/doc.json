@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-03-CA342-08",
   "num": "CA342/08",
   "date_str": "2012-10-03",
   "description": "Kankanige Don Nihal Kodituwakku Group Capt. P.M.S. Mudammana & Others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=06453120-a69d-4203-97c0-cb073b1eae2b&filename=ca_342_08.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14598",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=06453120-a69d-4203-97c0-cb073b1eae2b&filename=ca_342_08.pdf",
   "parties": "Kankanige Don Nihal Kodituwakku Group Capt. P.M.S. Mudammana & Others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-06-27-CADC-976-96",
   "num": "CADC 976/96",
   "date_str": "2012-06-27",
   "description": "Gampaha M T Sithy Fathima Vs. Damayanthi Perera before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a3bc20d5-458f-41bb-a269-9864df7c2200&filename=ca%20dc%20gampaha%20976-96f.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14611",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a3bc20d5-458f-41bb-a269-9864df7c2200&filename=ca%20dc%20gampaha%20976-96f.pdf",
   "parties": "Gampaha M T Sithy Fathima Vs. Damayanthi Perera",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

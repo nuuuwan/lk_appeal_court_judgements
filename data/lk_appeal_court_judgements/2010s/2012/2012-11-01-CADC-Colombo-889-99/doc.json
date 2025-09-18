@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-01-CADC-Colombo-889-99",
   "num": "CADC Colombo 889/99",
   "date_str": "2012-11-01",
   "description": "P.G.A. Wijerathna Vs. Mobitel (Pvt) Ltd before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8ecb85a2-fddd-4125-b040-7bfa96661024&filename=ca_dc_colombo_889_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14600",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8ecb85a2-fddd-4125-b040-7bfa96661024&filename=ca_dc_colombo_889_99.pdf",
   "parties": "P.G.A. Wijerathna Vs. Mobitel (Pvt) Ltd",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

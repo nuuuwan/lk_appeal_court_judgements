@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-05-CALA-496-2003",
   "num": "CALA 496/2003",
   "date_str": "2012-07-05",
   "description": "Lalith Kumarage & another Vs. Ven Ahungalle Vimalanandatissa Thero & another & another before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=84d0e4b4-7bf7-4ba3-95f2-8e88a672efc7&filename=ca_la_496_2003.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14625",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=84d0e4b4-7bf7-4ba3-95f2-8e88a672efc7&filename=ca_la_496_2003.pdf",
   "parties": "Lalith Kumarage & another Vs. Ven Ahungalle Vimalanandatissa Thero & another & another",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

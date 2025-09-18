@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-06-27-CADC-1050-96",
   "num": "CADC 1050/96",
   "date_str": "2012-06-27",
   "description": "Kalutara Yakkob Lebbe Mohamed Samsudeen Vs. M C M Farook & another before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3fec910b-b403-4319-ae63-5e35d2b2d448&filename=ca_dc_kalutara_1050_96_f.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14613",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3fec910b-b403-4319-ae63-5e35d2b2d448&filename=ca_dc_kalutara_1050_96_f.pdf",
   "parties": "Kalutara Yakkob Lebbe Mohamed Samsudeen Vs. M C M Farook & another",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

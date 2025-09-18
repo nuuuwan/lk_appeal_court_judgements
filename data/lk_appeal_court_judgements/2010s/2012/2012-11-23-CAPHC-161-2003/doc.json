@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-23-CAPHC-161-2003",
   "num": "CAPHC 161/2003",
   "date_str": "2012-11-23",
   "description": " before M. Prince Gunawardane Vs. Hon.Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bee0a9ae-7226-48cf-b46b-e78a17acd6b4&filename=ca_phc_balapitiya_161_2003.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14606",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=bee0a9ae-7226-48cf-b46b-e78a17acd6b4&filename=ca_phc_balapitiya_161_2003.pdf",
   "parties": "",
   "judgement_by": "M. Prince Gunawardane Vs. Hon.Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

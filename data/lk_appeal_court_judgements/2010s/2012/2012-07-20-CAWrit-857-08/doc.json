@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-20-CAWrit-857-08",
   "num": "CAWrit 857/08",
   "date_str": "2012-07-20",
   "description": "Emmanuel Godfrey Anton Vs. Administrative Appeals Tribunal & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f77ed952-d33a-43e1-92bc-4bad5ac30bcc&filename=ca_writ_857_08.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14594",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f77ed952-d33a-43e1-92bc-4bad5ac30bcc&filename=ca_writ_857_08.pdf",
   "parties": "Emmanuel Godfrey Anton Vs. Administrative Appeals Tribunal & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

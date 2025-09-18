@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-09-CAPHC-APN-63-2012",
   "num": "CAPHC APN 63/2012",
   "date_str": "2012-11-09",
   "description": " before Angoda Bandarage Udeni Vs. Hon. Attorney General & another",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=de7f8304-ceef-415b-98c6-3fd9b5a1eb86&filename=ca_phc_apn_63_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14606",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=de7f8304-ceef-415b-98c6-3fd9b5a1eb86&filename=ca_phc_apn_63_2012.pdf",
   "parties": "",
   "judgement_by": "Angoda Bandarage Udeni Vs. Hon. Attorney General & another",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

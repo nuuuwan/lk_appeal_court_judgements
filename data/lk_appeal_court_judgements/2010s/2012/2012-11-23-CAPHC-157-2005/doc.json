@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-23-CAPHC-157-2005",
   "num": "CAPHC 157/2005",
   "date_str": "2012-11-23",
   "description": "Meepage Nimal & another Vs. Bumala Patabadige Siriyawathi before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5c1e2735-1ab0-4fdd-bba0-6ec26bbf3641&filename=ca_phc_galle_157_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14606",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5c1e2735-1ab0-4fdd-bba0-6ec26bbf3641&filename=ca_phc_galle_157_2005.pdf",
   "parties": "Meepage Nimal & another Vs. Bumala Patabadige Siriyawathi",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

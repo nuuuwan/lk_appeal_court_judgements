@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-19-CAPHC-APN-45-2012",
   "num": "CAPHC APN 45/2012",
   "date_str": "2012-10-19",
   "description": "Yahala Clothing (Pvt) Ltd Vs. Deputy Commissioner of Labour before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4ab76e00-daf2-4e12-970b-500aba4ee344&filename=ca_phc_apn_45_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4ab76e00-daf2-4e12-970b-500aba4ee344&filename=ca_phc_apn_45_2012.pdf",
   "parties": "Yahala Clothing (Pvt) Ltd Vs. Deputy Commissioner of Labour",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

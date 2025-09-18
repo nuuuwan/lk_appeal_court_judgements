@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-12-20-CAWrit-251-2011",
   "num": "CAWrit 251/2011",
   "date_str": "2012-12-20",
   "description": "C.S.K. Milia Withanarachchi Vs. K.N. Saliya Mathew before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5186236b-ac5c-479c-9bc1-67cb3dc10905&filename=ca_writ_251_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14608",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5186236b-ac5c-479c-9bc1-67cb3dc10905&filename=ca_writ_251_2011.pdf",
   "parties": "C.S.K. Milia Withanarachchi Vs. K.N. Saliya Mathew",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

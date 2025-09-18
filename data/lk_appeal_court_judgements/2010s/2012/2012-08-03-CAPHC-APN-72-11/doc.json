@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-08-03-CAPHC-APN-72-11",
   "num": "CAPHC APN 72/11",
   "date_str": "2012-08-03",
   "description": "Mr. Kandavanam Arumugam Satkunarasah And wife Bhavany Satlinarasah Vs. Jaffna Municipal Council & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d404a4b4-8d7c-4f86-8fee-ed9440e04200&filename=ca_phc_apn_72_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14592",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d404a4b4-8d7c-4f86-8fee-ed9440e04200&filename=ca_phc_apn_72_2011.pdf",
   "parties": "Mr. Kandavanam Arumugam Satkunarasah And wife Bhavany Satlinarasah Vs. Jaffna Municipal Council & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

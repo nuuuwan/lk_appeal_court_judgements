@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-25-CAPHC-245-2004",
   "num": "CAPHC 245/2004",
   "date_str": "2012-10-25",
   "description": "R.M Janaka Jayawardana Vs. Abenanda dias before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=67bf8d2b-1a95-4b10-8237-a9d72f3d123f&filename=ca_phc_badulla_245_2004.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=67bf8d2b-1a95-4b10-8237-a9d72f3d123f&filename=ca_phc_badulla_245_2004.pdf",
   "parties": "R.M Janaka Jayawardana Vs. Abenanda dias",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

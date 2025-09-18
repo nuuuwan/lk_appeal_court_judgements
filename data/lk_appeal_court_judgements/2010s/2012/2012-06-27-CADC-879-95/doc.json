@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-06-27-CADC-879-95",
   "num": "CADC 879/95",
   "date_str": "2012-06-27",
   "description": "Kalutara M. Ranjith Cooray Vs. M. David Fernando before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ecd57e51-6e71-4ceb-a00a-344ce0f66bcf&filename=ca%20dc%20kalutara%20879-95f.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14611",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ecd57e51-6e71-4ceb-a00a-344ce0f66bcf&filename=ca%20dc%20kalutara%20879-95f.pdf",
   "parties": "Kalutara M. Ranjith Cooray Vs. M. David Fernando",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

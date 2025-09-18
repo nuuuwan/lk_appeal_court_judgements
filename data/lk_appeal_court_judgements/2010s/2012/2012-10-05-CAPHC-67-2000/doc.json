@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-05-CAPHC-67-2000",
   "num": "CAPHC 67/2000",
   "date_str": "2012-10-05",
   "description": "Pathma Abeysekara Vs. H.L Jeewani & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0043fb48-4dc0-4e30-bfcc-b8b999a2b000&filename=ca_phc_67_2000.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0043fb48-4dc0-4e30-bfcc-b8b999a2b000&filename=ca_phc_67_2000.pdf",
   "parties": "Pathma Abeysekara Vs. H.L Jeewani & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

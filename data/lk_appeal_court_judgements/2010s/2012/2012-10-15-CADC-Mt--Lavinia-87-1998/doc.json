@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-15-CADC-Mt--Lavinia-87-1998",
   "num": "CADC Mt. Lavinia 87/1998",
   "date_str": "2012-10-15",
   "description": "T. M. Sudanga Pasindu Silva Vs. M. I. Sheela Fonseka & another before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5b54012d-1969-4678-a562-9b8444b98715&filename=ca_dc_mt.lavinia_87_1998.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14604",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5b54012d-1969-4678-a562-9b8444b98715&filename=ca_dc_mt.lavinia_87_1998.pdf",
   "parties": "T. M. Sudanga Pasindu Silva Vs. M. I. Sheela Fonseka & another",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

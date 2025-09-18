@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-19-CAHC-Colombo-180-2004",
   "num": "CAHC Colombo 180/2004",
   "date_str": "2012-11-19",
   "description": "Thalangama Mahapathiranage Ranjith Pathirana Vs. The Hon. Attorney before  General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6de31224-6f09-4778-b75e-93ac8d32c3f3&filename=ca_hc_colombo_180_2004.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14594",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6de31224-6f09-4778-b75e-93ac8d32c3f3&filename=ca_hc_colombo_180_2004.pdf",
   "parties": "Thalangama Mahapathiranage Ranjith Pathirana Vs. The Hon. Attorney",
   "judgement_by": " General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

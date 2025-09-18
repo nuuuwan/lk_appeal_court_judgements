@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-19-ca-phc-20-2008",
   "num": "ca phc 20/2008",
   "date_str": "2012-10-19",
   "description": "M.Jayasena & another Vs. Sri Lanka Mahaweli Authority & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cfed7989-bb18-42aa-b10d-572ffebf2559&filename=ca_phc_hambantota_20_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cfed7989-bb18-42aa-b10d-572ffebf2559&filename=ca_phc_hambantota_20_2008.pdf",
   "parties": "M.Jayasena & another Vs. Sri Lanka Mahaweli Authority & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

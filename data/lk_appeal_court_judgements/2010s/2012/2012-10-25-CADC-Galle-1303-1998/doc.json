@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-25-CADC-Galle-1303-1998",
   "num": "CADC Galle 1303/1998",
   "date_str": "2012-10-25",
   "description": "Yasawathie Abeywickrama Weerasinghe & others Vs. Leif Helling & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8fb680fa-b2ee-40c9-a469-874ee72e5340&filename=ca_dc_galle_1303_1998.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14604",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8fb680fa-b2ee-40c9-a469-874ee72e5340&filename=ca_dc_galle_1303_1998.pdf",
   "parties": "Yasawathie Abeywickrama Weerasinghe & others Vs. Leif Helling & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

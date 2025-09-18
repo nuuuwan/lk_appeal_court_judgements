@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-02-CAWrit-65-2012",
   "num": "CAWrit 65/2012",
   "date_str": "2012-11-02",
   "description": "Suleiha Bibi Mira Saiba Vs. Mohomed Sherif Samsul Inaya before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=79a454b6-cb53-4923-a907-a4bdf7cd5100&filename=ca_writ_65_12.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14592",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=79a454b6-cb53-4923-a907-a4bdf7cd5100&filename=ca_writ_65_12.pdf",
   "parties": "Suleiha Bibi Mira Saiba Vs. Mohomed Sherif Samsul Inaya",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

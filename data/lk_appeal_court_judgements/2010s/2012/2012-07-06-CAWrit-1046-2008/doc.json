@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-06-CAWrit-1046-2008",
   "num": "CAWrit 1046/2008",
   "date_str": "2012-07-06",
   "description": "Brown and Company PLC Vs. W.D.J.5eneviratne & Others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fb0dcf08-a4cc-4005-bc2a-5a336a9c1422&filename=ca_writ-1046_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14611",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fb0dcf08-a4cc-4005-bc2a-5a336a9c1422&filename=ca_writ-1046_2008.pdf",
   "parties": "Brown and Company PLC Vs. W.D.J.5eneviratne & Others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-06-CAWrit-102-2008",
   "num": "CAWrit 102/2008",
   "date_str": "2012-07-06",
   "description": "H. P. Indra & another Vs. Mr. D.M. Jayarathne And 08 others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=54c0e090-5cae-4435-b517-1db13a017f85&filename=ca_writ_102_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14615",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=54c0e090-5cae-4435-b517-1db13a017f85&filename=ca_writ_102_2008.pdf",
   "parties": "H. P. Indra & another Vs. Mr. D.M. Jayarathne And 08 others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-09-26-CADC-Kandy-1226-1998",
   "num": "CADC Kandy 1226/1998",
   "date_str": "2012-09-26",
   "description": "Charles Gunawardena Amunupura Vs. Gamini Samarakoon & 3 Others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6a4b0d7b-fb7d-45b3-900a-53842d05e2d8&filename=ca_dc_kandy_1226_1998.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14594",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6a4b0d7b-fb7d-45b3-900a-53842d05e2d8&filename=ca_dc_kandy_1226_1998.pdf",
   "parties": "Charles Gunawardena Amunupura Vs. Gamini Samarakoon & 3 Others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

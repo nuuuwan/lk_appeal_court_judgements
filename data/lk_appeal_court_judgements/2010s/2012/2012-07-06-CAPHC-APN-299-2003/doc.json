@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-06-CAPHC-APN-299-2003",
   "num": "CAPHC APN 299/2003",
   "date_str": "2012-07-06",
   "description": "Deputy Commissioner of Labour Vs. Lanka Milk Food (CWE) Limited before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6cce7d57-7665-49e8-b314-125dfff8c8b3&filename=ca_pa_299_2003.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14621",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6cce7d57-7665-49e8-b314-125dfff8c8b3&filename=ca_pa_299_2003.pdf",
   "parties": "Deputy Commissioner of Labour Vs. Lanka Milk Food (CWE) Limited",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

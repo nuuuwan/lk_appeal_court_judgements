@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-08-03-CALA-DC-Puttalam-471-05",
   "num": "CALA DC Puttalam 471/05",
   "date_str": "2012-08-03",
   "description": "Segu Alwdeen Shahul Hameed Vs. Nagoor Umma wife of Segu Alawdeen & another before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ab28acce-96e7-4067-97e8-3700e2589c69&filename=cala_471_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14594",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ab28acce-96e7-4067-97e8-3700e2589c69&filename=cala_471_2005.pdf",
   "parties": "Segu Alwdeen Shahul Hameed Vs. Nagoor Umma wife of Segu Alawdeen & another",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

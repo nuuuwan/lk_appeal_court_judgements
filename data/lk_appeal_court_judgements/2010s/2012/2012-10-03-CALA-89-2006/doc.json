@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-03-CALA-89-2006",
   "num": "CALA 89/2006",
   "date_str": "2012-10-03",
   "description": "Sri Lanka Insurance Corporation Ltd Vs. Nimal Rathnaweera & another before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=98be560c-79b2-4dda-9d9e-71ff97b408e8&filename=cala_89_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14600",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=98be560c-79b2-4dda-9d9e-71ff97b408e8&filename=cala_89_2006.pdf",
   "parties": "Sri Lanka Insurance Corporation Ltd Vs. Nimal Rathnaweera & another",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

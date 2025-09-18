@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-09-CAWrit-131-2012",
   "num": "CAWrit 131/2012",
   "date_str": "2012-11-09",
   "description": "Weerakoon Mudiyanselage Prasanna Saminda Bandara Weerakoon And another Vs. P.D.A Swarnalatha And 05 others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7ed9be6d-a7ba-4e91-844e-699eb40c2a49&filename=ca_writ_131_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14596",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7ed9be6d-a7ba-4e91-844e-699eb40c2a49&filename=ca_writ_131_2012.pdf",
   "parties": "Weerakoon Mudiyanselage Prasanna Saminda Bandara Weerakoon And another Vs. P.D.A Swarnalatha And 05 others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

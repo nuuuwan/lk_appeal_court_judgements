@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-06-CALA-106-2006",
   "num": "CALA 106/2006",
   "date_str": "2012-07-06",
   "description": "N.Wimalasena & another Vs. P.E.A. Jayawickrama and another (Liquidators) before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4e24378d-e9be-49f4-940b-8848dc5195f9&filename=ca_la%20_106_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14615",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4e24378d-e9be-49f4-940b-8848dc5195f9&filename=ca_la%20_106_2006.pdf",
   "parties": "N.Wimalasena & another Vs. P.E.A. Jayawickrama and another (Liquidators)",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-18-CAPHC-53-2005",
   "num": "CAPHC 53/2005",
   "date_str": "2012-10-18",
   "description": "Araboda Gamage Seetha Vs. K.A.D. Sunil before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c59aef5d-47da-4ebe-8c3a-0df6df40aeee&filename=ca_phc_53_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14604",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c59aef5d-47da-4ebe-8c3a-0df6df40aeee&filename=ca_phc_53_2005.pdf",
   "parties": "Araboda Gamage Seetha Vs. K.A.D. Sunil",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

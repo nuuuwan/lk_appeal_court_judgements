@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-25-CADC-Balapitiya-1188-96",
   "num": "CADC Balapitiya 1188/96",
   "date_str": "2012-10-25",
   "description": "Hettigodage Somapala Vs. Hettigodage Subasena before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ec6f3b82-c790-46e0-a035-c578f799c1e1&filename=ca_dc_balapitiya_1188_96.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14590",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ec6f3b82-c790-46e0-a035-c578f799c1e1&filename=ca_dc_balapitiya_1188_96.pdf",
   "parties": "Hettigodage Somapala Vs. Hettigodage Subasena",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-08-CAWrit-440-2008",
   "num": "CAWrit 440/2008",
   "date_str": "2012-11-08",
   "description": "Rican Lanka (Private) Limited Vs. The Director General of Customs & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0ae402c9-3ec9-4407-b49d-a0f1b6f6ba65&filename=ca_writ_440_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14596",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0ae402c9-3ec9-4407-b49d-a0f1b6f6ba65&filename=ca_writ_440_2008.pdf",
   "parties": "Rican Lanka (Private) Limited Vs. The Director General of Customs & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-06-27-CADC-272-273-94",
   "num": "CADC 272-273/94",
   "date_str": "2012-06-27",
   "description": "Panadura Abeywansha Leelanatha Wettasinghe Vs. Pushpa De Silva Withanachchi before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5eaa643a-253d-478d-980e-91526a65a77e&filename=ca_dc_panadura_272_273_94_f.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14613",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5eaa643a-253d-478d-980e-91526a65a77e&filename=ca_dc_panadura_272_273_94_f.pdf",
   "parties": "Panadura Abeywansha Leelanatha Wettasinghe Vs. Pushpa De Silva Withanachchi",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

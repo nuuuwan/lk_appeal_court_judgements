@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-08-CADC-Hambantota-692-99",
   "num": "CADC Hambantota 692/99",
   "date_str": "2012-11-08",
   "description": "Wanniarachchi Kankanamge Piyadasa Vs. Heenpellage Don David Appuhamy before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=159beed1-6abe-497a-9d25-485f64b7aa4b&filename=ca_dc_hambantota_692_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14604",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=159beed1-6abe-497a-9d25-485f64b7aa4b&filename=ca_dc_hambantota_692_99.pdf",
   "parties": "Wanniarachchi Kankanamge Piyadasa Vs. Heenpellage Don David Appuhamy",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

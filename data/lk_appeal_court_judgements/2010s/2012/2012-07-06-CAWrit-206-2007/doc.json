@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-06-CAWrit-206-2007",
   "num": "CAWrit 206/2007",
   "date_str": "2012-07-06",
   "description": "Miss M.S.F.Rismina Vs. Chairman, University Grants Commission And four (04) others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=429c7ad5-5874-4329-80f7-e1ae76b5488e&filename=ca_writ_206_2007.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14613",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=429c7ad5-5874-4329-80f7-e1ae76b5488e&filename=ca_writ_206_2007.pdf",
   "parties": "Miss M.S.F.Rismina Vs. Chairman, University Grants Commission And four (04) others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

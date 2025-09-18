@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-15-CAPHC-01-2005",
   "num": "CAPHC 01/2005",
   "date_str": "2012-10-15",
   "description": "Illeperuma Arachchilage Chithrananda & others Vs. Dedduwa Pathiranage Rupika Chandrangani before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=528219dc-3aaf-44c6-90f0-d231de35aad2&filename=ca_phc_01_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=528219dc-3aaf-44c6-90f0-d231de35aad2&filename=ca_phc_01_2005.pdf",
   "parties": "Illeperuma Arachchilage Chithrananda & others Vs. Dedduwa Pathiranage Rupika Chandrangani",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

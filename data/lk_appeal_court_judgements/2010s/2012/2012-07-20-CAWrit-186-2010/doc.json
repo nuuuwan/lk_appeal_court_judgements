@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-20-CAWrit-186-2010",
   "num": "CAWrit 186/2010",
   "date_str": "2012-07-20",
   "description": "Harshananda Weerathunga Vs. S.S.K. Aviruppola & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3deef31b-8765-419b-92a8-9f0640b30a63&filename=ca_writ_186_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14594",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3deef31b-8765-419b-92a8-9f0640b30a63&filename=ca_writ_186_2010.pdf",
   "parties": "Harshananda Weerathunga Vs. S.S.K. Aviruppola & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

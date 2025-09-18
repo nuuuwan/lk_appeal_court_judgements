@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-19-CAWrit-361-2011",
   "num": "CAWrit 361/2011",
   "date_str": "2012-07-19",
   "description": "Ahamed Awun Ahamed Aathif Vs. Wickramasinghe Mudiyanselage Jayantha Wickramasinghe before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8f78d39e-f07d-4f08-a836-b4bea15697ac&filename=ca_writ_361_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14594",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8f78d39e-f07d-4f08-a836-b4bea15697ac&filename=ca_writ_361_2011.pdf",
   "parties": "Ahamed Awun Ahamed Aathif Vs. Wickramasinghe Mudiyanselage Jayantha Wickramasinghe",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

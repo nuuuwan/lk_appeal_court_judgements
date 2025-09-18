@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-05-CAWrit-371-08",
   "num": "CAWrit 371/08",
   "date_str": "2012-07-05",
   "description": "Sinnasamy Muttia Vs. Dayapala Hewathenne before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=16378266-9e32-4243-9846-62ff1ae4a1f3&filename=ca_writ_371_08.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14623",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=16378266-9e32-4243-9846-62ff1ae4a1f3&filename=ca_writ_371_08.pdf",
   "parties": "Sinnasamy Muttia Vs. Dayapala Hewathenne",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

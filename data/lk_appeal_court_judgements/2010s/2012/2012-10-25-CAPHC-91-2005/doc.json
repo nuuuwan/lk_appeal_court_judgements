@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-25-CAPHC-91-2005",
   "num": "CAPHC 91/2005",
   "date_str": "2012-10-25",
   "description": "Athapattuge Gamini Vs. Weerakatiya Gamage Hami & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e1447104-cde5-4f0f-91ca-0d0d1a57974e&filename=ca_phc_ratnapura_91_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14604",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e1447104-cde5-4f0f-91ca-0d0d1a57974e&filename=ca_phc_ratnapura_91_2005.pdf",
   "parties": "Athapattuge Gamini Vs. Weerakatiya Gamage Hami & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

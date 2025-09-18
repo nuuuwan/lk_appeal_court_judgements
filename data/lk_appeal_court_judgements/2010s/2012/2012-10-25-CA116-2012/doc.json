@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-25-CA116-2012",
   "num": "CA116/2012",
   "date_str": "2012-10-25",
   "description": "K.G. Wimal Piyatissa Vs. Janatha Vimukthi Peramuna (JVP) and 28 others. before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=651b1c74-7714-435d-abe3-2a26e3c7650f&filename=ca_116_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14596",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=651b1c74-7714-435d-abe3-2a26e3c7650f&filename=ca_116_2012.pdf",
   "parties": "K.G. Wimal Piyatissa Vs. Janatha Vimukthi Peramuna (JVP) and 28 others.",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

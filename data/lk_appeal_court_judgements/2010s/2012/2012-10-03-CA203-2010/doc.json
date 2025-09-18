@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-03-CA203-2010",
   "num": "CA203/2010",
   "date_str": "2012-10-03",
   "description": "Upul Gamini Jayasekara Vs. Open University of Sri Lanka & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1b29332e-7b42-4d78-bf6c-772d1ba4d553&filename=ca_203_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14598",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1b29332e-7b42-4d78-bf6c-772d1ba4d553&filename=ca_203_2010.pdf",
   "parties": "Upul Gamini Jayasekara Vs. Open University of Sri Lanka & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

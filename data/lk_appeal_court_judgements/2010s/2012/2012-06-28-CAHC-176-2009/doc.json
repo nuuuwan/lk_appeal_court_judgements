@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-06-28-CAHC-176-2009",
   "num": "CAHC 176/2009",
   "date_str": "2012-06-28",
   "description": " before Negombo J. G. Sunanda Perera Vs. The Hon. Attorney General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2c67c0e8-a2cb-439a-8260-b1fc2e019796&filename=ca_hc_negombo_176_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14631",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2c67c0e8-a2cb-439a-8260-b1fc2e019796&filename=ca_hc_negombo_176_2009.pdf",
   "parties": "",
   "judgement_by": "Negombo J. G. Sunanda Perera Vs. The Hon. Attorney General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-08-CADC-Kalutara-442-98",
   "num": "CADC Kalutara 442/98",
   "date_str": "2012-11-08",
   "description": "G. D. P. Dharmaratne & others Vs. Kaluwadewage Piyadasa & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ef1cb6a8-be80-4d92-a235-14b2b06b4e73&filename=ca_dc_kalutara_442_98.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14606",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ef1cb6a8-be80-4d92-a235-14b2b06b4e73&filename=ca_dc_kalutara_442_98.pdf",
   "parties": "G. D. P. Dharmaratne & others Vs. Kaluwadewage Piyadasa & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

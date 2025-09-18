@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-05-CAPHC-APN-110-2010",
   "num": "CAPHC APN 110/2010",
   "date_str": "2012-07-05",
   "description": "Central Finance Company Vs. Officer-in-Charge,Police Station,Vice Division,Kandy before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a63386c2-d2cb-4696-bc08-420008e3e8d4&filename=ca_pa_110_10.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14625",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a63386c2-d2cb-4696-bc08-420008e3e8d4&filename=ca_pa_110_10.pdf",
   "parties": "Central Finance Company Vs. Officer-in-Charge,Police Station,Vice Division,Kandy",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

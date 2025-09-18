@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-08-03-CAPHC-APN-12-2012",
   "num": "CAPHC APN 12/2012",
   "date_str": "2012-08-03",
   "description": "Rathnaweera Patabadige Wasula Priyanka Vs. Rev. Daniel Sandahami & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cf7b131e-1558-4817-9f64-8f3a17323289&filename=ca_phc_apn_12_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14590",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cf7b131e-1558-4817-9f64-8f3a17323289&filename=ca_phc_apn_12_2012.pdf",
   "parties": "Rathnaweera Patabadige Wasula Priyanka Vs. Rev. Daniel Sandahami & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

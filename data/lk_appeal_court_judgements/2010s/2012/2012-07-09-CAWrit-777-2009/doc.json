@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-09-CAWrit-777-2009",
   "num": "CAWrit 777/2009",
   "date_str": "2012-07-09",
   "description": "Abeydeera Patabandige Ayomi Vs. Samurdhi Authority of Sri Lanka & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9a4bad19-33fc-4d38-ba3f-34b6f896756a&filename=ca_writ_777_2009.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14619",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9a4bad19-33fc-4d38-ba3f-34b6f896756a&filename=ca_writ_777_2009.pdf",
   "parties": "Abeydeera Patabandige Ayomi Vs. Samurdhi Authority of Sri Lanka & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

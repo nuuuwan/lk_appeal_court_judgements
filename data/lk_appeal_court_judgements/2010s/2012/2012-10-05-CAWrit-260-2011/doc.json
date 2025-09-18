@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-05-CAWrit-260-2011",
   "num": "CAWrit 260/2011",
   "date_str": "2012-10-05",
   "description": "H.K.U.P.Kavikeshawa,Lieutenant Colonel Vs. Lt.Gen.Jagath Jayasooriya before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e71fdd0c-486c-4478-8cea-e0cacd58ea7a&filename=ca_writ_260_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e71fdd0c-486c-4478-8cea-e0cacd58ea7a&filename=ca_writ_260_2011.pdf",
   "parties": "H.K.U.P.Kavikeshawa,Lieutenant Colonel Vs. Lt.Gen.Jagath Jayasooriya",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

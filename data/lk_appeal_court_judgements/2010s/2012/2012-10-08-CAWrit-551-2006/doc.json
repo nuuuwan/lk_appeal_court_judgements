@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-08-CAWrit-551-2006",
   "num": "CAWrit 551/2006",
   "date_str": "2012-10-08",
   "description": "Geoffrey Joseph Aloysius Vs & Mahinda Madhihahewa others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7e1854fe-0a40-42ee-b71a-c2f7f27a5321&filename=ca_writ_551_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7e1854fe-0a40-42ee-b71a-c2f7f27a5321&filename=ca_writ_551_2006.pdf",
   "parties": "Geoffrey Joseph Aloysius Vs & Mahinda Madhihahewa others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

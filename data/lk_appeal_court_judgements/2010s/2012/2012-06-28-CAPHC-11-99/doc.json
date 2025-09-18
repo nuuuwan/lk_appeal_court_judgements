@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-06-28-CAPHC-11-99",
   "num": "CAPHC 11/99",
   "date_str": "2012-06-28",
   "description": "Kurunegala Mohamad Saheed Mohamed Abdulla Vs. Dassanayake Mudiyanselage Antony before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1e8fd42a-382a-4f01-892a-f182ca93f1e4&filename=ca_phc_kurunegala_11_99.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14615",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1e8fd42a-382a-4f01-892a-f182ca93f1e4&filename=ca_phc_kurunegala_11_99.pdf",
   "parties": "Kurunegala Mohamad Saheed Mohamed Abdulla Vs. Dassanayake Mudiyanselage Antony",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

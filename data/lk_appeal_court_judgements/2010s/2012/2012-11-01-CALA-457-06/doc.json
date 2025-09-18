@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-01-CALA-457-06",
   "num": "CALA 457/06",
   "date_str": "2012-11-01",
   "description": "Lakmini Ratwatte Welgama & Others Vs. Helena Anoja Devi Wijesundera & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f957f13b-daf4-474d-ad96-b85ac44cb043&filename=cala_457_09.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f957f13b-daf4-474d-ad96-b85ac44cb043&filename=cala_457_09.pdf",
   "parties": "Lakmini Ratwatte Welgama & Others Vs. Helena Anoja Devi Wijesundera & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

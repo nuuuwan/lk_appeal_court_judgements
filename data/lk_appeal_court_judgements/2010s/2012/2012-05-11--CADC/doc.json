@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-05-11--CADC",
   "num": "/CADC",
   "date_str": "2012-05-11",
   "description": "Horana 1197\\1996 Suraweera Aratchige Babinona Vs. V. Karunaratne and others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8fb85391-0c86-4f6c-b348-966a6ed7c670&filename=ca_dc_horana_1197_1996_f.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14631",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8fb85391-0c86-4f6c-b348-966a6ed7c670&filename=ca_dc_horana_1197_1996_f.pdf",
   "parties": "Horana 1197\\1996 Suraweera Aratchige Babinona Vs. V. Karunaratne and others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

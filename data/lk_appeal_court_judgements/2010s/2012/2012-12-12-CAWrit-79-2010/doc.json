@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-12-12-CAWrit-79-2010",
   "num": "CAWrit 79/2010",
   "date_str": "2012-12-12",
   "description": "Union Resorts (Private) Limited Vs. U.P.G. Udadeniya And others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=efb23aad-bcaf-4a5c-8fe5-75ab3ff4975c&filename=ca_writ_79_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14608",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=efb23aad-bcaf-4a5c-8fe5-75ab3ff4975c&filename=ca_writ_79_2010.pdf",
   "parties": "Union Resorts (Private) Limited Vs. U.P.G. Udadeniya And others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

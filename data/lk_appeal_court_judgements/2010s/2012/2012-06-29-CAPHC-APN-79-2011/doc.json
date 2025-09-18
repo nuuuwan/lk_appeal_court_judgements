@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-06-29-CAPHC-APN-79-2011",
   "num": "CAPHC APN 79/2011",
   "date_str": "2012-06-29",
   "description": "Warnakulasuriya Alex Priyantha Fernando Vs. Nissanka Arachchige Apsara Preethi Sri Nissanka before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fdbbd0c4-c227-474b-95b1-87987b90b486&filename=ca_phc_apn_79_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14590",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fdbbd0c4-c227-474b-95b1-87987b90b486&filename=ca_phc_apn_79_2011.pdf",
   "parties": "Warnakulasuriya Alex Priyantha Fernando Vs. Nissanka Arachchige Apsara Preethi Sri Nissanka",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

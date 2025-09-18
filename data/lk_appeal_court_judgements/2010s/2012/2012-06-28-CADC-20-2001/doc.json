@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-06-28-CADC-20-2001",
   "num": "CADC 20/2001",
   "date_str": "2012-06-28",
   "description": "Matara DDM Vitharana Vs. Vidanagamage Fransis before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=caf970c7-94b1-4160-b75a-a3dbaf126a98&filename=ca_phc_matara_writ_20_2001.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14621",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=caf970c7-94b1-4160-b75a-a3dbaf126a98&filename=ca_phc_matara_writ_20_2001.pdf",
   "parties": "Matara DDM Vitharana Vs. Vidanagamage Fransis",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

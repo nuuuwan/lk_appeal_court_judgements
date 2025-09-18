@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-06-CALA-515-2005",
   "num": "CALA 515/2005",
   "date_str": "2012-07-06",
   "description": "W.G. Alwis Vs. Shabir Omar before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8f0e10d9-265f-42ea-a78d-8f2adadb9966&filename=ca_la_515_2005.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14621",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8f0e10d9-265f-42ea-a78d-8f2adadb9966&filename=ca_la_515_2005.pdf",
   "parties": "W.G. Alwis Vs. Shabir Omar",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

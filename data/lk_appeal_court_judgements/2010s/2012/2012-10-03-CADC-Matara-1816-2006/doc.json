@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-03-CADC-Matara-1816-2006",
   "num": "CADC Matara 1816/2006",
   "date_str": "2012-10-03",
   "description": "H.G.T. Ananda Lal Vs. B.G. Charlinahamy & 5 others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c456968d-0540-4433-ae09-48cae0409f1a&filename=ca_dc_matara_1816_2006.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14600",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c456968d-0540-4433-ae09-48cae0409f1a&filename=ca_dc_matara_1816_2006.pdf",
   "parties": "H.G.T. Ananda Lal Vs. B.G. Charlinahamy & 5 others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

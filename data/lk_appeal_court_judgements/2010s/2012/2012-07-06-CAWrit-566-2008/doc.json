@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-07-06-CAWrit-566-2008",
   "num": "CAWrit 566/2008",
   "date_str": "2012-07-06",
   "description": "Arambewelage Don Thilak Vs.Lt.General Sarath Fonseka before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5dfbbb72-6627-4e83-befc-17a87f71782e&filename=ca_writ_566_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14611",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5dfbbb72-6627-4e83-befc-17a87f71782e&filename=ca_writ_566_2008.pdf",
   "parties": "Arambewelage Don Thilak Vs.Lt.General Sarath Fonseka",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

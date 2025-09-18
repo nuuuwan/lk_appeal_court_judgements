@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-05-CAPHC-93-2011",
   "num": "CAPHC 93/2011",
   "date_str": "2012-10-05",
   "description": "Thiyagarajah Thevaranjan Vs. Kalaiarasi Uruthiran & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d728e2da-51b6-4750-8daa-9663c97a378c&filename=ca_phc_93_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14604",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d728e2da-51b6-4750-8daa-9663c97a378c&filename=ca_phc_93_2011.pdf",
   "parties": "Thiyagarajah Thevaranjan Vs. Kalaiarasi Uruthiran & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

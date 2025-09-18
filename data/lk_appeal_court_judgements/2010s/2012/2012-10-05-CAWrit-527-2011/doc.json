@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-05-CAWrit-527-2011",
   "num": "CAWrit 527/2011",
   "date_str": "2012-10-05",
   "description": "Dissanayake Mudiyanselage Jayanath Wijayasanke Dissanayake & another Vs. The University Grants Commission & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7fa5cc7f-9b16-4fe4-a8e9-1225a108112c&filename=ca_writ_527_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7fa5cc7f-9b16-4fe4-a8e9-1225a108112c&filename=ca_writ_527_2011.pdf",
   "parties": "Dissanayake Mudiyanselage Jayanath Wijayasanke Dissanayake & another Vs. The University Grants Commission & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

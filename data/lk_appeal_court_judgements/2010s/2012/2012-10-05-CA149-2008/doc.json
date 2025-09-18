@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-05-CA149-2008",
   "num": "CA149/2008",
   "date_str": "2012-10-05",
   "description": "A.M. Hafil Vs. Rajarata University of SriLanka & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=612fb9b7-0af4-42ea-b103-687a251393de&filename=ca_149_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=612fb9b7-0af4-42ea-b103-687a251393de&filename=ca_149_2008.pdf",
   "parties": "A.M. Hafil Vs. Rajarata University of SriLanka & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

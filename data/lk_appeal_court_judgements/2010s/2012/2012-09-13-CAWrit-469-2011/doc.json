@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-09-13-CAWrit-469-2011",
   "num": "CAWrit 469/2011",
   "date_str": "2012-09-13",
   "description": "Alin Padmini Ediriweera Wijesuriya Vs. Commissioner General of Excise & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7bc5db25-b343-4fe8-823c-7bbe93ae0747&filename=ca_writ_469_2011.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14596",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7bc5db25-b343-4fe8-823c-7bbe93ae0747&filename=ca_writ_469_2011.pdf",
   "parties": "Alin Padmini Ediriweera Wijesuriya Vs. Commissioner General of Excise & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

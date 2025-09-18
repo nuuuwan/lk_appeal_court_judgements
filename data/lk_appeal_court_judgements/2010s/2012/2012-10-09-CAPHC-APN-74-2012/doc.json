@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-09-CAPHC-APN-74-2012",
   "num": "CAPHC APN 74/2012",
   "date_str": "2012-10-09",
   "description": " before Jayasinghe Mudalige Don Nalin Palitha Vs. Hon.Attorney-General",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7a4c54b6-a097-404a-ac51-a60bd3222631&filename=ca_phc_apn_74_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14598",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7a4c54b6-a097-404a-ac51-a60bd3222631&filename=ca_phc_apn_74_2012.pdf",
   "parties": "",
   "judgement_by": "Jayasinghe Mudalige Don Nalin Palitha Vs. Hon.Attorney-General",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

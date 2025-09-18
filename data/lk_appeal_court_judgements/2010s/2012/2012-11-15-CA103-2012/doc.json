@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-11-15-CA103-2012",
   "num": "CA103/2012",
   "date_str": "2012-11-15",
   "description": "Waruna Deeptha Rajapakshe Vs. Janatha Vimukthi Peramuna & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=182ff083-3e6e-4079-93a7-a3f3f857a2b3&filename=ca_103_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14606",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=182ff083-3e6e-4079-93a7-a3f3f857a2b3&filename=ca_103_2012.pdf",
   "parties": "Waruna Deeptha Rajapakshe Vs. Janatha Vimukthi Peramuna & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

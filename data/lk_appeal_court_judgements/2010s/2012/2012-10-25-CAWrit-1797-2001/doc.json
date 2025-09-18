@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-25-CAWrit-1797-2001",
   "num": "CAWrit 1797/2001",
   "date_str": "2012-10-25",
   "description": "Tyrone de Alwis Vs. Municipal Council of Kurunegala & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f5bcd639-ca1f-4820-b512-5ed5a869ea70&filename=ca_writ_1797_2001.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14598",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f5bcd639-ca1f-4820-b512-5ed5a869ea70&filename=ca_writ_1797_2001.pdf",
   "parties": "Tyrone de Alwis Vs. Municipal Council of Kurunegala & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

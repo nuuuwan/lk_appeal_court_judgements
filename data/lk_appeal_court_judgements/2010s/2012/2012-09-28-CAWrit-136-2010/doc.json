@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-09-28-CAWrit-136-2010",
   "num": "CAWrit 136/2010",
   "date_str": "2012-09-28",
   "description": "Horana Plantations PLC & another Vs. The Minister of Labour Relations and Manpower & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=29a4c451-d3bf-431c-a431-8fcdd74c0dcd&filename=ca_writ_136_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=29a4c451-d3bf-431c-a431-8fcdd74c0dcd&filename=ca_writ_136_2010.pdf",
   "parties": "Horana Plantations PLC & another Vs. The Minister of Labour Relations and Manpower & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

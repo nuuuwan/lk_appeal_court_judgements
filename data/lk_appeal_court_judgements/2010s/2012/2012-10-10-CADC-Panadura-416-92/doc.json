@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-10-CADC-Panadura-416-92",
   "num": "CADC Panadura 416/92",
   "date_str": "2012-10-10",
   "description": "Pushpa de Silva Withanachchi & others Vs. Abayawansa Leelanatha Wetbtbasinghe & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6dcf16eb-5ba8-4d0f-8c2a-5b46a89ae8f5&filename=ca_dc_panadura_416_92.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6dcf16eb-5ba8-4d0f-8c2a-5b46a89ae8f5&filename=ca_dc_panadura_416_92.pdf",
   "parties": "Pushpa de Silva Withanachchi & others Vs. Abayawansa Leelanatha Wetbtbasinghe & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-05-CAWrit-362-2010",
   "num": "CAWrit 362/2010",
   "date_str": "2012-10-05",
   "description": "Rathnayake Mudiyanselage Ariyaratne Vs. Rathnayake Mudiyaselage Dias Bandara & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=84e78ade-e919-4072-a208-67de2b7e6f0b&filename=ca_writ_362_2010.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=84e78ade-e919-4072-a208-67de2b7e6f0b&filename=ca_writ_362_2010.pdf",
   "parties": "Rathnayake Mudiyanselage Ariyaratne Vs. Rathnayake Mudiyaselage Dias Bandara & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

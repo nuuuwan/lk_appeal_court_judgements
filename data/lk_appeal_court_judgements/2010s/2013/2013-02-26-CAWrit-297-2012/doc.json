@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2013-02-26-CAWrit-297-2012",
   "num": "CAWrit 297/2012",
   "date_str": "2013-02-26",
   "description": "Somasunderam Senathirajah Vs. G .A. Chandrasiri before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3b45f218-f482-4ac7-b4fc-17b462bd9a7d&filename=ca_writ_297_2012.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14608",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3b45f218-f482-4ac7-b4fc-17b462bd9a7d&filename=ca_writ_297_2012.pdf",
   "parties": "Somasunderam Senathirajah Vs. G .A. Chandrasiri",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-10-08-CA934-2008",
   "num": "CA934/2008",
   "date_str": "2012-10-08",
   "description": " before W.K. Somaratne & others Vs. Hon. Minister of Local Government & others",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c3db1ab0-04f5-40ab-b1fb-b697c89c9862&filename=ca_writ_934_2008.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14602",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c3db1ab0-04f5-40ab-b1fb-b697c89c9862&filename=ca_writ_934_2008.pdf",
   "parties": "",
   "judgement_by": "W.K. Somaratne & others Vs. Hon. Minister of Local Government & others",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }

@@ -1,14 +1,14 @@
 {
-  "doc_type": "appeals",
+  "doc_type": "lk_appeal_court_judgements",
   "doc_id": "2012-09-07-CAWrit-140--2012",
   "num": "CAWrit 140 /2012",
   "date_str": "2012-09-07",
   "description": "M.S.M. Aslam Vs. Rishad Bathiudeen & others before ",
-  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f4ad5071-f6f8-43f9-9846-8736b60d66a4&filename=ca_writ_140_12.pdf",
   "url_metadata": "https://courtofappeal.lk/?page_id=14596",
+  "lang": "en",
+  "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f4ad5071-f6f8-43f9-9846-8736b60d66a4&filename=ca_writ_140_12.pdf",
   "parties": "M.S.M. Aslam Vs. Rishad Bathiudeen & others",
   "judgement_by": "",
   "keywords": "",
-  "legistation": "",
-  "lang": "en"
+  "legistation": ""
 }
