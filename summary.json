@@ -1,11 +1,11 @@
 {
-  "time_updated": "2025-09-18 17:52:05",
-  "n_docs": 10100,
-  "n_docs_with_pdfs": 10100,
+  "time_updated": "2025-09-18 18:32:01",
+  "n_docs": 10103,
+  "n_docs_with_pdfs": 10103,
   "p_docs_with_pdfs": 1.0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-09-15",
-  "dataset_size": 10142188045,
+  "date_str_max": "2025-09-18",
+  "dataset_size": 10143806010,
   "url_source": "https://courtofappeal.lk/",
   "url_data": "https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data",
   "url_repo": "https://github.com/nuuuwan/lk_appeal_court_judgements"
