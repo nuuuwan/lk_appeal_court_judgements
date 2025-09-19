@@ -16,8 +16,7 @@ class AppealsDoc(AbstractPDFDoc):
     def get_doc_class_description(cls) -> str:
         return "\n\n".join(
             [
-                "An appeals court judgment (also called an appellate court judgment) is a ruling delivered by a higher court that reviews decisions made by lower courts. It ensures that justice is applied consistently, correcting legal or procedural errors that may have occurred at trial.",  # noqa: E501
-                "In Sri Lanka, the Court of Appeal plays this role, shaping how laws are interpreted and setting important legal precedents that influence future cases. These judgments are central to upholding fairness, protecting rights, and strengthening the rule of law.",  # noqa: E501
+                "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.",  # noqa: E501
             ]
         )
 
