@@ -1,6 +1,6 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_16:16:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_16:38:07-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
@@ -35,7 +35,7 @@ In Sri Lanka, the Court of Appeal plays this role, shaping how laws are interpre
 
 ## Documents By Year
 
-![Documents by year](../lk_appeal_court_judgements_data/data/lk_appeal_court_judgements/docs_by_year.png)
+![Documents by year](docs_by_year.png)
 
 ## 🤗 Hugging Face Datasets
 
