@@ -1,6 +1,6 @@
 # 🇱🇰 #SriLanka Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_09:01:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_09:20:20-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements)
 
