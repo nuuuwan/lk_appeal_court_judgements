@@ -1,6 +1,6 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_14:10:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--19_14:46:37-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
@@ -8,7 +8,7 @@ An appeals court judgment (also called an appellate court judgment) is a ruling 
 
 In Sri Lanka, the Court of Appeal plays this role, shaping how laws are interpreted and setting important legal precedents that influence future cases. These judgments are central to upholding fairness, protecting rights, and strengthening the rule of law.
 
-- [**10,103** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-18**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**
+- [**10,108** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-19**, scraped from **[https://courtofappeal.lk/](https://courtofappeal.lk/)**
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,23 +19,23 @@ In Sri Lanka, the Court of Appeal plays this role, shaping how laws are interpre
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-09-18-CA-WRT-147-2021",
-    "num": "CA/WRT/147/2021",
-    "date_str": "2025-09-18",
-    "description": "Palamandadige Rose Kumari Nishanthi Fernando and Others Vs Hon. S. M. Chandrasena, Minister of Lands and Others before Hon. S.U.B. Karalliyadde, J.",
+    "doc_id": "2025-09-19-CA-WRIT-500-2023",
+    "num": "CA/WRIT/500/2023",
+    "date_str": "2025-09-19",
+    "description": "Ginimella Hewage Priyanga Nishantha Kumar Vs. M. A. P. Jayakody, Western Province Co-operative Development Commissioner/Registrar and 12 Others before Hon. Mahen Gopallawa J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13121",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=59ac068d-9f06-4016-9a76-060a36da77f0&filename=WRT%20147-21.pdf.pdf",
-    "parties": "Palamandadige Rose Kumari Nishanthi Fernando and Others Vs Hon. S. M. Chandrasena, Minister of Lands and Others",
-    "judgement_by": "Hon. S.U.B. Karalliyadde, J.",
-    "keywords": "Acquisition of land under the Land Acquisition Act, Section 2, 5, 7(1), 44 and 39A of the Land Acquisition Act, Writ of Mandamus, divesting order, misrepresentation of facts, clean hands, delay",
-    "legistation": "The State Lands (Recovery of Possession) Act, No. 7 of 1977 (as amended), Land Acquisition Act, No. 09 of 1950 (as amended) and the Constitution of the Democratic Socialist Republic of Sri Lanka."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2083ca9c-cec6-4d3e-a604-bd426064fe74&filename=CA%20Writ%20500-23%20Order.pdf.pdf",
+    "parties": "Ginimella Hewage Priyanga Nishantha Kumar Vs. M. A. P. Jayakody, Western Province Co-operative Development Commissioner/Registrar and 12 Others",
+    "judgement_by": "Hon. Mahen Gopallawa J.",
+    "keywords": "co-operative society, dispute, arbitration, arbitral award, appeal, Magistrates\u2019 Court, judicial review, scope, misrepresentation and suppression of material facts, uberrima fides, alternative remedies, laches, reliefs misconceived in law, material and necessary parties",
+    "legistation": "Writ \u2013 Certiorari-Mandamus-dispute between Petitioner and Co-operative Society-arbitration under Western Province Co-operative Societies Statute-arbitral awards illegal and irrational-institution of proceedings in the Magistrates\u2019 Court"
 }
 ```
 
 ## Documents By Year
 
-![Documents by year](images/docs_by_year.png)
+![Documents by year](../lk_appeal_court_judgements_data/data/lk_appeal_court_judgements/docs_by_year.png)
 
 ## 🤗 Hugging Face Datasets
 
@@ -46,9 +46,14 @@ In Sri Lanka, the Court of Appeal plays this role, shaping how laws are interpre
 
 ## 🆕 20 Latest documents
 
+- 2025-09-19 | `CA/WRIT/500/2023` | Ginimella Hewage Priyanga Nishantha Kumar Vs. M. A. P. Jayakody, Western Province Co-operative Development Commissioner/Registrar and 12 Others before Hon. Mahen Gopallawa J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-WRIT-500-2023)
+- 2025-09-19 | `CA/PHC/0237/2019` | Nawurunnage Sarath Kumara Vs. R. B. Rathnayake before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-PHC-0237-2019)
+- 2025-09-19 | `CA/PHC/0160/2019` | Dewathaapedigedara Nishanthi Ranasinghe Vs. Hon. Attorney General & 1 Other before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-PHC-0160-2019)
 - 2025-09-18 | `CA/WRT/147/2021` | Palamandadige Rose Kumari Nishanthi Fernando and Others Vs Hon. S. M. Chandrasena, Minister of Lands and Others before Hon. S.U.B. Karalliyadde, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-18-CA-WRT-147-2021)
+- 2025-09-18 | `CA/REV/0005/2025` | SQUIRE MECH ENGINEERING (PVT) LTD Vs. ILLAYPERUMA KODITUWAKKUARACHCHILAGE DAYANANDA before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-18-CA-REV-0005-2025)
 - 2025-09-18 | `CA/HCC/104/2023` | Mallawathanthrige Samantha Mallawa Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-18-CA-HCC-104-2023)
 - 2025-09-15 | `CA/ PHC/ 140/ 2020` | Liyana Arachchige Asanka Maduranga Vs. Jayaratna Muhandiramge Lasantha Sanjula before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-15-CA--PHC--140--2020)
+- 2025-09-12 | `CA-Writ-742-23` | T. P. Nimal Premasiri Vs. Chatura Samarasinghe, Divisional Secretary, and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-12-CA-Writ-742-23)
 - 2025-09-12 | `CA (HCC)0019/2023` | Danansuriya Mudiyanselage Sampath Nalinda Wijesinghe and others Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-12-CA--HCC-0019-2023)
 - 2025-09-11 | `CA/WRT/0475/2019` | Mudaliperuge Manel Rupa Ranjani Kulathunga Vs M. U. Nishantha, Divisional Secretary, Galewela and ten others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-11-CA-WRT-0475-2019)
 - 2025-09-10 | `CA/WRT/811/2025` | A. A. F. Farween Vs The Secretary of the Judicial Service Commission and Hon. Attorney General before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-10-CA-WRT-811-2025)
@@ -61,11 +66,6 @@ In Sri Lanka, the Court of Appeal plays this role, shaping how laws are interpre
 - 2025-09-04 | `CA (HCC)0275/2023` | Balachandran Sivam Vs. Hon. Attorney Genera before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-04-CA--HCC-0275-2023)
 - 2025-09-03 | `CA/WRT/734/2024` | Razik Rafeekdeen Vs. The Incorporated Council of Legal Education and four others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-03-CA-WRT-734-2024)
 - 2025-09-03 | `CA/RII/0048/2023` | Chethana Erandithavo Jayakody Vs Lanka Telephone Company (Pvt) Ltd and others before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-03-CA-RII-0048-2023)
-- 2025-09-03 | `CA/HCC/ 0101/2022` | Demuni Sudath Ashoka De Zoysa Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-03-CA-HCC--0101-2022)
-- 2025-09-02 | `CA/HCC/ 0226-228/2019` | Samarakkody Arachchilage Gamini Weerasinghe alias Yakada Gamini and others Vs The Hon. Attorney General before Hon.P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-02-CA-HCC--0226-228-2019)
-- 2025-09-02 | `CA/ PHC/48/2016` | N.D. Vimal Vs Competent Authority, Plantation Management Monitoring Division, Ministry of Plantation Industries and another. before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-02-CA--PHC-48-2016)
-- 2025-09-01 | `CA/HCC/ 0117/2024` | Abeywickrama Dissanayaka Piyadasa Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-01-CA-HCC--0117-2024)
-- 2025-08-29 | `CA/WRT/422/2023` | Rathnayaka Mudiyanselage Weerasinghe and Others Vs Hon. (Dr.) Susil Premajayantha and Others before Hon. S.U.B. Karalliyadde, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-08-29-CA-WRT-422-2023)
 
 ---
 
