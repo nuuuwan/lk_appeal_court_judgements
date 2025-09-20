@@ -2,13 +2,13 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-09-20 09:50:45",
+  "time_updated": "2025-09-20 10:11:11",
   "n_docs": 10110,
   "n_docs_with_pdfs": 10110,
   "n_docs_with_text": 10110,
   "date_str_min": "2012-04-23",
   "date_str_max": "2025-09-19",
-  "dataset_size": 10278619574,
+  "dataset_size": 10279462973,
   "url_source": "https://courtofappeal.lk/",
   "url_data": "https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements",
   "langs": [
@@ -27,5 +27,49 @@
     "judgement_by": "Hon. Mahen Gopallawa J.",
     "keywords": "co-operative society, dispute, arbitration, arbitral award, appeal, Magistrates\u2019 Court, judicial review, scope, misrepresentation and suppression of material facts, uberrima fides, alternative remedies, laches, reliefs misconceived in law, material and necessary parties",
     "legistation": "Writ \u2013 Certiorari-Mandamus-dispute between Petitioner and Co-operative Society-arbitration under Western Province Co-operative Societies Statute-arbitral awards illegal and irrational-institution of proceedings in the Magistrates\u2019 Court"
+  },
+  "year_to_lang_to_n": {
+    "2025": {
+      "en": 310
+    },
+    "2024": {
+      "en": 530
+    },
+    "2023": {
+      "en": 907
+    },
+    "2022": {
+      "en": 1423
+    },
+    "2021": {
+      "en": 610
+    },
+    "2020": {
+      "en": 579
+    },
+    "2019": {
+      "en": 830
+    },
+    "2018": {
+      "en": 780
+    },
+    "2017": {
+      "en": 593
+    },
+    "2016": {
+      "en": 550
+    },
+    "2015": {
+      "en": 413
+    },
+    "2014": {
+      "en": 688
+    },
+    "2013": {
+      "en": 1005
+    },
+    "2012": {
+      "en": 892
+    }
   }
 }
