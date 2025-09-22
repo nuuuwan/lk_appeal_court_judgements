@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--22_11:06:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--22_11:47:13-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,110** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-19**, scraped from **[https://courtofappeal.lk](https://courtofappeal.lk)**
+- [**10,111** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-22**, scraped from **[https://courtofappeal.lk](https://courtofappeal.lk)**
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -17,17 +17,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-09-19-CA-WRIT-500-2023",
-    "num": "CA/WRIT/500/2023",
-    "date_str": "2025-09-19",
-    "description": "Ginimella Hewage Priyanga Nishantha Kumar Vs. M. A. P. Jayakody, Western Province Co-operative Development Commissioner/Registrar and 12 Others before Hon. Mahen Gopallawa J.",
+    "doc_id": "2025-09-22-CA-HCC--0071-2022",
+    "num": "CA/HCC/ 0071/2022",
+    "date_str": "2025-09-22",
+    "description": "Robert Ekanayake Vs. The Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13121",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2083ca9c-cec6-4d3e-a604-bd426064fe74&filename=CA%20Writ%20500-23%20Order.pdf.pdf",
-    "parties": "Ginimella Hewage Priyanga Nishantha Kumar Vs. M. A. P. Jayakody, Western Province Co-operative Development Commissioner/Registrar and 12 Others",
-    "judgement_by": "Hon. Mahen Gopallawa J.",
-    "keywords": "co-operative society, dispute, arbitration, arbitral award, appeal, Magistrates\u2019 Court, judicial review, scope, misrepresentation and suppression of material facts, uberrima fides, alternative remedies, laches, reliefs misconceived in law, material and necessary parties",
-    "legistation": "Writ \u2013 Certiorari-Mandamus-dispute between Petitioner and Co-operative Society-arbitration under Western Province Co-operative Societies Statute-arbitral awards illegal and irrational-institution of proceedings in the Magistrates\u2019 Court"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b4db5c91-e4e5-4d02-bd52-6c03a77ac33d&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0071.22.pdf.pdf",
+    "parties": "Robert Ekanayake Vs. The Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "The Charge has not been proved beyond reasonable doubt. \u2022 Section 335(2) of the Code of Criminal Procedure Act",
+    "legistation": "The Penal Code"
 }
 ```
 
@@ -42,6 +42,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-09-22 | `CA/HCC/ 0071/2022` | Robert Ekanayake Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-22-CA-HCC--0071-2022)
 - 2025-09-19 | `CA/WRIT/500/2023` | Ginimella Hewage Priyanga Nishantha Kumar Vs. M. A. P. Jayakody, Western Province Co-operative Development Commissioner/Registrar and 12 Others before Hon. Mahen Gopallawa J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-WRIT-500-2023)
 - 2025-09-19 | `CA/PHC/0237/2019` | Nawurunnage Sarath Kumara Vs. R. B. Rathnayake before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-PHC-0237-2019)
 - 2025-09-19 | `CA/PHC/0160/2019` | Dewathaapedigedara Nishanthi Ranasinghe Vs. Hon. Attorney General & 1 Other before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-PHC-0160-2019)
@@ -61,7 +62,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-09 | `CA/HCC/ 0079/2020` | Alankarage Dilan Prasanga alias Kannadiya Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-09-CA-HCC--0079-2020)
 - 2025-09-09 | `CA /Writ/208/2019` | Bibile Kotagama Multipurpose Cooperative Society Limited Vs K. M. G. Kapila Bandara (Former) Divisional Secretary, Divisional Secretariat Office, Madagama. and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-09-CA--Writ-208-2019)
 - 2025-09-09 | `CA/ PHC/ 148/ 2018` | Kehelpannala Ralalage Upali Mahinda Kempitiya and Another Vs Korale Gedara Upali Kumara Abeyrathne before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-09-CA--PHC--148--2018)
-- 2025-09-04 | `CA (HCC)0275/2023` | Balachandran Sivam Vs. Hon. Attorney Genera before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-04-CA--HCC-0275-2023)
 
 ---
 
