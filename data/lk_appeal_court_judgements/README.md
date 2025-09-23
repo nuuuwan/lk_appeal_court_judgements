@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--23_14:24:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--23_14:51:29-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,112** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-22**, scraped from **[https://courtofappeal.lk](https://courtofappeal.lk)**
+- [**10,113** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-23**, scraped from **[https://courtofappeal.lk](https://courtofappeal.lk)**
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -17,17 +17,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-09-22-CA-HCC-0118-2024",
-    "num": "CA HCC 0118/2024",
-    "date_str": "2025-09-22",
-    "description": "Nadaraj Vijayakumar Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J.",
+    "doc_id": "2025-09-23-CA-COC-0007-22",
+    "num": "CA/COC/0007/22",
+    "date_str": "2025-09-23",
+    "description": "SJ Solar+ Storage PTE Ltd Vs. Vinseth Engineering (Pvt) Ltd & Others before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13121",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=861c7b3e-7c6b-4e22-8fba-101b02772cb7&filename=Hcc%20118-24.pdf.pdf",
-    "parties": "Nadaraj Vijayakumar Vs. The Hon. Attorney General",
-    "judgement_by": "Hon. Amal Ranaraja, J.",
-    "keywords": "Inconsistency in testimony undermining appellant\u2019s narrative \u2013 Facts presented by the defence not being suggested to prosecution during cross-examination \u2013 The corroboration of facts and evidence \u2013Trial Judge calling for the defence",
-    "legistation": "Section 365B(2)(b) of the Penal Code (as amended by Act No.22 of 1995, Act No. 29 of 1998, Act No.16 of 2006), Section 200(1) of the Code of Criminal Procedure Act No.15 of 1979"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b15055e9-b89b-4c46-85e2-fd971615fca1&filename=Court%20of%20Appeal%20JUDGMENT%20-%20COC-0007.22.pdf.pdf",
+    "parties": "SJ Solar+ Storage PTE Ltd Vs. Vinseth Engineering (Pvt) Ltd & Others",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Violating undertaking given to Court",
+    "legistation": "Constitution of the Democratic Socialist Republic of Sri Lanka"
 }
 ```
 
@@ -42,6 +42,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-09-23 | `CA/COC/0007/22` | SJ Solar+ Storage PTE Ltd Vs. Vinseth Engineering (Pvt) Ltd & Others before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-23-CA-COC-0007-22)
 - 2025-09-22 | `CA HCC 0118/2024` | Nadaraj Vijayakumar Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-22-CA-HCC-0118-2024)
 - 2025-09-22 | `CA/HCC/ 0071/2022` | Robert Ekanayake Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-22-CA-HCC--0071-2022)
 - 2025-09-19 | `CA/WRIT/500/2023` | Ginimella Hewage Priyanga Nishantha Kumar Vs. M. A. P. Jayakody, Western Province Co-operative Development Commissioner/Registrar and 12 Others before Hon. Mahen Gopallawa J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-WRIT-500-2023)
@@ -61,7 +62,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-09 | `CA/WRT/165/15` | Mrs. Nagaratnam Sakunthala Vs Commissioner of Lands (Northern Province) Department of Land Administration, Northern Provincial Council and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-09-CA-WRT-165-15)
 - 2025-09-09 | `CA/WRT/0720/23` | Musthafa Lebbe Rahuma Beevi Vs. Thanapalasuntharam, Divisional Secretary, Valachennai and eight others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-09-CA-WRT-0720-23)
 - 2025-09-09 | `CA/HCC/ 0079/2020` | Alankarage Dilan Prasanga alias Kannadiya Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-09-CA-HCC--0079-2020)
-- 2025-09-09 | `CA /Writ/208/2019` | Bibile Kotagama Multipurpose Cooperative Society Limited Vs K. M. G. Kapila Bandara (Former) Divisional Secretary, Divisional Secretariat Office, Madagama. and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-09-CA--Writ-208-2019)
 
 ---
 
