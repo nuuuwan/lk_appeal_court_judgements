@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--24_14:38:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--24_15:21:11-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,115** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-24**, scraped from **[https://courtofappeal.lk](https://courtofappeal.lk)**
+- [**10,117** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-24**, scraped from **[https://courtofappeal.lk](https://courtofappeal.lk)**
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -43,10 +43,12 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ## 🆕 20 Latest documents
 
 - 2025-09-24 | `CA/HCC/ 0238/2024` | Adam Nizar Mohommed Asmir alias Adam Nizar Mohommed Asmir Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-24-CA-HCC--0238-2024)
+- 2025-09-23 | `CA/WRT/0394/19` | Hemantha Prematilaka Waragoda Withanage And others Vs Dr. R.H. Samaratunga, Secretary to the Treasury, Ministry of Finance and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-23-CA-WRT-0394-19)
 - 2025-09-23 | `CA/HCC/284-285-15` | Wijesinghe Mudianselage Roy Rexi Miller alias Kopparaya (2A) and other Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-23-CA-HCC-284-285-15)
 - 2025-09-23 | `CA/COC/0007/22` | SJ Solar+ Storage PTE Ltd Vs. Vinseth Engineering (Pvt) Ltd & Others before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-23-CA-COC-0007-22)
 - 2025-09-22 | `CA HCC 0118/2024` | Nadaraj Vijayakumar Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-22-CA-HCC-0118-2024)
 - 2025-09-22 | `CA/HCC/ 0071/2022` | Robert Ekanayake Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-22-CA-HCC--0071-2022)
+- 2025-09-22 | `CA/ WRT/0497/19` | R. M. D. Wasantha Vs Nimal Abeysiri, District Secretary of Polonnaruwa and eight others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-22-CA--WRT-0497-19)
 - 2025-09-19 | `CA/WRIT/500/2023` | Ginimella Hewage Priyanga Nishantha Kumar Vs. M. A. P. Jayakody, Western Province Co-operative Development Commissioner/Registrar and 12 Others before Hon. Mahen Gopallawa J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-WRIT-500-2023)
 - 2025-09-19 | `CA/PHC/0237/2019` | Nawurunnage Sarath Kumara Vs. R. B. Rathnayake before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-PHC-0237-2019)
 - 2025-09-19 | `CA/PHC/0160/2019` | Dewathaapedigedara Nishanthi Ranasinghe Vs. Hon. Attorney General & 1 Other before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-PHC-0160-2019)
@@ -60,8 +62,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-12 | `CA (HCC)0019/2023` | Danansuriya Mudiyanselage Sampath Nalinda Wijesinghe and others Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-12-CA--HCC-0019-2023)
 - 2025-09-11 | `CA/WRT/0475/2019` | Mudaliperuge Manel Rupa Ranjani Kulathunga Vs M. U. Nishantha, Divisional Secretary, Galewela and ten others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-11-CA-WRT-0475-2019)
 - 2025-09-10 | `CA/WRT/811/2025` | A. A. F. Farween Vs The Secretary of the Judicial Service Commission and Hon. Attorney General before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-10-CA-WRT-811-2025)
-- 2025-09-10 | `CA /HCC/ 292-295/2024` | Kohona Koralalage Chandraratna Bandara and others Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-10-CA--HCC--292-295-2024)
-- 2025-09-09 | `CA/WRT/165/15` | Mrs. Nagaratnam Sakunthala Vs Commissioner of Lands (Northern Province) Department of Land Administration, Northern Provincial Council and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-09-CA-WRT-165-15)
 
 ---
 
