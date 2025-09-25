@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--25_12:43:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--25_13:12:58-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,118** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-24**, scraped from **[https://courtofappeal.lk](https://courtofappeal.lk)**
+- [**10,119** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-25**, scraped from **[https://courtofappeal.lk](https://courtofappeal.lk)**
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -17,17 +17,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-09-24-CA-HCC--0238-2024",
-    "num": "CA/HCC/ 0238/2024",
-    "date_str": "2025-09-24",
-    "description": "Adam Nizar Mohommed Asmir alias Adam Nizar Mohommed Asmir Vs. The Attorney General before Hon. P. Kumararatnam, J.",
+    "doc_id": "2025-09-25-CA-WRT-547-2023",
+    "num": "CA/WRT/547/2023",
+    "date_str": "2025-09-25",
+    "description": "Kalu Arachchillage Harsha Kumari Kaluarachchi and Another Vs The Divisional Secretary and Others before Hon. S.U.B. Karalliyadde, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13121",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7d4bb05a-192a-4ccc-a8fd-4091e5e42848&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0238.24.pdf.pdf",
-    "parties": "Adam Nizar Mohommed Asmir alias Adam Nizar Mohommed Asmir Vs. The Attorney General",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Contradictions. \u2022 Evaluation of Evidence",
-    "legistation": "The Penal Code"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a226e8dd-9cf2-48b5-b9dd-f28c7a252927&filename=WRT%20547-23.pdf.pdf",
+    "parties": "Kalu Arachchillage Harsha Kumari Kaluarachchi and Another Vs The Divisional Secretary and Others",
+    "judgement_by": "Hon. S.U.B. Karalliyadde, J.",
+    "keywords": "Grant, Section 19(4) and 104 of the Land Development Ordinance, cancelation of a Grant, Writ of mandamus, legal right",
+    "legistation": "The Land Development Ordinance, No. 19 of 1935 (as amended) and the Constitution of the Democratic Socialist Republic of Sri Lanka."
 }
 ```
 
@@ -42,6 +42,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-09-25 | `CA/WRT/547/2023` | Kalu Arachchillage Harsha Kumari Kaluarachchi and Another Vs The Divisional Secretary and Others before Hon. S.U.B. Karalliyadde, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-25-CA-WRT-547-2023)
 - 2025-09-24 | `CA/HCC/ 0238/2024` | Adam Nizar Mohommed Asmir alias Adam Nizar Mohommed Asmir Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-24-CA-HCC--0238-2024)
 - 2025-09-23 | `CA/WRT/0394/19` | Hemantha Prematilaka Waragoda Withanage And others Vs Dr. R.H. Samaratunga, Secretary to the Treasury, Ministry of Finance and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-23-CA-WRT-0394-19)
 - 2025-09-23 | `CA/HCC/284-285-15` | Wijesinghe Mudianselage Roy Rexi Miller alias Kopparaya (2A) and other Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-23-CA-HCC-284-285-15)
@@ -61,7 +62,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-15 | `CA/ PHC/ 140/ 2020` | Liyana Arachchige Asanka Maduranga Vs. Jayaratna Muhandiramge Lasantha Sanjula before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-15-CA--PHC--140--2020)
 - 2025-09-12 | `CA-Writ-742-23` | T. P. Nimal Premasiri Vs. Chatura Samarasinghe, Divisional Secretary, and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-12-CA-Writ-742-23)
 - 2025-09-12 | `CA (HCC)0019/2023` | Danansuriya Mudiyanselage Sampath Nalinda Wijesinghe and others Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-12-CA--HCC-0019-2023)
-- 2025-09-11 | `CA/WRT/0475/2019` | Mudaliperuge Manel Rupa Ranjani Kulathunga Vs M. U. Nishantha, Divisional Secretary, Galewela and ten others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-11-CA-WRT-0475-2019)
 
 ---
 
