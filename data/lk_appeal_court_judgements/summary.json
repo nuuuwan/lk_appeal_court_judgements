@@ -2,13 +2,13 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-09-26 15:38:34",
-  "n_docs": 10121,
-  "n_docs_with_pdfs": 10121,
-  "n_docs_with_text": 10121,
+  "time_updated": "2025-09-26 16:22:07",
+  "n_docs": 10122,
+  "n_docs_with_pdfs": 10122,
+  "n_docs_with_text": 10122,
   "date_str_min": "2012-04-23",
   "date_str_max": "2025-09-26",
-  "dataset_size": 10319490342,
+  "dataset_size": 10320274107,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -19,16 +19,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-09-26-CA--HCC-0307-2024",
-    "num": "CA (HCC)0307/2024",
+    "doc_id": "2025-09-26-CA-PHC-0125-2015",
+    "num": "CA/PHC/0125/2015",
     "date_str": "2025-09-26",
-    "description": "Nilanthilage Amila Sudarshana Silva Vs Hon. Attorney General before Hon.R.P. Hettiarachchi, J.",
+    "description": "Kadirawel Narayan Vs. J. M. C. Priyadharshani & 2 Others before Hon. K. M. S. DISSANAYAKE, J",
     "url_metadata": "https://courtofappeal.lk/?page_id=13121",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=17611398-3fd6-4312-b236-0670c061d23b&filename=HCC-307-24%20-mitigation%2024-09-2025.pdf.pdf",
-    "parties": "Nilanthilage Amila Sudarshana Silva Vs Hon. Attorney General",
-    "judgement_by": "Hon.R.P. Hettiarachchi, J.",
-    "keywords": "Rape- Incest- Grave Sexual Abuse-Convicting for a lesser offence- Mitigatory grounds-Aggravating Circumstances",
-    "legistation": "Sections 364A(1), 364A (3), 365B2(b) of the Penal Code (as amended ) - Sections 177 and 333 (5) of the Code of Criminal Procedure Code Act No. 15 of 1979 (as amended)"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=48e1f29c-4eaa-45af-9a59-95d24e0ec22b&filename=PHC-0125-15%28Order%20on%2026.09.2025%29.pdf.pdf",
+    "parties": "Kadirawel Narayan Vs. J. M. C. Priyadharshani & 2 Others",
+    "judgement_by": "Hon. K. M. S. DISSANAYAKE, J",
+    "keywords": "Appeal from an order of a Provincial High Court dismissing an application in revision before it for non-appearance of the Petitioner and his Attorney-at-Law on a day assigned for his appearance in Court-Will an appeal lie directly to the Court of Appeal for such Order without first purging his default of appearance before the court of first instance thereat?-Can a record of proceedings be contradicted or varied directly, before the Court of Appeal without first instituting an inquiry before the relevant court of first instance.",
+    "legistation": "Article 138 of Constitution of the Democratic Socialist Republic of Sri Lanka."
   }
 }
