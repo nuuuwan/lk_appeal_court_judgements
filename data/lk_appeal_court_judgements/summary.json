@@ -2,13 +2,13 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-09-26 13:39:50",
-  "n_docs": 10120,
-  "n_docs_with_pdfs": 10120,
-  "n_docs_with_text": 10120,
+  "time_updated": "2025-09-26 14:24:08",
+  "n_docs": 10121,
+  "n_docs_with_pdfs": 10121,
+  "n_docs_with_text": 10121,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-09-25",
-  "dataset_size": 10318063985,
+  "date_str_max": "2025-09-26",
+  "dataset_size": 10318847923,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -19,16 +19,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-09-25-CA-Writ-383-2018",
-    "num": "CA/Writ/383/2018",
-    "date_str": "2025-09-25",
-    "description": "Dialog Axiata PLC Vs (Ms.) S.P. Charles, Director General of Customs and Others before Hon. Damith Thotawatte, J.",
+    "doc_id": "2025-09-26-CA--HCC-0307-2024",
+    "num": "CA (HCC)0307/2024",
+    "date_str": "2025-09-26",
+    "description": "Nilanthilage Amila Sudarshana Silva Vs Hon. Attorney General before Hon.R.P. Hettiarachchi, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13121",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=292b9a1d-9edf-4e3a-8685-d98f1b8b88a3&filename=CA%20Writ%20383-2018%20JUDGEMENT%20%28FINAL%29.pdf.pdf",
-    "parties": "Dialog Axiata PLC Vs (Ms.) S.P. Charles, Director General of Customs and Others",
-    "judgement_by": "Hon. Damith Thotawatte, J.",
-    "keywords": "Customs value, Schedule E of the Customs Ordinance, Non- declaration of freight and insurance, Suppression of material facts, uberrima fides, Doctrine of Clean hands",
-    "legistation": "The Constitution of the Democratic Socialist Republic of Sri Lanka. Customs Ordinance No. 17 of 1869 as amended"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=17611398-3fd6-4312-b236-0670c061d23b&filename=HCC-307-24%20-mitigation%2024-09-2025.pdf.pdf",
+    "parties": "Nilanthilage Amila Sudarshana Silva Vs Hon. Attorney General",
+    "judgement_by": "Hon.R.P. Hettiarachchi, J.",
+    "keywords": "Rape- Incest- Grave Sexual Abuse-Convicting for a lesser offence- Mitigatory grounds-Aggravating Circumstances",
+    "legistation": "Sections 364A(1), 364A (3), 365B2(b) of the Penal Code (as amended ) - Sections 177 and 333 (5) of the Code of Criminal Procedure Code Act No. 15 of 1979 (as amended)"
   }
 }
