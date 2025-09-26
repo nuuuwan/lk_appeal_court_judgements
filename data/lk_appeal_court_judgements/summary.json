@@ -2,13 +2,13 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-09-26 11:40:30",
-  "n_docs": 10119,
-  "n_docs_with_pdfs": 10119,
-  "n_docs_with_text": 10119,
+  "time_updated": "2025-09-26 12:26:09",
+  "n_docs": 10120,
+  "n_docs_with_pdfs": 10120,
+  "n_docs_with_text": 10120,
   "date_str_min": "2012-04-23",
   "date_str_max": "2025-09-25",
-  "dataset_size": 10315795419,
+  "dataset_size": 10317053668,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -19,16 +19,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-09-25-CA-WRT-547-2023",
-    "num": "CA/WRT/547/2023",
+    "doc_id": "2025-09-25-CA-Writ-383-2018",
+    "num": "CA/Writ/383/2018",
     "date_str": "2025-09-25",
-    "description": "Kalu Arachchillage Harsha Kumari Kaluarachchi and Another Vs The Divisional Secretary and Others before Hon. S.U.B. Karalliyadde, J.",
+    "description": "Dialog Axiata PLC Vs (Ms.) S.P. Charles, Director General of Customs and Others before Hon. Damith Thotawatte, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13121",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a226e8dd-9cf2-48b5-b9dd-f28c7a252927&filename=WRT%20547-23.pdf.pdf",
-    "parties": "Kalu Arachchillage Harsha Kumari Kaluarachchi and Another Vs The Divisional Secretary and Others",
-    "judgement_by": "Hon. S.U.B. Karalliyadde, J.",
-    "keywords": "Grant, Section 19(4) and 104 of the Land Development Ordinance, cancelation of a Grant, Writ of mandamus, legal right",
-    "legistation": "The Land Development Ordinance, No. 19 of 1935 (as amended) and the Constitution of the Democratic Socialist Republic of Sri Lanka."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=292b9a1d-9edf-4e3a-8685-d98f1b8b88a3&filename=CA%20Writ%20383-2018%20JUDGEMENT%20%28FINAL%29.pdf.pdf",
+    "parties": "Dialog Axiata PLC Vs (Ms.) S.P. Charles, Director General of Customs and Others",
+    "judgement_by": "Hon. Damith Thotawatte, J.",
+    "keywords": "Customs value, Schedule E of the Customs Ordinance, Non- declaration of freight and insurance, Suppression of material facts, uberrima fides, Doctrine of Clean hands",
+    "legistation": "The Constitution of the Democratic Socialist Republic of Sri Lanka. Customs Ordinance No. 17 of 1869 as amended"
   }
 }
