@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--29_15:44:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--29_16:23:41-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,125** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-29**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,126** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-29**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -56,12 +56,12 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-22 | `CA HCC 0118/2024` | Nadaraj Vijayakumar Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-22-CA-HCC-0118-2024)
 - 2025-09-22 | `CA/HCC/ 0071/2022` | Robert Ekanayake Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-22-CA-HCC--0071-2022)
 - 2025-09-22 | `CA/ WRT/0497/19` | R. M. D. Wasantha Vs Nimal Abeysiri, District Secretary of Polonnaruwa and eight others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-22-CA--WRT-0497-19)
+- 2025-09-19 | `CA-Writ-202-22` | S.M.S.P. Wanasinghe and 27 others Vs. The Institution of Engineers, Sri Lanka and 13 others before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-Writ-202-22)
 - 2025-09-19 | `CA/WRIT/500/2023` | Ginimella Hewage Priyanga Nishantha Kumar Vs. M. A. P. Jayakody, Western Province Co-operative Development Commissioner/Registrar and 12 Others before Hon. Mahen Gopallawa J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-WRIT-500-2023)
 - 2025-09-19 | `CA/PHC/0237/2019` | Nawurunnage Sarath Kumara Vs. R. B. Rathnayake before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-PHC-0237-2019)
 - 2025-09-19 | `CA/PHC/0160/2019` | Dewathaapedigedara Nishanthi Ranasinghe Vs. Hon. Attorney General & 1 Other before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-PHC-0160-2019)
 - 2025-09-19 | `CA/CPA/0103/2024` | Mohottige Chaminda Lalith Kumara Vs. . Officer in Charge. Police Station, Weeraketiya & Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-CPA-0103-2024)
 - 2025-09-19 | `CA/ WRT/0654/23` | National Council for Disaster Management and other Vs Hon. Minister of Labour, Labour Secretariat and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA--WRT-0654-23)
-- 2025-09-19 | `CA /HCC/0199/2023` | Thommaya Hakuru Jayalath Vs. The Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA--HCC-0199-2023)
 
 ---
 
