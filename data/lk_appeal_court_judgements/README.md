@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--29_13:54:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--29_14:17:36-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,124** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-29**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,125** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-29**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 - 2025-09-29 | `CA HCC 438/2019` | Kaluthandrige Ruwan Ajith alias Aja Vs Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-29-CA-HCC-438-2019)
 - 2025-09-29 | `CA HCC 0202/2020` | Sandra Marakkala Sadamali Wickramasinghe Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-29-CA-HCC-0202-2020)
+- 2025-09-29 | `CA/HCC/ 0187/2024` | Mathagadeera Arachchige Saliya Kumara Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-29-CA-HCC--0187-2024)
 - 2025-09-26 | `CA/PHC/0125/2015` | Kadirawel Narayan Vs. J. M. C. Priyadharshani & 2 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-26-CA-PHC-0125-2015)
 - 2025-09-26 | `CA (HCC)0307/2024` | Nilanthilage Amila Sudarshana Silva Vs Hon. Attorney General before Hon.R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-26-CA--HCC-0307-2024)
 - 2025-09-25 | `CA/Writ/383/2018` | Dialog Axiata PLC Vs (Ms.) S.P. Charles, Director General of Customs and Others before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-25-CA-Writ-383-2018)
@@ -61,7 +62,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-19 | `CA/CPA/0103/2024` | Mohottige Chaminda Lalith Kumara Vs. . Officer in Charge. Police Station, Weeraketiya & Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-CPA-0103-2024)
 - 2025-09-19 | `CA/ WRT/0654/23` | National Council for Disaster Management and other Vs Hon. Minister of Labour, Labour Secretariat and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA--WRT-0654-23)
 - 2025-09-19 | `CA /HCC/0199/2023` | Thommaya Hakuru Jayalath Vs. The Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA--HCC-0199-2023)
-- 2025-09-18 | `CA/WRT/147/2021` | Palamandadige Rose Kumari Nishanthi Fernando and Others Vs Hon. S. M. Chandrasena, Minister of Lands and Others before Hon. S.U.B. Karalliyadde, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-18-CA-WRT-147-2021)
 
 ---
 
