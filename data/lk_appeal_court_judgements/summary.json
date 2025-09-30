@@ -2,13 +2,13 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-09-30 12:40:33",
-  "n_docs": 10126,
-  "n_docs_with_pdfs": 10126,
-  "n_docs_with_text": 10126,
+  "time_updated": "2025-09-30 13:20:37",
+  "n_docs": 10127,
+  "n_docs_with_pdfs": 10127,
+  "n_docs_with_text": 10127,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-09-29",
-  "dataset_size": 10324614584,
+  "date_str_max": "2025-09-30",
+  "dataset_size": 10324894667,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -19,16 +19,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-09-29-CA-HCC-438-2019",
-    "num": "CA HCC 438/2019",
-    "date_str": "2025-09-29",
-    "description": "Kaluthandrige Ruwan Ajith alias Aja Vs Hon. Attorney General, before Hon. Amal Ranaraja, J.",
+    "doc_id": "2025-09-30-CA-Bail-0222-25",
+    "num": "CA Bail 0222/25",
+    "date_str": "2025-09-30",
+    "description": "Umagiliya Kankanamage Pradeepa Chithrangani Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13121",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f68e46fd-522d-4940-a8ab-088ff265f440&filename=CA%20HCC%20438-19.pdf.pdf",
-    "parties": "Kaluthandrige Ruwan Ajith alias Aja Vs Hon. Attorney General,",
-    "judgement_by": "Hon. Amal Ranaraja, J.",
-    "keywords": "Marking the contradictory nature of witness testimony \u2013 Discrepancies in testimonies not pertaining directly to the incident involving the offence itself \u2013 Prosecution\u2019s latitude to call witnesses \u2013 Adequacy of witnesses in establishing a fact",
-    "legistation": "Section 296 of the Penal Code, Section 134 and 145 of the Evidence Ordinance No.15 of 1895"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f665c97c-0759-4c21-9d78-4b46ab37c86e&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0111.22.pdf.pdf",
+    "parties": "Umagiliya Kankanamage Pradeepa Chithrangani Vs The Hon. Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Exceptional Circumstances.",
+    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984."
   }
 }

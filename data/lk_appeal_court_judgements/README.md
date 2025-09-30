@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--30_12:40:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--09--30_13:20:43-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,126** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-29**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,127** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-30**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -17,17 +17,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-09-29-CA-HCC-438-2019",
-    "num": "CA HCC 438/2019",
-    "date_str": "2025-09-29",
-    "description": "Kaluthandrige Ruwan Ajith alias Aja Vs Hon. Attorney General, before Hon. Amal Ranaraja, J.",
+    "doc_id": "2025-09-30-CA-Bail-0222-25",
+    "num": "CA Bail 0222/25",
+    "date_str": "2025-09-30",
+    "description": "Umagiliya Kankanamage Pradeepa Chithrangani Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13121",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f68e46fd-522d-4940-a8ab-088ff265f440&filename=CA%20HCC%20438-19.pdf.pdf",
-    "parties": "Kaluthandrige Ruwan Ajith alias Aja Vs Hon. Attorney General,",
-    "judgement_by": "Hon. Amal Ranaraja, J.",
-    "keywords": "Marking the contradictory nature of witness testimony \u2013 Discrepancies in testimonies not pertaining directly to the incident involving the offence itself \u2013 Prosecution\u2019s latitude to call witnesses \u2013 Adequacy of witnesses in establishing a fact",
-    "legistation": "Section 296 of the Penal Code, Section 134 and 145 of the Evidence Ordinance No.15 of 1895"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f665c97c-0759-4c21-9d78-4b46ab37c86e&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0111.22.pdf.pdf",
+    "parties": "Umagiliya Kankanamage Pradeepa Chithrangani Vs The Hon. Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Exceptional Circumstances.",
+    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984."
 }
 ```
 
@@ -42,6 +42,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-09-30 | `CA Bail 0222/25` | Umagiliya Kankanamage Pradeepa Chithrangani Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-Bail-0222-25)
 - 2025-09-29 | `CA HCC 438/2019` | Kaluthandrige Ruwan Ajith alias Aja Vs Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-29-CA-HCC-438-2019)
 - 2025-09-29 | `CA HCC 0202/2020` | Sandra Marakkala Sadamali Wickramasinghe Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-29-CA-HCC-0202-2020)
 - 2025-09-29 | `CA/HCC/ 0187/2024` | Mathagadeera Arachchige Saliya Kumara Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-29-CA-HCC--0187-2024)
@@ -61,7 +62,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-19 | `CA/PHC/0237/2019` | Nawurunnage Sarath Kumara Vs. R. B. Rathnayake before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-PHC-0237-2019)
 - 2025-09-19 | `CA/PHC/0160/2019` | Dewathaapedigedara Nishanthi Ranasinghe Vs. Hon. Attorney General & 1 Other before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-PHC-0160-2019)
 - 2025-09-19 | `CA/CPA/0103/2024` | Mohottige Chaminda Lalith Kumara Vs. . Officer in Charge. Police Station, Weeraketiya & Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-CPA-0103-2024)
-- 2025-09-19 | `CA/ WRT/0654/23` | National Council for Disaster Management and other Vs Hon. Minister of Labour, Labour Secretariat and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA--WRT-0654-23)
 
 ---
 
