@@ -2,13 +2,13 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-09-30 15:20:58",
-  "n_docs": 10129,
-  "n_docs_with_pdfs": 10129,
-  "n_docs_with_text": 10129,
+  "time_updated": "2025-09-30 15:46:52",
+  "n_docs": 10131,
+  "n_docs_with_pdfs": 10131,
+  "n_docs_with_text": 10131,
   "date_str_min": "2012-04-23",
   "date_str_max": "2025-09-30",
-  "dataset_size": 10327012539,
+  "dataset_size": 10329919900,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -19,16 +19,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-09-30-CA-Bail-0222-25",
-    "num": "CA Bail 0222/25",
+    "doc_id": "2025-09-30-CA-PHC-81-2020",
+    "num": "CA PHC 81/2020",
     "date_str": "2025-09-30",
-    "description": "Umagiliya Kankanamage Pradeepa Chithrangani Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
+    "description": "Abeyweera Mirissa Patabendige Badrajith Harshanath Abeyweera Vs. Attorney General before Hon. Amal Ranaraja, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13121",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f665c97c-0759-4c21-9d78-4b46ab37c86e&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0111.22.pdf.pdf",
-    "parties": "Umagiliya Kankanamage Pradeepa Chithrangani Vs The Hon. Attorney General",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Exceptional Circumstances.",
-    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1d1d5d2f-a7ce-4e44-9377-507d6664681c&filename=CA%20PHC%2081-2020.pdf.pdf",
+    "parties": "Abeyweera Mirissa Patabendige Badrajith Harshanath Abeyweera Vs. Attorney General",
+    "judgement_by": "Hon. Amal Ranaraja, J.",
+    "keywords": "Absolute owner of the vehicle used in a forest offence \u2013 Responsibility of a party prosecuting his case effectively \u2013Prompt action and diligence in legal process",
+    "legistation": "Section 20 and 40 of the Forest Ordinance No.16 of 1907 (as amended)"
   }
 }
