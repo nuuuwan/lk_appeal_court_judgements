@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_10:16:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_10:51:20-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,131** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-30**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,133** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-30**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -17,17 +17,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-09-30-CA-PHC-81-2020",
-    "num": "CA PHC 81/2020",
+    "doc_id": "2025-09-30-CA-WRT-738-2023",
+    "num": "CA/WRT/738/2023",
     "date_str": "2025-09-30",
-    "description": "Abeyweera Mirissa Patabendige Badrajith Harshanath Abeyweera Vs. Attorney General before Hon. Amal Ranaraja, J.",
+    "description": "Environmental Foundation (Guarantee) Limited Vs Chandana Sooriyabandara and Others before Hon. S.U.B. Karalliyadde, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13121",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1d1d5d2f-a7ce-4e44-9377-507d6664681c&filename=CA%20PHC%2081-2020.pdf.pdf",
-    "parties": "Abeyweera Mirissa Patabendige Badrajith Harshanath Abeyweera Vs. Attorney General",
-    "judgement_by": "Hon. Amal Ranaraja, J.",
-    "keywords": "Absolute owner of the vehicle used in a forest offence \u2013 Responsibility of a party prosecuting his case effectively \u2013Prompt action and diligence in legal process",
-    "legistation": "Section 20 and 40 of the Forest Ordinance No.16 of 1907 (as amended)"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0b67d763-36ba-43b8-909c-0835cf003915&filename=WRT%20738-23.pdf.pdf",
+    "parties": "Environmental Foundation (Guarantee) Limited Vs Chandana Sooriyabandara and Others",
+    "judgement_by": "Hon. S.U.B. Karalliyadde, J.",
+    "keywords": "Wilpattu National Park, Section 5(1), 5(2), 6(1), 72 and 67C of the Fauna and Flora Protection Ordinance, necessary parties",
+    "legistation": "The Fauna and Flora Protection Ordinance, No. 02 of 2002 (as amended) and the Constitution of the Democratic Socialist Republic of Sri Lanka."
 }
 ```
 
@@ -42,8 +42,10 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-09-30 | `CA/WRT/738/2023` | Environmental Foundation (Guarantee) Limited Vs Chandana Sooriyabandara and Others before Hon. S.U.B. Karalliyadde, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-WRT-738-2023)
 - 2025-09-30 | `CA PHC 81/2020` | Abeyweera Mirissa Patabendige Badrajith Harshanath Abeyweera Vs. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-PHC-81-2020)
 - 2025-09-30 | `CA HCC 233/2018` | KaluaddaraArachchige Raja Ajith Ranjith Vs. The Director General, Commission to Investigate Allegations of Bribery or Corruption before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-HCC-233-2018)
+- 2025-09-30 | `CA/HCC/110/2024` | The Hon. Attorney General Vs Kande Pun Shri Samantha before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-HCC-110-2024)
 - 2025-09-30 | `CA Bail 0222/25` | Umagiliya Kankanamage Pradeepa Chithrangani Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-Bail-0222-25)
 - 2025-09-30 | `CA (HCC)0093/2022` | Pelenda Dewage Abesinghe Vs The Hon.Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA--HCC-0093-2022)
 - 2025-09-29 | `CA HCC 438/2019` | Kaluthandrige Ruwan Ajith alias Aja Vs Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-29-CA-HCC-438-2019)
@@ -60,8 +62,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-23 | `CA/COC/0007/22` | SJ Solar+ Storage PTE Ltd Vs. Vinseth Engineering (Pvt) Ltd & Others before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-23-CA-COC-0007-22)
 - 2025-09-22 | `CA HCC 0118/2024` | Nadaraj Vijayakumar Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-22-CA-HCC-0118-2024)
 - 2025-09-22 | `CA/HCC/ 0071/2022` | Robert Ekanayake Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-22-CA-HCC--0071-2022)
-- 2025-09-22 | `CA/ WRT/0497/19` | R. M. D. Wasantha Vs Nimal Abeysiri, District Secretary of Polonnaruwa and eight others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-22-CA--WRT-0497-19)
-- 2025-09-19 | `CA-Writ-202-22` | S.M.S.P. Wanasinghe and 27 others Vs. The Institution of Engineers, Sri Lanka and 13 others before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-19-CA-Writ-202-22)
 
 ---
 
