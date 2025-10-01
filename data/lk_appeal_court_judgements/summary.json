@@ -2,13 +2,13 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-10-01 10:51:15",
-  "n_docs": 10133,
-  "n_docs_with_pdfs": 10133,
-  "n_docs_with_text": 10133,
+  "time_updated": "2025-10-01 11:14:02",
+  "n_docs": 10134,
+  "n_docs_with_pdfs": 10134,
+  "n_docs_with_text": 10134,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-09-30",
-  "dataset_size": 10331326649,
+  "date_str_max": "2025-09-NA",
+  "dataset_size": 10332012136,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -19,16 +19,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-09-30-CA-WRT-738-2023",
-    "num": "CA/WRT/738/2023",
-    "date_str": "2025-09-30",
-    "description": "Environmental Foundation (Guarantee) Limited Vs Chandana Sooriyabandara and Others before Hon. S.U.B. Karalliyadde, J.",
+    "doc_id": "2025-09-NA-CA-HCC-110-2024",
+    "num": "CA/HCC/110/2024",
+    "date_str": "2025-09-NA",
+    "description": "The Hon. Attorney General Vs Kande Pun Shri Samantha before Hon. B. Sasi Mahendran, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13121",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0b67d763-36ba-43b8-909c-0835cf003915&filename=WRT%20738-23.pdf.pdf",
-    "parties": "Environmental Foundation (Guarantee) Limited Vs Chandana Sooriyabandara and Others",
-    "judgement_by": "Hon. S.U.B. Karalliyadde, J.",
-    "keywords": "Wilpattu National Park, Section 5(1), 5(2), 6(1), 72 and 67C of the Fauna and Flora Protection Ordinance, necessary parties",
-    "legistation": "The Fauna and Flora Protection Ordinance, No. 02 of 2002 (as amended) and the Constitution of the Democratic Socialist Republic of Sri Lanka."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=55199f4e-58fd-4a7b-82f9-357c9af8d70a&filename=HCC%20110-24-JUDGMENT.pdf.pdf",
+    "parties": "The Hon. Attorney General Vs Kande Pun Shri Samantha",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "legally recognized appeal,",
+    "legistation": "Section 15(b) of the Judicature Act, Section 331 of the Code of Criminal Procedure Act No. 15 of 1979"
   }
 }
