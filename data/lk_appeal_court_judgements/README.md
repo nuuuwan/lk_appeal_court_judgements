@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_12:41:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--01_13:19:52-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,134** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-09-NA**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,135** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-10-01**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -17,17 +17,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-09-NA-CA-HCC-110-2024",
-    "num": "CA/HCC/110/2024",
-    "date_str": "2025-09-NA",
-    "description": "The Hon. Attorney General Vs Kande Pun Shri Samantha before Hon. B. Sasi Mahendran, J.",
-    "url_metadata": "https://courtofappeal.lk/?page_id=13121",
+    "doc_id": "2025-10-01-CA-WRT-125---2016",
+    "num": "CA/WRT/125 / 2016",
+    "date_str": "2025-10-01",
+    "description": "Ceylon Electricity Board, Vs Hon. W.D. Seneviratne Minister of Labour, and others before Hon. Adithya Patabendige, J.",
+    "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=55199f4e-58fd-4a7b-82f9-357c9af8d70a&filename=HCC%20110-24-JUDGMENT.pdf.pdf",
-    "parties": "The Hon. Attorney General Vs Kande Pun Shri Samantha",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "legally recognized appeal,",
-    "legistation": "Section 15(b) of the Judicature Act, Section 331 of the Code of Criminal Procedure Act No. 15 of 1979"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d0af8b72-3379-4f45-b054-021fdb87a26c&filename=Judgement%20copy%20o%20%282%29.pdf.pdf",
+    "parties": "Ceylon Electricity Board, Vs Hon. W.D. Seneviratne Minister of Labour, and others",
+    "judgement_by": "Hon. Adithya Patabendige, J.",
+    "keywords": "",
+    "legistation": ""
 }
 ```
 
@@ -42,6 +42,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-10-01 | `CA/WRT/125 / 2016` | Ceylon Electricity Board, Vs Hon. W.D. Seneviratne Minister of Labour, and others before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-01-CA-WRT-125---2016)
 - 2025-09-NA | `CA/HCC/110/2024` | The Hon. Attorney General Vs Kande Pun Shri Samantha before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-NA-CA-HCC-110-2024)
 - 2025-09-30 | `CA/WRT/738/2023` | Environmental Foundation (Guarantee) Limited Vs Chandana Sooriyabandara and Others before Hon. S.U.B. Karalliyadde, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-WRT-738-2023)
 - 2025-09-30 | `CA PHC 81/2020` | Abeyweera Mirissa Patabendige Badrajith Harshanath Abeyweera Vs. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-PHC-81-2020)
@@ -61,7 +62,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-23 | `CA/WRT/0394/19` | Hemantha Prematilaka Waragoda Withanage And others Vs Dr. R.H. Samaratunga, Secretary to the Treasury, Ministry of Finance and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-23-CA-WRT-0394-19)
 - 2025-09-23 | `CA/HCC/284-285-15` | Wijesinghe Mudianselage Roy Rexi Miller alias Kopparaya (2A) and other Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-23-CA-HCC-284-285-15)
 - 2025-09-23 | `CA/COC/0007/22` | SJ Solar+ Storage PTE Ltd Vs. Vinseth Engineering (Pvt) Ltd & Others before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-23-CA-COC-0007-22)
-- 2025-09-22 | `CA HCC 0118/2024` | Nadaraj Vijayakumar Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-22-CA-HCC-0118-2024)
 
 ---
 
