@@ -6,7 +6,7 @@ from utils import Log
 from appeals.pages.AppealsDataPage import AppealsDataPage
 from appeals.pages.AppealsHomePageNewMixin import AppealsHomePageNewMixin
 from appeals.pages.AppealsHomePageOldMixin import AppealsHomePageOldMixin
-from utils_future import WWW
+from utils import WWW
 
 log = Log("AppealsHomePage")
 

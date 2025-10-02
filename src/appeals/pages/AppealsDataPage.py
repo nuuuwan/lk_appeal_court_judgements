@@ -5,7 +5,7 @@ from urllib.parse import quote
 
 from utils import Log
 
-from utils_future import WWW
+from utils import WWW
 
 log = Log("AppealsDataPage")
 
