@@ -1,0 +1,5620 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      443.86,
+      36.04,
+      597.06,
+      48.92
+    ],
+    "text": "WRT/0481/21",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      779.66,
+      526.95,
+      805.78
+    ],
+    "text": "Page 1 of 13",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      71.97,
+      528.07,
+      88.33
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      204.17,
+      89.75,
+      396.04,
+      106.11
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.77,
+      124.68,
+      512.35,
+      138.68
+    ],
+    "text": "In the matter of an application for Orders in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.77,
+      145.92,
+      512.5,
+      159.92
+    ],
+    "text": "the nature of Writs of Certiorari and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.77,
+      167.04,
+      512.35,
+      181.04
+    ],
+    "text": "Prohibition under and in terms of Article 140",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.77,
+      188.16,
+      512.43,
+      202.16
+    ],
+    "text": "of the Constitution of the Democratic Socialist",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.77,
+      209.4,
+      375.19,
+      223.4
+    ],
+    "text": "Republic of Sri Lanka.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      238.44,
+      410.23,
+      252.44
+    ],
+    "text": "Lakshman Bandara Kiriella,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      259.56,
+      401.59,
+      273.56
+    ],
+    "text": "No. 121, Pahalawela Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      280.71,
+      390.07,
+      294.71
+    ],
+    "text": "Pelawatte, Battaramulla.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      111.14,
+      301.83,
+      505.37,
+      315.83
+    ],
+    "text": "PETITIONER",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      3.9600000381469727,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      54.0,
+      322.95,
+      346.96,
+      336.93
+    ],
+    "text": "C.A. Case No. WRT/0481/21",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      54.0,
+      346.11,
+      372.16,
+      360.11
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.77,
+      369.27,
+      463.3,
+      383.27
+    ],
+    "text": "1. Justice Upaly Abeyrathne (Retd.),",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.77,
+      390.51,
+      325.27,
+      404.51
+    ],
+    "text": "Chairman,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.77,
+      411.63,
+      436.87,
+      425.63
+    ],
+    "text": "No. 42/10, Beddagana North,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.77,
+      432.75,
+      322.87,
+      446.75
+    ],
+    "text": "Pitakotte.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.77,
+      453.88,
+      506.98,
+      478.45
+    ],
+    "text": "2. Justice Sarojini K. Weerawardane (retd.),",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      6.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.77,
+      485.57,
+      317.81,
+      499.57
+    ],
+    "text": "Member,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.77,
+      506.69,
+      409.27,
+      520.69
+    ],
+    "text": "40/59, Beddegana Road,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.77,
+      527.81,
+      297.17,
+      541.81
+    ],
+    "text": "Kotte.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.77,
+      557.77,
+      431.11,
+      573.49
+    ],
+    "text": "3. M.K.D. Wijaya Amarasinghe,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      0.9599999785423279,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.77,
+      580.61,
+      313.97,
+      594.61
+    ],
+    "text": "Member,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.77,
+      601.68,
+      376.63,
+      624.61
+    ],
+    "text": "4. W.K.K. Kumarasiri,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      5.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.77,
+      631.73,
+      313.97,
+      645.73
+    ],
+    "text": "Member,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.77,
+      652.86,
+      386.71,
+      677.44
+    ],
+    "text": "5. M.P.P. Dharmaratne,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      6.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.77,
+      684.56,
+      313.97,
+      698.56
+    ],
+    "text": "Member,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.77,
+      705.68,
+      517.49,
+      719.68
+    ],
+    "text": "Presidential Commission of Inquiry Probing",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.77,
+      726.8,
+      525.41,
+      740.8
+    ],
+    "text": "Fraud and Corruption that occurred at State",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      443.86,
+      36.04,
+      597.06,
+      48.92
+    ],
+    "text": "WRT/0481/21",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      779.66,
+      526.95,
+      805.78
+    ],
+    "text": "Page 2 of 13",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      71.98,
+      516.22,
+      85.98
+    ],
+    "text": "Institutions from 15th January 2015 to 31st",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      93.12,
+      358.63,
+      107.12
+    ],
+    "text": "December 2018.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.77,
+      114.25,
+      347.83,
+      138.8
+    ],
+    "text": "6. S.P. Vellappili,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      6.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      145.92,
+      321.67,
+      159.92
+    ],
+    "text": "Secretary,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      167.04,
+      517.49,
+      181.04
+    ],
+    "text": "Presidential Commission of Inquiry Probing",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      188.16,
+      525.41,
+      202.16
+    ],
+    "text": "Fraud and Corruption that occurred at State",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      209.28,
+      516.22,
+      223.28
+    ],
+    "text": "Institutions from 15th January 2015 to 31st",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      230.52,
+      358.63,
+      244.52
+    ],
+    "text": "December 2018.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      251.65,
+      436.63,
+      276.2
+    ],
+    "text": "C/O Presidential Secretariat,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      6.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      283.35,
+      336.55,
+      297.35
+    ],
+    "text": "Colombo 01.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.77,
+      304.48,
+      370.15,
+      329.03
+    ],
+    "text": "7. P.B. Jayasundera,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      6.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      336.15,
+      418.15,
+      350.15
+    ],
+    "text": "Secretary to the President,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      357.27,
+      403.27,
+      371.27
+    ],
+    "text": "Presidential Secretariat,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      378.39,
+      336.55,
+      392.39
+    ],
+    "text": "Colombo 01.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.77,
+      409.23,
+      384.07,
+      423.23
+    ],
+    "text": "7A.Gamini S. Senarath,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      430.47,
+      418.15,
+      444.47
+    ],
+    "text": "Secretary to the President,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      451.59,
+      403.27,
+      465.59
+    ],
+    "text": "Presidential Secretariat,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      472.73,
+      336.55,
+      486.73
+    ],
+    "text": "Colombo 01.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.77,
+      507.05,
+      413.35,
+      521.05
+    ],
+    "text": "7B.Mr. E.M.S.B. Ekanayake,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      528.29,
+      418.15,
+      542.29
+    ],
+    "text": "Secretary to the President,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      549.41,
+      403.27,
+      563.41
+    ],
+    "text": "Presidential Secretariat,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      570.53,
+      336.55,
+      584.53
+    ],
+    "text": "Colombo 01.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.77,
+      591.72,
+      400.39,
+      610.93
+    ],
+    "text": "7C. Dr. N.S. Kumanayake,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      3.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      618.05,
+      418.15,
+      632.05
+    ],
+    "text": "Secretary to the President,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      639.17,
+      403.27,
+      653.17
+    ],
+    "text": "Presidential Secretariat,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      660.32,
+      336.55,
+      674.32
+    ],
+    "text": "Colombo 01.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      240.77,
+      681.51,
+      397.99,
+      700.72
+    ],
+    "text": "8. Hon. Attorney General,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      3.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      707.84,
+      448.9,
+      721.84
+    ],
+    "text": "Attorney General\u2019s Department,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      258.77,
+      728.96,
+      367.27,
+      742.96
+    ],
+    "text": "Colombo 12.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      431.11,
+      750.07,
+      534.58,
+      764.08
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      443.86,
+      36.04,
+      597.06,
+      48.92
+    ],
+    "text": "WRT/0481/21",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      779.66,
+      526.95,
+      805.78
+    ],
+    "text": "Page 3 of 13",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      72.1,
+      324.79,
+      86.1
+    ],
+    "text": "BEFORE : K. M. G. H. KULATUNGA, J.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      110.88,
+      494.93,
+      124.88
+    ],
+    "text": "COUNSEL : Faisz Musthapha, PC, with Thushani Machado and Faisza",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.58,
+      132.0,
+      520.42,
+      146.0
+    ],
+    "text": "Markar, PC, with Zainab Markar, instructed by Dilini Gamage,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.58,
+      153.24,
+      254.69,
+      167.24
+    ],
+    "text": "for the Petitioner.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      148.58,
+      182.28,
+      404.71,
+      196.28
+    ],
+    "text": "Manohara Jayasinghe, DSG, for the State.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      234.48,
+      236.21,
+      248.48
+    ],
+    "text": "ARGUED ON : 27.08.2025",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      265.68,
+      236.93,
+      279.68
+    ],
+    "text": "DECIDED ON: 30.09.2025",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      322.23,
+      342.31,
+      353.72
+    ],
+    "text": "JUDGEMENT",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      3.9600000381469727,
+      12.0,
+      20.040000915527344
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      350.57,
+      247.73,
+      367.05
+    ],
+    "text": "K. M. G. H. KULATUNGA, J.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      2.0399999618530273,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      376.23,
+      527.04,
+      390.23
+    ],
+    "text": "1. The petitioner by this application is challenging the validity of a",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      397.35,
+      527.18,
+      411.35
+    ],
+    "text": "recommendation made by a Commission of Inquiry appointed under the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      418.59,
+      527.05,
+      432.59
+    ],
+    "text": "Commissions of Inquiry Act, No. 17 of 1948, as amended. The said",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      439.71,
+      527.25,
+      453.71
+    ],
+    "text": "Commission of Inquiry was appointed to probe into fraud and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      460.85,
+      527.05,
+      474.85
+    ],
+    "text": "corruption that occurred at State institutions from 15.01.2015 to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      481.97,
+      527.26,
+      495.97
+    ],
+    "text": "31.12.2018. According to the proclamation published in the Gazette",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      503.09,
+      527.19,
+      517.09
+    ],
+    "text": "Extraordinary No. 2106/11, dated 16.01.2019, said Commission of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      524.21,
+      527.26,
+      538.21
+    ],
+    "text": "Inquiry was appointed by warrant dated 03.03.2015, in terms of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      545.33,
+      527.25,
+      559.33
+    ],
+    "text": "[Presidential] Commissions of Inquiry Act (Chapter 393). A document",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      566.45,
+      527.23,
+      580.45
+    ],
+    "text": "alleged to be a copy of the Report is tendered marked P-7 along with the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      587.57,
+      527.15,
+      601.57
+    ],
+    "text": "petition. However, this Report is not a copy issued officially by any",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      608.69,
+      527.19,
+      622.69
+    ],
+    "text": "authority, nor is it certified to be so. Further, the petitioners also",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      629.81,
+      527.26,
+      643.81
+    ],
+    "text": "concede that this is an unofficial copy, which was on social media. Be",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      650.96,
+      527.26,
+      664.96
+    ],
+    "text": "that as it may, the petitioner is challenging a portion of this Report P-7",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      672.08,
+      527.07,
+      686.08
+    ],
+    "text": "wherein a finding and recommendation has been made against the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      693.32,
+      394.87,
+      707.32
+    ],
+    "text": "petitioner, along with several others, as follows:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126.02,
+      714.44,
+      526.76,
+      728.5
+    ],
+    "text": "a) To prosecute all the Respondents including the Petitioner for",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.02,
+      730.63,
+      527.0,
+      760.9
+    ],
+    "text": "recruiting employees outside the approved cadre of the Road Development Authority and in Violation of circulars issued by the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      443.86,
+      36.04,
+      597.06,
+      48.92
+    ],
+    "text": "WRT/0481/21",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      779.66,
+      526.95,
+      805.78
+    ],
+    "text": "Page 4 of 13",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.02,
+      71.98,
+      527.0,
+      199.46
+    ],
+    "text": "Department of Management Services by misappropriating a sum of Rs 62,707,666.59 and thereby committing the offence of criminal breach of trust, punishable under and in terms of Section 5 (1) of Act No. 12 of 1982 (Offences Against the Public Property Act) read with section 389 of the Penal Code and Section 70 of the Bribery Act; b) For the purpose of initiating criminal proceedings against the said",
+    "fonts": [
+      "Arial-ItalicMT",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      144.02,
+      201.6,
+      526.83,
+      248.18
+    ],
+    "text": "Respondents, including the Petitioner, the relevant documents and material will be forwarded to the Attorney General and/or to the Commission to Investigate Bribery and Corruption.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      258.29,
+      117.47,
+      273.39
+    ],
+    "text": "Facts.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.960000038146973
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      289.11,
+      527.19,
+      303.11
+    ],
+    "text": "2. According to the petitioner, he is a practising lawyer and an elected",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      310.23,
+      527.23,
+      324.23
+    ],
+    "text": "Member of Parliament since 1989. The petitioner has held the portfolio",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      331.35,
+      527.06,
+      345.35
+    ],
+    "text": "of Minister of Higher Education and Highways from 14.10.2015 to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      352.47,
+      527.07,
+      366.47
+    ],
+    "text": "25.02.2018. A Commission of Inquiry (COI) was appointed by order",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      373.59,
+      527.25,
+      387.59
+    ],
+    "text": "published in the Gazette Extraordinary on 16.01.2019 to investigate",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      394.71,
+      527.07,
+      408.71
+    ],
+    "text": "serious allegations of corruption, fraud, criminal breach of trust, and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      415.83,
+      527.14,
+      429.83
+    ],
+    "text": "other misconduct against persons who held or continue to hold political",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      436.95,
+      485.86,
+      450.95
+    ],
+    "text": "office, covering the period between 15.01.2015 and 31.12.2018.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      479.33,
+      527.04,
+      493.33
+    ],
+    "text": "3. While serving as Minister, the petitioner became aware that Land",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      500.45,
+      527.05,
+      514.45
+    ],
+    "text": "Officers at the Road Development Authority (RDA), who had been",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      521.57,
+      527.16,
+      535.57
+    ],
+    "text": "recruited on a contract basis, had their services terminated on January",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      542.69,
+      527.05,
+      556.69
+    ],
+    "text": "12, 2015. To resolve obstacles faced in road development projects, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      563.81,
+      527.07,
+      577.81
+    ],
+    "text": "Director Legal of the RDA recommended the recruitment of suitable",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      584.93,
+      527.1,
+      598.93
+    ],
+    "text": "persons to coordinate/liaise with landowners and resolve grievances.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      606.05,
+      527.25,
+      620.05
+    ],
+    "text": "Following an interview process, eligible applicants were appointed as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      627.17,
+      527.06,
+      641.17
+    ],
+    "text": "Public Liaison Officers (PLOs). The Committee on Public Enterprises",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      648.29,
+      527.17,
+      662.29
+    ],
+    "text": "(COPE) inquired into the appointment of 54 Consultants and 94 Public",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      669.44,
+      527.16,
+      683.44
+    ],
+    "text": "Liaison Officers by the RDA, expressing concern that the appointments",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      690.56,
+      527.21,
+      704.56
+    ],
+    "text": "had not been subjected to Board approval. The RDA Chairman",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      711.68,
+      527.08,
+      725.68
+    ],
+    "text": "subsequently presented a Board Paper on 25.06.2016, seeking, and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      732.91,
+      527.06,
+      746.92
+    ],
+    "text": "receiving, Board approval for the recruitment of the PLOs and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      754.03,
+      527.11,
+      768.04
+    ],
+    "text": "Consultants. The appointments were regularised following the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      443.86,
+      36.04,
+      597.06,
+      48.92
+    ],
+    "text": "WRT/0481/21",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      779.66,
+      526.95,
+      805.78
+    ],
+    "text": "Page 5 of 13",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      71.98,
+      527.04,
+      85.98
+    ],
+    "text": "recommendations of COPE, but the services of the PLOs and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      93.12,
+      349.27,
+      107.12
+    ],
+    "text": "Consultants were ultimately terminated.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      114.36,
+      523.3,
+      143.48
+    ],
+    "text": "4. The Commission of Inquiry received a complaint, bearing No. 35-",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      150.6,
+      527.07,
+      164.6
+    ],
+    "text": "437/2019, from one I. K. Abeyratne Bandara, alleging that the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      171.72,
+      527.02,
+      185.72
+    ],
+    "text": "employment of 94 PLOs and 56 Consultants by the RDA resulted in a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      192.84,
+      527.12,
+      206.84
+    ],
+    "text": "loss to the State, implicating the petitioner as the Minister in charge of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      213.96,
+      527.22,
+      227.96
+    ],
+    "text": "Highways at the time. During the inquiry conducted on June 12, 2019,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      235.08,
+      527.18,
+      249.08
+    ],
+    "text": "the Commission was informed that there was no such person named I.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      256.2,
+      527.08,
+      270.2
+    ],
+    "text": "K. Bandara (the purported complainant). The Special Crimes Division",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      277.35,
+      527.18,
+      291.35
+    ],
+    "text": "informed the 1st respondent that I. K. Abeyratne Bandara had made a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      298.47,
+      527.19,
+      312.47
+    ],
+    "text": "purported complaint in a letter dated 04.09.2019, March 4, 2019, that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      319.59,
+      527.07,
+      333.59
+    ],
+    "text": "he had never made the specific complaint against the Petitioner.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      340.83,
+      527.04,
+      354.83
+    ],
+    "text": "Counsel for the RDA raised a preliminary objection on 22.07.2019,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      361.95,
+      527.07,
+      375.95
+    ],
+    "text": "challenging the continuance of proceedings on the grounds that the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      383.07,
+      527.16,
+      397.07
+    ],
+    "text": "complaint was fictitious. Despite finding that the complaint was not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      404.19,
+      527.13,
+      418.19
+    ],
+    "text": "factual, the 1st \u2013 5th respondents issued an order to continue the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      425.31,
+      527.18,
+      439.31
+    ],
+    "text": "inquiry, asserting that their mandate allowed them to conduct inquiries",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      446.43,
+      527.1,
+      460.43
+    ],
+    "text": "based on complaints and other information. The Petitioner received a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      467.57,
+      527.25,
+      481.57
+    ],
+    "text": "request via fax on 19.09.2019 to give evidence as a witness and duly",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      488.69,
+      527.22,
+      502.69
+    ],
+    "text": "gave evidence as a witness on 24.09.2019 regarding the recruitment of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      509.81,
+      247.97,
+      523.81
+    ],
+    "text": "Consultants and PLOs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      552.05,
+      527.18,
+      566.11
+    ],
+    "text": "5. The petitioner is primarily seeking a writ of certiorari to quash the said",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      573.17,
+      527.26,
+      587.17
+    ],
+    "text": "decision and determination/recommendation made by the 1st \u2013 5th",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      594.41,
+      527.26,
+      608.41
+    ],
+    "text": "respondents, with certain other consequential writs of prohibition. The",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      615.53,
+      527.16,
+      629.53
+    ],
+    "text": "challenged decision is a recommendation alleged to have been made by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      636.65,
+      527.22,
+      650.65
+    ],
+    "text": "a Commission appointed under the Commissions of Inquiry Act, No. 17",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      657.8,
+      527.19,
+      671.8
+    ],
+    "text": "of 1948 (hereinafter referred to as \u201cthe COI Act\u201d). According to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      678.92,
+      527.13,
+      692.92
+    ],
+    "text": "paragraph 38 of the petition, the said recommendation is said to appear",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      700.04,
+      500.5,
+      714.04
+    ],
+    "text": "at pages 217 and 218 of the Report produced and marked as P-7.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      443.86,
+      36.04,
+      597.06,
+      48.92
+    ],
+    "text": "WRT/0481/21",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      779.66,
+      526.95,
+      805.78
+    ],
+    "text": "Page 6 of 13",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      71.98,
+      527.18,
+      85.98
+    ],
+    "text": "6. The main ground of challenge is that the petitioner was not afforded an",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      93.12,
+      527.26,
+      107.12
+    ],
+    "text": "opportunity as a party respondent to meet the case against him prior",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      114.24,
+      527.26,
+      128.24
+    ],
+    "text": "to the said recommendation being made. It is the petitioner\u2019s position",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      135.36,
+      527.08,
+      149.36
+    ],
+    "text": "that he received summons dated 19.09.2019 by fax from the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      156.48,
+      527.04,
+      170.48
+    ],
+    "text": "Commission, requiring him to be present before the Commission on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      177.6,
+      527.06,
+      191.6
+    ],
+    "text": "24.09.2019, to give evidence as a witness and to produce any",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      198.72,
+      527.07,
+      212.72
+    ],
+    "text": "documents in respect of the recruitment of Consultants and Public",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      219.96,
+      527.18,
+      233.96
+    ],
+    "text": "Liaison Officers to the Road Development Authority (RDA). A copy of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      241.08,
+      527.23,
+      255.08
+    ],
+    "text": "said notice is produced marked P-3. The petitioner claims to have thus",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      262.2,
+      527.26,
+      276.26
+    ],
+    "text": "attended on such day qua witness and given evidence. Thus, the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      283.35,
+      527.11,
+      297.35
+    ],
+    "text": "argument advanced is that no adverse recommendation can be made",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      304.47,
+      527.26,
+      318.47
+    ],
+    "text": "against the petitioner, as he was summoned purely as a witness and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      325.59,
+      527.04,
+      339.59
+    ],
+    "text": "could not be implicated and/or subjected to criminal proceedings as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      346.71,
+      527.19,
+      360.71
+    ],
+    "text": "per Sections 16 and 23 of the COI Act, as amended. The basis of this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      367.83,
+      232.37,
+      381.83
+    ],
+    "text": "argument is twofold:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.02,
+      388.95,
+      527.19,
+      402.95
+    ],
+    "text": "(1) that by virtue of Section 13 of the COI Act, a person who is",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163.58,
+      410.07,
+      527.13,
+      424.07
+    ],
+    "text": "summoned to give evidence is entitled to all the privileges to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163.58,
+      431.19,
+      527.06,
+      445.19
+    ],
+    "text": "which a witness giving evidence before a court of law is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163.58,
+      452.31,
+      245.45,
+      466.31
+    ],
+    "text": "entitled; and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.02,
+      473.57,
+      527.11,
+      487.57
+    ],
+    "text": "(2) that under Section 16 of the COI Act, if a person whose",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163.58,
+      494.69,
+      527.26,
+      508.69
+    ],
+    "text": "conduct is the subject of an inquiry under the said Act or who",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163.58,
+      515.81,
+      527.26,
+      529.81
+    ],
+    "text": "is implicated or concerned in the matter under inquiry shall",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      163.58,
+      536.93,
+      528.22,
+      550.93
+    ],
+    "text": "be entitled to be represented during the whole of the inquiry.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      579.17,
+      527.26,
+      593.17
+    ],
+    "text": "7. When this matter was taken up for argument, the question if the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      600.29,
+      527.25,
+      614.29
+    ],
+    "text": "original or a certified copy of the decision or recommendation P-7 is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      621.41,
+      527.18,
+      635.41
+    ],
+    "text": "tendered to Court arose for consideration. P-7 is primarily tendered to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      642.53,
+      527.18,
+      656.53
+    ],
+    "text": "Court as being a copy of the Commission Report, which contains the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      663.68,
+      527.25,
+      677.68
+    ],
+    "text": "impugned recommendation. However, P-7 is neither the original nor a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      684.8,
+      527.15,
+      698.8
+    ],
+    "text": "certified copy of the said Report. When this matter was specifically",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      705.92,
+      527.25,
+      719.92
+    ],
+    "text": "raised during the argument, Mr. Faisz Musthapha, PC, for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      727.04,
+      527.06,
+      741.04
+    ],
+    "text": "petitioner, submitted that this is the copy the petitioners possess, and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      748.15,
+      527.26,
+      762.16
+    ],
+    "text": "since the 1st \u2013 5th respondents have not filed any objections and the 7th",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      443.86,
+      36.04,
+      597.06,
+      48.92
+    ],
+    "text": "WRT/0481/21",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      779.66,
+      526.95,
+      805.78
+    ],
+    "text": "Page 7 of 13",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      71.98,
+      527.22,
+      85.98
+    ],
+    "text": "and 8th respondents have merely claimed ignorance of the averments of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      93.12,
+      527.11,
+      107.12
+    ],
+    "text": "paragraphs 18 and 38, this Court can consider this document as not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      114.24,
+      527.1,
+      128.24
+    ],
+    "text": "being denied or challenged, and also since it is a matter within the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      135.36,
+      527.07,
+      149.36
+    ],
+    "text": "knowledge of the respondents, Section 106 of the Evidence Ordinance",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      156.48,
+      527.24,
+      170.48
+    ],
+    "text": "may be relied upon, and the Court may consider document P-7 for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      177.6,
+      527.17,
+      191.6
+    ],
+    "text": "purposes of this application. In the written submissions filed on behalf",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      198.72,
+      527.06,
+      212.72
+    ],
+    "text": "of the petitioner, this issue had been specifically adverted to at",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      219.96,
+      527.18,
+      233.96
+    ],
+    "text": "paragraph 3 (page 12 onwards). It is submitted that the petitioner had",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      241.08,
+      527.19,
+      255.08
+    ],
+    "text": "not been officially served with a copy of the Report, and the document",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      262.2,
+      527.04,
+      276.2
+    ],
+    "text": "P-7 is that which circulated on social media. It is also submitted that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      283.35,
+      527.26,
+      297.41
+    ],
+    "text": "the petitioner has specifically prayed in paragraphs (b) and (c) to call for",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      304.47,
+      527.16,
+      318.47
+    ],
+    "text": "and examine the record and that the petitioner be issued with a copy of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      325.59,
+      218.69,
+      339.59
+    ],
+    "text": "the entire Report.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      367.83,
+      527.19,
+      381.83
+    ],
+    "text": "8. The argument advanced is that the 7th respondent Secretary to the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      388.95,
+      527.19,
+      402.95
+    ],
+    "text": "President, and the 8th respondent, Hon. Attorney General, have pleaded",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      410.07,
+      527.19,
+      424.07
+    ],
+    "text": "that they are unaware of the contents of paragraph 18, which refers to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      431.19,
+      527.12,
+      445.19
+    ],
+    "text": "P-7. Then, the petitioner proceeds to argue that as the said respondents",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      452.31,
+      527.05,
+      466.31
+    ],
+    "text": "have merely claimed to be unaware and not specifically denied in view",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      473.57,
+      527.01,
+      487.57
+    ],
+    "text": "of the provisions of the Section 75 of the Civil Procedure Code (\u201cCPC\u201d),",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      494.69,
+      527.19,
+      508.69
+    ],
+    "text": "such fact not so denied should be taken as being admitted. In support",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      515.81,
+      527.5,
+      529.81
+    ],
+    "text": "of which, the petitioner relies on the decision of Fernando vs.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      536.93,
+      527.11,
+      550.93
+    ],
+    "text": "Samarasekere 49 NLR 285, in which it was held that where a",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      558.05,
+      526.99,
+      572.05
+    ],
+    "text": "defendant does not deny an averment in a plaint, he must be deemed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      579.17,
+      527.19,
+      593.17
+    ],
+    "text": "to have admitted that averment. On these lines, the petitioner submits",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      600.29,
+      527.26,
+      614.29
+    ],
+    "text": "that Report P-7 should be considered as being impliedly admitted, and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      621.41,
+      527.17,
+      635.41
+    ],
+    "text": "this Court is thus entitled to proceed on that basis. Then, the petitioner",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      642.53,
+      527.23,
+      656.53
+    ],
+    "text": "also adverts to Section 106 of the Evidence Ordinance and argues that,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      663.68,
+      527.49,
+      677.68
+    ],
+    "text": "relying on the dicta of Balapitiya Gunananda Thero vs. Talalle",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      684.8,
+      527.18,
+      698.8
+    ],
+    "text": "Methananda Thero [1997] 2 Sri L.R. 101, the failure to explain or",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      705.92,
+      527.22,
+      719.92
+    ],
+    "text": "disclose facts peculiarly within the parties\u2019 knowledge allows the Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      727.04,
+      527.25,
+      741.04
+    ],
+    "text": "to draw an adverse inference. This argument is further based on the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      748.15,
+      527.15,
+      762.16
+    ],
+    "text": "premise that the 1st \u2013 5th respondents have forwarded the relevant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      443.86,
+      36.04,
+      597.06,
+      48.92
+    ],
+    "text": "WRT/0481/21",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      779.66,
+      526.95,
+      805.78
+    ],
+    "text": "Page 8 of 13",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      71.98,
+      527.16,
+      85.98
+    ],
+    "text": "material to the Attorney General, and as such, it is within the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      93.12,
+      437.23,
+      107.12
+    ],
+    "text": "knowledge of the Attorney General, the 8th respondent.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      135.36,
+      527.13,
+      149.36
+    ],
+    "text": "9. In an application under Section 140 of the Constitution, the original or",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      156.48,
+      527.08,
+      170.48
+    ],
+    "text": "a certified copy of the impugned decision, determination or",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      177.6,
+      527.05,
+      191.6
+    ],
+    "text": "recommendation challenged should be tendered to court by the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      198.72,
+      527.23,
+      212.72
+    ],
+    "text": "petitioner. The applicable provision to matters under Section 140 is not",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      219.96,
+      527.21,
+      233.96
+    ],
+    "text": "Section 75 of the CPC, but Rule 3 (1) (a) of the Court of Appeal (Appellate",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      241.08,
+      375.19,
+      255.08
+    ],
+    "text": "Procedure) Rules 1990, which provides thus:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      262.2,
+      527.48,
+      486.85
+    ],
+    "text": "\u201c(a) Every application made to the Court of Appeal for the exercise of the powers vested in the Court of Appeal by Articles 140 or 141 of the Constitution shall be by way of petition, together with an affidavit in support of the averments therein, and shall be accompanied by the originals of documents material to such application (or duly certified copies thereof) in the form of exhibits. Where a petitioner is unable to tender any such document, he shall state the reason for such inability and seek the leave of the Court to furnish such document later. Where a petitioner fails to comply with the provisions of this rule, the Court may, ex mero motu or at the instance of any party, dismiss such application.\u201d [emphasis added.] According to which, it is plain and simple that writ applications under",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      493.97,
+      527.2,
+      507.97
+    ],
+    "text": "Article 140 of the Constitution should be by way of petition and affidavit",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      515.09,
+      527.08,
+      529.09
+    ],
+    "text": "and should be accompanied by the originals of documents material to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      536.21,
+      527.19,
+      550.21
+    ],
+    "text": "such application or duly certified copies thereof. Admittedly, in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      557.33,
+      527.23,
+      571.33
+    ],
+    "text": "present application, document P-7 is neither the original nor a certified",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      578.45,
+      527.18,
+      592.45
+    ],
+    "text": "copy as required by the said Rules. On a perusal of P-7, I observe that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      599.57,
+      527.25,
+      613.57
+    ],
+    "text": "this does not contain the signatures of the Commissioners or any form",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      620.69,
+      527.26,
+      634.69
+    ],
+    "text": "of authentication emanating from the 1st \u2013 5th respondents or from such",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      641.81,
+      527.19,
+      655.81
+    ],
+    "text": "person or authority who is so empowered to so authenticate or certify",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      662.96,
+      527.11,
+      676.96
+    ],
+    "text": "such a Commission Report. Admittedly, this is a print made from",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      684.08,
+      527.15,
+      698.08
+    ],
+    "text": "something which had circulated on social media. Therefore, document",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      705.32,
+      527.25,
+      719.32
+    ],
+    "text": "P-7 cannot be considered as a duly certified copy or an original within",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      726.44,
+      527.12,
+      740.44
+    ],
+    "text": "the meaning and for the purposes of Rule 3 (1) (a). As a matter of fact,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      747.55,
+      527.04,
+      761.56
+    ],
+    "text": "the petitioner can say no more than that this was something that was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      443.86,
+      36.04,
+      597.06,
+      48.92
+    ],
+    "text": "WRT/0481/21",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      779.66,
+      526.95,
+      805.78
+    ],
+    "text": "Page 9 of 13",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      71.98,
+      527.18,
+      85.98
+    ],
+    "text": "circulated on social media. This Court certainly cannot legally accept or",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      93.12,
+      527.26,
+      107.12
+    ],
+    "text": "consider this a certified copy or a document containing the true and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      114.24,
+      442.87,
+      128.24
+    ],
+    "text": "accurate contents of the purported Commission Report.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.58,
+      156.48,
+      527.21,
+      170.48
+    ],
+    "text": "10. The 7th and 8th respondents have denied the knowledge of the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      8.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      177.6,
+      527.21,
+      191.6
+    ],
+    "text": "averments referring to P-7. That denial or ignorance does not establish",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      198.72,
+      527.11,
+      212.72
+    ],
+    "text": "the authenticity of P-7. There is no material to reliably conclude that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      219.96,
+      527.21,
+      233.96
+    ],
+    "text": "this Report has been forwarded to the Attorney General as claimed by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      241.08,
+      527.26,
+      255.08
+    ],
+    "text": "the petitioner. There may be a purported recommendation in P-7 to that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      262.2,
+      527.16,
+      276.2
+    ],
+    "text": "effect. That by itself will not prove the fact of this Report being forwarded",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      283.35,
+      527.16,
+      297.35
+    ],
+    "text": "to the Attorney General. In the above circumstance, the arguments",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      304.47,
+      527.13,
+      318.47
+    ],
+    "text": "advanced based on Sections 75 and 106 of the Evidence Ordinance, to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      325.59,
+      527.0,
+      339.59
+    ],
+    "text": "my mind, is misconceived and has no application or relevance to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      346.71,
+      527.19,
+      360.71
+    ],
+    "text": "proceedings under Article 140 of the Constitution, which is specifically",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      367.83,
+      244.73,
+      381.83
+    ],
+    "text": "governed by the Rules.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.58,
+      410.07,
+      527.18,
+      424.07
+    ],
+    "text": "11. It is now settled law and the superior courts have consistently held that",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      431.19,
+      527.0,
+      445.19
+    ],
+    "text": "compliance with Rule 3 (1) (a) is mandatory. The petitioner has prayed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      452.31,
+      527.04,
+      466.31
+    ],
+    "text": "for an order directing the production of a copy of this Report. However,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      473.45,
+      527.26,
+      487.45
+    ],
+    "text": "the petitioner has not pursued this application nor expressly or",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      494.57,
+      527.26,
+      508.57
+    ],
+    "text": "specifically reserved the right in his petition to subsequently produce or",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      515.81,
+      527.26,
+      529.81
+    ],
+    "text": "tender the original or a certified copy of P-7. There is only a general",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      536.93,
+      527.26,
+      550.93
+    ],
+    "text": "reservation of the right to produce fresh documents. Purported P-7 being",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      558.05,
+      527.18,
+      572.05
+    ],
+    "text": "the impugned recommendation, the petitioner ought to have specifically",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      579.17,
+      527.26,
+      593.17
+    ],
+    "text": "reserved the right to produce an original or a certified copy of P-7. Rule",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      600.29,
+      527.11,
+      614.29
+    ],
+    "text": "3 (1) (a) states that where a petitioner is unable to tender any such",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      621.41,
+      527.18,
+      635.41
+    ],
+    "text": "document, he shall state the reason for such inability and seek the leave",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      642.53,
+      527.0,
+      656.53
+    ],
+    "text": "of the Court to furnish such document later. Where a petitioner fails to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      663.68,
+      527.26,
+      677.74
+    ],
+    "text": "comply with the provisions of this Rule, the Court may, ex mero motu or",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      684.8,
+      527.26,
+      698.8
+    ],
+    "text": "at the instance of any party, dismiss such application. This issue was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      705.92,
+      527.17,
+      719.92
+    ],
+    "text": "raised during the course of the arguments, and the petitioner opted to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      727.04,
+      527.26,
+      741.04
+    ],
+    "text": "argue that P-7, as in its present form, is legally admissible and is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      103.58,
+      748.15,
+      527.18,
+      762.16
+    ],
+    "text": "sufficient to proceed with this application. For reasons best known to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      443.86,
+      36.04,
+      597.06,
+      48.92
+    ],
+    "text": "WRT/0481/21",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      779.66,
+      526.95,
+      805.78
+    ],
+    "text": "Page 10 of 13",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.58,
+      71.98,
+      527.16,
+      85.98
+    ],
+    "text": "the petitioner, he did not proceed with the prayer seeking the production",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.58,
+      93.12,
+      527.25,
+      107.12
+    ],
+    "text": "of a certified copy of P-7 as prayed for, nor did the petitioner produce or",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.58,
+      114.24,
+      357.79,
+      128.24
+    ],
+    "text": "tender a certified copy even subsequently.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.58,
+      135.48,
+      527.16,
+      164.6
+    ],
+    "text": "12. As stated above, it is mandatory that the petitioner, in compliance with",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.58,
+      171.72,
+      527.17,
+      185.72
+    ],
+    "text": "Rule 3 (1) (a), provides a duly certified copy. P-7 is not even certified to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.58,
+      192.84,
+      527.23,
+      206.84
+    ],
+    "text": "be a true copy. The effect and import of the non-compliance with Rule 3",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.58,
+      213.96,
+      527.26,
+      227.96
+    ],
+    "text": "(1) (a) was extensively considered by a bench of three judges of this Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.58,
+      235.08,
+      527.26,
+      249.08
+    ],
+    "text": "in Jayantha Perera Bogodage vs. Senaratne (CA/WRIT/345/2012,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.58,
+      256.2,
+      527.26,
+      270.2
+    ],
+    "text": "CAM 12.12.2018), in which his Lordship Padman Surasena, J. (P/CA)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.58,
+      277.35,
+      527.26,
+      291.35
+    ],
+    "text": "(as his Lordship then was), with the concurrence of A. H. M. D. Nawaz,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.58,
+      298.47,
+      527.15,
+      312.47
+    ],
+    "text": "J., and Arjuna Obeyesekere, J., whilst reiterating that compliance with",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.58,
+      319.59,
+      338.59,
+      333.59
+    ],
+    "text": "Rule (3) (1) (a) is mandatory, held that,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.58,
+      340.83,
+      527.5,
+      743.68
+    ],
+    "text": "\u201cIt is common knowledge that the original case record or its certified copy is generally before Court, when it exercises its appellate or revisionary jurisdiction. However, one must be mindful that the writ jurisdiction of this Court is an original jurisdiction. In other words, this Court is called upon to totally depend on the material supplied by the parties of such writ application. Thus, there is an incumbent and sacred duty on the part of the Petitioner in particular, to adduce sufficient admissible and reliable evidence to prove its case before Court. According to Rule 3 (1) (a) cited above, it is a \u2018duly certified copy\u2019 of the document (in the absence of original), material to the application in hand and not a \u2018true copy' that the Petitioner is required to submit with his application. It must be borne in mind that there are two requirements in the above phrase. The first is that the relevant copy must be certified and the second is that the said certification must be duly done. The phrase \u2018duly certified copy\u2019 must mean that the authority responsible for its issuance must have certified the copy submitted to Court as a copy duly obtained from the original. It is only then that a Court of Law can rely and act on such document.\u201d [emphasis added.] Surasena, J. (as his Lordship then was), in the above judgement, also",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.58,
+      750.79,
+      527.5,
+      764.8
+    ],
+    "text": "referred to and cited with approval the decision of this Court in Attorney",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      443.86,
+      36.04,
+      597.06,
+      48.92
+    ],
+    "text": "WRT/0481/21",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      779.66,
+      526.95,
+      805.78
+    ],
+    "text": "Page 11 of 13",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      103.58,
+      71.98,
+      527.26,
+      85.98
+    ],
+    "text": "General vs. Ranjith Weera Wickrema Charles Jayasinghe CA (PHC)",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      103.58,
+      93.12,
+      527.26,
+      107.12
+    ],
+    "text": "APN/74/2016, which emphasises the rationale behind the insistence of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      103.58,
+      114.24,
+      313.37,
+      128.24
+    ],
+    "text": "strict compliance of the above rule:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      103.58,
+      135.36,
+      526.94,
+      359.99
+    ],
+    "text": "\u201cMoreover, the above rule underlines the importance of the presence of an authoritative and responsible signatory certifying such copies taking the responsibility for the authenticity of such documents. Insisting on tendering to Court, such duly certified copies of relevant proceedings is not without any valid and logical reasons. Courts make orders relying on such documents. They may sometimes have serious effects on people. The persons who may be so affected might sometimes be not limited to parties of the case only. Drastic repercussions may ensue in case the Court makes such orders on some set of papers, authenticity of which would subsequently become questionable. That is one of the reasons as to why tendering of duly certified copies of the relevant documents to Court has been made mandatory by the Rules.\u201d",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      103.58,
+      367.11,
+      527.26,
+      381.11
+    ],
+    "text": "Further, Dr. Shirani Bandaranayake, J. (as her Ladyship then was), in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      103.58,
+      388.23,
+      526.78,
+      402.23
+    ],
+    "text": "Shanmugavadivu vs. Kulathilake 2003 (1) SLR 215, held as follows:",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      103.58,
+      409.35,
+      527.01,
+      633.97
+    ],
+    "text": "\u201cOn numerous occasions the Supreme Court as well as the Court of Appeal have held that the compliance of the Supreme Court Rules and the Court of Appeal Rules is imperative. In a situation where an application was made to the Court of Appeal without the relevant documents being annexed to the petition and the affidavit, but has stated the reason for such inability and sought the leave of the Court to furnish such documents on a later date, the Court could have exercised its discretion and allowed the petitioner to file the relevant documents on a later date. However on this occasion, as pointed out earlier, no such leave was sought by the appellant and in the circumstances, the Court of Appeal could not have exercised its discretion in terms of Rules 3(1)(a) and 3(1)(b) of the Court of Appeal (Appellate Procedure) Rules.\u201d",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      103.58,
+      641.09,
+      527.4,
+      655.09
+    ],
+    "text": "A. L. S. Gooneratne, J., in Sharmila Roweena Jayawardene",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      103.58,
+      662.24,
+      527.26,
+      676.24
+    ],
+    "text": "Gonawela vs. Hon. Ranil Wickramasinghe and Others",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      103.58,
+      683.36,
+      480.46,
+      697.36
+    ],
+    "text": "(CA/WRIT/388/2018, decided on 21.05.2019), held as follows:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      144.02,
+      704.48,
+      526.96,
+      767.14
+    ],
+    "text": "\u201cThe Court of Appeal Rules make provision, under Rule 3(1)(a), for a Petitioner to tender originals of documents or certified copies thereof, in support of the averments contained in an application to exercise powers vested in this Court by Articles 140 or 141 of the",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      443.86,
+      36.04,
+      597.06,
+      48.92
+    ],
+    "text": "WRT/0481/21",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      779.66,
+      526.95,
+      805.78
+    ],
+    "text": "Page 12 of 13",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      71.98,
+      527.02,
+      312.83
+    ],
+    "text": "Constitution. The documents marked P6(a)-(e) and P7(a)-(e), attached to the affidavit, are not original documents or certified copies of original documents. The failure to comply with the said Rule remains unexplained. The Rule relating to the discretion of Court in consideration of surrounding circumstances, as noted above, in my view, cannot be outweighed by considerations which disregard the objective of the Rule. I observe that there is a clear and consistent non-compliance of the said Rule in the application submitted to Court. Accordingly, the Petitioner has failed to satisfy the procedure for invoking the writ jurisdiction of this Court, the strict compliance of which is imperative. For the reasons aforementioned, I uphold the preliminary objection raised by the Respondents and dismiss the Petitioner's Application for non-compliance with Rule 3(1)(a), of the Court of Appeal Rules.\u201d",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.58,
+      319.95,
+      527.26,
+      333.95
+    ],
+    "text": "13. Now, getting back to P-7, the irony is that the petitioner himself had not",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      341.07,
+      527.1,
+      355.07
+    ],
+    "text": "seen the original of P-7 and is unable to vouch for the fact of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      362.19,
+      527.19,
+      376.19
+    ],
+    "text": "existence of such a report except for the fact of some document being",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      383.31,
+      527.18,
+      397.31
+    ],
+    "text": "circulated on social media, that too, without any signatures or any other",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      404.43,
+      527.16,
+      418.43
+    ],
+    "text": "authenticity. The respondents are unaware. No action has been taken",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      425.55,
+      527.08,
+      439.55
+    ],
+    "text": "against the petitioner based on such a recommendation either.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      446.67,
+      527.18,
+      460.67
+    ],
+    "text": "Therefore, in fact and in law, there is nothing before this Court tendered",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      467.81,
+      527.13,
+      481.81
+    ],
+    "text": "by the petitioner to satisfy that such a Report and recommendation",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      489.05,
+      527.21,
+      503.05
+    ],
+    "text": "exists in reality and in fact. The petitioner has not diligently pursued to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      510.17,
+      527.18,
+      524.17
+    ],
+    "text": "obtain and produce a certified copy either. No attempt had been made",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      531.29,
+      527.02,
+      545.29
+    ],
+    "text": "to obtain such a document utilising and resorting to the provisions of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      552.41,
+      279.53,
+      566.41
+    ],
+    "text": "the Right to Information Act.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.58,
+      594.65,
+      527.01,
+      608.65
+    ],
+    "text": "14. In the absence of any admissible and acceptable basis to establish the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      615.77,
+      527.06,
+      629.77
+    ],
+    "text": "existence of such a report or recommendation, there is nothing placed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      636.89,
+      527.26,
+      650.89
+    ],
+    "text": "before this Court to reasonably be satisfied that such a Report (P-7), in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      658.04,
+      527.17,
+      672.04
+    ],
+    "text": "fact, exists. Without this basic fact, this Court cannot exercise its writ",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      679.16,
+      496.06,
+      693.16
+    ],
+    "text": "jurisdiction as there is nothing placed before this Court to act on.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.58,
+      721.4,
+      527.17,
+      735.4
+    ],
+    "text": "15. Accordingly, this Court cannot consider P-7 as being sufficient to",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      103.58,
+      742.51,
+      527.14,
+      756.52
+    ],
+    "text": "comply with Rule 3 (1) (a), and the resulting position is that the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      443.86,
+      36.04,
+      597.06,
+      48.92
+    ],
+    "text": "WRT/0481/21",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      779.66,
+      526.95,
+      805.78
+    ],
+    "text": "Page 13 of 13",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold",
+      "Calibri"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.58,
+      71.98,
+      527.18,
+      85.98
+    ],
+    "text": "impugned decision, determination, or recommendation is not before this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.58,
+      93.12,
+      527.25,
+      107.12
+    ],
+    "text": "Court for consideration. Without the impugned decision, the Court",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.58,
+      114.24,
+      527.06,
+      128.24
+    ],
+    "text": "cannot consider this application any further and grant relief in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.58,
+      135.36,
+      527.22,
+      149.36
+    ],
+    "text": "exercise of its writ jurisdiction. As aforementioned, it is also pertinent to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.58,
+      156.48,
+      527.23,
+      170.48
+    ],
+    "text": "observe that there is neither an express admission as to the existence of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.58,
+      177.6,
+      527.14,
+      191.6
+    ],
+    "text": "the impugned decision, determination, or recommendation by any of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.58,
+      198.72,
+      527.06,
+      212.72
+    ],
+    "text": "respondents. Accordingly, this Court is not duly possessed of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.58,
+      219.96,
+      527.14,
+      233.96
+    ],
+    "text": "impugned decision or recommendation challenged and is unable to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.58,
+      241.08,
+      527.21,
+      255.08
+    ],
+    "text": "consider this application. Accordingly, the petitioner has failed to comply",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.58,
+      262.2,
+      527.09,
+      276.2
+    ],
+    "text": "with Rule 3 (1) (a), which by itself will entail the dismissal of this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.58,
+      283.35,
+      180.14,
+      297.35
+    ],
+    "text": "application.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      85.58,
+      325.59,
+      527.26,
+      339.59
+    ],
+    "text": "16. In these circumstances, it is not necessary to consider the other",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.58,
+      346.71,
+      527.26,
+      360.71
+    ],
+    "text": "grounds and issues. Accordingly, this application is dismissed; however,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.58,
+      367.83,
+      274.49,
+      381.83
+    ],
+    "text": "I make no order as to costs.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.58,
+      389.07,
+      239.69,
+      418.31
+    ],
+    "text": "Application dismissed.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      302.09,
+      502.97,
+      527.5,
+      516.95
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
