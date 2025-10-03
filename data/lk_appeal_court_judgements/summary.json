@@ -2,13 +2,13 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-10-03 12:20:00",
-  "n_docs": 10141,
-  "n_docs_with_pdfs": 10141,
-  "n_docs_with_text": 10141,
+  "time_updated": "2025-10-03 13:51:58",
+  "n_docs": 10145,
+  "n_docs_with_pdfs": 10145,
+  "n_docs_with_text": 10145,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-10-01",
-  "dataset_size": 10336680924,
+  "date_str_max": "2025-10-03",
+  "dataset_size": 10339260952,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -19,16 +19,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-01-CA-WRT-125---2016",
-    "num": "CA/WRT/125 / 2016",
-    "date_str": "2025-10-01",
-    "description": "Ceylon Electricity Board, Vs Hon. W.D. Seneviratne Minister of Labour, and others before Hon. Adithya Patabendige, J.",
+    "doc_id": "2025-10-03-CA-WRT-0056-2025",
+    "num": "CA/WRT/0056/2025",
+    "date_str": "2025-10-03",
+    "description": "Samarakoon Mudiyanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others before Hon. K. M. S. DISSANAYAKE, J",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d0af8b72-3379-4f45-b054-021fdb87a26c&filename=Judgement%20copy%20o%20%282%29.pdf.pdf",
-    "parties": "Ceylon Electricity Board, Vs Hon. W.D. Seneviratne Minister of Labour, and others",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "",
-    "legistation": ""
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ba4daea5-6599-4213-be22-d48215c13b58&filename=WRT-0056-25%20Decided%20on%2003.09.2025.pdf.pdf",
+    "parties": "Samarakoon Mudiyanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others",
+    "judgement_by": "Hon. K. M. S. DISSANAYAKE, J",
+    "keywords": "Effective date of an Interim Order issued by Court under section 2 (1) of the Court of Appeal (Appellate Procedure) Rules 1990-Is an interim order prospective or retrospective.",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka."
   }
 }

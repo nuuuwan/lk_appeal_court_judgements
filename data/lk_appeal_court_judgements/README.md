@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--03_12:20:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--03_13:52:04-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,141** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-10-01**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,145** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-10-03**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -17,17 +17,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-01-CA-WRT-125---2016",
-    "num": "CA/WRT/125 / 2016",
-    "date_str": "2025-10-01",
-    "description": "Ceylon Electricity Board, Vs Hon. W.D. Seneviratne Minister of Labour, and others before Hon. Adithya Patabendige, J.",
+    "doc_id": "2025-10-03-CA-WRT-0056-2025",
+    "num": "CA/WRT/0056/2025",
+    "date_str": "2025-10-03",
+    "description": "Samarakoon Mudiyanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others before Hon. K. M. S. DISSANAYAKE, J",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d0af8b72-3379-4f45-b054-021fdb87a26c&filename=Judgement%20copy%20o%20%282%29.pdf.pdf",
-    "parties": "Ceylon Electricity Board, Vs Hon. W.D. Seneviratne Minister of Labour, and others",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "",
-    "legistation": ""
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ba4daea5-6599-4213-be22-d48215c13b58&filename=WRT-0056-25%20Decided%20on%2003.09.2025.pdf.pdf",
+    "parties": "Samarakoon Mudiyanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others",
+    "judgement_by": "Hon. K. M. S. DISSANAYAKE, J",
+    "keywords": "Effective date of an Interim Order issued by Court under section 2 (1) of the Court of Appeal (Appellate Procedure) Rules 1990-Is an interim order prospective or retrospective.",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka."
 }
 ```
 
@@ -42,6 +42,10 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-10-03 | `CA/WRT/0056/2025` | Samarakoon Mudiyanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-WRT-0056-2025)
+- 2025-10-03 | `CA/WRIT/559/2024` | Rev. Baddewela Sumanasiri and two others Vs Ven. Dr. Kumbalgoda Dhammaloka Thero and 11 others before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-WRIT-559-2024)
+- 2025-10-03 | `CA/HCC/ 0011/2025` | Geegana Kankanamge Wimaladasa alias Hullankande Kiri Ayya Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-HCC--0011-2025)
+- 2025-10-03 | `CA/CPA/0137/2024` | Sumith Amarawickrama Vs. Assistant Commissioner for Agrarian and Two Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-CPA-0137-2024)
 - 2025-10-01 | `CA/WRT/125 / 2016` | Ceylon Electricity Board, Vs Hon. W.D. Seneviratne Minister of Labour, and others before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-01-CA-WRT-125---2016)
 - 2025-10-01 | `CA/WRT/0249/21` | Sri Lanka Nidahas Sevaka Sangamaya and other Vs Ceylon Steel Corporation Limited and six others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-01-CA-WRT-0249-21)
 - 2025-09-NA | `CA/HCC/110/2024` | The Hon. Attorney General Vs Kande Pun Shri Samantha before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-NA-CA-HCC-110-2024)
@@ -58,10 +62,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-29 | `CA HCC 0202/2020` | Sandra Marakkala Sadamali Wickramasinghe Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-29-CA-HCC-0202-2020)
 - 2025-09-29 | `CA/HCC/ 0187/2024` | Mathagadeera Arachchige Saliya Kumara Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-29-CA-HCC--0187-2024)
 - 2025-09-26 | `CA-Writ-315-24` | Singankutti Arachchilage Niroshan Kumara Vs Nishantha Weerasinghe, Commissioner General of Motor Traffic and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-26-CA-Writ-315-24)
-- 2025-09-26 | `CA-Writ-263-24` | Peli Kankanamge Chandrasiri Vs Department of Debt Conciliation Board and others before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-26-CA-Writ-263-24)
-- 2025-09-26 | `CA/WRT/768/24` | J2 Investment (Private) Limited and other Vs U. B. Rohana Rajapaksha Commissioner General of Agrarian Development, and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-26-CA-WRT-768-24)
-- 2025-09-26 | `CA/PHC/0125/2015` | Kadirawel Narayan Vs. J. M. C. Priyadharshani & 2 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-26-CA-PHC-0125-2015)
-- 2025-09-26 | `CA (HCC)0307/2024` | Nilanthilage Amila Sudarshana Silva Vs Hon. Attorney General before Hon.R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-26-CA--HCC-0307-2024)
 
 ---
 
