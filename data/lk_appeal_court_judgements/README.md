@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--03_15:19:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--03_16:21:33-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,145** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-10-03**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,146** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-10-03**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-03 | `CA/WRIT/559/2024` | Rev. Baddewela Sumanasiri and two others Vs Ven. Dr. Kumbalgoda Dhammaloka Thero and 11 others before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-WRIT-559-2024)
 - 2025-10-03 | `CA/HCC/ 0011/2025` | Geegana Kankanamge Wimaladasa alias Hullankande Kiri Ayya Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-HCC--0011-2025)
 - 2025-10-03 | `CA/CPA/0137/2024` | Sumith Amarawickrama Vs. Assistant Commissioner for Agrarian and Two Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-CPA-0137-2024)
+- 2025-10-02 | `CAWRT/0487/21` | Chief Petty Officer Heeni Pellage. Vs Commander of the Sri Lanka Navy and others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-02-CAWRT-0487-21)
 - 2025-10-01 | `CA/WRT/125 / 2016` | Ceylon Electricity Board, Vs Hon. W.D. Seneviratne Minister of Labour, and others before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-01-CA-WRT-125---2016)
 - 2025-10-01 | `CA/WRT/0249/21` | Sri Lanka Nidahas Sevaka Sangamaya and other Vs Ceylon Steel Corporation Limited and six others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-01-CA-WRT-0249-21)
 - 2025-09-NA | `CA/HCC/110/2024` | The Hon. Attorney General Vs Kande Pun Shri Samantha before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-NA-CA-HCC-110-2024)
@@ -61,7 +62,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-29 | `CA HCC 438/2019` | Kaluthandrige Ruwan Ajith alias Aja Vs Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-29-CA-HCC-438-2019)
 - 2025-09-29 | `CA HCC 0202/2020` | Sandra Marakkala Sadamali Wickramasinghe Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-29-CA-HCC-0202-2020)
 - 2025-09-29 | `CA/HCC/ 0187/2024` | Mathagadeera Arachchige Saliya Kumara Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-29-CA-HCC--0187-2024)
-- 2025-09-26 | `CA-Writ-315-24` | Singankutti Arachchilage Niroshan Kumara Vs Nishantha Weerasinghe, Commissioner General of Motor Traffic and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-26-CA-Writ-315-24)
 
 ---
 
