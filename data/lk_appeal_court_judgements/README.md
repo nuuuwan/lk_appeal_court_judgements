@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_15:21:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_15:48:25-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,147** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-10-03**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,148** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-10-07**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-03-CA-WRT-0056-2025",
-    "num": "CA/WRT/0056/2025",
-    "date_str": "2025-10-03",
-    "description": "Samarakoon Mudiyanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others before Hon. K. M. S. DISSANAYAKE, J",
+    "doc_id": "2025-10-07-CA-HCC-306-307-2019",
+    "num": "CA HCC 306-307/2019",
+    "date_str": "2025-10-07",
+    "description": "Dhammika Prasanna Wijesinghe Vs. Anura Jayathissa Wijesinghe before Hon. Amal Ranaraja, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ba4daea5-6599-4213-be22-d48215c13b58&filename=WRT-0056-25%20Decided%20on%2003.09.2025.pdf.pdf",
-    "parties": "Samarakoon Mudiyanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others",
-    "judgement_by": "Hon. K. M. S. DISSANAYAKE, J",
-    "keywords": "Effective date of an Interim Order issued by Court under section 2 (1) of the Court of Appeal (Appellate Procedure) Rules 1990-Is an interim order prospective or retrospective.",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9d670511-c1b3-4ec7-a459-168ea8f40d77&filename=CA%20HCC%20306-307-19.pdf.pdf",
+    "parties": "Dhammika Prasanna Wijesinghe Vs. Anura Jayathissa Wijesinghe",
+    "judgement_by": "Hon. Amal Ranaraja, J.",
+    "keywords": "Accused\u2019s right to a fair trial \u2013 Failure to call for the defence \u2013 Procedural discrepancies in a criminal trial \u2013 Inadequate preparation time for defence counsel",
+    "legistation": "Section 296 read withsection 113B and 102 of the Penal Code, Section 296 read with section 32 of thePenal Code, Article 13(3) of the Constitutionof the Democratic Socialist Republic of Sri Lanka, Section 200(1) of the Code of Criminal Procedure Act No.15 of 1979"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-10-07 | `CA HCC 306-307/2019` | Dhammika Prasanna Wijesinghe Vs. Anura Jayathissa Wijesinghe before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-07-CA-HCC-306-307-2019)
 - 2025-10-03 | `CA/WRT/0056/2025` | Samarakoon Mudiyanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-WRT-0056-2025)
 - 2025-10-03 | `CA/WRIT/559/2024` | Rev. Baddewela Sumanasiri and two others Vs Ven. Dr. Kumbalgoda Dhammaloka Thero and 11 others before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-WRIT-559-2024)
 - 2025-10-03 | `CA/HCC/ 0011/2025` | Geegana Kankanamge Wimaladasa alias Hullankande Kiri Ayya Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-HCC--0011-2025)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-30 | `CA (LTA) 0004/2023` | Fazil Mohamed Farook Vs Fathima Shafka Lahir before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA--LTA--0004-2023)
 - 2025-09-30 | `CA (HCC)0093/2022` | Pelenda Dewage Abesinghe Vs The Hon.Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA--HCC-0093-2022)
 - 2025-09-29 | `CA HCC 438/2019` | Kaluthandrige Ruwan Ajith alias Aja Vs Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-29-CA-HCC-438-2019)
-- 2025-09-29 | `CA HCC 0202/2020` | Sandra Marakkala Sadamali Wickramasinghe Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-29-CA-HCC-0202-2020)
 
 ---
 
