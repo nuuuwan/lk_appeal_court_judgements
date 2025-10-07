@@ -1,6 +1,6 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_11:20:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--07_11:51:14-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
@@ -11,6 +11,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
 - In **English**
+
+- 🎓 Cite as **[arXiv:2510.04124](https://arxiv.org/abs/2510.04124) [cs.CL]**
 
 ## 📝 Example Metadata
 
