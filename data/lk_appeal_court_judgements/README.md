@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_12:22:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_12:41:36-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,149** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-10-07**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,151** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-10-08**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-07-CA-HCC-306-307-2019",
-    "num": "CA HCC 306-307/2019",
-    "date_str": "2025-10-07",
-    "description": "Dhammika Prasanna Wijesinghe Vs. Anura Jayathissa Wijesinghe before Hon. Amal Ranaraja, J.",
+    "doc_id": "2025-10-08-CA-HCC-52-2024",
+    "num": "CA/HCC/52/2024",
+    "date_str": "2025-10-08",
+    "description": "Madduralalage Nimal Ananda alias Sudha Mama Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9d670511-c1b3-4ec7-a459-168ea8f40d77&filename=CA%20HCC%20306-307-19.pdf.pdf",
-    "parties": "Dhammika Prasanna Wijesinghe Vs. Anura Jayathissa Wijesinghe",
-    "judgement_by": "Hon. Amal Ranaraja, J.",
-    "keywords": "Accused\u2019s right to a fair trial \u2013 Failure to call for the defence \u2013 Procedural discrepancies in a criminal trial \u2013 Inadequate preparation time for defence counsel",
-    "legistation": "Section 296 read withsection 113B and 102 of the Penal Code, Section 296 read with section 32 of thePenal Code, Article 13(3) of the Constitutionof the Democratic Socialist Republic of Sri Lanka, Section 200(1) of the Code of Criminal Procedure Act No.15 of 1979"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3c9e58fd-3897-4e86-a53c-4e22f1db8b89&filename=HCC-52-24-JUDGMENT.pdf.pdf",
+    "parties": "Madduralalage Nimal Ananda alias Sudha Mama Vs The Hon. Attorney General",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "consistent, penetration, grave sexual abuse, corroboration,",
+    "legistation": "Section 364 (2)(e) of the Penal Code as amended by Act No.22 of 1995."
 }
 ```
 
@@ -44,6 +44,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-10-08 | `CA/HCC/52/2024` | Madduralalage Nimal Ananda alias Sudha Mama Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-08-CA-HCC-52-2024)
+- 2025-10-07 | `CA PHC 73/22` | Lahandapurage Wijethunga Moragasara, Delpamulla, Deyiyandara Vs Lahandapurage Wijethunga and others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-07-CA-PHC-73-22)
 - 2025-10-07 | `CA HCC 306-307/2019` | Dhammika Prasanna Wijesinghe Vs. Anura Jayathissa Wijesinghe before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-07-CA-HCC-306-307-2019)
 - 2025-10-03 | `CA/WRT/0056/2025` | Samarakoon Mudiyanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-WRT-0056-2025)
 - 2025-10-03 | `CA/WRIT/559/2024` | Rev. Baddewela Sumanasiri and two others Vs Ven. Dr. Kumbalgoda Dhammaloka Thero and 11 others before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-WRIT-559-2024)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-30 | `CA HCC 233/2018` | KaluaddaraArachchige Raja Ajith Ranjith Vs. The Director General, Commission to Investigate Allegations of Bribery or Corruption before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-HCC-233-2018)
 - 2025-09-30 | `CA/HCC/110/2024` | The Hon. Attorney General Vs Kande Pun Shri Samantha before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-HCC-110-2024)
 - 2025-09-30 | `CA Bail 0222/25` | Umagiliya Kankanamage Pradeepa Chithrangani Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-Bail-0222-25)
-- 2025-09-30 | `CA (LTA) 0004/2023` | Fazil Mohamed Farook Vs Fathima Shafka Lahir before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA--LTA--0004-2023)
-- 2025-09-30 | `CA (HCC)0093/2022` | Pelenda Dewage Abesinghe Vs The Hon.Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA--HCC-0093-2022)
 
 ---
 
