@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--09_12:44:19-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--09_13:20:19-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,151** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-10-08**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,153** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-10-09**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-08-CA-HCC-52-2024",
-    "num": "CA/HCC/52/2024",
-    "date_str": "2025-10-08",
-    "description": "Madduralalage Nimal Ananda alias Sudha Mama Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J.",
+    "doc_id": "2025-10-09-RII-0033-2023",
+    "num": "RII/0033/2023",
+    "date_str": "2025-10-09",
+    "description": "Sureka Aroshani Weerasuriya Vs Commercial Bank of Ceylon PLC before Hon. R. Gurusinghe, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3c9e58fd-3897-4e86-a53c-4e22f1db8b89&filename=HCC-52-24-JUDGMENT.pdf.pdf",
-    "parties": "Madduralalage Nimal Ananda alias Sudha Mama Vs The Hon. Attorney General",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "consistent, penetration, grave sexual abuse, corroboration,",
-    "legistation": "Section 364 (2)(e) of the Penal Code as amended by Act No.22 of 1995."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a0210e7a-fe16-4b97-9b97-6486631492a5&filename=RII%200033-23%20%28PDF%29.pdf.pdf",
+    "parties": "Sureka Aroshani Weerasuriya Vs Commercial Bank of Ceylon PLC",
+    "judgement_by": "Hon. R. Gurusinghe, J.",
+    "keywords": "Appointment of legal representatives",
+    "legistation": "Section 26 of the Mortgage Act No. 6 of 1949, as amended by Act No. 24 of 1969,"
 }
 ```
 
@@ -44,6 +44,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-10-09 | `RII/0033/2023` | Sureka Aroshani Weerasuriya Vs Commercial Bank of Ceylon PLC before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-RII-0033-2023)
+- 2025-10-09 | `CA/RII /0009/2024` | Kavishka Dilshan Wijesinghe Vs D.M. Jayawardhana before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-RII--0009-2024)
 - 2025-10-08 | `CA/HCC/52/2024` | Madduralalage Nimal Ananda alias Sudha Mama Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-08-CA-HCC-52-2024)
 - 2025-10-07 | `CA PHC 73/22` | Lahandapurage Wijethunga Moragasara, Delpamulla, Deyiyandara Vs Lahandapurage Wijethunga and others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-07-CA-PHC-73-22)
 - 2025-10-07 | `CA HCC 306-307/2019` | Dhammika Prasanna Wijesinghe Vs. Anura Jayathissa Wijesinghe before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-07-CA-HCC-306-307-2019)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-30 | `CA/WRT/0481/21` | Lakshman Bandara Kiriella Vs Justice Upaly Abeyrathne (Retd.), Chairman of the Presidential Commission of Inquiry Probing Fraud and Corruption that occurred at State Institutions from 15th January 2015 to 31st December 2018 and others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-WRT-0481-21)
 - 2025-09-30 | `CA PHC 81/2020` | Abeyweera Mirissa Patabendige Badrajith Harshanath Abeyweera Vs. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-PHC-81-2020)
 - 2025-09-30 | `CA HCC 233/2018` | KaluaddaraArachchige Raja Ajith Ranjith Vs. The Director General, Commission to Investigate Allegations of Bribery or Corruption before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-HCC-233-2018)
-- 2025-09-30 | `CA/HCC/110/2024` | The Hon. Attorney General Vs Kande Pun Shri Samantha before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-HCC-110-2024)
-- 2025-09-30 | `CA Bail 0222/25` | Umagiliya Kankanamage Pradeepa Chithrangani Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-Bail-0222-25)
 
 ---
 

@@ -2,13 +2,13 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-10-09 12:44:13",
-  "n_docs": 10151,
-  "n_docs_with_pdfs": 10151,
-  "n_docs_with_text": 10151,
+  "time_updated": "2025-10-09 13:20:13",
+  "n_docs": 10153,
+  "n_docs_with_pdfs": 10153,
+  "n_docs_with_text": 10153,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-10-08",
-  "dataset_size": 10346252681,
+  "date_str_max": "2025-10-09",
+  "dataset_size": 10346621206,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -19,16 +19,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-08-CA-HCC-52-2024",
-    "num": "CA/HCC/52/2024",
-    "date_str": "2025-10-08",
-    "description": "Madduralalage Nimal Ananda alias Sudha Mama Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J.",
+    "doc_id": "2025-10-09-RII-0033-2023",
+    "num": "RII/0033/2023",
+    "date_str": "2025-10-09",
+    "description": "Sureka Aroshani Weerasuriya Vs Commercial Bank of Ceylon PLC before Hon. R. Gurusinghe, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3c9e58fd-3897-4e86-a53c-4e22f1db8b89&filename=HCC-52-24-JUDGMENT.pdf.pdf",
-    "parties": "Madduralalage Nimal Ananda alias Sudha Mama Vs The Hon. Attorney General",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "consistent, penetration, grave sexual abuse, corroboration,",
-    "legistation": "Section 364 (2)(e) of the Penal Code as amended by Act No.22 of 1995."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a0210e7a-fe16-4b97-9b97-6486631492a5&filename=RII%200033-23%20%28PDF%29.pdf.pdf",
+    "parties": "Sureka Aroshani Weerasuriya Vs Commercial Bank of Ceylon PLC",
+    "judgement_by": "Hon. R. Gurusinghe, J.",
+    "keywords": "Appointment of legal representatives",
+    "legistation": "Section 26 of the Mortgage Act No. 6 of 1949, as amended by Act No. 24 of 1969,"
   }
 }
