@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_12:49:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--10_13:10:35-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,153** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-10-09**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,154** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.3 GB**), from **2012-04-23** to **2025-10-10**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-09-RII-0033-2023",
-    "num": "RII/0033/2023",
-    "date_str": "2025-10-09",
-    "description": "Sureka Aroshani Weerasuriya Vs Commercial Bank of Ceylon PLC before Hon. R. Gurusinghe, J.",
+    "doc_id": "2025-10-10-CA-HCC--0277-2023",
+    "num": "CA/HCC/ 0277/2023",
+    "date_str": "2025-10-10",
+    "description": "Kandiah Thiyagarasa Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a0210e7a-fe16-4b97-9b97-6486631492a5&filename=RII%200033-23%20%28PDF%29.pdf.pdf",
-    "parties": "Sureka Aroshani Weerasuriya Vs Commercial Bank of Ceylon PLC",
-    "judgement_by": "Hon. R. Gurusinghe, J.",
-    "keywords": "Appointment of legal representatives",
-    "legistation": "Section 26 of the Mortgage Act No. 6 of 1949, as amended by Act No. 24 of 1969,"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=cf01a0a2-2c2d-4685-9544-01e5fbf23bde&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0277.2013.pdf.pdf",
+    "parties": "Kandiah Thiyagarasa Vs The Hon. Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Standard of proof. \u2022 Inward journey. \u2022 Dock statement",
+    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984."
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-10-10 | `CA/HCC/ 0277/2023` | Kandiah Thiyagarasa Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-10-CA-HCC--0277-2023)
 - 2025-10-09 | `RII/0033/2023` | Sureka Aroshani Weerasuriya Vs Commercial Bank of Ceylon PLC before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-RII-0033-2023)
 - 2025-10-09 | `CA/RII /0009/2024` | Kavishka Dilshan Wijesinghe Vs D.M. Jayawardhana before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-RII--0009-2024)
 - 2025-10-08 | `CA/HCC/52/2024` | Madduralalage Nimal Ananda alias Sudha Mama Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-08-CA-HCC-52-2024)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-09-30 | `CA/WRT/0482/21` | Chamindranee Bandara Kiriella Vs Justice Upaly Abeyrathne (Retd.), Chairman of the Presidential Commission of Inquiry Probing Fraud and Corruption that occurred at State Institutions from 15th January 2015 to 31st December 2018 and others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-WRT-0482-21)
 - 2025-09-30 | `CA/WRT/0481/21` | Lakshman Bandara Kiriella Vs Justice Upaly Abeyrathne (Retd.), Chairman of the Presidential Commission of Inquiry Probing Fraud and Corruption that occurred at State Institutions from 15th January 2015 to 31st December 2018 and others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-WRT-0481-21)
 - 2025-09-30 | `CA PHC 81/2020` | Abeyweera Mirissa Patabendige Badrajith Harshanath Abeyweera Vs. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-PHC-81-2020)
-- 2025-09-30 | `CA HCC 233/2018` | KaluaddaraArachchige Raja Ajith Ranjith Vs. The Director General, Commission to Investigate Allegations of Bribery or Corruption before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-09-30-CA-HCC-233-2018)
 
 ---
 
