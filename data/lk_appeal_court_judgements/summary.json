@@ -2,13 +2,13 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-10-13 14:53:42",
-  "n_docs": 10156,
-  "n_docs_with_pdfs": 10156,
-  "n_docs_with_text": 10156,
+  "time_updated": "2025-10-13 15:14:59",
+  "n_docs": 10159,
+  "n_docs_with_pdfs": 10159,
+  "n_docs_with_text": 10159,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-10-10",
-  "dataset_size": 10353576797,
+  "date_str_max": "2025-10-13",
+  "dataset_size": 10354917618,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -19,16 +19,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-10-CA-HCC-140-2019",
-    "num": "CA HCC 140/2019",
-    "date_str": "2025-10-10",
-    "description": "Kammalgoda Mudalige Priyantha Hewasinghe Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J.",
+    "doc_id": "2025-10-13-CA-WRT-0529-2021",
+    "num": "CA/WRT/0529/2021",
+    "date_str": "2025-10-13",
+    "description": "Subramaniyam Garan Vs. M. A. B. Daya Senarath, Secretary, Public Service Commission before Hon. K.M.G.H. Kulatunga, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4766d954-162f-493c-b09d-58d5db79a919&filename=CA%20HCC%20140%20-19.pdf.pdf",
-    "parties": "Kammalgoda Mudalige Priyantha Hewasinghe Vs The Hon. Attorney General,",
-    "judgement_by": "Hon. Amal Ranaraja, J.",
-    "keywords": "Contradictions and omissions of witness testimony \u2013 Determining whether contradictions and omissions of testimonies are material to the case \u2013 Testimonies disputed by witnesses being supported by additional evidence from other witnesses and physical evidence",
-    "legistation": "Section 296 of the Penal Code"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=63913a95-73a1-4413-8796-2a832d0fa1b2&filename=WRT-0529-21%20-%2013.10.2025.pdf.pdf",
+    "parties": "Subramaniyam Garan Vs. M. A. B. Daya Senarath, Secretary, Public Service Commission",
+    "judgement_by": "Hon. K.M.G.H. Kulatunga, J.",
+    "keywords": "Transfer of Public Officers \u2022 Delegation of Powers \u2022 Public Service Commission (PSC) \u2022 Covering Approval \u2022 Ouster Clause per Article 61A \u2022 Procedural Rules of the PSC \u2022 Ultra Vires \u2022 Delegatus Non Potest Delegare",
+    "legistation": "Constitution of the Democratic Socialist Republic of Sri Lanka - Article 59 \u2013 Appeals to Administrative Appeals Tribunal - Article 61A \u2013 Ouster clause barring judicial review of PSC decisions - Article 140 \u2013 Writ jurisdiction"
   }
 }
