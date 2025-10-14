@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_10:12:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_10:52:12-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,160** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-13**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,162** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-13**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ## 🆕 20 Latest documents
 
 - 2025-10-13 | `CA/WRT/0529/2021` | Subramaniyam Garan Vs. M. A. B. Daya Senarath, Secretary, Public Service Commission before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-WRT-0529-2021)
+- 2025-10-13 | `CA PHC 76/2021` | Aththanagala Ralalage Samantha Priyadarshana, Vs Officer-in-Charge, Police Station, Medirigiriya. and other before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-PHC-76-2021)
 - 2025-10-13 | `CA/HCC/0007/22` | Rathnayake Mudiyanselage Mahinda Rathnayake Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-HCC-0007-22)
 - 2025-10-10 | `CA HCC 140/2019` | Kammalgoda Mudalige Priyantha Hewasinghe Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-10-CA-HCC-140-2019)
 - 2025-10-10 | `CA/HCC/ 0277/2023` | Kandiah Thiyagarasa Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-10-CA-HCC--0277-2023)
@@ -53,6 +54,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-09 | `CA/WRT/299/24` | R H Steel Building Systems (Private) Limited and two others Vs. DFCC Bank PLC and another before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-WRT-299-24)
 - 2025-10-09 | `CA-WRT-0457-20` | B.H.M. Kapilaratne Vs. The University of Peradeniya and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-WRT-0457-20)
 - 2025-10-09 | `CA/RII /0009/2024` | Kavishka Dilshan Wijesinghe Vs D.M. Jayawardhana before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-RII--0009-2024)
+- 2025-10-09 | `CA-PHC-43-2021` | S.A. Waheed and Others Vs R.A.I. Chamara and Others before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-PHC-43-2021)
 - 2025-10-08 | `CA/HCC/52/2024` | Madduralalage Nimal Ananda alias Sudha Mama Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-08-CA-HCC-52-2024)
 - 2025-10-07 | `CA PHC 73/22` | Lahandapurage Wijethunga Moragasara, Delpamulla, Deyiyandara Vs Lahandapurage Wijethunga and others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-07-CA-PHC-73-22)
 - 2025-10-07 | `CA HCC 306-307/2019` | Dhammika Prasanna Wijesinghe Vs. Anura Jayathissa Wijesinghe before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-07-CA-HCC-306-307-2019)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-03 | `CA/CPA/0137/2024` | Sumith Amarawickrama Vs. Assistant Commissioner for Agrarian and Two Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-CPA-0137-2024)
 - 2025-10-03 | `CA (HCC)0021/2023` | Mavelage Sanjeewa Rajapaksha Vs. The Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA--HCC-0021-2023)
 - 2025-10-03 | `CA/ CPA/ 24/ 23` | Gampaha District Co-operative Rural Bank Union Limited Vs Undugodage Chamila Kumarai and Others before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA--CPA--24--23)
-- 2025-10-02 | `CAWRT/0487/21` | Chief Petty Officer Heeni Pellage. Vs Commander of the Sri Lanka Navy and others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-02-CAWRT-0487-21)
-- 2025-10-01 | `CA/WRT/125 / 2016` | Ceylon Electricity Board, Vs Hon. W.D. Seneviratne Minister of Labour, and others before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-01-CA-WRT-125---2016)
 
 ---
 
