@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_14:44:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_15:19:56-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,162** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-13**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,163** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-14**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-13-CA-WRT-0529-2021",
-    "num": "CA/WRT/0529/2021",
-    "date_str": "2025-10-13",
-    "description": "Subramaniyam Garan Vs. M. A. B. Daya Senarath, Secretary, Public Service Commission before Hon. K.M.G.H. Kulatunga, J.",
+    "doc_id": "2025-10-14-CA-HCC-84-19",
+    "num": "CA/HCC/84/19",
+    "date_str": "2025-10-14",
+    "description": "Ranpatipathirage Prasanga Lakmal Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=63913a95-73a1-4413-8796-2a832d0fa1b2&filename=WRT-0529-21%20-%2013.10.2025.pdf.pdf",
-    "parties": "Subramaniyam Garan Vs. M. A. B. Daya Senarath, Secretary, Public Service Commission",
-    "judgement_by": "Hon. K.M.G.H. Kulatunga, J.",
-    "keywords": "Transfer of Public Officers \u2022 Delegation of Powers \u2022 Public Service Commission (PSC) \u2022 Covering Approval \u2022 Ouster Clause per Article 61A \u2022 Procedural Rules of the PSC \u2022 Ultra Vires \u2022 Delegatus Non Potest Delegare",
-    "legistation": "Constitution of the Democratic Socialist Republic of Sri Lanka - Article 59 \u2013 Appeals to Administrative Appeals Tribunal - Article 61A \u2013 Ouster clause barring judicial review of PSC decisions - Article 140 \u2013 Writ jurisdiction"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e44e2055-c8d4-41f0-b0a5-9dad6cb12009&filename=HCC-0084-19-%20JUDGMENT.pdf.pdf",
+    "parties": "Ranpatipathirage Prasanga Lakmal Vs Hon. Attorney General",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "chain of custody, refresh his memory by referring to his notes",
+    "legistation": "159 (1) of the Evidence Ordinance."
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-10-14 | `CA/HCC/84/19` | Ranpatipathirage Prasanga Lakmal Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-14-CA-HCC-84-19)
 - 2025-10-13 | `CA/WRT/0529/2021` | Subramaniyam Garan Vs. M. A. B. Daya Senarath, Secretary, Public Service Commission before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-WRT-0529-2021)
 - 2025-10-13 | `CA PHC 76/2021` | Aththanagala Ralalage Samantha Priyadarshana, Vs Officer-in-Charge, Police Station, Medirigiriya. and other before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-PHC-76-2021)
 - 2025-10-13 | `CA/HCC/0007/22` | Rathnayake Mudiyanselage Mahinda Rathnayake Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-HCC-0007-22)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-03 | `CA/HCC/ 0011/2025` | Geegana Kankanamge Wimaladasa alias Hullankande Kiri Ayya Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-HCC--0011-2025)
 - 2025-10-03 | `CA/CPA/0137/2024` | Sumith Amarawickrama Vs. Assistant Commissioner for Agrarian and Two Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-CPA-0137-2024)
 - 2025-10-03 | `CA (HCC)0021/2023` | Mavelage Sanjeewa Rajapaksha Vs. The Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA--HCC-0021-2023)
-- 2025-10-03 | `CA/ CPA/ 24/ 23` | Gampaha District Co-operative Rural Bank Union Limited Vs Undugodage Chamila Kumarai and Others before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA--CPA--24--23)
 
 ---
 
