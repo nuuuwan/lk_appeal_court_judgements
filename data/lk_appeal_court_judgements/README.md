@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--15_12:25:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--15_12:42:08-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,163** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-14**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,164** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-15**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-14-CA-HCC-84-19",
-    "num": "CA/HCC/84/19",
-    "date_str": "2025-10-14",
-    "description": "Ranpatipathirage Prasanga Lakmal Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J.",
+    "doc_id": "2025-10-15-CA-Bail-0061-25",
+    "num": "CA Bail 0061/25",
+    "date_str": "2025-10-15",
+    "description": "Weeraperuma Athukoralage Dilhani Chethana Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e44e2055-c8d4-41f0-b0a5-9dad6cb12009&filename=HCC-0084-19-%20JUDGMENT.pdf.pdf",
-    "parties": "Ranpatipathirage Prasanga Lakmal Vs Hon. Attorney General",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "chain of custody, refresh his memory by referring to his notes",
-    "legistation": "159 (1) of the Evidence Ordinance."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=acfa7464-1579-4dab-80cf-cdf0c38c0f00&filename=BAIL%20ORDER%20CA%20Bail-0061.25.pdf.pdf",
+    "parties": "Weeraperuma Athukoralage Dilhani Chethana Vs The Hon. Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Exceptional Circumstances",
+    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-10-15 | `CA Bail 0061/25` | Weeraperuma Athukoralage Dilhani Chethana Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-15-CA-Bail-0061-25)
 - 2025-10-14 | `CA/HCC/84/19` | Ranpatipathirage Prasanga Lakmal Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-14-CA-HCC-84-19)
 - 2025-10-13 | `CA/WRT/0529/2021` | Subramaniyam Garan Vs. M. A. B. Daya Senarath, Secretary, Public Service Commission before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-WRT-0529-2021)
 - 2025-10-13 | `CA PHC 76/2021` | Aththanagala Ralalage Samantha Priyadarshana, Vs Officer-in-Charge, Police Station, Medirigiriya. and other before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-PHC-76-2021)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-03 | `CA/WRIT/559/2024` | Rev. Baddewela Sumanasiri and two others Vs Ven. Dr. Kumbalgoda Dhammaloka Thero and 11 others before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-WRIT-559-2024)
 - 2025-10-03 | `CA/HCC/ 0011/2025` | Geegana Kankanamge Wimaladasa alias Hullankande Kiri Ayya Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-HCC--0011-2025)
 - 2025-10-03 | `CA/CPA/0137/2024` | Sumith Amarawickrama Vs. Assistant Commissioner for Agrarian and Two Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-CPA-0137-2024)
-- 2025-10-03 | `CA (HCC)0021/2023` | Mavelage Sanjeewa Rajapaksha Vs. The Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA--HCC-0021-2023)
 
 ---
 

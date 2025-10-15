@@ -2,14 +2,14 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-10-15 12:25:22",
-  "n_docs": 10163,
-  "n_docs_with_pdfs": 10163,
-  "n_docs_with_text": 10163,
+  "time_updated": "2025-10-15 12:42:02",
+  "n_docs": 10164,
+  "n_docs_with_pdfs": 10164,
+  "n_docs_with_text": 10164,
   "n_docs_with_excel": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-10-14",
-  "dataset_size": 10358595320,
+  "date_str_max": "2025-10-15",
+  "dataset_size": 10358902878,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -20,16 +20,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-14-CA-HCC-84-19",
-    "num": "CA/HCC/84/19",
-    "date_str": "2025-10-14",
-    "description": "Ranpatipathirage Prasanga Lakmal Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J.",
+    "doc_id": "2025-10-15-CA-Bail-0061-25",
+    "num": "CA Bail 0061/25",
+    "date_str": "2025-10-15",
+    "description": "Weeraperuma Athukoralage Dilhani Chethana Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=e44e2055-c8d4-41f0-b0a5-9dad6cb12009&filename=HCC-0084-19-%20JUDGMENT.pdf.pdf",
-    "parties": "Ranpatipathirage Prasanga Lakmal Vs Hon. Attorney General",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "chain of custody, refresh his memory by referring to his notes",
-    "legistation": "159 (1) of the Evidence Ordinance."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=acfa7464-1579-4dab-80cf-cdf0c38c0f00&filename=BAIL%20ORDER%20CA%20Bail-0061.25.pdf.pdf",
+    "parties": "Weeraperuma Athukoralage Dilhani Chethana Vs The Hon. Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Exceptional Circumstances",
+    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984"
   }
 }
