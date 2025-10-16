@@ -2,7 +2,7 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-10-16 05:17:06",
+  "time_updated": "2025-10-16 06:09:20",
   "n_docs": 10164,
   "n_docs_with_pdfs": 10164,
   "n_docs_with_text": 10164,
@@ -10,7 +10,7 @@
   "n_docs_with_tabular": 7099,
   "date_str_min": "2012-04-23",
   "date_str_max": "2025-10-15",
-  "dataset_size": 10531315765,
+  "dataset_size": 10531315763,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
