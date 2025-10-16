@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_12:43:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_13:18:39-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,165** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-16**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,166** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-16**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-16-CA-HCC-272-2023",
-    "num": "CA/HCC/272/2023",
+    "doc_id": "2025-10-16-CA-HCC-282-2024",
+    "num": "CA HCC 282/2024",
     "date_str": "2025-10-16",
-    "description": "Singaru Sathyaseelan Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J.",
+    "description": "Herath Mudiyanselage Priyantha Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=537fb124-673b-4498-98fe-14476893be5d&filename=HCC-272-23-JUIDGMENT%20%281%29.pdf.pdf",
-    "parties": "Singaru Sathyaseelan Vs Hon. Attorney General",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "Knowledge of item",
-    "legistation": "Section 27 of Recovery"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=35e79d28-27b5-40f1-b7c5-e8694d790050&filename=CA%20HCC%20282-24.pdf.pdf",
+    "parties": "Herath Mudiyanselage Priyantha Vs The Hon. Attorney General,",
+    "judgement_by": "Hon. Amal Ranaraja, J.",
+    "keywords": "Prosecution falling short of the burden of proof \u2013 Implications surrounding the recovery of a suspected weapon",
+    "legistation": "Section 296 of the Penal Code"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-10-16 | `CA HCC 282/2024` | Herath Mudiyanselage Priyantha Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC-282-2024)
 - 2025-10-16 | `CA/HCC/272/2023` | Singaru Sathyaseelan Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC-272-2023)
 - 2025-10-15 | `CA Bail 0061/25` | Weeraperuma Athukoralage Dilhani Chethana Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-15-CA-Bail-0061-25)
 - 2025-10-14 | `CA/HCC/84/19` | Ranpatipathirage Prasanga Lakmal Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-14-CA-HCC-84-19)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-07 | `CA HCC 306-307/2019` | Dhammika Prasanna Wijesinghe Vs. Anura Jayathissa Wijesinghe before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-07-CA-HCC-306-307-2019)
 - 2025-10-03 | `CA/WRT/0056/2025` | Samarakoon Mudiyanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-WRT-0056-2025)
 - 2025-10-03 | `CA/WRIT/559/2024` | Rev. Baddewela Sumanasiri and two others Vs Ven. Dr. Kumbalgoda Dhammaloka Thero and 11 others before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-WRIT-559-2024)
-- 2025-10-03 | `CA/HCC/ 0011/2025` | Geegana Kankanamge Wimaladasa alias Hullankande Kiri Ayya Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-03-CA-HCC--0011-2025)
 
 ---
 
