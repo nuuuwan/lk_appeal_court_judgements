@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-10-16 09:28:37",
-  "n_docs": 10164,
-  "n_docs_with_pdfs": 10164,
-  "n_docs_with_text": 10164,
+  "time_updated": "2025-10-16 12:30:12",
+  "n_docs": 10165,
+  "n_docs_with_pdfs": 10165,
+  "n_docs_with_text": 10165,
   "n_docs_with_excel": 0,
-  "n_docs_with_tabular": 7099,
+  "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-10-15",
-  "dataset_size": 10531315761,
+  "date_str_max": "2025-10-16",
+  "dataset_size": 10419211253,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-15-CA-Bail-0061-25",
-    "num": "CA Bail 0061/25",
-    "date_str": "2025-10-15",
-    "description": "Weeraperuma Athukoralage Dilhani Chethana Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
+    "doc_id": "2025-10-16-CA-HCC-272-2023",
+    "num": "CA/HCC/272/2023",
+    "date_str": "2025-10-16",
+    "description": "Singaru Sathyaseelan Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=acfa7464-1579-4dab-80cf-cdf0c38c0f00&filename=BAIL%20ORDER%20CA%20Bail-0061.25.pdf.pdf",
-    "parties": "Weeraperuma Athukoralage Dilhani Chethana Vs The Hon. Attorney General",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Exceptional Circumstances",
-    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=537fb124-673b-4498-98fe-14476893be5d&filename=HCC-272-23-JUIDGMENT%20%281%29.pdf.pdf",
+    "parties": "Singaru Sathyaseelan Vs Hon. Attorney General",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "Knowledge of item",
+    "legistation": "Section 27 of Recovery"
   }
 }
