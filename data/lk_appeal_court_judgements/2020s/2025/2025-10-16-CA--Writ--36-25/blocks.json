@@ -1,0 +1,1451 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      90.02,
+      779.16,
+      508.13,
+      805.8
+    ],
+    "text": "Page 1 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      99.14,
+      74.81,
+      499.3,
+      88.85
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      269.21,
+      91.85,
+      329.28,
+      105.89
+    ],
+    "text": "SRI LANKA",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      270.05,
+      142.01,
+      508.53,
+      254.96
+    ],
+    "text": "In the matter of an application for mandates in the nature of Writs of Certiorari, Prohibition and Mandamus in terms of Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.02,
+      296.72,
+      565.49,
+      379.04
+    ],
+    "text": "T. G. Kularatne Pahala Haththiniya, Marawila. Petitioner",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.02,
+      390.1,
+      231.7,
+      404.14
+    ],
+    "text": "Court of Appeal Case No:",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.02,
+      415.18,
+      181.27,
+      429.22
+    ],
+    "text": "CA /Writ/ 36/25",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.02,
+      440.38,
+      288.94,
+      454.42
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      488.36,
+      363.0,
+      504.58
+    ],
+    "text": "1. W. S. Senathissa",
+    "fonts": [
+      "Arial",
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      507.58,
+      452.43,
+      590.05
+    ],
+    "text": "Divisional Secretary, Divisional Secretariat Office, Kurunegala. 2. Commissioner General of Excise",
+    "fonts": [
+      "Arial",
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      593.05,
+      493.59,
+      675.49
+    ],
+    "text": "Excise Department of Sri Lanka, No. 34, W. A. D. Ramanayake Mawatha, Colombo 02. 3. C. P. A. Premarathna",
+    "fonts": [
+      "Arial",
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.05,
+      678.49,
+      383.28,
+      760.95
+    ],
+    "text": "Malpiyali Mawatha, Malkaduwawa, Kurunegala. 4. R. P. P. Rajapaksa",
+    "fonts": [
+      "Arial",
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      779.16,
+      508.13,
+      805.8
+    ],
+    "text": "Page 2 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252.05,
+      74.81,
+      350.64,
+      105.89
+    ],
+    "text": "5. T. N. Senarath",
+    "fonts": [
+      "Arial",
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126.02,
+      109.01,
+      383.52,
+      157.13
+    ],
+    "text": "6. H. A. N. Pathirathna",
+    "fonts": [
+      "Arial",
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252.05,
+      163.01,
+      473.67,
+      228.29
+    ],
+    "text": "All of Ihala Hattiniya, Marawila. 7. Secretary to the Ministry of Finance",
+    "fonts": [
+      "Arial",
+      "Calibri Light",
+      "Calibri Light,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252.05,
+      231.32,
+      441.15,
+      313.76
+    ],
+    "text": "Planning and Digital Economy, The Secretariat\u2019 Colombo 01. 8. Hon. Attorney General",
+    "fonts": [
+      "Arial",
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.05,
+      316.76,
+      452.31,
+      347.96
+    ],
+    "text": "Attorney General\u2019s Department, Colombo 12.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      318.79,
+      350.96,
+      542.67,
+      382.16
+    ],
+    "text": "Respondents",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      420.82,
+      404.52,
+      434.86
+    ],
+    "text": "Before : Dhammika Ganepola, J.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      448.66,
+      402.6,
+      462.7
+    ],
+    "text": "Adithya Patabendige. J.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      504.34,
+      447.39,
+      518.38
+    ],
+    "text": "Counsel : Eraj de Silva, P.C. with Daminda",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.05,
+      530.02,
+      461.31,
+      544.06
+    ],
+    "text": "Wijeratne and Sanjana Mapatune",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.05,
+      555.61,
+      495.51,
+      569.65
+    ],
+    "text": "instructed by Paul Ratnayake Associates",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.05,
+      581.29,
+      371.64,
+      595.33
+    ],
+    "text": "for the Petitioner.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.05,
+      606.97,
+      468.18,
+      621.01
+    ],
+    "text": "Ronald Perera P. C. with Chandimal",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.05,
+      629.83,
+      504.72,
+      646.57
+    ],
+    "text": "Mendis for the 3rd Respondent instructed",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.05,
+      658.21,
+      430.08,
+      672.25
+    ],
+    "text": "by Coporate Law Chambers.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.05,
+      681.19,
+      504.37,
+      697.93
+    ],
+    "text": "Sehan zoysa, S.S.C. for the 1st, 2nd, 7th and",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      270.05,
+      706.77,
+      367.32,
+      723.51
+    ],
+    "text": "8th Respondents.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      779.16,
+      508.13,
+      805.8
+    ],
+    "text": "Page 3 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      74.69,
+      336.84,
+      88.73
+    ],
+    "text": "Argued on : 27.06.2025",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      130.25,
+      506.67,
+      144.29
+    ],
+    "text": "Written Submissions : Petitioner : 21.07.2025",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      155.39,
+      506.67,
+      172.13
+    ],
+    "text": "tendered on 3rd Respondent : 14.07.2025",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      183.23,
+      505.11,
+      199.97
+    ],
+    "text": "1st, 2nd, 7th, 8th Respondents : 15.07.2025",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      241.52,
+      336.84,
+      255.56
+    ],
+    "text": "Decided on : 16.10.2025",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      297.08,
+      225.22,
+      311.12
+    ],
+    "text": "Dhammika Ganepola, J.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      324.92,
+      508.6,
+      695.29
+    ],
+    "text": "In the instant application the Petitioner seeks inter alia Writs of Certiorari quashing the decisions of the 1st, 2nd, 7th and 8th Respondents to grant the impugned Toddy Privilege to the 3rd Respondent and not to blacklist the 3rd Respondent for violation of tender conditions and Writs of Mandamus directing the 1st, 2nd, 7th and 8th Respondents to blacklist the 3rd Respondent for violation of tender conditions and to issue the impugned Toddy Privilege to the Petitioner. The facts involved in the instant application are as follows. The 1st Respondent Divisional Secretary called for bids for the purchase of the exclusive Privilege of selling Toddy at No. 2, Kurunegala, for the period starting from 1st of January 2025 to 31st of December 2025. Accordingly, the Petitioner also submitted a bid in respect of the above Privilege. On or about the 23rd of August 2024, bids were opened, and the 3rd Respondent became the highest bidder for a sum of Rs. 15,600,000/-. The joint bid placed by the 4th, 5th and 6th Respondents became the second highest bid for a sum of Rs. 12,000,000/-, and the Petitioner was the third highest bidder for a sum of Rs. 8,350,000/-. Consequently, the 3rd Respondent was granted the said Toddy Privilege and is currently operating the same from No. 368, Wingoda Road, Kurunegala.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      706.41,
+      508.59,
+      762.75
+    ],
+    "text": "The Petitioner complains that the 3rd Respondent has violated several tender conditions and, as a result, is not entitled in law to receive and proceed with the Toddy Privilege and is liable to be blacklisted. The bids",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      779.16,
+      508.13,
+      805.8
+    ],
+    "text": "Page 4 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      71.99,
+      508.57,
+      187.73
+    ],
+    "text": "placed by the 4th, 5th, and 6th Respondents were disqualified owing to the nonconformity of the tender conditions. Therefore, the Petitioner states that he is the next in line and is entitled to such Privilege. The Petitioner urges that although the Petitioner complained to the 1st Respondent, the 1st, 2nd, 7th, and 8th Respondents failed to fulfil their public duty to blacklist the 3rd Respondent and grant the Privilege to the Petitioner.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      198.71,
+      508.59,
+      453.1
+    ],
+    "text": "The Petitioner contends that the 3rd Respondent has not obtained approval for the premises as stipulated by Gazette No. 207 dated 20th August 1982, marked P3(i), and Gazette dated 20th June 2024, marked P2. Further, the premises where the Toddy Tavern operates is not in compliance with the Law, particularly the Excise Notification No. 2/2024 marked P3(2). Since there is a temple situated within a distance of 200m from the impugned tavern, the Petitioner contends that the applicable excise regulation in respect of the distance requirement of 500m set out in the Excise Notification No.2/2024 [P3(2)] is not complied with. However, the 1st, 2nd, 7th and 8th Respondents argue that the regulations published in the Excise Notification No. 2/2024 [P3(2)] in the Gazette No.2366/39 dated 12.01.2024 have no application for tendering of the impugned Toddy privilege.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.02,
+      466.9,
+      508.6,
+      639.25
+    ],
+    "text": "It is on the common ground that the tender for the impugned privilege of selling Toddy for the year 2025 at the Kurunegala Divisional Secretariat was called by the notice published in the Gazette Notification marked P2/2R3. As per the Gazette marked P2, the tender had been called subject to the conditions stipulated in Gazette No. 207 dated 20th August 1982, marked P3(i), related to the sale of Toddy. As per the Gazette No. 207 marked P3(i) above, the privilege of selling Toddy is granted, subject to the contemporaneous common conditions related to every liquor permit. Said provisions are reproduced below.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.04,
+      650.37,
+      484.86,
+      663.99
+    ],
+    "text": "1983 \u0dc0\u0dbb\u0dca\u0dc2\u0dba \u0dc4\u0dcf \u0d8a\u0da7 \u0db4\u0dc3\u0dd4 \u0d9a\u0dcf\u0dbd\u0db4\u0dbb\u0dd2\u0da0\u0dca\u0da1\u0dda\u0daf\u0dba\u0db1\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0dbb\u0dcf \u0da1\u0dbb\u0dca\u0db1\u0dca\u0daf \u0dc0\u0dd2\u0d9a\u0dd2\u0dab\u0dd3\u0da1\u0dda \u0da1\u0d9a\u0ddc\u0db1\u0dca\u0da1\u0dda\u0dc3\u0dd2",
+    "fonts": [
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      107.04,
+      673.84,
+      511.69,
+      687.63
+    ],
+    "text": "1. (1) \u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0dd2\u0da1\u0dc1\u0dda\u0dc2 \u0da1\u0d9a\u0ddc\u0db1\u0dca\u0da1\u0dda\u0dc3\u0dd2\u0da1\u0dba\u0dc4\u0dd2 \u0db1\u0dd2\u0dc1\u0dca\u0da0\u0dd2\u0dad\u0dc0 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dcf\u0dbd\u0db4\u0dbb\u0dd2\u0da0\u0dca\u0da1\u0dda\u0daf\u0dba \u0dad\u0dd4\u0dc5\u0daf\u0dd3 \u0dc3\u0dc4 \u0d8a\u0da7",
+    "fonts": [
+      "Arial,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      125.04,
+      689.75,
+      511.81,
+      766.01
+    ],
+    "text": "\u0db4\u0dc3\u0dd4 \u0d9a\u0dcf\u0dbd\u0db4\u0dbb\u0dd2\u0da0\u0dca\u0da1\u0dda\u0daf\u0dba \u0dad\u0dd4\u0dc5 \u0dba\u0dda \u0db4\u0dca\u0dbb\u0dcf\u0dcf\u0da1\u0dda\u0dba \u0dba \u0da1\u0d9a\u0ddc\u0da8\u0dcf\u0dc1\u0dcf\u0dc1\u0dba\u0d9a \u0db4\u0dd0\u0dc3\u0dd4 \u0dbb \u0dbb\u0dcf \u0dc3\u0dd2\u0dbd\u0dbb\u0dbd\u0dbb\u0da7 \u0dc0\u0dd2\u0d9a\u0dd2\u0dab\u0dd3\u0da1\u0dda \u0dad\u0db1\u0dd2 \u0dc0\u0dbb\u0db4\u0dca\u0dbb\u0dcf\u0dc3\u0dcf\u0daf\u0dba \u0dd0\u0dd0\u0dc0\u0dad \u0daf\u0dd0\u0dd4\u0db8\u0dda \u0da1\u0daf\u0dd4\u0db8 \u0dbd\u0db1\u0dd0 \u0dad\u0dd4\u0dd4- (1) \u0dc3\u0dd1\u0db8 \u0dc3\u0dd4\u0dbb\u0dcf\u0db1\u0daf\u0dd4 \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1\u0dba\u0d9a\u0da7 \u0daf\u0daf\u0dcf\u0dbd \u0dc0\u0dc0\u0d9a\u0da7 \u0dc0\u0dbd\u0d9c\u0dd4\u0dc0\u0dc0 \u0db4\u0dc0\u0dca\u0db1\u0dd0\u0dcf \u0da1\u0db4\u0ddc\u0daf\u0dd4 \u0da1\u0d9a\u0ddc\u0db1\u0dca\u0da1\u0dda\u0dc3\u0dd2\u0dc0\u0dbd\u0da7; \u0dc4\u0dcf",
+    "fonts": [
+      "Arial,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      779.16,
+      508.13,
+      805.8
+    ],
+    "text": "Page 5 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125.04,
+      71.84,
+      511.87,
+      85.63
+    ],
+    "text": "(2) \u0da1\u0db8\u0dc4\u0dd2 \u0daf\u0d9a\u0dca\u0dc0\u0dcf \u0d87\u0dad\u0dd2 \u0dc0\u0dd2\u0da1\u0dc1\u0dda\u0dc2 \u0da1\u0d9a\u0ddc\u0db1\u0dca\u0da1\u0dda\u0dc3\u0dd2 \u0dc0\u0dbd\u0da7\u0daf, \u0dba\u0da7\u0dca\u0db1\u0dc0 \u0db4\u0dca\u0dbb\u0dcf\u0daf\u0dcf\u0dd0\u0dba \u0d9a\u0dbb\u0dd4\u0db8 \u0dbd\u0db1\u0dd0 \u0db1\u0dd0\u0dca",
+    "fonts": [
+      "Arial,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143.04,
+      88.45,
+      511.96,
+      133.75
+    ],
+    "text": "(52 \u0dc0\u0dd0\u0db1\u0dd2 \u0daf\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dba \u0dc0\u0dd0) \u0dc3\u0dd4\u0dbb\u0dcf\u0db1\u0daf\u0dd4 \u0d86\u0da5\u0dcf\u0db4\u0dd0\u0da1\u0dca\u0db1 19 \u0da1\u0dc0\u0db1\u0dd2 \u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0da1\u0dba\u0db1\u0dca \u0db8\u0dcf \u0da1\u0dc0\u0dad \u0db4\u0dd0\u0dc0\u0dbb\u0dd3 \u0d87\u0dad\u0dd2 \u0db1\u0dbd\u0dad\u0dbd \u0db4\u0dca\u0dbb\u0dcf\u0d9a\u0dcf\u0dbb \u0dc3\u0dd4\u0dbb\u0dcf\u0db1\u0daf\u0dd4 \u0da1\u0d9a\u0ddc\u0db8\u0dc3\u0dcf\u0dbb\u0dd2\u0dc3\u0dca \u0d86\u0dbb\u0dd2\u0dba\u0dc3\u0dd2\u0dbb\u0dd2 \u0db4\u0db4\u0dcf\u0dd2 \u0dba\u0dba\u0dc0\u0dd2\u0dca\u0dbb\u0dca\u0db8 \u0dc0\u0dd0 \u0db8\u0db8, \u0db8\u0dd4\u0daf\u0dbd\u0dbb \u0daf\u0db8\u0dcf\u0dad \u0dc0\u0dbb\u0dba\u0dcf\u0da1 \u0daf\u0dd4\u0db8\u0db8\u0dd0\u0dad\u0dd2\u0dba \u0d87\u0dad\u0dd2\u0dc0 \u0da1\u0db8\u0dd2\u0db1\u0db1\u0dca \u0dc0\u0dd2\u0dcf\u0dcf\u0dd0\u0dba \u0d9a\u0dbb\u0dd2.",
+    "fonts": [
+      "Calibri Light,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      170.33,
+      508.6,
+      323.0
+    ],
+    "text": "The Petitioner submits that operating the impugned Toddy tavern is not in conformity with the Excise Notification No. 02/2024 P3(2), however, it is observed that the Petitioner has failed to specifically identify said non-compliance in reference to the contents of the aforementioned Excise Notification. Further, the 1st, 2nd, 7th, and 8th Respondents submit that P3(2) applies only to the renewable annual license, which is issued upon the payment of fees but not for the tendering of Toddy privilege for a specific area. The said Excise Notification specifies as follows.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      334.72,
+      261.6,
+      348.41
+    ],
+    "text": "(52 \u0daf\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dba \u0dc0\u0dd6 ) \u0dc3\u0dd4\u0dbb\u0dcf\u0db1\u0daf\u0dd4 \u0d86\u0da5\u0dcf \u0db4\u0dd0\u0dad",
+    "fonts": [
+      "Calibri Light,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.05,
+      359.56,
+      263.64,
+      373.25
+    ],
+    "text": "\u0daf\u0d9c\u0d9a 2/2024 \u0daf\u0dbb\u0dab \u0dc3\u0dd4\u0dbb\u0dcf\u0db1\u0daf\u0dd4 \u0db1\u0dd2\u0da1\u0dca\u0daf\u0dd0\u0dba",
+    "fonts": [
+      "Calibri Light,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.05,
+      384.42,
+      509.12,
+      448.63
+    ],
+    "text": "(52 \u0daf\u0db0\u0dd2\u0d9a\u0dcf\u0dbb\u0dba \u0dc0\u0dd6 ) \u0dc3\u0dd4\u0dbb\u0dcf\u0db1\u0daf\u0dd4 \u0d86\u0da5\u0dcf \u0db4\u0dd0\u0da1\u0dca\u0db1 25 \u0dc0\u0dd0 \u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba \u0dc3\u0db8\u0d9f \u0d9a\u0dd2\u0dba\u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4 32 \u0dc0\u0dd0 \u0dc0\u0d9c\u0db1\u0dca\u0dad\u0dd2\u0dba \u0dba\u0da7\u0da1\u0dca\u0db1 \u0db8\u0dcf \u0da1\u0dc0\u0dad \u0db4\u0dd0\u0dc0\u0dbb\u0dd3 \u0d87\u0dad\u0dd2 \u0db1\u0dbd\u0dad\u0dbd \u0db4\u0dca\u0dbb\u0dcf\u0d9a\u0dcf\u0dbb\u0dc0, \u0db8\u0dd4\u0daf\u0dbd\u0dbb, \u0d86\u0dbb\u0dca\u0dae\u0dd2\u0d9a \u0dc3\u0dca\u0dae\u0dcf\u0dd2\u0db1\u0d9a\u0dbb\u0dab \u0dc3\u0dc4 \u0dba\u0dcf\u0dad\u0dd2\u0d9a \u0db4\u0dca\u0dbb\u0dcf\u0dad\u0dd2\u0db4\u0dca\u0db1\u0dad\u0dd2 \u0daf\u0db8\u0dcf\u0dad \u0dbb\u0db1\u0dd2\u0dbd\u0dbb \u0dc0\u0dd2\u0dca\u0dbb\u0dca\u0db8\u0dc3\u0dd2\u0d9c\u0dc4 \u0dc0\u0dd0 \u0db8\u0dcf \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc3\u0dcf\u0daf\u0dd0 \u0dbd\u0daf \u0db4\u0dca\u0dbb\u0dd3l\u0dad\u0dd2 2024 \u0dba\u0dd0\u0dc0\u0dcf\u0dbb\u0dd2 12 \u0daf\u0dd2\u0dd0 \u0dc3\u0dd2\u0da7 \u0db1\u0dbd\u0dcf\u0dca\u0db1\u0db8\u0d9a \u0db1\u0dc0 \u0db4\u0dca\u0dbb\u0dcf\u0d9a\u0dcf\u0dc1 \u0d9a\u0dbb\u0dd2.",
+    "fonts": [
+      "Calibri Light,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      89.05,
+      459.9,
+      510.89,
+      557.74
+    ],
+    "text": "2008 \u0daf\u0da1\u0db4\u0dca\u0dbb\u0dcf\u0dda\u0dbd\u0dbb \u0db8\u0dc3 10 \u0dc0\u0dd0 \u0daf\u0dd2\u0dd0\u0dd0\u0dad\u0dd2 \u0daf\u0d9c\u0d9a 1544/17 \u0daf\u0dbb\u0dab \u0dc1\u0dca\u0dbb\u0dd3\u0dba \u0dbd\u0d9c\u0d9a\u0dcf \u0db4\u0dca\u0dbb\u0dcf\u0dba\u0dcf\u0dad\u0dcf\u0db1\u0dca\u0dad\u0dca\u0dbb\u0dd2\u0dd2\u0d9a \u0dc3\u0db8\u0dcf\u0dba\u0dc0\u0dcf\u0daf\u0dd3 \u0dba\u0dd0\u0dbb\u0dba\u0da1\u0dda \u0daf\u0dad\u0dd2\u0dc0\u0dd2\u0da1\u0dc1\u0dda\u0dc2 \u0d9c\u0dd0\u0dc3\u0da8\u0dcf \u0db4\u0dad\u0dca\u0dbb\u0db1\u0da1\u0dda \u0db4\u0dbd \u0d9a\u0dbb\u0dd4\u0db8 \u0dbd\u0dd0\u0db6\u0dd6 \u0daf\u0d9c\u0d9a 902 \u0daf\u0dbb\u0dab \u0dc3\u0dd4\u0dbb\u0dcf\u0db1\u0daf\u0dd4 \u0db1\u0dd2\u0da1\u0dca\u0daf\u0dd0\u0dba \u0dc4\u0dcf 2015 \u0da1\u0daf\u0dc3\u0dd0\u0dda\u0db1\u0dbb\u0dca \u0db8\u0dc3 15 \u0dc0\u0dd0 \u0daf\u0dd2\u0dd0\u0dd0\u0dad\u0dd2 \u0daf\u0d9c\u0d9a 1945/17 \u0daf\u0dbb\u0dab \u0dc1\u0dca\u0dbb\u0dd3\u0dba \u0dbd\u0d9c\u0d9a\u0dcf \u0db4\u0dca\u0dbb\u0dcf\u0dba\u0dcf\u0dad\u0dcf\u0db1\u0dca\u0dad\u0dca\u0dbb\u0dd2\u0dd2\u0d9a \u0dc3\u0db8\u0dcf\u0dba\u0dc0\u0dcf\u0daf\u0dd3 \u0dba\u0dd0\u0dbb\u0dba\u0da1\u0dda \u0daf\u0dad\u0dd2\u0dc0\u0dd2\u0da1\u0dc1\u0dda\u0dc2 \u0d9c\u0dd0\u0dc3\u0da8\u0dcf \u0db4\u0dad\u0dca\u0dbb\u0db1\u0da1\u0dda \u0db4\u0dbd \u0d9a\u0dbb\u0dd4\u0db8 \u0dbd\u0dd0\u0db6\u0dd6 \u0daf\u0d9c\u0d9a 1945/17 \u0daf\u0dbb\u0dab \u0dc1\u0dca\u0dbb\u0dd3\u0dba \u0dbd\u0d9c\u0d9a\u0dcf \u0db4\u0dca\u0dbb\u0dcf\u0dba\u0dcf\u0dad\u0dcf\u0db1\u0dca\u0dad\u0dca\u0dbb\u0dd2\u0dd2\u0d9a \u0dc3\u0db8\u0dcf\u0dba\u0dc0\u0dcf\u0daf\u0dd3 \u0dba\u0dd0\u0dbb\u0dba\u0da1\u0dda \u0daf\u0dad\u0dd2\u0dc0\u0dd2\u0da1\u0dc1\u0dda\u0dc2 \u0d9c\u0dd0\u0dc3\u0da8\u0dcf \u0db4\u0dad\u0dca\u0dbb\u0db1\u0da1\u0dda \u0db4\u0dbd \u0d9a\u0dbb\u0dd4\u0db8 \u0dbd\u0dd0\u0db6\u0dd6 \u0daf\u0d9c\u0d9a 983 \u0daf\u0dbb\u0dab \u0dc3\u0dd4\u0dbb\u0dcf\u0db1\u0daf\u0dd4 \u0db1\u0dd2\u0da1\u0dca\u0daf\u0dd0\u0da1\u0dda (2) \u0da1\u0dda\u0daf\u0da1\u0dba\u0dc4\u0dd2 \u0daf\u0db1\u0dca\u0dad\u0dbb\u0dca\u0d9c\u0dad \u0dc0\u0dd2\u0db0\u0dd2\u0dc0\u0dd2\u0dcf\u0dcf\u0dd0 \u0da1\u0db8\u0dd2\u0db1\u0db1\u0dca \u0db4\u0dbb\u0dd2\u0da0\u0dca\u0da1\u0dd2\u0db1\u0dca\u0dd0 \u0d9a\u0dbb\u0dd4\u0db8 \u0dbd\u0dd0\u0da1\u0dda.",
+    "fonts": [
+      "Calibri Light,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      568.72,
+      509.2,
+      680.14
+    ],
+    "text": "(i) \u0db8\u0dca\u0db1\u0db4\u0dd0\u0db1\u0dca \u0dc0\u0dd2\u0d9a\u0dd2\u0dab\u0dd3\u0da1\u0dda \u0dc3\u0dd4\u0dbb\u0dcf\u0db1\u0daf\u0dd4 \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1\u0dba\u0d9a\u0dca \u0daf\u0dbd\u0dd4\u0dad\u0dd2\u0db1\u0dca \u0d89\u0dbd\u0dbb\u0dbd\u0dd4\u0dda \u0d9a\u0dd2\u0dbb\u0dd3\u0db8, \u0dc0\u0dc0\u0dd0\u0db1\u0dd2 \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1\u0dba\u0d9a \u0dc4\u0dd2\u0dd2\u0d9a\u0dcf\u0dbb\u0dd2\u0dca\u0db1\u0dc0 \u0db4\u0dd0\u0dc0\u0dbb\u0dd3\u0db8 \u0dc3\u0dc4 \u0dc0\u0dc0\u0dd0\u0db1\u0dd2 \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1\u0dba \u0dc3\u0db8\u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1\u0dcf\u0dcf\u0dbb\u0dd3\u0dca\u0db1\u0dc0\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0daf\u0dba\u0daf\u0dd4\u0dda \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0da1\u0dc4\u0ddd \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1 \u0dbd\u0dca\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0dd0\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0dd0 \u0db8\u0dcf\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0daf\u0daf\u0dcf\u0dc5 \u0dc0\u0dd0 \u0daf\u0dba\u0daf\u0dd4\u0dda\u0db4\u0dad\u0dca\u0dbb\u0db1 \u0db1\u0dd2\u0dba\u0dd2\u0dad \u0d89\u0dbd\u0dbb\u0dbd\u0dd4\u0dda\u0db4\u0dad\u0dca\u0dbb\u0db1 \u0d9c\u0dcf\u0dc3\u0dca\u0dad\u0dd4\u0dc0 \u0da1\u0d9c\u0dc0\u0dd3\u0da1\u0db8\u0db1\u0dca \u0daf\u0dd0\u0dad\u0dd4\u0dd4\u0dc0 \u0dc3\u0dd4\u0dbb\u0dcf\u0db1\u0daf\u0dd4 \u0db4\u0dca\u0dbb\u0dcf\u0dcf\u0dcf\u0dd0 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0da1\u0dba\u0db1\u0dca \u0dbd\u0db1\u0dcf \u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2\u0dba. \u0da1\u0d9a\u0da1\u0dc3\u0dda \u0da1\u0dc0\u0dad\u0dca\u0db1 \u0dc0\u0dc0\u0dd0\u0db1\u0dd2 \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1\u0dba \u0dc0\u0dbd\u0d9c\u0dd4\u0dc0 \u0d9a\u0dcf\u0dbd \u0dc3\u0dd3\u0db8\u0dcf\u0dc0 \u0daf\u0dd3\u0dbb\u0dca\u0d9d \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0daf\u0daf\u0dcf\u0dc5 \u0dc0\u0dd0 \u0daf\u0dba\u0daf\u0dd4\u0dda \u0db4\u0dad\u0dca\u0dbb\u0db1, \u0dc3\u0dd4\u0dbb\u0dcf\u0db1\u0daf\u0dd4 \u0db4\u0dca\u0dbb\u0dcf\u0dcf\u0dcf\u0dd0 \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0da1\u0dba\u0db1\u0dca \u0da1\u0dc4\u0ddd \u0daf\u0dd2\u0dc0\u0dd2\u0db1\u0dd0 \u0db4\u0dd4\u0dbb\u0dcf \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dcf \u0d87\u0dad\u0dd2 \u0dc3\u0dc4\u0d9a\u0dcf\u0dbb \u0dc3\u0dd4\u0dbb\u0dcf\u0db1\u0daf\u0dd4 \u0da1\u0d9a\u0ddc\u0db8\u0dc3\u0dcf\u0dbb\u0dd2\u0dc3\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd\u0dc0\u0dd2 \u0db1\u0dca \u0da1\u0dc4\u0ddd \u0dbd\u0db1\u0dcf \u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2\u0dba.",
+    "fonts": [
+      "Arial,Italic",
+      "Calibri Light,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      693.27,
+      508.59,
+      766.71
+    ],
+    "text": "The Petitioner complains that there is a temple situated within a distance of less than 200m from the impugned Toddy tavern. Regulation No. 12. (\u0d8a) of the Excise Notification No.05/2023 referred to the 500m distance rule as set out below,",
+    "fonts": [
+      "Calibri Light",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      779.16,
+      508.13,
+      805.8
+    ],
+    "text": "Page 6 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.04,
+      72.73,
+      509.15,
+      215.3
+    ],
+    "text": "12. (\u0d8a) \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dd3\u0dba \u0db4\u0dbb\u0dd2\u0da1 \u0ddd\u0dba\u0dd0\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0da1\u0dd0\u0ddc\u0dc0\u0dd0 \u0db8\u0dca\u0db1\u0db4\u0dd0\u0db1\u0dca \u0dc3\u0dd2\u0dbd\u0dbb\u0dbd\u0dbb\u0da7 \u0dc0\u0dd2\u0d9a\u0dd2\u0dab\u0dd3\u0db8 \u0db4\u0dd2\u0dab\u0dd2\u0dc3 \u0dc0\u0dd0 \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1 \u0dbd\u0dca\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0dd0 \u0da1\u0dc4\u0ddd \u0d92 \u0dc3\u0db3\u0dc4\u0dcf \u0da1\u0dba\u0ddd\u0da2\u0dd2\u0dad \u0dc3\u0dca\u0dae\u0dcf\u0dd0 \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d9a\u0dc5 \u0dba\u0dd4\u0dca\u0db1\u0da1\u0dca\u0db1 \u0d92\u0dc0\u0dcf\u0da1\u0dda \u0d86\u0dc3\u0db1\u0dca\u0dd0\u0dad\u0db8 \u0db8\u0dcf\u0dd2\u0db1\u0da1\u0dda \u0dc3\u0dd2\u0da7 \u0dbb\u0dba\u0da1\u0dda \u0dd2 \u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d9c\u0da0\u0dd2 \u0db4\u0dcf\u0dc3\u0dd0\u0dbd\u0dbb \u0dc3\u0dc4 \u0dbb\u0dba\u0da1\u0dda \u0dd2 \u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d9c\u0da0\u0dd2 \u0db4\u0dca\u0dbb\u0dcf\u0dc3\u0dd2\u0dda\u0dcf \u0db4\u0dd6\u0dba\u0db1\u0dd3\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0dd0\u0dc0\u0dbd \u0d86\u0dc3\u0db1\u0dca\u0dd0\u0dad\u0db8 \u0db8\u0dcf\u0dd2\u0db1\u0db8\u0da7 \u0d87\u0dad\u0dd2 \u0da1\u0d9a\u0dc5\u0dd2\u0db1\u0dca \u0daf\u0dd4\u0dbb \u0db8\u0dd3\u0da7\u0dbb \u0dc3\u0dd2\u0dba\u0dba (100) \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dd0 \u0db4\u0dbb\u0dd2\u0daf\u0dd2 \u0da1\u0dca. \u0dad\u0dc0\u0daf, \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dd3\u0dba \u0db4\u0dbb\u0dd2\u0da1 \u0ddd\u0dba\u0dd0\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dca\u0db1\u0db4\u0dd0\u0db1\u0dca \u0dc3\u0dd2\u0dbd\u0dbb\u0dbd\u0dbb\u0da7 \u0dc0\u0dd2\u0d9a\u0dd2\u0dab\u0dd3\u0db8 \u0db4\u0dd2\u0dab\u0dd2\u0dc3 \u0dc0\u0dd0 \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1 \u0dbd\u0dca\u0db1 \u0dc3\u0dca\u0dae\u0dcf\u0dd0 \u0da1\u0dc4\u0ddd \u0d92 \u0dc3\u0db3\u0dc4\u0dcf \u0da1\u0dba\u0ddd\u0da2\u0dd2\u0dad \u0dc3\u0dca\u0dae\u0dcf\u0dd0 \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0d9a\u0dc5 \u0dba\u0dd4\u0dca\u0db1\u0da1\u0dca\u0db1 \u0d92\u0dc0\u0dcf\u0da1\u0dda \u0d86\u0dc3\u0db1\u0dca\u0dd0\u0dad\u0db8 \u0db8\u0dcf\u0dd2\u0db1\u0da1\u0dda \u0dc3\u0dd2\u0da7 \u0dbb\u0dba\u0da1\u0dda \u0dd2 \u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d9c\u0da0\u0dd2 \u0db4\u0dcf\u0dc3\u0dd0\u0dbd\u0dbb \u0dc3\u0dc4 \u0dbb\u0dba\u0da1\u0dda \u0dd2 \u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d9c\u0da0\u0dd2 \u0db4\u0dcf\u0dc3\u0dd0\u0dbd\u0dbb \u0dc3\u0dc4 \u0dbb\u0dba\u0da1\u0dda \u0dd2 \u0dba\u0dcf\u0db4\u0daf\u0dd2\u0d9c\u0da0\u0dd2 \u0db4\u0dca\u0dbb\u0dcf\u0dc3\u0dd2\u0dda\u0dcf \u0db4\u0dd6\u0dba\u0db1\u0dd3\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0dd0\u0dc0\u0dbd \u0d86\u0dc3\u0db1\u0dca\u0dd0\u0dad\u0db8 \u0db8\u0dcf\u0dd2\u0db1\u0db8\u0da7 \u0d87\u0dad\u0dd2 \u0da1\u0d9a\u0dc5\u0dd2\u0db1\u0dca \u0daf\u0dd4\u0dbb \u0db8\u0dd3\u0da7\u0dbb \u0db4\u0db1\u0dca\u0dc3\u0dd2\u0dba\u0dba (500) \u0d89\u0d9a\u0dca\u0db8\u0dc0\u0dd0 \u0db4\u0dbb\u0dd2\u0daf\u0dd2 \u0da1\u0dca.",
+    "fonts": [
+      "Calibri Light,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      225.71,
+      508.6,
+      321.68
+    ],
+    "text": "However, the circular bearing No.362 (1) dated 27th November 1996 (2R2C/X1) issued by the Commissioner General of Excise is related to the implementation of regulations and conditions in respect of liquor licenses, which excludes the 500m rule in respect of Toddy Taverns. The circular bearing No.362 marked 2R2C/X1 is produced below,",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.04,
+      333.4,
+      508.9,
+      364.01
+    ],
+    "text": "02. \u0db4\u0dd6\u0dba\u0db1\u0dd3\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0dd0 \u0dc3\u0dc4 \u0db4\u0dcf\u0dc3\u0dd0\u0dbd\u0dbb \u0d86\u0daf\u0dd2\u0da1\u0dda \u0dc3\u0dd2\u0da7 \u0daf\u0dd4\u0dbb \u0db8\u0dd3\u0da7\u0dbb\u0dca 500 \u0d9a \u0daf\u0dbb\u0dba \u0dad\u0dd4\u0dd2 \u0db1\u0dca \u0db1\u0dd0\u0dc4\u0dd0\u0dbb\u0dc0 \u0db8\u0dca\u0db1\u0db4\u0dd0\u0db1\u0dca \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1 \u0d9a\u0dca\u0dbb\u0dd2s\u0dba\u0dcf\u0dca\u0db1\u0db8\u0d9a \u0dc0\u0dd0 \u0dc3\u0dca\u0dae\u0dcf\u0dd0 \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dd4\u0dc0\u0dd3\u0db8 \u0db4\u0dd2\u0dd2 \u0db1\u0db3 \u0dbb\u0dd3\u0dad\u0dd2\u0dba :-",
+    "fonts": [
+      "Calibri Light,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.04,
+      375.16,
+      509.18,
+      421.87
+    ],
+    "text": "(\u0daf) \u0daf\u0dd4\u0db8\u0db8\u0dad \u0db1\u0dbd \u0db4\u0dca\u0dbb\u0dcf\u0da1\u0dda\u0dc1\u0dba\u0d9a\u0dca \u0dad\u0dd4\u0dbd \u0db4\u0db8\u0dab\u0d9a\u0dca \u0d9a\u0dca\u0dbb\u0dd2s\u0dba\u0dcf\u0dca\u0db1\u0db8\u0d9a \u0dc0\u0dd3\u0db8\u0da7 \u0daf\u0dc0\u0dc3\u0dbb \u0daf\u0dd2\u0dba\u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0dcf\u0dbb\u0dca\u0dc2\u0dd2\u0d9a\u0dc0 \u0da1\u0da7\u0db1\u0dca\u0da9\u0dbb\u0dca \u0db8\u0d9f\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0d9a\u0dd4\u0dab\u0dd4\u0db8 \u0dbd\u0db1\u0dd0 (\u0dbb\u0db6\u0dd2 05) \u0dc0\u0dd2\u0da1\u0dda\u0dc1 \u0db8\u0dca\u0db1\u0db4\u0dd0\u0db1\u0dca \u0dad\u0dd0\u0db1\u0dd1\u0dd4\u0dda \u0da1\u0dbb\u0dca\u0db1\u0dca\u0daf\u0dc0\u0dbd\u0da7 \u0dc3\u0dc4 \u0dbb\u0dcf \u0dad\u0dd0\u0db1\u0dd1\u0dd4\u0dda \u0da1\u0dbb\u0dca\u0db1\u0dca\u0daf\u0dc0\u0dbd\u0da7 \u0dc4\u0dcf",
+    "fonts": [
+      "Calibri Light,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.04,
+      432.54,
+      509.13,
+      479.23
+    ],
+    "text": "(\u0d86) \u0dc3\u0d9c\u0da0\u0dcf\u0dbb\u0d9a \u0db4\u0dca\u0dbb\u0dcf\u0da1\u0dda\u0dc1 \u0dad\u0dd4\u0dbd (\u0d87) \u0dbd\u0d9c\u0d9a\u0dcf \u0dc3\u0d9c\u0da0\u0dcf\u0dbb\u0d9a \u0db8\u0dab\u0dca\u0da9\u0dbd\u0da1\u0dda \u0dc3\u0dc4 \u0dc3\u0d9c\u0da0\u0dcf\u0dbb\u0d9a \u0daf\u0db8\u0dcf\u0dad \u0dc1\u0da1\u0dda \u0daf\u0dd4\u0db8\u0db8\u0dd0\u0dad\u0dd2\u0dba \u0dbd\u0dca\u0db1 \u0db8\u0dca\u0db1\u0db4\u0dd0\u0db1\u0dca \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1 \u0db1\u0dd2\u0dbb\u0dca\u0da1\u0dda\u0dc1\u0dd2\u0dad \u0da1\u0dc4\u0ddd\u0da7\u0dbd, \u0d86\u0db4\u0dd0\u0dc1\u0dcf\u0dbd\u0dcf (\u0da1\u0dc4\u0ddd\u0dba\u0dd0\u0dc1\u0dcf\u0dbd\u0dcf) \u0d86\u0d9c\u0db1\u0dca\u0dad\u0dd4\u0d9a \u0db1\u0dd2\u0dc0\u0dcf\u0dc3 \u0dc0\u0dbd\u0da7",
+    "fonts": [
+      "Calibri Light,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.04,
+      489.9,
+      509.06,
+      586.66
+    ],
+    "text": "(\u0d87) \u0dc3\u0dd2\u0dd0\u0db8\u0dcf\u0dc1\u0dcf\u0dbd\u0dcf \u0dc0\u0dd2\u0da1\u0dd0\u0ddd\u0daf \u0db4\u0dd2\u0da8\u0dd2\u0d9a\u0dcf \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1\u0dba (\u0dbb\u0db6\u0dd2 09 ) \u0daf\u0dd4\u0dda\u0dbb\u0dd2\u0dba \u0da1 \u0ddd\u0dba\u0dd0\u0dcf\u0d9c\u0dcf\u0dbb \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1 (\u0dbb\u0db6\u0dd2 10) \u0dad\u0dcf\u0dd0\u0dcf\u0dba\u0dda \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1\u0dba (\u0dbb\u0db6\u0dd2 12 ) , \u0dc4\u0dd2\u0dda\u0d9a\u0dcf\u0dbb \u0dc3\u0db8\u0dcf\u0dba\u0dc1\u0dcf\u0dbd\u0dcf \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1\u0dba (\u0dbb\u0db6\u0dd2 13) , \u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dd2\u0db1\u0db1\u0dca\u0da1 \u0dc3\u0db8\u0dcf\u0dba\u0dc1\u0dcf\u0dbd\u0dcf /\u0dc3\u0dcf\u0db8\u0dcf\u0da2\u0dd2\u0d9a\u0dd2\u0db1\u0db1\u0dca\u0da1 \u0d9a\u0dca\u0dbb\u0dd31\u0da9\u0dcf \u0dc3\u0db8\u0dcf\u0dba \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1\u0dba (\u0dbb\u0db6\u0dd2 13 \u0d92 ) \u0dc3\u0dc4 \u0dc0\u0dd2\u0da1\u0dc1\u0dda\u0dc2 \u0db1\u0dbd\u0db4\u0dad\u0dca\u0dbb\u0db1\u0dba (\u0dbb\u0db6\u0dd2 22) \u0dba\u0dd0\u0dcf\u0daf\u0dd2\u0dba\u0da7, \u0dc0\u0db8 \u0da1\u0d9c\u0ddc\u0da9\u0dd0\u0dd0\u0d9c\u0dd2\u0dbd\u0dbb\u0da1\u0dbd\u0dbb\u0db8 \u0dc0 \u0dcf\u0db4\u0dcf\u0dbb\u0dba \u0daf\u0dc0\u0dd4\u0dd4\u0daf\u0dd4 20 \u0d9a\u0da7 \u0dc0\u0dd0\u0da9\u0dd2 \u0d9a\u0dcf\u0dbd\u0db4\u0dbb\u0dd2\u0da0\u0dca\u0da1\u0dda\u0daf\u0dba\u0d9a\u0dca \u0d9a\u0dca\u0dbb\u0dd2s\u0dba\u0dcf\u0dca\u0db1\u0db8\u0d9a \u0dc0\u0dd4\u0da1\u0dda \u0dd0\u0dda \u0dc0\u0d9a\u0dd3 \u0daf\u0dd4\u0dbb \u0dc3\u0dd3\u0db8\u0dcf \u0db4\u0dd2\u0dd2 \u0db1\u0daf \u0dbb\u0dd3\u0dad\u0dd2\u0dba \u0db1\u0dbd \u0da1\u0dd0\u0ddc\u0db4\u0dcf\u0dd4\u0db8 \u0d87\u0dad.",
+    "fonts": [
+      "Calibri Light,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.04,
+      597.81,
+      509.02,
+      645.22
+    ],
+    "text": "\u0dc0\u0dd0\u0db8\u0dd4\u0daf\u0dd4, \u0dc0\u0dc0\u0dd0\u0db1\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0dd0 \u0db4\u0dd4\u0dba\u0dab\u0dd3\u0dba \u0dc3\u0dca\u0dae\u0dcf\u0dd0 \u0da1\u0dc4\u0ddd \u0db4\u0dcf\u0dc3\u0dd0\u0dbd\u0dbb \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dd2\u0da7 \u0da1\u0dc4\u0ddd \u0d89\u0dad\u0dcf \u0dc3\u0db8\u0dd3\u0db4\u0dc0 \u0db1\u0dd0\u0dbd\u0dd4 \u0db1\u0dd0\u0dbd\u0dbb\u0db8\u0da7 \u0dc0\u0d9a\u0dc0\u0dbd\u0dbb\u0da1\u0dbd\u0dbb\u0db8 \u0da1\u0db4\u0da1\u0dd0\u0dd0 \u0d86\u0d9a\u0dcf\u0dbb\u0da1\u0dba\u0db1\u0dca \u0db4\u0dd2\u0dc4\u0dd2\u0da7\u0dcf \u0dad\u0dd2\u0da1\u0dda \u0dd0\u0dda (\u0dc3\u0d9c\u0da0\u0dcf\u0dbb\u0d9a \u0db4\u0dca\u0dbb\u0dcf\u0da1\u0dda\u0dc1 \u0dad\u0dd4\u0dbd \u0dc4\u0dd0\u0dbb),",
+    "fonts": [
+      "Calibri Light,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      125.04,
+      656.37,
+      509.07,
+      686.86
+    ],
+    "text": "\u0d92\u0dc0\u0dcf \u0daf\u0dc0\u0dd4\u0dd4\u0daf\u0dd4 20 \u0da7 \u0dc0\u0da9\u0dcf \u0dc0\u0dd0\u0da9\u0dd2 \u0db4\u0dd0\u0dbb\u0dab\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0dd0 \u0dc0\u0dd4\u0dc0\u0daf, \u0dc0\u0db8 \u0dc3\u0dca\u0dae\u0dcf\u0dd0 \u0daf\u0dc0\u0dc3\u0dca\u0dae\u0dcf\u0dd4\u0db8\u0d9a\u0dd6\u0dbd\u0dc0 \u0daf\u0dd4\u0db8\u0db8\u0dad \u0da1\u0dd0\u0ddc\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dba\u0da7\u0dca\u0db1 \u0dc0\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2\u0dba.",
+    "fonts": [
+      "Calibri Light,Italic",
+      "Iskoola Pota"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      90.02,
+      699.99,
+      508.59,
+      753.63
+    ],
+    "text": "According to the above circular marked 2R2C, the aforesaid maintenance of 500m rule does not apply to the Privilege of selling Toddy by annual tenders unless places of religious worship and schools are situated in",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      779.16,
+      508.13,
+      805.8
+    ],
+    "text": "Page 7 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      74.69,
+      508.61,
+      167.93
+    ],
+    "text": "front of or in extremely close proximity and in the immediate vicinity. In the instant application, the Petitioner failed to satisfy the Court that the premises in issue is situated in such proximity. Further, it is observed that the Petitioner has failed to disclose the above circular marked 2R2C/X1 until the 1st, 2nd, 7th and 8th Respondents revealed the same.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      181.61,
+      508.6,
+      255.08
+    ],
+    "text": "In the Supreme Court case of Namunukula Plantations Limited v. Minister of Lands and Others [2012] 1 Sri LR 365 at 376, Justice Marsoof emphasised that the Court has a duty to deny relief to those who fail to truthfully disclose all material facts.",
+    "fonts": [
+      "Calibri Light",
+      "Calibri Light,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      126.02,
+      268.88,
+      508.46,
+      461.14
+    ],
+    "text": "\u201cIt is settled law that a person who approaches the Court for the grant of discretionary relief, to which category an application for certiorari would undoubtedly belong, has to come with clean hands, and should candidly disclose all the material facts which have any bearing on the adjudication of the issues raised in the case. In other words, he owes a duty of utmost good faith (uberrima fides) to the court to make a full and complete disclosure of all material facts and refrain from concealing or suppressing any material fact within his knowledge or which he could have known by exercising diligence expected of a person of ordinary prudence.\u201d",
+    "fonts": [
+      "Calibri Light,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      474.82,
+      508.64,
+      647.29
+    ],
+    "text": "The Petitioner submits that the Respondents themselves have acted on the basis that the 500m radius rule was applicable. The Petitioner avers that this conduct is demonstrated by the Respondents\u2019 decision to call for certain surveyor plans and reports in the instant application, and therefore the Respondents are estopped from denying that the said rule applies in the instant circumstances. However, there is a dearth of material produced before this Court to decide whether the Respondents have in fact relied on the 500m rule anywhere during the process of granting the tender. Hence, no question of estoppel arises.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.02,
+      661.09,
+      508.57,
+      754.35
+    ],
+    "text": "In any event, the perusal of surveyor plans and reports by the Respondents cannot be regarded purely as an admission of the applicability of the 500m rule in the instant circumstances because there is a reasonable necessity to assess such plans and reports prior to making a determination subject to the conditions laid down under circular 362(1)",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      779.16,
+      508.13,
+      805.8
+    ],
+    "text": "Page 8 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      74.69,
+      511.71,
+      167.93
+    ],
+    "text": "marked 2R2C. I am of the view that, where the law specifies on to the matter, the principle of estoppel should not overrule the specific law. Accordingly, the Petitioner cannot seek relief by attacking the steps taken by the Respondents as the 1st,2nd,7th and 8th Respondents have acted reasonably and within the purview of the law.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      181.61,
+      508.6,
+      255.08
+    ],
+    "text": "Legal position related to this was observed by the Supreme Court, in Visuvalingam and others V Liyanage and others [1983] 1 Sri L.R. 203 at page 250, citing Halsbury\u2019s Laws of England (4th Edn.) Vol. 16 at paragraph 1515 as follows;",
+    "fonts": [
+      "Calibri Light",
+      "Calibri Light,Italic"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      126.02,
+      268.88,
+      508.6,
+      461.14
+    ],
+    "text": "\u201c1515. Estoppel against Statute. The doctrine of estoppel cannot be invoked to render valid a transaction which the legislature has, on grounds of general public policy, enacted is to be invalid, or to give the court a jurisdiction which is denied to it by statute, or to oust the court\u2019s statutory jurisdiction under an enactment which precludes the parties contracting out of its provisions. Where a statute, enacted for the benefit of a section of the public, imposes a duty of a positive Kind, the person charged with the performance of the duty cannot by estoppel be prevented from exercising his statutory powers\u2026\u2026\u201d",
+    "fonts": [
+      "Calibri Light",
+      "Calibri Light,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      474.82,
+      508.59,
+      607.69
+    ],
+    "text": "Moreover, even though the Petitioner seeks Writ of Certiorari to quash the decision to grant the impugned decision of the 1st, 2nd, 7th and 8th Respondents, the Petitioner has failed to place such a decision before this Court or disclose the date of such a decision. Therefore, there is no tangible decision produced before this Court by the Petitioner. I am mindful of the fact that this Court cannot quash a decision which is not placed before it.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.02,
+      621.49,
+      508.54,
+      714.75
+    ],
+    "text": "Further, it is on the common ground that the bids related to the impugned tender were opened by the 1st Respondent in the presence of the Petitioner\u2019s representative on 23rd of August 2024. The Petitioner instituted the instant application after 5 months from such date. Nevertheless, the delay remains unjustified by the Petitioner.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      9.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      779.16,
+      508.13,
+      805.8
+    ],
+    "text": "Page 9 of 9",
+    "fonts": [
+      "Calibri",
+      "Calibri,Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      74.69,
+      508.5,
+      128.33
+    ],
+    "text": "In the case of Mendis v Land Reform Commission and others SC Appeal No 90/2009; (SC Mts 12.02.2006), the Supreme Court commented on the discretionary nature of the writ jurisdictions as follows:",
+    "fonts": [
+      "Calibri Light",
+      "Calibri Light,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      126.02,
+      142.13,
+      508.62,
+      373.88
+    ],
+    "text": "\u201cEven if such grounds to issue a Writ of Certiorari and Mandamus could be established, the court has also to consider whether the Petitioners- Petitioners are disentitled to the relief prayed for, even if the grounds of issuing a writ are satisfied, due to the discretionary nature of the remedy. It is common ground that courts are reluctant and had on numerous occasions refused to issue prerogative writs if it could be established and Petitioners are guilty of/and or disentitled to the remedy, based on (a) Laches / undue delay (b) Willful suppression/ misrepresentation of material facts (c) Acquiescence (d) Grave public/ administrative inconvenience (e) Futility (f) Availability of alternative remedy (g) Locus standi.\u201d",
+    "fonts": [
+      "Calibri Light,Italic"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      415.42,
+      508.53,
+      488.86
+    ],
+    "text": "In the above circumstances and the reasons given, I hold that the Petitioner is not entitled to any of the reliefs prayed for in the prayer of the Petition. Accordingly, I proceed to dismiss the application of the Petitioner subjected to cost.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      502.66,
+      232.78,
+      516.7
+    ],
+    "text": "Application is dismissed.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      590.05,
+      490.35,
+      604.09
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      649.69,
+      223.18,
+      663.73
+    ],
+    "text": "Adithya Patabendige. J.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      681.37,
+      155.83,
+      695.41
+    ],
+    "text": "I agree.",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.02,
+      713.19,
+      502.71,
+      727.23
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "Calibri Light"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  }
+]

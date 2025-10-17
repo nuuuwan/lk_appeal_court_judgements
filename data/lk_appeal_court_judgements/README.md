@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_15:51:42-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--17_16:20:56-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,170** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-17**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,172** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-17**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -48,6 +48,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-16 | `CA HCC 282/2024` | Herath Mudiyanselage Priyantha Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC-282-2024)
 - 2025-10-16 | `CA/HCC/272/2023` | Singaru Sathyaseelan Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC-272-2023)
 - 2025-10-16 | `CA/HCC/ 0047-48/2022` | Thommiya Hakuruge Regi Marvin and Thommiya Hakuruge Neel Thushara Jayalath Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC--0047-48-2022)
+- 2025-10-16 | `CA /Writ/ 36/25` | T. G. Kularatne Vs. W. S. Senathissa and others before Hon Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA--Writ--36-25)
+- 2025-10-16 | `C.A./Writ/150/2021` | Chandrasekera Mahinda Nimal Bogollagama Vs. Hon. S. M. Chandrasena Minister of Lands and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-C-A--Writ-150-2021)
 - 2025-10-15 | `CA/RII/56/2023` | Mahatheva Muralitharan Vs. Anthony Upali de Silva before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-15-CA-RII-56-2023)
 - 2025-10-15 | `CA Bail 0061/25` | Weeraperuma Athukoralage Dilhani Chethana Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-15-CA-Bail-0061-25)
 - 2025-10-14 | `CA/Writ/127/2024` | H. J. A. W. International (Pvt) Ltd and Two Others Vs. Hon. Nalaka Jude Harin Fernando of the Ministry of Tourism and Lands and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-14-CA-Writ-127-2024)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-09 | `CA/WRT/299/24` | R H Steel Building Systems (Private) Limited and two others Vs. DFCC Bank PLC and another before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-WRT-299-24)
 - 2025-10-09 | `CA-WRT-0457-20` | B.H.M. Kapilaratne Vs. The University of Peradeniya and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-WRT-0457-20)
 - 2025-10-09 | `CA/RII /0009/2024` | Kavishka Dilshan Wijesinghe Vs D.M. Jayawardhana before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-RII--0009-2024)
-- 2025-10-09 | `CA-PHC-43-2021` | S.A. Waheed and Others Vs R.A.I. Chamara and Others before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-PHC-43-2021)
-- 2025-10-08 | `CA/HCC/52/2024` | Madduralalage Nimal Ananda alias Sudha Mama Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-08-CA-HCC-52-2024)
 
 ---
 
