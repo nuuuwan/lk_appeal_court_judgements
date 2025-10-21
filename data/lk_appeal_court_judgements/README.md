@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_13:20:43-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--21_13:53:59-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,172** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-17**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,173** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-17**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ## 🆕 20 Latest documents
 
 - 2025-10-17 | `CA/HCC/ 0101/2024` | Wijeweera Patabendige Ananda Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-17-CA-HCC--0101-2024)
+- 2025-10-16 | `CA-PHC-263-2019` | Camco Enterprises (Private) Limited Vs. Anandaram Thevasanathipathy and Others before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-PHC-263-2019)
 - 2025-10-16 | `CA HCC 282/2024` | Herath Mudiyanselage Priyantha Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC-282-2024)
 - 2025-10-16 | `CA/HCC/272/2023` | Singaru Sathyaseelan Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC-272-2023)
 - 2025-10-16 | `CA/HCC/ 0047-48/2022` | Thommiya Hakuruge Regi Marvin and Thommiya Hakuruge Neel Thushara Jayalath Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC--0047-48-2022)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-09 | `CA/WRT/735/2025` | Sanjaya Thavanesan Vs Harin Fernando, Minister of Tourism and Land and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-WRT-735-2025)
 - 2025-10-09 | `CA/WRT/299/24` | R H Steel Building Systems (Private) Limited and two others Vs. DFCC Bank PLC and another before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-WRT-299-24)
 - 2025-10-09 | `CA-WRT-0457-20` | B.H.M. Kapilaratne Vs. The University of Peradeniya and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-WRT-0457-20)
-- 2025-10-09 | `CA/RII /0009/2024` | Kavishka Dilshan Wijesinghe Vs D.M. Jayawardhana before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-RII--0009-2024)
 
 ---
 
