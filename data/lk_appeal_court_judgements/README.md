@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_11:53:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--23_12:24:28-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,174** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-21**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,179** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-23**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-21-CA-PHC-169-2023",
-    "num": "CA PHC 169/2023",
-    "date_str": "2025-10-21",
-    "description": "Arpico Finance Pvt Limited Vs Abeydora Arachchilage Chandani and others before Hon. Amal Ranaraja, J.",
+    "doc_id": "2025-10-23-CA-HCC--0036-2023",
+    "num": "CA/HCC/ 0036/2023",
+    "date_str": "2025-10-23",
+    "description": "Nagendran Thevan Wijeyananda alias Nagendran Deva Wijeya Nanda Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4247d1f5-473c-41e8-b9d3-a17eb69a2680&filename=PHC%20169-23.pdf.pdf",
-    "parties": "Arpico Finance Pvt Limited Vs Abeydora Arachchilage Chandani and others",
-    "judgement_by": "Hon. Amal Ranaraja, J.",
-    "keywords": "Possession of a vehicle in issue in the interim on a bond \u2013 Growing concern regarding the increasing number of frivolous applications \u2013 Safeguarding the judiciary from being bogged down by unsubstantial claims",
-    "legistation": ""
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=08ca99eb-8524-4351-b725-383b16c6d4f3&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0036.23.pdf.pdf",
+    "parties": "Nagendran Thevan Wijeyananda alias Nagendran Deva Wijeya Nanda Vs The Hon. Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Contradictions. \u2022 Fair Trail. \u2022 Defence Evidence. \u2022 Corroboration.",
+    "legistation": "The Penal Code."
 }
 ```
 
@@ -44,13 +44,18 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-10-23 | `CA/HCC/ 0036/2023` | Nagendran Thevan Wijeyananda alias Nagendran Deva Wijeya Nanda Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-23-CA-HCC--0036-2023)
+- 2025-10-22 | `CA/WRT/0052/24` | M.D. Themiadasa Vs Saman Jayasinghe, Commissioner General of Excise and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-22-CA-WRT-0052-24)
 - 2025-10-21 | `CA PHC 169/2023` | Arpico Finance Pvt Limited Vs Abeydora Arachchilage Chandani and others before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-21-CA-PHC-169-2023)
+- 2025-10-21 | `CA/ WRT/0905/25` | Gigiriwala Gamage Dinosh Jelon Vs Rev. Brother Janaka Fonseka, Principal, De Mazenod College and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-21-CA--WRT-0905-25)
+- 2025-10-21 | `CA/ WRT/0904/25` | Welgamage Don Shevan Menusha Welgama Vs Rev. Brother Janaka Fonseka, Principal, De Mazenod College and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-21-CA--WRT-0904-25)
 - 2025-10-17 | `CA/HCC/ 0101/2024` | Wijeweera Patabendige Ananda Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-17-CA-HCC--0101-2024)
 - 2025-10-16 | `CA-PHC-263-2019` | Camco Enterprises (Private) Limited Vs. Anandaram Thevasanathipathy and Others before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-PHC-263-2019)
 - 2025-10-16 | `CA HCC 282/2024` | Herath Mudiyanselage Priyantha Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC-282-2024)
 - 2025-10-16 | `CA/HCC/272/2023` | Singaru Sathyaseelan Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC-272-2023)
 - 2025-10-16 | `CA/HCC/ 0047-48/2022` | Thommiya Hakuruge Regi Marvin and Thommiya Hakuruge Neel Thushara Jayalath Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC--0047-48-2022)
 - 2025-10-16 | `CA /Writ/ 36/25` | T. G. Kularatne Vs. W. S. Senathissa and others before Hon Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA--Writ--36-25)
+- 2025-10-16 | `CA/ WRT/0415/21` | Petitioners: Sri Lanka Tea Factory Owners Association Vs Sri Lanka Tea Board and others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA--WRT-0415-21)
 - 2025-10-16 | `C.A./Writ/150/2021` | Chandrasekera Mahinda Nimal Bogollagama Vs. Hon. S. M. Chandrasena Minister of Lands and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-C-A--Writ-150-2021)
 - 2025-10-15 | `CA/RII/56/2023` | Mahatheva Muralitharan Vs. Anthony Upali de Silva before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-15-CA-RII-56-2023)
 - 2025-10-15 | `CA Bail 0061/25` | Weeraperuma Athukoralage Dilhani Chethana Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-15-CA-Bail-0061-25)
@@ -59,11 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-13 | `CA/WRT/0529/2021` | Subramaniyam Garan Vs. M. A. B. Daya Senarath, Secretary, Public Service Commission before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-WRT-0529-2021)
 - 2025-10-13 | `CA PHC 76/2021` | Aththanagala Ralalage Samantha Priyadarshana, Vs Officer-in-Charge, Police Station, Medirigiriya. and other before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-PHC-76-2021)
 - 2025-10-13 | `CA/HCC/0007/22` | Rathnayake Mudiyanselage Mahinda Rathnayake Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-HCC-0007-22)
-- 2025-10-10 | `CA HCC 140/2019` | Kammalgoda Mudalige Priyantha Hewasinghe Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-10-CA-HCC-140-2019)
-- 2025-10-10 | `CA/HCC/ 0277/2023` | Kandiah Thiyagarasa Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-10-CA-HCC--0277-2023)
-- 2025-10-09 | `RII/0033/2023` | Sureka Aroshani Weerasuriya Vs Commercial Bank of Ceylon PLC before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-RII-0033-2023)
-- 2025-10-09 | `CA/WRT/735/2025` | Sanjaya Thavanesan Vs Harin Fernando, Minister of Tourism and Land and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-WRT-735-2025)
-- 2025-10-09 | `CA/WRT/299/24` | R H Steel Building Systems (Private) Limited and two others Vs. DFCC Bank PLC and another before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-09-CA-WRT-299-24)
 
 ---
 
