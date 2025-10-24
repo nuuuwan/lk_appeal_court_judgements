@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_09:42:49-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_10:19:04-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,179** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-23**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,180** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-23**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 - 2025-10-23 | `CA/HCC/ 0036/2023` | Nagendran Thevan Wijeyananda alias Nagendran Deva Wijeya Nanda Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-23-CA-HCC--0036-2023)
 - 2025-10-22 | `CA/WRT/0052/24` | M.D. Themiadasa Vs Saman Jayasinghe, Commissioner General of Excise and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-22-CA-WRT-0052-24)
+- 2025-10-22 | `CA HCC 222-223/2023` | Rajapaksha Mudiyanselage Pushpakumara and others Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-22-CA-HCC-222-223-2023)
 - 2025-10-21 | `CA PHC 169/2023` | Arpico Finance Pvt Limited Vs Abeydora Arachchilage Chandani and others before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-21-CA-PHC-169-2023)
 - 2025-10-21 | `CA/ WRT/0905/25` | Gigiriwala Gamage Dinosh Jelon Vs Rev. Brother Janaka Fonseka, Principal, De Mazenod College and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-21-CA--WRT-0905-25)
 - 2025-10-21 | `CA/ WRT/0904/25` | Welgamage Don Shevan Menusha Welgama Vs Rev. Brother Janaka Fonseka, Principal, De Mazenod College and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-21-CA--WRT-0904-25)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-14 | `CA/HCC/84/19` | Ranpatipathirage Prasanga Lakmal Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-14-CA-HCC-84-19)
 - 2025-10-13 | `CA/WRT/0529/2021` | Subramaniyam Garan Vs. M. A. B. Daya Senarath, Secretary, Public Service Commission before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-WRT-0529-2021)
 - 2025-10-13 | `CA PHC 76/2021` | Aththanagala Ralalage Samantha Priyadarshana, Vs Officer-in-Charge, Police Station, Medirigiriya. and other before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-PHC-76-2021)
-- 2025-10-13 | `CA/HCC/0007/22` | Rathnayake Mudiyanselage Mahinda Rathnayake Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-HCC-0007-22)
 
 ---
 
