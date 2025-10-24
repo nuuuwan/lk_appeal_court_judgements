@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_13:20:39-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_13:47:50-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,181** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-23**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,184** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-24**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-23-CA-HCC--0036-2023",
-    "num": "CA/HCC/ 0036/2023",
-    "date_str": "2025-10-23",
-    "description": "Nagendran Thevan Wijeyananda alias Nagendran Deva Wijeya Nanda Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
+    "doc_id": "2025-10-24-CA-PHC-0155-2019",
+    "num": "CA/PHC/0155/2019",
+    "date_str": "2025-10-24",
+    "description": "Polpitige Mary Nelka Perera Vs. Asoka Saman Kumara Jayalath before Hon. K. M. S. DISSANAYAKE, J",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=08ca99eb-8524-4351-b725-383b16c6d4f3&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0036.23.pdf.pdf",
-    "parties": "Nagendran Thevan Wijeyananda alias Nagendran Deva Wijeya Nanda Vs The Hon. Attorney General",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Contradictions. \u2022 Fair Trail. \u2022 Defence Evidence. \u2022 Corroboration.",
-    "legistation": "The Penal Code."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f613ba11-acc9-460d-a07c-44691ddb69dc&filename=PHC-155-19%20DECIDED%2024.10.2025.pdf.pdf",
+    "parties": "Polpitige Mary Nelka Perera Vs. Asoka Saman Kumara Jayalath",
+    "judgement_by": "Hon. K. M. S. DISSANAYAKE, J",
+    "keywords": "Appeal under Article 138 of the Constitution from an Order of a Provincial High Court in the exercise of revisionary jurisdiction vested in it by Article 154P(3)(b) to be read with Article 138 of the Constitution-Will revision lie from an order of a Magistrate made under section 10 of the State Land (Recovery of Possession) Act No. 7 of 1979 (as amended)-application of section 5 of the High Court of the Provinces (Special Provisions) Act No. 19 of 1990- Circumstances under which revision will lie.",
+    "legistation": "Article 138 and 154P(3)(b) of Constitution of the Democratic Socialist Republic of Sri Lanka-section 10 of the State Land (Recovery of Possession) Act No. 7 of 1979 (as amended)-section 5 of the High Court of the Provinces (Special Provisions) Act No. 19 of 1990."
 }
 ```
 
@@ -44,6 +44,9 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-10-24 | `CA/PHC/0155/2019` | Polpitige Mary Nelka Perera Vs. Asoka Saman Kumara Jayalath before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA-PHC-0155-2019)
+- 2025-10-24 | `CA/PHC/0033/2019` | Central Province Vehicle Dealing Cooperative Society Limited and Others 3 Vs. Assistant Commissioner of Corporative Development & 1 Other before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA-PHC-0033-2019)
+- 2025-10-24 | `CA (HCC)0043/2024` | Kasankatha Rajanadan Vs Hon. Attorney General before Hon. .P. Hettiarachchi,J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA--HCC-0043-2024)
 - 2025-10-23 | `CA/HCC/ 0036/2023` | Nagendran Thevan Wijeyananda alias Nagendran Deva Wijeya Nanda Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-23-CA-HCC--0036-2023)
 - 2025-10-22 | `CA/WRT/0052/24` | M.D. Themiadasa Vs Saman Jayasinghe, Commissioner General of Excise and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-22-CA-WRT-0052-24)
 - 2025-10-22 | `CA HCC 222-223/2023` | Rajapaksha Mudiyanselage Pushpakumara and others Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-22-CA-HCC-222-223-2023)
@@ -61,9 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-16 | `C.A./Writ/150/2021` | Chandrasekera Mahinda Nimal Bogollagama Vs. Hon. S. M. Chandrasena Minister of Lands and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-C-A--Writ-150-2021)
 - 2025-10-15 | `CA/RII/56/2023` | Mahatheva Muralitharan Vs. Anthony Upali de Silva before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-15-CA-RII-56-2023)
 - 2025-10-15 | `CA Bail 0061/25` | Weeraperuma Athukoralage Dilhani Chethana Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-15-CA-Bail-0061-25)
-- 2025-10-14 | `CA/Writ/127/2024` | H. J. A. W. International (Pvt) Ltd and Two Others Vs. Hon. Nalaka Jude Harin Fernando of the Ministry of Tourism and Lands and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-14-CA-Writ-127-2024)
-- 2025-10-14 | `CA/HCC/84/19` | Ranpatipathirage Prasanga Lakmal Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-14-CA-HCC-84-19)
-- 2025-10-13 | `CA/WRT/0529/2021` | Subramaniyam Garan Vs. M. A. B. Daya Senarath, Secretary, Public Service Commission before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-13-CA-WRT-0529-2021)
 
 ---
 
