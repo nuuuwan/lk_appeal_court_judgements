@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_13:47:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--24_14:25:37-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,184** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-24**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,185** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-24**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -48,6 +48,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-24 | `CA/PHC/0033/2019` | Central Province Vehicle Dealing Cooperative Society Limited and Others 3 Vs. Assistant Commissioner of Corporative Development & 1 Other before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA-PHC-0033-2019)
 - 2025-10-24 | `CA (HCC)0043/2024` | Kasankatha Rajanadan Vs Hon. Attorney General before Hon. .P. Hettiarachchi,J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA--HCC-0043-2024)
 - 2025-10-23 | `CA/HCC/ 0036/2023` | Nagendran Thevan Wijeyananda alias Nagendran Deva Wijeya Nanda Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-23-CA-HCC--0036-2023)
+- 2025-10-23 | `CA (Tax) No.56/2023,CA (Tax) No. 90/2023,CA (Tax) No.91/2023,CA (Tax) No. 97/2023` | Bank of Ceylon Bank of Ceylon Square Vs The Commissioner General of Inland Revenue before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-23-CA--Tax--No-56-2023-CA--7f5bdab0)
 - 2025-10-22 | `CA/WRT/0052/24` | M.D. Themiadasa Vs Saman Jayasinghe, Commissioner General of Excise and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-22-CA-WRT-0052-24)
 - 2025-10-22 | `CA HCC 222-223/2023` | Rajapaksha Mudiyanselage Pushpakumara and others Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-22-CA-HCC-222-223-2023)
 - 2025-10-21 | `CA PHC 169/2023` | Arpico Finance Pvt Limited Vs Abeydora Arachchilage Chandani and others before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-21-CA-PHC-169-2023)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-16 | `CA/ WRT/0415/21` | Petitioners: Sri Lanka Tea Factory Owners Association Vs Sri Lanka Tea Board and others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA--WRT-0415-21)
 - 2025-10-16 | `C.A./Writ/150/2021` | Chandrasekera Mahinda Nimal Bogollagama Vs. Hon. S. M. Chandrasena Minister of Lands and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-C-A--Writ-150-2021)
 - 2025-10-15 | `CA/RII/56/2023` | Mahatheva Muralitharan Vs. Anthony Upali de Silva before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-15-CA-RII-56-2023)
-- 2025-10-15 | `CA Bail 0061/25` | Weeraperuma Athukoralage Dilhani Chethana Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-15-CA-Bail-0061-25)
 
 ---
 
