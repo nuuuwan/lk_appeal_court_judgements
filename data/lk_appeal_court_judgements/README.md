@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--27_13:48:57-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--27_14:26:41-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,187** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-27**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,188** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-27**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -48,6 +48,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-24 | `CA/PHC/0155/2019` | Polpitige Mary Nelka Perera Vs. Asoka Saman Kumara Jayalath before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA-PHC-0155-2019)
 - 2025-10-24 | `CA/PHC/0033/2019` | Central Province Vehicle Dealing Cooperative Society Limited and Others 3 Vs. Assistant Commissioner of Corporative Development & 1 Other before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA-PHC-0033-2019)
 - 2025-10-24 | `CA/HCC/486/2017` | Democratic Socialist Republic of Sri Lanka Vs. Bulathwaththage Dharmasena before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA-HCC-486-2017)
+- 2025-10-24 | `CA (HCC)0307/2016` | Ponna Hannadige Daminda Buwaneka Samarasinghe Vs. Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA--HCC-0307-2016)
 - 2025-10-24 | `CA (HCC)0043/2024` | Kasankatha Rajanadan Vs Hon. Attorney General before Hon. .P. Hettiarachchi,J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA--HCC-0043-2024)
 - 2025-10-23 | `CA/HCC/ 0036/2023` | Nagendran Thevan Wijeyananda alias Nagendran Deva Wijeya Nanda Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-23-CA-HCC--0036-2023)
 - 2025-10-23 | `CA (Tax) No.56/2023,CA (Tax) No. 90/2023,CA (Tax) No.91/2023,CA (Tax) No. 97/2023` | Bank of Ceylon Bank of Ceylon Square Vs The Commissioner General of Inland Revenue before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-23-CA--Tax--No-56-2023-CA--7f5bdab0)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-16 | `CA/HCC/272/2023` | Singaru Sathyaseelan Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC-272-2023)
 - 2025-10-16 | `CA/HCC/ 0047-48/2022` | Thommiya Hakuruge Regi Marvin and Thommiya Hakuruge Neel Thushara Jayalath Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC--0047-48-2022)
 - 2025-10-16 | `CA /Writ/ 36/25` | T. G. Kularatne Vs. W. S. Senathissa and others before Hon Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA--Writ--36-25)
-- 2025-10-16 | `CA/ WRT/0415/21` | Petitioners: Sri Lanka Tea Factory Owners Association Vs Sri Lanka Tea Board and others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA--WRT-0415-21)
 
 ---
 
