@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--27_14:26:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--27_14:49:21-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,188** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-27**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,189** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-27**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ## 🆕 20 Latest documents
 
 - 2025-10-27 | `CA HCC 28/2024` | Chandana Prasanna Suwadarathna Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-27-CA-HCC-28-2024)
+- 2025-10-24 | `CA/WRT/0293/20` | M. I. M. Safiyulla. Vs. Divisional Secretary, Ridigama. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA-WRT-0293-20)
 - 2025-10-24 | `CA/PHC/0155/2019` | Polpitige Mary Nelka Perera Vs. Asoka Saman Kumara Jayalath before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA-PHC-0155-2019)
 - 2025-10-24 | `CA/PHC/0033/2019` | Central Province Vehicle Dealing Cooperative Society Limited and Others 3 Vs. Assistant Commissioner of Corporative Development & 1 Other before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA-PHC-0033-2019)
 - 2025-10-24 | `CA/HCC/486/2017` | Democratic Socialist Republic of Sri Lanka Vs. Bulathwaththage Dharmasena before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA-HCC-486-2017)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-16 | `CA HCC 282/2024` | Herath Mudiyanselage Priyantha Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC-282-2024)
 - 2025-10-16 | `CA/HCC/272/2023` | Singaru Sathyaseelan Vs Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC-272-2023)
 - 2025-10-16 | `CA/HCC/ 0047-48/2022` | Thommiya Hakuruge Regi Marvin and Thommiya Hakuruge Neel Thushara Jayalath Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA-HCC--0047-48-2022)
-- 2025-10-16 | `CA /Writ/ 36/25` | T. G. Kularatne Vs. W. S. Senathissa and others before Hon Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-16-CA--Writ--36-25)
 
 ---
 
