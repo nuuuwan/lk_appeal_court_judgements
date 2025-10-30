@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_12:25:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_12:41:56-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,197** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-30**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,198** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-30**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-30 | `CA HCC 202/2023` | Herath Mudiyanselage Sujith Tharangaalias Ranga Vs. The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-30-CA-HCC-202-2023)
 - 2025-10-29 | `CARII/0077/2024` | AthapattuMudiyanselagePriyadarshani Nishanthi Athapattu vs Balasuriya Arachchige Mahinda KarunaratnaPerera before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-29-CARII-0077-2024)
 - 2025-10-29 | `CA/WRT/586/2007` | Chithra Weerakkoon & other Vs. Hon. Jeewan Kumarathunga Minister of Lands before Hon.Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-29-CA-WRT-586-2007)
+- 2025-10-29 | `CA/CPA/70/2022` | The Attorney General Vs. Jayalath Pedige Suranga Nalin Dilruksha before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-29-CA-CPA-70-2022)
 - 2025-10-28 | `CA/HCC/51-52/19` | Director General, Commission to investigate Allegations of Bribery or Corruption Vs. Kahangama Mahanamage Haritha Sunil Kumara before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-28-CA-HCC-51-52-19)
 - 2025-10-28 | `CA HCC 358/2017` | M. M. ChavindaRavindra Vs. The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-28-CA-HCC-358-2017)
 - 2025-10-27 | `CA/WRT/0801/24` | Epic Lanka (Private) Limited and another Vs. Hon. Bimal Rathnayake, Minister of Transport, Highways, Ports and Civil Aviation and 65 others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-27-CA-WRT-0801-24)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-23 | `CA (Tax) No.56/2023,CA (Tax) No. 90/2023,CA (Tax) No.91/2023,CA (Tax) No. 97/2023` | Bank of Ceylon Bank of Ceylon Square Vs The Commissioner General of Inland Revenue before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-23-CA--Tax--No-56-2023-CA--7f5bdab0)
 - 2025-10-22 | `CA/WRT/0052/24` | M.D. Themiadasa Vs Saman Jayasinghe, Commissioner General of Excise and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-22-CA-WRT-0052-24)
 - 2025-10-22 | `CA HCC 222-223/2023` | Rajapaksha Mudiyanselage Pushpakumara and others Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-22-CA-HCC-222-223-2023)
-- 2025-10-21 | `CA PHC 169/2023` | Arpico Finance Pvt Limited Vs Abeydora Arachchilage Chandani and others before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-21-CA-PHC-169-2023)
 
 ---
 
