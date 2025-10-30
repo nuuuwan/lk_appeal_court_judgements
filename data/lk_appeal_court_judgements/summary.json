@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-10-30 10:51:29",
-  "n_docs": 10195,
-  "n_docs_with_pdfs": 10195,
-  "n_docs_with_text": 10195,
+  "time_updated": "2025-10-30 11:13:35",
+  "n_docs": 10197,
+  "n_docs_with_pdfs": 10197,
+  "n_docs_with_text": 10197,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-10-29",
-  "dataset_size": 10387017313,
+  "date_str_max": "2025-10-30",
+  "dataset_size": 10388055629,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-29-CARII-0077-2024",
-    "num": "CARII/0077/2024",
-    "date_str": "2025-10-29",
-    "description": "AthapattuMudiyanselagePriyadarshani Nishanthi Athapattu vs Balasuriya Arachchige Mahinda KarunaratnaPerera before Hon. R. Gurusinghe, J.",
+    "doc_id": "2025-10-30-CA-HCC-202-2023",
+    "num": "CA HCC 202/2023",
+    "date_str": "2025-10-30",
+    "description": "Herath Mudiyanselage Sujith Tharangaalias Ranga Vs. The Hon. Attorney General, before Hon. Amal Ranaraja, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a576b86a-685a-448d-9996-36a51f7e97a9&filename=RII%200077-24%20-%20PDF.pdf.pdf",
-    "parties": "AthapattuMudiyanselagePriyadarshani Nishanthi Athapattu vs Balasuriya Arachchige Mahinda KarunaratnaPerera",
-    "judgement_by": "Hon. R. Gurusinghe, J.",
-    "keywords": "Jurisdiction of the Court of Appeal to review the judgments or orders of the Provincial High Court",
-    "legistation": "Article 138 and Article 154P of the Constitution High Court of the Provinces (Special Provinces) Act No. 19 of 1990"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=675eeb67-a6da-4376-b73f-dfbd73f7c599&filename=CA%20HCC%20202-23.pdf.pdf",
+    "parties": "Herath Mudiyanselage Sujith Tharangaalias Ranga Vs. The Hon. Attorney General,",
+    "judgement_by": "Hon. Amal Ranaraja, J.",
+    "keywords": "Paramount importance of the victim\u2019s testimony in alleged sexual abuse cases \u2013 Additional witness testimony will serve primarily to support and reinforce the material facts stated by the victim \u2013 Suspicious circumstances fall short of the burden of proof of the prosecution \u2013 Reliance on police information book extracts by a trial court",
+    "legistation": "Section 354 and 365B(2)(b) of the Penal Code (as amended)"
   }
 }

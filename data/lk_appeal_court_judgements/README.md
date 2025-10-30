@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_10:51:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--30_11:13:41-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,195** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-29**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,197** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-30**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-29-CARII-0077-2024",
-    "num": "CARII/0077/2024",
-    "date_str": "2025-10-29",
-    "description": "AthapattuMudiyanselagePriyadarshani Nishanthi Athapattu vs Balasuriya Arachchige Mahinda KarunaratnaPerera before Hon. R. Gurusinghe, J.",
+    "doc_id": "2025-10-30-CA-HCC-202-2023",
+    "num": "CA HCC 202/2023",
+    "date_str": "2025-10-30",
+    "description": "Herath Mudiyanselage Sujith Tharangaalias Ranga Vs. The Hon. Attorney General, before Hon. Amal Ranaraja, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a576b86a-685a-448d-9996-36a51f7e97a9&filename=RII%200077-24%20-%20PDF.pdf.pdf",
-    "parties": "AthapattuMudiyanselagePriyadarshani Nishanthi Athapattu vs Balasuriya Arachchige Mahinda KarunaratnaPerera",
-    "judgement_by": "Hon. R. Gurusinghe, J.",
-    "keywords": "Jurisdiction of the Court of Appeal to review the judgments or orders of the Provincial High Court",
-    "legistation": "Article 138 and Article 154P of the Constitution High Court of the Provinces (Special Provinces) Act No. 19 of 1990"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=675eeb67-a6da-4376-b73f-dfbd73f7c599&filename=CA%20HCC%20202-23.pdf.pdf",
+    "parties": "Herath Mudiyanselage Sujith Tharangaalias Ranga Vs. The Hon. Attorney General,",
+    "judgement_by": "Hon. Amal Ranaraja, J.",
+    "keywords": "Paramount importance of the victim\u2019s testimony in alleged sexual abuse cases \u2013 Additional witness testimony will serve primarily to support and reinforce the material facts stated by the victim \u2013 Suspicious circumstances fall short of the burden of proof of the prosecution \u2013 Reliance on police information book extracts by a trial court",
+    "legistation": "Section 354 and 365B(2)(b) of the Penal Code (as amended)"
 }
 ```
 
@@ -44,7 +44,9 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-10-30 | `CA HCC 202/2023` | Herath Mudiyanselage Sujith Tharangaalias Ranga Vs. The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-30-CA-HCC-202-2023)
 - 2025-10-29 | `CARII/0077/2024` | AthapattuMudiyanselagePriyadarshani Nishanthi Athapattu vs Balasuriya Arachchige Mahinda KarunaratnaPerera before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-29-CARII-0077-2024)
+- 2025-10-29 | `CA/WRT/586/2007` | Chithra Weerakkoon & other Vs. Hon. Jeewan Kumarathunga Minister of Lands before Hon.Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-29-CA-WRT-586-2007)
 - 2025-10-28 | `CA/HCC/51-52/19` | Director General, Commission to investigate Allegations of Bribery or Corruption Vs. Kahangama Mahanamage Haritha Sunil Kumara before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-28-CA-HCC-51-52-19)
 - 2025-10-28 | `CA HCC 358/2017` | M. M. ChavindaRavindra Vs. The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-28-CA-HCC-358-2017)
 - 2025-10-27 | `CA/WRT/0801/24` | Epic Lanka (Private) Limited and another Vs. Hon. Bimal Rathnayake, Minister of Transport, Highways, Ports and Civil Aviation and 65 others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-27-CA-WRT-0801-24)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-22 | `CA/WRT/0052/24` | M.D. Themiadasa Vs Saman Jayasinghe, Commissioner General of Excise and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-22-CA-WRT-0052-24)
 - 2025-10-22 | `CA HCC 222-223/2023` | Rajapaksha Mudiyanselage Pushpakumara and others Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-22-CA-HCC-222-223-2023)
 - 2025-10-21 | `CA PHC 169/2023` | Arpico Finance Pvt Limited Vs Abeydora Arachchilage Chandani and others before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-21-CA-PHC-169-2023)
-- 2025-10-21 | `CA/ WRT/0905/25` | Gigiriwala Gamage Dinosh Jelon Vs Rev. Brother Janaka Fonseka, Principal, De Mazenod College and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-21-CA--WRT-0905-25)
-- 2025-10-21 | `CA/ WRT/0904/25` | Welgamage Don Shevan Menusha Welgama Vs Rev. Brother Janaka Fonseka, Principal, De Mazenod College and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-21-CA--WRT-0904-25)
 
 ---
 
