@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-10-31 12:42:05",
-  "n_docs": 10201,
-  "n_docs_with_pdfs": 10201,
-  "n_docs_with_text": 10201,
+  "time_updated": "2025-10-31 13:19:46",
+  "n_docs": 10204,
+  "n_docs_with_pdfs": 10204,
+  "n_docs_with_text": 10204,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-10-30",
-  "dataset_size": 10390160955,
+  "date_str_max": "2025-10-31",
+  "dataset_size": 10391940905,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-30-CA-HCC-202-2023",
-    "num": "CA HCC 202/2023",
-    "date_str": "2025-10-30",
-    "description": "Herath Mudiyanselage Sujith Tharangaalias Ranga Vs. The Hon. Attorney General, before Hon. Amal Ranaraja, J.",
+    "doc_id": "2025-10-31-CA-RII-0079-2024",
+    "num": "CA/RII/0079/2024",
+    "date_str": "2025-10-31",
+    "description": "Amarasingha Arachchige IranganiAmarasingha Vs Amarasinghe Arachchige Dona Premawathi before Hon. R. Gurusinghe, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=675eeb67-a6da-4376-b73f-dfbd73f7c599&filename=CA%20HCC%20202-23.pdf.pdf",
-    "parties": "Herath Mudiyanselage Sujith Tharangaalias Ranga Vs. The Hon. Attorney General,",
-    "judgement_by": "Hon. Amal Ranaraja, J.",
-    "keywords": "Paramount importance of the victim\u2019s testimony in alleged sexual abuse cases \u2013 Additional witness testimony will serve primarily to support and reinforce the material facts stated by the victim \u2013 Suspicious circumstances fall short of the burden of proof of the prosecution \u2013 Reliance on police information book extracts by a trial court",
-    "legistation": "Section 354 and 365B(2)(b) of the Penal Code (as amended)"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=04b05c33-7cb2-421e-8a85-4db72594e392&filename=RII%200079-24%20%28judgment%20pdf%29.pdf.pdf",
+    "parties": "Amarasingha Arachchige IranganiAmarasingha Vs Amarasinghe Arachchige Dona Premawathi",
+    "judgement_by": "Hon. R. Gurusinghe, J.",
+    "keywords": "partition action cannot be laid by or abated for non-prosecution of the case.",
+    "legistation": "Partition Law section 70."
   }
 }
