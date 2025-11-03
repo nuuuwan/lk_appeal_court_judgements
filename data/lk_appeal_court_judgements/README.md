@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_12:28:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--03_12:42:00-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,206** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-10-31**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,207** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-03**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-10-31-CA-RII-0079-2024",
-    "num": "CA/RII/0079/2024",
-    "date_str": "2025-10-31",
-    "description": "Amarasingha Arachchige IranganiAmarasingha Vs Amarasinghe Arachchige Dona Premawathi before Hon. R. Gurusinghe, J.",
+    "doc_id": "2025-11-03-CA-HCC--0018-019-2020",
+    "num": "CA/HCC/ 0018-019/2020",
+    "date_str": "2025-11-03",
+    "description": "Galle Hettiarachchige Anil Jayantha And other Vs The Director General of Commission to Investigate Allegation of Bribery and Corruption before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13124",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=04b05c33-7cb2-421e-8a85-4db72594e392&filename=RII%200079-24%20%28judgment%20pdf%29.pdf.pdf",
-    "parties": "Amarasingha Arachchige IranganiAmarasingha Vs Amarasinghe Arachchige Dona Premawathi",
-    "judgement_by": "Hon. R. Gurusinghe, J.",
-    "keywords": "partition action cannot be laid by or abated for non-prosecution of the case.",
-    "legistation": "Partition Law section 70."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=961b999b-cc14-498e-9c0f-7c5302defc28&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0018-019.2020.pdf.pdf",
+    "parties": "Galle Hettiarachchige Anil Jayantha And other Vs The Director General of Commission to Investigate Allegation of Bribery and Corruption",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Credibility of the witness. \u2022 Essential witness",
+    "legistation": "The Bribery Act."
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-11-03 | `CA/HCC/ 0018-019/2020` | Galle Hettiarachchige Anil Jayantha And other Vs The Director General of Commission to Investigate Allegation of Bribery and Corruption before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-03-CA-HCC--0018-019-2020)
 - 2025-10-31 | `CA/RII/0079/2024` | Amarasingha Arachchige IranganiAmarasingha Vs Amarasinghe Arachchige Dona Premawathi before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-31-CA-RII-0079-2024)
 - 2025-10-31 | `CA HCC 259/2016` | Nawarathne Henayalage Ajith Pushpakumara Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-31-CA-HCC-259-2016)
 - 2025-10-31 | `CA/HCC/ 0096/2024` | Piliduwa Bogahawattage Chandima Dilhani Vs. The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-31-CA-HCC--0096-2024)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-27 | `CA HCC 28/2024` | Chandana Prasanna Suwadarathna Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-27-CA-HCC-28-2024)
 - 2025-10-24 | `CA/WRT/0293/20` | M. I. M. Safiyulla. Vs. Divisional Secretary, Ridigama. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA-WRT-0293-20)
 - 2025-10-24 | `CA/PHC/0155/2019` | Polpitige Mary Nelka Perera Vs. Asoka Saman Kumara Jayalath before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA-PHC-0155-2019)
-- 2025-10-24 | `CA/PHC/0033/2019` | Central Province Vehicle Dealing Cooperative Society Limited and Others 3 Vs. Assistant Commissioner of Corporative Development & 1 Other before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-24-CA-PHC-0033-2019)
 
 ---
 
