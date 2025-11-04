@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-11-04 12:51:45",
-  "n_docs": 10209,
-  "n_docs_with_pdfs": 10209,
-  "n_docs_with_text": 10209,
+  "time_updated": "2025-11-04 13:21:22",
+  "n_docs": 10210,
+  "n_docs_with_pdfs": 10210,
+  "n_docs_with_text": 10210,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-11-03",
-  "dataset_size": 10396404358,
+  "date_str_max": "2025-11-04",
+  "dataset_size": 10396656870,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-03-CA-HCC--0018-019-2020",
-    "num": "CA/HCC/ 0018-019/2020",
-    "date_str": "2025-11-03",
-    "description": "Galle Hettiarachchige Anil Jayantha And other Vs The Director General of Commission to Investigate Allegation of Bribery and Corruption before Hon. P. Kumararatnam, J.",
-    "url_metadata": "https://courtofappeal.lk/?page_id=13124",
+    "doc_id": "2025-11-04-CA-HCC-0026-2021",
+    "num": "CA/HCC/0026/2021",
+    "date_str": "2025-11-04",
+    "description": "Sudath Nishantha Koman Godage Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J.",
+    "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=961b999b-cc14-498e-9c0f-7c5302defc28&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0018-019.2020.pdf.pdf",
-    "parties": "Galle Hettiarachchige Anil Jayantha And other Vs The Director General of Commission to Investigate Allegation of Bribery and Corruption",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Credibility of the witness. \u2022 Essential witness",
-    "legistation": "The Bribery Act."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=64be9f68-d73c-4369-a732-995fa6b2b3ea&filename=HCC%2026-21-JUDGMENT.pdf.pdf",
+    "parties": "Sudath Nishantha Koman Godage Vs The Hon. Attorney General",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "discrepancy, consistence, exclusive possession",
+    "legistation": "Section 54A (d) & (b) of the Poisons, Opium and Dangerous Drugs Ordinance, No. 13 of 1984, as amended"
   }
 }

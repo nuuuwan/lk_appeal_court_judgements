@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_12:51:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--04_13:21:28-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,209** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-03**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,210** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-04**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-03-CA-HCC--0018-019-2020",
-    "num": "CA/HCC/ 0018-019/2020",
-    "date_str": "2025-11-03",
-    "description": "Galle Hettiarachchige Anil Jayantha And other Vs The Director General of Commission to Investigate Allegation of Bribery and Corruption before Hon. P. Kumararatnam, J.",
-    "url_metadata": "https://courtofappeal.lk/?page_id=13124",
+    "doc_id": "2025-11-04-CA-HCC-0026-2021",
+    "num": "CA/HCC/0026/2021",
+    "date_str": "2025-11-04",
+    "description": "Sudath Nishantha Koman Godage Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J.",
+    "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=961b999b-cc14-498e-9c0f-7c5302defc28&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0018-019.2020.pdf.pdf",
-    "parties": "Galle Hettiarachchige Anil Jayantha And other Vs The Director General of Commission to Investigate Allegation of Bribery and Corruption",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Credibility of the witness. \u2022 Essential witness",
-    "legistation": "The Bribery Act."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=64be9f68-d73c-4369-a732-995fa6b2b3ea&filename=HCC%2026-21-JUDGMENT.pdf.pdf",
+    "parties": "Sudath Nishantha Koman Godage Vs The Hon. Attorney General",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "discrepancy, consistence, exclusive possession",
+    "legistation": "Section 54A (d) & (b) of the Poisons, Opium and Dangerous Drugs Ordinance, No. 13 of 1984, as amended"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-11-04 | `CA/HCC/0026/2021` | Sudath Nishantha Koman Godage Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-04-CA-HCC-0026-2021)
 - 2025-11-03 | `CA/HCC/ 0018-019/2020` | Galle Hettiarachchige Anil Jayantha And other Vs The Director General of Commission to Investigate Allegation of Bribery and Corruption before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-03-CA-HCC--0018-019-2020)
 - 2025-10-31 | `CA/RII/0079/2024` | Amarasingha Arachchige IranganiAmarasingha Vs Amarasinghe Arachchige Dona Premawathi before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-31-CA-RII-0079-2024)
 - 2025-10-31 | `CA HCC 259/2016` | Nawarathne Henayalage Ajith Pushpakumara Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-31-CA-HCC-259-2016)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-28 | `CA HCC 358/2017` | M. M. ChavindaRavindra Vs. The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-28-CA-HCC-358-2017)
 - 2025-10-27 | `CA/WRT/0801/24` | Epic Lanka (Private) Limited and another Vs. Hon. Bimal Rathnayake, Minister of Transport, Highways, Ports and Civil Aviation and 65 others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-27-CA-WRT-0801-24)
 - 2025-10-27 | `CA/WRT/0366/24` | S. A. V. Inoka Sanjeevanie Vs. National Water Supply & Drainage Board & others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-27-CA-WRT-0366-24)
-- 2025-10-27 | `CA HCC 28/2024` | Chandana Prasanna Suwadarathna Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-27-CA-HCC-28-2024)
 
 ---
 
