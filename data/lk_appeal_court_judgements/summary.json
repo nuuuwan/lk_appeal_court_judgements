@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-11-06 13:10:56",
-  "n_docs": 10210,
-  "n_docs_with_pdfs": 10210,
-  "n_docs_with_text": 10210,
+  "time_updated": "2025-11-06 13:51:42",
+  "n_docs": 10211,
+  "n_docs_with_pdfs": 10211,
+  "n_docs_with_text": 10211,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-11-04",
-  "dataset_size": 10396533941,
+  "date_str_max": "2025-11-06",
+  "dataset_size": 10396877079,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-04-CA-HCC-0026-2021",
-    "num": "CA/HCC/0026/2021",
-    "date_str": "2025-11-04",
-    "description": "Sudath Nishantha Koman Godage Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J.",
+    "doc_id": "2025-11-06-CA-HCC--0225-2017",
+    "num": "CA/HCC/ 0225/2017",
+    "date_str": "2025-11-06",
+    "description": "Wettasinghe Appuhamilage Osman Perera Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=64be9f68-d73c-4369-a732-995fa6b2b3ea&filename=HCC%2026-21-JUDGMENT.pdf.pdf",
-    "parties": "Sudath Nishantha Koman Godage Vs The Hon. Attorney General",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "discrepancy, consistence, exclusive possession",
-    "legistation": "Section 54A (d) & (b) of the Poisons, Opium and Dangerous Drugs Ordinance, No. 13 of 1984, as amended"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=a5621431-90f3-4fb7-a111-9cc63de5f185&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0225.17.pdf.pdf",
+    "parties": "Wettasinghe Appuhamilage Osman Perera Vs The Hon. Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "\u2022 Standard of proof. \u2022 Inward journey.",
+    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984."
   }
 }
