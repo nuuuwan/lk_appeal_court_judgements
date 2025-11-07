@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_12:54:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_13:11:17-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,214** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-07**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,215** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-07**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-07-CA-PHC-0117-2018",
-    "num": "CA/PHC/0117/2018",
+    "doc_id": "2025-11-07-CA-WRIT-280-2024-and-CA-e0c5dd8f",
+    "num": "CA/WRIT/280/2024 and CA/WRIT/281/2024",
     "date_str": "2025-11-07",
-    "description": "R. M. B. G. Heenbanda Vs. Commissioner of Co-operative Development & Registrar (Central Province) and Two Others before K. M. S. DISSANAYAKE, J",
+    "description": "Jayasuriya Arachchige Gayathri Sanjeewani Ranasinghe v National Medicines Regulatory Authority and others (CA WRIT/280/2024) Rajapaksha Pathiranage Dona Dinuda v National Medicines Regulatory Authority and others (CA WRIT/281/2024) before Hon. Mahen Gopallawa, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=57224a38-d9d0-498c-9ee5-5a9204cf2e85&filename=PHC-0117-18%20%287.11.2025%29.pdf.pdf",
-    "parties": "R. M. B. G. Heenbanda Vs. Commissioner of Co-operative Development & Registrar (Central Province) and Two Others",
-    "judgement_by": "K. M. S. DISSANAYAKE, J",
-    "keywords": "Appeal-Vires of Rule 49(xii)(a) of the Co-operative Societies Regulations 1973 read in conjunction with section 72(2) of the Central Province Co-operative Societies Statute of No. 10 of 1990 as amended-Definition of ratio decidendi and obiter dicta- Distinction between obiter dicta and judicial dicta-Legal effect of ratio decidendi, obiter dicta and judicial dicta-Doctrine of Approbation and Reprobation.",
-    "legistation": "Constitution - Article 138 and 154P(6)-section 11 of the High Court of the Provinces (Special Provisions) Act No. 19 of 1990-Rule 49(xii)(a) of the Co-operative Societies Regulations 1973 read in conjunction with section 72(2) of the Central Province Co-operative Societies Statute of No. 10 of 1990 as amended."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=74e5ee5a-48fb-4fe1-89f8-6db913d1fbb0&filename=CA%20Writ%20280-281-2024%20Order-Final-1.pdf.pdf",
+    "parties": "Jayasuriya Arachchige Gayathri Sanjeewani Ranasinghe v National Medicines Regulatory Authority and others (CA WRIT/280/2024) Rajapaksha Pathiranage Dona Dinuda v National Medicines Regulatory Authority and others (CA WRIT/281/2024)",
+    "judgement_by": "Hon. Mahen Gopallawa, J.",
+    "keywords": "Release-public service-statutory authority-National Medicines Regulatory Authority- Public Service Commission Procedural Rules, 2022-disciplinary control-non-disclosure of material facts",
+    "legistation": "The Constitution National Medicines Regulatory Authority Act No. 5 of 2015 Public Service Commission Procedural Rules, 2022"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-11-07 | `CA/WRIT/280/2024 and CA/WRIT/281/2024` | Jayasuriya Arachchige Gayathri Sanjeewani Ranasinghe v National Medicines Regulatory Authority and others (CA WRIT/280/2024) Rajapaksha Pathiranage Dona Dinuda v National Medicines Regulatory Authority and others (CA WRIT/281/2024) before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA-WRIT-280-2024-and-CA-e0c5dd8f)
 - 2025-11-07 | `CA/PHC/0117/2018` | R. M. B. G. Heenbanda Vs. Commissioner of Co-operative Development & Registrar (Central Province) and Two Others before K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA-PHC-0117-2018)
 - 2025-11-06 | `CA HCC 18/2022` | Yaddahige Chandrarathne, Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-06-CA-HCC-18-2022)
 - 2025-11-06 | `CA/HCC/ 0225/2017` | Wettasinghe Appuhamilage Osman Perera Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-06-CA-HCC--0225-2017)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-29 | `CA/WRT-0083-24` | M.A. Maithri Mahendran and others Vs Inspector General of Police and others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-29-CA-WRT-0083-24)
 - 2025-10-29 | `CA/PHC/77/2019` | Gamini Samaranayaka Vs. Wedikkarage Ransonona before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-29-CA-PHC-77-2019)
 - 2025-10-29 | `CA/CPA/70/2022` | The Attorney General Vs. Jayalath Pedige Suranga Nalin Dilruksha before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-29-CA-CPA-70-2022)
-- 2025-10-29 | `CA/CPA/126/2022` | Attorney General Vs. Rathnayaka Mudayanselage Nishanka Jayasinghe & others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-29-CA-CPA-126-2022)
 
 ---
 
