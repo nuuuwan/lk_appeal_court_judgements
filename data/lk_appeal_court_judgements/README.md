@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_14:26:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--07_14:43:54-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,215** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-07**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,217** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-07**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 - 2025-11-07 | `CA/WRIT/280/2024 and CA/WRIT/281/2024` | Jayasuriya Arachchige Gayathri Sanjeewani Ranasinghe v National Medicines Regulatory Authority and others (CA WRIT/280/2024) Rajapaksha Pathiranage Dona Dinuda v National Medicines Regulatory Authority and others (CA WRIT/281/2024) before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA-WRIT-280-2024-and-CA-e0c5dd8f)
 - 2025-11-07 | `CA/PHC/0117/2018` | R. M. B. G. Heenbanda Vs. Commissioner of Co-operative Development & Registrar (Central Province) and Two Others before K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA-PHC-0117-2018)
+- 2025-11-07 | `CA (HCC)0091/2023` | Angodage Janaka Sarath Kumara Vs Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA--HCC-0091-2023)
+- 2025-11-07 | `CA (HCC)0081/2022` | Hatharabage Lekamlage Gunawardena Vs The Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA--HCC-0081-2022)
 - 2025-11-06 | `CA HCC 18/2022` | Yaddahige Chandrarathne, Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-06-CA-HCC-18-2022)
 - 2025-11-06 | `CA/HCC/ 0225/2017` | Wettasinghe Appuhamilage Osman Perera Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-06-CA-HCC--0225-2017)
 - 2025-11-04 | `CA/HCC/0026/2021` | Sudath Nishantha Koman Godage Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-04-CA-HCC-0026-2021)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-29 | `CARII/0077/2024` | AthapattuMudiyanselagePriyadarshani Nishanthi Athapattu vs Balasuriya Arachchige Mahinda KarunaratnaPerera before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-29-CARII-0077-2024)
 - 2025-10-29 | `CA/WRT/586/2007` | Chithra Weerakkoon & other Vs. Hon. Jeewan Kumarathunga Minister of Lands before Hon.Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-29-CA-WRT-586-2007)
 - 2025-10-29 | `CA/WRT-0083-24` | M.A. Maithri Mahendran and others Vs Inspector General of Police and others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-29-CA-WRT-0083-24)
-- 2025-10-29 | `CA/PHC/77/2019` | Gamini Samaranayaka Vs. Wedikkarage Ransonona before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-29-CA-PHC-77-2019)
-- 2025-10-29 | `CA/CPA/70/2022` | The Attorney General Vs. Jayalath Pedige Suranga Nalin Dilruksha before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-29-CA-CPA-70-2022)
 
 ---
 
