@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_12:42:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--12_13:21:38-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,222** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-11**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,223** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-12**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-11-CA-HCC-132-23",
-    "num": "CA-HCC-132-23",
-    "date_str": "2025-11-11",
-    "description": "Mudugamuwa Hewage Kelum Dinesh alias Duminda Mama, Vs The Hon. Attorney General, before Hon. B. Sasi Mahendran, J.",
+    "doc_id": "2025-11-12-CA-WRT-588-24",
+    "num": "CA/WRT/588/24",
+    "date_str": "2025-11-12",
+    "description": "University of Peradeniya, Vs Maithree Wickramasinghe PC Chairman\u201a University Services Appeal Board\u201a Ward Place\u201a before Hon. Adithya Patabendige, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=158c0323-21d6-45a7-b4db-36f4c9aaf9c5&filename=HCC%20132-23-JUDGMENT.pdf.pdf",
-    "parties": "Mudugamuwa Hewage Kelum Dinesh alias Duminda Mama, Vs The Hon. Attorney General,",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "Consistent , corroboration, trustworthy",
-    "legistation": "Section 436 of the Penal Code and Section 365B(2)(b) of the Penal Code, as amended by Act No. 22 of 1995, Act No. 29 of 1998, and Act No. 16 of 2006"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=0e16560c-4f04-4482-87f3-48c95a5a1d18&filename=0588_24%20updated%20%282%29%20%281%29.pdf.pdf",
+    "parties": "University of Peradeniya, Vs Maithree Wickramasinghe PC Chairman\u201a University Services Appeal Board\u201a Ward Place\u201a",
+    "judgement_by": "Hon. Adithya Patabendige, J.",
+    "keywords": "Writ of Certiorari, Inter alia, Ultra Vires, Jurisdiction of USAB, Vacation of post",
+    "legistation": "Article 140 of the Constitution. Section 86 of the Universities Act No. 16 of 1978"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-11-12 | `CA/WRT/588/24` | University of Peradeniya, Vs Maithree Wickramasinghe PC Chairman‚ University Services Appeal Board‚ Ward Place‚ before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-WRT-588-24)
 - 2025-11-11 | `CA-HCC-132-23` | Mudugamuwa Hewage Kelum Dinesh alias Duminda Mama, Vs The Hon. Attorney General, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-HCC-132-23)
 - 2025-11-11 | `CA/HCC/ 0145/2014` | Mohamed Naseem Mohamed Nazar alias Mohamed Haseen Mohamed Nazar alias Gowa Nazar Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-HCC--0145-2014)
 - 2025-11-11 | `CA/HCC/ 0059/2013` | Panadura Acharige Don Jayasiri Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-HCC--0059-2013)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-10-31 | `CA (HCC)0068/2021` | Abeykoon Basnayake Mudiyanselage Kapila Preethi Bandara Dharmasiri Vs Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-31-CA--HCC-0068-2021)
 - 2025-10-30 | `CA-Writ-38-21` | Hettiarachchi Wajira Christobel Senanayake Vs W.W. Punchihewa, Assistant Commissioner of Labour and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-30-CA-Writ-38-21)
 - 2025-10-30 | `CA HCC 202/2023` | Herath Mudiyanselage Sujith Tharangaalias Ranga Vs. The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-30-CA-HCC-202-2023)
-- 2025-10-30 | `CA/HCC/ 0155/2023` | The Hon. Attorney General Vs. Subramanium Sabapathi before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-30-CA-HCC--0155-2023)
 
 ---
 
