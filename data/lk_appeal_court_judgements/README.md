@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_12:00:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_12:20:23-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,233** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-12**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,235** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-12**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ## 🆕 20 Latest documents
 
 - 2025-11-12 | `CA/WRT/588/24` | University of Peradeniya, Vs Maithree Wickramasinghe PC Chairman‚ University Services Appeal Board‚ Ward Place‚ before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-WRT-588-24)
+- 2025-11-12 | `CA/TAX/0029/22` | APL LANKA (PRIVATE) LIMITED Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-TAX-0029-22)
+- 2025-11-12 | `CA/TAX/0024/22` | APL LANKA (PRIVATE) LIMITED Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-TAX-0024-22)
 - 2025-11-12 | `CA PHC-166/20` | Urumuththa Hewa Radage Janaka Sampath Vs Officer in Charge Police Station Akuressa before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-PHC-166-20)
 - 2025-11-12 | `CA/HCC/244/2024` | Pathane Gedara Bandula Senarath Jayathunga Vs The Hon. Attorney General, Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-HCC-244-2024)
 - 2025-11-11 | `CA/WRT/0607/25` | Dissanayake Mudiyanselage Rohana Dissanayake and other Vs R.M. Ranjith Madduma Bandara, Secretary - Samagi Jana Balawegaya and seven others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-WRT-0607-25)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-04 | `CA/HCC/0026/2021` | Sudath Nishantha Koman Godage Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-04-CA-HCC-0026-2021)
 - 2025-11-04 | `CA/ WRT/0083/20` | L.A. Samanlatha Pushpakumari and others Vs University of the Visual & Performing Arts and others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-04-CA--WRT-0083-20)
 - 2025-11-03 | `CA/HCC/ 0018-019/2020` | Galle Hettiarachchige Anil Jayantha And other Vs The Director General of Commission to Investigate Allegation of Bribery and Corruption before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-03-CA-HCC--0018-019-2020)
-- 2025-10-31 | `CA/WRIT/226/2022` | Balangoda Plantations PLC Vs The Honourable Minister of Lands, “Mihikatha Medura”, Land Secretariat, and others before Hon. Mayadunne Corea J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-31-CA-WRIT-226-2022)
-- 2025-10-31 | `CA/RII/0079/2024` | Amarasingha Arachchige IranganiAmarasingha Vs Amarasinghe Arachchige Dona Premawathi before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-10-31-CA-RII-0079-2024)
 
 ---
 
