@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_13:54:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--17_14:27:57-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,236** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-14**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,237** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-17**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-14-CA-PHC-38-22",
-    "num": "CA-PHC-38-22",
-    "date_str": "2025-11-14",
-    "description": "J.M. Manusha Nirmal Muhandiram, Vs Officer-in Charge, Police Station, Kalawana. and others before Hon. B. Sasi Mahendran, J.",
+    "doc_id": "2025-11-17-HCC-132-133-24",
+    "num": "HCC-132-133-24",
+    "date_str": "2025-11-17",
+    "description": "Galla Arachchige Piyathilaka And others Vs The Hon. Attorney General, before Hon. B. Sasi Mahendran, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=67b1f3c1-3ea4-46c4-a358-ad44ab8d7c66&filename=PHC%2038-2022-Judgment.pdf.pdf",
-    "parties": "J.M. Manusha Nirmal Muhandiram, Vs Officer-in Charge, Police Station, Kalawana. and others",
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8361b5ac-9e0c-42ba-bf41-e73e7f952a76&filename=HCC%20132-133-24-JUDGMENT.pdf.pdf",
+    "parties": "Galla Arachchige Piyathilaka And others Vs The Hon. Attorney General,",
     "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "shall likewise be liable to confiscation,",
-    "legistation": "Section 54(2) of the Excise Ordinance"
+    "keywords": "circumstantial evidence, dying declaration, consistency , truthfulness , contradiction",
+    "legistation": "section 32 of the Evidence Ordinance"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-11-17 | `HCC-132-133-24` | Galla Arachchige Piyathilaka And others Vs The Hon. Attorney General, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-17-HCC-132-133-24)
 - 2025-11-14 | `CA-PHC-38-22` | J.M. Manusha Nirmal Muhandiram, Vs Officer-in Charge, Police Station, Kalawana. and others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-14-CA-PHC-38-22)
 - 2025-11-12 | `CA/WRT/588/24` | University of Peradeniya, Vs Maithree Wickramasinghe PC Chairman‚ University Services Appeal Board‚ Ward Place‚ before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-WRT-588-24)
 - 2025-11-12 | `CA/TAX/0029/22` | APL LANKA (PRIVATE) LIMITED Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-TAX-0029-22)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-06 | `CA HCC 18/2022` | Yaddahige Chandrarathne, Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-06-CA-HCC-18-2022)
 - 2025-11-06 | `CA/HCC/ 0225/2017` | Wettasinghe Appuhamilage Osman Perera Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-06-CA-HCC--0225-2017)
 - 2025-11-04 | `CA/HCC/0026/2021` | Sudath Nishantha Koman Godage Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-04-CA-HCC-0026-2021)
-- 2025-11-04 | `CA/ WRT/0083/20` | L.A. Samanlatha Pushpakumari and others Vs University of the Visual & Performing Arts and others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-04-CA--WRT-0083-20)
 
 ---
 
