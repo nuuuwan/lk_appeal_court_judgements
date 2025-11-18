@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_13:15:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--18_13:53:59-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,239** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-17**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,241** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-17**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 - 2025-11-17 | `HCC-132-133-24` | Galla Arachchige Piyathilaka And others Vs The Hon. Attorney General, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-17-HCC-132-133-24)
 - 2025-11-14 | `CA-PHC-38-22` | J.M. Manusha Nirmal Muhandiram, Vs Officer-in Charge, Police Station, Kalawana. and others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-14-CA-PHC-38-22)
+- 2025-11-14 | `CA (HCC)0047/2023` | Gamage Dharmasiri Gamage Vs Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-14-CA--HCC-0047-2023)
+- 2025-11-14 | `CA (HCC)0015-22/24` | Mohommad Seyin Mohommad Hamza and others Vs Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-14-CA--HCC-0015-22-24)
 - 2025-11-12 | `CA/WRT/588/24` | University of Peradeniya, Vs Maithree Wickramasinghe PC Chairman‚ University Services Appeal Board‚ Ward Place‚ before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-WRT-588-24)
 - 2025-11-12 | `CA/TAX/0029/22` | APL LANKA (PRIVATE) LIMITED Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-TAX-0029-22)
 - 2025-11-12 | `CA/TAX/0024/22` | APL LANKA (PRIVATE) LIMITED Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-TAX-0024-22)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-07 | `CA (HCC)0091/2023` | Angodage Janaka Sarath Kumara Vs Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA--HCC-0091-2023)
 - 2025-11-07 | `CA (HCC)0081/2022` | Hatharabage Lekamlage Gunawardena Vs The Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA--HCC-0081-2022)
 - 2025-11-06 | `CA HCC 18/2022` | Yaddahige Chandrarathne, Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-06-CA-HCC-18-2022)
-- 2025-11-06 | `CA/HCC/ 0225/2017` | Wettasinghe Appuhamilage Osman Perera Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-06-CA-HCC--0225-2017)
-- 2025-11-04 | `CA/WRT/448/2023` | Amaraweera Wickrama Gunawardhana Tharanga Nalaka Vs Saman Jayasinghe, Commissioner General of Excise & 5 Others, before Hon. K. Priyantha Fernando, J. (CA) | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-04-CA-WRT-448-2023)
 
 ---
 
