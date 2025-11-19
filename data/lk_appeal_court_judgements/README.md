@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_12:29:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--19_12:50:02-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,241** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-17**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,242** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-17-HCC-132-133-24",
-    "num": "HCC-132-133-24",
-    "date_str": "2025-11-17",
-    "description": "Galla Arachchige Piyathilaka And others Vs The Hon. Attorney General, before Hon. B. Sasi Mahendran, J.",
+    "doc_id": "2025-11-19-CA-HCC--0179-2014",
+    "num": "CA/HCC/ 0179/2014",
+    "date_str": "2025-11-19",
+    "description": "Buddhika Prasanna Liyanage Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8361b5ac-9e0c-42ba-bf41-e73e7f952a76&filename=HCC%20132-133-24-JUDGMENT.pdf.pdf",
-    "parties": "Galla Arachchige Piyathilaka And others Vs The Hon. Attorney General,",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "circumstantial evidence, dying declaration, consistency , truthfulness , contradiction",
-    "legistation": "section 32 of the Evidence Ordinance"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2eff5496-615a-49a2-8fa0-04550dbcfd4e&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0179.24.pdf.pdf",
+    "parties": "Buddhika Prasanna Liyanage Vs The Hon. Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Standard of proof. \u2022 Inward journey.",
+    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-11-19 | `CA/HCC/ 0179/2014` | Buddhika Prasanna Liyanage Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-HCC--0179-2014)
 - 2025-11-17 | `HCC-132-133-24` | Galla Arachchige Piyathilaka And others Vs The Hon. Attorney General, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-17-HCC-132-133-24)
 - 2025-11-14 | `CA-PHC-38-22` | J.M. Manusha Nirmal Muhandiram, Vs Officer-in Charge, Police Station, Kalawana. and others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-14-CA-PHC-38-22)
 - 2025-11-14 | `CA (HCC)0047/2023` | Gamage Dharmasiri Gamage Vs Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-14-CA--HCC-0047-2023)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-07 | `CA/ WRT/0656/24` | Amber Adventures (Private) Limited Vs Athma Dilukshi Jayaratne, Divisional Secretary, Udapalatha and six others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA--WRT-0656-24)
 - 2025-11-07 | `CA (HCC)0091/2023` | Angodage Janaka Sarath Kumara Vs Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA--HCC-0091-2023)
 - 2025-11-07 | `CA (HCC)0081/2022` | Hatharabage Lekamlage Gunawardena Vs The Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA--HCC-0081-2022)
-- 2025-11-06 | `CA HCC 18/2022` | Yaddahige Chandrarathne, Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-06-CA-HCC-18-2022)
 
 ---
 
