@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_13:13:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_13:50:15-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,244** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,246** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-20**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-19-CA-Writ-0382-2022",
-    "num": "CA/Writ 0382/2022",
-    "date_str": "2025-11-19",
-    "description": "Lokupatabandige Janitha Harsha Premalal vs Prof. Anura Manathunga, Director General, Department of Archaeology, before Hon. R. Gurusinghe, J.",
+    "doc_id": "2025-11-20-Kumastheru-Liyange-Sumu-b5599e0e",
+    "num": "Kumastheru Liyange Sumudu Chinthaka Vs Bandula Jayasinghe Commissioner General of Lands, Land Commissioner General\u2019s Department,",
+    "date_str": "2025-11-20",
+    "description": "WRT/576/24 before Hon. Adithya Patabendige, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b823f48c-12f1-4004-a384-640c812dfe36&filename=WRT%200382-22-PDF.pdf.pdf",
-    "parties": "Lokupatabandige Janitha Harsha Premalal vs Prof. Anura Manathunga, Director General, Department of Archaeology,",
-    "judgement_by": "Hon. R. Gurusinghe, J.",
-    "keywords": "",
-    "legistation": "Article 140 of the Constitution Antiquities Ordinance as amended by Act No. 24 of 1998."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=be0e8ff3-073c-4e63-b151-3e71e55c6ba2&filename=0576%20%202024.pdf.pdf",
+    "parties": "WRT/576/24",
+    "judgement_by": "Hon. Adithya Patabendige, J.",
+    "keywords": "Writ of Certiorari, Writ of Mandamus, Succession under the Land Development Ordinance, Applicability of Rule 1 of the Third Schedule of the Land Development Ordinance, Amendment Act No.11 of 2022.",
+    "legistation": "Article 140 of the Constitution, Land Development Ordinance, Land"
 }
 ```
 
@@ -44,6 +44,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-11-20 | `Kumastheru Liyange Sumudu Chinthaka Vs Bandula Jayasinghe Commissioner General of Lands, Land Commissioner General’s Department,` | WRT/576/24 before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-Kumastheru-Liyange-Sumu-b5599e0e)
+- 2025-11-20 | `CA/RII/0072/2024` | Jason Lishon Batcho Vs Shenuka Anne Shireen Perera before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-RII-0072-2024)
 - 2025-11-19 | `CA/Writ 0382/2022` | Lokupatabandige Janitha Harsha Premalal vs Prof. Anura Manathunga, Director General, Department of Archaeology, before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-Writ-0382-2022)
 - 2025-11-19 | `CA/RII-0009/2021` | Pulwansa Eranda Malaka De Silva and others Vs Geekiyanage Dulan Priyanga Silva before Hon.R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-RII-0009-2021)
 - 2025-11-19 | `CA/HCC/ 0179/2014` | Buddhika Prasanna Liyanage Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-HCC--0179-2014)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-11 | `CA/HCC/ 0145/2014` | Mohamed Naseem Mohamed Nazar alias Mohamed Haseen Mohamed Nazar alias Gowa Nazar Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-HCC--0145-2014)
 - 2025-11-11 | `CA/HCC/ 0059/2013` | Panadura Acharige Don Jayasiri Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-HCC--0059-2013)
 - 2025-11-07 | `CA/WRIT/280/2024 and CA/WRIT/281/2024` | Jayasuriya Arachchige Gayathri Sanjeewani Ranasinghe v National Medicines Regulatory Authority and others (CA WRIT/280/2024) Rajapaksha Pathiranage Dona Dinuda v National Medicines Regulatory Authority and others (CA WRIT/281/2024) before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA-WRIT-280-2024-and-CA-e0c5dd8f)
-- 2025-11-07 | `CA/PHC/0117/2018` | R. M. B. G. Heenbanda Vs. Commissioner of Co-operative Development & Registrar (Central Province) and Two Others before K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA-PHC-0117-2018)
-- 2025-11-07 | `CA/ WRT/0656/24` | Amber Adventures (Private) Limited Vs Athma Dilukshi Jayaratne, Divisional Secretary, Udapalatha and six others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA--WRT-0656-24)
 
 ---
 
