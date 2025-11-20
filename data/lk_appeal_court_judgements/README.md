@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_15:53:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--20_16:22:14-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,246** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-20**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,247** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-20**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -49,6 +49,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-19 | `CA/Writ 0382/2022` | Lokupatabandige Janitha Harsha Premalal vs Prof. Anura Manathunga, Director General, Department of Archaeology, before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-Writ-0382-2022)
 - 2025-11-19 | `CA/RII-0009/2021` | Pulwansa Eranda Malaka De Silva and others Vs Geekiyanage Dulan Priyanga Silva before Hon.R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-RII-0009-2021)
 - 2025-11-19 | `CA/HCC/ 0179/2014` | Buddhika Prasanna Liyanage Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-HCC--0179-2014)
+- 2025-11-18 | `CA/WRT/273/19` | Super Neat Technology (Private) Limited Vs. Hon. P. Harrison, Minister of Agriculture, Rural Economic Affairs, Livestock Development, Irrigation and Fisheries and Aquatic Resources Development and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-18-CA-WRT-273-19)
 - 2025-11-17 | `HCC-132-133-24` | Galla Arachchige Piyathilaka And others Vs The Hon. Attorney General, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-17-HCC-132-133-24)
 - 2025-11-14 | `CA-PHC-38-22` | J.M. Manusha Nirmal Muhandiram, Vs Officer-in Charge, Police Station, Kalawana. and others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-14-CA-PHC-38-22)
 - 2025-11-14 | `CA (HCC)0047/2023` | Gamage Dharmasiri Gamage Vs Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-14-CA--HCC-0047-2023)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-11 | `CA-HCC-132-23` | Mudugamuwa Hewage Kelum Dinesh alias Duminda Mama, Vs The Hon. Attorney General, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-HCC-132-23)
 - 2025-11-11 | `CA/HCC/ 0145/2014` | Mohamed Naseem Mohamed Nazar alias Mohamed Haseen Mohamed Nazar alias Gowa Nazar Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-HCC--0145-2014)
 - 2025-11-11 | `CA/HCC/ 0059/2013` | Panadura Acharige Don Jayasiri Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-HCC--0059-2013)
-- 2025-11-07 | `CA/WRIT/280/2024 and CA/WRIT/281/2024` | Jayasuriya Arachchige Gayathri Sanjeewani Ranasinghe v National Medicines Regulatory Authority and others (CA WRIT/280/2024) Rajapaksha Pathiranage Dona Dinuda v National Medicines Regulatory Authority and others (CA WRIT/281/2024) before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-07-CA-WRIT-280-2024-and-CA-e0c5dd8f)
 
 ---
 
