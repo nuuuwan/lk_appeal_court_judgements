@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_11:54:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--21_12:28:29-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,247** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-20**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,249** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-20**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 - 2025-11-20 | `Kumastheru Liyange Sumudu Chinthaka Vs Bandula Jayasinghe Commissioner General of Lands, Land Commissioner General’s Department,` | WRT/576/24 before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-Kumastheru-Liyange-Sumu-b5599e0e)
 - 2025-11-20 | `CA/RII/0072/2024` | Jason Lishon Batcho Vs Shenuka Anne Shireen Perera before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-RII-0072-2024)
+- 2025-11-20 | `CA/PHC/0099/2019` | Marasinghe Mudiyanselage Chandrani Kanthilatha Vs. Registrar of Co-operative Societies and Commissioner of Co - operative Development and 3 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-PHC-0099-2019)
+- 2025-11-20 | `CA/PHC/0078/2020` | N. Samantha Prasanna De Costa Vs. Thushara Chaminda Kariyawasam and another. before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-PHC-0078-2020)
 - 2025-11-19 | `CA/Writ 0382/2022` | Lokupatabandige Janitha Harsha Premalal vs Prof. Anura Manathunga, Director General, Department of Archaeology, before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-Writ-0382-2022)
 - 2025-11-19 | `CA/RII-0009/2021` | Pulwansa Eranda Malaka De Silva and others Vs Geekiyanage Dulan Priyanga Silva before Hon.R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-RII-0009-2021)
 - 2025-11-19 | `CA/HCC/ 0179/2014` | Buddhika Prasanna Liyanage Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-HCC--0179-2014)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-11 | `CA/WRT/0607/25` | Dissanayake Mudiyanselage Rohana Dissanayake and other Vs R.M. Ranjith Madduma Bandara, Secretary - Samagi Jana Balawegaya and seven others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-WRT-0607-25)
 - 2025-11-11 | `CA/WRT/0586/25` | Don Chandima Gamage and other Vs R.M. Ranjith Madduma Bandara, Secretary - Samagi Jana Balawegaya and seven others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-WRT-0586-25)
 - 2025-11-11 | `CA-HCC-132-23` | Mudugamuwa Hewage Kelum Dinesh alias Duminda Mama, Vs The Hon. Attorney General, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-HCC-132-23)
-- 2025-11-11 | `CA/HCC/ 0145/2014` | Mohamed Naseem Mohamed Nazar alias Mohamed Haseen Mohamed Nazar alias Gowa Nazar Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-HCC--0145-2014)
-- 2025-11-11 | `CA/HCC/ 0059/2013` | Panadura Acharige Don Jayasiri Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-HCC--0059-2013)
 
 ---
 
