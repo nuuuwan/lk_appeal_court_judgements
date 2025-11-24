@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-11-24 11:52:31",
-  "n_docs": 10250,
-  "n_docs_with_pdfs": 10250,
-  "n_docs_with_text": 10250,
+  "time_updated": "2025-11-24 12:30:32",
+  "n_docs": 10251,
+  "n_docs_with_pdfs": 10251,
+  "n_docs_with_text": 10251,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-11-20",
-  "dataset_size": 10434958356,
+  "date_str_max": "2025-11-21",
+  "dataset_size": 10435546797,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-20-Kumastheru-Liyange-Sumu-b5599e0e",
-    "num": "Kumastheru Liyange Sumudu Chinthaka Vs Bandula Jayasinghe Commissioner General of Lands, Land Commissioner General\u2019s Department,",
-    "date_str": "2025-11-20",
-    "description": "WRT/576/24 before Hon. Adithya Patabendige, J.",
+    "doc_id": "2025-11-21-CA-HCC--0079-083-2014",
+    "num": "CA/HCC/ 0079-083/2014",
+    "date_str": "2025-11-21",
+    "description": "Warnakulasuriya Chaminda Rohana Fernando and others Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=be0e8ff3-073c-4e63-b151-3e71e55c6ba2&filename=0576%20%202024.pdf.pdf",
-    "parties": "WRT/576/24",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Certiorari, Writ of Mandamus, Succession under the Land Development Ordinance, Applicability of Rule 1 of the Third Schedule of the Land Development Ordinance, Amendment Act No.11 of 2022.",
-    "legistation": "Article 140 of the Constitution, Land Development Ordinance, Land"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eacf1b4e-bc09-4e05-adb7-479003ab0a2a&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0079-083.2024.pdf.pdf",
+    "parties": "Warnakulasuriya Chaminda Rohana Fernando and others Vs The Hon. Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Standard of proof. \u2022 Inward journey. \u2022 Exclusive Conscious Possession. \u2022 Credibility of Evidence. \u2022 Conspiracy. \u2022 Ellenborough Dictum.",
+    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984"
   }
 }

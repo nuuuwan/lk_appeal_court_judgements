@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_11:52:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_12:30:38-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,250** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-20**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,251** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-21**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-20-Kumastheru-Liyange-Sumu-b5599e0e",
-    "num": "Kumastheru Liyange Sumudu Chinthaka Vs Bandula Jayasinghe Commissioner General of Lands, Land Commissioner General\u2019s Department,",
-    "date_str": "2025-11-20",
-    "description": "WRT/576/24 before Hon. Adithya Patabendige, J.",
+    "doc_id": "2025-11-21-CA-HCC--0079-083-2014",
+    "num": "CA/HCC/ 0079-083/2014",
+    "date_str": "2025-11-21",
+    "description": "Warnakulasuriya Chaminda Rohana Fernando and others Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=be0e8ff3-073c-4e63-b151-3e71e55c6ba2&filename=0576%20%202024.pdf.pdf",
-    "parties": "WRT/576/24",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Certiorari, Writ of Mandamus, Succession under the Land Development Ordinance, Applicability of Rule 1 of the Third Schedule of the Land Development Ordinance, Amendment Act No.11 of 2022.",
-    "legistation": "Article 140 of the Constitution, Land Development Ordinance, Land"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eacf1b4e-bc09-4e05-adb7-479003ab0a2a&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0079-083.2024.pdf.pdf",
+    "parties": "Warnakulasuriya Chaminda Rohana Fernando and others Vs The Hon. Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Standard of proof. \u2022 Inward journey. \u2022 Exclusive Conscious Possession. \u2022 Credibility of Evidence. \u2022 Conspiracy. \u2022 Ellenborough Dictum.",
+    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-11-21 | `CA/HCC/ 0079-083/2014` | Warnakulasuriya Chaminda Rohana Fernando and others Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-21-CA-HCC--0079-083-2014)
 - 2025-11-20 | `Kumastheru Liyange Sumudu Chinthaka Vs Bandula Jayasinghe Commissioner General of Lands, Land Commissioner General’s Department,` | WRT/576/24 before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-Kumastheru-Liyange-Sumu-b5599e0e)
 - 2025-11-20 | `CA/RII/0072/2024` | Jason Lishon Batcho Vs Shenuka Anne Shireen Perera before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-RII-0072-2024)
 - 2025-11-20 | `CA/PHC/0099/2019` | Marasinghe Mudiyanselage Chandrani Kanthilatha Vs. Registrar of Co-operative Societies and Commissioner of Co - operative Development and 3 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-PHC-0099-2019)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-12 | `CA/HCC/244/2024` | Pathane Gedara Bandula Senarath Jayathunga Vs The Hon. Attorney General, Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-HCC-244-2024)
 - 2025-11-11 | `CA/WRT/0607/25` | Dissanayake Mudiyanselage Rohana Dissanayake and other Vs R.M. Ranjith Madduma Bandara, Secretary - Samagi Jana Balawegaya and seven others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-WRT-0607-25)
 - 2025-11-11 | `CA/WRT/0586/25` | Don Chandima Gamage and other Vs R.M. Ranjith Madduma Bandara, Secretary - Samagi Jana Balawegaya and seven others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-WRT-0586-25)
-- 2025-11-11 | `CA-HCC-132-23` | Mudugamuwa Hewage Kelum Dinesh alias Duminda Mama, Vs The Hon. Attorney General, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-HCC-132-23)
 
 ---
 
