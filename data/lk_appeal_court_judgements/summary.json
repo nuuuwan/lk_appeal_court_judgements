@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-11-24 13:54:17",
-  "n_docs": 10251,
-  "n_docs_with_pdfs": 10251,
-  "n_docs_with_text": 10251,
+  "time_updated": "2025-11-24 14:26:20",
+  "n_docs": 10254,
+  "n_docs_with_pdfs": 10254,
+  "n_docs_with_text": 10254,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
   "date_str_max": "2025-11-21",
-  "dataset_size": 10436172159,
+  "dataset_size": 10437742774,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-21-CA-HCC--0079-083-2014",
-    "num": "CA/HCC/ 0079-083/2014",
+    "doc_id": "2025-11-21-CA-PHC-0069-2020",
+    "num": "CA/PHC/0069/2020",
     "date_str": "2025-11-21",
-    "description": "Warnakulasuriya Chaminda Rohana Fernando and others Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
+    "description": "W.A. Pushpa Kumara Vs. Chairman, Urban Council Kegalle. before Hon. K. M. S. DISSANAYAKE, J",
     "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eacf1b4e-bc09-4e05-adb7-479003ab0a2a&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0079-083.2024.pdf.pdf",
-    "parties": "Warnakulasuriya Chaminda Rohana Fernando and others Vs The Hon. Attorney General",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Standard of proof. \u2022 Inward journey. \u2022 Exclusive Conscious Possession. \u2022 Credibility of Evidence. \u2022 Conspiracy. \u2022 Ellenborough Dictum.",
-    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5e7049ff-e750-425d-9c37-21ba68b9d235&filename=PHC-0069-20%20%2821.11.2025%29%20%281%29.pdf.pdf",
+    "parties": "W.A. Pushpa Kumara Vs. Chairman, Urban Council Kegalle.",
+    "judgement_by": "Hon. K. M. S. DISSANAYAKE, J",
+    "keywords": "Appeal from an Order of a Provincial High Court-Unauthorized construction-Defence available to an application under Section 28A(3) of the UDA Act as amended- Can a question mixed with fact and law be raised for the first time in Appeal.",
+    "legistation": "Articles 138 of the Constitution of the Democratic Socialist Republic of Sri Lanka, section 28A(3) of the Urban Development Authority Act No. 41 of 1978 as amended."
   }
 }

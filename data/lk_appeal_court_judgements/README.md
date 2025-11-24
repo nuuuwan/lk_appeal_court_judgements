@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_13:54:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--24_14:26:27-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,251** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-21**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,254** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-21**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-21-CA-HCC--0079-083-2014",
-    "num": "CA/HCC/ 0079-083/2014",
+    "doc_id": "2025-11-21-CA-PHC-0069-2020",
+    "num": "CA/PHC/0069/2020",
     "date_str": "2025-11-21",
-    "description": "Warnakulasuriya Chaminda Rohana Fernando and others Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
+    "description": "W.A. Pushpa Kumara Vs. Chairman, Urban Council Kegalle. before Hon. K. M. S. DISSANAYAKE, J",
     "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=eacf1b4e-bc09-4e05-adb7-479003ab0a2a&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0079-083.2024.pdf.pdf",
-    "parties": "Warnakulasuriya Chaminda Rohana Fernando and others Vs The Hon. Attorney General",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Standard of proof. \u2022 Inward journey. \u2022 Exclusive Conscious Possession. \u2022 Credibility of Evidence. \u2022 Conspiracy. \u2022 Ellenborough Dictum.",
-    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5e7049ff-e750-425d-9c37-21ba68b9d235&filename=PHC-0069-20%20%2821.11.2025%29%20%281%29.pdf.pdf",
+    "parties": "W.A. Pushpa Kumara Vs. Chairman, Urban Council Kegalle.",
+    "judgement_by": "Hon. K. M. S. DISSANAYAKE, J",
+    "keywords": "Appeal from an Order of a Provincial High Court-Unauthorized construction-Defence available to an application under Section 28A(3) of the UDA Act as amended- Can a question mixed with fact and law be raised for the first time in Appeal.",
+    "legistation": "Articles 138 of the Constitution of the Democratic Socialist Republic of Sri Lanka, section 28A(3) of the Urban Development Authority Act No. 41 of 1978 as amended."
 }
 ```
 
@@ -44,8 +44,11 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-11-21 | `CA/PHC/0069/2020` | W.A. Pushpa Kumara Vs. Chairman, Urban Council Kegalle. before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-21-CA-PHC-0069-2020)
 - 2025-11-21 | `CA/HCC/ 0079-083/2014` | Warnakulasuriya Chaminda Rohana Fernando and others Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-21-CA-HCC--0079-083-2014)
 - 2025-11-20 | `Kumastheru Liyange Sumudu Chinthaka Vs Bandula Jayasinghe Commissioner General of Lands, Land Commissioner General’s Department,` | WRT/576/24 before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-Kumastheru-Liyange-Sumu-b5599e0e)
+- 2025-11-20 | `CA/WRT/834/2024` | Kaluthota Investments and Leasing (Pvt) Ltd., and Loku Kaluthotage Nandasena Vs Ginthota Sarukkali Patebendige and 90 Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-WRT-834-2024)
+- 2025-11-20 | `CA/WRT/775/2023` | M.W. Oshan Weerasinghe Vs Director General of Customs of the Bandaranayake International Airport and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-WRT-775-2023)
 - 2025-11-20 | `CA/RII/0072/2024` | Jason Lishon Batcho Vs Shenuka Anne Shireen Perera before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-RII-0072-2024)
 - 2025-11-20 | `CA/PHC/0099/2019` | Marasinghe Mudiyanselage Chandrani Kanthilatha Vs. Registrar of Co-operative Societies and Commissioner of Co - operative Development and 3 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-PHC-0099-2019)
 - 2025-11-20 | `CA/PHC/0078/2020` | N. Samantha Prasanna De Costa Vs. Thushara Chaminda Kariyawasam and another. before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-PHC-0078-2020)
@@ -61,9 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-12 | `CA/TAX/0029/22` | APL LANKA (PRIVATE) LIMITED Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-TAX-0029-22)
 - 2025-11-12 | `CA/TAX/0024/22` | APL LANKA (PRIVATE) LIMITED Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-TAX-0024-22)
 - 2025-11-12 | `CA PHC-166/20` | Urumuththa Hewa Radage Janaka Sampath Vs Officer in Charge Police Station Akuressa before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-PHC-166-20)
-- 2025-11-12 | `CA/HCC/244/2024` | Pathane Gedara Bandula Senarath Jayathunga Vs The Hon. Attorney General, Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-HCC-244-2024)
-- 2025-11-11 | `CA/WRT/0607/25` | Dissanayake Mudiyanselage Rohana Dissanayake and other Vs R.M. Ranjith Madduma Bandara, Secretary - Samagi Jana Balawegaya and seven others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-WRT-0607-25)
-- 2025-11-11 | `CA/WRT/0586/25` | Don Chandima Gamage and other Vs R.M. Ranjith Madduma Bandara, Secretary - Samagi Jana Balawegaya and seven others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-11-CA-WRT-0586-25)
 
 ---
 
