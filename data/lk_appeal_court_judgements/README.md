@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_14:44:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_15:22:11-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,255** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,257** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-25-CA-HCC--0216-2020",
-    "num": "CA/HCC/ 0216/2020",
+    "doc_id": "2025-11-25-HCC--09-2022",
+    "num": "HCC- 09/2022",
     "date_str": "2025-11-25",
-    "description": "Ranhawadi Gedara Sriyani Mangalika Rajapaksha alias Nona Akka Vs. The Attorney General before Hon. P. Kumararatnam, J.",
+    "description": "Madawala Liyanage Kusumawathie Vs The Hon.Attorney General before Hon. B. Sasi Mahendran, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=33ce9893-3aa4-4699-9cc5-88031bdeffd7&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0216.2020.pdf.pdf",
-    "parties": "Ranhawadi Gedara Sriyani Mangalika Rajapaksha alias Nona Akka Vs. The Attorney General",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Credibility and probability. \u2022 Inter se and per se contradictions. \u2022 Dock statement",
-    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dd144211-6b49-418d-9c33-19955f330161&filename=HCC%2009-22-JUDGMENT.pdf.pdf",
+    "parties": "Madawala Liyanage Kusumawathie Vs The Hon.Attorney General",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "exclusive possession",
+    "legistation": "Section 54 (a) (d) and Section 54 (a) (b) of the Poisons, Opium and Dangerous Drugs Ordinance, No. 13 of 1984, as amended"
 }
 ```
 
@@ -44,6 +44,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-11-25 | `HCC- 09/2022` | Madawala Liyanage Kusumawathie Vs The Hon.Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-25-HCC--09-2022)
+- 2025-11-25 | `CA/HCC/ 26-31/2020` | Mawadawilage Niluksha Madhushan Jayalath Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-25-CA-HCC--26-31-2020)
 - 2025-11-25 | `CA/HCC/ 0216/2020` | Ranhawadi Gedara Sriyani Mangalika Rajapaksha alias Nona Akka Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-25-CA-HCC--0216-2020)
 - 2025-11-21 | `CA/PHC/0069/2020` | W.A. Pushpa Kumara Vs. Chairman, Urban Council Kegalle. before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-21-CA-PHC-0069-2020)
 - 2025-11-21 | `CA/HCC/ 0079-083/2014` | Warnakulasuriya Chaminda Rohana Fernando and others Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-21-CA-HCC--0079-083-2014)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-14 | `CA (HCC)0047/2023` | Gamage Dharmasiri Gamage Vs Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-14-CA--HCC-0047-2023)
 - 2025-11-14 | `CA (HCC)0015-22/24` | Mohommad Seyin Mohommad Hamza and others Vs Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-14-CA--HCC-0015-22-24)
 - 2025-11-12 | `CA/WRT/588/24` | University of Peradeniya, Vs Maithree Wickramasinghe PC Chairman‚ University Services Appeal Board‚ Ward Place‚ before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-WRT-588-24)
-- 2025-11-12 | `CA/TAX/0029/22` | APL LANKA (PRIVATE) LIMITED Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-TAX-0029-22)
-- 2025-11-12 | `CA/TAX/0024/22` | APL LANKA (PRIVATE) LIMITED Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-TAX-0024-22)
 
 ---
 
