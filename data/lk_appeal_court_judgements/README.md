@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_12:43:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--25_13:22:12-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,254** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-21**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,255** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-21-CA-PHC-0069-2020",
-    "num": "CA/PHC/0069/2020",
-    "date_str": "2025-11-21",
-    "description": "W.A. Pushpa Kumara Vs. Chairman, Urban Council Kegalle. before Hon. K. M. S. DISSANAYAKE, J",
+    "doc_id": "2025-11-25-CA-HCC--0216-2020",
+    "num": "CA/HCC/ 0216/2020",
+    "date_str": "2025-11-25",
+    "description": "Ranhawadi Gedara Sriyani Mangalika Rajapaksha alias Nona Akka Vs. The Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5e7049ff-e750-425d-9c37-21ba68b9d235&filename=PHC-0069-20%20%2821.11.2025%29%20%281%29.pdf.pdf",
-    "parties": "W.A. Pushpa Kumara Vs. Chairman, Urban Council Kegalle.",
-    "judgement_by": "Hon. K. M. S. DISSANAYAKE, J",
-    "keywords": "Appeal from an Order of a Provincial High Court-Unauthorized construction-Defence available to an application under Section 28A(3) of the UDA Act as amended- Can a question mixed with fact and law be raised for the first time in Appeal.",
-    "legistation": "Articles 138 of the Constitution of the Democratic Socialist Republic of Sri Lanka, section 28A(3) of the Urban Development Authority Act No. 41 of 1978 as amended."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=33ce9893-3aa4-4699-9cc5-88031bdeffd7&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0216.2020.pdf.pdf",
+    "parties": "Ranhawadi Gedara Sriyani Mangalika Rajapaksha alias Nona Akka Vs. The Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Credibility and probability. \u2022 Inter se and per se contradictions. \u2022 Dock statement",
+    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-11-25 | `CA/HCC/ 0216/2020` | Ranhawadi Gedara Sriyani Mangalika Rajapaksha alias Nona Akka Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-25-CA-HCC--0216-2020)
 - 2025-11-21 | `CA/PHC/0069/2020` | W.A. Pushpa Kumara Vs. Chairman, Urban Council Kegalle. before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-21-CA-PHC-0069-2020)
 - 2025-11-21 | `CA/HCC/ 0079-083/2014` | Warnakulasuriya Chaminda Rohana Fernando and others Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-21-CA-HCC--0079-083-2014)
 - 2025-11-20 | `Kumastheru Liyange Sumudu Chinthaka Vs Bandula Jayasinghe Commissioner General of Lands, Land Commissioner General’s Department,` | WRT/576/24 before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-Kumastheru-Liyange-Sumu-b5599e0e)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-12 | `CA/WRT/588/24` | University of Peradeniya, Vs Maithree Wickramasinghe PC Chairman‚ University Services Appeal Board‚ Ward Place‚ before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-WRT-588-24)
 - 2025-11-12 | `CA/TAX/0029/22` | APL LANKA (PRIVATE) LIMITED Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-TAX-0029-22)
 - 2025-11-12 | `CA/TAX/0024/22` | APL LANKA (PRIVATE) LIMITED Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-TAX-0024-22)
-- 2025-11-12 | `CA PHC-166/20` | Urumuththa Hewa Radage Janaka Sampath Vs Officer in Charge Police Station Akuressa before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-12-CA-PHC-166-20)
 
 ---
 
