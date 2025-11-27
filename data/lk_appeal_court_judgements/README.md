@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_15:52:27-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--27_16:23:21-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,263** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-27**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,264** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-27**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-27-CA--RII-08-2021",
-    "num": "CA/ RII 08/2021",
+    "doc_id": "2025-11-27-CA-HCC-0246-2020",
+    "num": "CA HCC 0246/2020",
     "date_str": "2025-11-27",
-    "description": "Mohamed Sawahir Hadija Aathika, Vs Pakeer Mohomad Asisa Umma, and others before Hon.Dr. Sumudu Premachandra J.",
+    "description": "Gunasingha Arachchilage Susantha Kumara alias Ajith Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13127",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=7eb09a94-b026-4a62-ab71-a521f24d38ad&filename=RII-08-21%20FINAL.pdf.pdf",
-    "parties": "Mohamed Sawahir Hadija Aathika, Vs Pakeer Mohomad Asisa Umma, and others",
-    "judgement_by": "Hon.Dr. Sumudu Premachandra J.",
-    "keywords": "Finality is good but justice is better, Law assists the wakeful, not the sleepy Vigilantibus non dormientibus jura subveniunt,",
-    "legistation": ""
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c08799e7-0b6c-4c51-b28d-8f317cf89e29&filename=Judgment%20HCC%20246-20.pdf.pdf",
+    "parties": "Gunasingha Arachchilage Susantha Kumara alias Ajith Vs. The Hon. Attorney General",
+    "judgement_by": "Hon. Amal Ranaraja, J.",
+    "keywords": "Exception 4, Sudden fight exception to the offence of murder - Criteria to be met to invoke the benefit of the exception \u2013 Contradictions in the defence \u2013 Discrepancies and improbabilities undermine the credibility of the appellant\u2019s testimony",
+    "legistation": "- Section 140, 146, 296 of the Penal Code. - Exception 4 to Section 294 of the Penal Code"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-11-27 | `CA HCC 0246/2020` | Gunasingha Arachchilage Susantha Kumara alias Ajith Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-27-CA-HCC-0246-2020)
 - 2025-11-27 | `CA/ RII 08/2021` | Mohamed Sawahir Hadija Aathika, Vs Pakeer Mohomad Asisa Umma, and others before Hon.Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-27-CA--RII-08-2021)
 - 2025-11-25 | `HCC- 09/2022` | Madawala Liyanage Kusumawathie Vs The Hon.Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-25-HCC--09-2022)
 - 2025-11-25 | `CA/RTI 0001/2020` | Hewa Baddage Gunaratne vs The Designated Officer, Department of Education, Uwa Province. before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-25-CA-RTI-0001-2020)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-19 | `CA/RII-0009/2021` | Pulwansa Eranda Malaka De Silva and others Vs Geekiyanage Dulan Priyanga Silva before Hon.R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-RII-0009-2021)
 - 2025-11-19 | `CA/HCC/ 0179/2014` | Buddhika Prasanna Liyanage Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-HCC--0179-2014)
 - 2025-11-18 | `CA/WRT/273/19` | Super Neat Technology (Private) Limited Vs. Hon. P. Harrison, Minister of Agriculture, Rural Economic Affairs, Livestock Development, Irrigation and Fisheries and Aquatic Resources Development and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-18-CA-WRT-273-19)
-- 2025-11-17 | `HCC-132-133-24` | Galla Arachchige Piyathilaka And others Vs The Hon. Attorney General, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-17-HCC-132-133-24)
 
 ---
 
