@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_14:53:30-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_15:26:09-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,265** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-27**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,268** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-12-02**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-11-27-CA-HCC-0246-2020",
-    "num": "CA HCC 0246/2020",
-    "date_str": "2025-11-27",
-    "description": "Gunasingha Arachchilage Susantha Kumara alias Ajith Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J.",
-    "url_metadata": "https://courtofappeal.lk/?page_id=13127",
+    "doc_id": "2025-12-02-CA-WRT-0580-24",
+    "num": "CA/WRT/0580-24",
+    "date_str": "2025-12-02",
+    "description": "Refinitiv Limited (Formerly Reuters Limited) London Stock Exchange Group, Trace Expert City, Vs Hon. Anil Jayantha Fernando Minister of Labour, before Hon. Adithya Patabendige, J.",
+    "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c08799e7-0b6c-4c51-b28d-8f317cf89e29&filename=Judgment%20HCC%20246-20.pdf.pdf",
-    "parties": "Gunasingha Arachchilage Susantha Kumara alias Ajith Vs. The Hon. Attorney General",
-    "judgement_by": "Hon. Amal Ranaraja, J.",
-    "keywords": "Exception 4, Sudden fight exception to the offence of murder - Criteria to be met to invoke the benefit of the exception \u2013 Contradictions in the defence \u2013 Discrepancies and improbabilities undermine the credibility of the appellant\u2019s testimony",
-    "legistation": "- Section 140, 146, 296 of the Penal Code. - Exception 4 to Section 294 of the Penal Code"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=03ada367-1f3a-4e9c-8d51-ed941c1e18de&filename=0580%20-%2024%20%281%29.pdf.pdf",
+    "parties": "Refinitiv Limited (Formerly Reuters Limited) London Stock Exchange Group, Trace Expert City, Vs Hon. Anil Jayantha Fernando Minister of Labour,",
+    "judgement_by": "Hon. Adithya Patabendige, J.",
+    "keywords": "Writ of Certiorari, Contract of Employment, Contract for Employment, Unexplained Delay, Abuse of Court Process",
+    "legistation": "Article 140 of the Constitution of the Socialist Democratic Republic of Sri Lanka"
 }
 ```
 
@@ -44,6 +44,9 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-12-02 | `CA/WRT/0580-24` | Refinitiv Limited (Formerly Reuters Limited) London Stock Exchange Group, Trace Expert City, Vs Hon. Anil Jayantha Fernando Minister of Labour, before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-WRT-0580-24)
+- 2025-12-02 | `CA(PHC)APN 0040/25` | Sudheera Parakkrama Jinadasa Vs The Director General Commissioner to Investigate Allegation of Bribery and Corruption, Colombo-07. before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-PHC-APN-0040-25)
+- 2025-12-02 | `CA/HCC/ 0139/2024` | Rasika Nalin Kumara Rana Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-HCC--0139-2024)
 - 2025-11-27 | `CA HCC 0246/2020` | Gunasingha Arachchilage Susantha Kumara alias Ajith Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-27-CA-HCC-0246-2020)
 - 2025-11-27 | `CA/HCC/ 0079-80/2023` | Pelige Suranjith Kumara and other Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-27-CA-HCC--0079-80-2023)
 - 2025-11-27 | `CA/ RII 08/2021` | Mohamed Sawahir Hadija Aathika, Vs Pakeer Mohomad Asisa Umma, and others before Hon.Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-27-CA--RII-08-2021)
@@ -61,9 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-20 | `CA/RII/0072/2024` | Jason Lishon Batcho Vs Shenuka Anne Shireen Perera before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-RII-0072-2024)
 - 2025-11-20 | `CA/PHC/0099/2019` | Marasinghe Mudiyanselage Chandrani Kanthilatha Vs. Registrar of Co-operative Societies and Commissioner of Co - operative Development and 3 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-PHC-0099-2019)
 - 2025-11-20 | `CA/PHC/0078/2020` | N. Samantha Prasanna De Costa Vs. Thushara Chaminda Kariyawasam and another. before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-PHC-0078-2020)
-- 2025-11-19 | `CA/Writ 0382/2022` | Lokupatabandige Janitha Harsha Premalal vs Prof. Anura Manathunga, Director General, Department of Archaeology, before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-Writ-0382-2022)
-- 2025-11-19 | `CA/RII-0009/2021` | Pulwansa Eranda Malaka De Silva and others Vs Geekiyanage Dulan Priyanga Silva before Hon.R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-RII-0009-2021)
-- 2025-11-19 | `CA/HCC/ 0179/2014` | Buddhika Prasanna Liyanage Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-HCC--0179-2014)
 
 ---
 
