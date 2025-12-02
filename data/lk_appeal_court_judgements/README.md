@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_12:28:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--02_12:43:09-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,264** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-27**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,265** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-11-27**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -45,6 +45,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ## 🆕 20 Latest documents
 
 - 2025-11-27 | `CA HCC 0246/2020` | Gunasingha Arachchilage Susantha Kumara alias Ajith Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-27-CA-HCC-0246-2020)
+- 2025-11-27 | `CA/HCC/ 0079-80/2023` | Pelige Suranjith Kumara and other Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-27-CA-HCC--0079-80-2023)
 - 2025-11-27 | `CA/ RII 08/2021` | Mohamed Sawahir Hadija Aathika, Vs Pakeer Mohomad Asisa Umma, and others before Hon.Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-27-CA--RII-08-2021)
 - 2025-11-25 | `HCC- 09/2022` | Madawala Liyanage Kusumawathie Vs The Hon.Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-25-HCC--09-2022)
 - 2025-11-25 | `CA/RTI 0001/2020` | Hewa Baddage Gunaratne vs The Designated Officer, Department of Education, Uwa Province. before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-25-CA-RTI-0001-2020)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-19 | `CA/Writ 0382/2022` | Lokupatabandige Janitha Harsha Premalal vs Prof. Anura Manathunga, Director General, Department of Archaeology, before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-Writ-0382-2022)
 - 2025-11-19 | `CA/RII-0009/2021` | Pulwansa Eranda Malaka De Silva and others Vs Geekiyanage Dulan Priyanga Silva before Hon.R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-RII-0009-2021)
 - 2025-11-19 | `CA/HCC/ 0179/2014` | Buddhika Prasanna Liyanage Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-19-CA-HCC--0179-2014)
-- 2025-11-18 | `CA/WRT/273/19` | Super Neat Technology (Private) Limited Vs. Hon. P. Harrison, Minister of Agriculture, Rural Economic Affairs, Livestock Development, Irrigation and Fisheries and Aquatic Resources Development and others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-18-CA-WRT-273-19)
 
 ---
 
