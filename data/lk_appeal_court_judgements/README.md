@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_13:53:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--03_14:28:56-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,270** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.4 GB**), from **2012-04-23** to **2025-12-02**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,275** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-03**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-02-CA-WRT-0580-24",
-    "num": "CA/WRT/0580-24",
-    "date_str": "2025-12-02",
-    "description": "Refinitiv Limited (Formerly Reuters Limited) London Stock Exchange Group, Trace Expert City, Vs Hon. Anil Jayantha Fernando Minister of Labour, before Hon. Adithya Patabendige, J.",
+    "doc_id": "2025-12-03-CA-HCC--0139-142-2020",
+    "num": "CA/HCC/ 0139-142/2020",
+    "date_str": "2025-12-03",
+    "description": "Diyapaththugama Vidanalage Kumara Samarasinghe and others Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=03ada367-1f3a-4e9c-8d51-ed941c1e18de&filename=0580%20-%2024%20%281%29.pdf.pdf",
-    "parties": "Refinitiv Limited (Formerly Reuters Limited) London Stock Exchange Group, Trace Expert City, Vs Hon. Anil Jayantha Fernando Minister of Labour,",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Certiorari, Contract of Employment, Contract for Employment, Unexplained Delay, Abuse of Court Process",
-    "legistation": "Article 140 of the Constitution of the Socialist Democratic Republic of Sri Lanka"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3a8a1abd-7cf8-4775-a804-2ba9cab2b33f&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0139-142.2020.pdf.pdf",
+    "parties": "Diyapaththugama Vidanalage Kumara Samarasinghe and others Vs The Hon. Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Eye witness. \u2022 Contradictions and Omissions",
+    "legistation": "The Penal Code."
 }
 ```
 
@@ -44,9 +44,14 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-12-03 | `CA/HCC/ 0139-142/2020` | Diyapaththugama Vidanalage Kumara Samarasinghe and others Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-03-CA-HCC--0139-142-2020)
+- 2025-12-03 | `CA -HCC- 218/ 24` | Duminda Dinesh Liyanage Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-03-CA--HCC--218--24)
 - 2025-12-02 | `CA/WRT/0580-24` | Refinitiv Limited (Formerly Reuters Limited) London Stock Exchange Group, Trace Expert City, Vs Hon. Anil Jayantha Fernando Minister of Labour, before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-WRT-0580-24)
 - 2025-12-02 | `CA(PHC)APN 0040/25` | Sudheera Parakkrama Jinadasa Vs The Director General Commissioner to Investigate Allegation of Bribery and Corruption, Colombo-07. before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-PHC-APN-0040-25)
+- 2025-12-02 | `CA HCC 62-65/2020` | Gallage Rohana Pushpakumara and others Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-HCC-62-65-2020)
+- 2025-12-02 | `CA HCC 101/2019` | Kiribandage Kapilawansha Upuwila, Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-HCC-101-2019)
 - 2025-12-02 | `CA/HCC/ 0139/2024` | Rasika Nalin Kumara Rana Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-HCC--0139-2024)
+- 2025-12-02 | `CA (HCC)0157/2023` | Mohamed Asmeer Mohamed Asmeen Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA--HCC-0157-2023)
 - 2025-12-02 | `CA / WRIT/ 132/2015` | Pussellawa Plantations Limited Vs Hon. Minister of Plantation Industries and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA---WRIT--132-2015)
 - 2025-11-27 | `CA HCC 0246/2020` | Gunasingha Arachchilage Susantha Kumara alias Ajith Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-27-CA-HCC-0246-2020)
 - 2025-11-27 | `CA/HCC/ 0079-80/2023` | Pelige Suranjith Kumara and other Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-27-CA-HCC--0079-80-2023)
@@ -59,11 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-11-24 | `CA/WRT/1088/2025` | Panagodage Shamal Fernando Vs Officer-In-Charge of the Fort Police Station and Two Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-24-CA-WRT-1088-2025)
 - 2025-11-21 | `CA/PHC/0069/2020` | W.A. Pushpa Kumara Vs. Chairman, Urban Council Kegalle. before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-21-CA-PHC-0069-2020)
 - 2025-11-21 | `CA/HCC/ 0079-083/2014` | Warnakulasuriya Chaminda Rohana Fernando and others Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-21-CA-HCC--0079-083-2014)
-- 2025-11-20 | `Kumastheru Liyange Sumudu Chinthaka Vs Bandula Jayasinghe Commissioner General of Lands, Land Commissioner General’s Department,` | WRT/576/24 before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-Kumastheru-Liyange-Sumu-b5599e0e)
-- 2025-11-20 | `CA/WRT/834/2024` | Kaluthota Investments and Leasing (Pvt) Ltd., and Loku Kaluthotage Nandasena Vs Ginthota Sarukkali Patebendige and 90 Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-WRT-834-2024)
-- 2025-11-20 | `CA/WRT/775/2023` | M.W. Oshan Weerasinghe Vs Director General of Customs of the Bandaranayake International Airport and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-WRT-775-2023)
-- 2025-11-20 | `CA/RII/0072/2024` | Jason Lishon Batcho Vs Shenuka Anne Shireen Perera before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-RII-0072-2024)
-- 2025-11-20 | `CA/PHC/0099/2019` | Marasinghe Mudiyanselage Chandrani Kanthilatha Vs. Registrar of Co-operative Societies and Commissioner of Co - operative Development and 3 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-20-CA-PHC-0099-2019)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-12-03 13:53:53",
-  "n_docs": 10270,
-  "n_docs_with_pdfs": 10270,
-  "n_docs_with_text": 10270,
+  "time_updated": "2025-12-03 14:28:50",
+  "n_docs": 10275,
+  "n_docs_with_pdfs": 10275,
+  "n_docs_with_text": 10275,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-12-02",
-  "dataset_size": 10449402881,
+  "date_str_max": "2025-12-03",
+  "dataset_size": 10451959795,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-02-CA-WRT-0580-24",
-    "num": "CA/WRT/0580-24",
-    "date_str": "2025-12-02",
-    "description": "Refinitiv Limited (Formerly Reuters Limited) London Stock Exchange Group, Trace Expert City, Vs Hon. Anil Jayantha Fernando Minister of Labour, before Hon. Adithya Patabendige, J.",
+    "doc_id": "2025-12-03-CA-HCC--0139-142-2020",
+    "num": "CA/HCC/ 0139-142/2020",
+    "date_str": "2025-12-03",
+    "description": "Diyapaththugama Vidanalage Kumara Samarasinghe and others Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=03ada367-1f3a-4e9c-8d51-ed941c1e18de&filename=0580%20-%2024%20%281%29.pdf.pdf",
-    "parties": "Refinitiv Limited (Formerly Reuters Limited) London Stock Exchange Group, Trace Expert City, Vs Hon. Anil Jayantha Fernando Minister of Labour,",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Certiorari, Contract of Employment, Contract for Employment, Unexplained Delay, Abuse of Court Process",
-    "legistation": "Article 140 of the Constitution of the Socialist Democratic Republic of Sri Lanka"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3a8a1abd-7cf8-4775-a804-2ba9cab2b33f&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0139-142.2020.pdf.pdf",
+    "parties": "Diyapaththugama Vidanalage Kumara Samarasinghe and others Vs The Hon. Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Eye witness. \u2022 Contradictions and Omissions",
+    "legistation": "The Penal Code."
   }
 }
