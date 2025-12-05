@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-12-05 14:27:20",
-  "n_docs": 10282,
-  "n_docs_with_pdfs": 10282,
-  "n_docs_with_text": 10282,
+  "time_updated": "2025-12-05 14:52:46",
+  "n_docs": 10283,
+  "n_docs_with_pdfs": 10283,
+  "n_docs_with_text": 10283,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
   "date_str_max": "2025-12-05",
-  "dataset_size": 10460012764,
+  "dataset_size": 10460586040,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-05-CA--HCC-0027-2024",
-    "num": "CA (HCC)0027/2024",
+    "doc_id": "2025-12-05-CA--HCC-0214-2019",
+    "num": "CA (HCC)0214/2019",
     "date_str": "2025-12-05",
-    "description": "Weerasingha Appuhamilage Sujeewa Sampath Weerasingha, Vs Hon. Attorney General before Hon. R.P. Hettiarachchi, J.",
+    "description": "Devasagayam Fernando alias Oliver Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6fef6327-e862-410a-be9a-3951a381e630&filename=HCC-0027-24-Rape-Mitigation.pdf.pdf",
-    "parties": "Weerasingha Appuhamilage Sujeewa Sampath Weerasingha, Vs Hon. Attorney General",
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=95023e67-1e60-4050-a4b2-4f65d5d4e84b&filename=HCC-0214-19-Heroin.pdf.pdf",
+    "parties": "Devasagayam Fernando alias Oliver Vs Hon. Attorney General,",
     "judgement_by": "Hon. R.P. Hettiarachchi, J.",
-    "keywords": "Statutory Rape-Aggravating Circumstances-Mitigating factors- Degree of pre-planning by the Appellant- Physical and psychological trauma endured by the victim- Deterrence on the society.",
-    "legistation": "Section 364(2) (e) of the Penal Code as amended by the Act No 22 of 1995. - Section 333(5) of the Code of Criminal Procedure Code Act"
+    "keywords": "Possession and trafficking of heroin- Credibility of the prosecution\u2019s version- Dock statement-Chain of custody- Importance of maintaining notes",
+    "legistation": "Sections 54A (b) and 54A (d) of the Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No. 13 of 1984."
   }
 }
