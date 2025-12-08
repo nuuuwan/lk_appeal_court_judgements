@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_15:42:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--08_16:43:33-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,285** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-08**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,287** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-08**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 - 2025-12-08 | `CA/WRIT/126/2024` | Shanthany Sirisena and Manju Vasvani Vs Condominium Management Authority and 2 others before Hon.. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-08-CA-WRIT-126-2024)
 - 2025-12-08 | `CA/HCC/ 0377-381/2019` | Duraisamy Chamil Selvam 2. Selliah Balakrishna 3. Irulan Adi Ganeshan 4. Duraisamy Manoharan 5. Selvaraj Sivashakthi Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-08-CA-HCC--0377-381-2019)
+- 2025-12-08 | `CA -HCC-298-299/24` | Pasadoruge Dilum Tharanga Perera alias Kasadoruge Dilum Tharanga Perera Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-08-CA--HCC-298-299-24)
+- 2025-12-08 | `CA -HCC- 146/2022` | Palawattage Nuwan Palawattage Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-08-CA--HCC--146-2022)
 - 2025-12-05 | `CA (HCC)0214/2019` | Devasagayam Fernando alias Oliver Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-05-CA--HCC-0214-2019)
 - 2025-12-05 | `CA (HCC)0027/2024` | Weerasingha Appuhamilage Sujeewa Sampath Weerasingha, Vs Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-05-CA--HCC-0027-2024)
 - 2025-12-03 | `CA(PHC)0028/2021` | Yakalla Kankanamge Sumanasena and Another Vs. Samarawickrama Liyanage Nalin Randika and 3 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-03-CA-PHC-0028-2021)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-02 | `CA (HCC)0157/2023` | Mohamed Asmeer Mohamed Asmeen Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA--HCC-0157-2023)
 - 2025-12-02 | `CA (HCC)0059/2023` | Widana Gamage Sudesh Milan Vs The Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA--HCC-0059-2023)
 - 2025-12-02 | `CA / WRIT/ 132/2015` | Pussellawa Plantations Limited Vs Hon. Minister of Plantation Industries and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA---WRIT--132-2015)
-- 2025-11-27 | `CA HCC 0246/2020` | Gunasingha Arachchilage Susantha Kumara alias Ajith Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-27-CA-HCC-0246-2020)
-- 2025-11-27 | `CA/HCC/ 0079-80/2023` | Pelige Suranjith Kumara and other Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-11-27-CA-HCC--0079-80-2023)
 
 ---
 
