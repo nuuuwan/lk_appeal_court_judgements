@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-12-08 12:54:13",
-  "n_docs": 10284,
-  "n_docs_with_pdfs": 10284,
-  "n_docs_with_text": 10284,
+  "time_updated": "2025-12-08 13:19:16",
+  "n_docs": 10285,
+  "n_docs_with_pdfs": 10285,
+  "n_docs_with_text": 10285,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
   "date_str_max": "2025-12-08",
-  "dataset_size": 10462214583,
+  "dataset_size": 10462762345,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-08-CA-HCC--0377-381-2019",
-    "num": "CA/HCC/ 0377-381/2019",
+    "doc_id": "2025-12-08-CA-WRIT-126-2024",
+    "num": "CA/WRIT/126/2024",
     "date_str": "2025-12-08",
-    "description": "Duraisamy Chamil Selvam 2. Selliah Balakrishna 3. Irulan Adi Ganeshan 4. Duraisamy Manoharan 5. Selvaraj Sivashakthi Vs. The Attorney General before Hon. P. Kumararatnam, J.",
+    "description": "Shanthany Sirisena and Manju Vasvani Vs Condominium Management Authority and 2 others before Hon.. Mahen Gopallawa, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3d3d21a0-55f4-4591-8eef-ba78bc12ee7b&filename=Court%20of%20Appeal%20JUDGMENT%20CA.0377-381-2019.pdf.pdf",
-    "parties": "Duraisamy Chamil Selvam 2. Selliah Balakrishna 3. Irulan Adi Ganeshan 4. Duraisamy Manoharan 5. Selvaraj Sivashakthi Vs. The Attorney General",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Eye witness. \u2022 Contradictions and Omissions. \u2022 Dying Declaration. \u2022 Alibi \u2022 Judgment Writing",
-    "legistation": "The Penal Code"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=da25670b-4e8e-4f89-9920-5d6866cfb6c3&filename=CA%20Writ%20126-24%20Judgment.pdf.pdf",
+    "parties": "Shanthany Sirisena and Manju Vasvani Vs Condominium Management Authority and 2 others",
+    "judgement_by": "Hon.. Mahen Gopallawa, J.",
+    "keywords": "condominium property \u2013 condominium unit-condominium plan- Condominium Management Authority \u2013 striking off company, vesting property in the State \u2013 deed of declaration \u2013 locus standi \u2013 contractual dispute - necessary parties \u2013 futility",
+    "legistation": "Condominium Management Authority Law, No. 10 of 1973 (as amended) Apartment Ownership Law, No. 11 of 1973 (as amended) Apartment Ownership (Special Provisions) Act, No. 23 of 2018 Companies Act, No. 7 of 2007 (as amended)"
   }
 }
