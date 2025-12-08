@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-12-08 11:16:35",
-  "n_docs": 10283,
-  "n_docs_with_pdfs": 10283,
-  "n_docs_with_text": 10283,
+  "time_updated": "2025-12-08 11:55:43",
+  "n_docs": 10284,
+  "n_docs_with_pdfs": 10284,
+  "n_docs_with_text": 10284,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-12-05",
-  "dataset_size": 10461102662,
+  "date_str_max": "2025-12-08",
+  "dataset_size": 10461720263,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-05-CA--HCC-0214-2019",
-    "num": "CA (HCC)0214/2019",
-    "date_str": "2025-12-05",
-    "description": "Devasagayam Fernando alias Oliver Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J.",
+    "doc_id": "2025-12-08-CA-HCC--0377-381-2019",
+    "num": "CA/HCC/ 0377-381/2019",
+    "date_str": "2025-12-08",
+    "description": "Duraisamy Chamil Selvam 2. Selliah Balakrishna 3. Irulan Adi Ganeshan 4. Duraisamy Manoharan 5. Selvaraj Sivashakthi Vs. The Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=95023e67-1e60-4050-a4b2-4f65d5d4e84b&filename=HCC-0214-19-Heroin.pdf.pdf",
-    "parties": "Devasagayam Fernando alias Oliver Vs Hon. Attorney General,",
-    "judgement_by": "Hon. R.P. Hettiarachchi, J.",
-    "keywords": "Possession and trafficking of heroin- Credibility of the prosecution\u2019s version- Dock statement-Chain of custody- Importance of maintaining notes",
-    "legistation": "Sections 54A (b) and 54A (d) of the Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No. 13 of 1984."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3d3d21a0-55f4-4591-8eef-ba78bc12ee7b&filename=Court%20of%20Appeal%20JUDGMENT%20CA.0377-381-2019.pdf.pdf",
+    "parties": "Duraisamy Chamil Selvam 2. Selliah Balakrishna 3. Irulan Adi Ganeshan 4. Duraisamy Manoharan 5. Selvaraj Sivashakthi Vs. The Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Eye witness. \u2022 Contradictions and Omissions. \u2022 Dying Declaration. \u2022 Alibi \u2022 Judgment Writing",
+    "legistation": "The Penal Code"
   }
 }
