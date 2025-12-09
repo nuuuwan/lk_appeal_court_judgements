@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_11:54:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_12:29:48-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,287** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-08**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,291** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-08**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -55,6 +55,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-03 | `CA -HCC- 218/ 24` | Duminda Dinesh Liyanage Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-03-CA--HCC--218--24)
 - 2025-12-02 | `CA/WRT/0580-24` | Refinitiv Limited (Formerly Reuters Limited) London Stock Exchange Group, Trace Expert City, Vs Hon. Anil Jayantha Fernando Minister of Labour, before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-WRT-0580-24)
 - 2025-12-02 | `CA/WRT/0333/2022` | P.A.M. Wijasekera Vs Commander of the Air Force before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-WRT-0333-2022)
+- 2025-12-02 | `CA/WRT-0051-24` | Balakrishnan Puvanenthirarasa and another Vs K.D. Bandula Jayasinghe, Land Commissioner General and others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-WRT-0051-24)
 - 2025-12-02 | `CA(PHC)APN 0040/25` | Sudheera Parakkrama Jinadasa Vs The Director General Commissioner to Investigate Allegation of Bribery and Corruption, Colombo-07. before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-PHC-APN-0040-25)
 - 2025-12-02 | `CA/PHC/0190/2018` | Thiruwam Cooray Muhandiramge Nihal and Another Vs. Badureliya Arachchige Palitha Ariyarne and Another before Hon. K. M. S. DISSANAYAKE, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-PHC-0190-2018)
 - 2025-12-02 | `CA HCC 62-65/2020` | Gallage Rohana Pushpakumara and others Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-HCC-62-65-2020)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-02 | `CA (HCC)0229/2023` | Weerasinghe Pathiranage Somasiri Vs The Hon. Attorney General, before CA (HCC)0229/2023 | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA--HCC-0229-2023)
 - 2025-12-02 | `CA (HCC)0157/2023` | Mohamed Asmeer Mohamed Asmeen Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA--HCC-0157-2023)
 - 2025-12-02 | `CA (HCC)0059/2023` | Widana Gamage Sudesh Milan Vs The Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA--HCC-0059-2023)
-- 2025-12-02 | `CA / WRIT/ 132/2015` | Pussellawa Plantations Limited Vs Hon. Minister of Plantation Industries and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA---WRIT--132-2015)
 
 ---
 
