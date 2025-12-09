@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_13:23:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--09_13:53:12-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,291** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-08**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,292** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-09**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-08-CA-WRIT-126-2024",
-    "num": "CA/WRIT/126/2024",
-    "date_str": "2025-12-08",
-    "description": "Shanthany Sirisena and Manju Vasvani Vs Condominium Management Authority and 2 others before Hon.. Mahen Gopallawa, J.",
+    "doc_id": "2025-12-09-CA-HCC--0175-2023",
+    "num": "CA/HCC/ 0175/2023",
+    "date_str": "2025-12-09",
+    "description": "Ramar Udayakumar alias Appu Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=da25670b-4e8e-4f89-9920-5d6866cfb6c3&filename=CA%20Writ%20126-24%20Judgment.pdf.pdf",
-    "parties": "Shanthany Sirisena and Manju Vasvani Vs Condominium Management Authority and 2 others",
-    "judgement_by": "Hon.. Mahen Gopallawa, J.",
-    "keywords": "condominium property \u2013 condominium unit-condominium plan- Condominium Management Authority \u2013 striking off company, vesting property in the State \u2013 deed of declaration \u2013 locus standi \u2013 contractual dispute - necessary parties \u2013 futility",
-    "legistation": "Condominium Management Authority Law, No. 10 of 1973 (as amended) Apartment Ownership Law, No. 11 of 1973 (as amended) Apartment Ownership (Special Provisions) Act, No. 23 of 2018 Companies Act, No. 7 of 2007 (as amended)"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ff85d7e2-c0d7-48ef-a425-3e39e6196e5c&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0175.23.pdf.pdf",
+    "parties": "Ramar Udayakumar alias Appu Vs The Hon. Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "\u2022 Irregularities in presentation of evidence. \u2022 Compromising the Medico Legal Report. \u2022 Second statement.",
+    "legistation": "The Penal Code."
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-12-09 | `CA/HCC/ 0175/2023` | Ramar Udayakumar alias Appu Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-09-CA-HCC--0175-2023)
 - 2025-12-08 | `CA/WRIT/126/2024` | Shanthany Sirisena and Manju Vasvani Vs Condominium Management Authority and 2 others before Hon.. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-08-CA-WRIT-126-2024)
 - 2025-12-08 | `CA/HCC/ 0377-381/2019` | Duraisamy Chamil Selvam 2. Selliah Balakrishna 3. Irulan Adi Ganeshan 4. Duraisamy Manoharan 5. Selvaraj Sivashakthi Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-08-CA-HCC--0377-381-2019)
 - 2025-12-08 | `CA -HCC-298-299/24` | Pasadoruge Dilum Tharanga Perera alias Kasadoruge Dilum Tharanga Perera Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-08-CA--HCC-298-299-24)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-02 | `CA/HCC/ 0139/2024` | Rasika Nalin Kumara Rana Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-HCC--0139-2024)
 - 2025-12-02 | `CA (HCC)0229/2023` | Weerasinghe Pathiranage Somasiri Vs The Hon. Attorney General, before CA (HCC)0229/2023 | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA--HCC-0229-2023)
 - 2025-12-02 | `CA (HCC)0157/2023` | Mohamed Asmeer Mohamed Asmeen Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA--HCC-0157-2023)
-- 2025-12-02 | `CA (HCC)0059/2023` | Widana Gamage Sudesh Milan Vs The Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA--HCC-0059-2023)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-12-09 13:23:08",
-  "n_docs": 10291,
-  "n_docs_with_pdfs": 10291,
-  "n_docs_with_text": 10291,
+  "time_updated": "2025-12-09 13:53:06",
+  "n_docs": 10292,
+  "n_docs_with_pdfs": 10292,
+  "n_docs_with_text": 10292,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-12-08",
-  "dataset_size": 10467082621,
+  "date_str_max": "2025-12-09",
+  "dataset_size": 10467356047,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-08-CA-WRIT-126-2024",
-    "num": "CA/WRIT/126/2024",
-    "date_str": "2025-12-08",
-    "description": "Shanthany Sirisena and Manju Vasvani Vs Condominium Management Authority and 2 others before Hon.. Mahen Gopallawa, J.",
+    "doc_id": "2025-12-09-CA-HCC--0175-2023",
+    "num": "CA/HCC/ 0175/2023",
+    "date_str": "2025-12-09",
+    "description": "Ramar Udayakumar alias Appu Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=da25670b-4e8e-4f89-9920-5d6866cfb6c3&filename=CA%20Writ%20126-24%20Judgment.pdf.pdf",
-    "parties": "Shanthany Sirisena and Manju Vasvani Vs Condominium Management Authority and 2 others",
-    "judgement_by": "Hon.. Mahen Gopallawa, J.",
-    "keywords": "condominium property \u2013 condominium unit-condominium plan- Condominium Management Authority \u2013 striking off company, vesting property in the State \u2013 deed of declaration \u2013 locus standi \u2013 contractual dispute - necessary parties \u2013 futility",
-    "legistation": "Condominium Management Authority Law, No. 10 of 1973 (as amended) Apartment Ownership Law, No. 11 of 1973 (as amended) Apartment Ownership (Special Provisions) Act, No. 23 of 2018 Companies Act, No. 7 of 2007 (as amended)"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ff85d7e2-c0d7-48ef-a425-3e39e6196e5c&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0175.23.pdf.pdf",
+    "parties": "Ramar Udayakumar alias Appu Vs The Hon. Attorney General",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "\u2022 Irregularities in presentation of evidence. \u2022 Compromising the Medico Legal Report. \u2022 Second statement.",
+    "legistation": "The Penal Code."
   }
 }
