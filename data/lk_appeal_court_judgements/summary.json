@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-12-10 13:22:47",
-  "n_docs": 10296,
-  "n_docs_with_pdfs": 10296,
-  "n_docs_with_text": 10296,
+  "time_updated": "2025-12-10 13:53:58",
+  "n_docs": 10298,
+  "n_docs_with_pdfs": 10298,
+  "n_docs_with_text": 10298,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-12-09",
-  "dataset_size": 10470323463,
+  "date_str_max": "2025-12-10",
+  "dataset_size": 10471073695,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-09-CA-WRIT--647-2025",
-    "num": "CA WRIT/ 647/2025",
-    "date_str": "2025-12-09",
-    "description": "Express Environmental Services (Private) Limited Vs Lakmendra Thennakoon (Chairman-Technical Evaluation Committee) And 9 Others before Hon. K. Priyantha Fernando, J.(CA)",
+    "doc_id": "2025-12-10-CA-RII-0068-2025",
+    "num": "CA/RII/0068/2025",
+    "date_str": "2025-12-10",
+    "description": "Liyana Arachchilage Podisingho Appuhami Vs People's Leasing and Finance PLC, before Hon. R. Gurusinghe, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=31feaf32-75c3-4cb3-ad35-074ec30503e5&filename=WRT%20647-25-Procurement%20%281%29.pdf.pdf",
-    "parties": "Express Environmental Services (Private) Limited Vs Lakmendra Thennakoon (Chairman-Technical Evaluation Committee) And 9 Others",
-    "judgement_by": "Hon. K. Priyantha Fernando, J.(CA)",
-    "keywords": "Public Procurement, Writ of Certiorari, Writ of Mandamus, Lowest Responsive Bidder, Bid Non-Compliance, Rectification of Defects, Affidavits, Court of Appeal Rules 1990 (Rule 3(1)(a)), Laches, Balance of Convenience, Technical Evaluation Committee (TEC), Ministerial Procurement Committee (MPC), Procurement Appeals Committee (PAC)",
-    "legistation": "Companies Act No. 7 of 2007, Constitution of Sri Lanka (Article 140, 141), Court of Appeal Rules 1990 (Rule 3(1)(a)), Procurement Guidelines 2024, Evidence Ordinance (Section 114, Illustration (f))"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9aea0aae-cc5d-40b9-8380-d89897ea871d&filename=RII%200068-25%20%28pdf%29.pdf.pdf",
+    "parties": "Liyana Arachchilage Podisingho Appuhami Vs People's Leasing and Finance PLC,",
+    "judgement_by": "Hon. R. Gurusinghe, J.",
+    "keywords": "Effect of Sale after decree nisi,",
+    "legistation": "The Recovery of Loans (Special Provisions) Act No. 2 of 1990,"
   }
 }
