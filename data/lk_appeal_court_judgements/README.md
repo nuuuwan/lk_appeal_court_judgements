@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_12:44:41-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--10_13:22:51-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,295** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-09**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,296** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-09**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-09-CA-HCC-0266-23",
-    "num": "CA HCC 0266/23",
+    "doc_id": "2025-12-09-CA-WRIT--647-2025",
+    "num": "CA WRIT/ 647/2025",
     "date_str": "2025-12-09",
-    "description": "Hamburugala Withanage Kelum Sujeewa Abewickrama Vs Hon. Attorney General, before Hon. Amal Ranaraja, J.",
+    "description": "Express Environmental Services (Private) Limited Vs Lakmendra Thennakoon (Chairman-Technical Evaluation Committee) And 9 Others before Hon. K. Priyantha Fernando, J.(CA)",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=fafabe7f-195e-4bc4-967a-e7289c5a1f10&filename=CA%20HCC%200266-23.pdf.pdf",
-    "parties": "Hamburugala Withanage Kelum Sujeewa Abewickrama Vs Hon. Attorney General,",
-    "judgement_by": "Hon. Amal Ranaraja, J.",
-    "keywords": "Murder \u2013 Robbery \u2013 One of the key evidentiary matters is the use of dying declarations \u2013 Under the maxim \u201cnemo moriturus praesumitur mentiri\u201d \u2013 dying declarations are treated as a recognised exception to the hearsay rule \u2013 A person facing imminent death without hope of recovery, is believed to have a heightened moral and spiritual obligation to speak the truth \u2013 Despite the presumption of trustworthiness, dying declarations are not free from weaknesses \u2013 Courts must carefully evaluate their reliability \u2013 Discrepancies between the dying declaration and the accused\u2019s dock statement.",
-    "legistation": "Section 32(1) of the Evidence Ordinance No.14 of 1895 - Section 126A, 436 of the Code of Criminal Procedure Act No.15 of 1979 (as amended)"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=31feaf32-75c3-4cb3-ad35-074ec30503e5&filename=WRT%20647-25-Procurement%20%281%29.pdf.pdf",
+    "parties": "Express Environmental Services (Private) Limited Vs Lakmendra Thennakoon (Chairman-Technical Evaluation Committee) And 9 Others",
+    "judgement_by": "Hon. K. Priyantha Fernando, J.(CA)",
+    "keywords": "Public Procurement, Writ of Certiorari, Writ of Mandamus, Lowest Responsive Bidder, Bid Non-Compliance, Rectification of Defects, Affidavits, Court of Appeal Rules 1990 (Rule 3(1)(a)), Laches, Balance of Convenience, Technical Evaluation Committee (TEC), Ministerial Procurement Committee (MPC), Procurement Appeals Committee (PAC)",
+    "legistation": "Companies Act No. 7 of 2007, Constitution of Sri Lanka (Article 140, 141), Court of Appeal Rules 1990 (Rule 3(1)(a)), Procurement Guidelines 2024, Evidence Ordinance (Section 114, Illustration (f))"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-12-09 | `CA WRIT/ 647/2025` | Express Environmental Services (Private) Limited Vs Lakmendra Thennakoon (Chairman-Technical Evaluation Committee) And 9 Others before Hon. K. Priyantha Fernando, J.(CA) | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-09-CA-WRIT--647-2025)
 - 2025-12-09 | `CA HCC 0266/23` | Hamburugala Withanage Kelum Sujeewa Abewickrama Vs Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-09-CA-HCC-0266-23)
 - 2025-12-09 | `CA/HCC/ 0175/2023` | Ramar Udayakumar alias Appu Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-09-CA-HCC--0175-2023)
 - 2025-12-08 | `CA/WRIT/126/2024` | Shanthany Sirisena and Manju Vasvani Vs Condominium Management Authority and 2 others before Hon.. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-08-CA-WRIT-126-2024)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-02 | `CA/PHC/0190/2018` | Thiruwam Cooray Muhandiramge Nihal and Another Vs. Badureliya Arachchige Palitha Ariyarne and Another before Hon. K. M. S. DISSANAYAKE, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-PHC-0190-2018)
 - 2025-12-02 | `CA HCC 62-65/2020` | Gallage Rohana Pushpakumara and others Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-HCC-62-65-2020)
 - 2025-12-02 | `CA HCC 101/2019` | Kiribandage Kapilawansha Upuwila, Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-HCC-101-2019)
-- 2025-12-02 | `CA/HCC/ 0139/2024` | Rasika Nalin Kumara Rana Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-HCC--0139-2024)
 
 ---
 
