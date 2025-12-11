@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-12-11 12:31:39",
-  "n_docs": 10299,
-  "n_docs_with_pdfs": 10299,
-  "n_docs_with_text": 10299,
+  "time_updated": "2025-12-11 12:45:09",
+  "n_docs": 10300,
+  "n_docs_with_pdfs": 10300,
+  "n_docs_with_text": 10300,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-12-10",
-  "dataset_size": 10471915887,
+  "date_str_max": "2025-12-11",
+  "dataset_size": 10472351190,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-10-CA-RII-0068-2025",
-    "num": "CA/RII/0068/2025",
-    "date_str": "2025-12-10",
-    "description": "Liyana Arachchilage Podisingho Appuhami Vs People's Leasing and Finance PLC, before Hon. R. Gurusinghe, J.",
+    "doc_id": "2025-12-11-CA--HCC--046-049-24",
+    "num": "CA -HCC- 046-049-24",
+    "date_str": "2025-12-11",
+    "description": "Hembathanthrige Ajith Sirimewan Fernando Alias J.V.P. Ajith Vs Officer-in-Charge Police Station Payagala before Hon. B. Sasi Mahendran, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9aea0aae-cc5d-40b9-8380-d89897ea871d&filename=RII%200068-25%20%28pdf%29.pdf.pdf",
-    "parties": "Liyana Arachchilage Podisingho Appuhami Vs People's Leasing and Finance PLC,",
-    "judgement_by": "Hon. R. Gurusinghe, J.",
-    "keywords": "Effect of Sale after decree nisi,",
-    "legistation": "The Recovery of Loans (Special Provisions) Act No. 2 of 1990,"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=75f109f1-71e3-4d6b-9730-ba26d39d7298&filename=HCC%2046-49-24-JUDGEMENT.pdf.pdf",
+    "parties": "Hembathanthrige Ajith Sirimewan Fernando Alias J.V.P. Ajith Vs Officer-in-Charge Police Station Payagala",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "consistency, discrepancy",
+    "legistation": "Section 296 of the Penal Code, read with Section 140 of the Penal Code"
   }
 }
