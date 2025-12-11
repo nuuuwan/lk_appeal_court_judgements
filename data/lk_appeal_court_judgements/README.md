@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--11_11:25:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--11_11:54:50-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,298** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-10**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,299** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-10**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -53,6 +53,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-08 | `CA/HCC/ 0377-381/2019` | Duraisamy Chamil Selvam 2. Selliah Balakrishna 3. Irulan Adi Ganeshan 4. Duraisamy Manoharan 5. Selvaraj Sivashakthi Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-08-CA-HCC--0377-381-2019)
 - 2025-12-08 | `CA -HCC-298-299/24` | Pasadoruge Dilum Tharanga Perera alias Kasadoruge Dilum Tharanga Perera Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-08-CA--HCC-298-299-24)
 - 2025-12-08 | `CA -HCC- 146/2022` | Palawattage Nuwan Palawattage Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-08-CA--HCC--146-2022)
+- 2025-12-05 | `CA/WRT/140/2023` | L.P.S.A.K. Jayasinghe Vs Senior Deputy Inspector of Police of the Western Province and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-05-CA-WRT-140-2023)
 - 2025-12-05 | `CA (HCC)0214/2019` | Devasagayam Fernando alias Oliver Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-05-CA--HCC-0214-2019)
 - 2025-12-05 | `CA (HCC)0027/2024` | Weerasingha Appuhamilage Sujeewa Sampath Weerasingha, Vs Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-05-CA--HCC-0027-2024)
 - 2025-12-03 | `CA(PHC)0028/2021` | Yakalla Kankanamge Sumanasena and Another Vs. Samarawickrama Liyanage Nalin Randika and 3 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-03-CA-PHC-0028-2021)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-02 | `CA/WRT/0333/2022` | P.A.M. Wijasekera Vs Commander of the Air Force before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-WRT-0333-2022)
 - 2025-12-02 | `CA/WRT-0051-24` | Balakrishnan Puvanenthirarasa and another Vs K.D. Bandula Jayasinghe, Land Commissioner General and others. before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-WRT-0051-24)
 - 2025-12-02 | `CA(PHC)APN 0040/25` | Sudheera Parakkrama Jinadasa Vs The Director General Commissioner to Investigate Allegation of Bribery and Corruption, Colombo-07. before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-PHC-APN-0040-25)
-- 2025-12-02 | `CA/PHC/0190/2018` | Thiruwam Cooray Muhandiramge Nihal and Another Vs. Badureliya Arachchige Palitha Ariyarne and Another before Hon. K. M. S. DISSANAYAKE, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-02-CA-PHC-0190-2018)
 
 ---
 
