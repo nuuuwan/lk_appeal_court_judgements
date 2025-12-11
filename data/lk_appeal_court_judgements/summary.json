@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-12-11 15:52:57",
-  "n_docs": 10300,
-  "n_docs_with_pdfs": 10300,
-  "n_docs_with_text": 10300,
+  "time_updated": "2025-12-11 16:27:35",
+  "n_docs": 10306,
+  "n_docs_with_pdfs": 10306,
+  "n_docs_with_text": 10306,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
   "date_str_max": "2025-12-11",
-  "dataset_size": 10472700448,
+  "dataset_size": 10476488063,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-11-CA--HCC--046-049-24",
-    "num": "CA -HCC- 046-049-24",
+    "doc_id": "2025-12-11-CA--Writ--344-2018",
+    "num": "CA /Writ/ 344/2018",
     "date_str": "2025-12-11",
-    "description": "Hembathanthrige Ajith Sirimewan Fernando Alias J.V.P. Ajith Vs Officer-in-Charge Police Station Payagala before Hon. B. Sasi Mahendran, J.",
+    "description": "Muthukutti Liyanarachchige Leelananda Jayasena Vs Chairman National Housing Development Authority, And other before Hon.Dhammika Ganepola, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=75f109f1-71e3-4d6b-9730-ba26d39d7298&filename=HCC%2046-49-24-JUDGEMENT.pdf.pdf",
-    "parties": "Hembathanthrige Ajith Sirimewan Fernando Alias J.V.P. Ajith Vs Officer-in-Charge Police Station Payagala",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "consistency, discrepancy",
-    "legistation": "Section 296 of the Penal Code, read with Section 140 of the Penal Code"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=89442853-39d9-4373-8100-ed1c472031f3&filename=CA%20-Writ-%20344-2018%20.pdf.pdf",
+    "parties": "Muthukutti Liyanarachchige Leelananda Jayasena Vs Chairman National Housing Development Authority, And other",
+    "judgement_by": "Hon.Dhammika Ganepola, J.",
+    "keywords": "",
+    "legistation": ""
   }
 }
