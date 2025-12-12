@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-12-12 12:31:55",
-  "n_docs": 10306,
-  "n_docs_with_pdfs": 10306,
-  "n_docs_with_text": 10306,
+  "time_updated": "2025-12-12 14:30:19",
+  "n_docs": 10307,
+  "n_docs_with_pdfs": 10307,
+  "n_docs_with_text": 10307,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-12-11",
-  "dataset_size": 10479616478,
+  "date_str_max": "2025-12-12",
+  "dataset_size": 10480157688,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-11-CA--Writ--344-2018",
-    "num": "CA /Writ/ 344/2018",
-    "date_str": "2025-12-11",
-    "description": "Muthukutti Liyanarachchige Leelananda Jayasena Vs Chairman National Housing Development Authority, And other before Hon.Dhammika Ganepola, J.",
+    "doc_id": "2025-12-12-CA-WRIT-634-2021",
+    "num": "CA/WRIT/634/2021",
+    "date_str": "2025-12-12",
+    "description": "J. P. A. Jagath Keerthi v. Lalith U. Gamage, Governor Central Province and 28 others before Hon. Mahen Gopallawa,J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=89442853-39d9-4373-8100-ed1c472031f3&filename=CA%20-Writ-%20344-2018%20.pdf.pdf",
-    "parties": "Muthukutti Liyanarachchige Leelananda Jayasena Vs Chairman National Housing Development Authority, And other",
-    "judgement_by": "Hon.Dhammika Ganepola, J.",
-    "keywords": "",
-    "legistation": ""
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=23bb8e69-0933-47cc-ac8f-a32ee9c2d3dc&filename=CA%20Writ%20634-21%20Judgment-Final.pdf.pdf",
+    "parties": "J. P. A. Jagath Keerthi v. Lalith U. Gamage, Governor Central Province and 28 others",
+    "judgement_by": "Hon. Mahen Gopallawa,J.",
+    "keywords": "Provincial Council-Provincial Council List-Provincial Public Service Commission \u2013 Department of Management Services \u2013 Sri Lanka Administrative Service \u2013Service Minute \u2013 Scheme of Recruitment \u2013Legitimate Expectation - Constitutional Ouster - Uberrima Fides \u2013 Laches",
+    "legistation": "Thirteenth Amendment to the Constitution Provincial Councils Act, No. 42 of 1987 Sports Statute of the Central Provincial Council No. 09 of 1990 Provincial Councils Pensions Act, No. 17 of 1993"
   }
 }
