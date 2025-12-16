@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-12-16 11:19:39",
-  "n_docs": 10318,
-  "n_docs_with_pdfs": 10318,
-  "n_docs_with_text": 10318,
+  "time_updated": "2025-12-16 11:54:37",
+  "n_docs": 10319,
+  "n_docs_with_pdfs": 10319,
+  "n_docs_with_text": 10319,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2025-12-15",
-  "dataset_size": 10491071621,
+  "date_str_max": "2025-12-16",
+  "dataset_size": 10491360615,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-15-CA-HCC--0005-2022",
-    "num": "CA/HCC/ 0005/2022",
-    "date_str": "2025-12-15",
-    "description": "Udaya Kumar Suresh Kumar alias Nalinda Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
+    "doc_id": "2025-12-16-CA-HCC-77-2019",
+    "num": "CA/HCC 77/2019",
+    "date_str": "2025-12-16",
+    "description": "Ganithage Ranasinghe Vs Director-General, Commission to Investigate Allegations of Bribery or Corruption, before Hon. B. Sasi Mahendran, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c7e1d113-e667-4c2e-aabe-3274d7c59e53&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0005.2022.pdf.pdf",
-    "parties": "Udaya Kumar Suresh Kumar alias Nalinda Vs The Hon. Attorney General",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Credibility and probability. \u2022 Rejecting of defence",
-    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3a335dfd-d81b-4136-966e-ca36b61bdee8&filename=HCC%2077-19-JUDGEMENT.pdf.pdf",
+    "parties": "Ganithage Ranasinghe Vs Director-General, Commission to Investigate Allegations of Bribery or Corruption,",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "discrepancy, participant witnesses as opposed to passive-observer-witnesses, not deliberate, errors of memory, faulty observation or lack of skill in observation",
+    "legistation": "Section 19(b) and (c) of the Bribery Act."
   }
 }

@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--16_11:19:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--16_11:54:43-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,318** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-15**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,319** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-16**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-15-CA-HCC--0005-2022",
-    "num": "CA/HCC/ 0005/2022",
-    "date_str": "2025-12-15",
-    "description": "Udaya Kumar Suresh Kumar alias Nalinda Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
+    "doc_id": "2025-12-16-CA-HCC-77-2019",
+    "num": "CA/HCC 77/2019",
+    "date_str": "2025-12-16",
+    "description": "Ganithage Ranasinghe Vs Director-General, Commission to Investigate Allegations of Bribery or Corruption, before Hon. B. Sasi Mahendran, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=c7e1d113-e667-4c2e-aabe-3274d7c59e53&filename=Court%20of%20Appeal%20JUDGMENT%20-%20HCC-0005.2022.pdf.pdf",
-    "parties": "Udaya Kumar Suresh Kumar alias Nalinda Vs The Hon. Attorney General",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Credibility and probability. \u2022 Rejecting of defence",
-    "legistation": "The Poisons, Opium and Dangerous Drugs Ordinance as amended by Act No.13 of 1984."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3a335dfd-d81b-4136-966e-ca36b61bdee8&filename=HCC%2077-19-JUDGEMENT.pdf.pdf",
+    "parties": "Ganithage Ranasinghe Vs Director-General, Commission to Investigate Allegations of Bribery or Corruption,",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "discrepancy, participant witnesses as opposed to passive-observer-witnesses, not deliberate, errors of memory, faulty observation or lack of skill in observation",
+    "legistation": "Section 19(b) and (c) of the Bribery Act."
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-12-16 | `CA/HCC 77/2019` | Ganithage Ranasinghe Vs Director-General, Commission to Investigate Allegations of Bribery or Corruption, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA-HCC-77-2019)
 - 2025-12-15 | `CA/HCC/ 0005/2022` | Udaya Kumar Suresh Kumar alias Nalinda Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-15-CA-HCC--0005-2022)
 - 2025-12-12 | `CA/WRIT/634/2021` | J. P. A. Jagath Keerthi v. Lalith U. Gamage, Governor Central Province and 28 others before Hon. Mahen Gopallawa,J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA-WRIT-634-2021)
 - 2025-12-12 | `CA/PHC/0043/2019` | Udapola Dasanayakalage Reginold Dasanayaka Vs. Anhettigama Gamaralalage Dharmawardena and Another before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA-PHC-0043-2019)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-09 | `CA HCC 0266/23` | Hamburugala Withanage Kelum Sujeewa Abewickrama Vs Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-09-CA-HCC-0266-23)
 - 2025-12-09 | `CA/HCC/ 0175/2023` | Ramar Udayakumar alias Appu Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-09-CA-HCC--0175-2023)
 - 2025-12-08 | `CA-Writ-800-24` | Srimal Jayasinghe Vs Deputy Commissioner of Labour and 3 others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-08-CA-Writ-800-24)
-- 2025-12-08 | `CA/WRt/800/2025` | B.R.P.M.A. Devendra Vs Director General of Human Resources and Mission Management of the Ministry of Foreign Affairs and Another before Hon.Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-08-CA-WRt-800-2025)
 
 ---
 
