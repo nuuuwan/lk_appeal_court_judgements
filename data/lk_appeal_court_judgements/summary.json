@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-12-16 15:52:36",
-  "n_docs": 10320,
-  "n_docs_with_pdfs": 10320,
-  "n_docs_with_text": 10320,
+  "time_updated": "2025-12-16 16:27:11",
+  "n_docs": 10321,
+  "n_docs_with_pdfs": 10321,
+  "n_docs_with_text": 10321,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
   "date_str_max": "2025-12-16",
-  "dataset_size": 10492202690,
+  "dataset_size": 10492451836,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-16-CA-HCC-77-2019",
-    "num": "CA/HCC 77/2019",
+    "doc_id": "2025-12-16-CA-WRT-0355-2022",
+    "num": "CA/WRT/0355/2022",
     "date_str": "2025-12-16",
-    "description": "Ganithage Ranasinghe Vs Director-General, Commission to Investigate Allegations of Bribery or Corruption, before Hon. B. Sasi Mahendran, J.",
+    "description": "Overdime Exports (Pvt) Ltd Vs. Director General of Customs before Hon. R. Gurusinghe, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3a335dfd-d81b-4136-966e-ca36b61bdee8&filename=HCC%2077-19-JUDGEMENT.pdf.pdf",
-    "parties": "Ganithage Ranasinghe Vs Director-General, Commission to Investigate Allegations of Bribery or Corruption,",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "discrepancy, participant witnesses as opposed to passive-observer-witnesses, not deliberate, errors of memory, faulty observation or lack of skill in observation",
-    "legistation": "Section 19(b) and (c) of the Bribery Act."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8f3d3a59-ade6-4f0d-acb8-30031a917641&filename=WRT%200355-22%20%28PDF%29.pdf.pdf",
+    "parties": "Overdime Exports (Pvt) Ltd Vs. Director General of Customs",
+    "judgement_by": "Hon. R. Gurusinghe, J.",
+    "keywords": "Forfeiture under section 50A of the Customs Ordinance",
+    "legistation": "Customs Ordinance"
   }
 }
