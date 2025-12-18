@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_12:44:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_13:23:23-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,326** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-18**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,327** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-18**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -46,6 +46,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 - 2025-12-18 | `CA/HCC/ 0269/2023` | Sangeeth Maduranga Rajapaksha Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA-HCC--0269-2023)
 - 2025-12-18 | `CA/HCC/ 0131/2024` | Gamage Premadasa Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA-HCC--0131-2024)
+- 2025-12-18 | `CA (Writ) - 300/2019` | Talawakelle Tea Estates PLC Vs Land Reform Commission and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA--Writ----300-2019)
 - 2025-12-16 | `CA/WRT/0355/2022` | Overdime Exports (Pvt) Ltd Vs. Director General of Customs before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA-WRT-0355-2022)
 - 2025-12-16 | `CA/HCC 77/2019` | Ganithage Ranasinghe Vs Director-General, Commission to Investigate Allegations of Bribery or Corruption, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA-HCC-77-2019)
 - 2025-12-16 | `CA -HCC- 152/24` | Loku Kalutotage Dayananda Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA--HCC--152-24)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-11 | `CA -HCC- 046-049-24` | Hembathanthrige Ajith Sirimewan Fernando Alias J.V.P. Ajith Vs Officer-in-Charge Police Station Payagala before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-11-CA--HCC--046-049-24)
 - 2025-12-10 | `CA/WRT-0127-20` | Wickarama Arachchillage Janith Sampath and 393 others Vs. Central Cultural Fund and 08 others before Hon. K.M.G.H. Kulatunga, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-10-CA-WRT-0127-20)
 - 2025-12-10 | `CA/RII/0068/2025` | Liyana Arachchilage Podisingho Appuhami Vs People's Leasing and Finance PLC, before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-10-CA-RII-0068-2025)
-- 2025-12-10 | `CA HCC 224/2023` | Randunu Pathrannabalage Sudath Sirinimal Vs Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-10-CA-HCC-224-2023)
 
 ---
 
