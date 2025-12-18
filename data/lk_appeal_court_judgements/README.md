@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_14:55:14-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_15:19:03-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,329** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-18**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,330** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-18**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-18-CA-WRT-0182-2014--0135--348b10d3",
-    "num": "CA/WRT/0182/2014, 0135/2014 & 0153/2014.",
+    "doc_id": "2025-12-18-CA-WRT-0759-2024",
+    "num": "CA/WRT/0759/2024",
     "date_str": "2025-12-18",
-    "description": "SriLankan Airlines Ltd. Airline Centre, Bandaranaike International Airport, Vs V. B. P. K. Weerasinghe, Commissioner General of Labour, Department of Labour, before Hon. Adithya Patabendige, J.",
+    "description": "Kothuwakkara Gedara Sena Harischandra Kumar Vs C.D. Kaluarachchi, Director General, Department of Samurdhi Development, before Hon. Adithya Patabendige, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2d2637c0-f168-48ed-93b3-ea86bf3cd3cf&filename=11.%20Order%20on%20Intervention%20WRT%20810-25%20BYD-1.pdf.pdf",
-    "parties": "SriLankan Airlines Ltd. Airline Centre, Bandaranaike International Airport, Vs V. B. P. K. Weerasinghe, Commissioner General of Labour, Department of Labour,",
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ede98387-d233-4f5c-9559-19d071966e74&filename=WRT-0759-24%20%281%29.pdf.pdf",
+    "parties": "Kothuwakkara Gedara Sena Harischandra Kumar Vs C.D. Kaluarachchi, Director General, Department of Samurdhi Development,",
     "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Certiorari, Writ of Prohibition, Compensation in lieu of reinstatement, Trade union action, Judicial review of arbitral awards.",
-    "legistation": "Article 140 of the Constitution Section 4 (1) of the Industrial Disputes Act."
+    "keywords": "Writ of Certiorari, Writ of Mandamus, Writ of Prohibition, Constitutional ouster \u2013 Article 61A, Public Service Commission (PSC), Disciplinary Control of Public Servants",
+    "legistation": "Article 140, Article 58, Article 61A of the Constitution of Sri Lanka."
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-12-18 | `CA/WRT/0759/2024` | Kothuwakkara Gedara Sena Harischandra Kumar Vs C.D. Kaluarachchi, Director General, Department of Samurdhi Development, before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA-WRT-0759-2024)
 - 2025-12-18 | `CA/WRT/0182/2014, 0135/2014 & 0153/2014.` | SriLankan Airlines Ltd. Airline Centre, Bandaranaike International Airport, Vs V. B. P. K. Weerasinghe, Commissioner General of Labour, Department of Labour, before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA-WRT-0182-2014--0135--348b10d3)
 - 2025-12-18 | `CA/HCC/ 0269/2023` | Sangeeth Maduranga Rajapaksha Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA-HCC--0269-2023)
 - 2025-12-18 | `CA/HCC/ 0131/2024` | Gamage Premadasa Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA-HCC--0131-2024)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-12 | `CA (HCC)/0229/2018` | Kande Kalasi Udaya Kumara alias Upali VS The Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA--HCC--0229-2018)
 - 2025-12-12 | `CA (HCC)/0205/2024` | Meegaha Kankanamge Danuka Rathnasiri Vs The Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA--HCC--0205-2024)
 - 2025-12-11 | `CA /Writ/ 344/2018` | Muthukutti Liyanarachchige Leelananda Jayasena Vs Chairman National Housing Development Authority, And other before Hon.Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-11-CA--Writ--344-2018)
-- 2025-12-11 | `CA -HCC- 046-049-24` | Hembathanthrige Ajith Sirimewan Fernando Alias J.V.P. Ajith Vs Officer-in-Charge Police Station Payagala before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-11-CA--HCC--046-049-24)
 
 ---
 

@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-12-18 14:55:08",
-  "n_docs": 10329,
-  "n_docs_with_pdfs": 10329,
-  "n_docs_with_text": 10329,
+  "time_updated": "2025-12-18 15:18:58",
+  "n_docs": 10330,
+  "n_docs_with_pdfs": 10330,
+  "n_docs_with_text": 10330,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
   "date_str_max": "2025-12-18",
-  "dataset_size": 10497936405,
+  "dataset_size": 10498218119,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-18-CA-WRT-0182-2014--0135--348b10d3",
-    "num": "CA/WRT/0182/2014, 0135/2014 & 0153/2014.",
+    "doc_id": "2025-12-18-CA-WRT-0759-2024",
+    "num": "CA/WRT/0759/2024",
     "date_str": "2025-12-18",
-    "description": "SriLankan Airlines Ltd. Airline Centre, Bandaranaike International Airport, Vs V. B. P. K. Weerasinghe, Commissioner General of Labour, Department of Labour, before Hon. Adithya Patabendige, J.",
+    "description": "Kothuwakkara Gedara Sena Harischandra Kumar Vs C.D. Kaluarachchi, Director General, Department of Samurdhi Development, before Hon. Adithya Patabendige, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2d2637c0-f168-48ed-93b3-ea86bf3cd3cf&filename=11.%20Order%20on%20Intervention%20WRT%20810-25%20BYD-1.pdf.pdf",
-    "parties": "SriLankan Airlines Ltd. Airline Centre, Bandaranaike International Airport, Vs V. B. P. K. Weerasinghe, Commissioner General of Labour, Department of Labour,",
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ede98387-d233-4f5c-9559-19d071966e74&filename=WRT-0759-24%20%281%29.pdf.pdf",
+    "parties": "Kothuwakkara Gedara Sena Harischandra Kumar Vs C.D. Kaluarachchi, Director General, Department of Samurdhi Development,",
     "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Certiorari, Writ of Prohibition, Compensation in lieu of reinstatement, Trade union action, Judicial review of arbitral awards.",
-    "legistation": "Article 140 of the Constitution Section 4 (1) of the Industrial Disputes Act."
+    "keywords": "Writ of Certiorari, Writ of Mandamus, Writ of Prohibition, Constitutional ouster \u2013 Article 61A, Public Service Commission (PSC), Disciplinary Control of Public Servants",
+    "legistation": "Article 140, Article 58, Article 61A of the Constitution of Sri Lanka."
   }
 }
