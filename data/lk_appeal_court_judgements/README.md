@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_15:19:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--18_15:52:29-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,330** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-18**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,331** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-18**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -50,6 +50,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-18 | `CA/HCC/ 0131/2024` | Gamage Premadasa Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA-HCC--0131-2024)
 - 2025-12-18 | `CA (Writ) - 300/2019` | Talawakelle Tea Estates PLC Vs Land Reform Commission and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA--Writ----300-2019)
 - 2025-12-18 | `CA -HCC- 53/2018` | Rajamuni Dewayalage Jayasuriya Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA--HCC--53-2018)
+- 2025-12-18 | `C.A./Writ/ 0711/2024` | Sen Flora Lanka (Pvt) Limited Vs. Chandana Saman Ranaweera Arachchi Land Commissioner General before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-C-A--Writ--0711-2024)
 - 2025-12-16 | `CA/WRT/0355/2022` | Overdime Exports (Pvt) Ltd Vs. Director General of Customs before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA-WRT-0355-2022)
 - 2025-12-16 | `CA/HCC 77/2019` | Ganithage Ranasinghe Vs Director-General, Commission to Investigate Allegations of Bribery or Corruption, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA-HCC-77-2019)
 - 2025-12-16 | `CA -HCC- 152/24` | Loku Kalutotage Dayananda Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA--HCC--152-24)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-12 | `CA (HCC)0119/2025` | Wijesinghe Arachchilage Niroshani alias Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA--HCC-0119-2025)
 - 2025-12-12 | `CA (HCC)/0229/2018` | Kande Kalasi Udaya Kumara alias Upali VS The Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA--HCC--0229-2018)
 - 2025-12-12 | `CA (HCC)/0205/2024` | Meegaha Kankanamge Danuka Rathnasiri Vs The Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA--HCC--0205-2024)
-- 2025-12-11 | `CA /Writ/ 344/2018` | Muthukutti Liyanarachchige Leelananda Jayasena Vs Chairman National Housing Development Authority, And other before Hon.Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-11-CA--Writ--344-2018)
 
 ---
 
