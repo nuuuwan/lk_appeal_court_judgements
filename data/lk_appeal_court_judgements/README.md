@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_15:24:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_15:52:34-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,335** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,336** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-19 | `CA WRIT/457/2022` | A.R.F.S. FANOON Vs SOUTH EASTERN UNIVERSITY OF SRI LANKA, and others before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-457-2022)
 - 2025-12-19 | `CA/WRIT/209/2022` | W.R.H. Epasinghe v. Vice Admiral Nishantha Ulugahatenne and others before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-209-2022)
 - 2025-12-19 | `CA/PHC/APN 0102/24` | Udakumbare Sadara Susantha Gunaratne Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-PHC-APN-0102-24)
+- 2025-12-19 | `CA/CPA/0090/2025` | Mohamed Usman Abubakkar Vs. M. H. A. M. Riflan, Acting Director, Muslim Mosques and Charitable Trusts and 9 Others before Hon. K. M. S. DISSANAYAKE, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-CPA-0090-2025)
 - 2025-12-18 | `CA/WRT/388/2022` | Gilkrisht Leisure (Pvt) Ltd., and others Vs Urban Development Authority, and others before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA-WRT-388-2022)
 - 2025-12-18 | `CA/WRT/0759/2024` | Kothuwakkara Gedara Sena Harischandra Kumar Vs C.D. Kaluarachchi, Director General, Department of Samurdhi Development, before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA-WRT-0759-2024)
 - 2025-12-18 | `CA/WRT/0182/2014, 0135/2014 & 0153/2014.` | SriLankan Airlines Ltd. Airline Centre, Bandaranaike International Airport, Vs V. B. P. K. Weerasinghe, Commissioner General of Labour, Department of Labour, before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA-WRT-0182-2014--0135--348b10d3)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-12 | `CA/PHC/0043/2019` | Udapola Dasanayakalage Reginold Dasanayaka Vs. Anhettigama Gamaralalage Dharmawardena and Another before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA-PHC-0043-2019)
 - 2025-12-12 | `CA/PHC/0021/2021` | arnakula Weerasuriya Sunilka Nirmaliee Malkanthi Fernando and Another Vs. Warnakula Suranjanee Weerasuriya and 2 others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA-PHC-0021-2021)
 - 2025-12-12 | `CA/CPA/0047/2025, CA/CPA/0048/2025, CA/CPA/0049/2025, CA/CPA/0050/2025` | Algewaththage Kasun Sanjaya Vs. Sri Lanka Ports Authority and Another before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA-CPA-0047-2025--CA-CP-383a1cd0)
-- 2025-12-12 | `CA (HCC)0217/2024` | Madduma Patabendige Pasindu Bandduma Vs The Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA--HCC-0217-2024)
 
 ---
 
