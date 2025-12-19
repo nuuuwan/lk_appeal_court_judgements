@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_16:20:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--19_16:51:26-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,338** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,339** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -47,6 +47,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-19 | `CA WRIT/457/2022` | A.R.F.S. FANOON Vs SOUTH EASTERN UNIVERSITY OF SRI LANKA, and others before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-457-2022)
 - 2025-12-19 | `CA/WRIT/209/2022` | W.R.H. Epasinghe v. Vice Admiral Nishantha Ulugahatenne and others before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-209-2022)
 - 2025-12-19 | `CA/PHC/APN 0102/24` | Udakumbare Sadara Susantha Gunaratne Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-PHC-APN-0102-24)
+- 2025-12-19 | `CA/PHC/0044/2019` | Weerakkody Appuhamillage Sarath Hemachandra Weerakkody Vs. Registrar of the Co-operative Societies of the Sabaragamuwa Province and 6 others before Hon.K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-PHC-0044-2019)
 - 2025-12-19 | `CA/CPA/0090/2025` | Mohamed Usman Abubakkar Vs. M. H. A. M. Riflan, Acting Director, Muslim Mosques and Charitable Trusts and 9 Others before Hon. K. M. S. DISSANAYAKE, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-CPA-0090-2025)
 - 2025-12-19 | `CA (HCC)0203/2020` | Ranasinghe Arachchige Wijedasa, Vs The Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA--HCC-0203-2020)
 - 2025-12-18 | `CA/WRT/388/2022` | Gilkrisht Leisure (Pvt) Ltd., and others Vs Urban Development Authority, and others before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA-WRT-388-2022)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-15 | `CA/HCC/ 0005/2022` | Udaya Kumar Suresh Kumar alias Nalinda Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-15-CA-HCC--0005-2022)
 - 2025-12-12 | `CA/WRIT/634/2021` | J. P. A. Jagath Keerthi v. Lalith U. Gamage, Governor Central Province and 28 others before Hon. Mahen Gopallawa,J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA-WRIT-634-2021)
 - 2025-12-12 | `CA/PHC/0043/2019` | Udapola Dasanayakalage Reginold Dasanayaka Vs. Anhettigama Gamaralalage Dharmawardena and Another before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA-PHC-0043-2019)
-- 2025-12-12 | `CA/PHC/0021/2021` | arnakula Weerasuriya Sunilka Nirmaliee Malkanthi Fernando and Another Vs. Warnakula Suranjanee Weerasuriya and 2 others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA-PHC-0021-2021)
 
 ---
 
