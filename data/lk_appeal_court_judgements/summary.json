@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-12-19 13:54:03",
-  "n_docs": 10332,
-  "n_docs_with_pdfs": 10332,
-  "n_docs_with_text": 10332,
+  "time_updated": "2025-12-19 14:28:39",
+  "n_docs": 10335,
+  "n_docs_with_pdfs": 10335,
+  "n_docs_with_text": 10335,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
   "date_str_max": "2025-12-19",
-  "dataset_size": 10498721129,
+  "dataset_size": 10501552553,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-19-CA-PHC-APN-0102-24",
-    "num": "CA/PHC/APN 0102/24",
+    "doc_id": "2025-12-19-CA-WRIT-457-2022",
+    "num": "CA WRIT/457/2022",
     "date_str": "2025-12-19",
-    "description": "Udakumbare Sadara Susantha Gunaratne Vs The Hon. Attorney General before Hon. P. Kumararatnam, J.",
+    "description": "A.R.F.S. FANOON Vs SOUTH EASTERN UNIVERSITY OF SRI LANKA, and others before Hon. Dr. Sumudu Premachandra J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d21e81a1-fe51-45d9-a844-d459f638b0a7&filename=CA%20%28PHC%29%20APN-BAIL%20ORDER%20CPA-0102-24.pdf.pdf",
-    "parties": "Udakumbare Sadara Susantha Gunaratne Vs The Hon. Attorney General",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Bail Pending Appeal.",
-    "legistation": "The Penal Code. \u2022 The Code of Criminal Procedure Act No. 15 of 1979. \u2022 The Bail Act No.30 of 1997."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b5c9144f-b543-4cab-a4ad-928e96e5701a&filename=CA-Writ-457-22%20FINAL.pdf.pdf",
+    "parties": "A.R.F.S. FANOON Vs SOUTH EASTERN UNIVERSITY OF SRI LANKA, and others",
+    "judgement_by": "Hon. Dr. Sumudu Premachandra J.",
+    "keywords": "Appointment of Lecturer (Probationary) , best suited candidate to be selected. Courts are \"slow and circumspect\" in interfering with academic decisions, Availability of alternate remedy",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka. Section 86(a) of the Universities Act No. 16 of 1978."
   }
 }
