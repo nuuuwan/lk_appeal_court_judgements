@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_10:46:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_11:25:49-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,340** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,343** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -58,12 +58,12 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-18 | `CA (Writ) - 300/2019` | Talawakelle Tea Estates PLC Vs Land Reform Commission and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA--Writ----300-2019)
 - 2025-12-18 | `CA -HCC- 53/2018` | Rajamuni Dewayalage Jayasuriya Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA--HCC--53-2018)
 - 2025-12-18 | `C.A./Writ/ 0711/2024` | Sen Flora Lanka (Pvt) Limited Vs. Chandana Saman Ranaweera Arachchi Land Commissioner General before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-C-A--Writ--0711-2024)
+- 2025-12-16 | `CA/WRT/53/2024` | Dadallage Shanthilatha Vs The Divisional Secretary of Kekirawa and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA-WRT-53-2024)
 - 2025-12-16 | `CA/WRT/0355/2022` | Overdime Exports (Pvt) Ltd Vs. Director General of Customs before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA-WRT-0355-2022)
 - 2025-12-16 | `CA/HCC 77/2019` | Ganithage Ranasinghe Vs Director-General, Commission to Investigate Allegations of Bribery or Corruption, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA-HCC-77-2019)
 - 2025-12-16 | `CA -HCC- 152/24` | Loku Kalutotage Dayananda Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA--HCC--152-24)
 - 2025-12-15 | `CA/HCC/ 0005/2022` | Udaya Kumar Suresh Kumar alias Nalinda Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-15-CA-HCC--0005-2022)
 - 2025-12-12 | `CA/WRIT/634/2021` | J. P. A. Jagath Keerthi v. Lalith U. Gamage, Governor Central Province and 28 others before Hon. Mahen Gopallawa,J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA-WRIT-634-2021)
-- 2025-12-12 | `CA/PHC/0043/2019` | Udapola Dasanayakalage Reginold Dasanayaka Vs. Anhettigama Gamaralalage Dharmawardena and Another before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA-PHC-0043-2019)
 
 ---
 
