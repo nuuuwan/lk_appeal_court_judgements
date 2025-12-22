@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_15:27:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--22_15:46:37-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,343** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,345** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-19-CA-WRIT-457-2022",
-    "num": "CA WRIT/457/2022",
+    "doc_id": "2025-12-19-CA-WRIT-791-24",
+    "num": "CA WRIT 791/24",
     "date_str": "2025-12-19",
-    "description": "A.R.F.S. FANOON Vs SOUTH EASTERN UNIVERSITY OF SRI LANKA, and others before Hon. Dr. Sumudu Premachandra J.",
+    "description": "Buckingham International (Pvt) Ltd. and other Vs Director General Sri Lanka Customs, and others before Hon. Dhammika Ganepola, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b5c9144f-b543-4cab-a4ad-928e96e5701a&filename=CA-Writ-457-22%20FINAL.pdf.pdf",
-    "parties": "A.R.F.S. FANOON Vs SOUTH EASTERN UNIVERSITY OF SRI LANKA, and others",
-    "judgement_by": "Hon. Dr. Sumudu Premachandra J.",
-    "keywords": "Appointment of Lecturer (Probationary) , best suited candidate to be selected. Courts are \"slow and circumspect\" in interfering with academic decisions, Availability of alternate remedy",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka. Section 86(a) of the Universities Act No. 16 of 1978."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=62033b8e-ffaf-4256-9749-176517dacd7f&filename=CA%20WRIT%20-%20791-24.pdf.pdf",
+    "parties": "Buckingham International (Pvt) Ltd. and other Vs Director General Sri Lanka Customs, and others",
+    "judgement_by": "Hon. Dhammika Ganepola, J.",
+    "keywords": "",
+    "legistation": ""
 }
 ```
 
@@ -44,6 +44,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-12-19 | `CA WRIT 791/24` | Buckingham International (Pvt) Ltd. and other Vs Director General Sri Lanka Customs, and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-791-24)
+- 2025-12-19 | `CA WRIT 790/24` | Buckingham International (Pvt) Ltd. and other Vs Director General Sri Lanka Customs, and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-790-24)
 - 2025-12-19 | `CA WRIT/457/2022` | A.R.F.S. FANOON Vs SOUTH EASTERN UNIVERSITY OF SRI LANKA, and others before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-457-2022)
 - 2025-12-19 | `CA/WRIT/209/2022` | W.R.H. Epasinghe v. Vice Admiral Nishantha Ulugahatenne and others before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-209-2022)
 - 2025-12-19 | `CA/PHC/APN 0102/24` | Udakumbare Sadara Susantha Gunaratne Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-PHC-APN-0102-24)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-16 | `CA/WRT/0355/2022` | Overdime Exports (Pvt) Ltd Vs. Director General of Customs before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA-WRT-0355-2022)
 - 2025-12-16 | `CA/HCC 77/2019` | Ganithage Ranasinghe Vs Director-General, Commission to Investigate Allegations of Bribery or Corruption, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA-HCC-77-2019)
 - 2025-12-16 | `CA -HCC- 152/24` | Loku Kalutotage Dayananda Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA--HCC--152-24)
-- 2025-12-15 | `CA/HCC/ 0005/2022` | Udaya Kumar Suresh Kumar alias Nalinda Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-15-CA-HCC--0005-2022)
-- 2025-12-12 | `CA/WRIT/634/2021` | J. P. A. Jagath Keerthi v. Lalith U. Gamage, Governor Central Province and 28 others before Hon. Mahen Gopallawa,J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-12-CA-WRIT-634-2021)
 
 ---
 

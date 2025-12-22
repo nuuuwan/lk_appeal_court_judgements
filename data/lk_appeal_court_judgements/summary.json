@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2025-12-22 15:27:32",
-  "n_docs": 10343,
-  "n_docs_with_pdfs": 10343,
-  "n_docs_with_text": 10343,
+  "time_updated": "2025-12-22 15:46:31",
+  "n_docs": 10345,
+  "n_docs_with_pdfs": 10345,
+  "n_docs_with_text": 10345,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
   "date_str_max": "2025-12-19",
-  "dataset_size": 10510054459,
+  "dataset_size": 10511923046,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-19-CA-WRIT-457-2022",
-    "num": "CA WRIT/457/2022",
+    "doc_id": "2025-12-19-CA-WRIT-791-24",
+    "num": "CA WRIT 791/24",
     "date_str": "2025-12-19",
-    "description": "A.R.F.S. FANOON Vs SOUTH EASTERN UNIVERSITY OF SRI LANKA, and others before Hon. Dr. Sumudu Premachandra J.",
+    "description": "Buckingham International (Pvt) Ltd. and other Vs Director General Sri Lanka Customs, and others before Hon. Dhammika Ganepola, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=b5c9144f-b543-4cab-a4ad-928e96e5701a&filename=CA-Writ-457-22%20FINAL.pdf.pdf",
-    "parties": "A.R.F.S. FANOON Vs SOUTH EASTERN UNIVERSITY OF SRI LANKA, and others",
-    "judgement_by": "Hon. Dr. Sumudu Premachandra J.",
-    "keywords": "Appointment of Lecturer (Probationary) , best suited candidate to be selected. Courts are \"slow and circumspect\" in interfering with academic decisions, Availability of alternate remedy",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka. Section 86(a) of the Universities Act No. 16 of 1978."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=62033b8e-ffaf-4256-9749-176517dacd7f&filename=CA%20WRIT%20-%20791-24.pdf.pdf",
+    "parties": "Buckingham International (Pvt) Ltd. and other Vs Director General Sri Lanka Customs, and others",
+    "judgement_by": "Hon. Dhammika Ganepola, J.",
+    "keywords": "",
+    "legistation": ""
   }
 }
