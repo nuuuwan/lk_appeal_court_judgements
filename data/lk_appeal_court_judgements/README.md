@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_11:55:11-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_12:31:36-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,349** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,350** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-NA**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-19-CA-Writ-788-23",
-    "num": "CA-Writ-788-23",
-    "date_str": "2025-12-19",
-    "description": "Horamulla Tea Plantations (Pvt) Ltd Vs Commercial Bank of Ceylon PLC and others. before Hon. Mayadunne Corea, J.",
+    "doc_id": "2025-12-NA-CA-Writ-554-23",
+    "num": "CA-Writ-554-23",
+    "date_str": "2025-12-NA",
+    "description": "Rankoth Pedige Gamini Karunatilake, and another Vs Divisional Secretary, Medirigiriya and others. before Hon. Mayadunne Corea, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4988b01b-6a14-4be2-b05f-ac5c2010c025&filename=Writ%20788-23%20Final%20final.pdf.pdf",
-    "parties": "Horamulla Tea Plantations (Pvt) Ltd Vs Commercial Bank of Ceylon PLC and others.",
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f1cd69ed-f525-46b7-9d70-1f37b27d9a58&filename=Writ%20554-23%20%281%29.pdf.pdf",
+    "parties": "Rankoth Pedige Gamini Karunatilake, and another Vs Divisional Secretary, Medirigiriya and others.",
     "judgement_by": "Hon. Mayadunne Corea, J.",
-    "keywords": "Section 2 and 4 Sufficient notice of auction Undue delay Res judicata and suppression of material facts",
-    "legistation": "Recovery of Loans by Banks (Special Provisions) Act."
+    "keywords": "Secession of a grant, suppression of material facts, futility",
+    "legistation": "Land Development Ordinance"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-12-NA | `CA-Writ-554-23` | Rankoth Pedige Gamini Karunatilake, and another Vs Divisional Secretary, Medirigiriya and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-NA-CA-Writ-554-23)
 - 2025-12-19 | `CA-Writ-788-23` | Horamulla Tea Plantations (Pvt) Ltd Vs Commercial Bank of Ceylon PLC and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-Writ-788-23)
 - 2025-12-19 | `CA-Writ-566-21` | U.M.G. Gunawathie (deaceased) and another Vs Divisional Secretary, Rajanganaya, Anuradhapuraand others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-Writ-566-21)
 - 2025-12-19 | `CA-Writ-554-23` | Rankoth Pedige Gamini Karunatilake, and another Vs Divisional Secretary, Medirigiriya and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-Writ-554-23)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-18 | `CA/HCC/ 0131/2024` | Gamage Premadasa Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA-HCC--0131-2024)
 - 2025-12-18 | `CA (Writ) - 300/2019` | Talawakelle Tea Estates PLC Vs Land Reform Commission and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA--Writ----300-2019)
 - 2025-12-18 | `CA -HCC- 53/2018` | Rajamuni Dewayalage Jayasuriya Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA--HCC--53-2018)
-- 2025-12-18 | `C.A./Writ/ 0711/2024` | Sen Flora Lanka (Pvt) Limited Vs. Chandana Saman Ranaweera Arachchi Land Commissioner General before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-C-A--Writ--0711-2024)
 
 ---
 
