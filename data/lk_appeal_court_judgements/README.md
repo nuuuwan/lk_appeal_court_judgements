@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_10:35:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--23_10:47:04-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,345** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,348** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2025-12-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2025-12-19-CA-WRIT-791-24",
-    "num": "CA WRIT 791/24",
+    "doc_id": "2025-12-19-CA-Writ-788-23",
+    "num": "CA-Writ-788-23",
     "date_str": "2025-12-19",
-    "description": "Buckingham International (Pvt) Ltd. and other Vs Director General Sri Lanka Customs, and others before Hon. Dhammika Ganepola, J.",
+    "description": "Horamulla Tea Plantations (Pvt) Ltd Vs Commercial Bank of Ceylon PLC and others. before Hon. Mayadunne Corea, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=13130",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=62033b8e-ffaf-4256-9749-176517dacd7f&filename=CA%20WRIT%20-%20791-24.pdf.pdf",
-    "parties": "Buckingham International (Pvt) Ltd. and other Vs Director General Sri Lanka Customs, and others",
-    "judgement_by": "Hon. Dhammika Ganepola, J.",
-    "keywords": "",
-    "legistation": ""
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4988b01b-6a14-4be2-b05f-ac5c2010c025&filename=Writ%20788-23%20Final%20final.pdf.pdf",
+    "parties": "Horamulla Tea Plantations (Pvt) Ltd Vs Commercial Bank of Ceylon PLC and others.",
+    "judgement_by": "Hon. Mayadunne Corea, J.",
+    "keywords": "Section 2 and 4 Sufficient notice of auction Undue delay Res judicata and suppression of material facts",
+    "legistation": "Recovery of Loans by Banks (Special Provisions) Act."
 }
 ```
 
@@ -44,6 +44,9 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2025-12-19 | `CA-Writ-788-23` | Horamulla Tea Plantations (Pvt) Ltd Vs Commercial Bank of Ceylon PLC and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-Writ-788-23)
+- 2025-12-19 | `CA-Writ-566-21` | U.M.G. Gunawathie (deaceased) and another Vs Divisional Secretary, Rajanganaya, Anuradhapuraand others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-Writ-566-21)
+- 2025-12-19 | `CA-Writ-151-22` | Abeysuriya Pattabandige Kapila Nishantha Piyumal Vs Land Reform Commission and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-Writ-151-22)
 - 2025-12-19 | `CA WRIT 791/24` | Buckingham International (Pvt) Ltd. and other Vs Director General Sri Lanka Customs, and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-791-24)
 - 2025-12-19 | `CA WRIT 790/24` | Buckingham International (Pvt) Ltd. and other Vs Director General Sri Lanka Customs, and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-790-24)
 - 2025-12-19 | `CA WRIT/457/2022` | A.R.F.S. FANOON Vs SOUTH EASTERN UNIVERSITY OF SRI LANKA, and others before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-457-2022)
@@ -61,9 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-18 | `CA -HCC- 53/2018` | Rajamuni Dewayalage Jayasuriya Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA--HCC--53-2018)
 - 2025-12-18 | `C.A./Writ/ 0711/2024` | Sen Flora Lanka (Pvt) Limited Vs. Chandana Saman Ranaweera Arachchi Land Commissioner General before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-C-A--Writ--0711-2024)
 - 2025-12-16 | `CA/WRT/53/2024` | Dadallage Shanthilatha Vs The Divisional Secretary of Kekirawa and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA-WRT-53-2024)
-- 2025-12-16 | `CA/WRT/0355/2022` | Overdime Exports (Pvt) Ltd Vs. Director General of Customs before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA-WRT-0355-2022)
-- 2025-12-16 | `CA/HCC 77/2019` | Ganithage Ranasinghe Vs Director-General, Commission to Investigate Allegations of Bribery or Corruption, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA-HCC-77-2019)
-- 2025-12-16 | `CA -HCC- 152/24` | Loku Kalutotage Dayananda Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-16-CA--HCC--152-24)
 
 ---
 
