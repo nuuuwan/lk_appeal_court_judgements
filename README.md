@@ -4,7 +4,7 @@
 
 ## 001 ⚖️ Appeal Court Judgements
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_20:42:28-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--02_21:23:44-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
