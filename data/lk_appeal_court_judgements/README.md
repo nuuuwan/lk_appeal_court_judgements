@@ -1,14 +1,14 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--15_06:39:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--17_06:38:33-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,358** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2026-01-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,367** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2026-01-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
-- In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
+- In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
 - In **English**
 
@@ -47,6 +47,12 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-01-19 | `CA (Writ) Application No. 103/2024` | Karunarathnage Robert Seneviratne Tennakoon Vs The Divisional Secretary of Kobeigane and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-19-CA--Writ--Application-N-8f6390c5)
 - 2026-01-19 | `CA (Writ) Application No. 655/2025` | Neshakumaran Vimalaraj Vs The University Grants Commission and Others before Hon.Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-19-CA--Writ--Application-N-45786ff2)
 - 2026-01-19 | `CA (Writ) Application No. 778/2025` | Thillaiampalavanar Vimalan Vs The University Grants Commission and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-19-CA--Writ--Application-N-02cc9376)
+- 2026-01-16 | `CA/HCC/ 0057/2021` | Heethakage Asiri Prasanga Silva alias Ranga Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-16-CA-HCC--0057-2021)
+- 2026-01-16 | `CA (HCC)0247/2024` | Dayarathne Dissanayake alias Ratne Vs. The Hon. Attorney General before Hon. R.P. Hettiarachchi, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-16-CA--HCC-0247-2024)
+- 2026-01-16 | `CA (HCC)0181/2020` | Ahangama Vithange Anura Vs. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-16-CA--HCC-0181-2020)
+- 2026-01-14 | `CA/WRT/425 / 2014` | The Land Reform Commission Vs Udula Indrani Dodangoda Keppetipola Mawatha, before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-14-CA-WRT-425---2014)
+- 2026-01-14 | `CA/LTA/0347/2005` | Kamathegedara Sunil Chandralatha and 5 Others Vs. Panapiti Kankanamlage Dona Silvi before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-14-CA-LTA-0347-2005)
+- 2026-01-14 | `CA/HCC/ 0109/2024` | Dilan Anuruddha Liyanarachchi alias Dilan Mama alias Dilan Vs The Hon.Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-14-CA-HCC--0109-2024)
 - 2025-12-NA | `CA-Writ-554-23` | Rankoth Pedige Gamini Karunatilake, and another Vs Divisional Secretary, Medirigiriya and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-NA-CA-Writ-554-23)
 - 2025-12-22 | `CA (Writ) Application No. 008/2024` | Sri Lanka Bureau of Foreign Employment Vs Sarath Chandrasiri Withana, Arbitrator and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-22-CA--Writ--Application-N-6afca216)
 - 2025-12-19 | `CA-Writ-788-23` | Horamulla Tea Plantations (Pvt) Ltd Vs Commercial Bank of Ceylon PLC and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-Writ-788-23)
@@ -58,12 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2025-12-19 | `CA WRIT/457/2022` | A.R.F.S. FANOON Vs SOUTH EASTERN UNIVERSITY OF SRI LANKA, and others before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-457-2022)
 - 2025-12-19 | `CA/WRIT/209/2022` | W.R.H. Epasinghe v. Vice Admiral Nishantha Ulugahatenne and others before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-209-2022)
 - 2025-12-19 | `CA/PHC/APN 0102/24` | Udakumbare Sadara Susantha Gunaratne Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-PHC-APN-0102-24)
-- 2025-12-19 | `CA/PHC/0044/2019` | Weerakkody Appuhamillage Sarath Hemachandra Weerakkody Vs. Registrar of the Co-operative Societies of the Sabaragamuwa Province and 6 others before Hon.K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-PHC-0044-2019)
-- 2025-12-19 | `CA/CPA/0090/2025` | Mohamed Usman Abubakkar Vs. M. H. A. M. Riflan, Acting Director, Muslim Mosques and Charitable Trusts and 9 Others before Hon. K. M. S. DISSANAYAKE, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-CPA-0090-2025)
-- 2025-12-19 | `CA (PHC) 149/2019` | Athige Prasad Kumara De Silva (Power of Attorney Holder of Athige Rohitha Kusumsiri) Vs. Labour Department and another before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA--PHC--149-2019)
-- 2025-12-19 | `CA (HCC)0203/2020` | Ranasinghe Arachchige Wijedasa, Vs The Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA--HCC-0203-2020)
-- 2025-12-18 | `CA/WRT/388/2022` | Gilkrisht Leisure (Pvt) Ltd., and others Vs Urban Development Authority, and others before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA-WRT-388-2022)
-- 2025-12-18 | `CA/WRT/0759/2024` | Kothuwakkara Gedara Sena Harischandra Kumar Vs C.D. Kaluarachchi, Director General, Department of Samurdhi Development, before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-18-CA-WRT-0759-2024)
 
 ---
 
