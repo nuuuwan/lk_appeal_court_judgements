@@ -1,14 +1,14 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--17_06:38:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--23_18:36:16-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,367** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2026-01-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,398** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.5 GB**), from **2012-04-23** to **2026-01-23**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
-- In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
+- In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
 - In **English**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-01-19-CA--Writ--Application-N-8f6390c5",
-    "num": "CA (Writ) Application No. 103/2024",
-    "date_str": "2026-01-19",
-    "description": "Karunarathnage Robert Seneviratne Tennakoon Vs The Divisional Secretary of Kobeigane and Others before Hon. Dr. D. F. H. Gunawardhana, J.",
-    "url_metadata": "https://courtofappeal.lk/?page_id=13130",
+    "doc_id": "2026-01-23-CA-WRT-0401---2018",
+    "num": "CA/WRT/0401 / 2018",
+    "date_str": "2026-01-23",
+    "description": "Nawaloka Polysacks (Private) Limited and one other Petitioner Vs. Mrs. D. R. Karunaratne, Director, Department of Foreign Exchange, Central Bank of Sri Lanka, and 03 other Respondents before Hon. Adithya Patabendige, J.",
+    "url_metadata": "https://courtofappeal.lk/?page_id=15589",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=d4017491-6fc2-40be-9f01-b926f0e68075&filename=WRT%20103-24.pdf.pdf",
-    "parties": "Karunarathnage Robert Seneviratne Tennakoon Vs The Divisional Secretary of Kobeigane and Others",
-    "judgement_by": "Hon. Dr. D. F. H. Gunawardhana, J.",
-    "keywords": "The Petitioner being the eldest child of the original permit holder, who had died and nominated his wife as the successor, sought to be substituted. The same permit holder held two plots of land, one on permit issued under the Land Development Ordinance, and the other one\u2019s permit was on the pipeline to be issued. The widow never made an application to succeed within the time stipulated as she had also died within sixteen months of the death of the original permit holder. The Divisional Secretary decided to amalgamate both lands and divided into equal shares among all the children. The Petitioner successfully invoked the jurisdiction of this Court to obtain a Writ of Certiorari and Mandamus to declare him as the successor in respect of the plot of land held under permit.",
-    "legistation": "The Constitution of the Democratic Socialist Republic of Sri Lanka"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3ad3109d-71f4-4176-8188-5c277001f9cb&filename=0401-%2018%20n.pdf.pdf",
+    "parties": "Nawaloka Polysacks (Private) Limited and one other Petitioner Vs. Mrs. D. R. Karunaratne, Director, Department of Foreign Exchange, Central Bank of Sri Lanka, and 03 other Respondents",
+    "judgement_by": "Hon. Adithya Patabendige, J.",
+    "keywords": "Writ of Mandamus, Writ of Prohibition, Section 10 of the Foreign Exchange Act No. 12 of 2017: the word \u201cmay\u201d in the provision confers a discretionary investigative power, not as a mandatory power",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Section 10 of the Foreign Exchange Act No. 12 of 2017"
 }
 ```
 
@@ -44,26 +44,26 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
-- 2026-01-19 | `CA (Writ) Application No. 103/2024` | Karunarathnage Robert Seneviratne Tennakoon Vs The Divisional Secretary of Kobeigane and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-19-CA--Writ--Application-N-8f6390c5)
-- 2026-01-19 | `CA (Writ) Application No. 655/2025` | Neshakumaran Vimalaraj Vs The University Grants Commission and Others before Hon.Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-19-CA--Writ--Application-N-45786ff2)
-- 2026-01-19 | `CA (Writ) Application No. 778/2025` | Thillaiampalavanar Vimalan Vs The University Grants Commission and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-19-CA--Writ--Application-N-02cc9376)
-- 2026-01-16 | `CA/HCC/ 0057/2021` | Heethakage Asiri Prasanga Silva alias Ranga Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-16-CA-HCC--0057-2021)
-- 2026-01-16 | `CA (HCC)0247/2024` | Dayarathne Dissanayake alias Ratne Vs. The Hon. Attorney General before Hon. R.P. Hettiarachchi, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-16-CA--HCC-0247-2024)
-- 2026-01-16 | `CA (HCC)0181/2020` | Ahangama Vithange Anura Vs. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-16-CA--HCC-0181-2020)
-- 2026-01-14 | `CA/WRT/425 / 2014` | The Land Reform Commission Vs Udula Indrani Dodangoda Keppetipola Mawatha, before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-14-CA-WRT-425---2014)
-- 2026-01-14 | `CA/LTA/0347/2005` | Kamathegedara Sunil Chandralatha and 5 Others Vs. Panapiti Kankanamlage Dona Silvi before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-14-CA-LTA-0347-2005)
-- 2026-01-14 | `CA/HCC/ 0109/2024` | Dilan Anuruddha Liyanarachchi alias Dilan Mama alias Dilan Vs The Hon.Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-14-CA-HCC--0109-2024)
-- 2025-12-NA | `CA-Writ-554-23` | Rankoth Pedige Gamini Karunatilake, and another Vs Divisional Secretary, Medirigiriya and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-NA-CA-Writ-554-23)
-- 2025-12-22 | `CA (Writ) Application No. 008/2024` | Sri Lanka Bureau of Foreign Employment Vs Sarath Chandrasiri Withana, Arbitrator and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-22-CA--Writ--Application-N-6afca216)
-- 2025-12-19 | `CA-Writ-788-23` | Horamulla Tea Plantations (Pvt) Ltd Vs Commercial Bank of Ceylon PLC and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-Writ-788-23)
-- 2025-12-19 | `CA-Writ-566-21` | U.M.G. Gunawathie (deaceased) and another Vs Divisional Secretary, Rajanganaya, Anuradhapuraand others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-Writ-566-21)
-- 2025-12-19 | `CA-Writ-554-23` | Rankoth Pedige Gamini Karunatilake, and another Vs Divisional Secretary, Medirigiriya and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-Writ-554-23)
-- 2025-12-19 | `CA-Writ-151-22` | Abeysuriya Pattabandige Kapila Nishantha Piyumal Vs Land Reform Commission and others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-Writ-151-22)
-- 2025-12-19 | `CA WRIT 791/24` | Buckingham International (Pvt) Ltd. and other Vs Director General Sri Lanka Customs, and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-791-24)
-- 2025-12-19 | `CA WRIT 790/24` | Buckingham International (Pvt) Ltd. and other Vs Director General Sri Lanka Customs, and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-790-24)
-- 2025-12-19 | `CA WRIT/457/2022` | A.R.F.S. FANOON Vs SOUTH EASTERN UNIVERSITY OF SRI LANKA, and others before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-457-2022)
-- 2025-12-19 | `CA/WRIT/209/2022` | W.R.H. Epasinghe v. Vice Admiral Nishantha Ulugahatenne and others before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-WRIT-209-2022)
-- 2025-12-19 | `CA/PHC/APN 0102/24` | Udakumbare Sadara Susantha Gunaratne Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2025/2025-12-19-CA-PHC-APN-0102-24)
+- 2026-01-23 | `CA/WRT/0401 / 2018` | Nawaloka Polysacks (Private) Limited and one other Petitioner Vs. Mrs. D. R. Karunaratne, Director, Department of Foreign Exchange, Central Bank of Sri Lanka, and 03 other Respondents before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-23-CA-WRT-0401---2018)
+- 2026-01-23 | `CA(PHC)0115/2017` | Divisional Secretary, Medadumbara Divisional Secretariat Vs. S. M. R. Samarakoon before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-23-CA-PHC-0115-2017)
+- 2026-01-23 | `CA/HCC/ 0079/2022` | Fernando Pulge Joseph Jude Susantha Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-23-CA-HCC--0079-2022)
+- 2026-01-23 | `CA/CPA/0098/2022` | J. Chathuranga Dharmakeerthi and another Vs. Lucky Homes (Private) Limited before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-23-CA-CPA-0098-2022)
+- 2026-01-23 | `CA (HCC)0227/2024` | Dikkumburage Chithrananda Vs. Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-23-CA--HCC-0227-2024)
+- 2026-01-23 | `CA (HCC)0135/2023` | Gamhewage Nihal Silva Vs. Hon. Attorney General before Hon. R.P. Hettiarachchi, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-23-CA--HCC-0135-2023)
+- 2026-01-23 | `CA (HCC)0125/2024` | Matibawegedara Ajith Kumara Vs. The Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-23-CA--HCC-0125-2024)
+- 2026-01-23 | `CA (HCC)0087/2025` | Jayamanna Mohottilage Anjula Jayamanna Vs. Hon. Attorney General before Hon. R.P. Hettiarachchi, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-23-CA--HCC-0087-2025)
+- 2026-01-22 | `CA/WRT/36/17` | Sri Lanka State Plantations Corporation and one other Petitioner Vs. Land Reform Commission and 08 other Respondents. before Hon. Adithya Patabendige, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-22-CA-WRT-36-17)
+- 2026-01-22 | `CA/TAX/83/24` | THE COMMISSIONER GENERAL OF INLAND REVENUE Vs. JETWING TRAVELS (PVT) LTD, Jetwing House before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-22-CA-TAX-83-24)
+- 2026-01-22 | `CA/RII 11/2022` | Hewa Maddumage Mili Vs. Hewa Maddumage Girigoris and others before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-22-CA-RII-11-2022)
+- 2026-01-22 | `CA HCC 107/2022` | Mohamed Thausaq Mohomed Rizmi Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-22-CA-HCC-107-2022)
+- 2026-01-22 | `CA/HCC/ 0167/2024` | Hewa Kekanadurage Nishantha Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-22-CA-HCC--0167-2024)
+- 2026-01-22 | `CA -HCC- 168-169/24` | The Democratic Socialist Republic of Sri Lanka Vs. Udawela Arachchige Pushpakumara & Dahanayaka Indika Deshapriya before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-22-CA--HCC--168-169-24)
+- 2026-01-21 | `CA HCC 105-106/2022` | Mohomad Thasim Mohomad Fairoos Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-21-CA-HCC-105-106-2022)
+- 2026-01-20 | `CA/HCC/ 0201/2023` | Mohamed Junaid Mohamed Nalir alias Dhore Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-20-CA-HCC--0201-2023)
+- 2026-01-20 | `CA CPA-020/25` | The Attorney General Vs. Lanthuwa Hanadige Suneetha Silva before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-20-CA-CPA-020-25)
+- 2026-01-20 | `CA (WRIT)/344/2022` | Kiriella Pathiranage Jayarathne Vs. Hon. Harin Fernando & others before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-20-CA--WRIT--344-2022)
+- 2026-01-20 | `CA/ RTI 0005-2023` | People’s Bank vs Right to Information Commission before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-20-CA--RTI-0005-2023)
+- 2026-01-19 | `CA/Writ/ 40/2023` | D.T. Gunawathi Senarathne alias S.M.D.T. Gunawathie Hamine Vs. Minister of Tourism and Land and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-19-CA-Writ--40-2023)
 
 ---
 
