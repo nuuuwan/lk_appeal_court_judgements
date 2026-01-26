@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--26_06:38:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--26_18:35:39-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,398** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.6 GB**), from **2012-04-23** to **2026-01-23**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,399** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.6 GB**), from **2012-04-23** to **2026-01-26**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-01-23-CA-WRT-0401---2018",
-    "num": "CA/WRT/0401 / 2018",
-    "date_str": "2026-01-23",
-    "description": "Nawaloka Polysacks (Private) Limited and one other Petitioner Vs. Mrs. D. R. Karunaratne, Director, Department of Foreign Exchange, Central Bank of Sri Lanka, and 03 other Respondents before Hon. Adithya Patabendige, J.",
+    "doc_id": "2026-01-26-CA-RII-0007-2022",
+    "num": "CA/RII/0007/2022",
+    "date_str": "2026-01-26",
+    "description": "Arambage Babynona vs Nayage Wimalawathy and others before Hon. R. Gurusinghe, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=15589",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=3ad3109d-71f4-4176-8188-5c277001f9cb&filename=0401-%2018%20n.pdf.pdf",
-    "parties": "Nawaloka Polysacks (Private) Limited and one other Petitioner Vs. Mrs. D. R. Karunaratne, Director, Department of Foreign Exchange, Central Bank of Sri Lanka, and 03 other Respondents",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Mandamus, Writ of Prohibition, Section 10 of the Foreign Exchange Act No. 12 of 2017: the word \u201cmay\u201d in the provision confers a discretionary investigative power, not as a mandatory power",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Section 10 of the Foreign Exchange Act No. 12 of 2017"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5c3996fa-6a6c-4ed0-85b6-dcf509f9903b&filename=RII%200007-22%20%28PDF%29.pdf.pdf",
+    "parties": "Arambage Babynona vs Nayage Wimalawathy and others",
+    "judgement_by": "Hon. R. Gurusinghe, J.",
+    "keywords": "To resile from a Settlement",
+    "legistation": "Article 138 of the Constitution"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-01-26 | `CA/RII/0007/2022` | Arambage Babynona vs Nayage Wimalawathy and others before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-26-CA-RII-0007-2022)
 - 2026-01-23 | `CA/WRT/0401 / 2018` | Nawaloka Polysacks (Private) Limited and one other Petitioner Vs. Mrs. D. R. Karunaratne, Director, Department of Foreign Exchange, Central Bank of Sri Lanka, and 03 other Respondents before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-23-CA-WRT-0401---2018)
 - 2026-01-23 | `CA(PHC)0115/2017` | Divisional Secretary, Medadumbara Divisional Secretariat Vs. S. M. R. Samarakoon before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-23-CA-PHC-0115-2017)
 - 2026-01-23 | `CA/HCC/ 0079/2022` | Fernando Pulge Joseph Jude Susantha Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-23-CA-HCC--0079-2022)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-01-20 | `CA CPA-020/25` | The Attorney General Vs. Lanthuwa Hanadige Suneetha Silva before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-20-CA-CPA-020-25)
 - 2026-01-20 | `CA (WRIT)/344/2022` | Kiriella Pathiranage Jayarathne Vs. Hon. Harin Fernando & others before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-20-CA--WRIT--344-2022)
 - 2026-01-20 | `CA/ RTI 0005-2023` | People’s Bank vs Right to Information Commission before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-20-CA--RTI-0005-2023)
-- 2026-01-19 | `CA/Writ/ 40/2023` | D.T. Gunawathi Senarathne alias S.M.D.T. Gunawathie Hamine Vs. Minister of Tourism and Land and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-19-CA-Writ--40-2023)
 
 ---
 
