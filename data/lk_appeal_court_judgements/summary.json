@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-01-27 06:38:10",
-  "n_docs": 10399,
+  "time_updated": "2026-01-31 06:38:34",
+  "n_docs": 10414,
   "n_docs_with_pdfs": 10399,
   "n_docs_with_text": 10399,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-01-26",
-  "dataset_size": 10558313960,
+  "date_str_max": "2026-01-30",
+  "dataset_size": 10558340039,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-01-26-CA-RII-0007-2022",
-    "num": "CA/RII/0007/2022",
-    "date_str": "2026-01-26",
-    "description": "Arambage Babynona vs Nayage Wimalawathy and others before Hon. R. Gurusinghe, J.",
+    "doc_id": "2026-01-30-CA-RII-46-2025",
+    "num": "CA RII 46/2025",
+    "date_str": "2026-01-30",
+    "description": "Badurali Arachchige Ariyaratne Vs. Biyanwilage Padmini Amarasekera before Hon. Dr. Sumudu Premachandra J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=15589",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=5c3996fa-6a6c-4ed0-85b6-dcf509f9903b&filename=RII%200007-22%20%28PDF%29.pdf.pdf",
-    "parties": "Arambage Babynona vs Nayage Wimalawathy and others",
-    "judgement_by": "Hon. R. Gurusinghe, J.",
-    "keywords": "To resile from a Settlement",
-    "legistation": "Article 138 of the Constitution"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9b45ea54-36c1-4d7a-8655-f6a0c21c5842&filename=RII-46-25%20%20FINAL.pdf.pdf",
+    "parties": "Badurali Arachchige Ariyaratne Vs. Biyanwilage Padmini Amarasekera",
+    "judgement_by": "Hon. Dr. Sumudu Premachandra J.",
+    "keywords": "Settlement, claim of \"duress\", Civil Jurisdiction ousted by the section 56 of the Debt Conciliation Ordinance",
+    "legistation": "Article 138 of the Constitution, section 56 of the Debt Conciliation Ordinance."
   }
 }
