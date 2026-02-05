@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-02-01 06:48:36",
-  "n_docs": 10414,
-  "n_docs_with_pdfs": 10414,
-  "n_docs_with_text": 10414,
+  "time_updated": "2026-02-05 18:36:49",
+  "n_docs": 10429,
+  "n_docs_with_pdfs": 10429,
+  "n_docs_with_text": 10429,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-01-30",
-  "dataset_size": 10565209615,
+  "date_str_max": "2026-02-03",
+  "dataset_size": 10576568982,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-01-30-CA-RII-46-2025",
-    "num": "CA RII 46/2025",
-    "date_str": "2026-01-30",
-    "description": "Badurali Arachchige Ariyaratne Vs. Biyanwilage Padmini Amarasekera before Hon. Dr. Sumudu Premachandra J.",
-    "url_metadata": "https://courtofappeal.lk/?page_id=15589",
+    "doc_id": "2026-02-03-CA-WRT-354-2022",
+    "num": "CA/WRT 354/2022",
+    "date_str": "2026-02-03",
+    "description": "Pallewaththa Gamaralage Maithreepala Yapa Sirisena, Vs 1. Honorable Magistrate, Fort Magistrate's Court, and others before Hon. B. Sasi Mahendran, J.",
+    "url_metadata": "https://courtofappeal.lk/?page_id=15592",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=9b45ea54-36c1-4d7a-8655-f6a0c21c5842&filename=RII-46-25%20%20FINAL.pdf.pdf",
-    "parties": "Badurali Arachchige Ariyaratne Vs. Biyanwilage Padmini Amarasekera",
-    "judgement_by": "Hon. Dr. Sumudu Premachandra J.",
-    "keywords": "Settlement, claim of \"duress\", Civil Jurisdiction ousted by the section 56 of the Debt Conciliation Ordinance",
-    "legistation": "Article 138 of the Constitution, section 56 of the Debt Conciliation Ordinance."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8e480276-26de-4bda-871c-ac0417d84c9c&filename=WRT%20354-22%20-FINAL%20FINAL%20JUDGEMENT.pdf.pdf",
+    "parties": "Pallewaththa Gamaralage Maithreepala Yapa Sirisena, Vs 1. Honorable Magistrate, Fort Magistrate's Court, and others",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "issuing process, sufficient ground, material, evidence, opinion, public domain,",
+    "legistation": "Section 136 and Section 139 of the Criminal Procedure Code Act No. 15 of 1979, as amended, Sections 24, 24(a) and 26 of the Commission of Inquiry Act (as amended)"
   }
 }
