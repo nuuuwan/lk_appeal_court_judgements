@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-02-05 18:36:49",
-  "n_docs": 10429,
-  "n_docs_with_pdfs": 10429,
-  "n_docs_with_text": 10429,
+  "time_updated": "2026-02-06 18:36:43",
+  "n_docs": 10432,
+  "n_docs_with_pdfs": 10432,
+  "n_docs_with_text": 10432,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-02-03",
-  "dataset_size": 10576568982,
+  "date_str_max": "2026-02-06",
+  "dataset_size": 10581469022,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-02-03-CA-WRT-354-2022",
-    "num": "CA/WRT 354/2022",
-    "date_str": "2026-02-03",
-    "description": "Pallewaththa Gamaralage Maithreepala Yapa Sirisena, Vs 1. Honorable Magistrate, Fort Magistrate's Court, and others before Hon. B. Sasi Mahendran, J.",
+    "doc_id": "2026-02-06-CA-RII-0018-2022",
+    "num": "CA/RII/0018/2022",
+    "date_str": "2026-02-06",
+    "description": "Malluwawadu Lakshman Piyathilake, Vs Dalawathumulla Gamage Sunil de Silva and others before Hon. R. Gurusinghe, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=15592",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8e480276-26de-4bda-871c-ac0417d84c9c&filename=WRT%20354-22%20-FINAL%20FINAL%20JUDGEMENT.pdf.pdf",
-    "parties": "Pallewaththa Gamaralage Maithreepala Yapa Sirisena, Vs 1. Honorable Magistrate, Fort Magistrate's Court, and others",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "issuing process, sufficient ground, material, evidence, opinion, public domain,",
-    "legistation": "Section 136 and Section 139 of the Criminal Procedure Code Act No. 15 of 1979, as amended, Sections 24, 24(a) and 26 of the Commission of Inquiry Act (as amended)"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4f500270-0f6a-40e3-9c78-c64eeb8f69a5&filename=RII%200018-22%20%28pdf%29.pdf.pdf",
+    "parties": "Malluwawadu Lakshman Piyathilake, Vs Dalawathumulla Gamage Sunil de Silva and others",
+    "judgement_by": "Hon. R. Gurusinghe, J.",
+    "keywords": "Reliefs under Restitutio-In-Integrum",
+    "legistation": "Article 138 of the Constitution"
   }
 }

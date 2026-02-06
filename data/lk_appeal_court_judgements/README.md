@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--05_18:36:56-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--06_18:36:49-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,429** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.6 GB**), from **2012-04-23** to **2026-02-03**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,432** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.6 GB**), from **2012-04-23** to **2026-02-06**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-02-03-CA-WRT-354-2022",
-    "num": "CA/WRT 354/2022",
-    "date_str": "2026-02-03",
-    "description": "Pallewaththa Gamaralage Maithreepala Yapa Sirisena, Vs 1. Honorable Magistrate, Fort Magistrate's Court, and others before Hon. B. Sasi Mahendran, J.",
+    "doc_id": "2026-02-06-CA-RII-0018-2022",
+    "num": "CA/RII/0018/2022",
+    "date_str": "2026-02-06",
+    "description": "Malluwawadu Lakshman Piyathilake, Vs Dalawathumulla Gamage Sunil de Silva and others before Hon. R. Gurusinghe, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=15592",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8e480276-26de-4bda-871c-ac0417d84c9c&filename=WRT%20354-22%20-FINAL%20FINAL%20JUDGEMENT.pdf.pdf",
-    "parties": "Pallewaththa Gamaralage Maithreepala Yapa Sirisena, Vs 1. Honorable Magistrate, Fort Magistrate's Court, and others",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "issuing process, sufficient ground, material, evidence, opinion, public domain,",
-    "legistation": "Section 136 and Section 139 of the Criminal Procedure Code Act No. 15 of 1979, as amended, Sections 24, 24(a) and 26 of the Commission of Inquiry Act (as amended)"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4f500270-0f6a-40e3-9c78-c64eeb8f69a5&filename=RII%200018-22%20%28pdf%29.pdf.pdf",
+    "parties": "Malluwawadu Lakshman Piyathilake, Vs Dalawathumulla Gamage Sunil de Silva and others",
+    "judgement_by": "Hon. R. Gurusinghe, J.",
+    "keywords": "Reliefs under Restitutio-In-Integrum",
+    "legistation": "Article 138 of the Constitution"
 }
 ```
 
@@ -44,6 +44,9 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-02-06 | `CA/RII/0018/2022` | Malluwawadu Lakshman Piyathilake, Vs Dalawathumulla Gamage Sunil de Silva and others before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-06-CA-RII-0018-2022)
+- 2026-02-06 | `CA/RII/0012/2020` | Siwanda Dewa Rikman vs Bolada Hakuru Magilin And others. before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-06-CA-RII-0012-2020)
+- 2026-02-06 | `CA/HCC/ 0057/2024` | Athige Ajith Dickson Silva Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-06-CA-HCC--0057-2024)
 - 2026-02-03 | `CA/WRT 354/2022` | Pallewaththa Gamaralage Maithreepala Yapa Sirisena, Vs 1. Honorable Magistrate, Fort Magistrate's Court, and others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-03-CA-WRT-354-2022)
 - 2026-02-03 | `CA/WRT/0439/2022` | Suriya Arachchi Gamage Chamindalal Vs Debt Conciliation Board of Colombo, and others before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-03-CA-WRT-0439-2022)
 - 2026-01-30 | `CA-Writ-99-24` | Sinnathamby Sivakumar and another Vs K. Thanapalasundaram and 2 others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-30-CA-Writ-99-24)
@@ -61,9 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-01-30 | `CA (HCC)0065/25` | Welivita Arachchige Mahinda Lal Kumara Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-30-CA--HCC-0065-25)
 - 2026-01-29 | `CA/RII/44/2025` | SATHKORALAGE SEBASTIAN GABRIEL FERNANDO Vs. BUTHGAMUWA MUDIYANSELAGE INDRASENA before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-29-CA-RII-44-2025)
 - 2026-01-29 | `CA/HCC/300/24` | Democratic Socialist Republic of Sri Lanka Vs. Abeyweera Mirissa Patabendige Dinesh Asanka alias Kira & Others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-29-CA-HCC-300-24)
-- 2026-01-29 | `CA /Writ /225/2014` | D.H.A. Swarnalatha de Silva & Others Vs. Mathara Gunasingha Arachchige Premalatha Samararathna & Others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-29-CA--Writ--225-2014)
-- 2026-01-29 | `CA./Writ /0390-22` | Uma Gnansekaran Rajshankar vs The Attorney General before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-29-CA--Writ--0390-22)
-- 2026-01-29 | `CA/ HCC 330/19` | Hon. Attorney General Vs. Lebbe Thambi Mohammed Saleem before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-29-CA--HCC-330-19)
 
 ---
 
