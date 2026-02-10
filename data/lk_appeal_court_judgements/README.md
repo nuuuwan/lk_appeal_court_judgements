@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--07_18:36:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--10_06:49:11-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,432** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.6 GB**), from **2012-04-23** to **2026-02-06**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,438** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.6 GB**), from **2012-04-23** to **2026-02-09**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-02-06-CA-RII-0018-2022",
-    "num": "CA/RII/0018/2022",
-    "date_str": "2026-02-06",
-    "description": "Malluwawadu Lakshman Piyathilake, Vs Dalawathumulla Gamage Sunil de Silva and others before Hon. R. Gurusinghe, J.",
+    "doc_id": "2026-02-09-CA-HCC-258-2024",
+    "num": "CA/HCC/258/2024",
+    "date_str": "2026-02-09",
+    "description": "Hatharin Kandambige Sagara Sampath Vs The Hon. Attorney General, before Hon.Amal Ranaraja, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=15592",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=4f500270-0f6a-40e3-9c78-c64eeb8f69a5&filename=RII%200018-22%20%28pdf%29.pdf.pdf",
-    "parties": "Malluwawadu Lakshman Piyathilake, Vs Dalawathumulla Gamage Sunil de Silva and others",
-    "judgement_by": "Hon. R. Gurusinghe, J.",
-    "keywords": "Reliefs under Restitutio-In-Integrum",
-    "legistation": "Article 138 of the Constitution"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8f902b50-b7bc-4398-8fa5-198b5279c14a&filename=HCC%20258.%2024.pdf.pdf",
+    "parties": "Hatharin Kandambige Sagara Sampath Vs The Hon. Attorney General,",
+    "judgement_by": "Hon.Amal Ranaraja, J.",
+    "keywords": "Rape \u2013 Imperfect recollection of events by witness does not detract from overall credibility of the statement \u2013 Exception to the inadmissibility of hearsay evidence \u2013 The test of probability \u2013 Credibility of witness\u2019s narration \u2013 Rejection of Accused\u2019s dock statement",
+    "legistation": "Section 364(1) of the Penal Code (Amendment Act, No.22 of 1995)"
 }
 ```
 
@@ -44,10 +44,15 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-02-09 | `CA/HCC/258/2024` | Hatharin Kandambige Sagara Sampath Vs The Hon. Attorney General, before Hon.Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-09-CA-HCC-258-2024)
+- 2026-02-09 | `CA/HCC/178/22` | Nizm Ubaithullah Vs Hon. Attorney General, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-09-CA-HCC-178-22)
+- 2026-02-09 | `CA/HCC/ 260-261/2024` | Mathagadeera Arachchige Saliya Kumara Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-09-CA-HCC--260-261-2024)
 - 2026-02-06 | `CA/RII/0018/2022` | Malluwawadu Lakshman Piyathilake, Vs Dalawathumulla Gamage Sunil de Silva and others before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-06-CA-RII-0018-2022)
 - 2026-02-06 | `CA/RII/0012/2020` | Siwanda Dewa Rikman vs Bolada Hakuru Magilin And others. before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-06-CA-RII-0012-2020)
 - 2026-02-06 | `CA/HCC/ 0057/2024` | Athige Ajith Dickson Silva Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-06-CA-HCC--0057-2024)
+- 2026-02-06 | `CA/ HCC 242/2018` | Naithu Hennathige Nishantha Jayalath Vs. The Hon. Attorney General before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-06-CA--HCC-242-2018)
 - 2026-02-03 | `CA/WRT 354/2022` | Pallewaththa Gamaralage Maithreepala Yapa Sirisena, Vs 1. Honorable Magistrate, Fort Magistrate's Court, and others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-03-CA-WRT-354-2022)
+- 2026-02-03 | `CA/WRT/1206/2025 Connected with CA/WRT/0030/2026` | The All Ceylon Buddhist Congress, Vs Mohamed Sheriff Mohamed Samsudeen, Learned Magistrate, Magistrate's Court-Trincomalee and Others before Hon. Rohantha Abeysuriya PC, J. (P/CA) | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-03-CA-WRT-1206-2025-Connec-917b1a38)
 - 2026-02-03 | `CA/WRT/0439/2022` | Suriya Arachchi Gamage Chamindalal Vs Debt Conciliation Board of Colombo, and others before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-03-CA-WRT-0439-2022)
 - 2026-01-30 | `CA-Writ-99-24` | Sinnathamby Sivakumar and another Vs K. Thanapalasundaram and 2 others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-30-CA-Writ-99-24)
 - 2026-01-30 | `CA-Writ-646-21` | Mr. Palippody Jeyatheeswaran Vs Mr. Vanniyasingam Vasuthevan and 2 others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-30-CA-Writ-646-21)
@@ -59,11 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-01-30 | `CA/PHC/APN 0073/23` | Mohomad Nilam Mohomad Sameer Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-30-CA-PHC-APN-0073-23)
 - 2026-01-30 | `CA(PHC)0146/2020` | R.M.B Maharoof and 16 Others Vs. Central Provincial Council and 17 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-30-CA-PHC-0146-2020)
 - 2026-01-30 | `CA(PHC)0029/2019` | Pushpa Lakmali Vs. Urban Development Authority and Another before Hon.K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-30-CA-PHC-0029-2019)
-- 2026-01-30 | `CA (HCC)0119/19` | Wedakkara Nekethige Premarathne alias Korale Raja Vs Hon. Attorney General, before Hon.R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-30-CA--HCC-0119-19)
-- 2026-01-30 | `CA (HCC)0095/24` | Mohammed Razak Mohammed Riyaz Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-30-CA--HCC-0095-24)
-- 2026-01-30 | `CA (HCC)0065/25` | Welivita Arachchige Mahinda Lal Kumara Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-30-CA--HCC-0065-25)
-- 2026-01-29 | `CA/RII/44/2025` | SATHKORALAGE SEBASTIAN GABRIEL FERNANDO Vs. BUTHGAMUWA MUDIYANSELAGE INDRASENA before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-29-CA-RII-44-2025)
-- 2026-01-29 | `CA/HCC/300/24` | Democratic Socialist Republic of Sri Lanka Vs. Abeyweera Mirissa Patabendige Dinesh Asanka alias Kira & Others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-01-29-CA-HCC-300-24)
 
 ---
 

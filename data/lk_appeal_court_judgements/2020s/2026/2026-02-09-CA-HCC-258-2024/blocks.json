@@ -1,0 +1,4202 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      781.9,
+      327.65,
+      806.38
+    ],
+    "text": "Page 1 of 13",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.74,
+      71.97,
+      525.58,
+      88.33
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      201.89,
+      89.75,
+      393.76,
+      106.11
+    ],
+    "text": "REPUBLIC OF SRI LANKA",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.78,
+      133.68,
+      527.5,
+      284.46
+    ],
+    "text": "In the matter of an Appeal made under Section 331(1) of the Code of Criminal Procedure Act No.15 of 1979 read with Article 138 of the Constitution of the Democratic Socialist Republic of Sri Lanka. Democratic Socialist Republic of Sri Lanka Complainant",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      9.960000038146973,
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      285.75,
+      527.5,
+      373.31
+    ],
+    "text": "Court of Appeal Case No. CA/HCC/258/2024 Vs. High Court of Hambantota Case No. HC 63/2015",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      374.55,
+      527.5,
+      462.23
+    ],
+    "text": "Hatharin Kandambige Sagara Sampath Accused",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      462.41,
+      415.63,
+      521.89
+    ],
+    "text": "AND NOW BETWEEN",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      284.69,
+      529.01,
+      519.46,
+      543.01
+    ],
+    "text": "Hatharin Kandambige Sagara Sampath",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.02,
+      564.29,
+      527.5,
+      707.32
+    ],
+    "text": "Accused-Appellant Vs. The Hon. Attorney General, Attorney General\u2019s Department, Colombo 12.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      271.37,
+      708.56,
+      598.3,
+      768.16
+    ],
+    "text": "Complainant-Respondent",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      781.9,
+      327.65,
+      806.38
+    ],
+    "text": "Page 2 of 13",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      72.1,
+      284.21,
+      116.36
+    ],
+    "text": "Before: B. Sasi Mahendran, J. Amal Ranaraja, J.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      125.76,
+      445.51,
+      215.72
+    ],
+    "text": "Counsel: Chrishan de Alwis, AAL for the Accused-Appellant. Maheshika Silva, D.S.G. for the Respondent.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      216.96,
+      237.17,
+      293.97
+    ],
+    "text": "Argued on: 20.01.2026 Judgment on: 09.02.2026",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      255.41,
+      329.06,
+      349.48,
+      345.42
+    ],
+    "text": "JUDGMENT",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.02,
+      354.86,
+      206.21,
+      400.69
+    ],
+    "text": "AMAL RANARAJA, J.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      11.039999961853027,
+      12.0,
+      14.039999961853027
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      421.71,
+      527.26,
+      435.71
+    ],
+    "text": "1. The Accused-Appellant (hereinafter referred to as the \u201cappellant\u201d) has",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      449.91,
+      527.19,
+      463.97
+    ],
+    "text": "been indicted in the High Court of Hambantota in High Court case",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      108.02,
+      478.13,
+      255.89,
+      492.13
+    ],
+    "text": "number HC 63/2015",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.02,
+      534.41,
+      363.91,
+      548.41
+    ],
+    "text": "2. The charge in the indictment is as follows;",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.94,
+      590.81,
+      515.37,
+      604.87
+    ],
+    "text": "That on or about, April 21, 2014, at Thissapura, within the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.94,
+      619.01,
+      515.16,
+      633.01
+    ],
+    "text": "jurisdiction of this Court, the appellant did commit the offence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.94,
+      647.09,
+      515.38,
+      661.09
+    ],
+    "text": "of rape on a woman, an offence punishable under section 364(1)",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.94,
+      675.32,
+      468.94,
+      689.32
+    ],
+    "text": "of the Penal Code (as amended by Act, No.22 of 1995).",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      781.9,
+      327.65,
+      806.38
+    ],
+    "text": "Page 3 of 13",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      72.1,
+      527.26,
+      86.1
+    ],
+    "text": "3. At the conclusion of the trial the learned High Court Judge has",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      100.32,
+      512.5,
+      114.32
+    ],
+    "text": "convicted the appellant of the charge and sentenced him as follows;",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      378.87,
+      527.07,
+      392.87
+    ],
+    "text": "4. Aggrieved by the conviction, the disputed judgment together with the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      406.95,
+      527.21,
+      420.95
+    ],
+    "text": "sentencing order, the appellant has preferred the instant appeal to this",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      435.03,
+      153.14,
+      449.03
+    ],
+    "text": "Court.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.02,
+      507.41,
+      228.29,
+      521.39
+    ],
+    "text": "Case of the prosecution",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      543.65,
+      527.22,
+      557.65
+    ],
+    "text": "5. At the time of the incident, PW01 has been a married woman living with",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      571.85,
+      338.47,
+      585.85
+    ],
+    "text": "her husband who worked as a laborer.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.02,
+      628.25,
+      527.26,
+      642.25
+    ],
+    "text": "6. On the particular day, her husband has been scheduled for a night shift",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      656.36,
+      527.23,
+      670.36
+    ],
+    "text": "rendering him absent from his house. PW01 thus has been alone in the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      684.56,
+      527.14,
+      698.56
+    ],
+    "text": "house. Her solitude has been abruptly interrupted that night when she",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      712.76,
+      527.18,
+      726.76
+    ],
+    "text": "distinctly heard the ring of a mobile phone coming from just outside her",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.02,
+      740.95,
+      501.22,
+      754.96
+    ],
+    "text": "house immediately adjacent to a wall. PW01 has remained inside.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.5,
+      144.9,
+      520.72,
+      157.84
+    ],
+    "text": "Has imposed a fine of Rs. 10,000.00 with a term of ten months rigorous",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.5,
+      170.7,
+      261.6,
+      183.64
+    ],
+    "text": "imprisonment in default.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.5,
+      202.02,
+      509.45,
+      214.96
+    ],
+    "text": "Additionally, also imposed a term of nine years rigorous imprisonment.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.5,
+      228.3,
+      520.61,
+      241.24
+    ],
+    "text": "The appellant has also been directed to pay a sum of Rs. 100,000 as",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.5,
+      254.1,
+      520.66,
+      267.04
+    ],
+    "text": "compensation to PW01 with a term of two years rigorous imprisonment in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      129.5,
+      279.93,
+      176.61,
+      292.87
+    ],
+    "text": "default.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.02,
+      781.9,
+      327.65,
+      806.38
+    ],
+    "text": "Page 4 of 13",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      72.1,
+      527.19,
+      101.36
+    ],
+    "text": "A while later, an individual who subsequently identified himself as the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      115.44,
+      527.13,
+      129.44
+    ],
+    "text": "appellant, has stated his intention was to meet PW01\u2019s husband. PW01",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      143.64,
+      527.2,
+      157.64
+    ],
+    "text": "still within the perceived safety within her home has promptly informed",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      171.84,
+      527.05,
+      185.84
+    ],
+    "text": "the appellant that her husband was not present and suggested he",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      200.04,
+      527.25,
+      214.04
+    ],
+    "text": "instead approach a neighbour to discuss the matter he has intended to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      228.24,
+      252.53,
+      242.24
+    ],
+    "text": "raise with her husband.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      284.55,
+      527.18,
+      298.55
+    ],
+    "text": "The encounter has left PW01 deeply unsettled. The barking of dogs in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      312.75,
+      527.08,
+      326.75
+    ],
+    "text": "the vicinity has unsettled her further. Feeling vulnerable and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      340.95,
+      527.23,
+      354.95
+    ],
+    "text": "uncomfortable, being alone in the house for the remainder of the night,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      369.03,
+      459.46,
+      383.03
+    ],
+    "text": "PW01 has decided that it would be prudent to seek refuge.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      425.43,
+      527.16,
+      439.43
+    ],
+    "text": "Accordingly, she has intended to spend the night at the home of her",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      453.63,
+      527.26,
+      467.63
+    ],
+    "text": "neighbour for greater safety. In anticipation of reaching her neighbour\u2019s",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      481.73,
+      527.06,
+      495.73
+    ],
+    "text": "house, PW01 has proceeded to step out of her own and begun walking",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      509.93,
+      527.21,
+      523.93
+    ],
+    "text": "the temporary gate erected in her garden. At this juncture, the appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      538.13,
+      399.19,
+      552.13
+    ],
+    "text": "has suddenly accosted and forcefully seized her.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      594.41,
+      527.04,
+      608.41
+    ],
+    "text": "To prevent her from raising alarm or screaming for help, the appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      622.61,
+      527.26,
+      636.61
+    ],
+    "text": "has forcefully manipulated the chez cloth PW01 was wearing, effectively",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      650.84,
+      527.17,
+      664.84
+    ],
+    "text": "muffling her. The appellant has then dragged PW01 into a secluded and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      679.04,
+      527.25,
+      693.04
+    ],
+    "text": "isolated area in the immediate vicinity. At that isolated location, the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      707.24,
+      527.07,
+      721.24
+    ],
+    "text": "appellant has allegedly proceeded to engage in sexual intercourse with",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.02,
+      735.31,
+      419.83,
+      749.32
+    ],
+    "text": "PW01 entirely without her consent or acquiescence.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      781.9,
+      327.65,
+      806.38
+    ],
+    "text": "Page 5 of 13",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      100.32,
+      527.26,
+      114.32
+    ],
+    "text": "7. Consequently, when the appellant moved away to retrieve his slippers,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      128.52,
+      527.18,
+      142.52
+    ],
+    "text": "PW01 has seized the opportunity and escaped to PW06\u2019s house. PW01",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      156.6,
+      527.06,
+      170.6
+    ],
+    "text": "has related the incident to PW06. Accompanied by PW06, PW01 has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      184.8,
+      527.26,
+      198.8
+    ],
+    "text": "then gone to her husband\u2019s workplace, thereafter travelled together and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      213.0,
+      251.09,
+      227.0
+    ],
+    "text": "filed a police complaint.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      269.28,
+      527.11,
+      283.28
+    ],
+    "text": "8. An investigation has commenced during which, PW01 has been",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      297.51,
+      526.98,
+      311.57
+    ],
+    "text": "examined by PW07, Dr. R. A. S. Senevirathna, consultant judicial",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      325.71,
+      527.25,
+      339.77
+    ],
+    "text": "medical Officer, District Hospital of Hambantota, the medico-legal report",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      353.91,
+      527.05,
+      367.91
+    ],
+    "text": "based on PW01\u2019s examination has been subsequently presented as",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      382.02,
+      269.93,
+      397.67
+    ],
+    "text": "evidence and marked \u0db4\u0dd0-1.",
+    "fonts": [
+      "BookmanOldStyle",
+      "NirmalaUI"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      437.07,
+      212.21,
+      451.05
+    ],
+    "text": "Case of the appellant",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.02,
+      473.33,
+      527.06,
+      487.33
+    ],
+    "text": "9. The appellant has contended that the act of sexual intercourse with",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      501.53,
+      527.23,
+      515.53
+    ],
+    "text": "PW01 on the occasion in question was with her consent, just as he had",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      529.73,
+      248.69,
+      543.73
+    ],
+    "text": "on previous occasions.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.02,
+      593.93,
+      192.98,
+      607.91
+    ],
+    "text": "Grounds of appeal",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.18,
+      630.29,
+      527.01,
+      644.29
+    ],
+    "text": "10. When the matter was taken up for argument, the learned Counsel for",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.02,
+      658.4,
+      421.51,
+      672.4
+    ],
+    "text": "the appellant urged the following grounds of appeal:",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      142.94,
+      686.6,
+      515.2,
+      700.6
+    ],
+    "text": "i. Failure to address material contradictions in the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      164.18,
+      714.8,
+      283.25,
+      728.8
+    ],
+    "text": "prosecution\u2019s case.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      781.9,
+      327.65,
+      806.38
+    ],
+    "text": "Page 6 of 13",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.94,
+      72.1,
+      515.22,
+      86.1
+    ],
+    "text": "ii. Failure to address material omissions in the prosecution\u2019s",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164.18,
+      100.32,
+      201.41,
+      114.32
+    ],
+    "text": "case.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.94,
+      128.52,
+      515.2,
+      142.52
+    ],
+    "text": "iii. Improper admission of hearsay evidence prejudicing the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164.18,
+      156.6,
+      219.89,
+      170.6
+    ],
+    "text": "defence.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.94,
+      184.8,
+      515.2,
+      198.8
+    ],
+    "text": "iv. Failure to address the improbability of the complainant\u2019s",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164.18,
+      213.0,
+      222.53,
+      227.0
+    ],
+    "text": "account.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.94,
+      241.2,
+      482.5,
+      255.2
+    ],
+    "text": "v. Erroneous rejection of the accused\u2019s dock statement.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.94,
+      269.28,
+      454.18,
+      283.28
+    ],
+    "text": "vi. Erroneous reliance on injuries as corroboration.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.94,
+      297.39,
+      488.5,
+      311.39
+    ],
+    "text": "vii. Failure to produce medico-legal report of the accused.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.02,
+      369.75,
+      147.38,
+      383.73
+    ],
+    "text": "Evaluation",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.18,
+      405.99,
+      527.26,
+      420.05
+    ],
+    "text": "11. Prior to being examined by PW07, the consultant judicial medical officer",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      434.19,
+      527.04,
+      448.19
+    ],
+    "text": "PW01 (the patient) has provided a brief account of the incident to the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.02,
+      462.41,
+      418.63,
+      476.41
+    ],
+    "text": "doctor. In her description she has stated as follows;",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.94,
+      504.65,
+      500.8,
+      518.71
+    ],
+    "text": "\u201cShe was sexually abused by Sagara around 9.30 pm in the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.94,
+      532.85,
+      500.76,
+      546.91
+    ],
+    "text": "night on 22.04.2014. He threatened her to do sexual",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.94,
+      561.05,
+      500.72,
+      575.11
+    ],
+    "text": "intercourse with him. He closed her mouth forcefully and",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.94,
+      589.25,
+      500.74,
+      603.31
+    ],
+    "text": "squeezed her neck. Though he said that two more persons in",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.94,
+      617.33,
+      500.84,
+      631.39
+    ],
+    "text": "an around, she did not see any others. He did vaginal",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      142.94,
+      645.53,
+      316.25,
+      659.59
+    ],
+    "text": "intercourse in a jungle area\u201d.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      185.78,
+      701.96,
+      501.22,
+      716.02
+    ],
+    "text": "[vide the medico-legal report by Dr. A.S.Senevirathne,",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      326.95,
+      730.16,
+      501.22,
+      744.16
+    ],
+    "text": "page 417 of the appeal brief]",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.02,
+      781.9,
+      327.65,
+      806.38
+    ],
+    "text": "Page 7 of 13",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.18,
+      72.1,
+      527.07,
+      86.16
+    ],
+    "text": "12. Dr. Senevirathne testifying as PW07 has stated that he conducted the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      100.32,
+      527.21,
+      114.32
+    ],
+    "text": "medico-legal examination of PW01. During his assessment, he has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      128.52,
+      527.24,
+      142.52
+    ],
+    "text": "observed distinct external injuries consisting of aberrations and a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      156.6,
+      527.1,
+      170.6
+    ],
+    "text": "contusion. In his professional opinion regarding the mechanism of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      184.8,
+      527.17,
+      198.8
+    ],
+    "text": "injury, PW07 has concluded that those bodily injuries were more",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      213.0,
+      467.14,
+      227.0
+    ],
+    "text": "suggestive of restraint and resistance during the sexual act.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      269.28,
+      527.26,
+      283.28
+    ],
+    "text": "In light of the issues previously discussed, it is clear that PW01 has",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      297.51,
+      527.16,
+      311.51
+    ],
+    "text": "maintained a consistent narrative throughout. This consistence is",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      325.71,
+      527.21,
+      339.71
+    ],
+    "text": "further supported by expert evidence which lends credence to PW01\u2019s",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      353.91,
+      527.08,
+      367.91
+    ],
+    "text": "claim. The alignment between PW01\u2019s narrative and the findings",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      382.11,
+      527.26,
+      396.11
+    ],
+    "text": "presented by the expert witness underscores the reliability of her",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      410.19,
+      166.34,
+      424.19
+    ],
+    "text": "account.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.18,
+      466.61,
+      527.26,
+      480.61
+    ],
+    "text": "13. Consistency in testimony is crucial in establishing credibility. PW01\u2019s",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      494.81,
+      527.23,
+      508.81
+    ],
+    "text": "unwavering commitment to her narrative re-enforces the strength of her",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      522.89,
+      527.1,
+      536.89
+    ],
+    "text": "position. Furthermore, the corroborative expert evidence provides an",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      551.09,
+      527.07,
+      565.09
+    ],
+    "text": "objective framework that not only validates her experience but also",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      579.29,
+      372.31,
+      593.29
+    ],
+    "text": "enhances the overall integrity of her claims.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      86.18,
+      635.57,
+      527.17,
+      649.57
+    ],
+    "text": "14. PW01 has provided testimony three years after the incident in question,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      663.8,
+      527.02,
+      677.8
+    ],
+    "text": "given this considerable time gap it is important to recognize that",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      692.0,
+      527.07,
+      706.0
+    ],
+    "text": "memory lapse can occur, potentially affecting the recollection of her",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      720.2,
+      527.23,
+      734.2
+    ],
+    "text": "account. Additionally, PW01 comes from a rural background which may",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      108.02,
+      748.27,
+      527.18,
+      762.28
+    ],
+    "text": "have made her feel overwhelmed by the court room atmosphere. This",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.02,
+      781.9,
+      327.65,
+      806.38
+    ],
+    "text": "Page 8 of 13",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      72.1,
+      527.25,
+      86.1
+    ],
+    "text": "unfamiliar environment could further impact her ability to recall events",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      100.32,
+      274.13,
+      114.32
+    ],
+    "text": "with clarity and confidence.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.18,
+      171.84,
+      527.07,
+      185.84
+    ],
+    "text": "15. In her testimony, PW01 could have attempted to articulate her",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      200.04,
+      527.05,
+      214.04
+    ],
+    "text": "experience in a more detailed manner than she did when she initially",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      228.24,
+      527.13,
+      242.24
+    ],
+    "text": "reported the incident to the police, however this effort to elaborate may",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      256.32,
+      527.17,
+      270.32
+    ],
+    "text": "have led to inconsistencies in her narrative. Under such circumstances,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      284.55,
+      527.23,
+      298.55
+    ],
+    "text": "it is not uncommon for witnesses to inadvertently contradict themselves",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      312.75,
+      526.99,
+      326.75
+    ],
+    "text": "or omit certain details, especially in the face of intense questioning by",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      340.95,
+      527.26,
+      354.95
+    ],
+    "text": "the opposing party, who may highlight these discrepancies to cast a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      369.03,
+      257.57,
+      383.03
+    ],
+    "text": "doubt on her credibility.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.18,
+      425.43,
+      527.16,
+      439.43
+    ],
+    "text": "16. Further, micro-analyzing each discrepancy without giving",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      453.63,
+      527.16,
+      467.63
+    ],
+    "text": "consideration to the mental state of PW01, her thought process and the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      481.73,
+      527.04,
+      495.73
+    ],
+    "text": "totality of her evidence is also not reasonable. It is essential, for the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      509.93,
+      508.42,
+      523.93
+    ],
+    "text": "Court to consider these factors when evaluating PW01\u2019s testimony.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      538.13,
+      527.26,
+      567.37
+    ],
+    "text": "The contradictions highlighted in V01 to V03, as well as the omissions",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      581.45,
+      527.26,
+      595.45
+    ],
+    "text": "noted by the High Court, do not undermine the essence of PW01\u2019s",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      609.65,
+      527.1,
+      623.65
+    ],
+    "text": "narrative. Consequently, these discrepancies can be considered",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      637.85,
+      399.43,
+      651.85
+    ],
+    "text": "immaterial to the core of the testimony of PW01.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      86.18,
+      694.16,
+      527.05,
+      708.16
+    ],
+    "text": "17. While it is essential to scrutinize the details of any witnesses account,",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      722.36,
+      527.24,
+      736.36
+    ],
+    "text": "the fundamental aspects of PW01\u2019s story remain intact despite the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      108.02,
+      750.55,
+      527.09,
+      764.56
+    ],
+    "text": "noted discrepancies. The essence of the testimony, conveys a coherent",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.02,
+      781.9,
+      327.65,
+      806.38
+    ],
+    "text": "Page 9 of 13",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      72.1,
+      527.21,
+      86.1
+    ],
+    "text": "and a plausible series of events which provides a necessary",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      100.32,
+      527.07,
+      114.32
+    ],
+    "text": "understanding of the case at hand. The presence of minor",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      128.52,
+      527.22,
+      142.52
+    ],
+    "text": "contradictions or omissions may raise questions about the precision of",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      156.6,
+      526.99,
+      170.6
+    ],
+    "text": "PW01\u2019s memory but do not detract from the overall credibility of the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      184.8,
+      172.58,
+      198.8
+    ],
+    "text": "narrative.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.18,
+      241.2,
+      527.15,
+      255.2
+    ],
+    "text": "18. It is important to distinguish between minor details that may be",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      269.28,
+      527.22,
+      283.28
+    ],
+    "text": "imperfectly recalled and the overarching truth that the witness seeks to",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      297.51,
+      159.38,
+      311.51
+    ],
+    "text": "convey.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.18,
+      325.71,
+      527.08,
+      354.95
+    ],
+    "text": "19. Accordingly, the contention that the discrepancies in the witness\u2019s",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      369.03,
+      527.26,
+      383.03
+    ],
+    "text": "testimony arose because PW01 had attempted to cover up the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      397.23,
+      527.23,
+      411.23
+    ],
+    "text": "circumstances surrounding the appellant\u2019s visit to her home that night",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      425.43,
+      171.62,
+      439.43
+    ],
+    "text": "must fail.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.18,
+      453.63,
+      527.22,
+      482.77
+    ],
+    "text": "20. Hearsay evidence is an out of court statement offered in court to prove",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      496.97,
+      527.08,
+      510.97
+    ],
+    "text": "the truth of the matter asserted, generally deemed inadmissible",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      525.17,
+      527.19,
+      539.17
+    ],
+    "text": "because the original speaker is not under oath and available for cross",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      553.37,
+      318.29,
+      567.37
+    ],
+    "text": "examination, making it unreliable.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      581.45,
+      527.17,
+      610.69
+    ],
+    "text": "However, it can become admissible under specific exceptions like dying",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      624.89,
+      527.02,
+      638.89
+    ],
+    "text": "declarations or when offered for purposes other than proving the truth",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      653.12,
+      215.09,
+      667.12
+    ],
+    "text": "of the statement.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      86.18,
+      709.4,
+      527.18,
+      723.4
+    ],
+    "text": "21. Parts of the narrative provided by PW01 which includes references to",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      108.02,
+      737.59,
+      527.13,
+      751.6
+    ],
+    "text": "her parents, some villagers and who were not called as witnesses by the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.02,
+      781.9,
+      330.41,
+      806.38
+    ],
+    "text": "Page 10 of 13",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      72.1,
+      527.26,
+      86.1
+    ],
+    "text": "prosecution has however not been deemed substantive evidence by the",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      100.32,
+      527.17,
+      114.32
+    ],
+    "text": "learned high court judge in his disputed judgment. Therefore, it cannot",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      128.52,
+      527.06,
+      142.52
+    ],
+    "text": "be argued that he has improperly considered hearsay evidence in",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      156.6,
+      482.02,
+      170.6
+    ],
+    "text": "reaching his conclusion as reflected in the disputed judgment.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.18,
+      213.0,
+      527.24,
+      227.06
+    ],
+    "text": "22. The \u2018test of probability\u2019 is a foundational method used by courts to",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      241.2,
+      527.25,
+      255.2
+    ],
+    "text": "evaluate the credibility of witness\u2019s narration by assessing whether his",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      269.28,
+      527.08,
+      283.28
+    ],
+    "text": "story aligns with common sense, human experience and objective",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      297.51,
+      527.17,
+      311.51
+    ],
+    "text": "independent evidence. It helps judges determine which version of events",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      325.71,
+      382.39,
+      339.71
+    ],
+    "text": "is more likely than not or inherently probable.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.18,
+      353.91,
+      527.21,
+      383.03
+    ],
+    "text": "23. The learned counsel for the appellant has contended that the dragging",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      397.23,
+      527.12,
+      411.23
+    ],
+    "text": "of PW01 by the appellant could not have occurred as described by her.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      425.43,
+      527.21,
+      439.43
+    ],
+    "text": "However, in pages 107 to 109, and page 118, PW01 has clearly",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      453.63,
+      527.18,
+      467.63
+    ],
+    "text": "explained how the appellant manipulated the chez cloth she was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      481.73,
+      527.22,
+      495.73
+    ],
+    "text": "wearing to muffle her and subsequently drag her to the nearby isolated",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      509.93,
+      507.22,
+      523.93
+    ],
+    "text": "area. Such explanation is plausible and aligns with common sense.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.18,
+      538.13,
+      527.06,
+      567.37
+    ],
+    "text": "24. Further, PW01 had been found to be a truthful witness despite being",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      581.45,
+      527.19,
+      595.45
+    ],
+    "text": "unable to recall the specific details of the chez cloth from the incident.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      609.65,
+      527.17,
+      623.65
+    ],
+    "text": "Her inability to recall specific details of the chez cloth does not negate",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      637.85,
+      434.95,
+      651.85
+    ],
+    "text": "her narrative that a chez cloth was used to muffle her.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.18,
+      666.08,
+      527.26,
+      695.2
+    ],
+    "text": "25. Another point contended on behalf of the appellant is the alleged logical",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      709.4,
+      527.21,
+      723.4
+    ],
+    "text": "inconsistency of the appellant taking phone calls in the isolated area.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      108.02,
+      737.59,
+      527.19,
+      751.6
+    ],
+    "text": "This action should be considered in light of the fact that the appellant",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.02,
+      781.9,
+      330.41,
+      806.38
+    ],
+    "text": "Page 11 of 13",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      72.1,
+      527.18,
+      86.1
+    ],
+    "text": "had told PW01 that two other individuals were going to join him and",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      100.32,
+      406.39,
+      114.32
+    ],
+    "text": "would also engage in sexual intercourse with her.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      86.18,
+      128.52,
+      527.22,
+      157.64
+    ],
+    "text": "26. Additionally, the appellant has stated to PW01 that he was armed with",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      171.84,
+      527.26,
+      185.84
+    ],
+    "text": "a pistol. This disclosure would have undoubtedly instilled fear in PW01",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      200.04,
+      527.08,
+      214.04
+    ],
+    "text": "and profoundly subdued her. This fear has been demonstrably",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      228.24,
+      527.21,
+      242.24
+    ],
+    "text": "evidenced in her subsequent action. Upon escaping PW06\u2019s house,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      256.32,
+      527.19,
+      270.32
+    ],
+    "text": "PW01 has immediately warned its occupants that the appellant might",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      284.55,
+      181.7,
+      298.55
+    ],
+    "text": "shoot them.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      86.18,
+      312.75,
+      527.26,
+      341.87
+    ],
+    "text": "27. During the cross examination of PW01, the appellant\u2019s defence posited",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      356.07,
+      527.18,
+      370.07
+    ],
+    "text": "among other suggestions that PW01 had engaged in consensual",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      384.27,
+      527.26,
+      398.27
+    ],
+    "text": "intercourse with the appellant, that her husband returned",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      412.47,
+      527.26,
+      426.47
+    ],
+    "text": "unexpectedly that night and any subsequent assault on PW01 was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      440.67,
+      284.21,
+      454.67
+    ],
+    "text": "perpetrated by her husband.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      86.18,
+      468.77,
+      527.21,
+      498.01
+    ],
+    "text": "28. These suggestions have been however unequivocally denied by PW01.",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      512.21,
+      527.21,
+      526.21
+    ],
+    "text": "Instead, PW01 has maintained a consistent narrative that she",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      540.41,
+      527.14,
+      554.41
+    ],
+    "text": "accompanied by PW06, first proceeded to her husband\u2019s workplace.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      568.49,
+      527.06,
+      582.49
+    ],
+    "text": "After confiding in him about the incident, they then travelled together",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      596.69,
+      317.33,
+      610.69
+    ],
+    "text": "to lodge a formal police complaint.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      86.18,
+      624.89,
+      527.22,
+      654.01
+    ],
+    "text": "29. A crucial point of fact is when PW01 testified in court, her husband had",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      668.24,
+      527.26,
+      682.24
+    ],
+    "text": "unfortunately passed away due to an elephant attack, rendering him",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      696.44,
+      527.22,
+      710.44
+    ],
+    "text": "unavailable as a corroborating witness. The prosecution\u2019s case has been",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      724.64,
+      527.13,
+      738.64
+    ],
+    "text": "significantly bolstered by several pieces of evidence. It has been",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      108.02,
+      752.83,
+      527.21,
+      766.84
+    ],
+    "text": "established that PW01 had exhibited clear signs of distress upon her",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.02,
+      781.9,
+      330.41,
+      806.38
+    ],
+    "text": "Page 12 of 13",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      72.1,
+      527.19,
+      86.16
+    ],
+    "text": "arrival at the Police Station to make a complaint. Furthermore, the",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      100.32,
+      527.25,
+      114.38
+    ],
+    "text": "consultant judicial medical officer (PW07) who examined PW01 has",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      128.52,
+      527.17,
+      142.52
+    ],
+    "text": "provided an expert opinion stating that the bodily injuries observed on",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      156.6,
+      527.26,
+      170.6
+    ],
+    "text": "her were highly suggestive of restraint and resistance having occurred",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      184.8,
+      244.37,
+      198.8
+    ],
+    "text": "during the sexual act.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.18,
+      213.0,
+      527.25,
+      242.24
+    ],
+    "text": "30. The learned High Court Judge has meticulously considered these",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      256.32,
+      527.14,
+      270.32
+    ],
+    "text": "corroborative pieces of evidence from the prosecution alongside other",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      284.55,
+      527.25,
+      298.55
+    ],
+    "text": "material evidence and the appellant\u2019s dock statement undertaking a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      312.75,
+      351.67,
+      326.75
+    ],
+    "text": "comprehensive and holistic assessment.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.18,
+      340.95,
+      527.17,
+      370.07
+    ],
+    "text": "31. Consequently, the learned High Court Judge has determined that the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      384.27,
+      527.25,
+      398.27
+    ],
+    "text": "appellant\u2019s narrative, as presented in the dock statement, lacked",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      412.47,
+      527.07,
+      426.47
+    ],
+    "text": "credibility when weighed against the compelling prosecution evidence",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      440.67,
+      377.35,
+      454.67
+    ],
+    "text": "and has therefore decided not to rely upon it.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.18,
+      468.89,
+      527.19,
+      498.01
+    ],
+    "text": "32. Detailed and cogent reasons have been specifically provided for this",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      512.21,
+      527.19,
+      526.21
+    ],
+    "text": "determination. Given these compelling circumstances and the robust",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      540.41,
+      527.22,
+      554.41
+    ],
+    "text": "assessment undertaken by the learned High Court Judge, there is no",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      568.49,
+      527.26,
+      582.49
+    ],
+    "text": "merit in the contention that the appellant\u2019s dock statement was",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      596.69,
+      527.21,
+      610.69
+    ],
+    "text": "erroneously rejected due to any misapplication of legal principles or",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      624.89,
+      276.29,
+      638.89
+    ],
+    "text": "factual misrepresentations.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      86.18,
+      681.32,
+      527.26,
+      695.32
+    ],
+    "text": "33. It has also been submitted by the learned Deputy Solicitor General that",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      709.4,
+      527.04,
+      723.4
+    ],
+    "text": "any infirmity in the investigation by not producing the appellant for a",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.02,
+      737.59,
+      524.02,
+      751.6
+    ],
+    "text": "medical examination does not raise a doubt in the credibility of PW01.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.02,
+      781.9,
+      330.41,
+      806.38
+    ],
+    "text": "Page 13 of 13",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      11.039999961853027
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      86.18,
+      100.32,
+      527.06,
+      114.32
+    ],
+    "text": "34. In those circumstances, I am not inclined to interfere with the",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      128.52,
+      503.38,
+      142.52
+    ],
+    "text": "conviction, disputed judgment together with the sentencing order.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      156.6,
+      423.67,
+      185.84
+    ],
+    "text": "I proceed to affirm the same and dismiss the appeal.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      200.04,
+      306.05,
+      214.04
+    ],
+    "text": "I make no order regarding costs.",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      256.32,
+      230.93,
+      270.38
+    ],
+    "text": "Appeal is dismissed.",
+    "fonts": [
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      86.18,
+      312.75,
+      527.26,
+      326.81
+    ],
+    "text": "35. The Registrar of this Court is directed to send this judgment to the High",
+    "fonts": [
+      "ArialMT",
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.02,
+      340.95,
+      327.91,
+      355.01
+    ],
+    "text": "Court in Hambantota for compliance.",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Italic"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.38,
+      463.49,
+      517.78,
+      477.47
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.38,
+      502.49,
+      241.73,
+      516.47
+    ],
+    "text": "B. Sasi Mahendran, J.",
+    "fonts": [
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.38,
+      531.53,
+      193.94,
+      545.53
+    ],
+    "text": "I agree,",
+    "fonts": [
+      "BookmanOldStyle"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      93.38,
+      618.89,
+      521.38,
+      632.89
+    ],
+    "text": "Judge of the Court of Appeal",
+    "fonts": [
+      "BookmanOldStyle",
+      "BookmanOldStyle-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
