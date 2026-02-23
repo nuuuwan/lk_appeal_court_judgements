@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--19_06:43:23-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--23_06:43:03-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,467** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.6 GB**), from **2012-04-23** to **2026-02-18**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,476** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.6 GB**), from **2012-04-23** to **2026-02-20**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-02-18-CA-WRT-368-18",
-    "num": "CA/WRT/368/18",
-    "date_str": "2026-02-18",
-    "description": "Kusang Lanka (Pvt) Ltd, Vs. Commissioner General of Labour, before Hon. Adithya Patabendige, J.",
+    "doc_id": "2026-02-20-CA-PHC-APN-0140-24",
+    "num": "CA(PHC)APN 0140/24",
+    "date_str": "2026-02-20",
+    "description": "The Director General Commissioner to Investigate Allegation Vs. Kaluwabadu Vidanage Pramila Madurangani before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=15592",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1c1b3ca8-ae67-457e-8bdd-f4d11a1b5f98&filename=Writ%20%20368%202018.pdf.pdf",
-    "parties": "Kusang Lanka (Pvt) Ltd, Vs. Commissioner General of Labour,",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Certiorari, Futility of the Application",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Section 38(2) of the Employees Provident Fund Act No. 15 of 1958"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=af16472a-c1d3-4802-8ada-7d0a37cf47ff&filename=Revision-CA%20PHC-0140-24.pdf.pdf",
+    "parties": "The Director General Commissioner to Investigate Allegation Vs. Kaluwabadu Vidanage Pramila Madurangani",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Exceptional Circumstances.",
+    "legistation": "The Bribery Act"
 }
 ```
 
@@ -44,6 +44,10 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-02-20 | `CA(PHC)APN 0140/24` | The Director General Commissioner to Investigate Allegation Vs. Kaluwabadu Vidanage Pramila Madurangani before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-20-CA-PHC-APN-0140-24)
+- 2026-02-19 | `CA/WRT/761/2024` | Siyambalapitiyage Don Chandrasena, Vs Debt Conciliation Board and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-19-CA-WRT-761-2024)
+- 2026-02-19 | `CA/WRT/121/2015` | Micro Cars Limited, Vs Director General of Customs, Customs House, and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-19-CA-WRT-121-2015)
+- 2026-02-19 | `CA/WRT/1034/2025` | Garumuni Bandula Chandrasiri de Silva and another Vs Pradeshiya Sanwardhana Bank before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-19-CA-WRT-1034-2025)
 - 2026-02-18 | `CA/WRT/368/18` | Kusang Lanka (Pvt) Ltd, Vs. Commissioner General of Labour, before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-18-CA-WRT-368-18)
 - 2026-02-18 | `CA HCC 453/2017` | Nanayakkarawasamgoda Liyanage Premasirialias Chuti Mahaththaya Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-18-CA-HCC-453-2017)
 - 2026-02-18 | `CA HCC (PHC) 00172 /2022` | B. Wijekumarathunga Vs. ArumugamAntanMuthukumarana & Other before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-18-CA-HCC--PHC--00172--2022)
@@ -55,15 +59,11 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-02-13 | `CA/WRT/195/13` | Sumanalatha Kodikara Vs. Hon.Janaka Bandara Tennakoon, Minister of Lands and Land Development before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA-WRT-195-13)
 - 2026-02-13 | `CA/WRIT/146/2024` | H. M. K. Herath v. 1. Justice Anil GoonerathnaChairman, Administrative Appeal Tribunal and 15 others before Hon. Mahen Gopallawa,J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA-WRIT-146-2024)
 - 2026-02-13 | `CA HCC 0395/2019` | Liyanage Shanthapriya Wijesuriya Vs. Commission to Investigate Allegations of Bribery or Corruption before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA-HCC-0395-2019)
-- 2026-02-12 | `CA/HCC/ 0087/2016` | Lanka Deeganage Amarapala Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-12-CA-HCC--0087-2016)
-- 2026-02-12 | `CA (Writ) 261/2018` | Randenigala Distilleries Lanka (Private) Limited. Vs. Commissioner-General of Inland Revenue and Others before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-12-CA--Writ--261-2018)
-- 2026-02-11 | `CA(PHC)41/2019` | Padmini Dayanika Panabokke Vs. Dissanayake Mudiyanselage Nilakshika Gunawardena and 6 Others before Hon.K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-11-CA-PHC-41-2019)
-- 2026-02-11 | `CA(PHC)0065/2017` | M.M. Nazar Vs. Chandramalee Muthuhewa Arachchi Mahalekam and 4 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-11-CA-PHC-0065-2017)
-- 2026-02-11 | `CA(PHC)0054/2019` | Rajapaksha Waththe Vidanalage Ajith Rajapakse Vs. Rathnayaka Mudiyanselage Gunasekara Banda and 2 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-11-CA-PHC-0054-2019)
-- 2026-02-11 | `CA-HCC 230/2020` | The Democratic Socialist Republic of Sri Lanka Vs. Mohamed Haniffa Riyas before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-11-CA-HCC-230-2020)
-- 2026-02-11 | `CA-HCC 228/2020` | The Democratic Socialist Republic of Sri Lanka Vs. Mohamed Haniffa Riyas before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-11-CA-HCC-228-2020)
-- 2026-02-11 | `CA/CPA/0030/2021` | R.A. Chandani Ranasinghe Vs. Prasanna Sanjeewa and 3 Others before Hon.K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-11-CA-CPA-0030-2021)
-- 2026-02-10 | `CA/HCC/86-89/2023` | Hon. Attorney General Vs. Aranwela Gamage Upul & Others before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-10-CA-HCC-86-89-2023)
+- 2026-02-13 | `CA (HCC)0233/2023` | David Anton Kumara Vs. Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA--HCC-0233-2023)
+- 2026-02-13 | `CA (HCC)0171/2022` | Hewa Pathiranage Piyarathne Vs. Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA--HCC-0171-2022)
+- 2026-02-13 | `CA (HCC)0151/2025` | Lalitha Fedrik Kumara alias Sudu Vs. Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA--HCC-0151-2025)
+- 2026-02-13 | `CA (HCC)0147/2023` | Rajapaksha Muthunayakage Dharmasiri Jayalath Vs. Hon. Attorney Genera before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA--HCC-0147-2023)
+- 2026-02-13 | `CA (HCC)0077-78/2022` | Jayasekara Liyanaarchchige Bandula 2. Jayasekara Liyanaarchchige Dhammika alias Choota Vs. Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA--HCC-0077-78-2022)
 
 ---
 

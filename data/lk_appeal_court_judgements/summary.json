@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-02-19 06:43:16",
-  "n_docs": 10467,
-  "n_docs_with_pdfs": 10467,
-  "n_docs_with_text": 10467,
+  "time_updated": "2026-02-23 06:42:57",
+  "n_docs": 10476,
+  "n_docs_with_pdfs": 10476,
+  "n_docs_with_text": 10476,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-02-18",
-  "dataset_size": 10606150869,
+  "date_str_max": "2026-02-20",
+  "dataset_size": 10611290404,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-02-18-CA-WRT-368-18",
-    "num": "CA/WRT/368/18",
-    "date_str": "2026-02-18",
-    "description": "Kusang Lanka (Pvt) Ltd, Vs. Commissioner General of Labour, before Hon. Adithya Patabendige, J.",
+    "doc_id": "2026-02-20-CA-PHC-APN-0140-24",
+    "num": "CA(PHC)APN 0140/24",
+    "date_str": "2026-02-20",
+    "description": "The Director General Commissioner to Investigate Allegation Vs. Kaluwabadu Vidanage Pramila Madurangani before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=15592",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1c1b3ca8-ae67-457e-8bdd-f4d11a1b5f98&filename=Writ%20%20368%202018.pdf.pdf",
-    "parties": "Kusang Lanka (Pvt) Ltd, Vs. Commissioner General of Labour,",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Certiorari, Futility of the Application",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Section 38(2) of the Employees Provident Fund Act No. 15 of 1958"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=af16472a-c1d3-4802-8ada-7d0a37cf47ff&filename=Revision-CA%20PHC-0140-24.pdf.pdf",
+    "parties": "The Director General Commissioner to Investigate Allegation Vs. Kaluwabadu Vidanage Pramila Madurangani",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Exceptional Circumstances.",
+    "legistation": "The Bribery Act"
   }
 }
