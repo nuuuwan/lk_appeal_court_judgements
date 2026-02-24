@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-02-24 06:39:48",
-  "n_docs": 10477,
-  "n_docs_with_pdfs": 10477,
-  "n_docs_with_text": 10477,
+  "time_updated": "2026-02-24 18:38:34",
+  "n_docs": 10482,
+  "n_docs_with_pdfs": 10482,
+  "n_docs_with_text": 10482,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-02-23",
-  "dataset_size": 10616426639,
+  "date_str_max": "2026-02-24",
+  "dataset_size": 10618701314,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-02-23-CA-WRT-756-24",
-    "num": "CA/WRT/756/24",
-    "date_str": "2026-02-23",
-    "description": "Rev. Bro. Sinnappu Selvathas Vs. The Director General of Pensions before Hon. Adithya Patabendige, J.",
+    "doc_id": "2026-02-24-CA-HCC-123-124-2019",
+    "num": "CA HCC 123-124/2019",
+    "date_str": "2026-02-24",
+    "description": "Wanniarachchi Kankanamlage Susantha Kumara alias Sudumahaththaya Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=15592",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=347679e9-f951-413f-878b-f1ddba492aa7&filename=writ%20-%200756-24.pdf.pdf",
-    "parties": "Rev. Bro. Sinnappu Selvathas Vs. The Director General of Pensions",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Certiorari, Writ of Mandamus, Vacation of Post, Pension Entitlement, Reinstatement of Service, Ultra Vires",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Section 37 of the Establishment Code"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=405e7fe6-18b7-4d61-875b-c9c8827069eb&filename=HCC-123-124%20%20%20%20%20%2024.02.2026.pdf.pdf",
+    "parties": "Wanniarachchi Kankanamlage Susantha Kumara alias Sudumahaththaya Vs The Hon. Attorney General,",
+    "judgement_by": "Hon. Amal Ranaraja, J.",
+    "keywords": "Murder \u2013 Credibility of witness \u2013 Reviewal of information book and non- summary proceedings",
+    "legistation": "Sections 296 and 32 of the Penal Code of Sri Lanka - Section 134 of the Evidence Ordinance of Sri Lanka"
   }
 }
