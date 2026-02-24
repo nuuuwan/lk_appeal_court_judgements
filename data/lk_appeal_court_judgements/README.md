@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--23_06:43:03-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--24_06:39:53-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,476** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.6 GB**), from **2012-04-23** to **2026-02-20**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,477** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.6 GB**), from **2012-04-23** to **2026-02-23**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-02-20-CA-PHC-APN-0140-24",
-    "num": "CA(PHC)APN 0140/24",
-    "date_str": "2026-02-20",
-    "description": "The Director General Commissioner to Investigate Allegation Vs. Kaluwabadu Vidanage Pramila Madurangani before Hon. P. Kumararatnam, J.",
+    "doc_id": "2026-02-23-CA-WRT-756-24",
+    "num": "CA/WRT/756/24",
+    "date_str": "2026-02-23",
+    "description": "Rev. Bro. Sinnappu Selvathas Vs. The Director General of Pensions before Hon. Adithya Patabendige, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=15592",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=af16472a-c1d3-4802-8ada-7d0a37cf47ff&filename=Revision-CA%20PHC-0140-24.pdf.pdf",
-    "parties": "The Director General Commissioner to Investigate Allegation Vs. Kaluwabadu Vidanage Pramila Madurangani",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Exceptional Circumstances.",
-    "legistation": "The Bribery Act"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=347679e9-f951-413f-878b-f1ddba492aa7&filename=writ%20-%200756-24.pdf.pdf",
+    "parties": "Rev. Bro. Sinnappu Selvathas Vs. The Director General of Pensions",
+    "judgement_by": "Hon. Adithya Patabendige, J.",
+    "keywords": "Writ of Certiorari, Writ of Mandamus, Vacation of Post, Pension Entitlement, Reinstatement of Service, Ultra Vires",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Section 37 of the Establishment Code"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-02-23 | `CA/WRT/756/24` | Rev. Bro. Sinnappu Selvathas Vs. The Director General of Pensions before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-23-CA-WRT-756-24)
 - 2026-02-20 | `CA(PHC)APN 0140/24` | The Director General Commissioner to Investigate Allegation Vs. Kaluwabadu Vidanage Pramila Madurangani before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-20-CA-PHC-APN-0140-24)
 - 2026-02-19 | `CA/WRT/761/2024` | Siyambalapitiyage Don Chandrasena, Vs Debt Conciliation Board and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-19-CA-WRT-761-2024)
 - 2026-02-19 | `CA/WRT/121/2015` | Micro Cars Limited, Vs Director General of Customs, Customs House, and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-19-CA-WRT-121-2015)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-02-13 | `CA (HCC)0171/2022` | Hewa Pathiranage Piyarathne Vs. Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA--HCC-0171-2022)
 - 2026-02-13 | `CA (HCC)0151/2025` | Lalitha Fedrik Kumara alias Sudu Vs. Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA--HCC-0151-2025)
 - 2026-02-13 | `CA (HCC)0147/2023` | Rajapaksha Muthunayakage Dharmasiri Jayalath Vs. Hon. Attorney Genera before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA--HCC-0147-2023)
-- 2026-02-13 | `CA (HCC)0077-78/2022` | Jayasekara Liyanaarchchige Bandula 2. Jayasekara Liyanaarchchige Dhammika alias Choota Vs. Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA--HCC-0077-78-2022)
 
 ---
 
