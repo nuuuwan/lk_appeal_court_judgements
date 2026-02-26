@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--24_18:38:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--26_06:39:16-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,482** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.6 GB**), from **2012-04-23** to **2026-02-24**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,486** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.6 GB**), from **2012-04-23** to **2026-02-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-02-24-CA-HCC-123-124-2019",
-    "num": "CA HCC 123-124/2019",
-    "date_str": "2026-02-24",
-    "description": "Wanniarachchi Kankanamlage Susantha Kumara alias Sudumahaththaya Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J.",
+    "doc_id": "2026-02-25-CA-WRT-206--16",
+    "num": "CA/WRT 206 /16",
+    "date_str": "2026-02-25",
+    "description": "Lanka Maritime Services Ltd and Others Vs. Director General of Customs and others before Hon. M.C.B.S. Morais J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=15592",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=405e7fe6-18b7-4d61-875b-c9c8827069eb&filename=HCC-123-124%20%20%20%20%20%2024.02.2026.pdf.pdf",
-    "parties": "Wanniarachchi Kankanamlage Susantha Kumara alias Sudumahaththaya Vs The Hon. Attorney General,",
-    "judgement_by": "Hon. Amal Ranaraja, J.",
-    "keywords": "Murder \u2013 Credibility of witness \u2013 Reviewal of information book and non- summary proceedings",
-    "legistation": "Sections 296 and 32 of the Penal Code of Sri Lanka - Section 134 of the Evidence Ordinance of Sri Lanka"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8e906691-411f-45a8-82ee-e56f39f8b556&filename=WRT%20206-16.pdf.pdf",
+    "parties": "Lanka Maritime Services Ltd and Others Vs. Director General of Customs and others",
+    "judgement_by": "Hon. M.C.B.S. Morais J.",
+    "keywords": "Bunker Oil, Ship stores, Forfeiture, Ultra Vires",
+    "legistation": "Section 33 of the Customs Ordinance No. 17 of 1869 (as amended)"
 }
 ```
 
@@ -44,6 +44,10 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-02-25 | `CA/WRT 206 /16` | Lanka Maritime Services Ltd and Others Vs. Director General of Customs and others before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-25-CA-WRT-206--16)
+- 2026-02-25 | `CA/HCC/184/23` | Jeyasingham Rajini alias Sudhakaran Vs Hon. Attorney General, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-25-CA-HCC-184-23)
+- 2026-02-25 | `CA/HCC/0102/24` | Wijenayake Kankanamge Ranjith Kumara alias Hichchi Mama Vs Hon. Attorney General, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-25-CA-HCC-0102-24)
+- 2026-02-25 | `CA HCC /170/2025` | Mohommed Halaldeen Fausul Kabeer Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-25-CA-HCC--170-2025)
 - 2026-02-24 | `CA HCC 123-124/2019` | Wanniarachchi Kankanamlage Susantha Kumara alias Sudumahaththaya Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-24-CA-HCC-123-124-2019)
 - 2026-02-24 | `CA/HCC/ 0305/2024` | Mahesh Indika Kulasekara Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-24-CA-HCC--0305-2024)
 - 2026-02-23 | `CA/WRT/756/24` | Rev. Bro. Sinnappu Selvathas Vs. The Director General of Pensions before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-23-CA-WRT-756-24)
@@ -60,10 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-02-18 | `CA/HCC/ 0157/2022` | Devarajage Jayantha Perera alias Ajantha Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-18-CA-HCC--0157-2022)
 - 2026-02-17 | `CA HCC 002/2024` | Abeygoda Liyanage Podi Appuhamy Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-17-CA-HCC-002-2024)
 - 2026-02-16 | `CA/HCC/150/2018` | Piramanage Samantha Chaminda Vs. The Hon. Attorney Genera before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-16-CA-HCC-150-2018)
-- 2026-02-16 | `CA HCC 0248/2023` | Ramaiya Kirishandan Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-16-CA-HCC-0248-2023)
-- 2026-02-13 | `CA-Writ-572-2021` | Devon Oversees (Pvt) Ltd Vs. B.K. Prabath Chandrakeerthi, and 4 others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA-Writ-572-2021)
-- 2026-02-13 | `CA/WRT/195/13` | Sumanalatha Kodikara Vs. Hon.Janaka Bandara Tennakoon, Minister of Lands and Land Development before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA-WRT-195-13)
-- 2026-02-13 | `CA/WRIT/146/2024` | H. M. K. Herath v. 1. Justice Anil GoonerathnaChairman, Administrative Appeal Tribunal and 15 others before Hon. Mahen Gopallawa,J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-13-CA-WRIT-146-2024)
 
 ---
 
