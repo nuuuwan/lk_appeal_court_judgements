@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--26_06:39:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--27_06:42:00-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,486** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.6 GB**), from **2012-04-23** to **2026-02-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,491** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.6 GB**), from **2012-04-23** to **2026-02-26**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-02-25-CA-WRT-206--16",
-    "num": "CA/WRT 206 /16",
-    "date_str": "2026-02-25",
-    "description": "Lanka Maritime Services Ltd and Others Vs. Director General of Customs and others before Hon. M.C.B.S. Morais J.",
+    "doc_id": "2026-02-26-CA-WRT-0945-2025",
+    "num": "CA/WRT/0945/2025",
+    "date_str": "2026-02-26",
+    "description": "Megha Dashini Weerasekera vs Controller General, Department of Immigration and Emigration and others before Hon. R. Gurusinghe, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=15592",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=8e906691-411f-45a8-82ee-e56f39f8b556&filename=WRT%20206-16.pdf.pdf",
-    "parties": "Lanka Maritime Services Ltd and Others Vs. Director General of Customs and others",
-    "judgement_by": "Hon. M.C.B.S. Morais J.",
-    "keywords": "Bunker Oil, Ship stores, Forfeiture, Ultra Vires",
-    "legistation": "Section 33 of the Customs Ordinance No. 17 of 1869 (as amended)"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=1fc680bc-aff1-4601-b03e-122b4f73aa58&filename=WRT%200945-25%20pdf.pdf.pdf",
+    "parties": "Megha Dashini Weerasekera vs Controller General, Department of Immigration and Emigration and others",
+    "judgement_by": "Hon. R. Gurusinghe, J.",
+    "keywords": "Section 5 (2) of the Citizenship Act, Consular Birth Certificate",
+    "legistation": "Article 140 of the Constitution"
 }
 ```
 
@@ -44,6 +44,11 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-02-26 | `CA/WRT/0945/2025` | Megha Dashini Weerasekera vs Controller General, Department of Immigration and Emigration and others before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-26-CA-WRT-0945-2025)
+- 2026-02-26 | `CA/TAX 13-21` | Commissioner General of Inland Revenue Vs. Commercial Leasing Finance Ltd. before Hon.M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-26-CA-TAX-13-21)
+- 2026-02-26 | `CA/PHC/155/22` | Abeythunga Wijekoon Mudiyanselage Wijesekera Vs. Abeythunga Wijekoon Mudiyanselage Tikiri Bandara & Other before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-26-CA-PHC-155-22)
+- 2026-02-26 | `CA HCC 0070/24` | MuthukuruppanVithyanathan, Sambandan Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-26-CA-HCC-0070-24)
+- 2026-02-26 | `CA/HCC/ 0049/2022` | Konara Mudiyanselage Rambanda Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-26-CA-HCC--0049-2022)
 - 2026-02-25 | `CA/WRT 206 /16` | Lanka Maritime Services Ltd and Others Vs. Director General of Customs and others before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-25-CA-WRT-206--16)
 - 2026-02-25 | `CA/HCC/184/23` | Jeyasingham Rajini alias Sudhakaran Vs Hon. Attorney General, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-25-CA-HCC-184-23)
 - 2026-02-25 | `CA/HCC/0102/24` | Wijenayake Kankanamge Ranjith Kumara alias Hichchi Mama Vs Hon. Attorney General, before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-25-CA-HCC-0102-24)
@@ -59,11 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-02-19 | `CA/WRT/121/2015` | Micro Cars Limited, Vs Director General of Customs, Customs House, and others before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-19-CA-WRT-121-2015)
 - 2026-02-19 | `CA/WRT/1034/2025` | Garumuni Bandula Chandrasiri de Silva and another Vs Pradeshiya Sanwardhana Bank before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-19-CA-WRT-1034-2025)
 - 2026-02-18 | `CA/WRT/368/18` | Kusang Lanka (Pvt) Ltd, Vs. Commissioner General of Labour, before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-18-CA-WRT-368-18)
-- 2026-02-18 | `CA HCC 453/2017` | Nanayakkarawasamgoda Liyanage Premasirialias Chuti Mahaththaya Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-18-CA-HCC-453-2017)
-- 2026-02-18 | `CA HCC (PHC) 00172 /2022` | B. Wijekumarathunga Vs. ArumugamAntanMuthukumarana & Other before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-18-CA-HCC--PHC--00172--2022)
-- 2026-02-18 | `CA/HCC/ 0157/2022` | Devarajage Jayantha Perera alias Ajantha Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-18-CA-HCC--0157-2022)
-- 2026-02-17 | `CA HCC 002/2024` | Abeygoda Liyanage Podi Appuhamy Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-17-CA-HCC-002-2024)
-- 2026-02-16 | `CA/HCC/150/2018` | Piramanage Samantha Chaminda Vs. The Hon. Attorney Genera before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-16-CA-HCC-150-2018)
 
 ---
 
