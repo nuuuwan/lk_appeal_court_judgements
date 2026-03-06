@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-03-04 06:40:01",
-  "n_docs": 10505,
-  "n_docs_with_pdfs": 10505,
-  "n_docs_with_text": 10505,
+  "time_updated": "2026-03-06 06:38:58",
+  "n_docs": 10513,
+  "n_docs_with_pdfs": 10513,
+  "n_docs_with_text": 10513,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-03-03",
-  "dataset_size": 10639340774,
+  "date_str_max": "2026-03-05",
+  "dataset_size": 10643236401,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-03-03-C-A--Writ-0633-2024",
-    "num": "C.A./Writ/0633/2024",
-    "date_str": "2026-03-03",
-    "description": "Arthur C Clarke Institute for Modern Technologies Vs. Dilkusha De Silva, before Hon. Adithya Patabendige, J.",
-    "url_metadata": "https://courtofappeal.lk/?page_id=15592",
+    "doc_id": "2026-03-05-CA-WRT-0519-2023",
+    "num": "CA/WRT 0519-2023",
+    "date_str": "2026-03-05",
+    "description": "Ceylon Petroleum Corporation Vs The Commissioner General of Labour and others before Hon. R. Gurusinghe, J.",
+    "url_metadata": "https://courtofappeal.lk/?page_id=15595",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=dd6b3746-ef2a-4125-869e-2aa8679d5b60&filename=Writ%20-%200633-24.pdf.pdf",
-    "parties": "Arthur C Clarke Institute for Modern Technologies Vs. Dilkusha De Silva,",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Certiorari, Writs Prohibition, Interpretation of service category personal to an officer.",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Section 4.3 to 4.5 of the Establishment Code"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ad286ca3-8778-4d15-8b3d-58b353d0111a&filename=WRT%200519-23%20Edited.pdf.pdf",
+    "parties": "Ceylon Petroleum Corporation Vs The Commissioner General of Labour and others",
+    "judgement_by": "Hon. R. Gurusinghe, J.",
+    "keywords": "Arbitration in terms of Section 4 (1) of the Industrial Dispute Act.",
+    "legistation": "Article 140 of the Constitution"
   }
 }
