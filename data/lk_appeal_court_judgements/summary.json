@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-03-06 06:38:58",
-  "n_docs": 10513,
-  "n_docs_with_pdfs": 10513,
-  "n_docs_with_text": 10513,
+  "time_updated": "2026-03-12 18:54:09",
+  "n_docs": 10531,
+  "n_docs_with_pdfs": 10531,
+  "n_docs_with_text": 10531,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-03-05",
-  "dataset_size": 10643236401,
+  "date_str_max": "2026-03-12",
+  "dataset_size": 10654358044,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-03-05-CA-WRT-0519-2023",
-    "num": "CA/WRT 0519-2023",
-    "date_str": "2026-03-05",
-    "description": "Ceylon Petroleum Corporation Vs The Commissioner General of Labour and others before Hon. R. Gurusinghe, J.",
+    "doc_id": "2026-03-12-TAX-0011-23",
+    "num": "TAX-0011-23",
+    "date_str": "2026-03-12",
+    "description": "CONFAB STEEL (PVT) LTD, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=15595",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=ad286ca3-8778-4d15-8b3d-58b353d0111a&filename=WRT%200519-23%20Edited.pdf.pdf",
-    "parties": "Ceylon Petroleum Corporation Vs The Commissioner General of Labour and others",
-    "judgement_by": "Hon. R. Gurusinghe, J.",
-    "keywords": "Arbitration in terms of Section 4 (1) of the Industrial Dispute Act.",
-    "legistation": "Article 140 of the Constitution"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f9435c02-b384-4126-816d-a19ad5bb7baa&filename=Judgement%2011-23.pdf.pdf",
+    "parties": "CONFAB STEEL (PVT) LTD, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE",
+    "judgement_by": "Hon.Annalingam Premashanker, J.",
+    "keywords": "Spare Parts Stock, Spare Parts purchase Expenses, Interest income as Business income",
+    "legistation": "Section 3(a) of the IRA"
   }
 }
