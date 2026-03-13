@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--12_18:54:16-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--13_18:36:33-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,531** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.7 GB**), from **2012-04-23** to **2026-03-12**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,542** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.7 GB**), from **2012-04-23** to **2026-03-13**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-03-12-TAX-0011-23",
-    "num": "TAX-0011-23",
-    "date_str": "2026-03-12",
-    "description": "CONFAB STEEL (PVT) LTD, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J.",
+    "doc_id": "2026-03-13-CPA-0087-2020",
+    "num": "CPA/0087/2020",
+    "date_str": "2026-03-13",
+    "description": "Sashitharan Ganesan And 2 Others Vs. Mahenthiran Subramanium before Hon. K. M. S. DISSANAYAKE, J",
     "url_metadata": "https://courtofappeal.lk/?page_id=15595",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f9435c02-b384-4126-816d-a19ad5bb7baa&filename=Judgement%2011-23.pdf.pdf",
-    "parties": "CONFAB STEEL (PVT) LTD, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE",
-    "judgement_by": "Hon.Annalingam Premashanker, J.",
-    "keywords": "Spare Parts Stock, Spare Parts purchase Expenses, Interest income as Business income",
-    "legistation": "Section 3(a) of the IRA"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6ad8721a-0e99-43f5-8c5f-edd9cc227b00&filename=CPA-87-2020%2813.03.2026%29.pdf.pdf",
+    "parties": "Sashitharan Ganesan And 2 Others Vs. Mahenthiran Subramanium",
+    "judgement_by": "Hon. K. M. S. DISSANAYAKE, J",
+    "keywords": "Does the Court of Appeal have jurisdiction to hear and determine an application in revision emanating from an order made by a High Court of the Province established by Article 154P of the Constitution in the exercise of its revisionary jurisdiction vested in it by law-What is meant by Concurrent Jurisdiction.",
+    "legistation": "Article 138, Article 154P(3)(b) of the Constitution of the Democratic Socialist Republic of Sri Lanka, Sections 3, 9,10, 11(1) of the High Court of the Provinces (Special Provisions) Act, No. 19 of 1990 as amended."
 }
 ```
 
@@ -44,6 +44,15 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-03-13 | `CPA/0087/2020` | Sashitharan Ganesan And 2 Others Vs. Mahenthiran Subramanium before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-13-CPA-0087-2020)
+- 2026-03-13 | `CA/WRT/485/19` | K.L. Gunasekara Vs. Ravindra Pathmapriya before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-13-CA-WRT-485-19)
+- 2026-03-13 | `CA/WRT/484/19` | G.P. Janaka De Silva Vs. Ravindra Pathmapriya before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-13-CA-WRT-484-19)
+- 2026-03-13 | `CA/WRT/483/19` | A.K. Dissanayake Vs. Ravindra Pathmapriya before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-13-CA-WRT-483-19)
+- 2026-03-13 | `CA/WRT/482/19` | K.A. Jayasekara Vs. Ravindra Pathmapriya before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-13-CA-WRT-482-19)
+- 2026-03-13 | `CA/WRIT/169/2024 and CA/WRIT/200/2024` | Puttalam Ilmenite Limited v. Sri Lanka Cement Corporation and others in CA/WRIT/169/2024 Asha Minerals (Pvt) Limited v. Geological Survey and Mines Bureau and others in CA/WRIT/200/2024 before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-13-CA-WRIT-169-2024-and-CA-fd69f399)
+- 2026-03-13 | `CA(PHC)-0049-2022` | Wijesinghe Mudiyanselage Gunapala Vs. The Commissioner of Co-Operative Development and Registrar of Co Operative Societies (Uva Province) and 3 Others before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-13-CA-PHC--0049-2022)
+- 2026-03-13 | `CA HCC 148/24` | Francisco Patabendige Lalith Prasanna Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-13-CA-HCC-148-24)
+- 2026-03-13 | `CA/HCC/ 0093/2024 (HC/ Colombo 2008/2020)` | Vilgamu Lekamlage Buddhika Hemakumara alias Alawala Dewalage Ajith Pushpakumara Vs. The Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-13-CA-HCC--0093-2024--HC---b31dd6ed)
 - 2026-03-12 | `TAX-0011-23` | CONFAB STEEL (PVT) LTD, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-12-TAX-0011-23)
 - 2026-03-12 | `CA/RII/0025/25` | Roka Rio (Pvt) Ltd Vs Wijjarupage Baby Alias Wijjarupage Desilatha and others before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-12-CA-RII-0025-25)
 - 2026-03-11 | `CA HCC 234/24` | Rajapakshe Pradeep Kumara Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-11-CA-HCC-234-24)
@@ -51,19 +60,10 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-03-10 | `CA/HCC/ 0263/2020` | Peduru Hewa Cyril Kulatunga Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-10-CA-HCC--0263-2020)
 - 2026-03-09 | `CA HCC 286/24` | Dharmakeerthi Uddika Shrimal Perera Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-09-CA-HCC-286-24)
 - 2026-03-06 | `CA/Writ/0019/21` | Unilever Sri Lanka Limited Vs Major General (retired) G. Vijitha Ravipriya and others before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-06-CA-Writ-0019-21)
+- 2026-03-06 | `CA/CPA/0009/2023 (CA/CPA/0010/2023)` | K. A. D. Darshana Anid Vs. Lanka Sugar Company (Pvt) Limited and Another before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-06-CA-CPA-0009-2023--CA-CP-f901e5d0)
+- 2026-03-06 | `CA/CPA/0003/2023` | Poshitha Gamini Wanaguru Vs. Bandaranayake Mudiyanselage Shyamika Nayomi Bandaranayake and Another before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-06-CA-CPA-0003-2023)
 - 2026-03-06 | `CA (HCC)0237/10` | Degoda Piyadasa Samarawickrama Vs The Hon. Attorney General before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-06-CA--HCC-0237-10)
 - 2026-03-06 | `CA (HCC)0015/22` | Rajapakshage Lal Ranjan Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-06-CA--HCC-0015-22)
-- 2026-03-06 | `CA (HCC)0001/25` | Kiribandage Vajira Pradeep Kumara alias Ukkubandage Kiribandage Vajira Pradeep Kumara Vs Hon. Attorney General, before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-06-CA--HCC-0001-25)
-- 2026-03-05 | `CA/WRT 0519-2023` | Ceylon Petroleum Corporation Vs The Commissioner General of Labour and others before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-05-CA-WRT-0519-2023)
-- 2026-03-05 | `CA/RTI 0003/2024` | Asia Broadcasting Corporation (Pvt) Ltd., Vs M.J.K. Dissanayake, before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-05-CA-RTI-0003-2024)
-- 2026-03-05 | `CA HCC 36/25` | Kodippili Arachchilage Chandrakantha, Dharmakeerthi, Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-05-CA-HCC-36-25)
-- 2026-03-05 | `CA-HCC 006/25` | Sehu Dawood Sana alias Sana Appa alias SeguDawudu Segu Neina Marikkar Vs The Hon. Attorney General before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-05-CA-HCC-006-25)
-- 2026-03-04 | `CA/WRT/579/24` | S.N. Group (Private) Limited Vs. B.K. Prabath Chandrasiri before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-04-CA-WRT-579-24)
-- 2026-03-04 | `CA (Writ) Application Nos. 60/2025, 61/2025, 62/2025, 63/2025, 64/2025, 65/2025, 66/2025, 67/2025, 68/2025, 70/2025, 71/2025, 72/2025, and 73/2025` | Spirit World (Pvt) Ltd. Vs Commissioner General of Excise and Others before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-04-CA--Writ--Application-N-522af9c3)
-- 2026-03-03 | `CA/WRT/633/24` | Arthur C Clarke Institute for Modern Technologies Vs. Dilkusha De Silva before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-03-CA-WRT-633-24)
-- 2026-03-03 | `C.A./Writ/0633/2024` | Arthur C Clarke Institute for Modern Technologies Vs. Dilkusha De Silva, before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-03-C-A--Writ-0633-2024)
-- 2026-02-27 | `CA-Writ-83-2022` | Ambalangoda Gurunnanselage Ganga Kumari Vs. Mahaweli Authority of Sri Lanka, and 7 others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-27-CA-Writ-83-2022)
-- 2026-02-27 | `CA-Writ-432-2021` | Upali Amarasiri Vs. D.P. Wickramasinghe, and 4 others. before Hon. Mayadunne Corea, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-02-27-CA-Writ-432-2021)
 
 ---
 

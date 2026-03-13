@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-03-12 18:54:09",
-  "n_docs": 10531,
-  "n_docs_with_pdfs": 10531,
-  "n_docs_with_text": 10531,
+  "time_updated": "2026-03-13 18:36:27",
+  "n_docs": 10542,
+  "n_docs_with_pdfs": 10542,
+  "n_docs_with_text": 10542,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-03-12",
-  "dataset_size": 10654358044,
+  "date_str_max": "2026-03-13",
+  "dataset_size": 10667318302,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-03-12-TAX-0011-23",
-    "num": "TAX-0011-23",
-    "date_str": "2026-03-12",
-    "description": "CONFAB STEEL (PVT) LTD, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE before Hon.Annalingam Premashanker, J.",
+    "doc_id": "2026-03-13-CPA-0087-2020",
+    "num": "CPA/0087/2020",
+    "date_str": "2026-03-13",
+    "description": "Sashitharan Ganesan And 2 Others Vs. Mahenthiran Subramanium before Hon. K. M. S. DISSANAYAKE, J",
     "url_metadata": "https://courtofappeal.lk/?page_id=15595",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=f9435c02-b384-4126-816d-a19ad5bb7baa&filename=Judgement%2011-23.pdf.pdf",
-    "parties": "CONFAB STEEL (PVT) LTD, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE",
-    "judgement_by": "Hon.Annalingam Premashanker, J.",
-    "keywords": "Spare Parts Stock, Spare Parts purchase Expenses, Interest income as Business income",
-    "legistation": "Section 3(a) of the IRA"
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6ad8721a-0e99-43f5-8c5f-edd9cc227b00&filename=CPA-87-2020%2813.03.2026%29.pdf.pdf",
+    "parties": "Sashitharan Ganesan And 2 Others Vs. Mahenthiran Subramanium",
+    "judgement_by": "Hon. K. M. S. DISSANAYAKE, J",
+    "keywords": "Does the Court of Appeal have jurisdiction to hear and determine an application in revision emanating from an order made by a High Court of the Province established by Article 154P of the Constitution in the exercise of its revisionary jurisdiction vested in it by law-What is meant by Concurrent Jurisdiction.",
+    "legistation": "Article 138, Article 154P(3)(b) of the Constitution of the Democratic Socialist Republic of Sri Lanka, Sections 3, 9,10, 11(1) of the High Court of the Provinces (Special Provisions) Act, No. 19 of 1990 as amended."
   }
 }
