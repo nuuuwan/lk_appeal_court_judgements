@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--16_18:38:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--03--17_18:37:28-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,545** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.7 GB**), from **2012-04-23** to **2026-03-16**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,546** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.7 GB**), from **2012-04-23** to **2026-03-17**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-03-16-CA-HCC-129-130-2020",
-    "num": "CA HCC 129-130/2020",
-    "date_str": "2026-03-16",
-    "description": "Christie Vivian Rodrigo 2. Dhammika Rodrigo 3. JayarajAmarasiri alias Jayanath 4. Jayanatha Rodrigo 5. Chintha Rodrigo Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J.",
+    "doc_id": "2026-03-17-CA-HCC-180-2025",
+    "num": "CA HCC 180/2025",
+    "date_str": "2026-03-17",
+    "description": "Mathagadheera Arachchige Saliya Kumara Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=15595",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=6c0c0553-be74-475d-9ae7-a314cca9d403&filename=HCC-129-130_20%20FINAL.pdf.pdf",
-    "parties": "Christie Vivian Rodrigo 2. Dhammika Rodrigo 3. JayarajAmarasiri alias Jayanath 4. Jayanatha Rodrigo 5. Chintha Rodrigo Vs. The Hon. Attorney General",
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=71f9551a-7b9f-48ed-8fed-2621bf7ceae7&filename=HCC%20180-25.pdf.pdf",
+    "parties": "Mathagadheera Arachchige Saliya Kumara Vs The Hon. Attorney General,",
     "judgement_by": "Hon. Amal Ranaraja, J.",
-    "keywords": "Sentencing \u2013 Aggravating circumstances \u2013 Mitigating circunstances \u2013 Characteristics warranting incarceration \u2013 Matters for a suspension of a custodial sentence",
-    "legistation": "- Section 403, Section 457, Section 454, Section 400 of the Penal Code. - Section 303 of the Criminal Procedure Code Act No.15 of 1979"
+    "keywords": "Money laundering \u2013 Stages of money laundering \u2013 Placement \u2013 Layering \u2013 Integration \u2013 Presumption of ill-gotten assets \u2013 Shift of the burden of proof to the accused to prove on a balance of probability that the assets were acquired legally",
+    "legistation": "Section 3 and 4 of the Prevention Of Money Laundering Act No.5 of 2006 as amended."
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-03-17 | `CA HCC 180/2025` | Mathagadheera Arachchige Saliya Kumara Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-17-CA-HCC-180-2025)
 - 2026-03-16 | `CA HCC 129-130/2020` | Christie Vivian Rodrigo 2. Dhammika Rodrigo 3. JayarajAmarasiri alias Jayanath 4. Jayanatha Rodrigo 5. Chintha Rodrigo Vs. The Hon. Attorney General before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-16-CA-HCC-129-130-2020)
 - 2026-03-13 | `CPA/0087/2020` | Sashitharan Ganesan And 2 Others Vs. Mahenthiran Subramanium before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-13-CPA-0087-2020)
 - 2026-03-13 | `CA/WRT/485/19` | K.L. Gunasekara Vs. Ravindra Pathmapriya before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-13-CA-WRT-485-19)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-03-10 | `CA/HCC/ 0263/2020` | Peduru Hewa Cyril Kulatunga Vs The Hon. Attorney General before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-10-CA-HCC--0263-2020)
 - 2026-03-09 | `CA HCC 286/24` | Dharmakeerthi Uddika Shrimal Perera Vs The Hon. Attorney General, before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-09-CA-HCC-286-24)
 - 2026-03-06 | `CA/Writ/0019/21` | Unilever Sri Lanka Limited Vs Major General (retired) G. Vijitha Ravipriya and others before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-06-CA-Writ-0019-21)
-- 2026-03-06 | `CA/CPA/0009/2023 (CA/CPA/0010/2023)` | K. A. D. Darshana Anid Vs. Lanka Sugar Company (Pvt) Limited and Another before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-03-06-CA-CPA-0009-2023--CA-CP-f901e5d0)
 
 ---
 
