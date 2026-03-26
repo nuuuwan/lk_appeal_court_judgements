@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-03-26 06:46:25",
-  "n_docs": 10574,
+  "time_updated": "2026-03-26 18:37:46",
+  "n_docs": 10579,
   "n_docs_with_pdfs": 10574,
   "n_docs_with_text": 10574,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-03-24",
-  "dataset_size": 10697740017,
+  "date_str_max": "2026-03-26",
+  "dataset_size": 10697749217,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-03-24-CA-WRT-0372-2017",
-    "num": "CA/WRT/0372/2017",
-    "date_str": "2026-03-24",
-    "description": "Ecotech Lanka Limited, Vs Kandy Municipal Council, before Hon. Adithya Patabendige, J.",
+    "doc_id": "2026-03-26-CA-WRIT-395-11",
+    "num": "CA WRIT 395-11",
+    "date_str": "2026-03-26",
+    "description": "Alayadivembu Livestock and Dairy Farmers Agriculture Co-op Society Limited and Others Vs Seenithamby Annathurai and Others before Hon. Dhammika Ganepola, J.",
     "url_metadata": "https://courtofappeal.lk/?page_id=15595",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=635f634d-2a1e-4644-8b87-67307d332bc9&filename=WRIT%20%200372-17%20%281%29.pdf.pdf",
-    "parties": "Ecotech Lanka Limited, Vs Kandy Municipal Council,",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Certiorari, Writ of Prohibition, Writ of Mandamus, Public Law Remedy and Contractual Remedy",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka."
+    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=2a9f2ba4-63bb-474f-9ebb-48d4685127d5&filename=CA%20WRIT%20395-11.pdf.pdf",
+    "parties": "Alayadivembu Livestock and Dairy Farmers Agriculture Co-op Society Limited and Others Vs Seenithamby Annathurai and Others",
+    "judgement_by": "Hon. Dhammika Ganepola, J.",
+    "keywords": "Writ of Mandamus, Writ of Certiorari, Emergency regulations, Public Security Ordinance, Ultra vires, suppression of material facts, public duty",
+    "legistation": "Public Security Ordinance No 25 of 1947, Emergency (Pasture Lands) Regulations, Pasture Lands (Reservation and Development) Act No. 4 of 1983, Land Development Ordinance No. 19 of 1935 (as amended)"
   }
 }
