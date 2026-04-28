@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-03-31 06:46:56",
-  "n_docs": 10587,
-  "n_docs_with_pdfs": 10587,
-  "n_docs_with_text": 10587,
+  "time_updated": "2026-04-28 18:45:43",
+  "n_docs": 10656,
+  "n_docs_with_pdfs": 10645,
+  "n_docs_with_text": 10645,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-03-27",
-  "dataset_size": 10714590462,
+  "date_str_max": "2026-04-28",
+  "dataset_size": 10741772273,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-03-27-CA-Writ-06-2025",
-    "num": "CA Writ-06-2025",
-    "date_str": "2026-03-27",
-    "description": "R.H.R. Justin Perera Ranasinghe Vs Divisional Secretary and Others before Hon. Dhammika Ganepola, J.",
-    "url_metadata": "https://courtofappeal.lk/?page_id=15595",
+    "doc_id": "2026-04-28-CA-Writ-0183-2026",
+    "num": "CA/Writ/0183/2026",
+    "date_str": "2026-04-28",
+    "description": "Hettiarachchige Don Damien Prince Roach Gunathilake, And others VS Bank of Ceylon, and others Hettiarachchige Don Damien Prince Roach Gunathilake, And others VS Bank of Ceylon, and others View More before Hon. Dr. Sumudu Premachandra J.",
+    "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/?melsta_doc_download=1&doc_id=65247922-f65e-449a-89c9-4e2c98a2c8b4&filename=CA%20Writ-06-2025.pdf.pdf",
-    "parties": "R.H.R. Justin Perera Ranasinghe Vs Divisional Secretary and Others",
-    "judgement_by": "Hon. Dhammika Ganepola, J.",
-    "keywords": "Urgency, Public Purpose, Land Acquisition, Writ Jurisdiction (Certiorari, Mandamus), Delay and laches, Ultra virus, Abuse of discretion, Immediate possession",
-    "legistation": "Land Acquisition Act No. 09 of 1950 (as amended)"
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-Writ-0183-26-FINAL.pdf",
+    "parties": "Hettiarachchige Don Damien Prince Roach Gunathilake, And others VS Bank of Ceylon, and others Hettiarachchige Don Damien Prince Roach Gunathilake, And others VS Bank of Ceylon, and others View More",
+    "judgement_by": "Hon. Dr. Sumudu Premachandra J.",
+    "keywords": "Interim relief halt a public auction, True Copy, can an attorney certify a photocopy as true copy, validity.",
+    "legistation": ""
   }
 }
