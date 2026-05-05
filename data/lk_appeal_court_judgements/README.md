@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--05_06:45:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--05_18:34:38-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,674** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-05-04**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,676** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-05-05**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-05-04-CA-HCC-226-23",
-    "num": "CA HCC 226/23",
-    "date_str": "2026-05-04",
-    "description": "Padalaangala Ganawasi Thero alias Manathunga Arachchige Jayantha Vs. Hon. Attorney General Padalaangala Ganawasi Thero alias Manathunga Arachchige Jayantha Vs. Hon. Attorney General View More before Hon. Amal Ranaraja, J.",
+    "doc_id": "2026-05-05-CA-WRT-542-2025",
+    "num": "CA/WRT/542/2025",
+    "date_str": "2026-05-05",
+    "description": "Ashila Dinesh Wijesundara Ranasinghe, Vs. Divisional Secretary, Ashila Dinesh Wijesundara Ranasinghe, Vs. Divisional Secretary, View More before Hon. Adithya Patabendige, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-HCC-226_23-1.pdf",
-    "parties": "Padalaangala Ganawasi Thero alias Manathunga Arachchige Jayantha Vs. Hon. Attorney General Padalaangala Ganawasi Thero alias Manathunga Arachchige Jayantha Vs. Hon. Attorney General View More",
-    "judgement_by": "Hon. Amal Ranaraja, J.",
-    "keywords": "Grave Sexual Abuse - Witness testimony \u2013 Test of probability \u2013 Failure to call material witnesses",
-    "legistation": "Section 365B (2)(b) of the Penal Code as amended by Penal Code (Amendment) Act No.22 of 1995, Penal Code (Amendment) Act No.29 of 1998 and Penal Code (Amendment) Act No.16 of 2006. - Section 420 of the Code of Criminal Procedure Act No. 15 of 1979."
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRT-0542-25.pdf",
+    "parties": "Ashila Dinesh Wijesundara Ranasinghe, Vs. Divisional Secretary, Ashila Dinesh Wijesundara Ranasinghe, Vs. Divisional Secretary, View More",
+    "judgement_by": "Hon. Adithya Patabendige, J.",
+    "keywords": "Writ of Certiorari, Writ of Mandamus, Writ of Prohibition, Lack of Jurisdiction of Administrative Authorities to Question or Adjudicate the Validity of a Marriage Reflected in a Duly Registered Marriage Certificate.",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Section 52 of the Marriage Registration Ordinance."
 }
 ```
 
@@ -44,6 +44,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-05-05 | `CA/WRT/542/2025` | Ashila Dinesh Wijesundara Ranasinghe, Vs. Divisional Secretary, Ashila Dinesh Wijesundara Ranasinghe, Vs. Divisional Secretary, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-05-CA-WRT-542-2025)
+- 2026-05-05 | `CA/WRT/54/2020` | Crustasia (Pvt) Ltd., Vs. Divisional Secretary, Crustasia (Pvt) Ltd., Vs. Divisional Secretary, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-05-CA-WRT-54-2020)
 - 2026-05-04 | `CA HCC 226/23` | Padalaangala Ganawasi Thero alias Manathunga Arachchige Jayantha Vs. Hon. Attorney General Padalaangala Ganawasi Thero alias Manathunga Arachchige Jayantha Vs. Hon. Attorney General View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-04-CA-HCC-226-23)
 - 2026-04-30 | `TAX 14-23` | Oriental Consultants Company Limited Vs. Commissioner General of Inland Revenue Oriental Consultants Company Limited Vs. Commissioner General of Inland Revenue View More before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-30-TAX-14-23)
 - 2026-04-30 | `CA/WRT/897/2025` | Colonel D.M.V.V. Dissanayake Vs. Lieutenant General Lasantha Rodrigo Colonel D.M.V.V. Dissanayake Vs. Lieutenant General Lasantha Rodrigo View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-30-CA-WRT-897-2025)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-04-28 | `CA/WRT/0810/2024` | Mohamed Haniffa Mohamed Azreen, VS Hon. Anura Kumarathilaka, Minister, Ministry of Urban Development, Mohamed Haniffa Mohamed Azreen, VS Hon. Anura Kumarathilaka, Minister, Ministry of Urban Development, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-28-CA-WRT-0810-2024)
 - 2026-04-28 | `CA/WRT/0480/2019` | Don Piyatissa Kumarage, Vs Sunanda Kariyapperuma, Commissioner General of Buddhist Affairs, Don Piyatissa Kumarage, Vs Sunanda Kariyapperuma, Commissioner General of Buddhist Affairs, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-28-CA-WRT-0480-2019)
 - 2026-04-28 | `CA/WRT/0380/2018` | Sri Lanka State Plantations Corporation, Vs Land Reform Commission, Sri Lanka State Plantations Corporation, Vs Land Reform Commission, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-28-CA-WRT-0380-2018)
-- 2026-04-28 | `CA/WRT/0139/2020` | Don Piyatissa Kumarage, Vs Sunanda Kariyapperuma, Commissioner General of Buddhist Affairs, Don Piyatissa Kumarage, Vs Sunanda Kariyapperuma, Commissioner General of Buddhist Affairs, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-28-CA-WRT-0139-2020)
-- 2026-04-28 | `CA/WRT/ 0247/2015` | Sri Lanka Red Cross Society, National Headquarters, Vs Commissioner General of Land, Land Commissioner General’s Department, Sri Lanka Red Cross Society, National Headquarters, Vs Commissioner General of Land, Land Commissioner General’s Department, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-28-CA-WRT--0247-2015)
 
 ---
 
