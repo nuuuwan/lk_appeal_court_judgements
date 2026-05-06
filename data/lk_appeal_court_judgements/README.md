@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--06_06:47:40-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--06_18:45:26-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,676** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-05-05**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,683** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-05-06**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-05-05-CA-WRT-542-2025",
-    "num": "CA/WRT/542/2025",
-    "date_str": "2026-05-05",
-    "description": "Ashila Dinesh Wijesundara Ranasinghe, Vs. Divisional Secretary, Ashila Dinesh Wijesundara Ranasinghe, Vs. Divisional Secretary, View More before Hon. Adithya Patabendige, J.",
+    "doc_id": "2026-05-06-CA-WRT--0678-2024",
+    "num": "CA/WRT/ 0678/2024",
+    "date_str": "2026-05-06",
+    "description": "Sashika Madawa Nawarathna, Vs P.R. Dewabandu, Director, Department of Education, Sashika Madawa Nawarathna, Vs P.R. Dewabandu, Director, Department of Education, View More before Hon. Adithya Patabendige, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRT-0542-25.pdf",
-    "parties": "Ashila Dinesh Wijesundara Ranasinghe, Vs. Divisional Secretary, Ashila Dinesh Wijesundara Ranasinghe, Vs. Divisional Secretary, View More",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRIT-0678-24.pdf",
+    "parties": "Sashika Madawa Nawarathna, Vs P.R. Dewabandu, Director, Department of Education, Sashika Madawa Nawarathna, Vs P.R. Dewabandu, Director, Department of Education, View More",
     "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Certiorari, Writ of Mandamus, Writ of Prohibition, Lack of Jurisdiction of Administrative Authorities to Question or Adjudicate the Validity of a Marriage Reflected in a Duly Registered Marriage Certificate.",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Section 52 of the Marriage Registration Ordinance."
+    "keywords": "Writ of Certiorari, Writ of Mandamus, Illegality and Procedural Impropriety of the Provincial Education Authority.",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Section 33 of the Western Province Public Service Procedural Rules, Section 6.2 of Chapter V of the Establishments Code, Section 27 of Chapter XLVIII of the Establishments Code."
 }
 ```
 
@@ -44,8 +44,14 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-05-06 | `CA/WRT/ 0678/2024` | Sashika Madawa Nawarathna, Vs P.R. Dewabandu, Director, Department of Education, Sashika Madawa Nawarathna, Vs P.R. Dewabandu, Director, Department of Education, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-06-CA-WRT--0678-2024)
+- 2026-05-06 | `CA.WRIT. 125/2018` | Maturata Plantations Limited Vs Land Reform Commission and Others Maturata Plantations Limited Vs Land Reform Commission and Others View More before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-06-CA-WRIT--125-2018)
+- 2026-05-06 | `CA.WRIT. 124/2018` | Maturata Plantations Limited and Others Vs Land Reform Commission and Others Maturata Plantations Limited and Others Vs Land Reform Commission and Others View More before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-06-CA-WRIT--124-2018)
+- 2026-05-06 | `CA/ HCC /188/2025` | Thempalan Nishantha alias Manju alias Theppalani Nishantha Vs Hon. Attorney General Thempalan Nishantha alias Manju alias Theppalani Nishantha Vs Hon. Attorney General View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-06-CA--HCC--188-2025)
 - 2026-05-05 | `CA/WRT/542/2025` | Ashila Dinesh Wijesundara Ranasinghe, Vs. Divisional Secretary, Ashila Dinesh Wijesundara Ranasinghe, Vs. Divisional Secretary, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-05-CA-WRT-542-2025)
 - 2026-05-05 | `CA/WRT/54/2020` | Crustasia (Pvt) Ltd., Vs. Divisional Secretary, Crustasia (Pvt) Ltd., Vs. Divisional Secretary, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-05-CA-WRT-54-2020)
+- 2026-05-05 | `CA.WRIT. 591/2024` | Vinayagamoorthi Subramaniam and Others Vs Hon. Douglas Devananda and Others Vinayagamoorthi Subramaniam and Others Vs Hon. Douglas Devananda and Others View More before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-05-CA-WRIT--591-2024)
+- 2026-05-05 | `CA.WRIT. 307/2008` | MTV Channel (Private) Limited Vs Mr. Sarath Jayathilake and Other MTV Channel (Private) Limited Vs Mr. Sarath Jayathilake and Other View More before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-05-CA-WRIT--307-2008)
 - 2026-05-04 | `CA HCC 226/23` | Padalaangala Ganawasi Thero alias Manathunga Arachchige Jayantha Vs. Hon. Attorney General Padalaangala Ganawasi Thero alias Manathunga Arachchige Jayantha Vs. Hon. Attorney General View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-04-CA-HCC-226-23)
 - 2026-04-30 | `TAX 14-23` | Oriental Consultants Company Limited Vs. Commissioner General of Inland Revenue Oriental Consultants Company Limited Vs. Commissioner General of Inland Revenue View More before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-30-TAX-14-23)
 - 2026-04-30 | `CA/WRT/897/2025` | Colonel D.M.V.V. Dissanayake Vs. Lieutenant General Lasantha Rodrigo Colonel D.M.V.V. Dissanayake Vs. Lieutenant General Lasantha Rodrigo View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-30-CA-WRT-897-2025)
@@ -53,17 +59,11 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-04-30 | `CA/PHC 115/18` | Jayaweera Mudiyanselage Chandrika Priyadharshani, Vs. Aluthge Kamalawathi Ratnaweera, Jayaweera Mudiyanselage Chandrika Priyadharshani, Vs. Aluthge Kamalawathi Ratnaweera, View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-30-CA-PHC-115-18)
 - 2026-04-30 | `CA HCC 91/25` | Handun Harsha Prabath De Silva Vs. The Director General, Commission to Investigate Allegations of Bribery or Corruption, Handun Harsha Prabath De Silva Vs. The Director General, Commission to Investigate Allegations of Bribery or Corruption, View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-30-CA-HCC-91-25)
 - 2026-04-30 | `CA/HCC 68/2024` | The Democratic Socialist Republic of Sri Lanka. Vs. Weerasingha Mudiyanselage Upul Krishantha Kumara The Democratic Socialist Republic of Sri Lanka. Vs. Weerasingha Mudiyanselage Upul Krishantha Kumara View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-30-CA-HCC-68-2024)
+- 2026-04-30 | `CA/HCC/0345/2017` | Veeraiah Raveendra Jothi Vs Hon. Attorney General, Veeraiah Raveendra Jothi Vs Hon. Attorney General, View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-30-CA-HCC-0345-2017)
 - 2026-04-30 | `CA/HCC/ 238/23` | The Democratic Socialist Republic of Sri Lanka. Vs. Olokkuwa Patabandige Wijesiri The Democratic Socialist Republic of Sri Lanka. Vs. Olokkuwa Patabandige Wijesiri View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-30-CA-HCC--238-23)
 - 2026-04-30 | `CA HCC / 67/2019` | Democratic Socialist Republic of Sri Lanka Vs. Mohamed Usanar Nazeer Democratic Socialist Republic of Sri Lanka Vs. Mohamed Usanar Nazeer View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-30-CA-HCC---67-2019)
 - 2026-04-29 | `CA/WRT/276/2018` | U.P. Jayasingha, Sub Inspector, Police Station, Narahenpita, and 25 Other Petitioners. Vs Priyantha Weerasooriya, Inspector General of Police (Actg.), Police Headquarters, Colombo 01, and 544 Other Respondents. U.P. Jayasingha, Sub Inspector, Police Station, Narahenpita, and 25 Other Petitioners. Vs Priyantha Weerasooriya, Inspector General of Police (Actg.), Police Headquarters, Colombo 01, and 544 Other Respondents. View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-29-CA-WRT-276-2018)
 - 2026-04-29 | `CA/REV/9/2016` | Nawalage Gunathissa Cooray vs The Acquiring Officer, Greater Colombo Flood Control Project, Nawalage Gunathissa Cooray vs The Acquiring Officer, Greater Colombo Flood Control Project, View More before Hon.R. Gurusinghe, | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-29-CA-REV-9-2016)
-- 2026-04-29 | `CA/HCC/33/2021` | The Democratic Socialist Republic of Sri Lanka Vs. Senanayake Mudiyanselage Sanjeewa The Democratic Socialist Republic of Sri Lanka Vs. Senanayake Mudiyanselage Sanjeewa View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-29-CA-HCC-33-2021)
-- 2026-04-29 | `CA HCC 02/2025` | Somarathne Karunarathne Vs Hon. Attorney General, Somarathne Karunarathne Vs Hon. Attorney General, View More before Hon.Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-29-CA-HCC-02-2025)
-- 2026-04-29 | `CA HCC 0164/23` | Rankoth Pedilage Chaminda Gunarathna Vs Hon. Attorney General, Rankoth Pedilage Chaminda Gunarathna Vs Hon. Attorney General, View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-29-CA-HCC-0164-23)
-- 2026-04-28 | `CA/Writ/0183/2026` | Hettiarachchige Don Damien Prince Roach Gunathilake, And others VS Bank of Ceylon, and others Hettiarachchige Don Damien Prince Roach Gunathilake, And others VS Bank of Ceylon, and others View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-28-CA-Writ-0183-2026)
-- 2026-04-28 | `CA/WRT/0810/2024` | Mohamed Haniffa Mohamed Azreen, VS Hon. Anura Kumarathilaka, Minister, Ministry of Urban Development, Mohamed Haniffa Mohamed Azreen, VS Hon. Anura Kumarathilaka, Minister, Ministry of Urban Development, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-28-CA-WRT-0810-2024)
-- 2026-04-28 | `CA/WRT/0480/2019` | Don Piyatissa Kumarage, Vs Sunanda Kariyapperuma, Commissioner General of Buddhist Affairs, Don Piyatissa Kumarage, Vs Sunanda Kariyapperuma, Commissioner General of Buddhist Affairs, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-28-CA-WRT-0480-2019)
-- 2026-04-28 | `CA/WRT/0380/2018` | Sri Lanka State Plantations Corporation, Vs Land Reform Commission, Sri Lanka State Plantations Corporation, Vs Land Reform Commission, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-04-28-CA-WRT-0380-2018)
 
 ---
 
