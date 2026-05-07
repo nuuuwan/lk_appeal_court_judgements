@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-05-07 06:51:55",
-  "n_docs": 10683,
-  "n_docs_with_pdfs": 10672,
-  "n_docs_with_text": 10672,
+  "time_updated": "2026-05-07 18:46:08",
+  "n_docs": 10691,
+  "n_docs_with_pdfs": 10680,
+  "n_docs_with_text": 10680,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-05-06",
-  "dataset_size": 10774374082,
+  "date_str_max": "2026-05-07",
+  "dataset_size": 10777246612,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-05-06-CA-WRT--0678-2024",
-    "num": "CA/WRT/ 0678/2024",
-    "date_str": "2026-05-06",
-    "description": "Sashika Madawa Nawarathna, Vs P.R. Dewabandu, Director, Department of Education, Sashika Madawa Nawarathna, Vs P.R. Dewabandu, Director, Department of Education, View More before Hon. Adithya Patabendige, J.",
+    "doc_id": "2026-05-07-CA--WRT-0327-2022",
+    "num": "CA/ WRT 0327/2022",
+    "date_str": "2026-05-07",
+    "description": "S & K Engineering Enterprises (Pvt) Ltd vs Commissioner General of Labour and others S & K Engineering Enterprises (Pvt) Ltd vs Commissioner General of Labour and others View More before Hon. R. Gurusinghe, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRIT-0678-24.pdf",
-    "parties": "Sashika Madawa Nawarathna, Vs P.R. Dewabandu, Director, Department of Education, Sashika Madawa Nawarathna, Vs P.R. Dewabandu, Director, Department of Education, View More",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writ of Certiorari, Writ of Mandamus, Illegality and Procedural Impropriety of the Provincial Education Authority.",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Section 33 of the Western Province Public Service Procedural Rules, Section 6.2 of Chapter V of the Establishments Code, Section 27 of Chapter XLVIII of the Establishments Code."
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRT-0327-22-PDF.pdf",
+    "parties": "S & K Engineering Enterprises (Pvt) Ltd vs Commissioner General of Labour and others S & K Engineering Enterprises (Pvt) Ltd vs Commissioner General of Labour and others View More",
+    "judgement_by": "Hon. R. Gurusinghe, J.",
+    "keywords": "Writ of Mandamus and Certiorari",
+    "legistation": "Article 140 of the Constitution"
   }
 }
