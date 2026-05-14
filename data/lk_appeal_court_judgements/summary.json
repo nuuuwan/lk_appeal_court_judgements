@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-05-14 06:59:59",
-  "n_docs": 10703,
-  "n_docs_with_pdfs": 10692,
-  "n_docs_with_text": 10692,
+  "time_updated": "2026-05-14 18:47:40",
+  "n_docs": 10707,
+  "n_docs_with_pdfs": 10696,
+  "n_docs_with_text": 10696,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-05-13",
-  "dataset_size": 10786066501,
+  "date_str_max": "2026-05-14",
+  "dataset_size": 10789601208,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-05-13-HCC-200-201-2016",
-    "num": "HCC/200-201/2016",
-    "date_str": "2026-05-13",
-    "description": "Hon. Attorney General Vs. .Callistus Miranda & Others Hon. Attorney General Vs. .Callistus Miranda & Others View More before Hon. B. Sasi Mahendran, J.",
+    "doc_id": "2026-05-14-TAX-42-2023",
+    "num": "TAX/42/2023",
+    "date_str": "2026-05-14",
+    "description": "WALKERS TOURS LIMITED, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE WALKERS TOURS LIMITED, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE View More before Hon.Annalingam Premashanker, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/HCC-0200-201-16-CAPTION.pdf",
-    "parties": "Hon. Attorney General Vs. .Callistus Miranda & Others Hon. Attorney General Vs. .Callistus Miranda & Others View More",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "alibi, active participant",
-    "legistation": ""
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/TAX-42-23.pdf",
+    "parties": "WALKERS TOURS LIMITED, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE WALKERS TOURS LIMITED, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE View More",
+    "judgement_by": "Hon.Annalingam Premashanker, J.",
+    "keywords": "Tax Exemption, Assessment, Notice of Assessment",
+    "legistation": "Section 13 (ddd), 135, 163 and 164 of IRA"
   }
 }

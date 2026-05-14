@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--14_07:00:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--14_18:47:47-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,703** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-05-13**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,707** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-05-14**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-05-13-HCC-200-201-2016",
-    "num": "HCC/200-201/2016",
-    "date_str": "2026-05-13",
-    "description": "Hon. Attorney General Vs. .Callistus Miranda & Others Hon. Attorney General Vs. .Callistus Miranda & Others View More before Hon. B. Sasi Mahendran, J.",
+    "doc_id": "2026-05-14-TAX-42-2023",
+    "num": "TAX/42/2023",
+    "date_str": "2026-05-14",
+    "description": "WALKERS TOURS LIMITED, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE WALKERS TOURS LIMITED, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE View More before Hon.Annalingam Premashanker, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/HCC-0200-201-16-CAPTION.pdf",
-    "parties": "Hon. Attorney General Vs. .Callistus Miranda & Others Hon. Attorney General Vs. .Callistus Miranda & Others View More",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "alibi, active participant",
-    "legistation": ""
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/TAX-42-23.pdf",
+    "parties": "WALKERS TOURS LIMITED, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE WALKERS TOURS LIMITED, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE View More",
+    "judgement_by": "Hon.Annalingam Premashanker, J.",
+    "keywords": "Tax Exemption, Assessment, Notice of Assessment",
+    "legistation": "Section 13 (ddd), 135, 163 and 164 of IRA"
 }
 ```
 
@@ -44,6 +44,10 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-05-14 | `TAX/42/2023` | WALKERS TOURS LIMITED, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE WALKERS TOURS LIMITED, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-14-TAX-42-2023)
+- 2026-05-14 | `TAX/29/2023` | WALKERS TOURS LIMITED, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE WALKERS TOURS LIMITED, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-14-TAX-29-2023)
+- 2026-05-14 | `CA/TAX/9/2023` | CEYLON OXYGEN LIMITED, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE CEYLON OXYGEN LIMITED, Vs THE COMMISSIONER GENERAL OF INLAND REVENUE View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-14-CA-TAX-9-2023)
+- 2026-05-14 | `CA/HCC/ 0047/2025` | Rajapaksha Mudiyanselage Nevil Wasantha alias Ajith Vs The Hon. Attorney General Rajapaksha Mudiyanselage Nevil Wasantha alias Ajith Vs The Hon. Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-14-CA-HCC--0047-2025)
 - 2026-05-13 | `HCC/200-201/2016` | Hon. Attorney General Vs. .Callistus Miranda & Others Hon. Attorney General Vs. .Callistus Miranda & Others View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-13-HCC-200-201-2016)
 - 2026-05-13 | `CA-HCC 0044/23` | The Democratic Socialist Republic of Sri Lanka. Vs. Justin Michael Santhiyagu The Democratic Socialist Republic of Sri Lanka. Vs. Justin Michael Santhiyagu View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-13-CA-HCC-0044-23)
 - 2026-05-13 | `CA./RII/0053/2025` | Imiya Pathirannahalage Susila Nilmini Vs Sriyani Mangalika Weththasinghe and others Imiya Pathirannahalage Susila Nilmini Vs Sriyani Mangalika Weththasinghe and others View More before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-13-CA--RII-0053-2025)
@@ -60,10 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-05-06 | `CA/ HCC /188/2025` | Thempalan Nishantha alias Manju alias Theppalani Nishantha Vs Hon. Attorney General Thempalan Nishantha alias Manju alias Theppalani Nishantha Vs Hon. Attorney General View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-06-CA--HCC--188-2025)
 - 2026-05-05 | `CA/WRT/542/2025` | Ashila Dinesh Wijesundara Ranasinghe, Vs. Divisional Secretary, Ashila Dinesh Wijesundara Ranasinghe, Vs. Divisional Secretary, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-05-CA-WRT-542-2025)
 - 2026-05-05 | `CA/WRT/54/2020` | Crustasia (Pvt) Ltd., Vs. Divisional Secretary, Crustasia (Pvt) Ltd., Vs. Divisional Secretary, View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-05-CA-WRT-54-2020)
-- 2026-05-05 | `CA.WRIT. 591/2024` | Vinayagamoorthi Subramaniam and Others Vs Hon. Douglas Devananda and Others Vinayagamoorthi Subramaniam and Others Vs Hon. Douglas Devananda and Others View More before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-05-CA-WRIT--591-2024)
-- 2026-05-05 | `CA.WRIT. 307/2008` | MTV Channel (Private) Limited Vs Mr. Sarath Jayathilake and Other MTV Channel (Private) Limited Vs Mr. Sarath Jayathilake and Other View More before Hon. Dhammika Ganepola, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-05-CA-WRIT--307-2008)
-- 2026-05-05 | `CA (PHC) 43/23` | Office-In-Charge, Police station, Welambada Vs. Walpitagahage Vajira Kumara Gamage Office-In-Charge, Police station, Welambada Vs. Walpitagahage Vajira Kumara Gamage View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-05-CA--PHC--43-23)
-- 2026-05-04 | `CA HCC 226/23` | Padalaangala Ganawasi Thero alias Manathunga Arachchige Jayantha Vs. Hon. Attorney General Padalaangala Ganawasi Thero alias Manathunga Arachchige Jayantha Vs. Hon. Attorney General View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-04-CA-HCC-226-23)
 
 ---
 
