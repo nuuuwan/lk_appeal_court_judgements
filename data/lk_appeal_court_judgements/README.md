@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--18_07:01:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--18_19:27:39-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,714** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-05-15**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,716** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-05-18**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-05-15-CA-WRT-0447-2022",
-    "num": "CA WRT 0447/2022",
-    "date_str": "2026-05-15",
-    "description": "Maddumapatabadige Gayani vs Urban Development Authority, Maddumapatabadige Gayani vs Urban Development Authority, View More before Hon. R. Gurusinghe, J.",
+    "doc_id": "2026-05-18-CA-HCC-00173-2023",
+    "num": "CA/HCC/00173/2023",
+    "date_str": "2026-05-18",
+    "description": "Gunasinghage Gamini Jayasinghe Vs. The Attorney General Gunasinghage Gamini Jayasinghe Vs. The Attorney General View More before Hon. P. Kumararatnam, J",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRT-0447-22-PDF.pdf",
-    "parties": "Maddumapatabadige Gayani vs Urban Development Authority, Maddumapatabadige Gayani vs Urban Development Authority, View More",
-    "judgement_by": "Hon. R. Gurusinghe, J.",
-    "keywords": "",
-    "legistation": "Article 140 of the Constitution"
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Court-of-Appeal-Judgment-HCC-0173.23-.pdf",
+    "parties": "Gunasinghage Gamini Jayasinghe Vs. The Attorney General Gunasinghage Gamini Jayasinghe Vs. The Attorney General View More",
+    "judgement_by": "Hon. P. Kumararatnam, J",
+    "keywords": "Credibility of the witness. \u2022 Corroboration. \u2022 Ingredients of the offence.",
+    "legistation": "The Penal Code"
 }
 ```
 
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-05-18 | `CA/HCC/00173/2023` | Gunasinghage Gamini Jayasinghe Vs. The Attorney General Gunasinghage Gamini Jayasinghe Vs. The Attorney General View More before Hon. P. Kumararatnam, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-18-CA-HCC-00173-2023)
 - 2026-05-15 | `CA WRT 0447/2022` | Maddumapatabadige Gayani vs Urban Development Authority, Maddumapatabadige Gayani vs Urban Development Authority, View More before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-15-CA-WRT-0447-2022)
 - 2026-05-15 | `CA/WRIT/211/2022` | Awushadayage Ashoka Ariyarathne v Rtd. Major General Kamal Gunaratne and others Awushadayage Ashoka Ariyarathne v Rtd. Major General Kamal Gunaratne and others View More before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-15-CA-WRIT-211-2022)
 - 2026-05-15 | `CA/WRIT/0401/2022` | TELGE NADHEEKA KAUMUDHI PEIRIS Vs. JUSTICE ANIL GOONERATNE & Others TELGE NADHEEKA KAUMUDHI PEIRIS Vs. JUSTICE ANIL GOONERATNE & Others View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-15-CA-WRIT-0401-2022)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-05-08 | `CA/RTI/01/2024` | The Open University of Sri Lanka, & 23 Others Vs. The Right to Information Commission, & 7 Others The Open University of Sri Lanka, & 23 Others Vs. The Right to Information Commission, & 7 Others View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-08-CA-RTI-01-2024)
 - 2026-05-08 | `CA/PHC/75/2021` | Shyamini Tennakoon Gunarathne Vs. Alaka Appuhamilage Nandani Alwis and Another Shyamini Tennakoon Gunarathne Vs. Alaka Appuhamilage Nandani Alwis and Another View More before Hon. K. M. S. DISSANAYAKE, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-08-CA-PHC-75-2021)
 - 2026-05-08 | `CA/ RII/52/2023` | Nations Trust Bank PLC, Vs. Engenuity (Private) Limited, & Sri Lanka Institute of Information Technology (Guarantee) Limited, Nations Trust Bank PLC, Vs. Engenuity (Private) Limited, & Sri Lanka Institute of Information Technology (Guarantee) Limited, View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-08-CA--RII-52-2023)
-- 2026-05-07 | `CA/ WRT 0327/2022` | S & K Engineering Enterprises (Pvt) Ltd vs Commissioner General of Labour and others S & K Engineering Enterprises (Pvt) Ltd vs Commissioner General of Labour and others View More before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-07-CA--WRT-0327-2022)
 
 ---
 
