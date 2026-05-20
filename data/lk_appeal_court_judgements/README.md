@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--20_07:03:35-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--20_19:04:38-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,720** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-05-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,723** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-05-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -46,6 +46,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 - 2026-05-19 | `CA WRIT/131/2026` | Cheka Kovida Chatudasi Mendis, Vs. University Grants Commission & Others Cheka Kovida Chatudasi Mendis, Vs. University Grants Commission & Others View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-19-CA-WRIT-131-2026)
 - 2026-05-19 | `CA RII 0028/2024` | Uduwage Dona Dayani Wickramalatha vs Nilmini Abeyrathne and others Uduwage Dona Dayani Wickramalatha vs Nilmini Abeyrathne and others View More before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-19-CA-RII-0028-2024)
+- 2026-05-19 | `CA/HCC/ 0331/2019` | Nanneththi Harsha Nalin Kumara Vs The Hon. Attorney General Nanneththi Harsha Nalin Kumara Vs The Hon. Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-19-CA-HCC--0331-2019)
 - 2026-05-18 | `CA/HCC/00173/2023` | Gunasinghage Gamini Jayasinghe Vs. The Attorney General Gunasinghage Gamini Jayasinghe Vs. The Attorney General View More before Hon. P. Kumararatnam, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-18-CA-HCC-00173-2023)
 - 2026-05-15 | `CA WRT 0447/2022` | Maddumapatabadige Gayani vs Urban Development Authority, Maddumapatabadige Gayani vs Urban Development Authority, View More before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-15-CA-WRT-0447-2022)
 - 2026-05-15 | `CA/WRIT/211/2022` | Awushadayage Ashoka Ariyarathne v Rtd. Major General Kamal Gunaratne and others Awushadayage Ashoka Ariyarathne v Rtd. Major General Kamal Gunaratne and others View More before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-15-CA-WRIT-211-2022)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-05-12 | `CA/HCC/ 0037/2018` | Sandanam Rajah Vs. The Attorney General Sandanam Rajah Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-12-CA-HCC--0037-2018)
 - 2026-05-12 | `CA (PHC) 275/2019` | M. Haneem M. Rizwan Vs. Welathanthrige Jayalath Botheju and Another. M. Haneem M. Rizwan Vs. Welathanthrige Jayalath Botheju and Another. View More before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-12-CA--PHC--275-2019)
 - 2026-05-12 | `CA (HCC)0291/2024` | Paneer Selvam Sanjeewan alias Seeni Vs. Hon. Attorney General, Paneer Selvam Sanjeewan alias Seeni Vs. Hon. Attorney General, View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-12-CA--HCC-0291-2024)
-- 2026-05-12 | `CA (HCC)0025/2023` | Uragaha Chamil Priyanka alias Suranga, Vs. Hon. Attorney General, Uragaha Chamil Priyanka alias Suranga, Vs. Hon. Attorney General, View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-12-CA--HCC-0025-2023)
 
 ---
 
