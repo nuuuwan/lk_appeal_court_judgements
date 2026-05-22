@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-05-22 07:03:47",
-  "n_docs": 10727,
-  "n_docs_with_pdfs": 10716,
-  "n_docs_with_text": 10716,
+  "time_updated": "2026-05-22 19:01:30",
+  "n_docs": 10744,
+  "n_docs_with_pdfs": 10733,
+  "n_docs_with_text": 10733,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-05-21",
-  "dataset_size": 10806670234,
+  "date_str_max": "2026-05-22",
+  "dataset_size": 10814193759,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-05-21-CA-TAX-45-22--TAX-48-22-fb08457e",
-    "num": "CA-TAX 45-22, TAX 48-22, TAX 35-24",
-    "date_str": "2026-05-21",
-    "description": "Alpex Marine (Pvt) Ltd Vs. Commissioner General of Inland Revenue Alpex Marine (Pvt) Ltd Vs. Commissioner General of Inland Revenue View More before Hon. M.C.B.S. Morais J.",
+    "doc_id": "2026-05-22-CA-WRT-0017-2026",
+    "num": "CA WRT 0017/2026",
+    "date_str": "2026-05-22",
+    "description": "Rajaji Raviraj vs . Hon. (Dr.) Harini Amarasuriya, Minister of Education, and other Rajaji Raviraj vs . Hon. (Dr.) Harini Amarasuriya, Minister of Education, and other View More before Hon. R. Gurusinghe, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/TAX-45-22-Judgment.pdf",
-    "parties": "Alpex Marine (Pvt) Ltd Vs. Commissioner General of Inland Revenue Alpex Marine (Pvt) Ltd Vs. Commissioner General of Inland Revenue View More",
-    "judgement_by": "Hon. M.C.B.S. Morais J.",
-    "keywords": "Tax exemption \uf0b7 Undertaking for fishing",
-    "legistation": "Inland Revenue Act No.10 of 2006"
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRT-0017-26-PDF.pdf",
+    "parties": "Rajaji Raviraj vs . Hon. (Dr.) Harini Amarasuriya, Minister of Education, and other Rajaji Raviraj vs . Hon. (Dr.) Harini Amarasuriya, Minister of Education, and other View More",
+    "judgement_by": "Hon. R. Gurusinghe, J.",
+    "keywords": "The petitioner resigned from his post 3 years before the application. The petitioner sought to treat the period of his absence from service as no-pay leave and to be reinstated.",
+    "legistation": "Article 140 of the Constitution,"
   }
 }
