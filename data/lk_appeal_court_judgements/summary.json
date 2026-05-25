@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-05-25 07:05:15",
-  "n_docs": 10744,
-  "n_docs_with_pdfs": 10733,
-  "n_docs_with_text": 10733,
+  "time_updated": "2026-05-25 19:21:32",
+  "n_docs": 10755,
+  "n_docs_with_pdfs": 10744,
+  "n_docs_with_text": 10744,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-05-22",
-  "dataset_size": 10819576858,
+  "date_str_max": "2026-05-25",
+  "dataset_size": 10822629427,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-05-22-CA-WRT-0017-2026",
-    "num": "CA WRT 0017/2026",
-    "date_str": "2026-05-22",
-    "description": "Rajaji Raviraj vs . Hon. (Dr.) Harini Amarasuriya, Minister of Education, and other Rajaji Raviraj vs . Hon. (Dr.) Harini Amarasuriya, Minister of Education, and other View More before Hon. R. Gurusinghe, J.",
+    "doc_id": "2026-05-25-CA-PHC-117-22",
+    "num": "CA/PHC/117/22",
+    "date_str": "2026-05-25",
+    "description": "Officer-In-Charge, Police station, Balangoda. Vs. Mohommdu Irufan Infar Officer-In-Charge, Police station, Balangoda. Vs. Mohommdu Irufan Infar View More before Hon. B. Sasi Mahendran, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRT-0017-26-PDF.pdf",
-    "parties": "Rajaji Raviraj vs . Hon. (Dr.) Harini Amarasuriya, Minister of Education, and other Rajaji Raviraj vs . Hon. (Dr.) Harini Amarasuriya, Minister of Education, and other View More",
-    "judgement_by": "Hon. R. Gurusinghe, J.",
-    "keywords": "The petitioner resigned from his post 3 years before the application. The petitioner sought to treat the period of his absence from service as no-pay leave and to be reinstated.",
-    "legistation": "Article 140 of the Constitution,"
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/PHC-0117-22.pdf",
+    "parties": "Officer-In-Charge, Police station, Balangoda. Vs. Mohommdu Irufan Infar Officer-In-Charge, Police station, Balangoda. Vs. Mohommdu Irufan Infar View More",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "confiscation, transporting animals, all precautions, without the knowledge",
+    "legistation": "Section 3(A) Animals Act No. 29 of 1958"
   }
 }

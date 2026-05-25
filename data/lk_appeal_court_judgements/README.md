@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--25_07:05:21-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--05--25_19:21:36-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,744** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-05-22**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,755** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-05-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-05-22-CA-WRT-0017-2026",
-    "num": "CA WRT 0017/2026",
-    "date_str": "2026-05-22",
-    "description": "Rajaji Raviraj vs . Hon. (Dr.) Harini Amarasuriya, Minister of Education, and other Rajaji Raviraj vs . Hon. (Dr.) Harini Amarasuriya, Minister of Education, and other View More before Hon. R. Gurusinghe, J.",
+    "doc_id": "2026-05-25-CA-PHC-117-22",
+    "num": "CA/PHC/117/22",
+    "date_str": "2026-05-25",
+    "description": "Officer-In-Charge, Police station, Balangoda. Vs. Mohommdu Irufan Infar Officer-In-Charge, Police station, Balangoda. Vs. Mohommdu Irufan Infar View More before Hon. B. Sasi Mahendran, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRT-0017-26-PDF.pdf",
-    "parties": "Rajaji Raviraj vs . Hon. (Dr.) Harini Amarasuriya, Minister of Education, and other Rajaji Raviraj vs . Hon. (Dr.) Harini Amarasuriya, Minister of Education, and other View More",
-    "judgement_by": "Hon. R. Gurusinghe, J.",
-    "keywords": "The petitioner resigned from his post 3 years before the application. The petitioner sought to treat the period of his absence from service as no-pay leave and to be reinstated.",
-    "legistation": "Article 140 of the Constitution,"
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/PHC-0117-22.pdf",
+    "parties": "Officer-In-Charge, Police station, Balangoda. Vs. Mohommdu Irufan Infar Officer-In-Charge, Police station, Balangoda. Vs. Mohommdu Irufan Infar View More",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "confiscation, transporting animals, all precautions, without the knowledge",
+    "legistation": "Section 3(A) Animals Act No. 29 of 1958"
 }
 ```
 
@@ -44,8 +44,11 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-05-25 | `CA/PHC/117/22` | Officer-In-Charge, Police station, Balangoda. Vs. Mohommdu Irufan Infar Officer-In-Charge, Police station, Balangoda. Vs. Mohommdu Irufan Infar View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-25-CA-PHC-117-22)
+- 2026-05-25 | `CA HCC 130/24` | Henagoda Withanachchi Dunith Janaka Vs. Democratic Socialist Republic of Sri Lanka Henagoda Withanachchi Dunith Janaka Vs. Democratic Socialist Republic of Sri Lanka View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-25-CA-HCC-130-24)
 - 2026-05-22 | `CA WRT 0017/2026` | Rajaji Raviraj vs . Hon. (Dr.) Harini Amarasuriya, Minister of Education, and other Rajaji Raviraj vs . Hon. (Dr.) Harini Amarasuriya, Minister of Education, and other View More before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-22-CA-WRT-0017-2026)
 - 2026-05-22 | `CA/WRIT/120/2021` | Dr. Jayapalan Jeyaruban v. University Grants Commission and 33 others Dr. Jayapalan Jeyaruban v. University Grants Commission and 33 others View More before Hon. Mahen Gopallawa J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-22-CA-WRIT-120-2021)
+- 2026-05-22 | `CA/PHC/178/22` | Office-In-Charge, Police station, Thelikada. Vs. Gamage Sampath Niranjan Office-In-Charge, Police station, Thelikada. Vs. Gamage Sampath Niranjan View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-22-CA-PHC-178-22)
 - 2026-05-22 | `CA HCC 136/2025` | Seethawaka Soratha Thero Vs. The Hon. Attorney General, Seethawaka Soratha Thero Vs. The Hon. Attorney General, View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-22-CA-HCC-136-2025)
 - 2026-05-22 | `CA/HCC/ 0193/2020` | Rajapathirage Ajith Rohan Perera Vs. The Attorney General Rajapathirage Ajith Rohan Perera Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-22-CA-HCC--0193-2020)
 - 2026-05-22 | `CA (Writ) 253/2024` | INDO-EAST ENGINEERING AND CONSTRUCTION (LANKA) (PRIVATE) LIMITED, Vs. H.K.K.A. JAYASUNDERA, & Others INDO-EAST ENGINEERING AND CONSTRUCTION (LANKA) (PRIVATE) LIMITED, Vs. H.K.K.A. JAYASUNDERA, & Others View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-22-CA--Writ--253-2024)
@@ -55,15 +58,12 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-05-21 | `CA HCC 136/24` | Dikwella Vidanalage Balasuriya Vs. The Hon. Attorney General, Dikwella Vidanalage Balasuriya Vs. The Hon. Attorney General, View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-21-CA-HCC-136-24)
 - 2026-05-21 | `CA (HCC) 145-146/23` | Hapugoda Deshapriya 2. Hapugoda Podimahattaya Vs. The Attorney General, Hapugoda Deshapriya 2. Hapugoda Podimahattaya Vs. The Attorney General, View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-21-CA--HCC--145-146-23)
 - 2026-05-21 | `CA (HCC) 0205/25` | Anton Norbet Laktansiv Kurera Vs. The Attorney General, Anton Norbet Laktansiv Kurera Vs. The Attorney General, View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-21-CA--HCC--0205-25)
+- 2026-05-20 | `CA/HCC/0302/24` | Democratic Socialist Republic of Sri Lanka Vs. 01.Karupaiah Balaraja alias Michel alias Kurupaiah Balaraj & Others Democratic Socialist Republic of Sri Lanka Vs. 01.Karupaiah Balaraja alias Michel alias Kurupaiah Balaraj & Others View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-20-CA-HCC-0302-24)
+- 2026-05-20 | `CA/HCC/0134/18` | Krishnapillai Subramaniam alias Mani Vs. Krishnapillai Subramaniam alias Mani Krishnapillai Subramaniam alias Mani Vs. Krishnapillai Subramaniam alias Mani View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-20-CA-HCC-0134-18)
+- 2026-05-19 | `HCC 345-346-19` | The Democratic Socialist Republic of Sri Lanka. The Democratic Socialist Republic of Sri Lanka. Vs. Mohommed Osahir Mohammed Gadafi The Democratic Socialist Republic of Sri Lanka. The Democratic Socialist Republic of Sri Lanka. Vs. Mohommed Osahir Mohammed Gadafi View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-19-HCC-345-346-19)
 - 2026-05-19 | `CA WRIT/131/2026` | Cheka Kovida Chatudasi Mendis, Vs. University Grants Commission & Others Cheka Kovida Chatudasi Mendis, Vs. University Grants Commission & Others View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-19-CA-WRIT-131-2026)
 - 2026-05-19 | `CA RII 0028/2024` | Uduwage Dona Dayani Wickramalatha vs Nilmini Abeyrathne and others Uduwage Dona Dayani Wickramalatha vs Nilmini Abeyrathne and others View More before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-19-CA-RII-0028-2024)
-- 2026-05-19 | `CA/HCC/ 0331/2019` | Nanneththi Harsha Nalin Kumara Vs The Hon. Attorney General Nanneththi Harsha Nalin Kumara Vs The Hon. Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-19-CA-HCC--0331-2019)
-- 2026-05-18 | `CPA 69/2025` | Himal Sanjeewa Weerasuriya Vs. Ranjith Amarasiri Gunathilake and One another Himal Sanjeewa Weerasuriya Vs. Ranjith Amarasiri Gunathilake and One another View More before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-18-CPA-69-2025)
-- 2026-05-18 | `CA/PHC/0039/2022` | M. J. Shantha Kumara Silva Vs. R. Nilanthi Dilrukshi De Zoysa and One another M. J. Shantha Kumara Silva Vs. R. Nilanthi Dilrukshi De Zoysa and One another View More before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-18-CA-PHC-0039-2022)
-- 2026-05-18 | `CA/HCC/00173/2023` | Gunasinghage Gamini Jayasinghe Vs. The Attorney General Gunasinghage Gamini Jayasinghe Vs. The Attorney General View More before Hon. P. Kumararatnam, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-18-CA-HCC-00173-2023)
-- 2026-05-15 | `CA WRT 0447/2022` | Maddumapatabadige Gayani vs Urban Development Authority, Maddumapatabadige Gayani vs Urban Development Authority, View More before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-15-CA-WRT-0447-2022)
-- 2026-05-15 | `CA/WRIT/211/2022` | Awushadayage Ashoka Ariyarathne v Rtd. Major General Kamal Gunaratne and others Awushadayage Ashoka Ariyarathne v Rtd. Major General Kamal Gunaratne and others View More before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-15-CA-WRIT-211-2022)
-- 2026-05-15 | `CA/WRIT/0401/2022` | TELGE NADHEEKA KAUMUDHI PEIRIS Vs. JUSTICE ANIL GOONERATNE & Others TELGE NADHEEKA KAUMUDHI PEIRIS Vs. JUSTICE ANIL GOONERATNE & Others View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-15-CA-WRIT-0401-2022)
+- 2026-05-19 | `CA/HCC/345-346/2019` | The Democratic Socialist Republic of Sri Lanka. Vs. Mohamed Osahir Mohamed Gaddafi The Democratic Socialist Republic of Sri Lanka. Vs. Mohamed Osahir Mohamed Gaddafi View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-19-CA-HCC-345-346-2019)
 
 ---
 
