@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-05-27 07:06:06",
-  "n_docs": 10756,
-  "n_docs_with_pdfs": 10745,
-  "n_docs_with_text": 10745,
+  "time_updated": "2026-05-27 19:24:15",
+  "n_docs": 10763,
+  "n_docs_with_pdfs": 10752,
+  "n_docs_with_text": 10752,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-05-26",
-  "dataset_size": 10824881032,
+  "date_str_max": "2026-05-27",
+  "dataset_size": 10828347974,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-05-26-CA-HCC-0210-23",
-    "num": "CA/HCC/0210/23",
-    "date_str": "2026-05-26",
-    "description": "Hon. Attorney General, Vs. Rev. Uduwila Sujatha, Hon. Attorney General, Vs. Rev. Uduwila Sujatha, View More before Hon. B. Sasi Mahendran, J.",
+    "doc_id": "2026-05-27-WRT-0054-2026",
+    "num": "WRT/0054/2026",
+    "date_str": "2026-05-27",
+    "description": "KST Evergreen (Pvt) Ltd Vs. Hon. K.D.Lal Kantha and Others. KST Evergreen (Pvt) Ltd Vs. Hon. K.D.Lal Kantha and Others. View More before Hon. K. M. S. DISSANAYAKE, J",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/HCC-210-23-new.pdf",
-    "parties": "Hon. Attorney General, Vs. Rev. Uduwila Sujatha, Hon. Attorney General, Vs. Rev. Uduwila Sujatha, View More",
-    "judgement_by": "Hon. B. Sasi Mahendran, J.",
-    "keywords": "corroboration, alibi, child witness, photographic memory, inconsistency",
-    "legistation": "Section 365 B (2) (b) of the Penal Code as amended"
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRT-0054-2627.05.2026.pdf",
+    "parties": "KST Evergreen (Pvt) Ltd Vs. Hon. K.D.Lal Kantha and Others. KST Evergreen (Pvt) Ltd Vs. Hon. K.D.Lal Kantha and Others. View More",
+    "judgement_by": "Hon. K. M. S. DISSANAYAKE, J",
+    "keywords": "Application for Writs under Article 140 of the Constitution \u2013 Preliminary legal objections with regard to the validity of the statement of objection and supporting affidavit \u2013 Legal effect of Rule 3(7) read with Rule 3(4)(b)(i) of the Court of Appeal (Appellate Procedure) Rules 1990 \u2013Interpretation of the phrase \u201cshall be\u201d occurred in the Rule3(7) of the Court of Appeal (Appellate Procedure) Rules 1990 read with Rule 3(4)(b)(i) thereof \u2013Whether under the circumstances Court has discretion to permit amended statement of objection \u2013 What does the phrase \u201cshall be\u201d denote?-Is it mandatory or not?-Requirement that each respondent file statement of objections supported by affidavit \u2013 Whether non-compliance with mandatory procedural rules is fatal or curable \u2013 Applicability of section 9 of the Oaths and Affirmation Ordinance\u2013 Sections 181 and 183A of the Civil Procedure Code \u2013 Requirement that the declarant must affirm matters of fact from the deponent\u2019s personal knowledge \u2013 Hearsay evidence in affidavits",
+    "legistation": "Constitution - Article 140, Civil Procedure Code- Sections 180 and 183A, and Rule 3(7) read with Rule 3(4)(b)(i) of the Court of Appeal (Appellate Procedure) Rules 1990."
   }
 }
