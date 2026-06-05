@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--05_07:07:15-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--05_19:13:49-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,779** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-06-04**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,782** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-06-05**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-06-04-CA-TAX-31-2022",
-    "num": "CA/TAX/31/2022",
-    "date_str": "2026-06-04",
-    "description": "LOLC FINANCE PLC, Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE LOLC FINANCE PLC, Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE View More before Hon.Annalingam Premashanker, J.",
+    "doc_id": "2026-06-05-CA-WRT-0056-2025",
+    "num": "CA/WRT/0056/2025",
+    "date_str": "2026-06-05",
+    "description": "Samarakoon Mudivanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others Samarakoon Mudivanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others View More before Hon. K. M. S. DISSANAYAKE, J",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/TAX-31-2022.pdf",
-    "parties": "LOLC FINANCE PLC, Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE LOLC FINANCE PLC, Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE View More",
-    "judgement_by": "Hon.Annalingam Premashanker, J.",
-    "keywords": "Tax Exemption for Financial Service,",
-    "legistation": "Section 25(A), 25(F) and 25(H) of VAT Act"
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-WRT-0056-2025-05.06.2026.pdf",
+    "parties": "Samarakoon Mudivanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others Samarakoon Mudivanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others View More",
+    "judgement_by": "Hon. K. M. S. DISSANAYAKE, J",
+    "keywords": "Writ of Certiorari and Mandamus- Interdiction- Interdiction of an officer of an officer of the Ceylon Petroleum Corporation-Criterion laid down by Rule 9 of the disciplinary rules of the CPC-Material to be taken into consideration in determining whether an officer should be transferred and/or sent on compulsory leave with full pay and/or interdicted-Application of Rule 9(b) of the disciplinary rules of the CPC-effect of observations and/or recommendation of the committee appointed by the CPC to investigate into the matter at issue-Preliminary legal objection as to the maintainability of the writ application on the basis the dispute arises out of a contract of employment and therefore, not amenable to writ jurisdiction-Rule 2 of the Disciplinary Rules the observance of fair procedure as well as for the observance of Natural Justice.",
+    "legistation": "The Constitution of the Democratic Socialist Republic of Sri Lanka, Article 140-Disciplinary Rules 2, 9(a) and 9(b) formulated by the Ceylon Petroleum Corporation by virtue of powers vested in it by section 6(0) of the Ceylon Petroleum Corporation Act No.28. of 1961 (as amended)."
 }
 ```
 
@@ -44,8 +44,10 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-06-05 | `CA/WRT/0056/2025` | Samarakoon Mudivanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others Samarakoon Mudivanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others View More before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-05-CA-WRT-0056-2025)
 - 2026-06-04 | `CA/TAX/31/2022` | LOLC FINANCE PLC, Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE LOLC FINANCE PLC, Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-04-CA-TAX-31-2022)
 - 2026-06-04 | `CA/HCC/0231/2023` | Democratic Socialist Republic of Sri Lanka Vs. Dinuka Gangabada Arachchi Democratic Socialist Republic of Sri Lanka Vs. Dinuka Gangabada Arachchi View More before Hon. Pradeep Hettiarachchi, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-04-CA-HCC-0231-2023)
+- 2026-06-04 | `CA/ TAX 07-09` | Commissioner General of Inland Revenue Vs. Nations Trust Bank PLC Commissioner General of Inland Revenue Vs. Nations Trust Bank PLC View More before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-04-CA--TAX-07-09)
 - 2026-06-04 | `CA (HCC)0390/2018` | Wennappuli Arachchilage Nilendra Geethapriya alias Geetha Vs. Hon. Attorney General, Wennappuli Arachchilage Nilendra Geethapriya alias Geetha Vs. Hon. Attorney General, View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-04-CA--HCC-0390-2018)
 - 2026-06-04 | `CA (HCC)0231/2023` | Dinuka Gangabada Arachchi Vs. Hon. Attorney General, Dinuka Gangabada Arachchi Vs. Hon. Attorney General, View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-04-CA--HCC-0231-2023)
 - 2026-06-03 | `CA/HCC/72-77/2025` | Attorney General Vs. 01.Pitchchei Varuna Sampath & Others Attorney General Vs. 01.Pitchchei Varuna Sampath & Others View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-03-CA-HCC-72-77-2025)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-05-27 | `CA HCC 114/2020` | Marasinghe Arachchilage Chaminda Nishantha alias Marasinghe Arachchilage Chaminda Nisantha Marasinghe Vs. The Hon. Attorney General, Marasinghe Arachchilage Chaminda Nishantha alias Marasinghe Arachchilage Chaminda Nisantha Marasinghe Vs. The Hon. Attorney General, View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-27-CA-HCC-114-2020)
 - 2026-05-27 | `CA (HCC)0293-0295/2025` | Sinhadhipathy Manchanayake Appuhamilage Shantha alias Kaluwa alias Sinhadhipathy Manchanayake Appuhamilage Sunil Shantha 2. Sinhadhipathy Manchanayake Appuhamilage Jayaman Ranaweera 3. Sinhadhipathy Manchanayake Appuhamilage Susantha alias Sinhadhipathy Manchanayake Appuhamilage Susantha Priyathilake Vs. Hon. Attorney General, Sinhadhipathy Manchanayake Appuhamilage Shantha alias Kaluwa alias Sinhadhipathy Manchanayake Appuhamilage Sunil Shantha 2. Sinhadhipathy Manchanayake Appuhamilage Jayaman Ranaweera 3. Sinhadhipathy Manchanayake Appuhamilage Susantha alias Sinhadhipathy Manchanayake Appuhamilage Susantha Priyathilake Vs. Hon. Attorney General, View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-27-CA--HCC-0293-0295-2025)
 - 2026-05-27 | `CA (HCC)0232-0236/2020` | Koralage Darshana Priyankara alias Aju alias Raju 2. Koralage Susil 3. Koralage Nalin Ranjith 4. Koralage Kusum Nawaratne alias Rala 5. Jayasinghe Arachchige Ajith Sarath Kumara alias Kaluwa Vs. The Hon. Attorney General Koralage Darshana Priyankara alias Aju alias Raju 2. Koralage Susil 3. Koralage Nalin Ranjith 4. Koralage Kusum Nawaratne alias Rala 5. Jayasinghe Arachchige Ajith Sarath Kumara alias Kaluwa Vs. The Hon. Attorney General View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-27-CA--HCC-0232-0236-2020)
-- 2026-05-26 | `CA/HCC/0210/23` | Hon. Attorney General, Vs. Rev. Uduwila Sujatha, Hon. Attorney General, Vs. Rev. Uduwila Sujatha, View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-26-CA-HCC-0210-23)
-- 2026-05-25 | `CA/PHC/117/22` | Officer-In-Charge, Police station, Balangoda. Vs. Mohommdu Irufan Infar Officer-In-Charge, Police station, Balangoda. Vs. Mohommdu Irufan Infar View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-25-CA-PHC-117-22)
 
 ---
 
