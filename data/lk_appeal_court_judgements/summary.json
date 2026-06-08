@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-06-08 07:11:31",
-  "n_docs": 10782,
-  "n_docs_with_pdfs": 10771,
-  "n_docs_with_text": 10771,
+  "time_updated": "2026-06-08 19:34:03",
+  "n_docs": 10783,
+  "n_docs_with_pdfs": 10772,
+  "n_docs_with_text": 10772,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-06-05",
-  "dataset_size": 10846798234,
+  "date_str_max": "2026-06-08",
+  "dataset_size": 10847083341,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-06-05-CA-WRT-0056-2025",
-    "num": "CA/WRT/0056/2025",
-    "date_str": "2026-06-05",
-    "description": "Samarakoon Mudivanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others Samarakoon Mudivanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others View More before Hon. K. M. S. DISSANAYAKE, J",
+    "doc_id": "2026-06-08-CA-HCC--0059-2024",
+    "num": "CA/HCC/ 0059/2024",
+    "date_str": "2026-06-08",
+    "description": "Mohomad Kamal Vs. The Attorney General Mohomad Kamal Vs. The Attorney General View More before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-WRT-0056-2025-05.06.2026.pdf",
-    "parties": "Samarakoon Mudivanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others Samarakoon Mudivanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others View More",
-    "judgement_by": "Hon. K. M. S. DISSANAYAKE, J",
-    "keywords": "Writ of Certiorari and Mandamus- Interdiction- Interdiction of an officer of an officer of the Ceylon Petroleum Corporation-Criterion laid down by Rule 9 of the disciplinary rules of the CPC-Material to be taken into consideration in determining whether an officer should be transferred and/or sent on compulsory leave with full pay and/or interdicted-Application of Rule 9(b) of the disciplinary rules of the CPC-effect of observations and/or recommendation of the committee appointed by the CPC to investigate into the matter at issue-Preliminary legal objection as to the maintainability of the writ application on the basis the dispute arises out of a contract of employment and therefore, not amenable to writ jurisdiction-Rule 2 of the Disciplinary Rules the observance of fair procedure as well as for the observance of Natural Justice.",
-    "legistation": "The Constitution of the Democratic Socialist Republic of Sri Lanka, Article 140-Disciplinary Rules 2, 9(a) and 9(b) formulated by the Ceylon Petroleum Corporation by virtue of powers vested in it by section 6(0) of the Ceylon Petroleum Corporation Act No.28. of 1961 (as amended)."
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Court-of-Appeal-JUDGMENT-HCC-059.24-.pdf",
+    "parties": "Mohomad Kamal Vs. The Attorney General Mohomad Kamal Vs. The Attorney General View More",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Sentence",
+    "legistation": "The Penal Code"
   }
 }
