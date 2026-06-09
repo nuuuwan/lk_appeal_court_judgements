@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--09_07:02:52-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--09_19:12:00-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**10,783** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.8 GB**), from **2012-04-23** to **2026-06-08**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**10,946** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**10.9 GB**), from **2012-04-23** to **2026-06-08**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -19,16 +19,16 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-06-08-CA-HCC--0059-2024",
-    "num": "CA/HCC/ 0059/2024",
+    "doc_id": "2026-06-08-CA-HCC--0403-2017",
+    "num": "CA/HCC/ 0403/2017",
     "date_str": "2026-06-08",
-    "description": "Mohomad Kamal Vs. The Attorney General Mohomad Kamal Vs. The Attorney General View More before Hon. P. Kumararatnam, J.",
+    "description": "Imiyage Don Vipula Hemantha Kumara alias Wasantha Vs. The Attorney General Imiyage Don Vipula Hemantha Kumara alias Wasantha Vs. The Attorney General View More before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Court-of-Appeal-JUDGMENT-HCC-059.24-.pdf",
-    "parties": "Mohomad Kamal Vs. The Attorney General Mohomad Kamal Vs. The Attorney General View More",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Court-of-Appeal-JUDGMENT-CA.0403-2017-.pdf",
+    "parties": "Imiyage Don Vipula Hemantha Kumara alias Wasantha Vs. The Attorney General Imiyage Don Vipula Hemantha Kumara alias Wasantha Vs. The Attorney General View More",
     "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Sentence",
+    "keywords": "Identification. \u2022 Reliability of the witnesses. \u2022 Refection of the defence. \u2022 Contradictions",
     "legistation": "The Penal Code"
 }
 ```
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-06-08 | `CA/HCC/ 0403/2017` | Imiyage Don Vipula Hemantha Kumara alias Wasantha Vs. The Attorney General Imiyage Don Vipula Hemantha Kumara alias Wasantha Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-08-CA-HCC--0403-2017)
 - 2026-06-08 | `CA/HCC/ 0059/2024` | Mohomad Kamal Vs. The Attorney General Mohomad Kamal Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-08-CA-HCC--0059-2024)
 - 2026-06-05 | `CA/WRT/0056/2025` | Samarakoon Mudivanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others Samarakoon Mudivanselage Chaminda Prasad Samarakoon Vs. Ceylon Petroleum Corporation & 3 Others View More before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-05-CA-WRT-0056-2025)
 - 2026-06-04 | `CA/TAX/31/2022` | LOLC FINANCE PLC, Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE LOLC FINANCE PLC, Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-04-CA-TAX-31-2022)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-05-27 | `CA HCC 266/2017` | Chandana Sri Lal Gurusinghe Vs The Hon. Attorney General, Chandana Sri Lal Gurusinghe Vs The Hon. Attorney General, View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-27-CA-HCC-266-2017)
 - 2026-05-27 | `CA/HCC/142/23` | Nadaraja Raveendran Vs The Hon. Attorney General, Nadaraja Raveendran Vs The Hon. Attorney General, View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-27-CA-HCC-142-23)
 - 2026-05-27 | `CA HCC 114/2020` | Marasinghe Arachchilage Chaminda Nishantha alias Marasinghe Arachchilage Chaminda Nisantha Marasinghe Vs. The Hon. Attorney General, Marasinghe Arachchilage Chaminda Nishantha alias Marasinghe Arachchilage Chaminda Nisantha Marasinghe Vs. The Hon. Attorney General, View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-27-CA-HCC-114-2020)
-- 2026-05-27 | `CA (HCC)0293-0295/2025` | Sinhadhipathy Manchanayake Appuhamilage Shantha alias Kaluwa alias Sinhadhipathy Manchanayake Appuhamilage Sunil Shantha 2. Sinhadhipathy Manchanayake Appuhamilage Jayaman Ranaweera 3. Sinhadhipathy Manchanayake Appuhamilage Susantha alias Sinhadhipathy Manchanayake Appuhamilage Susantha Priyathilake Vs. Hon. Attorney General, Sinhadhipathy Manchanayake Appuhamilage Shantha alias Kaluwa alias Sinhadhipathy Manchanayake Appuhamilage Sunil Shantha 2. Sinhadhipathy Manchanayake Appuhamilage Jayaman Ranaweera 3. Sinhadhipathy Manchanayake Appuhamilage Susantha alias Sinhadhipathy Manchanayake Appuhamilage Susantha Priyathilake Vs. Hon. Attorney General, View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-05-27-CA--HCC-0293-0295-2025)
 
 ---
 
