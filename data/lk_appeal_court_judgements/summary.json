@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-06-12 07:13:44",
-  "n_docs": 10985,
-  "n_docs_with_pdfs": 10974,
-  "n_docs_with_text": 10974,
+  "time_updated": "2026-06-12 19:23:44",
+  "n_docs": 11008,
+  "n_docs_with_pdfs": 10997,
+  "n_docs_with_text": 10997,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-06-11",
-  "dataset_size": 10958006142,
+  "date_str_max": "2026-06-12",
+  "dataset_size": 10968752297,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-06-11-CA-WRT-0333-2023",
-    "num": "CA WRT 0333/2023",
-    "date_str": "2026-06-11",
-    "description": "Darshana Sampath Rajakaruna and another vs The Minister of the Highway and others Darshana Sampath Rajakaruna and another vs The Minister of the Highway and others View More before Hon. R. Gurusinghe, J.",
+    "doc_id": "2026-06-12-CA-WRIT-91-2024",
+    "num": "CA/WRIT/91/2024",
+    "date_str": "2026-06-12",
+    "description": "Dissanayake Mudiyanselage Gunasekara Bandara v. Justice Anil Gooneratne, Chairman, Administrative Appeals Tribunal and 9 others Dissanayake Mudiyanselage Gunasekara Bandara v. Justice Anil Gooneratne, Chairman, Administrative Appeals Tribunal and 9 others View More before Hon. Mahen Gopallawa, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/WRT-0333-23-Judgment-PDF-1.pdf",
-    "parties": "Darshana Sampath Rajakaruna and another vs The Minister of the Highway and others Darshana Sampath Rajakaruna and another vs The Minister of the Highway and others View More",
-    "judgement_by": "Hon. R. Gurusinghe, J.",
-    "keywords": "quantum of compensation payable to the petitioners for the acquired land.",
-    "legistation": "Article 140 of the Constitution and the Land Acquisition Act"
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-Writ-91-2024-Judgment.pdf",
+    "parties": "Dissanayake Mudiyanselage Gunasekara Bandara v. Justice Anil Gooneratne, Chairman, Administrative Appeals Tribunal and 9 others Dissanayake Mudiyanselage Gunasekara Bandara v. Justice Anil Gooneratne, Chairman, Administrative Appeals Tribunal and 9 others View More",
+    "judgement_by": "Hon. Mahen Gopallawa, J.",
+    "keywords": "Appeal - Administrative Appeals Tribunal - Public Service Commission - Provincial Public Service - Public Officer - Severability of Order",
+    "legistation": "Administrative Appeal Tribunal Act, No. 04 of 2002 Constitution 1978"
   }
 }
