@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--14_07:13:50-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--14_18:46:43-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**11,008** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**11.0 GB**), from **2012-04-23** to **2026-06-12**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**11,014** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**11.0 GB**), from **2012-04-23** to **2026-06-12**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -45,6 +45,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ## 🆕 20 Latest documents
 
 - 2026-06-12 | `CA/WRIT/91/2024` | Dissanayake Mudiyanselage Gunasekara Bandara v. Justice Anil Gooneratne, Chairman, Administrative Appeals Tribunal and 9 others Dissanayake Mudiyanselage Gunasekara Bandara v. Justice Anil Gooneratne, Chairman, Administrative Appeals Tribunal and 9 others View More before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA-WRIT-91-2024)
+- 2026-06-12 | `CA/WRIT/0091/2024` | Dissanayake Mudiyanselage Gunasekara Bandara v. Justice Anil Gooneratne, Chairman, Administrative Appeals Tribunal and 9 others Dissanayake Mudiyanselage Gunasekara Bandara v. Justice Anil Gooneratne, Chairman, Administrative Appeals Tribunal and 9 others View More before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA-WRIT-0091-2024)
 - 2026-06-12 | `CA/RII/47/2024` | R.M.N. Lechchaman Chettiar of Keelapungudi, & Appearing by his Power of Attorney Holder Pathmanaban Chettiar, Vs. L.A. Alice Nona R.M.N. Lechchaman Chettiar of Keelapungudi, & Appearing by his Power of Attorney Holder Pathmanaban Chettiar, Vs. L.A. Alice Nona View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA-RII-47-2024)
 - 2026-06-12 | `CA/HCC/0079/2025` | Mohamed Asmeen Mohamed Asmeer alias Babi alias Mohamed Asmeen Mohamed Haneefa Vs. The Attorney General Mohamed Asmeen Mohamed Asmeer alias Babi alias Mohamed Asmeen Mohamed Haneefa Vs. The Attorney General View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA-HCC-0079-2025)
 - 2026-06-12 | `CA/HCC/0071/2024` | Adhiwarna Bandula Pushpakumara alias Suddha Mama Vs. The Attorney General Adhiwarna Bandula Pushpakumara alias Suddha Mama Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA-HCC-0071-2024)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-06-11 | `CA (HCC)0247/2025` | Dahanagedara Ajith Polpitiya. Vs. Hon. Attorney General, Dahanagedara Ajith Polpitiya. Vs. Hon. Attorney General, View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-11-CA--HCC-0247-2025)
 - 2026-06-11 | `CA (HCC)0041/2025` | Thenne Kumbure Gedara Abeysinghe Banda Vs. The Director General, Thenne Kumbure Gedara Abeysinghe Banda Vs. The Director General, View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-11-CA--HCC-0041-2025)
 - 2026-06-10 | `CA(PHC)161/2022` | Hewawasam Gamage Himal Chathuranga Jayahithagama, Vs Officer-in-Charge, Police Station, Thelikada. Hewawasam Gamage Himal Chathuranga Jayahithagama, Vs Officer-in-Charge, Police Station, Thelikada. View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-10-CA-PHC-161-2022)
-- 2026-06-10 | `CA/PHC/0161/2022` | Hewawasam Gamage Himal Chathuranga Jayahithagama Vs. Officer-in-Charge, Police Station, Thelikada Hewawasam Gamage Himal Chathuranga Jayahithagama Vs. Officer-in-Charge, Police Station, Thelikada View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-10-CA-PHC-0161-2022)
 
 ---
 
