@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-06-16 07:16:36",
-  "n_docs": 11033,
-  "n_docs_with_pdfs": 11021,
-  "n_docs_with_text": 11021,
+  "time_updated": "2026-06-16 20:07:06",
+  "n_docs": 11090,
+  "n_docs_with_pdfs": 11078,
+  "n_docs_with_text": 11078,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
   "date_str_max": "2026-06-15",
-  "dataset_size": 10987101681,
+  "dataset_size": 11008842337,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-06-15-CA-HCC-0069-2024",
-    "num": "CA/HCC/0069/2024",
+    "doc_id": "2026-06-15-CA-HCC-0179-2023",
+    "num": "CA/HCC/0179/2023",
     "date_str": "2026-06-15",
-    "description": "Rathnayake Mudiyanselage Nimal Rathnayake Vs. The Attorney General Rathnayake Mudiyanselage Nimal Rathnayake Vs. The Attorney General View More before Hon. P. Kumararatnam, J.",
+    "description": "Sinnathamby Pathmanathan Vs. The Attorney General, Sinnathamby Pathmanathan Vs. The Attorney General, View More before Hon. B. Sasi Mahendran, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Court-of-Appeal-JUDGMENT-HCC-0069.24.pdf",
-    "parties": "Rathnayake Mudiyanselage Nimal Rathnayake Vs. The Attorney General Rathnayake Mudiyanselage Nimal Rathnayake Vs. The Attorney General View More",
-    "judgement_by": "Hon. P. Kumararatnam, J.",
-    "keywords": "Contradictory evidence. \u2022 Judgment delivered on hearsay evidence",
-    "legistation": "The Penal Code"
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/HCC-179-23-NEW.pdf",
+    "parties": "Sinnathamby Pathmanathan Vs. The Attorney General, Sinnathamby Pathmanathan Vs. The Attorney General, View More",
+    "judgement_by": "Hon. B. Sasi Mahendran, J.",
+    "keywords": "consistent, convincing, beyond reasonable doubt, credibility",
+    "legistation": "Section 364 (3) of the Penal Code as amended by Act No.22 of 1995 and as further amended by No.29 of 1998 and No. 16 of 2006"
   }
 }
