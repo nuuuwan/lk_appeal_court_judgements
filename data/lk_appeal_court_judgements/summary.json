@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-06-18 07:13:09",
-  "n_docs": 11105,
-  "n_docs_with_pdfs": 11093,
-  "n_docs_with_text": 11093,
+  "time_updated": "2026-06-18 19:23:17",
+  "n_docs": 11168,
+  "n_docs_with_pdfs": 11151,
+  "n_docs_with_text": 11151,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-06-17",
-  "dataset_size": 11023247735,
+  "date_str_max": "2026-06-18",
+  "dataset_size": 11048035121,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-06-17-CA-HCC-0009-2024",
-    "num": "CA/HCC/0009/2024",
-    "date_str": "2026-06-17",
-    "description": "Weerakoon Mudiyanselage Ranjith Bandara Weerakoon Vs. The Attorney General Weerakoon Mudiyanselage Ranjith Bandara Weerakoon Vs. The Attorney General View More before Hon. P. Kumararatnam,",
+    "doc_id": "2026-06-18-CA-TAX-0044-2019",
+    "num": "CA/TAX/0044/2019",
+    "date_str": "2026-06-18",
+    "description": "The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited View More before Hon.Annalingam Premashanker, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Court-of-Appeal-JUDGMENT-HCC-0009.24-.pdf",
-    "parties": "Weerakoon Mudiyanselage Ranjith Bandara Weerakoon Vs. The Attorney General Weerakoon Mudiyanselage Ranjith Bandara Weerakoon Vs. The Attorney General View More",
-    "judgement_by": "Hon. P. Kumararatnam,",
-    "keywords": "Contradictory evidence",
-    "legistation": "The Penal Code"
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Tax-44-19.pdf",
+    "parties": "The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited View More",
+    "judgement_by": "Hon.Annalingam Premashanker, J.",
+    "keywords": "Nation Building Tax, Time bar, Notice of Assessment",
+    "legistation": "Section 8 of NBT Act Section 163 , 164 and 194 of the IRA"
   }
 }
