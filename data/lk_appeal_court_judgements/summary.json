@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-06-19 07:20:27",
-  "n_docs": 11168,
-  "n_docs_with_pdfs": 11151,
-  "n_docs_with_text": 11151,
+  "time_updated": "2026-06-19 19:25:26",
+  "n_docs": 11176,
+  "n_docs_with_pdfs": 11159,
+  "n_docs_with_text": 11159,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-06-18",
-  "dataset_size": 11050802776,
+  "date_str_max": "2026-06-19",
+  "dataset_size": 11054980914,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-06-18-CA-TAX-0044-2019",
-    "num": "CA/TAX/0044/2019",
-    "date_str": "2026-06-18",
-    "description": "The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited View More before Hon.Annalingam Premashanker, J.",
+    "doc_id": "2026-06-19-CA-WRT-0453-2022",
+    "num": "CA/WRT/0453/2022",
+    "date_str": "2026-06-19",
+    "description": "Daya Group Limited, And others Vs Peoples Bank, and Others Daya Group Limited, And others Vs Peoples Bank, and Others View More before Hon. Dr. Sumudu Premachandra J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Tax-44-19.pdf",
-    "parties": "The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited View More",
-    "judgement_by": "Hon.Annalingam Premashanker, J.",
-    "keywords": "Nation Building Tax, Time bar, Notice of Assessment",
-    "legistation": "Section 8 of NBT Act Section 163 , 164 and 194 of the IRA"
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-Writ-453-22-FINAL.pdf",
+    "parties": "Daya Group Limited, And others Vs Peoples Bank, and Others Daya Group Limited, And others Vs Peoples Bank, and Others View More",
+    "judgement_by": "Hon. Dr. Sumudu Premachandra J.",
+    "keywords": "Question of Arguability, Arguability Principles, \u201cprinciples\u201d of the duty of Candour, failed to adduce any acceptable reason to excuse the delay.",
+    "legistation": ""
   }
 }

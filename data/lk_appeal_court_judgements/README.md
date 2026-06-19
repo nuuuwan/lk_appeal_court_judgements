@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--19_07:20:33-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--19_19:25:30-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**11,168** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**11.1 GB**), from **2012-04-23** to **2026-06-18**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**11,176** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**11.1 GB**), from **2012-04-23** to **2026-06-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-06-18-CA-TAX-0044-2019",
-    "num": "CA/TAX/0044/2019",
-    "date_str": "2026-06-18",
-    "description": "The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited View More before Hon.Annalingam Premashanker, J.",
+    "doc_id": "2026-06-19-CA-WRT-0453-2022",
+    "num": "CA/WRT/0453/2022",
+    "date_str": "2026-06-19",
+    "description": "Daya Group Limited, And others Vs Peoples Bank, and Others Daya Group Limited, And others Vs Peoples Bank, and Others View More before Hon. Dr. Sumudu Premachandra J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Tax-44-19.pdf",
-    "parties": "The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited View More",
-    "judgement_by": "Hon.Annalingam Premashanker, J.",
-    "keywords": "Nation Building Tax, Time bar, Notice of Assessment",
-    "legistation": "Section 8 of NBT Act Section 163 , 164 and 194 of the IRA"
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-Writ-453-22-FINAL.pdf",
+    "parties": "Daya Group Limited, And others Vs Peoples Bank, and Others Daya Group Limited, And others Vs Peoples Bank, and Others View More",
+    "judgement_by": "Hon. Dr. Sumudu Premachandra J.",
+    "keywords": "Question of Arguability, Arguability Principles, \u201cprinciples\u201d of the duty of Candour, failed to adduce any acceptable reason to excuse the delay.",
+    "legistation": ""
 }
 ```
 
@@ -44,6 +44,11 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-06-19 | `CA/WRT/0453/2022` | Daya Group Limited, And others Vs Peoples Bank, and Others Daya Group Limited, And others Vs Peoples Bank, and Others View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-19-CA-WRT-0453-2022)
+- 2026-06-19 | `CA/HCC/ 0267-268/2023` | Suse Anthony Reji and other Vs The Hon. Attorney General Suse Anthony Reji and other Vs The Hon. Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-19-CA-HCC--0267-268-2023)
+- 2026-06-19 | `CA/CPA/0023/23` | Horana Urban Council and Others Vs. Ajith Amarasinghe and Others Horana Urban Council and Others Vs. Ajith Amarasinghe and Others View More before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-19-CA-CPA-0023-23)
+- 2026-06-19 | `CA/ PHC/0084/20` | Ranasinghe Arachchillage Sudharma Rathnaweera, Vs. Director General of Irrigation and Others Ranasinghe Arachchillage Sudharma Rathnaweera, Vs. Director General of Irrigation and Others View More before Hon. K. M. S. DISSANAYAKE, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-19-CA--PHC-0084-20)
+- 2026-06-18 | `CA/TAX/0047/2023` | Senkadagala Finance PLC Vs. Commissioner General of Inland Revenue Senkadagala Finance PLC Vs. Commissioner General of Inland Revenue View More before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-18-CA-TAX-0047-2023)
 - 2026-06-18 | `CA/TAX/0044/2019` | The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-18-CA-TAX-0044-2019)
 - 2026-06-18 | `CA/HCC/0154/2017` | Kandasamy Jegatheeswaran Vs. The Hon. Attorney General Kandasamy Jegatheeswaran Vs. The Hon. Attorney General View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-18-CA-HCC-0154-2017)
 - 2026-06-18 | `CA/HCC/ 0011/2023` | Abdul Kareem Nasheer Vs. The Attorney General Abdul Kareem Nasheer Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-18-CA-HCC--0011-2023)
@@ -59,11 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-06-12 | `CA/HCC/0293-0295/2025` | Sinhadhipathy Manchanayake Appuhamilage Shantha alias Kaluwa alias Sinhadhipathy Manchanayake Appuhamilage Sunil Shantha, Sinhadhipathy Manchanayake Appuhamilage Jayaman Ranaweera, Sinhadhipathy Manchanayake Appuhamilage Susantha alias Sinhadhipathy Manchanayake Appuhamilage Susantha Priyathilake Vs. The Attorney General, Sinhadhipathy Manchanayake Appuhamilage Shantha alias Kaluwa alias Sinhadhipathy Manchanayake Appuhamilage Sunil Shantha, Sinhadhipathy Manchanayake Appuhamilage Jayaman Ranaweera, Sinhadhipathy Manchanayake Appuhamilage Susantha alias Sinhadhipathy Manchanayake Appuhamilage Susantha Priyathilake Vs. The Attorney General, View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA-HCC-0293-0295-2025)
 - 2026-06-12 | `CA/HCC/0102-0112/2025` | Democratic Socialist Republic of Sri Lanka. Vs. 01.Karunaratne Ganithayalage Senaka Ranjith Premaratne & Others Democratic Socialist Republic of Sri Lanka. Vs. 01.Karunaratne Ganithayalage Senaka Ranjith Premaratne & Others View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA-HCC-0102-0112-2025)
 - 2026-06-12 | `CA/HCC/0079/2025` | Mohamed Asmeen Mohamed Asmeer alias Babi alias Mohamed Asmeen Mohamed Haneefa Vs. The Attorney General Mohamed Asmeen Mohamed Asmeer alias Babi alias Mohamed Asmeen Mohamed Haneefa Vs. The Attorney General View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA-HCC-0079-2025)
-- 2026-06-12 | `CA/HCC/0071/2024` | Adhiwarna Bandula Pushpakumara alias Suddha Mama Vs. The Attorney General Adhiwarna Bandula Pushpakumara alias Suddha Mama Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA-HCC-0071-2024)
-- 2026-06-12 | `CA (HCC) 293-295/2025` | Sinhadhipathy Manchanayake Appuhamilage Shantha alias Kaluwa alias Sinhadhipathy Manchanayake Appuhamilage Sunil Shantha, Sinhadhipathy Manchanayake Appuhamilage Jayaman Ranaweera, Sinhadhipathy Manchanayake Appuhamilage Susantha alias Sinhadhipathy Manchanayake Appuhamilage Susantha Priyathilake Vs. The Attorney General, Sinhadhipathy Manchanayake Appuhamilage Shantha alias Kaluwa alias Sinhadhipathy Manchanayake Appuhamilage Sunil Shantha, Sinhadhipathy Manchanayake Appuhamilage Jayaman Ranaweera, Sinhadhipathy Manchanayake Appuhamilage Susantha alias Sinhadhipathy Manchanayake Appuhamilage Susantha Priyathilake Vs. The Attorney General, View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA--HCC--293-295-2025)
-- 2026-06-11 | `CA WRT 0333/2023` | Darshana Sampath Rajakaruna and another vs The Minister of the Highway and others Darshana Sampath Rajakaruna and another vs The Minister of the Highway and others View More before Hon. R. Gurusinghe, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-11-CA-WRT-0333-2023)
-- 2026-06-11 | `CA/TAX/0058/2023` | Cargills Bank Ltd Vs. Commissioner General of Inland Revenue Cargills Bank Ltd Vs. Commissioner General of Inland Revenue View More before Hon. M.C.B.S. Morais, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-11-CA-TAX-0058-2023)
-- 2026-06-11 | `CA/TAX/005/2021` | WEALTHTRUST SECURITIES LIMITED, Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE, WEALTHTRUST SECURITIES LIMITED, Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE, View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-11-CA-TAX-005-2021)
 
 ---
 
