@@ -1,0 +1,4369 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.03,
+      724.78,
+      312.13,
+      754.09
+    ],
+    "text": "1",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      82.28,
+      72.59,
+      532.54,
+      85.87
+    ],
+    "text": "IN THE COURT OF APPEAL OF THE DEMOCRATIC SOCIALIST REPUBLIC OF",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.88,
+      100.09,
+      342.15,
+      113.37
+    ],
+    "text": "SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      348.65,
+      135.86,
+      542.99,
+      149.14
+    ],
+    "text": "In the matter of an Application for",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      348.65,
+      156.61,
+      542.99,
+      169.89
+    ],
+    "text": "Orders in the nature of Writs of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      348.65,
+      177.11,
+      543.06,
+      190.39
+    ],
+    "text": "Certiorari, Prohibition and Mandamus",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      348.65,
+      197.89,
+      542.99,
+      211.17
+    ],
+    "text": "under Article 140 of the Constitution of",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      348.65,
+      218.64,
+      542.99,
+      231.92
+    ],
+    "text": "the Democratic Socialist Republic of Sri",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      348.65,
+      239.39,
+      384.65,
+      252.67
+    ],
+    "text": "Lanka.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.63,
+      296.49,
+      471.7,
+      309.94
+    ],
+    "text": "1. Premakumara Rajapakse,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.03,
+      312.66,
+      485.95,
+      358.21
+    ],
+    "text": "No. 247/1, Dabahena Road, Maharagama. CA (Writ) App. No. 323/2024",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.63,
+      380.26,
+      455.7,
+      393.71
+    ],
+    "text": "2. S.A Prageeth Lakmal,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.63,
+      396.43,
+      476.7,
+      457.99
+    ],
+    "text": "No. 245, Dabahena Road, Maharagama. 3. P.V.K Apsara Lakshmi,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.63,
+      460.71,
+      482.69,
+      522.26
+    ],
+    "text": "No. 129/3, Dabahena Road, Maharagama. 4. D.L. Chandika,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.63,
+      524.98,
+      491.95,
+      586.26
+    ],
+    "text": "No. 189/11, Dabahena Road, Maharagama. 5. R.A.S.P. Kumara,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.63,
+      589.01,
+      501.45,
+      650.54
+    ],
+    "text": "No. 63/65, Dabahena Road, Maharagama. 6. Nilantha Ruwan Satharasinghe,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.65,
+      653.26,
+      485.95,
+      682.57
+    ],
+    "text": "No. 129/4, Dabahena Road, Maharagama.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      458.2,
+      697.28,
+      543.23,
+      710.57
+    ],
+    "text": "PETITIONERS",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.03,
+      724.78,
+      312.13,
+      754.09
+    ],
+    "text": "2",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      348.65,
+      72.59,
+      367.9,
+      85.87
+    ],
+    "text": "Vs.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      330.65,
+      107.53,
+      490.64,
+      122.18
+    ],
+    "text": "1. Maharagama Urban Council,",
+    "fonts": [
+      "Aptos",
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      348.65,
+      124.11,
+      417.42,
+      137.39
+    ],
+    "text": "Maharagama.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      330.65,
+      139.86,
+      431.67,
+      169.39
+    ],
+    "text": "2. N.T Aruna Dias,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      348.65,
+      171.86,
+      491.2,
+      217.17
+    ],
+    "text": "Secretary, Maharagama Urban Council, Maharagama.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.13,
+      219.89,
+      475.2,
+      249.42
+    ],
+    "text": "2A. Thilini Kalhari Nandasena,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346.65,
+      252.14,
+      489.2,
+      297.44
+    ],
+    "text": "Secretary, Maharagama Urban Council, Maharagama.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      330.65,
+      311.58,
+      450.36,
+      326.23
+    ],
+    "text": "3. Nilmini Rawanaella,",
+    "fonts": [
+      "Aptos",
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      330.65,
+      327.58,
+      501.39,
+      405.75
+    ],
+    "text": "Administrative Officer, Maharagama Urban Council, Maharagama. 4. Urban Development Authority,",
+    "fonts": [
+      "Aptos",
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      348.65,
+      406.49,
+      457.45,
+      452.74
+    ],
+    "text": "6th, 7th and 9th Floors, Sethsiripaya, Battaramulla.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      330.65,
+      467.29,
+      447.42,
+      480.74
+    ],
+    "text": "5. M.G Gamini Pinto,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      328.63,
+      483.21,
+      517.47,
+      625.04
+    ],
+    "text": "Acting Assistant Commissioner of Local Government, Department of Local Government (Western Province), No. 204, Denzil Kobbekaduwa Mawatha, Battaramulla. 5A. Mrs. Rangika LakmaliPerera,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      346.65,
+      627.76,
+      512.73,
+      705.32
+    ],
+    "text": "Acting Assistant Commissioner of Local Government, Department of Local Government (Western Province), No. 204,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.03,
+      724.78,
+      312.13,
+      754.09
+    ],
+    "text": "3",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      346.65,
+      72.59,
+      504.7,
+      101.87
+    ],
+    "text": "Denzil Kobbekaduwa Mawatha, Battaramulla.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      330.65,
+      116.03,
+      434.12,
+      130.68
+    ],
+    "text": "6. S.K Jayasundere,",
+    "fonts": [
+      "Aptos",
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      330.65,
+      132.03,
+      530.41,
+      256.92
+    ],
+    "text": "Commissioner of Local Government, Department of Local Government (Western Province), No. 204, Denzil Kobbekaduwa Mawatha, Battaramulla. 7. Pradeeep Yasaratne,",
+    "fonts": [
+      "Aptos",
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      348.65,
+      259.64,
+      524.47,
+      369.21
+    ],
+    "text": "Secretary, Ministry of Provincial Councils and Local Government, No. 330, Dr. Colvin R. de Silva Mawatha (Union Place), Colombo 02.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      324.13,
+      383.93,
+      447.92,
+      397.21
+    ],
+    "text": "7A. S. Alokha Bandara,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      346.65,
+      399.93,
+      541.31,
+      509.49
+    ],
+    "text": "Secretary, Ministry of Provincial Councils and Local Government, No. 330, Dr. Colvin R. de Silva Mawatha (Union Place), Colombo 02.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      330.65,
+      524.06,
+      455.2,
+      537.51
+    ],
+    "text": "8. Sudheera Jayaweera,",
+    "fonts": [
+      "ArialMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      348.65,
+      539.29,
+      499.7,
+      585.27
+    ],
+    "text": "No. 129/19D, 2nd Lane, Dabahena Road, Maharagama.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      451.45,
+      587.76,
+      543.23,
+      601.04
+    ],
+    "text": "RESPONDENTS",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.03,
+      724.78,
+      312.13,
+      754.09
+    ],
+    "text": "4",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.03,
+      72.59,
+      263.1,
+      85.87
+    ],
+    "text": "Before: Dr. D. F. H. Gunawardhana, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.03,
+      108.11,
+      120.3,
+      121.39
+    ],
+    "text": "Counsel:",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.05,
+      143.86,
+      333.15,
+      157.14
+    ],
+    "text": "Sanjeewa Jayawardena,P.C. for the Petitioner.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.05,
+      170.42,
+      539.96,
+      184.64
+    ],
+    "text": "R.A.P. Ranawaka with Panchali Ekanayake instructed by Madhaci Kiriella for the 1st and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.05,
+      198.2,
+      192.33,
+      212.42
+    ],
+    "text": "2nd Respondents.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.05,
+      225.7,
+      352.9,
+      239.92
+    ],
+    "text": "Dr.Peshan Gunaratne, S.C. for the 7th Respondent.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.05,
+      253.19,
+      509.45,
+      267.41
+    ],
+    "text": "Shiral Lakthilaka with Sanjeewani Nawarathne instructed by N.J.P.Silva for the 8th",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      108.05,
+      281.91,
+      173.83,
+      295.19
+    ],
+    "text": "Respondent.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.03,
+      337.16,
+      190.33,
+      350.44
+    ],
+    "text": "Argued on: 03.02.2026",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.03,
+      372.68,
+      207.08,
+      385.96
+    ],
+    "text": "Delivered on: 20.03.2026",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      724.78,
+      312.13,
+      754.09
+    ],
+    "text": "5",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      72.59,
+      237.1,
+      85.87
+    ],
+    "text": "Dr. D. F. H. Gunawardhana, J.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      277.63,
+      108.11,
+      340.4,
+      121.39
+    ],
+    "text": "Judgement",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      143.86,
+      143.3,
+      157.14
+    ],
+    "text": "Introduction",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      178.42,
+      543.15,
+      192.64
+    ],
+    "text": "The 1st to 6th Petitioners are residents of Dabahena Road, Maharagama. The 1st Petitioner is",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      207.14,
+      543.02,
+      220.42
+    ],
+    "text": "residing at premises No. 2471 of Dabahena Road, and the other Petitioners are also residing on the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      233.7,
+      543.16,
+      247.92
+    ],
+    "text": "same road. The 1st Respondent is the Urban Council of Maharagama, while the 2nd Respondent is",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      261.2,
+      543.17,
+      275.42
+    ],
+    "text": "the Secretary thereto. The 3rd Respondent is the Administrative Officer, and the 4th Respondent is",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      288.97,
+      543.14,
+      303.19
+    ],
+    "text": "the Urban Development Authority, whose powers are now delegated to the 1st Respondent. The",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      316.47,
+      543.16,
+      330.69
+    ],
+    "text": "5th and 6th Respondents are the Commissioners of the Local Government, the 7th Respondent is the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      344.22,
+      543.17,
+      358.46
+    ],
+    "text": "Secretary of the Provincial Council, and the 8th Respondent is a resident of the same road which",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      372.68,
+      379.9,
+      385.96
+    ],
+    "text": "leads from the Dabahena Road to the houses of the Petitioners.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      407.24,
+      543.17,
+      421.46
+    ],
+    "text": "The 8th Respondent, having recently purchased a plot of land depicted as Assessment No. 129/19D",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      435.96,
+      543.09,
+      449.24
+    ],
+    "text": "of the Plan marked as P2(a) annexed to the Petition, constructed three gates opening to the said",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      463.46,
+      542.97,
+      476.74
+    ],
+    "text": "road, which the Petitioners complain affects their rights and is also an unauthorised construction.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      498.02,
+      543.23,
+      512.24
+    ],
+    "text": "As such, the Petitioners have complained to the 1st Respondent, and thereupon, the 1st Respondent,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      525.79,
+      543.23,
+      540.01
+    ],
+    "text": "having caused an inspection, directed the 8th Respondent to remove the same, which the 8th",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      554.23,
+      542.97,
+      567.51
+    ],
+    "text": "Respondent has failed to comply with. Thereafter, the Petitioners have complained to several other",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      582.01,
+      543.23,
+      595.29
+    ],
+    "text": "Respondents; nevertheless, none of the Respondents have taken steps to remove the alleged",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      609.51,
+      205.33,
+      622.79
+    ],
+    "text": "unauthorised construction.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      645.01,
+      543.22,
+      658.29
+    ],
+    "text": "Thus, the Petitioners seeking to invoke the jurisdiction of this Court to obtain inter alia the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.03,
+      672.78,
+      153.33,
+      686.06
+    ],
+    "text": "following relief;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      72.03,
+      724.78,
+      312.13,
+      754.09
+    ],
+    "text": "6",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      72.15,
+      543.21,
+      85.87
+    ],
+    "text": "\u201c(b) Grant and issue a Mandate in the nature of a Writ of Mandamus, directing the 1st to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      99.65,
+      542.8,
+      113.37
+    ],
+    "text": "the 4th Respondents and/or any one or more of them and/or their successors in office and/or",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      127.86,
+      542.69,
+      141.14
+    ],
+    "text": "their servants and/or agents, to forthwith to act in terms of section 28A(3) of the Urban",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      155.36,
+      543.19,
+      168.64
+    ],
+    "text": "Development Authority Law No. 41 of 1978, as amended, and/or to institute action in the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      182.67,
+      543.11,
+      196.39
+    ],
+    "text": "Magistrate Court, having competent jurisdiction, against the 8th Respondent, to demolish",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      210.64,
+      542.75,
+      223.92
+    ],
+    "text": "the two illegal entrances and/or gates and/or openings, at the Southern boundary of the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      238.14,
+      542.75,
+      251.42
+    ],
+    "text": "premises bearing assessment No. 129/19D, Dambahena road, Maharagama, in view of the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      265.45,
+      542.96,
+      279.19
+    ],
+    "text": "patent continuing failure of the 8th Respondent, to remove the said two entrances and/or",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      293.41,
+      221.85,
+      306.69
+    ],
+    "text": "gates and/or openings;",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      328.72,
+      543.23,
+      342.44
+    ],
+    "text": "(c) Grant and issue a Mandate in the nature of a Writ of Mandamus, directing the 2nd",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      356.68,
+      542.77,
+      369.96
+    ],
+    "text": "Respondent and/or his successors in office and/or his servants and/or agents, to forthwith",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      383.74,
+      542.98,
+      397.46
+    ],
+    "text": "comply with the directive given by the 5th Respondent in the letter dated 22/02/2024,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      411.49,
+      371.65,
+      425.21
+    ],
+    "text": "produced marked as P-12, against the 8th Respondent,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      447.46,
+      124.3,
+      460.74
+    ],
+    "text": "Or",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      482.52,
+      543.21,
+      496.24
+    ],
+    "text": "(d) Grant and issue a Mandate in the nature of a Writ of Mandamus, directing the 1st to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      510.29,
+      542.78,
+      524.01
+    ],
+    "text": "the 3rd Respondents and/or anyone or more of them and/or his successors in office and/or",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      538.23,
+      542.74,
+      551.51
+    ],
+    "text": "his servants and/or agents, to forthwith comply with the several directives issued by him to",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      565.54,
+      543.16,
+      579.26
+    ],
+    "text": "the 8th Respondent produced marked as P-4 and/or P-5 and/or P-6 and/or P-7, wherein it",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      593.07,
+      543.07,
+      606.79
+    ],
+    "text": "is inter alia stipulated that action will be instituted against the 8th Respondent, to close",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      621.01,
+      543.07,
+      634.29
+    ],
+    "text": "and/or remove the 2 illegal entrances and/or gates and/or openings in the Southern",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      648.76,
+      542.75,
+      662.04
+    ],
+    "text": "boundary of the premises bearing assessment No. 129/19D, Dambahena road,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.05,
+      676.29,
+      187.08,
+      689.57
+    ],
+    "text": "Maharagama;\u201d",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      724.78,
+      312.13,
+      754.09
+    ],
+    "text": "7",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      71.65,
+      543.2,
+      85.87
+    ],
+    "text": "After issuing notice, only the 8th Respondent has filed Objections while all other Respondents have",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      100.09,
+      542.8,
+      113.37
+    ],
+    "text": "indicated through their counsel that they are not filing any Objections. Accordingly, this was fixed",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      127.86,
+      543.09,
+      141.14
+    ],
+    "text": "for Arguments by this Court, and it came up before me on 03.02.2026, and argued by the counsel;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      154.42,
+      543.05,
+      168.64
+    ],
+    "text": "however, the 8th Respondent\u2019s Counsel had taken two dates on personal grounds, including today",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      182.17,
+      543.01,
+      196.39
+    ],
+    "text": "(03.02.2026). However, Junior Counsel for the 8th Respondent informed that written submissions",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      210.64,
+      543.01,
+      223.92
+    ],
+    "text": "would be filed; accordingly, written submissions were filed. The following arguments were",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      238.14,
+      331.38,
+      251.42
+    ],
+    "text": "advanced by Counsel in their respective submissions.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      273.91,
+      132.3,
+      287.19
+    ],
+    "text": "Arguments",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      309.41,
+      542.99,
+      322.69
+    ],
+    "text": "It is the argument of Mr. Jayawardena, learned President\u2019s Counsel for the Petitioner that the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      337.16,
+      543.0,
+      350.44
+    ],
+    "text": "Petitioners are entitled to obtain Writ of Mandamus, directing the Respondents to take action",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      363.74,
+      542.74,
+      377.96
+    ],
+    "text": "against the 8th Respondent either to remove the illegal construction effected by him, or prosecute",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      391.24,
+      543.05,
+      405.46
+    ],
+    "text": "an action in the Magistrate\u2019s Court to prevent the 8th Respondent to continue violating the rights",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      419.93,
+      160.08,
+      433.21
+    ],
+    "text": "of the Petitioners.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      454.52,
+      543.06,
+      468.74
+    ],
+    "text": "The Counsel, Mr. Shiral Lakthilaka for and on behalf of the 8th Respondent advanced two main",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      482.96,
+      542.88,
+      496.24
+    ],
+    "text": "points in the course of his arguments. The first point is that the Petitioners have not made out a",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      509.79,
+      543.17,
+      524.01
+    ],
+    "text": "case against the 8th Respondent to obtain a Writ of Mandamus because if the Petitioners have any",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      537.29,
+      543.12,
+      551.51
+    ],
+    "text": "grievance based on any private dispute between the Petitioners and the 8th Respondent, they should",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      565.98,
+      542.87,
+      579.26
+    ],
+    "text": "go before a relevant forum to assert their rights; they cannot make use of public law avenue to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      592.57,
+      543.15,
+      606.79
+    ],
+    "text": "obtain a Writ of Mandamus against the Respondents, particularly against the 8th Respondent, over",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      621.01,
+      153.33,
+      634.29
+    ],
+    "text": "a private matter.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      655.82,
+      543.23,
+      670.04
+    ],
+    "text": "The second point of argument advanced on behalf of the 8th Respondent is that since the 8th",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.03,
+      683.34,
+      543.14,
+      697.57
+    ],
+    "text": "Respondent has already obtained a valid development permit from the 1st Respondent, the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      724.78,
+      312.13,
+      754.09
+    ],
+    "text": "8",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      72.59,
+      542.77,
+      85.87
+    ],
+    "text": "Municipal Council, and constructed his house, he is entitled to possess the same, and as the outright",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      99.15,
+      543.1,
+      113.37
+    ],
+    "text": "owner thereof, the 8th Respondent is entitled to enjoy the rights attributable to ownership; namely,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      127.86,
+      224.85,
+      141.14
+    ],
+    "text": "utendy, abutundy, and fruendi.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      163.36,
+      174.83,
+      176.64
+    ],
+    "text": "Petitioners Position",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      198.2,
+      542.7,
+      212.42
+    ],
+    "text": "The 1st Petitioner has annexed and produced his title deed, which was executed in 1985, marked",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      225.7,
+      543.03,
+      239.92
+    ],
+    "text": "as P1. It is the position of the Petitioners\u2019 that the 8th Respondent has also purchased his property",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      254.13,
+      543.2,
+      267.41
+    ],
+    "text": "identified as Lot No. B1 as depicted in the plan marked as P2(a) annexed to the Petition, by the",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      280.97,
+      543.23,
+      295.19
+    ],
+    "text": "Deed marked as P2, executed in 2016. Thereafter, it is the Petitioners\u2019 position that the 8th",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      309.41,
+      543.07,
+      322.69
+    ],
+    "text": "Respondent, having put up a house in the premises belonging to him, has also kept three openings",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      337.16,
+      542.95,
+      350.44
+    ],
+    "text": "in the parapet wall to be used as entrances, against which the Petitioners assert, causes hindrances",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      364.68,
+      543.07,
+      377.96
+    ],
+    "text": "to their right of way over the said by-road which leads to the Dabahena Road and also causes",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      392.18,
+      204.33,
+      405.46
+    ],
+    "text": "nuisance to the Petitioners.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      427.96,
+      132.8,
+      441.24
+    ],
+    "text": "Complaint",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      462.52,
+      543.05,
+      476.74
+    ],
+    "text": "Accordingly, the 1st Petitioner has made a complaint to the 2nd Respondent, who is the secretary of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      490.02,
+      542.86,
+      504.24
+    ],
+    "text": "the 1st Respondent. Thereafter, as evident by the document marked and annexed to the Petition as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      517.79,
+      543.05,
+      532.01
+    ],
+    "text": "P4, the 1st Respondent had sent its technical officer for a site inspection, where it was revealed that",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      545.29,
+      543.1,
+      559.51
+    ],
+    "text": "there are three openings used by the 8th Respondent as gates to have access or entrance to his",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      573.04,
+      543.19,
+      587.26
+    ],
+    "text": "property in suit. Accordingly, the 8th Respondent was asked to close two openings and retain only",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      601.51,
+      193.08,
+      614.79
+    ],
+    "text": "one opening as his gate.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      636.07,
+      543.2,
+      650.29
+    ],
+    "text": "Further, on complaints made by the other Petitioners, the 2nd Respondent, who has repeatedly sent",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      663.85,
+      543.16,
+      678.07
+    ],
+    "text": "several letters to the 8th Respondent, directing him to close the said two opening, which is",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      72.03,
+      692.28,
+      543.13,
+      705.57
+    ],
+    "text": "evidenced by the documents marked as P5, P6, and P7 annexed to the Petition. Further, since there",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      724.78,
+      312.13,
+      754.09
+    ],
+    "text": "9",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      71.65,
+      542.21,
+      85.87
+    ],
+    "text": "was no action taken by the 1st Respondent or its officers, the 1st Petitioner has written to the 2nd",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      100.09,
+      543.22,
+      113.37
+    ],
+    "text": "Respondent again, by the letters marked as P8, P8(a), P9, and P10 annexed to the Petition. In fact,",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      127.86,
+      543.09,
+      141.14
+    ],
+    "text": "the farmers of the area also have written by the document marked as P11, stating that the said gates",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      154.42,
+      543.1,
+      168.64
+    ],
+    "text": "of the 8th Respondent were a hindrance and nuisance to them since the 8th Respondent is using",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      183.11,
+      248.35,
+      196.39
+    ],
+    "text": "three gates to use the said roadway.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      218.64,
+      542.64,
+      231.92
+    ],
+    "text": "Thereafter, on the said complaints, the Department of Local Government (Western Province) has",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      245.2,
+      543.08,
+      259.42
+    ],
+    "text": "written to the Secretary of the Maharagama Urban Council (the 2nd Respondent), to take legal",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      272.97,
+      542.82,
+      287.19
+    ],
+    "text": "actions against the 8th Respondent. The said gates are depicted in the photographs marked and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      300.47,
+      543.16,
+      314.69
+    ],
+    "text": "annexed to the Petition as P13, and several further requests have been made by the 1st Respondent",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      328.22,
+      543.0,
+      342.44
+    ],
+    "text": "by the documents marked as P14 and P15; thereafter, the 1st Respondent has also further written",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      355.74,
+      273.88,
+      369.96
+    ],
+    "text": "to the 1st Petitioner to establish his rights.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      392.18,
+      130.3,
+      405.46
+    ],
+    "text": "Objections",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      427.02,
+      543.01,
+      441.24
+    ],
+    "text": "On the other hand, the 1st to 7th (7A) Respondents have not filed their respective Objections or any",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      454.52,
+      543.16,
+      468.74
+    ],
+    "text": "documents; however, the 8th Respondent has filed his Objections along with several annexed",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      482.96,
+      542.98,
+      496.24
+    ],
+    "text": "documents marked as 8V1 to 8V6. The document marked as 8V1 is the same as the document",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      510.73,
+      542.85,
+      524.01
+    ],
+    "text": "marked as P2 annexed to the Petition; 8V2 is the same as the plan marked and annexed to the",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      538.23,
+      543.21,
+      551.51
+    ],
+    "text": "Petition as P2(a); there is no document marked as 8V3, however, the document marked as 8V4 is",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      565.98,
+      542.98,
+      579.26
+    ],
+    "text": "the development permit apparently obtained from the Maharagama Municipal Council. The",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      593.51,
+      542.92,
+      606.79
+    ],
+    "text": "document marked as 8V5 is the partition plan depicting the larger land of which a portion of land",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      620.07,
+      543.2,
+      634.29
+    ],
+    "text": "the 8th Respondent has purchased, which is evidenced by the document marked P2(8V1). The",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      648.76,
+      542.97,
+      662.04
+    ],
+    "text": "document marked as 8V6 is the final decree of the said partition by which the said partition plan",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.03,
+      676.29,
+      157.08,
+      689.57
+    ],
+    "text": "8V5 is affirmed.",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      724.78,
+      315.13,
+      754.09
+    ],
+    "text": "10",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      72.59,
+      543.15,
+      85.87
+    ],
+    "text": "However, it is his position that his development permit has been approved; therefore, he is entitled",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      100.09,
+      178.83,
+      113.37
+    ],
+    "text": "to use the three gates.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      135.86,
+      542.7,
+      149.14
+    ],
+    "text": "Now I will consider the arguments advanced by the counsel on both sides in relation to the facts",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      163.36,
+      160.33,
+      176.64
+    ],
+    "text": "mentioned above.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      199.14,
+      543.11,
+      212.42
+    ],
+    "text": "Apparently, the Petitioners are owners of certain premises situated where a by-road that leads to",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      226.64,
+      542.77,
+      239.92
+    ],
+    "text": "the Dabahena Road is used as their way of access to the main road to and from their residences;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      253.19,
+      293.63,
+      267.41
+    ],
+    "text": "the 8th Respondent has not disputed that fact.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      288.97,
+      542.82,
+      303.19
+    ],
+    "text": "The 8th Respondent has purchased a land in the said area in 2016, that he occupies presently, as",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      317.41,
+      543.1,
+      330.69
+    ],
+    "text": "evidenced by the Deed marked as P2(a) annexed to the Petition or 8V1 annexed to the Objections;",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      344.22,
+      543.23,
+      358.46
+    ],
+    "text": "and the said land is depicted in the plan marked as P3 or 8V2. The said parcel of land of the 8th",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      372.68,
+      543.17,
+      385.96
+    ],
+    "text": "Respondent is a portion of a larger land for which there had been a partition case; the final plan of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      400.18,
+      542.78,
+      413.46
+    ],
+    "text": "the said partition is annexed as 8V5, with the same having been confirmed by the final decree of",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      427.02,
+      543.06,
+      441.24
+    ],
+    "text": "the partition case marked as 8V6. Therefore, it is very clear that the 8th Respondent possesses a",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      455.46,
+      417.42,
+      468.74
+    ],
+    "text": "land which he owns based on good title derived from a partition action.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      490.02,
+      542.98,
+      504.24
+    ],
+    "text": "Now the question arises as to whether the 8th Respondent is entitled to enjoy all the attributes that",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      518.73,
+      543.16,
+      532.01
+    ],
+    "text": "he relies on as the owner of the said land depicted in the plan marked as P2(a) or 8V3 annexed to",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      545.29,
+      374.9,
+      559.51
+    ],
+    "text": "the Petition and Objections of the 8th Respondent respectively.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      581.04,
+      542.84,
+      595.29
+    ],
+    "text": "It appears that the 8th Respondent has obtained a development plan to build his house, which is",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      609.51,
+      542.98,
+      622.79
+    ],
+    "text": "marked as 8V4. On a perusal of 8V4, I found that except for the main house there is no permission",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      636.07,
+      543.0,
+      650.29
+    ],
+    "text": "given to construct a parapet wall which separates the 8th Respondent\u2019s land and the said road.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      664.79,
+      543.09,
+      678.07
+    ],
+    "text": "Therefore, it appears, as the Petitioners complain and as evidenced by P4, that there are three",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.03,
+      691.35,
+      543.05,
+      705.57
+    ],
+    "text": "openings used as entrances by the 8th Respondent. As such, the said entrances kept and maintained",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      724.78,
+      315.13,
+      754.09
+    ],
+    "text": "11",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      71.65,
+      543.15,
+      85.87
+    ],
+    "text": "by the 8th Respondent cause hindrances and nuisance to the people of the area; thus, the Petitioners",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      99.15,
+      543.2,
+      113.37
+    ],
+    "text": "have complained to the 1st Respondent, the 3rd Respondent, as an officer of the 1st Respondent, and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      126.92,
+      543.23,
+      141.14
+    ],
+    "text": "other relevant authorities against the 8th Respondent\u2019s conduct. Based on those complaints, the 1st",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      155.36,
+      542.62,
+      168.64
+    ],
+    "text": "Respondent had sent a technical officer and obtained a report, according to which, there is",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      182.17,
+      309.88,
+      196.39
+    ],
+    "text": "unauthorised construction by the 8th Respondent.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      217.7,
+      543.12,
+      231.92
+    ],
+    "text": "Therefore, by P4 and several other letters, the authorities (the 1st to 4th Respondents) have informed",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      245.2,
+      542.72,
+      259.42
+    ],
+    "text": "and directed the 8th Respondent to close two of the said openings and use only one as the sole",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      272.97,
+      431.92,
+      287.19
+    ],
+    "text": "entrance to his property, which the 8th Respondent has not complied with.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      308.47,
+      543.21,
+      322.69
+    ],
+    "text": "Therefore, it is my view that the 8th Respondent has put up some unauthorised construction for his",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      337.16,
+      542.63,
+      350.44
+    ],
+    "text": "benefit and to the hindrance and annoyance of the Petitioners and other residents of the area,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      364.68,
+      542.95,
+      377.96
+    ],
+    "text": "including the farmers of the area as evidenced by P11. As such, it is my view that the Petitioners",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      391.24,
+      543.23,
+      405.46
+    ],
+    "text": "have made out a case against the 1st to 4th Respondents to obtain a Writ of Mandamus directing",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      418.99,
+      494.7,
+      433.21
+    ],
+    "text": "them to take legal actions against the 8th Respondent for his unauthorised construction.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      455.46,
+      543.22,
+      468.74
+    ],
+    "text": "The next question that arises is whether the Petitioners are entitled to such a Writ of Mandamus,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      482.02,
+      231.35,
+      496.24
+    ],
+    "text": "as argued by the 8th Respondent.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      518.73,
+      542.57,
+      532.01
+    ],
+    "text": "The UDA Act has been promulgated covering the entire Island, for the purpose of enhancing the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      546.23,
+      542.72,
+      559.51
+    ],
+    "text": "life of the citizenry depending on the area that such citizenry resides or live in; it is thus, also",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      573.98,
+      543.22,
+      587.26
+    ],
+    "text": "required and expected by the UDA to create such conducive environment for the citizenry to live",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      601.51,
+      543.06,
+      614.79
+    ],
+    "text": "a peaceful life. For that purpose, they can adopt and promulgate by-laws, or their powers can be",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      629.01,
+      543.08,
+      642.29
+    ],
+    "text": "delegated to local authorities since the UDA cannot solely carry the responsibility of creating such",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      656.76,
+      543.09,
+      670.04
+    ],
+    "text": "conducive environment for the citizenry. Once such a power is delegated to a local authority, the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.03,
+      684.28,
+      542.63,
+      697.57
+    ],
+    "text": "local authority is responsible for regulating the environment as far as possible to create healthy",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.03,
+      724.78,
+      315.13,
+      754.09
+    ],
+    "text": "12",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.03,
+      72.59,
+      543.12,
+      85.87
+    ],
+    "text": "environments for the citizenry to live within their locality. Therefore, Section 28 empowers such",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.03,
+      100.09,
+      288.63,
+      113.37
+    ],
+    "text": "delegated local authority to act accordingly.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.03,
+      134.92,
+      542.9,
+      149.14
+    ],
+    "text": "As such, it is my view that the 1st Respondent is under a statutory duty to create such environment",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.03,
+      162.42,
+      543.23,
+      176.64
+    ],
+    "text": "by regulating the actions and inactions of the citizenry who live within its local limits. If the 1st",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.03,
+      191.14,
+      543.23,
+      204.42
+    ],
+    "text": "Respondent and its officers, whose powers are derived from the UDA by the Act No. 47 of 1978,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.03,
+      218.64,
+      542.87,
+      231.92
+    ],
+    "text": "fail to carry out its duties in that respect, then, any citizen affected by such action or inaction of",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.03,
+      246.14,
+      543.21,
+      259.42
+    ],
+    "text": "the local authority can compel them to carry out such duty. Accordingly, it is my view that a Writ",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.03,
+      273.91,
+      255.85,
+      287.19
+    ],
+    "text": "of Mandamus lies in this Application.",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.03,
+      309.41,
+      542.8,
+      322.69
+    ],
+    "text": "I rely upon Wade and Forsyth in the authoritative textbook \u201cAdministrative Law\u201d to further",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.03,
+      337.16,
+      160.33,
+      350.44
+    ],
+    "text": "buttress my view;",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.05,
+      372.68,
+      542.75,
+      385.96
+    ],
+    "text": "\u201cOriginally the writ of mandamus was merely an administrative order from the sovereign",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.05,
+      400.18,
+      542.7,
+      413.46
+    ],
+    "text": "to his or her subordinates. However, the central government had little administrative",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.05,
+      427.96,
+      543.22,
+      441.24
+    ],
+    "text": "machinery of its own, which led to the mandamus quickly becoming generally available",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.05,
+      455.46,
+      542.71,
+      468.74
+    ],
+    "text": "through the Court of King's Bench. The writ would issue to enforce the terms of royal",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.05,
+      482.96,
+      542.65,
+      496.24
+    ],
+    "text": "charters and, by the seventeenth century, it was commonly used to compel the admission",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.05,
+      510.73,
+      534.23,
+      524.01
+    ],
+    "text": "or restoration of freemen or burgesses to their offices or rights in borough corporations",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.05,
+      550.23,
+      542.73,
+      563.51
+    ],
+    "text": "Another early use of the mandamus was to enforce the rights of members of universities.",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.05,
+      577.98,
+      542.8,
+      591.26
+    ],
+    "text": "The mandamus was used, for instance, in the time of Edward III to command the",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.05,
+      605.51,
+      542.69,
+      618.79
+    ],
+    "text": "University of Oxford to restore a member who had been banished. Lord Holt and Lord",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.05,
+      633.01,
+      542.72,
+      646.29
+    ],
+    "text": "Mansfield favoured the free use of the writ for the enforcement of public duties of all",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.05,
+      660.78,
+      542.65,
+      674.06
+    ],
+    "text": "kinds. Mandatory orders were thus issued against inferior tribunals which refused to",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      108.05,
+      688.28,
+      542.88,
+      701.57
+    ],
+    "text": "exercise their jurisdiction and against municipal corporations which did not duly hold",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.03,
+      724.78,
+      315.13,
+      754.09
+    ],
+    "text": "13",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.05,
+      72.59,
+      543.05,
+      85.87
+    ],
+    "text": "elections, meetings, courts and so forth. As Lord Mansfield said in sweeping terms, the",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.05,
+      100.09,
+      167.08,
+      113.37
+    ],
+    "text": "mandamus:",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      144.05,
+      127.86,
+      542.76,
+      141.14
+    ],
+    "text": "'was introduced, to prevent disorder from a failure of justice, and defect of police",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      144.05,
+      155.36,
+      542.91,
+      168.64
+    ],
+    "text": "Therefore, it ought to be used upon all occasions where the law has established no",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      144.05,
+      183.11,
+      542.8,
+      196.39
+    ],
+    "text": "specific remedy, and where in justice and good government there ought to be",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      144.05,
+      210.64,
+      542.78,
+      223.92
+    ],
+    "text": "one....The value of the matter, or the degree of its importance to the public police,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      144.05,
+      238.14,
+      542.74,
+      251.42
+    ],
+    "text": "is not scrupulously weighed. If there be a right, and no other specific remedy, this",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      144.05,
+      265.91,
+      542.69,
+      279.19
+    ],
+    "text": "should not be denied. Writs of mandamus have been granted, to admit lecturers,",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      144.05,
+      293.41,
+      542.83,
+      306.69
+    ],
+    "text": "clerks, sextons, and scavengers,... to restore an alderman to precedency, an",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      144.05,
+      321.16,
+      343.15,
+      334.44
+    ],
+    "text": "attorney to practice in an inferior court..",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.05,
+      348.68,
+      542.68,
+      361.96
+    ],
+    "text": "This statement was made in a case where a writ of mandamus was issued for the admission",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.05,
+      376.18,
+      542.74,
+      389.46
+    ],
+    "text": "of a Presbyterian preacher whose only title was under a trust deed. It was clarified that",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.05,
+      403.93,
+      543.08,
+      417.21
+    ],
+    "text": "duty enforced did not need to be statutory or under royal charter. Furthermore, in that",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.05,
+      431.46,
+      542.81,
+      444.74
+    ],
+    "text": "case, the duty was public only in the sense that it was a duty to execute a charitable trust.",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.05,
+      458.96,
+      542.64,
+      472.24
+    ],
+    "text": "This was a departure from previous practice where mandamus used to be employed for",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.05,
+      486.71,
+      543.16,
+      499.99
+    ],
+    "text": "enforcing the admission of copyholders in manors only in cases where it was a matter of",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      108.05,
+      513.29,
+      278.88,
+      527.51
+    ],
+    "text": "private duty.\u201d1 [Emphasis is mine]",
+    "fonts": [
+      "TimesNewRomanPS-BoldItal",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.03,
+      577.48,
+      132.3,
+      590.76
+    ],
+    "text": "Conclusion",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.03,
+      613.01,
+      543.07,
+      626.29
+    ],
+    "text": "In the above circumstances, it is my view that a Writ of Mandamus would certainly lie in favour",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.03,
+      639.82,
+      542.95,
+      654.04
+    ],
+    "text": "of the Petitioners, to compel at least the 1st to 3rd Respondents to carry out their official duties,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.03,
+      671.79,
+      542.72,
+      710.1
+    ],
+    "text": "1Wade, W., & Forsyth, C. (12th Edition, Oxford University Press 2023). Administrative Law, Part 7 Chapter 16, pp. 493-494.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.5,
+      7.0,
+      10.0,
+      11.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.03,
+      724.78,
+      315.13,
+      754.09
+    ],
+    "text": "14",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.03,
+      71.65,
+      543.1,
+      85.87
+    ],
+    "text": "either by removing an unauthorized construction or by prosecuting the 8th Respondent before the",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.03,
+      100.09,
+      543.15,
+      113.37
+    ],
+    "text": "relevant forum. Further, order Rs. 31,500/- (Thirty-One Thousand Five Hundred Rupees) as cost",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      72.03,
+      126.92,
+      379.4,
+      141.14
+    ],
+    "text": "of litigation payable by the 8th Respondent to the 1st Petitioner.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      334.4,
+      199.14,
+      543.23,
+      212.42
+    ],
+    "text": "JUDGE OF THE COURT OF APPEAL",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  }
+]
