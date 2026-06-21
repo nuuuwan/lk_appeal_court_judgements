@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--20_18:45:22-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--21_07:20:19-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**11,209** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**11.1 GB**), from **2012-04-23** to **2026-06-19**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**11,210** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**11.1 GB**), from **2012-04-23** to **2026-07-17**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -19,16 +19,16 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-06-19-CA-WRT-0453-2022",
-    "num": "CA/WRT/0453/2022",
-    "date_str": "2026-06-19",
-    "description": "Daya Group Limited, And others Vs Peoples Bank, and Others Daya Group Limited, And others Vs Peoples Bank, and Others View More before Hon. Dr. Sumudu Premachandra J.",
+    "doc_id": "2026-07-17-CA-PHC-APN-0072-2019",
+    "num": "CA/PHC/APN/0072/2019",
+    "date_str": "2026-07-17",
+    "description": "Mudugamuwa Arachchige Vs. The Hon. Attorney General Mudugamuwa Arachchige Vs. The Hon. Attorney General View More before Hon. ACHALA WENGAPPULI, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-Writ-453-22-FINAL.pdf",
-    "parties": "Daya Group Limited, And others Vs Peoples Bank, and Others Daya Group Limited, And others Vs Peoples Bank, and Others View More",
-    "judgement_by": "Hon. Dr. Sumudu Premachandra J.",
-    "keywords": "Question of Arguability, Arguability Principles, \u201cprinciples\u201d of the duty of Candour, failed to adduce any acceptable reason to excuse the delay.",
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/c.a.phc-apn-72-2019.pdf",
+    "parties": "Mudugamuwa Arachchige Vs. The Hon. Attorney General Mudugamuwa Arachchige Vs. The Hon. Attorney General View More",
+    "judgement_by": "Hon. ACHALA WENGAPPULI, J.",
+    "keywords": "",
     "legistation": ""
 }
 ```
@@ -44,6 +44,7 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-07-17 | `CA/PHC/APN/0072/2019` | Mudugamuwa Arachchige Vs. The Hon. Attorney General Mudugamuwa Arachchige Vs. The Hon. Attorney General View More before Hon. ACHALA WENGAPPULI, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-07-17-CA-PHC-APN-0072-2019)
 - 2026-06-19 | `CA/WRT/0453/2022` | Daya Group Limited, And others Vs Peoples Bank, and Others Daya Group Limited, And others Vs Peoples Bank, and Others View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-19-CA-WRT-0453-2022)
 - 2026-06-19 | `CA/PHC/0084/2020` | Ranasinghe Arachchillage Sudharma Rathnaweera Vs. Director General of Irrigation and Others Ranasinghe Arachchillage Sudharma Rathnaweera Vs. Director General of Irrigation and Others View More before Hon. K. M. S. Dissanayake, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-19-CA-PHC-0084-2020)
 - 2026-06-19 | `CA/HCC/0267-0268/2023` | Suse Anthony Reji and other Vs. The Hon. Attorney General Suse Anthony Reji and other Vs. The Hon. Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-19-CA-HCC-0267-0268-2023)
@@ -63,7 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-06-12 | `CA/WRIT/91/2024` | Dissanayake Mudiyanselage Gunasekara Bandara v. Justice Anil Gooneratne, Chairman, Administrative Appeals Tribunal and 9 others Dissanayake Mudiyanselage Gunasekara Bandara v. Justice Anil Gooneratne, Chairman, Administrative Appeals Tribunal and 9 others View More before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA-WRIT-91-2024)
 - 2026-06-12 | `CA/WRIT/0091/2024` | Dissanayake Mudiyanselage Gunasekara Bandara v. Justice Anil Gooneratne, Chairman, Administrative Appeals Tribunal and 9 others Dissanayake Mudiyanselage Gunasekara Bandara v. Justice Anil Gooneratne, Chairman, Administrative Appeals Tribunal and 9 others View More before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA-WRIT-0091-2024)
 - 2026-06-12 | `CA/RII/47/2024` | R.M.N. Lechchaman Chettiar of Keelapungudi, & Appearing by his Power of Attorney Holder Pathmanaban Chettiar, Vs. L.A. Alice Nona R.M.N. Lechchaman Chettiar of Keelapungudi, & Appearing by his Power of Attorney Holder Pathmanaban Chettiar, Vs. L.A. Alice Nona View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA-RII-47-2024)
-- 2026-06-12 | `CA/RII/0047/2024` | R.M.N. Lechchaman Chettiar of Keelapungudi, & Appearing by his Power of Attorney Holder Pathmanaban Chettiar, Vs. L.A. Alice Nona R.M.N. Lechchaman Chettiar of Keelapungudi, & Appearing by his Power of Attorney Holder Pathmanaban Chettiar, Vs. L.A. Alice Nona View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA-RII-0047-2024)
 
 ---
 
