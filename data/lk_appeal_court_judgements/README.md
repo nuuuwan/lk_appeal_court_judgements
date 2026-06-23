@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23_07:04:34-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--23_19:09:20-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**11,227** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**11.1 GB**), from **2012-04-23** to **2026-07-17**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**11,229** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**11.1 GB**), from **2012-04-23** to **2026-07-17**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -45,6 +45,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ## 🆕 20 Latest documents
 
 - 2026-07-17 | `CA/PHC/APN/0072/2019` | Mudugamuwa Arachchige Vs. The Hon. Attorney General Mudugamuwa Arachchige Vs. The Hon. Attorney General View More before Hon. ACHALA WENGAPPULI, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-07-17-CA-PHC-APN-0072-2019)
+- 2026-06-22 | `CA HCC 0116/2024` | Faruq Mohomad Saali alias Bega alias Salaldeen Mohomad Sali Vs.The Hon. Attorney General, Faruq Mohomad Saali alias Bega alias Salaldeen Mohomad Sali Vs.The Hon. Attorney General, View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-22-CA-HCC-0116-2024)
+- 2026-06-19 | `PHC/0108/22` | Karawita Vidanalage Dona Theja Karawita And Another Vs. Vajira Lalani Gunasekara and 4 Others. Karawita Vidanalage Dona Theja Karawita And Another Vs. Vajira Lalani Gunasekara and 4 Others. View More before Hon. K. M. S. Dissanayake, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-19-PHC-0108-22)
 - 2026-06-19 | `CA/WRT/0453/2022` | Daya Group Limited, And others Vs Peoples Bank, and Others Daya Group Limited, And others Vs Peoples Bank, and Others View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-19-CA-WRT-0453-2022)
 - 2026-06-19 | `CA/PHC/0084/2020` | Ranasinghe Arachchillage Sudharma Rathnaweera Vs. Director General of Irrigation and Others Ranasinghe Arachchillage Sudharma Rathnaweera Vs. Director General of Irrigation and Others View More before Hon. K. M. S. Dissanayake, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-19-CA-PHC-0084-2020)
 - 2026-06-19 | `CA/HCC/0267-0268/2023` | Suse Anthony Reji and other Vs. The Hon. Attorney General Suse Anthony Reji and other Vs. The Hon. Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-19-CA-HCC-0267-0268-2023)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-06-17 | `CA/HCC/0009/2024` | Weerakoon Mudiyanselage Ranjith Bandara Weerakoon Vs. The Attorney General Weerakoon Mudiyanselage Ranjith Bandara Weerakoon Vs. The Attorney General View More before Hon. P. Kumararatnam, | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-17-CA-HCC-0009-2024)
 - 2026-06-15 | `CA/HCC/0179/2023` | Sinnathamby Pathmanathan Vs. The Attorney General, Sinnathamby Pathmanathan Vs. The Attorney General, View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-15-CA-HCC-0179-2023)
 - 2026-06-15 | `CA/HCC/0069/2024` | Rathnayake Mudiyanselage Nimal Rathnayake Vs. The Attorney General Rathnayake Mudiyanselage Nimal Rathnayake Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-15-CA-HCC-0069-2024)
-- 2026-06-15 | `CA/HCC/0064/2023` | The Attorney General, Vs. Weerasinghe Dinesh Sudantha Silva alias Deepa The Attorney General, Vs. Weerasinghe Dinesh Sudantha Silva alias Deepa View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-15-CA-HCC-0064-2023)
-- 2026-06-12 | `CA/WRT/0091/2024` | Dissanayake Mudiyanselage Gunasekara Bandara Vs. Justice Anil Gooneratne, Chairman, Administrative Appeals Tribunal and 9 Others Dissanayake Mudiyanselage Gunasekara Bandara Vs. Justice Anil Gooneratne, Chairman, Administrative Appeals Tribunal and 9 Others View More before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-12-CA-WRT-0091-2024)
 
 ---
 
