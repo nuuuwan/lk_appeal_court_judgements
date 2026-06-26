@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--26_07:06:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--26_18:57:22-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**11,234** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**11.1 GB**), from **2012-04-23** to **2026-07-17**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**11,236** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**11.1 GB**), from **2012-04-23** to **2026-07-17**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (100%), **TXT** (100%) & **🤗 Hugging Face** (100%)
 
@@ -45,6 +45,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ## 🆕 20 Latest documents
 
 - 2026-07-17 | `CA/PHC/APN/0072/2019` | Mudugamuwa Arachchige Vs. The Hon. Attorney General Mudugamuwa Arachchige Vs. The Hon. Attorney General View More before Hon. ACHALA WENGAPPULI, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-07-17-CA-PHC-APN-0072-2019)
+- 2026-06-26 | `CA/WRIT/201/2022` | Chandrasena Ranasinghe v. A. H. M. L. Aberathne, Commissioner General of Agrarian Service 3 others Chandrasena Ranasinghe v. A. H. M. L. Aberathne, Commissioner General of Agrarian Service 3 others View More before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-26-CA-WRIT-201-2022)
+- 2026-06-26 | `CA/PHC/0101/2019` | Samarasena Arachchige SumedaVs. Urban Development Authority Samarasena Arachchige SumedaVs. Urban Development Authority View More before Hon. K. M. S. Dissanayake, J | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-26-CA-PHC-0101-2019)
 - 2026-06-25 | `HCC/272/2019` | The Democratic Socialist Republic of Sri Lanka. Vs. 01.Sathruwange Sudath Jayantha Silva & Others The Democratic Socialist Republic of Sri Lanka. Vs. 01.Sathruwange Sudath Jayantha Silva & Others View More before Hon. B. Sasi Mahendran, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-25-HCC-272-2019)
 - 2026-06-25 | `CA-TAX 03-20` | LOLC Finance PLC Vs. Commissioner General of Inland Revenue LOLC Finance PLC Vs. Commissioner General of Inland Revenue View More before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-25-CA-TAX-03-20)
 - 2026-06-24 | `CA/HCC/0071/2023` | Alagiyawannage Rasika Niroshan Mendis Vs. The Attorney General, Alagiyawannage Rasika Niroshan Mendis Vs. The Attorney General, View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-24-CA-HCC-0071-2023)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-06-18 | `CA/TAX/0047/2023` | Senkadagala Finance PLC Vs. Commissioner General of Inland Revenue Senkadagala Finance PLC Vs. Commissioner General of Inland Revenue View More before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-18-CA-TAX-0047-2023)
 - 2026-06-18 | `CA/TAX/0044/2019` | The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited The Commissioner General of Inland Revenue Vs. Hedges Court Residencies (Private) Limited View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-18-CA-TAX-0044-2019)
 - 2026-06-18 | `CA/HCC/0154/2017` | Kandasamy Jegatheeswaran Vs. The Hon. Attorney General Kandasamy Jegatheeswaran Vs. The Hon. Attorney General View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-18-CA-HCC-0154-2017)
-- 2026-06-18 | `CA/HCC/ 0011/2023` | Abdul Kareem Nasheer Vs. The Attorney General Abdul Kareem Nasheer Vs. The Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-18-CA-HCC--0011-2023)
-- 2026-06-18 | `CA (HCC) 0227/2023` | Murugan Nadaraja alias Raja Vs. The Attorney General, Murugan Nadaraja alias Raja Vs. The Attorney General, View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-06-18-CA--HCC--0227-2023)
 
 ---
 
