@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-07-24 06:39:33",
-  "n_docs": 11303,
-  "n_docs_with_pdfs": 11278,
-  "n_docs_with_text": 11278,
+  "time_updated": "2026-07-24 18:41:05",
+  "n_docs": 11309,
+  "n_docs_with_pdfs": 11284,
+  "n_docs_with_text": 11284,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2012-04-23",
-  "date_str_max": "2026-07-17",
-  "dataset_size": 11133448095,
+  "date_str_max": "2026-07-23",
+  "dataset_size": 11136667092,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-07-17-CA-PHC-APN-0072-2019",
-    "num": "CA/PHC/APN/0072/2019",
-    "date_str": "2026-07-17",
-    "description": "Mudugamuwa Arachchige Vs. The Hon. Attorney General Mudugamuwa Arachchige Vs. The Hon. Attorney General View More before Hon. ACHALA WENGAPPULI, J.",
+    "doc_id": "2026-07-23-CA-WRT-0177-2025",
+    "num": "CA/WRT/0177/2025",
+    "date_str": "2026-07-23",
+    "description": "Ceylon Chocolates Limited Vs. Prof. Anil Jayantha Fernando, Minister of Labour Ceylon Chocolates Limited Vs. Prof. Anil Jayantha Fernando, Minister of Labour View More before Hon. Adithya Patabendige, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/c.a.phc-apn-72-2019.pdf",
-    "parties": "Mudugamuwa Arachchige Vs. The Hon. Attorney General Mudugamuwa Arachchige Vs. The Hon. Attorney General View More",
-    "judgement_by": "Hon. ACHALA WENGAPPULI, J.",
-    "keywords": "",
-    "legistation": ""
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-WRT-0177-2025.pdf",
+    "parties": "Ceylon Chocolates Limited Vs. Prof. Anil Jayantha Fernando, Minister of Labour Ceylon Chocolates Limited Vs. Prof. Anil Jayantha Fernando, Minister of Labour View More",
+    "judgement_by": "Hon. Adithya Patabendige, J.",
+    "keywords": "Writ of Certiorari, Writ of Prohibition, Arbitrator\u2019s Power to Award Surcharge on Gratuity.",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Industrial Disputes Act, Payment of Gratuity Act."
   }
 }
