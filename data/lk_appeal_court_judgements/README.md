@@ -1,14 +1,14 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--18_19:26:53-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--22_06:41:49-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**15,698** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**12.9 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**16,031** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**13.0 GB**), from **2010-10-16** to **2026-09-25**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
-- In **JSON**, **PDF** (84%), **TXT** (84%) & **🤗 Hugging Face** (84%)
+- In **JSON**, **PDF** (83%), **TXT** (83%) & **🤗 Hugging Face** (83%)
 
 - In **English**
 
@@ -48,6 +48,8 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-09-02 | `CA/HCC/ 0226-0228/2019` | Samarakkody Arachchilage Gamini Weerasinghe alias Yakada Gamini and others Vs The Hon. Attorney General Samarakkody Arachchilage Gamini Weerasinghe alias Yakada Gamini and others Vs The Hon. Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-09-02-CA-HCC--0226-0228-2019)
 - 2026-08-07 | `CA/WRT/343/2022` | Dr. Iromi Nisansala Manike Ariyaratne, Vs. University of Peradeniya, Peradeniya. & Others Dr. Iromi Nisansala Manike Ariyaratne, Vs. University of Peradeniya, Peradeniya. & Others View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-07-CA-WRT-343-2022)
 - 2026-08-07 | `CA/WRT/0711/2023` | Punchi Bandage Sarath Gamini Herath Vs. Mahaweli Authority of Sri Lanka and 17 others. Punchi Bandage Sarath Gamini Herath Vs. Mahaweli Authority of Sri Lanka and 17 others. View More before Hon. Mahen Gopallawa, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-07-CA-WRT-0711-2023)
+- 2026-08-07 | `CA/WKF/03/2025` | Mohamed Usman Abubakkar of Buhary Mosque and Madrasa, Weligama and Others Vs M.T.M Areel and Others Mohamed Usman Abubakkar of Buhary Mosque and Madrasa, Weligama and Others Vs M.T.M Areel and Others View More before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-07-CA-WKF-03-2025)
+- 2026-08-07 | `CA/WKF/02/2024` | Mohamed Ibrahim Mohamed Kaamil and Others Vs M.T.M Areel and Others Mohamed Ibrahim Mohamed Kaamil and Others Vs M.T.M Areel and Others View More before Hon.Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-07-CA-WKF-02-2024)
 - 2026-08-07 | `CA/PHC/134/2023` | Officer-In-Charge, Police Station, Polpithigama Vs. Subasinghe Arachchilage Akila Niroshana Sanjeewa, Officer-In-Charge, Police Station, Polpithigama Vs. Subasinghe Arachchilage Akila Niroshana Sanjeewa, View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-07-CA-PHC-134-2023)
 - 2026-08-07 | `CA/HCC/227-230/2025` | 1. Wanniarachchilage Susil Kumara Wanigarathne alias Karambuwa 2. Kankaniralalage Priyantha Manjula 3. Kelaniyage Nevil Shantha 4. Kelaniyage Jeewantha Sandaruwan alias Welgama Mudiyanselage Jeewantha Sandaruwan Vs. Hon. Attorney General 1. Wanniarachchilage Susil Kumara Wanigarathne alias Karambuwa 2. Kankaniralalage Priyantha Manjula 3. Kelaniyage Nevil Shantha 4. Kelaniyage Jeewantha Sandaruwan alias Welgama Mudiyanselage Jeewantha Sandaruwan Vs. Hon. Attorney General View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-07-CA-HCC-227-230-2025)
 - 2026-08-07 | `CA/HCC/0074/2024` | Hon. Attorney General, Vs. Balanthar Hanifa Rafaidheen alias Naleen Hon. Attorney General, Vs. Balanthar Hanifa Rafaidheen alias Naleen View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-07-CA-HCC-0074-2024)
@@ -62,8 +64,6 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 - 2026-08-06 | `CA/PHC/0033/2023` | A.T. Lincy Fernando Vs Hon. Attorney General A.T. Lincy Fernando Vs Hon. Attorney General View More before Amal Ranaraja, J. & Dr. Sumudu Premachandra, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-06-CA-PHC-0033-2023)
 - 2026-08-06 | `CA/LTA/005/2026` | Abdul Hadee Sarwa, Vs Mohommed Irshad Marshook, Abdul Hadee Sarwa, Vs Mohommed Irshad Marshook, View More before Hon. Amal Ranaraja J, | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-06-CA-LTA-005-2026)
 - 2026-08-06 | `CA/HCC/0205/2013` | Macklinkan Fernando alias Robin Vs Hon. Attorney General Macklinkan Fernando alias Robin Vs Hon. Attorney General View More before R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-06-CA-HCC-0205-2013)
-- 2026-08-06 | `CA/HCC/ 0343/2025` | Kompagngnage Pathmasiri Fonseka alias Piyadasa Vs The Hon. Attorney General Kompagngnage Pathmasiri Fonseka alias Piyadasa Vs The Hon. Attorney General View More before Hon. P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-06-CA-HCC--0343-2025)
-- 2026-08-04 | `CA(PHC)APN 0077/23 (HCB/Colombo 165/2022` | • The Director General Commissioner to Investigate Allegation Petitioner • Johnston Xavier Fernando and two others Respondents • The Director General Commissioner to Investigate Allegation Petitioner • Johnston Xavier Fernando and two others Respondents View More before Hon.P. Kumararatnam, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-08-04-CA-PHC-APN-0077-23--HCB-c5db4c28)
 
 ---
 
