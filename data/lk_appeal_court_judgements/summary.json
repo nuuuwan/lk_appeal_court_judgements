@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-11-01 18:23:49",
-  "n_docs": 18808,
-  "n_docs_with_pdfs": 14526,
-  "n_docs_with_text": 14526,
+  "time_updated": "2026-11-03 18:26:19",
+  "n_docs": 18818,
+  "n_docs_with_pdfs": 14534,
+  "n_docs_with_text": 14534,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-10-16",
-  "date_str_max": "2026-10-30",
-  "dataset_size": 14134787588,
+  "date_str_max": "2026-11-03",
+  "dataset_size": 14139951278,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-10-30-CA-Writ-366-2020",
-    "num": "CA/Writ/366/2020",
-    "date_str": "2026-10-30",
-    "description": "Happitiya Kariyakaranage Kamalawathie Vs. R. H. S. Priyadarshana & Others Happitiya Kariyakaranage Kamalawathie Vs. R. H. S. Priyadarshana & Others View More before Hon. Dr. Sumudu Premachandra J.",
+    "doc_id": "2026-11-03-CA-WRT-689-2024",
+    "num": "CA/WRT/689/2024",
+    "date_str": "2026-11-03",
+    "description": "Electro Plastics (Private) Limited, Vs. Mrs Sasidevi Jaladeepan Electro Plastics (Private) Limited, Vs. Mrs Sasidevi Jaladeepan View More before Hon. Adithya Patabendige, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-Writ-366-20-final.pdf",
-    "parties": "Happitiya Kariyakaranage Kamalawathie Vs. R. H. S. Priyadarshana & Others Happitiya Kariyakaranage Kamalawathie Vs. R. H. S. Priyadarshana & Others View More",
-    "judgement_by": "Hon. Dr. Sumudu Premachandra J.",
-    "keywords": "Possession is immaterial for succession on LDO permits. Actual Possession, Constructive Possession, in succession wish of the permit holder to be fulfilled.",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, sections; 49, 62, 68(2), 72 and161 of the Land Development Ordinance."
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-WRT-0689-2024.pdf",
+    "parties": "Electro Plastics (Private) Limited, Vs. Mrs Sasidevi Jaladeepan Electro Plastics (Private) Limited, Vs. Mrs Sasidevi Jaladeepan View More",
+    "judgement_by": "Hon. Adithya Patabendige, J.",
+    "keywords": "Writs of Certiorari, Specific Statutory Remedy, Prior Judicial Determinations, Laches, Expiry of the Impugned Caveats.",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Sections 32 and 33 of the Registration of Documents Ordinance, as amended by Act No. 32 of 2022."
   }
 }

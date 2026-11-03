@@ -1,12 +1,12 @@
 # ⚖️#SriLanka 🇱🇰 Appeal Court Judgements `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_18:23:59-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--03_18:26:25-green)
 
 [https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements)
 
 A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens’ rights.
 
-- [**18,808** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**14.1 GB**), from **2010-10-16** to **2026-10-30**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
+- [**18,818** documents](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements) (**14.1 GB**), from **2010-10-16** to **2026-11-03**, scraped from [https://courtofappeal.lk](https://courtofappeal.lk)
 
 - In **JSON**, **PDF** (77%), **TXT** (77%) & **🤗 Hugging Face** (77%)
 
@@ -19,17 +19,17 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 ```json
 {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-10-30-CA-Writ-366-2020",
-    "num": "CA/Writ/366/2020",
-    "date_str": "2026-10-30",
-    "description": "Happitiya Kariyakaranage Kamalawathie Vs. R. H. S. Priyadarshana & Others Happitiya Kariyakaranage Kamalawathie Vs. R. H. S. Priyadarshana & Others View More before Hon. Dr. Sumudu Premachandra J.",
+    "doc_id": "2026-11-03-CA-WRT-689-2024",
+    "num": "CA/WRT/689/2024",
+    "date_str": "2026-11-03",
+    "description": "Electro Plastics (Private) Limited, Vs. Mrs Sasidevi Jaladeepan Electro Plastics (Private) Limited, Vs. Mrs Sasidevi Jaladeepan View More before Hon. Adithya Patabendige, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-Writ-366-20-final.pdf",
-    "parties": "Happitiya Kariyakaranage Kamalawathie Vs. R. H. S. Priyadarshana & Others Happitiya Kariyakaranage Kamalawathie Vs. R. H. S. Priyadarshana & Others View More",
-    "judgement_by": "Hon. Dr. Sumudu Premachandra J.",
-    "keywords": "Possession is immaterial for succession on LDO permits. Actual Possession, Constructive Possession, in succession wish of the permit holder to be fulfilled.",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, sections; 49, 62, 68(2), 72 and161 of the Land Development Ordinance."
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-WRT-0689-2024.pdf",
+    "parties": "Electro Plastics (Private) Limited, Vs. Mrs Sasidevi Jaladeepan Electro Plastics (Private) Limited, Vs. Mrs Sasidevi Jaladeepan View More",
+    "judgement_by": "Hon. Adithya Patabendige, J.",
+    "keywords": "Writs of Certiorari, Specific Statutory Remedy, Prior Judicial Determinations, Laches, Expiry of the Impugned Caveats.",
+    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Sections 32 and 33 of the Registration of Documents Ordinance, as amended by Act No. 32 of 2022."
 }
 ```
 
@@ -44,26 +44,26 @@ A Court of Appeal judgment is a higher court ruling that reviews decisions of lo
 
 ## 🆕 20 Latest documents
 
+- 2026-11-03 | `CA/WRT/689/2024` | Electro Plastics (Private) Limited, Vs. Mrs Sasidevi Jaladeepan Electro Plastics (Private) Limited, Vs. Mrs Sasidevi Jaladeepan View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-11-03-CA-WRT-689-2024)
 - 2026-10-30 | `CA/Writ/366/2020` | Happitiya Kariyakaranage Kamalawathie Vs. R. H. S. Priyadarshana & Others Happitiya Kariyakaranage Kamalawathie Vs. R. H. S. Priyadarshana & Others View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-30-CA-Writ-366-2020)
 - 2026-10-30 | `CA/WRT/24/2025` | Nambukara Appukapuge Hudson Kumara Vs. Consumer Affairs Authority Nambukara Appukapuge Hudson Kumara Vs. Consumer Affairs Authority View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-30-CA-WRT-24-2025)
 - 2026-10-30 | `CA/WRT/22/2025` | Wanigasuriya Arachchige Charunda Prasad Vs. Consumer Affairs Authority Wanigasuriya Arachchige Charunda Prasad Vs. Consumer Affairs Authority View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-30-CA-WRT-22-2025)
+- 2026-10-30 | `CA/HCC/72/2023` | Govinthan Kanapathy Ganeshan Vs. The Hon. Attorney General Govinthan Kanapathy Ganeshan Vs. The Hon. Attorney General View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-30-CA-HCC-72-2023)
+- 2026-10-30 | `CA/HCC/0172-0173/2024` | 1. Kamburugama Loku Acharige Chaminda Kumara 2. Sube Appu Kankanamlage Anura Dharmapriya Weerawardena Vs. The Hon. Attorney General 1. Kamburugama Loku Acharige Chaminda Kumara 2. Sube Appu Kankanamlage Anura Dharmapriya Weerawardena Vs. The Hon. Attorney General View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-30-CA-HCC-0172-0173-2024)
 - 2026-10-29 | `CA/TAX/7/2016` | THE COMMISSIONER GENERAL OF INLAND REVENUE Vs. MACKINNONS TRAVELS (PRIVATE) LIMITED THE COMMISSIONER GENERAL OF INLAND REVENUE Vs. MACKINNONS TRAVELS (PRIVATE) LIMITED View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-29-CA-TAX-7-2016)
 - 2026-10-29 | `CA/TAX/47/2022` | RESUS ENERGY PLC Vs.THE COMMISSIONER GENERAL OF INLAND REVENUE RESUS ENERGY PLC Vs.THE COMMISSIONER GENERAL OF INLAND REVENUE View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-29-CA-TAX-47-2022)
 - 2026-10-29 | `CA/TAX/42/2022` | RESUS ENERGY PLC Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE RESUS ENERGY PLC Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-29-CA-TAX-42-2022)
 - 2026-10-29 | `CA/TAX/3/2022` | RESUS ENERGY PLC Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE RESUS ENERGY PLC Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-29-CA-TAX-3-2022)
+- 2026-10-29 | `CA/TAX/23/2022` | Access Engineering PLC Vs. The Commissioner General of Inland Revenue Access Engineering PLC Vs. The Commissioner General of Inland Revenue View More before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-29-CA-TAX-23-2022)
+- 2026-10-29 | `CA/TAX/211/2024` | Ceylinco Holdings PLC Vs. The Commissioner General of Inland Revenue Ceylinco Holdings PLC Vs. The Commissioner General of Inland Revenue View More before Hon.M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-29-CA-TAX-211-2024)
 - 2026-10-29 | `CA/TAX/20/2021` | RESUS ENERGY PLC Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE RESUS ENERGY PLC Vs. THE COMMISSIONER GENERAL OF INLAND REVENUE View More before Hon.Annalingam Premashanker, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-29-CA-TAX-20-2021)
+- 2026-10-29 | `CA/TAX/10/2020, CA/TAX/11/2020` | S.G. Logistics (Private) Limited Vs. Commissioner General of Inland Revenue S.G. Logistics (Private) Limited Vs. Commissioner General of Inland Revenue View More before Hon. M.C.B.S. Morais J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-29-CA-TAX-10-2020--CA-TAX-11-2020)
 - 2026-10-29 | `CA/HCC/164/2025` | Galgoda Manannalage Gunapala alias Galgodayalaya Gunadasa Vs. The Hon. Attorney General Galgoda Manannalage Gunapala alias Galgodayalaya Gunadasa Vs. The Hon. Attorney General View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-29-CA-HCC-164-2025)
 - 2026-10-28 | `CA/WRT/509/2023` | Centre for Environmental Justice (Guarantee) Limited & Others Vs. Central Environmental Authority & Others Centre for Environmental Justice (Guarantee) Limited & Others Vs. Central Environmental Authority & Others View More before Hon. B. Sasi Mahendran J, | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-28-CA-WRT-509-2023)
 - 2026-10-26 | `CA/Writ/119/2023` | Maskeliya Plantations PLC Vs. Minister of Tourism and Land, and Others Maskeliya Plantations PLC Vs. Minister of Tourism and Land, and Others View More before Hon. Dr. D. F. H. Gunawardhana, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-26-CA-Writ-119-2023)
 - 2026-10-26 | `CA/PHC/17/2023` | Mukaiya Murugaiya Vs.Conservator General of Forest and Another Mukaiya Murugaiya Vs.Conservator General of Forest and Another View More before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-26-CA-PHC-17-2023)
 - 2026-10-26 | `CA/BOR/2/2025` | Kekulawalage Don Dayakeerthi Piyasundara Vs. Buddhi Tharanga Karunasena. Kekulawalage Don Dayakeerthi Piyasundara Vs. Buddhi Tharanga Karunasena. View More before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-26-CA-BOR-2-2025)
 - 2026-10-23 | `CA/WRT/326/2025` | Halpita Acharige Anura Chandralal Vs. Director of Pensions, Department of Pension Halpita Acharige Anura Chandralal Vs. Director of Pensions, Department of Pension View More before Hon. Adithya Patabendige, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-23-CA-WRT-326-2025)
-- 2026-10-23 | `CA/PHC/137/22` | TAIAN LANKA STEEL COMPANY PRIVATE LIMITED Vs. EASTERN MARKETING AND HARDWARES TAIAN LANKA STEEL COMPANY PRIVATE LIMITED Vs. EASTERN MARKETING AND HARDWARES View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-23-CA-PHC-137-22)
-- 2026-10-23 | `CA/HCC/88/2025` | Viyanage Sanjeewa Anil Jayasinghe Vs. The Hon. Attorney General Viyanage Sanjeewa Anil Jayasinghe Vs. The Hon. Attorney General View More before Hon. Amal Ranaraja, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-23-CA-HCC-88-2025)
-- 2026-10-20 | `CA/PHC/62/18` | Galukagama Lekamge Pradeep Kumara. Vs Ratnapura Municipal Council, Ratnapura and Others. Galukagama Lekamge Pradeep Kumara. Vs Ratnapura Municipal Council, Ratnapura and Others. View More before Hon.Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-20-CA-PHC-62-18)
-- 2026-10-20 | `CA/PHC/138/23` | Sinniah Amirthalingam Delvin (B Division) Vs Weerappulige Chandana Saman Kumara Rathnayaka Sinniah Amirthalingam Delvin (B Division) Vs Weerappulige Chandana Saman Kumara Rathnayaka View More before Hon. Damith Thotawatte, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-20-CA-PHC-138-23)
-- 2026-10-16 | `CA/HCC/37/2025` | Pichchamuththu Ramar Vs. Hon. Attorney General Pichchamuththu Ramar Vs. Hon. Attorney General View More before Hon. R.P. Hettiarachchi, J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-16-CA-HCC-37-2025)
-- 2026-10-16 | `CA/HCC/140/2025` | The Democratic Socialist Republic of Sri Lanka Vs. Mohommed Rahamathulla Mohommed Farshad The Democratic Socialist Republic of Sri Lanka Vs. Mohommed Rahamathulla Mohommed Farshad View More before Hon. Dr. Sumudu Premachandra J. | [data](https://github.com/nuuuwan/lk_appeal_court_judgements/tree/data/data/lk_appeal_court_judgements/2020s/2026/2026-10-16-CA-HCC-140-2025)
 
 ---
 
