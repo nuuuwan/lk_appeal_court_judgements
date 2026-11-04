@@ -2,15 +2,15 @@
   "doc_class_label": "lk_appeal_court_judgements",
   "doc_class_emoji": "\u2696\ufe0f",
   "doc_class_description": "A Court of Appeal judgment is a higher court ruling that reviews decisions of lower courts, shaping legal precedent and protecting citizens\u2019 rights.",
-  "time_updated": "2026-11-04 06:35:01",
-  "n_docs": 18818,
-  "n_docs_with_pdfs": 14536,
-  "n_docs_with_text": 14536,
+  "time_updated": "2026-11-04 18:27:29",
+  "n_docs": 18827,
+  "n_docs_with_pdfs": 14541,
+  "n_docs_with_text": 14541,
   "n_docs_with_excel": 0,
   "n_docs_with_tabular": 0,
   "date_str_min": "2010-10-16",
-  "date_str_max": "2026-11-03",
-  "dataset_size": 14144546400,
+  "date_str_max": "2026-11-04",
+  "dataset_size": 14146492288,
   "url_source_list": [
     "https://courtofappeal.lk"
   ],
@@ -21,16 +21,16 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_appeal_court_judgements",
-    "doc_id": "2026-11-03-CA-WRT-689-2024",
-    "num": "CA/WRT/689/2024",
-    "date_str": "2026-11-03",
-    "description": "Electro Plastics (Private) Limited, Vs. Mrs Sasidevi Jaladeepan Electro Plastics (Private) Limited, Vs. Mrs Sasidevi Jaladeepan View More before Hon. Adithya Patabendige, J.",
+    "doc_id": "2026-11-04-CA-HCC-179-2019",
+    "num": "CA/HCC/179/2019",
+    "date_str": "2026-11-04",
+    "description": "Devate Gedera Rajarathne Vs. The Attorney General Devate Gedera Rajarathne Vs. The Attorney General View More before Hon. P. Kumararatnam, J.",
     "url_metadata": "https://courtofappeal.lk/judgements/?case_year=2026&month=&judgment_by=",
     "lang": "en",
-    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/CA-WRT-0689-2024.pdf",
-    "parties": "Electro Plastics (Private) Limited, Vs. Mrs Sasidevi Jaladeepan Electro Plastics (Private) Limited, Vs. Mrs Sasidevi Jaladeepan View More",
-    "judgement_by": "Hon. Adithya Patabendige, J.",
-    "keywords": "Writs of Certiorari, Specific Statutory Remedy, Prior Judicial Determinations, Laches, Expiry of the Impugned Caveats.",
-    "legistation": "Article 140 of the Constitution of the Democratic Socialist Republic of Sri Lanka, Sections 32 and 33 of the Registration of Documents Ordinance, as amended by Act No. 32 of 2022."
+    "url_pdf": "https://courtofappeal.lk/wp-content/uploads/judgements/Court-of-Appeal-JUDGMENT.CA_.HCC-179.19.pdf",
+    "parties": "Devate Gedera Rajarathne Vs. The Attorney General Devate Gedera Rajarathne Vs. The Attorney General View More",
+    "judgement_by": "Hon. P. Kumararatnam, J.",
+    "keywords": "Eye witness. \u2022 Credibility of the eye witness.",
+    "legistation": "The Penal Code"
   }
 }
